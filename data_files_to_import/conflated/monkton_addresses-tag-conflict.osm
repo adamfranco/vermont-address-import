@@ -14,34 +14,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162664"/>
   </node>
-  <node id="-208" visible="true" lat="44.25861741" lon="-73.13208468">
-    <!-- conflict: "23 Abcd Lane, , VT" Fuzzy match to "23 A B C D Lane, Monkton, VT" -->
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Abcd Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="162697"/>
-  </node>
-  <node id="-216" visible="true" lat="44.2578338" lon="-73.13183563">
-    <!-- conflict: "77 Abcd Lane, , VT" Fuzzy match to "77 A B C D Lane, Monkton, VT" -->
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="Abcd Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="162705"/>
-  </node>
-  <node id="-228" visible="true" lat="44.25696945" lon="-73.13162994">
-    <!-- conflict: "137 Abcd Lane, , VT" Fuzzy match to "137 A B C D Lane, Monkton, VT" -->
-    <tag k="addr:housenumber" v="137"/>
-    <tag k="addr:street" v="Abcd Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="162717"/>
-  </node>
-  <node id="-238" visible="true" lat="44.2562561" lon="-73.13136291">
-    <!-- conflict: "187 Abcd Lane, , VT" Fuzzy match to "187 A B C D Lane, Monkton, VT" -->
-    <tag k="addr:housenumber" v="187"/>
-    <tag k="addr:street" v="Abcd Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="162727"/>
-  </node>
   <node id="-279" visible="true" lat="44.25392878" lon="-73.12418797">
     <!-- conflict: "280 Monkton Ridge, , VT" No match in OSM, but a different address exists <5m away: "278 Monkton Ridge, Monkton, VT" -->
     <tag k="addr:housenumber" v="280"/>

@@ -482,6 +482,11 @@ function normalize_street_base_name($street_name) {
         }
     }
 
+    // Monkton has a street named "A B C D" that exists in E911 as "ABCD".
+    if ($street_name_title_cased == "Abcd") {
+        $street_name_title_cased = "A B C D";
+    }
+
     return $street_name_title_cased;
 }
 
