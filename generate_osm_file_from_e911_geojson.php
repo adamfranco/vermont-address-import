@@ -473,6 +473,15 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Doctor " . $matches[1];
     }
 
+    // Warren has a street name that includes Ctr abbreviated in the middle of
+    // the name "Sports Ctr Drive". (esiteid: 271477, 271493)
+    if(preg_match('/^(.+) Ctr( .*)?$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . " Center";
+        if (!empty($matches[2])) {
+            $street_name_title_cased .= $matches[2];
+        }
+    }
+
     return $street_name_title_cased;
 }
 

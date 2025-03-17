@@ -32,14 +32,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="271486"/>
   </node>
-  <node id="-435" visible="true" lat="44.13856877" lon="-72.88859915">
-    <!-- conflict: "148 Sports Ctr Drive, Warren, VT" Fuzzy match to "148 Sports Center Drive, Warren, VT" -->
-    <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Sports Ctr Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271493"/>
-  </node>
   <node id="-759" visible="true" lat="44.11610015" lon="-72.8248102">
     <!-- conflict: "438 Woods Road South, Warren, VT" No match in OSM, but a different address exists <5m away: "354 Woods Road South, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
