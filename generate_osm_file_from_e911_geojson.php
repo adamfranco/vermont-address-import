@@ -487,6 +487,11 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "A B C D";
     }
 
+    // Northfield has a street named "I.D. White" that exists in E911 as "ID WHITE".
+    if ($street_name_title_cased == "Id White") {
+        $street_name_title_cased = "I.D. White";
+    }
+
     return $street_name_title_cased;
 }
 
