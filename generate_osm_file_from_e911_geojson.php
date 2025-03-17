@@ -296,7 +296,7 @@ if($print_errors_at_end) {
 
 function output_header($output_type) {
     if($output_type == "osm") {
-        $header = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<osm version=\"0.6\" generator=\"JOSM\">\n";
+        $header = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<osm version=\"0.6\" generator=\"JOSM\" upload=\"false\">\n";
     } elseif($output_type == "geojson") {
         $header = "{\"type\": \"FeatureCollection\", \"features\": [\n";
     } else {
