@@ -482,6 +482,15 @@ function normalize_street_base_name($street_name) {
         }
     }
 
+    // Danville has a street name that includes Meml abbreviated in the middle of
+    // the name "Bruce Badger Memorial Highway". (esiteid: 80451)
+    if(preg_match('/^(.+) Meml( .*)?$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . " Memorial";
+        if (!empty($matches[2])) {
+            $street_name_title_cased .= $matches[2];
+        }
+    }
+
     // Monkton has a street named "A B C D" that exists in E911 as "ABCD".
     if ($street_name_title_cased == "Abcd") {
         $street_name_title_cased = "A B C D";
