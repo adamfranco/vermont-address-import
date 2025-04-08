@@ -492,6 +492,41 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "I.D. White";
     }
 
+    // East Montpelier has a street named "Tay-Con" that exists in E911 as "TAY CON".
+    if ($street_name_title_cased == "Tay Con") {
+        $street_name_title_cased = "Tay-Con";
+    }
+
+    // Avery's Gore has a street named "Mark's" that exists in E911 as "Marks".
+    if ($street_name_title_cased == "Marks") {
+        $street_name_title_cased = "Mark's";
+    }
+
+    // East Haven has a Boulevard named "George's" that exists in E911 as "Georges".
+    if ($street_name_title_cased == "Georges") {
+        $street_name_title_cased = "George's";
+    }
+
+    // East Haven has a Road named "Young's" that exists in E911 as "Youngs".
+    if ($street_name_title_cased == "Youngs") {
+        $street_name_title_cased = "Young's";
+    }
+
+    // Brighton has a Road named "RLW" that gets UC-first.
+    if ($street_name_title_cased == "Rwl") {
+        $street_name_title_cased = "RLW";
+    }
+
+    // Brighton has a Road named "Head of the Pond Road" that gets UC-first.
+    if ($street_name_title_cased == "Head Of The Pond Road") {
+        $street_name_title_cased = "Head of the Pond Road";
+    }
+
+    // Peacham has a Road named "Bayley-Hazen" that is missing the dash in E911.
+    if ($street_name_title_cased == "Bayley Hazen") {
+        $street_name_title_cased = "Bayley-Hazen";
+    }
+
     return $street_name_title_cased;
 }
 
