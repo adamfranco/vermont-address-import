@@ -560,6 +560,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Old 5A";
     }
 
+    // Morgan has a Road called "I P".
+    // (esiteid: 168568)
+    if ($street_name_title_cased == "Ip") {
+        $street_name_title_cased = "I P";
+    }
+
     return $street_name_title_cased;
 }
 
