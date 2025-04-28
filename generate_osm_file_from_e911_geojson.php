@@ -521,6 +521,18 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Young's";
     }
 
+    // Greensboro has a Road named "Maggie's Pond" that is missing the possessive.
+    // (esiteid: 115185)
+    if ($street_name_title_cased == "Maggies Pond") {
+        $street_name_title_cased = "Maggie's Pond";
+    }
+
+    // Craftsbury has a Road name "Pete's Greens" that is missing the possesive.
+    // (esiteid: 79318)
+    if ($street_name_title_cased == "Petes Greens") {
+        $street_name_title_cased = "Pete's Greens";
+    }
+
     // Brighton has a Road named "RLW" that gets UC-first.
     if ($street_name_title_cased == "Rwl") {
         $street_name_title_cased = "RLW";
@@ -534,6 +546,12 @@ function normalize_street_base_name($street_name) {
     // Peacham has a Road named "Bayley-Hazen" that is missing the dash in E911.
     if ($street_name_title_cased == "Bayley Hazen") {
         $street_name_title_cased = "Bayley-Hazen";
+    }
+
+    // Cambridge has a Drive called "G W Tatro".
+    // (esiteid: 57487)
+    if ($street_name_title_cased == "Gw Tatro") {
+        $street_name_title_cased = "G W Tatro";
     }
 
     return $street_name_title_cased;
