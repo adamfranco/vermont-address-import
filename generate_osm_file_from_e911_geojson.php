@@ -554,6 +554,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "G W Tatro";
     }
 
+    // Westmore has a Road called "Old 5A".
+    // (esiteid: 284370)
+    if ($street_name_title_cased == "Old 5a") {
+        $street_name_title_cased = "Old 5A";
+    }
+
     return $street_name_title_cased;
 }
 
