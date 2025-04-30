@@ -566,6 +566,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "I P";
     }
 
+    // Orange has a Drive called "BLS".
+    // (esiteid: 183728)
+    if ($street_name_title_cased == "Bls") {
+        $street_name_title_cased = "BLS";
+    }
+
     return $street_name_title_cased;
 }
 
