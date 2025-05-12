@@ -539,6 +539,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Pete's Greens";
     }
 
+    // West Fairlee has a Way name "Grandkid's" that is missing the possesive.
+    // (esiteid: 764338)
+    if ($street_name_title_cased == "Grandkids") {
+        $street_name_title_cased = "Grandkid's";
+    }
+
     // Brighton has a Road named "RLW" that gets UC-first.
     if ($street_name_title_cased == "Rwl") {
         $street_name_title_cased = "RLW";
