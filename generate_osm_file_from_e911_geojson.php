@@ -446,6 +446,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Town Highway " . $matches[1];
     }
 
+    // expand when Rd is in the middle of the street name (eg. Private Rd 11)
+    // originally found in Vershire, esiteid 266922 and more.
+    if(preg_match('/Private Rd (.+)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "Private Road " . $matches[1];
+    }
+
     // Hubbardton has a street called LHCS that needs to be all caps
     if(preg_match('/^lhcs(.*)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "LHCS" . $matches[1];
