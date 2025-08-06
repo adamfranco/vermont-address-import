@@ -584,6 +584,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "BLS";
     }
 
+    // Thetford has a Drive called "REB Mountain".
+    // (esiteid: 259036)
+    if ($street_name_title_cased == "Reb Mountain") {
+        $street_name_title_cased = "REB Mountain";
+    }
+
     return $street_name_title_cased;
 }
 
