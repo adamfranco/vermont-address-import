@@ -2311,9 +2311,9 @@
     <tag k="ref:vcgi:esiteid" v="259019"/>
   </node>
   <node id="-631" visible="true" lat="43.83449499" lon="-72.20315353">
-    <!-- match: "126 Makalas Way, , VT"  ignoring street punctuation to "126 Makala's Way, Thetford, VT" -->
+    <!-- match: "126 Makala's Way, , VT"  ignoring street punctuation to "126 Makala's Way, Thetford, VT" -->
     <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:street" v="Makalas Way"/>
+    <tag k="addr:street" v="Makala's Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259021"/>
   </node>
@@ -2336,9 +2336,9 @@
     <tag k="ref:vcgi:esiteid" v="259024"/>
   </node>
   <node id="-635" visible="true" lat="43.8339829" lon="-72.20344377">
-    <!-- match: "125 Makalas Way, , VT"  ignoring street punctuation to "125 Makala's Way, Thetford, VT" -->
+    <!-- match: "125 Makala's Way, , VT"  ignoring street punctuation to "125 Makala's Way, Thetford, VT" -->
     <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Makalas Way"/>
+    <tag k="addr:street" v="Makala's Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259025"/>
   </node>
@@ -6070,9 +6070,9 @@
     <tag k="ref:vcgi:esiteid" v="259746"/>
   </node>
   <node id="-1336" visible="true" lat="43.83390457" lon="-72.2024576">
-    <!-- match: "71 Makalas Way, , VT"  ignoring street punctuation to "71 Makala's Way, Thetford, VT" -->
+    <!-- match: "71 Makala's Way, , VT"  ignoring street punctuation to "71 Makala's Way, Thetford, VT" -->
     <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Makalas Way"/>
+    <tag k="addr:street" v="Makala's Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259747"/>
   </node>
@@ -7271,9 +7271,9 @@
     <tag k="ref:vcgi:esiteid" v="760405"/>
   </node>
   <node id="-1689" visible="true" lat="43.83420306" lon="-72.20205407">
-    <!-- match: "46 Makalas Way, , VT"  ignoring street punctuation to "46 Makala's Way, Thetford, VT" -->
+    <!-- match: "46 Makala's Way, , VT"  ignoring street punctuation to "46 Makala's Way, Thetford, VT" -->
     <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Makalas Way"/>
+    <tag k="addr:street" v="Makala's Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764344"/>
   </node>

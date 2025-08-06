@@ -590,6 +590,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "REB Mountain";
     }
 
+    // Thetford has a Way called "Malaka's".
+    // (esiteid: 259025)
+    if ($street_name_title_cased == "Makalas") {
+        $street_name_title_cased = "Makala's";
+    }
+
     return $street_name_title_cased;
 }
 
