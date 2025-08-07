@@ -497,6 +497,12 @@ function normalize_street_base_name($street_name) {
         }
     }
 
+    // West Haven has an "Old Route 22A" which is mis-capitalized as
+    // "Old Route 22a" with ucwords(). (esiteid: 279120)
+    if(preg_match('/^(Old Route \d+)([a-z])$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . strtoupper($matches[2]);
+    }
+
     // Monkton has a street named "A B C D" that exists in E911 as "ABCD".
     if ($street_name_title_cased == "Abcd") {
         $street_name_title_cased = "A B C D";
