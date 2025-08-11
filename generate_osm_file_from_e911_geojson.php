@@ -602,6 +602,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Makala's";
     }
 
+    // Hubbardton has a Way called "Jason's".
+    // (esiteid: 130797)
+    if ($street_name_title_cased == "Jasons") {
+        $street_name_title_cased = "Jason's";
+    }
+
     return $street_name_title_cased;
 }
 

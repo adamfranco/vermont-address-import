@@ -8,10 +8,10 @@
     <tag k="ref:vcgi:esiteid" v="130431"/>
   </node>
   <node id="-571" visible="true" lat="43.68949476" lon="-73.19917678">
-    <!-- match: "872 Jasons Way, Hubbardton, VT"  ignoring street punctuation to "872 Jason's Way, Hubbardton, VT" -->
+    <!-- match: "872 Jason's Way, Hubbardton, VT"  ignoring street punctuation to "872 Jason's Way, Hubbardton, VT" -->
     <tag k="addr:city" v="Hubbardton"/>
     <tag k="addr:housenumber" v="872"/>
-    <tag k="addr:street" v="Jasons Way"/>
+    <tag k="addr:street" v="Jason's Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="130797"/>
   </node>
