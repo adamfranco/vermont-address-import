@@ -626,6 +626,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Vermont Route 7B Central";
     }
 
+    // Clarendon has a road called "Vermont Route 7B North Extension".
+    // (esiteid: 68218)
+    if ($street_name_title_cased == "Vermont Route 7b N Extension") {
+        $street_name_title_cased = "Vermont Route 7B North Extension";
+    }
+
     // Shrewsbury has a road called "CCC".
     // (esiteid: 226776)
     if ($street_name_title_cased == "Ccc") {
