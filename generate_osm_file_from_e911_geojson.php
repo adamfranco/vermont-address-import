@@ -614,6 +614,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "On the Green";
     }
 
+    // Wells, Pawlett, and Tinmouth have a road called "Vermont Route 133 West Tinmouth".
+    // (esiteid: 278320)
+    if ($street_name_title_cased == "Vermont Route 133 W Tinmouth") {
+        $street_name_title_cased = "Vermont Route 133 West Tinmouth";
+    }
+
     return $street_name_title_cased;
 }
 
