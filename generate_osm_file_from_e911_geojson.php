@@ -650,6 +650,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Point of Tongue";
     }
 
+    // Alburgh has a road called "Truck Route".
+    // (esiteid: 2042)
+    if ($street_name_title_cased == "Truck rte") {
+        $street_name_title_cased = "Truck Route";
+    }
+
     return $street_name_title_cased;
 }
 
