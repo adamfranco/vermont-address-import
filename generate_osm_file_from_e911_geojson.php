@@ -644,6 +644,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Weston Road Route 133";
     }
 
+    // Alburgh has a road called "Point of Tongue".
+    // (esiteid: 454372)
+    if ($street_name_title_cased == "Point Of Tongue") {
+        $street_name_title_cased = "Point of Tongue";
+    }
+
     return $street_name_title_cased;
 }
 
