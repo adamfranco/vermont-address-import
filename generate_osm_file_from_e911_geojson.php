@@ -608,6 +608,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Jason's";
     }
 
+    // Poultney has a road called "On the Green".
+    // (esiteid: 191139)
+    if ($street_name_title_cased == "On The Green") {
+        $street_name_title_cased = "On the Green";
+    }
+
     return $street_name_title_cased;
 }
 
