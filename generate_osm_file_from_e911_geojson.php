@@ -620,6 +620,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Vermont Route 133 West Tinmouth";
     }
 
+    // Clarendon has a road called "Vermont Route 7B Central".
+    // (esiteid: 68815)
+    if ($street_name_title_cased == "Vermont Route 7b Central") {
+        $street_name_title_cased = "Vermont Route 7B Central";
+    }
+
     // Shrewsbury has a road called "CCC".
     // (esiteid: 226776)
     if ($street_name_title_cased == "Ccc") {
