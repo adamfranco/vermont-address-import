@@ -620,6 +620,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Vermont Route 133 West Tinmouth";
     }
 
+    // Shrewsbury has a road called "CCC".
+    // (esiteid: 226776)
+    if ($street_name_title_cased == "Ccc") {
+        $street_name_title_cased = "CCC";
+    }
+
     return $street_name_title_cased;
 }
 
