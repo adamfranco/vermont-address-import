@@ -608,6 +608,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Jason's";
     }
 
+    // Isle La Motte has a Lane called "Saint Joseph's".
+    // (esiteid: 134211)
+    if ($street_name_title_cased == "Saint Josephs") {
+        $street_name_title_cased = "Saint Joseph's";
+    }
+
     // Poultney has a road called "On the Green".
     // (esiteid: 191139)
     if ($street_name_title_cased == "On The Green") {
