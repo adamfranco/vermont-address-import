@@ -644,6 +644,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "CCC";
     }
 
+    // Royalton has a Lane called "LDS".
+    // (esiteid: 206170)
+    if ($street_name_title_cased == "Lds") {
+        $street_name_title_cased = "LDS";
+    }
+
     // Wallingford has a road called "Weston Road Route 133".
     // (esiteid: 269716)
     if ($street_name_title_cased == "Weston Rd Route 133") {
