@@ -680,6 +680,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Center of Town";
     }
 
+    // Hartford has a road called "O'Connell Court".
+    // (esiteid: 121685)
+    if ($street_name_title_cased == "Oconnell") {
+        $street_name_title_cased = "O'Connell";
+    }
+
     // Fairfield has 3 roads like "Napoli Road 1", "Napoli Road 2", and "Napoli Road 3" in E911.
     // The first first should probably be "Napoli Camp Road" and the later two "Napoli Road".
     // (esiteid: 104494, 104507, 104520)
