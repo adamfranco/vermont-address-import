@@ -49,9 +49,9 @@
     <tag k="ref:vcgi:esiteid" v="3407"/>
   </node>
   <node id="-239" visible="true" lat="43.28636838" lon="-72.74082206">
-    <!-- match: "168 Willies Lane, , VT"  ignoring street punctuation to "168 Willie's Lane, Weston, VT" -->
+    <!-- match: "168 Willie's Lane, , VT"  ignoring street punctuation to "168 Willie's Lane, Weston, VT" -->
     <tag k="addr:housenumber" v="168"/>
-    <tag k="addr:street" v="Willies Lane"/>
+    <tag k="addr:street" v="Willie's Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3411"/>
   </node>
@@ -68,16 +68,16 @@
     <tag k="ref:vcgi:esiteid" v="3414"/>
   </node>
   <node id="-243" visible="true" lat="43.28557037" lon="-72.73991455">
-    <!-- match: "112 Willies Lane, , VT"  ignoring street punctuation to "112 Willie's Lane, Weston, VT" -->
+    <!-- match: "112 Willie's Lane, , VT"  ignoring street punctuation to "112 Willie's Lane, Weston, VT" -->
     <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="Willies Lane"/>
+    <tag k="addr:street" v="Willie's Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3415"/>
   </node>
   <node id="-250" visible="true" lat="43.28481013" lon="-72.74093966">
-    <!-- match: "59 Willies Lane, , VT"  ignoring street punctuation to "59 Willie's Lane, Weston, VT" -->
+    <!-- match: "59 Willie's Lane, , VT"  ignoring street punctuation to "59 Willie's Lane, Weston, VT" -->
     <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Willies Lane"/>
+    <tag k="addr:street" v="Willie's Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3422"/>
   </node>

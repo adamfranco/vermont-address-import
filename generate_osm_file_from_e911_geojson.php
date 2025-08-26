@@ -708,6 +708,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Brownsville-Hartland";
     }
 
+    // Andover has a road called "Willie's Lane".
+    // (esiteid: 3415)
+    if ($street_name_title_cased == "Willies") {
+        $street_name_title_cased = "Willie's";
+    }
+
     return $street_name_title_cased;
 }
 
