@@ -702,6 +702,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Napoli Road";
     }
 
+    // West Windsor has a road called "Brownsville-Hartland Road.
+    // (esiteid: 280539)
+    if ($street_name_title_cased == "Brownsville Hartland") {
+        $street_name_title_cased = "Brownsville-Hartland";
+    }
+
     return $street_name_title_cased;
 }
 
