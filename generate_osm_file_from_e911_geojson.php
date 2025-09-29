@@ -452,6 +452,21 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Private Road " . $matches[1];
     }
 
+    // Expand Rd => and directionals at the end of the street name.
+    // Landgrove has roads like "Old County RD E", esiteid 139240.
+    if(preg_match('/(.+) Rd E$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . "Road East";
+    }
+    if(preg_match('/(.+) Rd W$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . "Road East";
+    }
+    if(preg_match('/(.+) Rd N$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . "Road North";
+    }
+    if(preg_match('/(.+) Rd S$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . "Road South";
+    }
+
     // Hubbardton has a street called LHCS that needs to be all caps
     if(preg_match('/^lhcs(.*)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "LHCS" . $matches[1];
