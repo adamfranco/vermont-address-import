@@ -452,6 +452,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Private Road " . $matches[1];
     }
 
+    // Expand Mhp => "Mobile Home Park at the end of the street name.
+    // Bennington has addresses with this pattern such as esiteid 16062.
+    if(preg_match('/(.+) Mhp$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . " Mobile Home Park";
+    }
+
     // Expand Rd => and directionals at the end of the street name.
     // Landgrove has roads like "Old County RD E", esiteid 139240.
     if(preg_match('/(.+) Rd E$/i', $street_name_title_cased, $matches)) {
