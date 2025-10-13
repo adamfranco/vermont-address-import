@@ -735,6 +735,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Willie's";
     }
 
+    // Vernon has a road called "T-Bird Drive" and Lyndon has a "T-Bird Lane".
+    // (esiteid: 265978)
+    if ($street_name_title_cased == "T Bird") {
+        $street_name_title_cased = "T-Bird";
+    }
+
     return $street_name_title_cased;
 }
 
