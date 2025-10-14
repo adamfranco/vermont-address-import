@@ -1093,6 +1093,7 @@ function expand_street_name_suffix($street_name_suffix) {
                             "plns" => "Plains",
                             "plz" => "Plaza",
                             "plza" => "Plaza",
+                            "pne" => "Pine",
                             "pnes" => "Pines",
                             "point" => "Point",
                             "points" => "Points",
