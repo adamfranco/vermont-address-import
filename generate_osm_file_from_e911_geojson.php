@@ -446,12 +446,6 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "Town Highway " . $matches[1];
     }
 
-    // expand when Rd is in the middle of the street name (eg. Private Rd 11)
-    // originally found in Vershire, esiteid 266922 and more.
-    if(preg_match('/Private Rd (.+)/i', $street_name_title_cased, $matches)) {
-        $street_name_title_cased = "Private Road " . $matches[1];
-    }
-
     // Expand Mhp => "Mobile Home Park at the end of the street name.
     // Bennington has addresses with this pattern such as esiteid 16062.
     if(preg_match('/(.+) Mhp$/i', $street_name_title_cased, $matches)) {
@@ -471,6 +465,12 @@ function normalize_street_base_name($street_name) {
     }
     if(preg_match('/(.+) Rd S$/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = $matches[1] . "Road South";
+    }
+
+    // expand when Rd is in the middle of the street name (eg. Private Rd 11, Old Rd Nine)
+    // originally found in Vershire, esiteid 266922 and more.
+    if(preg_match('/^(.+) Rd (.+)$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . " Road " . $matches[2];
     }
 
     // Hubbardton has a street called LHCS that needs to be all caps
@@ -677,12 +677,6 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "PCN";
     }
 
-    // Wallingford has a road called "Weston Road Route 133".
-    // (esiteid: 269716)
-    if ($street_name_title_cased == "Weston Rd Route 133") {
-        $street_name_title_cased = "Weston Road Route 133";
-    }
-
     // Alburgh has a road called "Point of Tongue".
     // (esiteid: 454372)
     if ($street_name_title_cased == "Point Of Tongue") {
@@ -716,10 +710,10 @@ function normalize_street_base_name($street_name) {
     // Fairfield has 3 roads like "Napoli Road 1", "Napoli Road 2", and "Napoli Road 3" in E911.
     // The first first should probably be "Napoli Camp Road" and the later two "Napoli Road".
     // (esiteid: 104494, 104507, 104520)
-    if (preg_match('/^Napoli Rd 1$/i', $street_name_title_cased, $matches)) {
+    if (preg_match('/^Napoli Road 1$/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "Napoli Camp Road";
     }
-    if (preg_match('/^Napoli Rd (2|3)$/i', $street_name_title_cased, $matches)) {
+    if (preg_match('/^Napoli Road (2|3)$/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "Napoli Road";
     }
 
