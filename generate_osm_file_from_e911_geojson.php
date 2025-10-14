@@ -496,7 +496,7 @@ function normalize_street_base_name($street_name) {
 
     // Brookfield has a street with "EXT" in the ST (street type) field, which causes
     // Rd and Ln to be put at the end of the SN (street name) field, so we need to expand the street name abbreviation as well
-    if(preg_match('/(.+) (Ave|Dr|Ln|Rd|St)$/i', $street_name_title_cased, $matches)) {
+    if(preg_match('/(.+) (Ave|Dr|Ln|Rd|St|Cir)$/i', $street_name_title_cased, $matches)) {
         $expanded_suffix = expand_street_name_suffix($matches[2]);
         $street_name_title_cased = $matches[1] . " " . $expanded_suffix;
     }
