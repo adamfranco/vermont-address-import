@@ -473,6 +473,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = $matches[1] . " Road " . $matches[2];
     }
 
+    // Pittsfield has a road called "South Hill Road Pittsfield", with the
+    // end abbreviated to "Ptfld". esiteid 764374
+    if(preg_match('/^(.+) Ptfld$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . " Pittsfield";
+    }
+
     // Hubbardton has a street called LHCS that needs to be all caps
     if(preg_match('/^lhcs(.*)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "LHCS" . $matches[1];
