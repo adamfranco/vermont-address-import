@@ -1067,6 +1067,7 @@ function expand_street_name_suffix($street_name_suffix) {
                             "oval" => "Oval",
                             "overpass" => "Overpass",
                             "ovl" => "Oval",
+                            "pa" => "Path",
                             "park" => "Park",
                             "parks" => "Parks",
                             "parkway" => "Parkway",
