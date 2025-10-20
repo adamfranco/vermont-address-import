@@ -713,6 +713,12 @@ function normalize_street_base_name($street_name) {
         $street_name_title_cased = "O'Connell";
     }
 
+    // Putney has a road called "Hi-Lo Biddy".
+    // (esiteid: 612012)
+    if ($street_name_title_cased == "Hi Lo Biddy") {
+        $street_name_title_cased = "Hi-Lo Biddy";
+    }
+
     // Fairfield has 3 roads like "Napoli Road 1", "Napoli Road 2", and "Napoli Road 3" in E911.
     // The first first should probably be "Napoli Camp Road" and the later two "Napoli Road".
     // (esiteid: 104494, 104507, 104520)
