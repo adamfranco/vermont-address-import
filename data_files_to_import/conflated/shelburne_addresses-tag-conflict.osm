@@ -681,10 +681,10 @@
     <tag k="ref:vcgi:esiteid" v="222725"/>
   </node>
   <node id="-2675" visible="true" lat="44.36790977" lon="-73.2526195">
-    <!-- conflict: "106 Col Fletcher Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: "106 Colonel Fletcher Road, Shelburne, VT" -->
+    <!-- conflict: "106 Colonel Fletcher Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: "106 Colonel Fletcher Road, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Col Fletcher Road"/>
+    <tag k="addr:street" v="Colonel Fletcher Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223216"/>
   </node>

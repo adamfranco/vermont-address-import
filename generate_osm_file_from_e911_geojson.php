@@ -446,6 +446,12 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "Town Highway " . $matches[1];
     }
 
+    // expand Col => Colonel.
+    // Found in Shelburne, Charlotte, and Rochester
+    if(preg_match('/^Col (.+)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "Colonel " . $matches[1];
+    }
+
     // Expand Mhp => "Mobile Home Park at the end of the street name.
     // Bennington has addresses with this pattern such as esiteid 16062.
     if(preg_match('/(.+) Mhp$/i', $street_name_title_cased, $matches)) {
