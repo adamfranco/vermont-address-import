@@ -338,7 +338,7 @@ function build_street_name($feature_properties) {
         $street_base_name = trim($feature_properties['SN']);
 
         if(!empty($street_base_name)) {
-            $street_base_name = normalize_street_base_name($street_base_name);
+            $street_base_name = normalize_street_base_name($street_base_name, $feature_properties['ST'], $feature_properties['TOWNNAME']);
 
             $final_street_name .= $street_base_name . " ";
         }
@@ -408,7 +408,7 @@ function expand_direction($prefix_direction) {
     return $expanded_prefix_direction;
 }
 
-function normalize_street_base_name($street_name) {
+function normalize_street_base_name($street_name, $street_suffix, $town_name) {
 
     // todo: deal with street names with apostrophes (eg. O'Neil)
 
@@ -717,6 +717,13 @@ function normalize_street_base_name($street_name) {
     // (esiteid: 612012)
     if ($street_name_title_cased == "Hi Lo Biddy") {
         $street_name_title_cased = "Hi-Lo Biddy";
+    }
+
+    // Saint George has a road called "Whitetail Path" that is incorrectly in E911
+    // as "White Tail Path". (esiteid: 765361, 765363, 765364, 765365)
+    // The "White Tail" roads in other towns seem to mostly be two-words on the signs.
+    if ($street_name_title_cased == "White Tail" && $street_suffix == 'PATH' && $town_name == 'SAINT GEORGE') {
+        $street_name_title_cased = "Whitetail";
     }
 
     // Fairfield has 3 roads like "Napoli Road 1", "Napoli Road 2", and "Napoli Road 3" in E911.
