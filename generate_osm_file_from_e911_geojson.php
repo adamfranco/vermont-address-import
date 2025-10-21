@@ -500,6 +500,11 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "HMKL";
     }
 
+    // Williston has a road named IBM Road that should be capitalized. (esiteid: 288614)
+    if(preg_match('/^Ibm/i', $street_name_title_cased)) {
+        $street_name_title_cased = "IBM";
+    }
+
     // Brookfield has a street with "EXT" in the ST (street type) field, which causes
     // Rd and Ln to be put at the end of the SN (street name) field, so we need to expand the street name abbreviation as well
     if(preg_match('/(.+) (Ave|Dr|Ln|Rd|St|Cir)$/i', $street_name_title_cased, $matches)) {
