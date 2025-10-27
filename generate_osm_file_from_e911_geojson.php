@@ -646,6 +646,12 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "Jason's";
     }
 
+    // South Burlington has a road called "Ally's Run".
+    // (esiteid: 613149)
+    if ($street_name_title_cased == "Allys") {
+        $street_name_title_cased = "Ally's";
+    }
+
     // Isle La Motte has a Lane called "Saint Joseph's".
     // (esiteid: 134211)
     if ($street_name_title_cased == "Saint Josephs") {
