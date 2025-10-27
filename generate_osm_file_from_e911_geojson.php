@@ -750,6 +750,13 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "LaFountain";
     }
 
+    // The Winooski street, "LaPointe St" is signed with an upper case P and no space.
+    // Winooski city documents refer to it as "LaPointe Street" or "LaPointe Street"
+    // but not "La Pointe Street" in documents on the city website.
+    if ($street_name_title_cased == "LaPointe" && $street_suffix == 'ST' && $town_name == 'WINOOSKI') {
+        $street_name_title_cased = "LaPointe";
+    }
+
     // Fairfield has 3 roads like "Napoli Road 1", "Napoli Road 2", and "Napoli Road 3" in E911.
     // The first first should probably be "Napoli Camp Road" and the later two "Napoli Road".
     // (esiteid: 104494, 104507, 104520)
