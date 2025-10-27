@@ -737,6 +737,19 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "Whitetail";
     }
 
+    // Winooski & Burlington both have streets called "LAFOUNTAIN STREET", and Weybridge
+    // has a "LAFOUNTAIN LN". The Burlington one is signed as "Lafountain St",
+    // the Weybridge one as "LAFOUNTAIN LN", whereas the Winooski one is signed
+    // "LaFountain St" and Winooski city documents refer to it as "Lafountain Street"
+    // or "LaFountain Street" in most documents and "La Fountain" in just a few cases.
+    //
+    // For the Winooski case, "LaFountain" is probably a good compromise as it
+    // matches "Lafountain" in case-insensitive searches while preserving the
+    // distinction on the street signs.
+    if ($street_name_title_cased == "Lafountain" && $street_suffix == 'ST' && $town_name == 'WINOOSKI') {
+        $street_name_title_cased = "LaFountain";
+    }
+
     // Fairfield has 3 roads like "Napoli Road 1", "Napoli Road 2", and "Napoli Road 3" in E911.
     // The first first should probably be "Napoli Camp Road" and the later two "Napoli Road".
     // (esiteid: 104494, 104507, 104520)
