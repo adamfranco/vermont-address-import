@@ -730,6 +730,12 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "O'Connell";
     }
 
+    // South Burlington has a road called "O'Brien Farm Road".
+    // (esiteid: 616901)
+    if(preg_match('/^Obrien(.*)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "O'Brien" . $matches[1];
+    }
+
     // Putney has a road called "Hi-Lo Biddy".
     // (esiteid: 612012)
     if ($street_name_title_cased == "Hi Lo Biddy") {
