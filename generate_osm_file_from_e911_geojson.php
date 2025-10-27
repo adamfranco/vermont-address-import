@@ -694,6 +694,12 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "PCN";
     }
 
+    // South Burlington has a Drive called "NCO".
+    // (esiteid: 449122)
+    if ($street_name_title_cased == "Nco") {
+        $street_name_title_cased = "NCO";
+    }
+
     // Alburgh has a road called "Point of Tongue".
     // (esiteid: 454372)
     if ($street_name_title_cased == "Point Of Tongue") {
