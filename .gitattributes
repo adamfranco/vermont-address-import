@@ -1,0 +1,2 @@
+osm_data/osm_addresses.osm filter=lfs diff=lfs merge=lfs -text
+osm_data/osm_addresses.sqlite filter=lfs diff=lfs merge=lfs -text
