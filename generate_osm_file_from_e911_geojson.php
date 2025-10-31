@@ -600,8 +600,8 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
     }
 
     // Peacham has a Road named "Bayley-Hazen" that is missing the dash in E911.
-    if ($street_name_title_cased == "Bayley Hazen") {
-        $street_name_title_cased = "Bayley-Hazen";
+    if(preg_match('/^(.*)Bayley Hazen(.*)$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . "Bayley-Hazen" . $matches[2];
     }
 
     // Cambridge has a Drive called "G W Tatro".
