@@ -528,7 +528,7 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
 
     // Danville has a street name that includes Meml abbreviated in the middle of
     // the name "Bruce Badger Memorial Highway". (esiteid: 80451)
-    if(preg_match('/^(.+) Meml( .*)?$/i', $street_name_title_cased, $matches)) {
+    if (preg_match('/^(.+) Meml( .*)?$/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = $matches[1] . " Memorial";
         if (!empty($matches[2])) {
             $street_name_title_cased .= $matches[2];
