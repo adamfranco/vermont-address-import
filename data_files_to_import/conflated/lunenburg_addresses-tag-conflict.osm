@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-566" visible="true" lat="44.46288784" lon="-71.68266991">
-    <!-- conflict: "9 West Main Street, Lunenburg, VT" No match in OSM, but a different address exists <5m away: "10 South Lunenburg Road, Lunenburg, VT" -->
+  <node id="-146" visible="true" lat="44.50726679" lon="-71.73159421">
+    <!-- conflict: "2214 Pond Hill Road, Lunenburg, VT" No match in OSM, but a different address exists <5m away: "2205 Pond Hill Road, Lunenburg, VT" -->
     <tag k="addr:city" v="Lunenburg"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="West Main Street"/>
+    <tag k="addr:housenumber" v="2214"/>
+    <tag k="addr:street" v="Pond Hill Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="145574"/>
-  </node>
-  <node id="-863" visible="true" lat="44.43267662" lon="-71.67981316">
-    <!-- conflict: "1492 River Road, Lunenburg, VT" Fuzzy match to "1492 River Road, South Lunenburg, " -->
-    <tag k="addr:city" v="Lunenburg"/>
-    <tag k="addr:housenumber" v="1492"/>
-    <tag k="addr:street" v="River Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="145877"/>
+    <tag k="ref:vcgi:esiteid" v="145147"/>
   </node>
   <node id="-1101" visible="true" lat="44.41247719" lon="-71.72433505">
     <!-- conflict: "118 Riverside Avenue, Lunenburg, VT" No match in OSM, but a different address exists <5m away: "114 Riverside Avenue, Lunenburg, VT" -->
@@ -24,12 +16,28 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="146128"/>
   </node>
-  <node id="-1326" visible="true" lat="44.42091384" lon="-71.69395192">
-    <!-- conflict: "2153 River Road, Lunenburg, VT" No match in OSM, but a different address exists <5m away: "2095 River Road, Lunenburg, VT" -->
+  <node id="-1355" visible="true" lat="44.45941102" lon="-71.66000765">
+    <!-- conflict: "171 Sunrise Acres, Lunenburg, VT" No match in OSM, but a different address exists <5m away: "181 Sunrise Acres, Lunenburg, VT" -->
     <tag k="addr:city" v="Lunenburg"/>
-    <tag k="addr:housenumber" v="2153"/>
-    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:street" v="Sunrise Acres"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341401"/>
+    <tag k="ref:vcgi:esiteid" v="445917"/>
+  </node>
+  <node id="-1421" visible="true" lat="44.47369938" lon="-71.68476248">
+    <!-- conflict: "166 Pond Hill Road, Lunenburg, VT" No match in OSM, but a different address exists <5m away: "244 Pond Hill Road, Lunenburg, VT" -->
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Pond Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455375"/>
+  </node>
+  <node id="-1506" visible="true" lat="44.41241487" lon="-71.72813666">
+    <!-- conflict: "226 Riverside Avenue, Lunenburg, VT" No match in OSM, but a different address exists <5m away: "220 Riverside Avenue, Lunenburg, VT" -->
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Riverside Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767760"/>
   </node>
 </osm>

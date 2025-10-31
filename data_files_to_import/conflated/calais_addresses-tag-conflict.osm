@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-518" visible="true" lat="44.36603623" lon="-72.53539723">
-    <!-- conflict: "67 Dugar Extension, , VT" Fuzzy match to "67 Dugar, Calais, VT" -->
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Dugar Extension"/>
+  <node id="-381" visible="true" lat="44.37848175" lon="-72.49714124">
+    <!-- conflict: "161 Lower Curtis Pond Road, , VT" No match in OSM, but a different address exists <5m away: "171 Lower Curtis Pond Road, , VT" -->
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="addr:street" v="Lower Curtis Pond Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="56686"/>
-  </node>
-  <node id="-529" visible="true" lat="44.36509252" lon="-72.53616925">
-    <!-- conflict: "59 Dugar Extension, , VT" Fuzzy match to "59 Dugar, Calais, VT" -->
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Dugar Extension"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="56698"/>
-  </node>
-  <node id="-542" visible="true" lat="44.36454927" lon="-72.53670909">
-    <!-- conflict: "49 Dugar Extension, , VT" Fuzzy match to "49 Dugar, Calais, VT" -->
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Dugar Extension"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="56711"/>
-  </node>
-  <node id="-1060" visible="true" lat="44.37012125" lon="-72.48457685">
-    <!-- conflict: "69 Robinson Cemetery Road, , VT" No match in OSM, but a different address exists <5m away: " Robinson Cemetery Road, , VT" -->
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Robinson Cemetery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="765849"/>
+    <tag k="ref:vcgi:esiteid" v="56547"/>
   </node>
 </osm>

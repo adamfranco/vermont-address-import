@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-706" visible="true" lat="44.75617055" lon="-72.1069727">
+    <!-- offset: "1340 Cook Road, , VT" Significant offset - 557.5m -->
+    <tag k="addr:housenumber" v="1340"/>
+    <tag k="addr:street" v="Cook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617386"/>
+  </node>
+  <node id="-740" visible="true" lat="44.74152019" lon="-72.09682241">
+    <!-- offset: "319 Stevens Lane, , VT" Significant offset - 146m -->
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Stevens Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758784"/>
+  </node>
 </osm>

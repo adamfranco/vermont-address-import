@@ -1,147 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-135" visible="true" lat="44.42330226" lon="-71.94790292">
-    <!-- conflict: "649 Vermont Route 18, Waterford, VT" No match in OSM, but a different address exists <5m away: "719 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="649"/>
-    <tag k="addr:street" v="Vermont Route 18"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275403"/>
-  </node>
-  <node id="-208" visible="true" lat="44.39940121" lon="-71.92397447">
-    <!-- conflict: "2878 Vermont Route 18, Waterford, VT" No match in OSM, but a different address exists <5m away: "2878 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="2878"/>
-    <tag k="addr:street" v="Vermont Route 18"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275478"/>
-  </node>
-  <node id="-510" visible="true" lat="44.3551445" lon="-71.9103012">
-    <!-- conflict: "232 Lower Waterford Road, Waterford, VT" Fuzzy match to "232 Lower Waterford Road, Lower Waterford, " -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="232"/>
-    <tag k="addr:street" v="Lower Waterford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275790"/>
-  </node>
-  <node id="-518" visible="true" lat="44.35436248" lon="-71.9077301">
-    <!-- conflict: "532 Maple Street, Waterford, VT" Fuzzy match to "532 Maple Street, Lower Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="532"/>
-    <tag k="addr:street" v="Maple Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275799"/>
-  </node>
-  <node id="-519" visible="true" lat="44.35427353" lon="-71.90479829">
-    <!-- conflict: "6497 Vermont Route 18, Waterford, VT" No match in OSM, but a different address exists <5m away: "6497 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="6497"/>
-    <tag k="addr:street" v="Vermont Route 18"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275800"/>
-  </node>
-  <node id="-537" visible="true" lat="44.35086705" lon="-71.89579499">
-    <!-- conflict: "6993 Vermont Route 18, Waterford, VT" No match in OSM, but a different address exists <5m away: "6993 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="6993"/>
-    <tag k="addr:street" v="Vermont Route 18"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275818"/>
-  </node>
-  <node id="-538" visible="true" lat="44.35052571" lon="-71.89760375">
-    <!-- conflict: "6917 Vermont Route 18, Waterford, VT" No match in OSM, but a different address exists <5m away: "6917 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="6917"/>
-    <tag k="addr:street" v="Vermont Route 18"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275819"/>
-  </node>
-  <node id="-540" visible="true" lat="44.35055692" lon="-71.89697909">
-    <!-- conflict: "6937 Vermont Route 18, Waterford, VT" No match in OSM, but a different address exists <5m away: "6937 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="6937"/>
-    <tag k="addr:street" v="Vermont Route 18"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275821"/>
-  </node>
-  <node id="-541" visible="true" lat="44.35040879" lon="-71.89842645">
-    <!-- conflict: "6888 Vermont Route 18, Waterford, VT" No match in OSM, but a different address exists <5m away: "6888 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="6888"/>
-    <tag k="addr:street" v="Vermont Route 18"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275822"/>
-  </node>
-  <node id="-543" visible="true" lat="44.34987432" lon="-71.89575861">
-    <!-- conflict: "6995 Vermont Route 18, Waterford, VT" No match in OSM, but a different address exists <5m away: "6995 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="6995"/>
-    <tag k="addr:street" v="Vermont Route 18"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275824"/>
-  </node>
-  <node id="-546" visible="true" lat="44.34922409" lon="-71.89511108">
-    <!-- conflict: "7083 Vermont Route 18, Waterford, VT" No match in OSM, but a different address exists <5m away: "7083 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="7083"/>
-    <tag k="addr:street" v="Vermont Route 18"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275827"/>
-  </node>
-  <node id="-547" visible="true" lat="44.34960872" lon="-71.89751625">
-    <!-- conflict: "6962 Vermont Route 18, Waterford, VT" No match in OSM, but a different address exists <5m away: "6962 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="6962"/>
-    <tag k="addr:street" v="Vermont Route 18"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275828"/>
-  </node>
-  <node id="-549" visible="true" lat="44.3492543" lon="-71.89680364">
-    <!-- conflict: "30 River View Lane, Waterford, VT" No match in OSM, but a different address exists <5m away: "7000 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="River View Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275830"/>
-  </node>
-  <node id="-636" visible="true" lat="44.34794065" lon="-71.89522362">
-    <!-- conflict: "105 Memory Trees Lane, Waterford, VT" No match in OSM, but a different address exists <5m away: "7092 Vt Route 18, Waterford, VT" -->
+  <node id="-635" visible="true" lat="44.34794065" lon="-71.89522362">
+    <!-- conflict: "105 Memory Tree Lane, Waterford, VT" No match in OSM, but a different address exists <5m away: "105 Memory Trees Lane, Waterford, VT" -->
     <tag k="addr:city" v="Waterford"/>
     <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="Memory Trees Lane"/>
+    <tag k="addr:street" v="Memory Tree Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275919"/>
   </node>
-  <node id="-651" visible="true" lat="44.34581221" lon="-71.89683345">
-    <!-- conflict: "262 Memory Trees Lane, Waterford, VT" No match in OSM, but a different address exists <5m away: "6966 Vt Route 18, Waterford, VT" -->
+  <node id="-650" visible="true" lat="44.34581221" lon="-71.89683345">
+    <!-- conflict: "262 Memory Tree Lane, Waterford, VT" No match in OSM, but a different address exists <5m away: "262 Memory Trees Lane, Waterford, VT" -->
     <tag k="addr:city" v="Waterford"/>
     <tag k="addr:housenumber" v="262"/>
-    <tag k="addr:street" v="Memory Trees Lane"/>
+    <tag k="addr:street" v="Memory Tree Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275934"/>
   </node>
-  <node id="-679" visible="true" lat="44.39614813" lon="-71.95052118">
-    <!-- conflict: "244 Knotty Lane, Waterford, VT" No match in OSM, but a different address exists <5m away: "247 Knotty Lane, Waterford, VT" -->
+  <node id="-751" visible="true" lat="44.34720203" lon="-71.89697322">
+    <!-- conflict: "154 Memory Tree Lane, Waterford, VT" No match in OSM, but a different address exists <5m away: "154 Memory Trees Lane, Waterford, VT" -->
     <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="244"/>
-    <tag k="addr:street" v="Knotty Lane"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Memory Tree Lane"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275962"/>
-  </node>
-  <node id="-727" visible="true" lat="44.34749043" lon="-71.90024415">
-    <!-- conflict: "245 River View Lane, Waterford, VT" No match in OSM, but a different address exists <5m away: "6990 Vt Route 18, Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="245"/>
-    <tag k="addr:street" v="River View Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="315457"/>
-  </node>
-  <node id="-735" visible="true" lat="44.35442436" lon="-71.9077643">
-    <!-- conflict: "111 Lower Waterford Road, Waterford, VT" No match in OSM, but a different address exists <5m away: "532 Maple Street, Lower Waterford, VT" -->
-    <tag k="addr:city" v="Waterford"/>
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Lower Waterford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="334692"/>
+    <tag k="ref:vcgi:esiteid" v="365357"/>
   </node>
 </osm>

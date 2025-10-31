@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-167" visible="true" lat="44.64526122" lon="-71.97908723">
+    <!-- offset: "212 School Street, , VT" Significant offset - 7045.8m -->
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="41886"/>
+  </node>
   <node id="-349" visible="true" lat="44.62742233" lon="-71.97077942">
     <!-- offset: "2987 U.S. Route 5, , VT" Significant offset - 6341.8m -->
     <tag k="addr:housenumber" v="2987"/>
@@ -13,5 +20,40 @@
     <tag k="addr:street" v="Burke Hollow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="42100"/>
+  </node>
+  <node id="-950" visible="true" lat="44.59731566" lon="-71.99453721">
+    <!-- offset: "526 Devon Road, , VT" Significant offset - 770.7m -->
+    <tag k="addr:housenumber" v="526"/>
+    <tag k="addr:street" v="Devon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="42690"/>
+  </node>
+  <node id="-1085" visible="true" lat="44.67228544" lon="-71.97456579">
+    <!-- offset: "3787 Sugarhouse Road, , VT" Significant offset - 256.6m -->
+    <tag k="addr:housenumber" v="3787"/>
+    <tag k="addr:street" v="Sugarhouse Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341865"/>
+  </node>
+  <node id="-1147" visible="true" lat="44.59058661" lon="-71.91987179">
+    <!-- offset: "1089 Mountain Road, , VT" Significant offset - 140.8m -->
+    <tag k="addr:housenumber" v="1089"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617511"/>
+  </node>
+  <node id="-1148" visible="true" lat="44.59018737" lon="-71.92096287">
+    <!-- offset: "1089 Mountain Road, , VT" Significant offset - 237.4m -->
+    <tag k="addr:housenumber" v="1089"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617512"/>
+  </node>
+  <node id="-1216" visible="true" lat="44.6092363" lon="-71.91961556">
+    <!-- offset: "2341 Vermont Route 114, , VT" Significant offset - 168.3m -->
+    <tag k="addr:housenumber" v="2341"/>
+    <tag k="addr:street" v="Vermont Route 114"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761563"/>
   </node>
 </osm>

@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-212" visible="true" lat="44.42149593" lon="-72.84911289">
-    <!-- offset: "4302 Bolton Valley Access Road, , VT" Significant offset - 273.3m -->
-    <tag k="addr:housenumber" v="4302"/>
-    <tag k="addr:street" v="Bolton Valley Access Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="25313"/>
-  </node>
-  <node id="-591" visible="true" lat="44.38240767" lon="-72.93172553">
-    <!-- offset: "5510 Theodore Roosevelt Highway, , VT" Significant offset - 262.1m -->
+  <node id="-592" visible="true" lat="44.38240683" lon="-72.93171274">
+    <!-- offset: "5510 Theodore Roosevelt Highway, , VT" Significant offset - 263m -->
     <tag k="addr:housenumber" v="5510"/>
     <tag k="addr:street" v="Theodore Roosevelt Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339942"/>
+  </node>
+  <node id="-613" visible="true" lat="44.34485517" lon="-72.94684299">
+    <!-- offset: "1617 Happy Hollow Road, , VT" Significant offset - 117m -->
+    <tag k="addr:housenumber" v="1617"/>
+    <tag k="addr:street" v="Happy Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451685"/>
+  </node>
+  <node id="-684" visible="true" lat="44.3438583" lon="-72.93825236">
+    <!-- offset: "1811 Happy Hollow Road, , VT" Significant offset - 320.9m -->
+    <tag k="addr:housenumber" v="1811"/>
+    <tag k="addr:street" v="Happy Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755815"/>
   </node>
 </osm>

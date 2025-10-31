@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-357" visible="true" lat="44.32107543" lon="-72.13491821">
+    <!-- multiple: "712 Stevenson Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="712"/>
+    <tag k="addr:street" v="Stevenson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6970"/>
+  </node>
+  <node id="-495" visible="true" lat="44.30736139" lon="-72.0807785">
+    <!-- multiple: "163 Kid Row, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Kid Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="7110"/>
+  </node>
   <node id="-913" visible="true" lat="44.26452935" lon="-72.06433393">
     <!-- multiple: "37 Academy Lane, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="37"/>

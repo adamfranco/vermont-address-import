@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-180" visible="true" lat="44.84552575" lon="-71.55855898">
+    <!-- offset: "1425 Vermont Route 102, Lemington, VT" Significant offset - 100.7m -->
+    <tag k="addr:city" v="Lemington"/>
+    <tag k="addr:housenumber" v="1425"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="140087"/>
+  </node>
+  <node id="-183" visible="true" lat="44.82930906" lon="-71.56134769">
+    <!-- offset: "281 Vermont Route 102, Lemington, VT" Significant offset - 118.1m -->
+    <tag k="addr:city" v="Lemington"/>
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="140090"/>
+  </node>
 </osm>

@@ -1,99 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-118" visible="true" lat="44.17744557" lon="-73.24700519">
-    <!-- conflict: "8 Main Street, Vergennes, VT" Fuzzy match to "8 North Main Street, Vergennes, VT" -->
+  <node id="-1124" visible="true" lat="44.16527329" lon="-73.25626518">
+    <!-- conflict: "3 West Main Street, Vergennes, VT" Fuzzy match to "3 Main Street, Vergennes, VT" -->
     <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="West Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264453"/>
-  </node>
-  <node id="-119" visible="true" lat="44.17707761" lon="-73.24648481">
-    <!-- conflict: "10 Main Street, Vergennes, VT" Fuzzy match to "10 North Main Street, Vergennes, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264454"/>
-  </node>
-  <node id="-120" visible="true" lat="44.17673433" lon="-73.24519277">
-    <!-- conflict: "11 Main Street, Vergennes, VT" Fuzzy match to "11 North Main Street, Vergennes, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264455"/>
-  </node>
-  <node id="-121" visible="true" lat="44.17605209" lon="-73.24555969">
-    <!-- conflict: "13 Main Street, Vergennes, VT" Fuzzy match to "13 North Main Street, Vergennes, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264457"/>
-  </node>
-  <node id="-123" visible="true" lat="44.1758783" lon="-73.2454672">
-    <!-- conflict: "15 Main Street, Vergennes, VT" Fuzzy match to "15 North Main Street, Vergennes, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264459"/>
-  </node>
-  <node id="-125" visible="true" lat="44.17528447" lon="-73.24652609">
-    <!-- conflict: "20 Main Street, Vergennes, VT" Fuzzy match to "20 North Main Street, Vergennes, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264461"/>
-  </node>
-  <node id="-129" visible="true" lat="44.17366848" lon="-73.24620649">
-    <!-- conflict: "27 Main Street, Vergennes, VT" Fuzzy match to "27 North Main Street, Vergennes, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264465"/>
-  </node>
-  <node id="-164" visible="true" lat="44.17146301" lon="-73.24771118">
-    <!-- conflict: "61 Main Street, Vergennes, VT" Fuzzy match to "61 North Main Street, Vergennes, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264500"/>
-  </node>
-  <node id="-189" visible="true" lat="44.17071151" lon="-73.24841308">
-    <!-- conflict: "69 Main Street, Vergennes, VT" Fuzzy match to "69 North Main Street, Vergennes, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264525"/>
-  </node>
-  <node id="-748" visible="true" lat="44.17646039" lon="-73.24621209">
-    <!-- conflict: "12 Main Street, Vergennes, VT" Fuzzy match to "12 North Main Street, Vergennes, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265102"/>
-  </node>
-  <node id="-949" visible="true" lat="44.16787462" lon="-73.25138297">
-    <!-- conflict: "165 Main Street, Vergennes, VT" No match in OSM, but a different address exists <5m away: "171 Main Street, Vergennes, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="165"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="265418"/>
-  </node>
-  <node id="-1058" visible="true" lat="44.16153427" lon="-73.24075342">
-    <!-- conflict: "2 Church Street, Vergennes, VT" Fuzzy match to "2 Church Street, , " -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="331580"/>
+    <tag k="ref:vcgi:esiteid" v="655163"/>
   </node>
 </osm>

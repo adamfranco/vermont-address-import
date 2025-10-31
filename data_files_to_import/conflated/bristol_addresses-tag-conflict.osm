@@ -1,43 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-769" visible="true" lat="44.1340112" lon="-73.08375064">
-    <!-- conflict: "49 West Street, Bristol, VT" No match in OSM, but a different address exists <5m away: "41 West Street, Bristol, VT" -->
-    <tag k="addr:city" v="Bristol"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="39519"/>
-  </node>
   <node id="-770" visible="true" lat="44.13423429" lon="-73.07971562">
-    <!-- conflict: "8 Park Place, Bristol, VT" No match in OSM, but a different address exists <5m away: "10 Park Street, Bristol, VT" -->
+    <!-- conflict: "8 Park Place, Bristol, VT" No match in OSM, but a different address exists <5m away: "10 Park Place, Bristol, VT" -->
     <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Park Place"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="39520"/>
-  </node>
-  <node id="-773" visible="true" lat="44.13418983" lon="-73.07894432">
-    <!-- conflict: "2 Park Place, Bristol, VT" Fuzzy match to "2 Park Street, Bristol, VT" -->
-    <tag k="addr:city" v="Bristol"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Park Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="39523"/>
-  </node>
-  <node id="-1372" visible="true" lat="44.14695517" lon="-73.08136191">
-    <!-- conflict: "150 Hazel Drive, Bristol, VT" No match in OSM, but a different address exists <5m away: "70 Hazel Drive, Bristol, VT" -->
-    <tag k="addr:city" v="Bristol"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Hazel Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="40198"/>
-  </node>
-  <node id="-1428" visible="true" lat="44.13419857" lon="-73.07923824">
-    <!-- conflict: "6 Park Place, Bristol, VT" Fuzzy match to "6 Park Street, Bristol, VT" -->
-    <tag k="addr:city" v="Bristol"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Park Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="40276"/>
   </node>
 </osm>

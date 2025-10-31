@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-819" visible="true" lat="44.03479463" lon="-73.25879544">
-    <!-- conflict: "208 Raymond Drive, Bridport, VT" Fuzzy match to "208 Raymond Drive, Weybridge, VT" -->
+  <node id="-247" visible="true" lat="44.00806778" lon="-73.30800036">
+    <!-- conflict: "1539 Vermont Route 22A, Bridport, VT" No match in OSM, but a different address exists <5m away: "40 Grain Mill Drive, Bridport, VT" -->
     <tag k="addr:city" v="Bridport"/>
-    <tag k="addr:housenumber" v="208"/>
-    <tag k="addr:street" v="Raymond Drive"/>
+    <tag k="addr:housenumber" v="1539"/>
+    <tag k="addr:street" v="Vermont Route 22A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="449511"/>
+    <tag k="ref:vcgi:esiteid" v="37236"/>
   </node>
-  <node id="-827" visible="true" lat="44.03010392" lon="-73.30639039">
-    <!-- conflict: "480 Town Line Road, Bridport, VT" Fuzzy match to "480 Town Line Road, Addison, VT" -->
+  <node id="-249" visible="true" lat="44.00858411" lon="-73.30864235">
+    <!-- conflict: "1535 Vermont Route 22A, Bridport, VT" No match in OSM, but a different address exists <5m away: "11 Grain Mill Drive, Bridport, VT" -->
     <tag k="addr:city" v="Bridport"/>
-    <tag k="addr:housenumber" v="480"/>
-    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:housenumber" v="1535"/>
+    <tag k="addr:street" v="Vermont Route 22A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454624"/>
+    <tag k="ref:vcgi:esiteid" v="37238"/>
+  </node>
+  <node id="-709" visible="true" lat="44.00888005" lon="-73.30764842">
+    <!-- conflict: "1537 Vermont Route 22A, Bridport, VT" No match in OSM, but a different address exists <5m away: "75 Grain Mill Drive, Bridport, VT" -->
+    <tag k="addr:city" v="Bridport"/>
+    <tag k="addr:housenumber" v="1537"/>
+    <tag k="addr:street" v="Vermont Route 22A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="37718"/>
+  </node>
+  <node id="-875" visible="true" lat="44.00838238" lon="-73.30658345">
+    <!-- conflict: "1541 Vermont Route 22A, Bridport, VT" No match in OSM, but a different address exists <5m away: "80 Grain Mill Drive, Bridport, VT" -->
+    <tag k="addr:city" v="Bridport"/>
+    <tag k="addr:housenumber" v="1541"/>
+    <tag k="addr:street" v="Vermont Route 22A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770151"/>
   </node>
 </osm>

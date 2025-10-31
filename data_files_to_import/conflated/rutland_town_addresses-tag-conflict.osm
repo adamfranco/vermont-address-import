@@ -1,80 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-791" visible="true" lat="43.6303947" lon="-72.97580419">
-    <!-- conflict: "296 U.S. Route 7 North, , VT" No match in OSM, but a different address exists <5m away: "272 U.S. Route 7 North, Rutland Town, VT" -->
-    <tag k="addr:housenumber" v="296"/>
-    <tag k="addr:street" v="U.S. Route 7 North"/>
+  <node id="-1386" visible="true" lat="43.59992385" lon="-73.02133572">
+    <!-- conflict: "129 Old Route 4A, , VT" Fuzzy match to "129 Old Route 4a, , VT" -->
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="Old Route 4A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="214417"/>
+    <tag k="ref:vcgi:esiteid" v="215050"/>
   </node>
-  <node id="-910" visible="true" lat="43.62397556" lon="-72.95562089">
-    <!-- conflict: "299 U.S. Route 4 East, , VT" No match in OSM, but a different address exists <5m away: "299 US Route 4, Rutland, VT" -->
-    <tag k="addr:housenumber" v="299"/>
-    <tag k="addr:street" v="U.S. Route 4 East"/>
+  <node id="-1393" visible="true" lat="43.59908766" lon="-73.02111954">
+    <!-- conflict: "94 Old Route 4A, , VT" Fuzzy match to "94 Old Route 4a, , VT" -->
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Old Route 4A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="214538"/>
+    <tag k="ref:vcgi:esiteid" v="215057"/>
   </node>
-  <node id="-1466" visible="true" lat="43.59015261" lon="-72.96965942">
-    <!-- conflict: "40 U.S. Route 7 South, , VT" Fuzzy match to "40 US Route 7 South, Rutland, VT" -->
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="U.S. Route 7 South"/>
+  <node id="-1394" visible="true" lat="43.59911635" lon="-73.02183826">
+    <!-- conflict: "45 Old Route 4A, , VT" Fuzzy match to "45 Old Route 4a, , VT" -->
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Old Route 4A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215132"/>
+    <tag k="ref:vcgi:esiteid" v="215058"/>
   </node>
-  <node id="-1494" visible="true" lat="43.58834808" lon="-72.96903966">
-    <!-- conflict: "128 U.S. Route 7 South, , VT" No match in OSM, but a different address exists <5m away: "128 US Route 7, South Rutland, VT" -->
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="U.S. Route 7 South"/>
+  <node id="-1398" visible="true" lat="43.5989177" lon="-73.02144412">
+    <!-- conflict: "64 Old Route 4A, , VT" Fuzzy match to "64 Old Route 4a, , VT" -->
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Old Route 4A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215165"/>
+    <tag k="ref:vcgi:esiteid" v="215062"/>
   </node>
-  <node id="-1534" visible="true" lat="43.58509092" lon="-72.97068694">
-    <!-- conflict: "320 U.S. Route 7 South, , VT" Fuzzy match to "320 US Route 7 South, Rutland, VT" -->
-    <tag k="addr:housenumber" v="320"/>
-    <tag k="addr:street" v="U.S. Route 7 South"/>
+  <node id="-1399" visible="true" lat="43.59874537" lon="-73.02203455">
+    <!-- conflict: "47 Old Route 4A, , VT" Fuzzy match to "47 Old Route 4a, , VT" -->
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Old Route 4A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215205"/>
+    <tag k="ref:vcgi:esiteid" v="215063"/>
   </node>
-  <node id="-1538" visible="true" lat="43.58685296" lon="-72.97063876">
-    <!-- conflict: "308 U.S. Route 7 South, , VT" Fuzzy match to "308 US Route 7 South, Rutland Town, VT" -->
-    <tag k="addr:housenumber" v="308"/>
-    <tag k="addr:street" v="U.S. Route 7 South"/>
+  <node id="-1401" visible="true" lat="43.59850299" lon="-73.0217267">
+    <!-- conflict: "48 Old Route 4A, , VT" Fuzzy match to "48 Old Route 4a, , VT" -->
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Old Route 4A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215209"/>
+    <tag k="ref:vcgi:esiteid" v="215065"/>
   </node>
-  <node id="-1539" visible="true" lat="43.58662705" lon="-72.97093001">
-    <!-- conflict: "310 U.S. Route 7 South, , VT" No match in OSM, but a different address exists <5m away: "308 US Route 7 South, Rutland Town, VT" -->
-    <tag k="addr:housenumber" v="310"/>
-    <tag k="addr:street" v="U.S. Route 7 South"/>
+  <node id="-1402" visible="true" lat="43.59836018" lon="-73.02261309">
+    <!-- conflict: "31 Old Route 4A, , VT" Fuzzy match to "31 Old Route 4a, , VT" -->
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Old Route 4A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215210"/>
+    <tag k="ref:vcgi:esiteid" v="215066"/>
   </node>
-  <node id="-1693" visible="true" lat="43.65294829" lon="-72.98572436">
-    <!-- conflict: "2010 U.S. Route 7 North, , VT" No match in OSM, but a different address exists <5m away: "2006 U.S. Route 7 North, Rutland Town, VT" -->
-    <tag k="addr:housenumber" v="2010"/>
-    <tag k="addr:street" v="U.S. Route 7 North"/>
+  <node id="-1939" visible="true" lat="43.5989287" lon="-73.02504406">
+    <!-- conflict: "35 Old Route 4A, , VT" Fuzzy match to "35 Old Route 4a, , VT" -->
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Old Route 4A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="215393"/>
+    <tag k="ref:vcgi:esiteid" v="756571"/>
   </node>
-  <node id="-1805" visible="true" lat="43.65700059" lon="-72.97492665">
-    <!-- conflict: "643 Prospect Hill Road, , VT" No match in OSM, but a different address exists <5m away: "517 Prospect Hill Road, Rutland Town, VT" -->
-    <tag k="addr:housenumber" v="643"/>
-    <tag k="addr:street" v="Prospect Hill Road"/>
+  <node id="-1961" visible="true" lat="43.59863029" lon="-73.02225065">
+    <!-- conflict: "29 Old Route 4A, , VT" Fuzzy match to "29 Old Route 4a, , VT" -->
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Old Route 4A"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306208"/>
-  </node>
-  <node id="-1817" visible="true" lat="43.58469272" lon="-72.96893277">
-    <!-- conflict: "324 U.S. Route 7 South, , VT" No match in OSM, but a different address exists <5m away: "324 South Main Street, Rutland, VT" -->
-    <tag k="addr:housenumber" v="324"/>
-    <tag k="addr:street" v="U.S. Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="309225"/>
-  </node>
-  <node id="-2013" visible="true" lat="43.6031821" lon="-73.02471593">
-    <!-- conflict: "3572 West Proctor Road, , VT" No match in OSM, but a different address exists <5m away: " Proctor Road, Rutland Town, VT" -->
-    <tag k="addr:housenumber" v="3572"/>
-    <tag k="addr:street" v="West Proctor Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620418"/>
+    <tag k="ref:vcgi:esiteid" v="761357"/>
   </node>
 </osm>

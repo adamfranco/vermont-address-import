@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-135" visible="true" lat="44.54036691" lon="-71.93831567">
+    <!-- conflict: "1608 Ridge Road, , VT" No match in OSM, but a different address exists <5m away: "1584 Ridge Road, , VT" -->
+    <tag k="addr:housenumber" v="1608"/>
+    <tag k="addr:street" v="Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="138963"/>
+  </node>
+  <node id="-409" visible="true" lat="44.56658063" lon="-71.91819127">
+    <!-- conflict: "270 Brindle Terrace, , VT" No match in OSM, but a different address exists <5m away: "242 Brindle Terrace, , VT" -->
+    <tag k="addr:housenumber" v="270"/>
+    <tag k="addr:street" v="Brindle Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764326"/>
+  </node>
 </osm>

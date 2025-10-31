@@ -7,18 +7,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126492"/>
   </node>
-  <node id="-968" visible="true" lat="44.93907422" lon="-73.03021242">
+  <node id="-311" visible="true" lat="44.97885133" lon="-73.10764044">
+    <!-- offset: "40 Woodduck Drive, , VT" Significant offset - 7001m -->
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Woodduck Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126701"/>
+  </node>
+  <node id="-966" visible="true" lat="44.93907422" lon="-73.03021242">
     <!-- offset: "83 Meadow Lane, , VT" Significant offset - 6197.5m -->
     <tag k="addr:housenumber" v="83"/>
     <tag k="addr:street" v="Meadow Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="127372"/>
-  </node>
-  <node id="-1656" visible="true" lat="44.92697476" lon="-72.96928335">
-    <!-- offset: "57 Raymo Drive, , VT" Significant offset - 108.9m -->
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Raymo Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="128082"/>
   </node>
 </osm>

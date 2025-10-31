@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-611" visible="true" lat="44.61133662" lon="-73.01166367">
+    <!-- multiple: "26 Common Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Common Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281772"/>
+  </node>
   <node id="-733" visible="true" lat="44.60295239" lon="-73.01895433">
     <!-- multiple: "146 Brookside Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="146"/>
     <tag k="addr:street" v="Brookside Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281896"/>
+  </node>
+  <node id="-746" visible="true" lat="44.60428365" lon="-73.06957407">
+    <!-- multiple: "120 Devino Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Devino Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281912"/>
+  </node>
+  <node id="-747" visible="true" lat="44.6026405" lon="-73.07113568">
+    <!-- multiple: "184 Devino Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="184"/>
+    <tag k="addr:street" v="Devino Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281913"/>
+  </node>
+  <node id="-1047" visible="true" lat="44.5771633" lon="-73.07752152">
+    <!-- multiple: "206 Rollin Irish Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:street" v="Rollin Irish Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="282221"/>
+  </node>
+  <node id="-1157" visible="true" lat="44.5518531" lon="-72.97278672">
+    <!-- multiple: "351 Cilley Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="351"/>
+    <tag k="addr:street" v="Cilley Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="282335"/>
+  </node>
+  <node id="-1234" visible="true" lat="44.61688168" lon="-73.00977745">
+    <!-- multiple: "55 Pearwood Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Pearwood Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="312512"/>
   </node>
 </osm>

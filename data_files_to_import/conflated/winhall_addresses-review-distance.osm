@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1523" visible="true" lat="43.12389127" lon="-72.89982102">
-    <!-- offset: "97 North Branch Road, , VT" Significant offset - 396.1m -->
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="North Branch Road"/>
+  <node id="-1199" visible="true" lat="43.1207199" lon="-72.88130187">
+    <!-- offset: "125 Upper Taylor Hill Road, , VT" Significant offset - 120.6m -->
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Upper Taylor Hill Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298416"/>
+    <tag k="ref:vcgi:esiteid" v="298062"/>
+  </node>
+  <node id="-1819" visible="true" lat="43.15277259" lon="-72.86626602">
+    <!-- offset: "8 Wall Street, , VT" Significant offset - 102.2m -->
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Wall Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="332299"/>
+  </node>
+  <node id="-1849" visible="true" lat="43.20227066" lon="-72.87356505">
+    <!-- offset: "56 South Road, , VT" Significant offset - 576m -->
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449215"/>
   </node>
   <node id="-1850" visible="true" lat="43.2027518" lon="-72.87277044">
-    <!-- offset: "48 South Road, , VT" Significant offset - 664.4m -->
+    <!-- offset: "48 South Road, , VT" Significant offset - 663.2m -->
     <tag k="addr:housenumber" v="48"/>
     <tag k="addr:street" v="South Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="449217"/>
+  </node>
+  <node id="-1881" visible="true" lat="43.14831443" lon="-72.91075484">
+    <!-- offset: "83 Pumpkin Mill Way, , VT" Significant offset - 113.4m -->
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Pumpkin Mill Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752420"/>
+  </node>
+  <node id="-1883" visible="true" lat="43.20887824" lon="-72.98289462">
+    <!-- offset: "187 Vermont Route 11 30, , VT" Significant offset - 708.1m -->
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Vermont Route 11 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755067"/>
   </node>
 </osm>

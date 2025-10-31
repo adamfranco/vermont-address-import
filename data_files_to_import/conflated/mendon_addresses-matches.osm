@@ -35,6 +35,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153254"/>
   </node>
+  <node id="-105" visible="true" lat="43.67410948" lon="-72.86876869">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1701"/>
+    <tag k="addr:street" v="Old Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153255"/>
+  </node>
   <node id="-106" visible="true" lat="43.67283028" lon="-72.86856183">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="20"/>
@@ -266,6 +273,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153289"/>
   </node>
+  <node id="-139" visible="true" lat="43.67081963" lon="-72.85882699">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="6677"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153290"/>
+  </node>
   <node id="-140" visible="true" lat="43.66772238" lon="-72.84812875">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="105"/>
@@ -286,6 +300,13 @@
     <tag k="addr:street" v="Old Turnpike Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153293"/>
+  </node>
+  <node id="-143" visible="true" lat="43.66762653" lon="-72.8511501">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="6981"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153294"/>
   </node>
   <node id="-144" visible="true" lat="43.66756574" lon="-72.8476239">
     <tag k="addr:city" v="Mendon"/>
@@ -357,12 +378,68 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153304"/>
   </node>
+  <node id="-154" visible="true" lat="43.66559219" lon="-72.93927765">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1274"/>
+    <tag k="addr:street" v="Meadow Lake Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153305"/>
+  </node>
   <node id="-155" visible="true" lat="43.66589113" lon="-72.86319853">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="388"/>
     <tag k="addr:street" v="Craigs Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153306"/>
+  </node>
+  <node id="-156" visible="true" lat="43.66574901" lon="-72.86401034">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Trail View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153307"/>
+  </node>
+  <node id="-157" visible="true" lat="43.66489446" lon="-72.93915369">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1210"/>
+    <tag k="addr:street" v="Meadow Lake Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153308"/>
+  </node>
+  <node id="-158" visible="true" lat="43.66503607" lon="-72.86416622">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Trail View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153309"/>
+  </node>
+  <node id="-159" visible="true" lat="43.6649586" lon="-72.88588033">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="776"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153310"/>
+  </node>
+  <node id="-160" visible="true" lat="43.66498184" lon="-72.86468505">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Trail View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153311"/>
+  </node>
+  <node id="-161" visible="true" lat="43.66468418" lon="-72.93819233">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Currier Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153312"/>
+  </node>
+  <node id="-162" visible="true" lat="43.66470718" lon="-72.93324279">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="337"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153313"/>
   </node>
   <node id="-163" visible="true" lat="43.66470433" lon="-72.86331342">
     <tag k="addr:city" v="Mendon"/>
@@ -371,12 +448,110 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153314"/>
   </node>
+  <node id="-164" visible="true" lat="43.66437582" lon="-72.93489353">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="291"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153315"/>
+  </node>
+  <node id="-165" visible="true" lat="43.6643842" lon="-72.93865998">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Currier Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153316"/>
+  </node>
+  <node id="-166" visible="true" lat="43.66439512" lon="-72.88902778">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="775"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153317"/>
+  </node>
+  <node id="-167" visible="true" lat="43.66407775" lon="-72.93812561">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Currier Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153318"/>
+  </node>
+  <node id="-168" visible="true" lat="43.66406584" lon="-72.93915658">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Currier Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153319"/>
+  </node>
+  <node id="-169" visible="true" lat="43.66412425" lon="-72.93618062">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153320"/>
+  </node>
+  <node id="-170" visible="true" lat="43.66343965" lon="-72.9332345">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="339"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153321"/>
+  </node>
+  <node id="-171" visible="true" lat="43.66354428" lon="-72.93826529">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153322"/>
+  </node>
+  <node id="-172" visible="true" lat="43.66357034" lon="-72.87818994">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="769"/>
+    <tag k="addr:street" v="Old Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153324"/>
+  </node>
+  <node id="-173" visible="true" lat="43.66382234" lon="-72.86556646">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="6179"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153325"/>
+  </node>
+  <node id="-174" visible="true" lat="43.66281435" lon="-72.93690206">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153326"/>
+  </node>
+  <node id="-175" visible="true" lat="43.66279965" lon="-72.93608131">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="216"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153327"/>
+  </node>
   <node id="-176" visible="true" lat="43.66310566" lon="-72.86553058">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Barbers Loop"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153329"/>
+  </node>
+  <node id="-177" visible="true" lat="43.66242841" lon="-72.93483812">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="268"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153330"/>
+  </node>
+  <node id="-178" visible="true" lat="43.66300744" lon="-72.88755486">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="652"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153331"/>
   </node>
   <node id="-179" visible="true" lat="43.66291076" lon="-72.86536285">
     <tag k="addr:city" v="Mendon"/>
@@ -391,6 +566,20 @@
     <tag k="addr:street" v="Barbers Loop"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153333"/>
+  </node>
+  <node id="-181" visible="true" lat="43.66237304" lon="-72.93835652">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153334"/>
+  </node>
+  <node id="-182" visible="true" lat="43.66261999" lon="-72.88946758">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="617"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153335"/>
   </node>
   <node id="-183" visible="true" lat="43.66268611" lon="-72.86595172">
     <tag k="addr:city" v="Mendon"/>
@@ -412,6 +601,27 @@
     <tag k="addr:street" v="Cortina Country Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153338"/>
+  </node>
+  <node id="-186" visible="true" lat="43.66219388" lon="-72.93569578">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="340"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153339"/>
+  </node>
+  <node id="-187" visible="true" lat="43.66361552" lon="-72.88148298">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="629"/>
+    <tag k="addr:street" v="Old Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153340"/>
+  </node>
+  <node id="-188" visible="true" lat="43.6621998" lon="-72.88062785">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="569"/>
+    <tag k="addr:street" v="Old Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153341"/>
   </node>
   <node id="-189" visible="true" lat="43.66163559" lon="-72.9350136">
     <tag k="addr:city" v="Mendon"/>
@@ -441,12 +651,54 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153345"/>
   </node>
+  <node id="-193" visible="true" lat="43.66168594" lon="-72.89232635">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="533"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153346"/>
+  </node>
+  <node id="-194" visible="true" lat="43.66140727" lon="-72.93733512">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153347"/>
+  </node>
   <node id="-195" visible="true" lat="43.66125328" lon="-72.93889692">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="976"/>
     <tag k="addr:street" v="Meadow Lake Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153348"/>
+  </node>
+  <node id="-196" visible="true" lat="43.66141671" lon="-72.88094759">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="545"/>
+    <tag k="addr:street" v="Old Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153349"/>
+  </node>
+  <node id="-197" visible="true" lat="43.66107433" lon="-72.88934234">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="534"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153350"/>
+  </node>
+  <node id="-198" visible="true" lat="43.66103662" lon="-72.86820364">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Cortina Country Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153351"/>
+  </node>
+  <node id="-199" visible="true" lat="43.66105651" lon="-72.86776733">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5983"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153352"/>
   </node>
   <node id="-200" visible="true" lat="43.66066323" lon="-72.93816943">
     <tag k="addr:city" v="Mendon"/>
@@ -455,6 +707,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153353"/>
   </node>
+  <node id="-201" visible="true" lat="43.6604318" lon="-72.88221482">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="449"/>
+    <tag k="addr:street" v="Old Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153354"/>
+  </node>
   <node id="-202" visible="true" lat="43.66022155" lon="-72.93846804">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="870"/>
@@ -462,12 +721,61 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153355"/>
   </node>
+  <node id="-203" visible="true" lat="43.65995719" lon="-72.93216568">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="243"/>
+    <tag k="addr:street" v="Fernwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153356"/>
+  </node>
+  <node id="-204" visible="true" lat="43.66007572" lon="-72.89421323">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Wright Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153357"/>
+  </node>
   <node id="-205" visible="true" lat="43.65989303" lon="-72.93818664">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="854"/>
     <tag k="addr:street" v="Meadow Lake Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153358"/>
+  </node>
+  <node id="-206" visible="true" lat="43.65997619" lon="-72.88668192">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="271"/>
+    <tag k="addr:street" v="Old Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153359"/>
+  </node>
+  <node id="-207" visible="true" lat="43.65979841" lon="-72.93539266">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="792"/>
+    <tag k="addr:street" v="Meadow Lake Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153360"/>
+  </node>
+  <node id="-208" visible="true" lat="43.6601781" lon="-72.88988136">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="434"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153361"/>
+  </node>
+  <node id="-209" visible="true" lat="43.65974547" lon="-72.89106868">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="387"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153362"/>
+  </node>
+  <node id="-210" visible="true" lat="43.65957685" lon="-72.93393877">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Fernwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153363"/>
   </node>
   <node id="-211" visible="true" lat="43.65947723" lon="-72.93852233">
     <tag k="addr:city" v="Mendon"/>
@@ -483,6 +791,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153365"/>
   </node>
+  <node id="-213" visible="true" lat="43.65933514" lon="-72.86781385">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5900"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153366"/>
+  </node>
   <node id="-214" visible="true" lat="43.6591485" lon="-72.93780415">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="793"/>
@@ -496,6 +811,20 @@
     <tag k="addr:street" v="Meadow Lake Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153368"/>
+  </node>
+  <node id="-216" visible="true" lat="43.65884862" lon="-72.93215068">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:street" v="Fernwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153369"/>
+  </node>
+  <node id="-217" visible="true" lat="43.65872926" lon="-72.89427346">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Wright Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153370"/>
   </node>
   <node id="-218" visible="true" lat="43.65833004" lon="-72.87237676">
     <tag k="addr:city" v="Mendon"/>
@@ -511,12 +840,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153372"/>
   </node>
+  <node id="-220" visible="true" lat="43.65838224" lon="-72.89105894">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="312"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153373"/>
+  </node>
   <node id="-221" visible="true" lat="43.65780951" lon="-72.93663391">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="639"/>
     <tag k="addr:street" v="Meadow Lake Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153374"/>
+  </node>
+  <node id="-222" visible="true" lat="43.65769881" lon="-72.89546771">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="180"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153375"/>
+  </node>
+  <node id="-223" visible="true" lat="43.65792147" lon="-72.87020594">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5738"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153376"/>
   </node>
   <node id="-224" visible="true" lat="43.65761117" lon="-72.87571605">
     <tag k="addr:city" v="Mendon"/>
@@ -545,6 +895,41 @@
     <tag k="addr:street" v="U.S. Route 4"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153380"/>
+  </node>
+  <node id="-228" visible="true" lat="43.65702025" lon="-72.92315418">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="796"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153381"/>
+  </node>
+  <node id="-229" visible="true" lat="43.65628828" lon="-72.87175492">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5610"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153382"/>
+  </node>
+  <node id="-230" visible="true" lat="43.65698983" lon="-72.92583463">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="880"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153383"/>
+  </node>
+  <node id="-231" visible="true" lat="43.65697636" lon="-72.92429541">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="872"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153384"/>
+  </node>
+  <node id="-232" visible="true" lat="43.65672064" lon="-72.92194429">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="740"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153385"/>
   </node>
   <node id="-233" visible="true" lat="43.65679405" lon="-72.88998967">
     <tag k="addr:city" v="Mendon"/>
@@ -581,12 +966,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153391"/>
   </node>
+  <node id="-238" visible="true" lat="43.65646806" lon="-72.92515184">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="882"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153392"/>
+  </node>
+  <node id="-239" visible="true" lat="43.65652642" lon="-72.92686129">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="357"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153393"/>
+  </node>
   <node id="-240" visible="true" lat="43.65661594" lon="-72.87640742">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="5433"/>
     <tag k="addr:street" v="U.S. Route 4"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153395"/>
+  </node>
+  <node id="-241" visible="true" lat="43.65634143" lon="-72.9238598">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="849"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153396"/>
+  </node>
+  <node id="-242" visible="true" lat="43.65606839" lon="-72.92299124">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="791"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153397"/>
   </node>
   <node id="-243" visible="true" lat="43.65634821" lon="-72.87457928">
     <tag k="addr:city" v="Mendon"/>
@@ -609,6 +1022,48 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153400"/>
   </node>
+  <node id="-246" visible="true" lat="43.65602846" lon="-72.92482581">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="916"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153401"/>
+  </node>
+  <node id="-247" visible="true" lat="43.65611294" lon="-72.92158997">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="718"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153402"/>
+  </node>
+  <node id="-248" visible="true" lat="43.65601681" lon="-72.91137963">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="784"/>
+    <tag k="addr:street" v="Journeys End"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153403"/>
+  </node>
+  <node id="-249" visible="true" lat="43.65603386" lon="-72.89146931">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153404"/>
+  </node>
+  <node id="-250" visible="true" lat="43.65586208" lon="-72.92241423">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="691"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153405"/>
+  </node>
+  <node id="-251" visible="true" lat="43.65566452" lon="-72.92427391">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="923"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153406"/>
+  </node>
   <node id="-252" visible="true" lat="43.65600211" lon="-72.88522424">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="4983"/>
@@ -630,6 +1085,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153409"/>
   </node>
+  <node id="-255" visible="true" lat="43.65576429" lon="-72.87667598">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5404"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153410"/>
+  </node>
   <node id="-256" visible="true" lat="43.65570284" lon="-72.88222427">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="5115"/>
@@ -643,6 +1105,76 @@
     <tag k="addr:street" v="U.S. Route 4"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153412"/>
+  </node>
+  <node id="-258" visible="true" lat="43.65539231" lon="-72.92128967">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="670"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153413"/>
+  </node>
+  <node id="-259" visible="true" lat="43.65526339" lon="-72.92200155">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="645"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153414"/>
+  </node>
+  <node id="-260" visible="true" lat="43.65522336" lon="-72.90888018">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="688"/>
+    <tag k="addr:street" v="Journeys End"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153415"/>
+  </node>
+  <node id="-261" visible="true" lat="43.65509215" lon="-72.92618082">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Terra Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153416"/>
+  </node>
+  <node id="-262" visible="true" lat="43.65534656" lon="-72.87230577">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153417"/>
+  </node>
+  <node id="-263" visible="true" lat="43.65525426" lon="-72.87291481">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153418"/>
+  </node>
+  <node id="-264" visible="true" lat="43.65519313" lon="-72.92266095">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="581"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153419"/>
+  </node>
+  <node id="-265" visible="true" lat="43.65504318" lon="-72.92528251">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Terra Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153420"/>
+  </node>
+  <node id="-266" visible="true" lat="43.65509414" lon="-72.92346954">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="577"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153421"/>
+  </node>
+  <node id="-267" visible="true" lat="43.65510893" lon="-72.92123385">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="636"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153422"/>
   </node>
   <node id="-268" visible="true" lat="43.65500212" lon="-72.93290438">
     <tag k="addr:city" v="Mendon"/>
@@ -686,6 +1218,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153428"/>
   </node>
+  <node id="-274" visible="true" lat="43.65467943" lon="-72.92433836">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Terra Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153429"/>
+  </node>
+  <node id="-275" visible="true" lat="43.65459686" lon="-72.92512093">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:street" v="Terra Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153430"/>
+  </node>
   <node id="-276" visible="true" lat="43.65439538" lon="-72.93395721">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="411"/>
@@ -707,12 +1253,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153434"/>
   </node>
+  <node id="-279" visible="true" lat="43.65437979" lon="-72.9234339">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="522"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153435"/>
+  </node>
   <node id="-280" visible="true" lat="43.65428049" lon="-72.91156758">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="785"/>
     <tag k="addr:street" v="Journeys End"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153436"/>
+  </node>
+  <node id="-281" visible="true" lat="43.654295" lon="-72.92165023">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="618"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153437"/>
   </node>
   <node id="-282" visible="true" lat="43.65467964" lon="-72.88445602">
     <tag k="addr:city" v="Mendon"/>
@@ -727,6 +1287,20 @@
     <tag k="addr:street" v="Cream Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153439"/>
+  </node>
+  <node id="-284" visible="true" lat="43.65440773" lon="-72.91089029">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="741"/>
+    <tag k="addr:street" v="Journeys End"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153440"/>
+  </node>
+  <node id="-285" visible="true" lat="43.65436172" lon="-72.893898">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153441"/>
   </node>
   <node id="-286" visible="true" lat="43.65443491" lon="-72.88582096">
     <tag k="addr:city" v="Mendon"/>
@@ -748,6 +1322,20 @@
     <tag k="addr:street" v="Sherwood Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153444"/>
+  </node>
+  <node id="-289" visible="true" lat="43.65410454" lon="-72.9260503">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Terra Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153445"/>
+  </node>
+  <node id="-290" visible="true" lat="43.65424434" lon="-72.92412388">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Terra Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153447"/>
   </node>
   <node id="-291" visible="true" lat="43.65428196" lon="-72.91013876">
     <tag k="addr:city" v="Mendon"/>
@@ -791,6 +1379,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153453"/>
   </node>
+  <node id="-297" visible="true" lat="43.65390688" lon="-72.89474997">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153454"/>
+  </node>
   <node id="-298" visible="true" lat="43.65398373" lon="-72.89035414">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="4693"/>
@@ -811,6 +1406,13 @@
     <tag k="addr:street" v="Johns Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153457"/>
+  </node>
+  <node id="-301" visible="true" lat="43.65366815" lon="-72.88137262">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="262"/>
+    <tag k="addr:street" v="Gateway Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153458"/>
   </node>
   <node id="-302" visible="true" lat="43.65388513" lon="-72.89166616">
     <tag k="addr:city" v="Mendon"/>
@@ -846,6 +1448,13 @@
     <tag k="addr:street" v="Leisure Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153463"/>
+  </node>
+  <node id="-307" visible="true" lat="43.65348392" lon="-72.88382411">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Gateway Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153464"/>
   </node>
   <node id="-308" visible="true" lat="43.65338095" lon="-72.90695137">
     <tag k="addr:city" v="Mendon"/>
@@ -896,6 +1505,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153471"/>
   </node>
+  <node id="-315" visible="true" lat="43.65279922" lon="-72.91722495">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:street" v="Medway Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153473"/>
+  </node>
   <node id="-316" visible="true" lat="43.65254507" lon="-72.88516271">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="188"/>
@@ -910,12 +1526,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153475"/>
   </node>
+  <node id="-318" visible="true" lat="43.65271699" lon="-72.9194382">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Medway Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153476"/>
+  </node>
   <node id="-319" visible="true" lat="43.65234361" lon="-72.90567863">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="454"/>
     <tag k="addr:street" v="Journeys End"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153477"/>
+  </node>
+  <node id="-320" visible="true" lat="43.65220371" lon="-72.91994252">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Medway Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153478"/>
   </node>
   <node id="-321" visible="true" lat="43.65230652" lon="-72.88269162">
     <tag k="addr:city" v="Mendon"/>
@@ -945,6 +1575,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153482"/>
   </node>
+  <node id="-325" visible="true" lat="43.65178835" lon="-72.93041427">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Meadow Lake Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153483"/>
+  </node>
   <node id="-326" visible="true" lat="43.65166833" lon="-72.89270829">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="4498"/>
@@ -966,6 +1603,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153487"/>
   </node>
+  <node id="-329" visible="true" lat="43.6514545" lon="-72.90735972">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="465"/>
+    <tag k="addr:street" v="Journeys End"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153488"/>
+  </node>
   <node id="-330" visible="true" lat="43.65125967" lon="-72.92680203">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="2596"/>
@@ -986,6 +1630,13 @@
     <tag k="addr:street" v="U.S. Route 4"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153491"/>
+  </node>
+  <node id="-333" visible="true" lat="43.65126096" lon="-72.90640039">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="463"/>
+    <tag k="addr:street" v="Journeys End"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153492"/>
   </node>
   <node id="-334" visible="true" lat="43.65121407" lon="-72.88280489">
     <tag k="addr:city" v="Mendon"/>
@@ -1028,6 +1679,20 @@
     <tag k="addr:street" v="U.S. Route 4"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153498"/>
+  </node>
+  <node id="-340" visible="true" lat="43.6505685" lon="-72.9271655">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="2556"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153499"/>
+  </node>
+  <node id="-341" visible="true" lat="43.65047904" lon="-72.88998932">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Woodward Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153500"/>
   </node>
   <node id="-342" visible="true" lat="43.65022254" lon="-72.88469175">
     <tag k="addr:city" v="Mendon"/>
@@ -1120,6 +1785,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153513"/>
   </node>
+  <node id="-355" visible="true" lat="43.64942822" lon="-72.90263102">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="180"/>
+    <tag k="addr:street" v="Journeys End"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153514"/>
+  </node>
   <node id="-356" visible="true" lat="43.64936035" lon="-72.88322067">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="160"/>
@@ -1147,6 +1819,13 @@
     <tag k="addr:street" v="Deer Run"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153518"/>
+  </node>
+  <node id="-360" visible="true" lat="43.64834994" lon="-72.92754499">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:street" v="Old Stockbridge Path"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153519"/>
   </node>
   <node id="-361" visible="true" lat="43.64833856" lon="-72.88263726">
     <tag k="addr:city" v="Mendon"/>
@@ -1323,6 +2002,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153547"/>
   </node>
+  <node id="-386" visible="true" lat="43.64436145" lon="-72.93386943">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Cedar Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153548"/>
+  </node>
   <node id="-387" visible="true" lat="43.64420882" lon="-72.92998001">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="2080"/>
@@ -1400,6 +2086,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153559"/>
   </node>
+  <node id="-398" visible="true" lat="43.64317991" lon="-72.93510121">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Hemlock Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153560"/>
+  </node>
   <node id="-399" visible="true" lat="43.6430756" lon="-72.93454846">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="218"/>
@@ -1428,6 +2121,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153564"/>
   </node>
+  <node id="-403" visible="true" lat="43.64277227" lon="-72.88736924">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1042"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153565"/>
+  </node>
   <node id="-404" visible="true" lat="43.64253387" lon="-72.93059706">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="1978"/>
@@ -1435,12 +2135,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153566"/>
   </node>
+  <node id="-405" visible="true" lat="43.64243004" lon="-72.93434715">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="229"/>
+    <tag k="addr:street" v="Cedar Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153567"/>
+  </node>
+  <node id="-406" visible="true" lat="43.6425386" lon="-72.93512069">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:street" v="Cedar Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153568"/>
+  </node>
   <node id="-407" visible="true" lat="43.64257718" lon="-72.89827202">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="318"/>
     <tag k="addr:street" v="Wheelerville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153569"/>
+  </node>
+  <node id="-408" visible="true" lat="43.64207546" lon="-72.93545331">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="273"/>
+    <tag k="addr:street" v="Cedar Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153570"/>
+  </node>
+  <node id="-409" visible="true" lat="43.6421457" lon="-72.93426505">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Cedar Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153571"/>
+  </node>
+  <node id="-410" visible="true" lat="43.64219665" lon="-72.89220428">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="810"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153572"/>
   </node>
   <node id="-411" visible="true" lat="43.64194756" lon="-72.93190817">
     <tag k="addr:city" v="Mendon"/>
@@ -1462,6 +2197,13 @@
     <tag k="addr:street" v="U.S. Route 4"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153575"/>
+  </node>
+  <node id="-414" visible="true" lat="43.64119189" lon="-72.93756245">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Hemlock Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153576"/>
   </node>
   <node id="-415" visible="true" lat="43.64110572" lon="-72.93172159">
     <tag k="addr:city" v="Mendon"/>
@@ -1554,6 +2296,230 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153590"/>
   </node>
+  <node id="-428" visible="true" lat="43.6387825" lon="-72.86942291">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="2513"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153591"/>
+  </node>
+  <node id="-429" visible="true" lat="43.63851135" lon="-72.93636285">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Chalet Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153592"/>
+  </node>
+  <node id="-430" visible="true" lat="43.6384639" lon="-72.93562803">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Chalet Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153593"/>
+  </node>
+  <node id="-431" visible="true" lat="43.63836418" lon="-72.93520591">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Chalet Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153594"/>
+  </node>
+  <node id="-432" visible="true" lat="43.63832669" lon="-72.93509402">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Chalet Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153595"/>
+  </node>
+  <node id="-433" visible="true" lat="43.63840818" lon="-72.93416806">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1635"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153596"/>
+  </node>
+  <node id="-434" visible="true" lat="43.63805622" lon="-72.93340761">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1644"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153597"/>
+  </node>
+  <node id="-435" visible="true" lat="43.63801094" lon="-72.9329783">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="254"/>
+    <tag k="addr:street" v="Gale Grove"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153598"/>
+  </node>
+  <node id="-436" visible="true" lat="43.63670067" lon="-72.93565319">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Valley View"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153599"/>
+  </node>
+  <node id="-437" visible="true" lat="43.63589999" lon="-72.93534191">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Industrial Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153600"/>
+  </node>
+  <node id="-438" visible="true" lat="43.63554511" lon="-72.93727726">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Best Western Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153601"/>
+  </node>
+  <node id="-439" visible="true" lat="43.63534558" lon="-72.93608596">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Industrial Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153602"/>
+  </node>
+  <node id="-440" visible="true" lat="43.6354939" lon="-72.92901662">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="369"/>
+    <tag k="addr:street" v="Orchard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153603"/>
+  </node>
+  <node id="-441" visible="true" lat="43.63527377" lon="-72.93496545">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Industrial Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153604"/>
+  </node>
+  <node id="-442" visible="true" lat="43.63532383" lon="-72.93180214">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="Orchard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153605"/>
+  </node>
+  <node id="-443" visible="true" lat="43.63524745" lon="-72.92527456">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="417"/>
+    <tag k="addr:street" v="Orchard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153606"/>
+  </node>
+  <node id="-444" visible="true" lat="43.63485017" lon="-72.93688064">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1360"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153607"/>
+  </node>
+  <node id="-445" visible="true" lat="43.63441845" lon="-72.93653691">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153608"/>
+  </node>
+  <node id="-446" visible="true" lat="43.63395871" lon="-72.93706616">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153609"/>
+  </node>
+  <node id="-447" visible="true" lat="43.63347933" lon="-72.93695366">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153611"/>
+  </node>
+  <node id="-448" visible="true" lat="43.63332121" lon="-72.93676411">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153612"/>
+  </node>
+  <node id="-449" visible="true" lat="43.63303547" lon="-72.93687908">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153613"/>
+  </node>
+  <node id="-450" visible="true" lat="43.6327813" lon="-72.93688997">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153614"/>
+  </node>
+  <node id="-451" visible="true" lat="43.63244808" lon="-72.93680528">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153615"/>
+  </node>
+  <node id="-452" visible="true" lat="43.63208545" lon="-72.93682922">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="191"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153616"/>
+  </node>
+  <node id="-453" visible="true" lat="43.63259166" lon="-72.86982606">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="2961"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153617"/>
+  </node>
+  <node id="-454" visible="true" lat="43.631683" lon="-72.93689566">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153618"/>
+  </node>
+  <node id="-455" visible="true" lat="43.6313842" lon="-72.93682396">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="257"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153619"/>
+  </node>
+  <node id="-456" visible="true" lat="43.6311061" lon="-72.93680715">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="271"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153620"/>
+  </node>
+  <node id="-457" visible="true" lat="43.63020417" lon="-72.93658927">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153621"/>
+  </node>
+  <node id="-458" visible="true" lat="43.63005906" lon="-72.93682811">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153622"/>
+  </node>
+  <node id="-459" visible="true" lat="43.62897192" lon="-72.93661371">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="405"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153623"/>
+  </node>
   <node id="-460" visible="true" lat="43.62831048" lon="-72.87199807">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="3284"/>
@@ -1568,12 +2534,54 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153625"/>
   </node>
+  <node id="-462" visible="true" lat="43.62651917" lon="-72.93501371">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="545"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153626"/>
+  </node>
+  <node id="-463" visible="true" lat="43.62537102" lon="-72.93663701">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Freds Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153627"/>
+  </node>
+  <node id="-464" visible="true" lat="43.62495784" lon="-72.93648423">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Freds Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153628"/>
+  </node>
+  <node id="-465" visible="true" lat="43.62482772" lon="-72.93616788">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Freds Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153629"/>
+  </node>
   <node id="-466" visible="true" lat="43.62481796" lon="-72.87484657">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="3586"/>
     <tag k="addr:street" v="Wheelerville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153630"/>
+  </node>
+  <node id="-467" visible="true" lat="43.62431235" lon="-72.93649889">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="725"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153631"/>
+  </node>
+  <node id="-468" visible="true" lat="43.62389981" lon="-72.93620868">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="755"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153632"/>
   </node>
   <node id="-469" visible="true" lat="43.62387771" lon="-72.87221916">
     <tag k="addr:city" v="Mendon"/>
@@ -1582,12 +2590,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153633"/>
   </node>
+  <node id="-470" visible="true" lat="43.6233906" lon="-72.93442789">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="797"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153634"/>
+  </node>
   <node id="-471" visible="true" lat="43.62261421" lon="-72.87719057">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="3752"/>
     <tag k="addr:street" v="Wheelerville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153635"/>
+  </node>
+  <node id="-472" visible="true" lat="43.62209327" lon="-72.93640009">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="887"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153636"/>
+  </node>
+  <node id="-473" visible="true" lat="43.62177831" lon="-72.93595199">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="907"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153637"/>
   </node>
   <node id="-474" visible="true" lat="43.61982452" lon="-72.93552518">
     <tag k="addr:city" v="Mendon"/>
@@ -1603,6 +2632,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153639"/>
   </node>
+  <node id="-476" visible="true" lat="43.61958393" lon="-72.93230822">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="989"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153640"/>
+  </node>
   <node id="-477" visible="true" lat="43.61191803" lon="-72.87254745">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="3987"/>
@@ -1616,6 +2652,13 @@
     <tag k="addr:street" v="Wheelerville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153642"/>
+  </node>
+  <node id="-479" visible="true" lat="43.61804844" lon="-72.93129615">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="268"/>
+    <tag k="addr:street" v="White Pine Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153643"/>
   </node>
   <node id="-480" visible="true" lat="43.61803197" lon="-72.88522621">
     <tag k="addr:city" v="Mendon"/>
@@ -1631,6 +2674,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153645"/>
   </node>
+  <node id="-482" visible="true" lat="43.61776395" lon="-72.9305836">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="296"/>
+    <tag k="addr:street" v="White Pine Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153646"/>
+  </node>
   <node id="-483" visible="true" lat="43.617139" lon="-72.93548818">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="1251"/>
@@ -1645,12 +2695,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153648"/>
   </node>
+  <node id="-485" visible="true" lat="43.61429539" lon="-72.88698525">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="4625"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153649"/>
+  </node>
   <node id="-486" visible="true" lat="43.61479705" lon="-72.93519295">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="1419"/>
     <tag k="addr:street" v="Town Line Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153650"/>
+  </node>
+  <node id="-487" visible="true" lat="43.6141569" lon="-72.93213007">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="418"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153651"/>
+  </node>
+  <node id="-488" visible="true" lat="43.61426284" lon="-72.93130677">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="382"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153652"/>
   </node>
   <node id="-489" visible="true" lat="43.61425325" lon="-72.93531164">
     <tag k="addr:city" v="Mendon"/>
@@ -1659,12 +2730,110 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153653"/>
   </node>
+  <node id="-490" visible="true" lat="43.61417268" lon="-72.9328572">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="454"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153654"/>
+  </node>
   <node id="-491" visible="true" lat="43.61382195" lon="-72.9360808">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="1457"/>
     <tag k="addr:street" v="Town Line Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153655"/>
+  </node>
+  <node id="-492" visible="true" lat="43.61361605" lon="-72.93136115">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="399"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153656"/>
+  </node>
+  <node id="-493" visible="true" lat="43.61358162" lon="-72.93285492">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="475"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153657"/>
+  </node>
+  <node id="-494" visible="true" lat="43.6135791" lon="-72.93207776">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="431"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153658"/>
+  </node>
+  <node id="-495" visible="true" lat="43.61361098" lon="-72.93359752">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="543"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153659"/>
+  </node>
+  <node id="-496" visible="true" lat="43.61311119" lon="-72.9321044">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153660"/>
+  </node>
+  <node id="-497" visible="true" lat="43.61314964" lon="-72.93280404">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153661"/>
+  </node>
+  <node id="-498" visible="true" lat="43.61315928" lon="-72.93132327">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153662"/>
+  </node>
+  <node id="-499" visible="true" lat="43.61304599" lon="-72.93443335">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153663"/>
+  </node>
+  <node id="-500" visible="true" lat="43.61267121" lon="-72.93051484">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153664"/>
+  </node>
+  <node id="-501" visible="true" lat="43.6125779" lon="-72.93452063">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153665"/>
+  </node>
+  <node id="-502" visible="true" lat="43.61261052" lon="-72.9320243">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="242"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153666"/>
+  </node>
+  <node id="-503" visible="true" lat="43.61251528" lon="-72.93352287">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153667"/>
+  </node>
+  <node id="-504" visible="true" lat="43.61256648" lon="-72.93286385">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="198"/>
+    <tag k="addr:street" v="Brookwood"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153668"/>
   </node>
   <node id="-505" visible="true" lat="43.61256794" lon="-72.9353228">
     <tag k="addr:city" v="Mendon"/>
@@ -1679,6 +2848,27 @@
     <tag k="addr:street" v="Town Line Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153670"/>
+  </node>
+  <node id="-507" visible="true" lat="43.61219697" lon="-72.92989114">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153671"/>
+  </node>
+  <node id="-508" visible="true" lat="43.61215984" lon="-72.93059101">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153672"/>
+  </node>
+  <node id="-509" visible="true" lat="43.61165504" lon="-72.92904076">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153673"/>
   </node>
   <node id="-510" visible="true" lat="43.61194367" lon="-72.93245459">
     <tag k="addr:city" v="Mendon"/>
@@ -1708,6 +2898,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153677"/>
   </node>
+  <node id="-514" visible="true" lat="43.61163714" lon="-72.92980953">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153678"/>
+  </node>
+  <node id="-515" visible="true" lat="43.61170426" lon="-72.93045595">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153679"/>
+  </node>
   <node id="-516" visible="true" lat="43.61168776" lon="-72.93497117">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="1605"/>
@@ -1736,6 +2940,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153684"/>
   </node>
+  <node id="-520" visible="true" lat="43.61131765" lon="-72.92968305">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153685"/>
+  </node>
   <node id="-521" visible="true" lat="43.61134615" lon="-72.93203886">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="281"/>
@@ -1756,6 +2967,13 @@
     <tag k="addr:street" v="Eastridge Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153688"/>
+  </node>
+  <node id="-524" visible="true" lat="43.61133879" lon="-72.93024861">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153689"/>
   </node>
   <node id="-525" visible="true" lat="43.61122118" lon="-72.93472345">
     <tag k="addr:city" v="Mendon"/>
@@ -1798,6 +3016,13 @@
     <tag k="addr:street" v="Eastridge Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153695"/>
+  </node>
+  <node id="-532" visible="true" lat="43.61087188" lon="-72.92916067">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153697"/>
   </node>
   <node id="-533" visible="true" lat="43.61075836" lon="-72.93259463">
     <tag k="addr:city" v="Mendon"/>
@@ -1848,12 +3073,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153704"/>
   </node>
+  <node id="-540" visible="true" lat="43.61046069" lon="-72.9298171">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153705"/>
+  </node>
   <node id="-541" visible="true" lat="43.61028292" lon="-72.93372812">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Eastridge Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153706"/>
+  </node>
+  <node id="-542" visible="true" lat="43.61028811" lon="-72.93051434">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153707"/>
+  </node>
+  <node id="-543" visible="true" lat="43.61042022" lon="-72.89542388">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5336"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153708"/>
   </node>
   <node id="-544" visible="true" lat="43.61042133" lon="-72.89611206">
     <tag k="addr:city" v="Mendon"/>
@@ -1862,6 +3108,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153709"/>
   </node>
+  <node id="-545" visible="true" lat="43.61010934" lon="-72.9354666">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Eastridge Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153710"/>
+  </node>
   <node id="-546" visible="true" lat="43.61008764" lon="-72.89187608">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="5167"/>
@@ -1869,12 +3122,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153711"/>
   </node>
+  <node id="-547" visible="true" lat="43.61005368" lon="-72.89247424">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5214"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153712"/>
+  </node>
   <node id="-548" visible="true" lat="43.60916124" lon="-72.93577346">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="1771"/>
     <tag k="addr:street" v="Town Line Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153713"/>
+  </node>
+  <node id="-549" visible="true" lat="43.60876393" lon="-72.93424948">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Notch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153714"/>
   </node>
   <node id="-550" visible="true" lat="43.60833661" lon="-72.93590223">
     <tag k="addr:city" v="Mendon"/>
@@ -1987,6 +3254,20 @@
     <tag k="addr:street" v="Mendon View Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153730"/>
+  </node>
+  <node id="-566" visible="true" lat="43.60679251" lon="-72.9035628">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5844"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153731"/>
+  </node>
+  <node id="-567" visible="true" lat="43.60596085" lon="-72.93014748">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="addr:street" v="Rose Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153732"/>
   </node>
   <node id="-568" visible="true" lat="43.60605926" lon="-72.90411226">
     <tag k="addr:city" v="Mendon"/>
@@ -2303,6 +3584,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153778"/>
   </node>
+  <node id="-613" visible="true" lat="43.59610912" lon="-72.88734932">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1255"/>
+    <tag k="addr:street" v="Falls Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153779"/>
+  </node>
   <node id="-614" visible="true" lat="43.59506028" lon="-72.92116837">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="1303"/>
@@ -2408,6 +3696,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153794"/>
   </node>
+  <node id="-629" visible="true" lat="43.63716185" lon="-72.93693089">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Valley View"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153795"/>
+  </node>
+  <node id="-630" visible="true" lat="43.63787003" lon="-72.93459929">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1591"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153796"/>
+  </node>
   <node id="-631" visible="true" lat="43.63974208" lon="-72.93464139">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="73"/>
@@ -2421,6 +3723,13 @@
     <tag k="addr:street" v="U.S. Route 4"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153798"/>
+  </node>
+  <node id="-633" visible="true" lat="43.65312942" lon="-72.89528434">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153799"/>
   </node>
   <node id="-634" visible="true" lat="43.6555108" lon="-72.8891378">
     <tag k="addr:city" v="Mendon"/>
@@ -2485,6 +3794,139 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153808"/>
   </node>
+  <node id="-643" visible="true" lat="43.65379692" lon="-72.9167067">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="588"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153809"/>
+  </node>
+  <node id="-644" visible="true" lat="43.65376885" lon="-72.91763447">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="548"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153810"/>
+  </node>
+  <node id="-645" visible="true" lat="43.65412779" lon="-72.91955454">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="502"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153811"/>
+  </node>
+  <node id="-646" visible="true" lat="43.65475343" lon="-72.91767204">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="423"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153812"/>
+  </node>
+  <node id="-647" visible="true" lat="43.65506221" lon="-72.91895082">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="438"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153813"/>
+  </node>
+  <node id="-648" visible="true" lat="43.65518457" lon="-72.91705584">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="397"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153814"/>
+  </node>
+  <node id="-649" visible="true" lat="43.65562724" lon="-72.91785922">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="380"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153815"/>
+  </node>
+  <node id="-650" visible="true" lat="43.65617844" lon="-72.91787498">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="342"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153816"/>
+  </node>
+  <node id="-651" visible="true" lat="43.65654455" lon="-72.9180218">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153817"/>
+  </node>
+  <node id="-652" visible="true" lat="43.65743466" lon="-72.91723274">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="269"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153818"/>
+  </node>
+  <node id="-653" visible="true" lat="43.65751397" lon="-72.91839437">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153819"/>
+  </node>
+  <node id="-654" visible="true" lat="43.6568079" lon="-72.91944412">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="198"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153820"/>
+  </node>
+  <node id="-655" visible="true" lat="43.65576055" lon="-72.91938371">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Ethan Spur"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153821"/>
+  </node>
+  <node id="-656" visible="true" lat="43.65630287" lon="-72.9200897">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Ethan Spur"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153822"/>
+  </node>
+  <node id="-657" visible="true" lat="43.65689412" lon="-72.92078617">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Ethan Spur"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153823"/>
+  </node>
+  <node id="-658" visible="true" lat="43.6605562" lon="-72.92277359">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153824"/>
+  </node>
+  <node id="-659" visible="true" lat="43.6568072" lon="-72.92272941">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153825"/>
+  </node>
+  <node id="-660" visible="true" lat="43.65610122" lon="-72.92602539">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153826"/>
+  </node>
+  <node id="-661" visible="true" lat="43.6557472" lon="-72.87318293">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153827"/>
+  </node>
   <node id="-662" visible="true" lat="43.6671859" lon="-72.86690761">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="144"/>
@@ -2499,6 +3941,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153830"/>
   </node>
+  <node id="-664" visible="true" lat="43.63593483" lon="-72.9372239">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Best Western Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153832"/>
+  </node>
   <node id="-665" visible="true" lat="43.65157439" lon="-72.87931488">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="430"/>
@@ -2512,6 +3961,13 @@
     <tag k="addr:street" v="Wheelerville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153834"/>
+  </node>
+  <node id="-667" visible="true" lat="43.62970661" lon="-72.93260313">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="389"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153835"/>
   </node>
   <node id="-668" visible="true" lat="43.58881738" lon="-72.90345832">
     <tag k="addr:city" v="Mendon"/>
@@ -2548,6 +4004,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153840"/>
   </node>
+  <node id="-673" visible="true" lat="43.61845279" lon="-72.92892126">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="297"/>
+    <tag k="addr:street" v="White Pine Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153841"/>
+  </node>
   <node id="-674" visible="true" lat="43.67398929" lon="-72.84479829">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="140"/>
@@ -2562,6 +4025,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153843"/>
   </node>
+  <node id="-676" visible="true" lat="43.65696446" lon="-72.91711848">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="299"/>
+    <tag k="addr:street" v="Helvi Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153844"/>
+  </node>
   <node id="-677" visible="true" lat="43.65511908" lon="-72.93475707">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="465"/>
@@ -2575,6 +4045,34 @@
     <tag k="addr:street" v="Round Robin Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153846"/>
+  </node>
+  <node id="-679" visible="true" lat="43.65644196" lon="-72.92843814">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="243"/>
+    <tag k="addr:street" v="Sherwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153847"/>
+  </node>
+  <node id="-680" visible="true" lat="43.65600383" lon="-72.93677115">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="571"/>
+    <tag k="addr:street" v="Meadow Lake Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153848"/>
+  </node>
+  <node id="-681" visible="true" lat="43.66650872" lon="-72.92556388">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="884"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153849"/>
+  </node>
+  <node id="-682" visible="true" lat="43.665608" lon="-72.93502549">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Currier Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153850"/>
   </node>
   <node id="-683" visible="true" lat="43.66204556" lon="-72.86915514">
     <tag k="addr:city" v="Mendon"/>
@@ -2596,6 +4094,13 @@
     <tag k="addr:street" v="Old Turnpike Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153853"/>
+  </node>
+  <node id="-686" visible="true" lat="43.65916611" lon="-72.88994138">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="362"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153854"/>
   </node>
   <node id="-687" visible="true" lat="43.65761109" lon="-72.93506932">
     <tag k="addr:city" v="Mendon"/>
@@ -2625,6 +4130,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153859"/>
   </node>
+  <node id="-691" visible="true" lat="43.63746935" lon="-72.93547797">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Valley View"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153860"/>
+  </node>
   <node id="-692" visible="true" lat="43.64085392" lon="-72.93602556">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="152"/>
@@ -2638,6 +4150,13 @@
     <tag k="addr:street" v="Black Bear Path"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153862"/>
+  </node>
+  <node id="-694" visible="true" lat="43.63078175" lon="-72.93611781">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="283"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153864"/>
   </node>
   <node id="-695" visible="true" lat="43.62059853" lon="-72.87913857">
     <tag k="addr:city" v="Mendon"/>
@@ -2709,6 +4228,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153874"/>
   </node>
+  <node id="-705" visible="true" lat="43.59644655" lon="-72.92611891">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Top Ridge"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153875"/>
+  </node>
   <node id="-706" visible="true" lat="43.65010247" lon="-72.93419821">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="485"/>
@@ -2737,6 +4263,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307862"/>
   </node>
+  <node id="-710" visible="true" lat="43.65402586" lon="-72.92523383">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:street" v="Terra Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="309157"/>
+  </node>
   <node id="-711" visible="true" lat="43.64947845" lon="-72.93145139">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="19"/>
@@ -2764,6 +4297,34 @@
     <tag k="addr:street" v="Barbers Loop"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="311110"/>
+  </node>
+  <node id="-715" visible="true" lat="43.656622" lon="-72.87315799">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Birchwood Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="311111"/>
+  </node>
+  <node id="-716" visible="true" lat="43.637503" lon="-72.93478616">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Valley View"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="311112"/>
+  </node>
+  <node id="-717" visible="true" lat="43.66798087" lon="-72.92390394">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1142"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313235"/>
+  </node>
+  <node id="-718" visible="true" lat="43.66675648" lon="-72.92670217">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="893"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313236"/>
   </node>
   <node id="-719" visible="true" lat="43.67349144" lon="-72.84498488">
     <tag k="addr:city" v="Mendon"/>
@@ -2821,12 +4382,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336268"/>
   </node>
+  <node id="-727" visible="true" lat="43.65964463" lon="-72.86847859">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5896"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336269"/>
+  </node>
+  <node id="-734" visible="true" lat="43.65635083" lon="-72.8925764">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="143"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336278"/>
+  </node>
   <node id="-735" visible="true" lat="43.64849761" lon="-72.93557232">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="367"/>
     <tag k="addr:street" v="Esquiline Hill"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336279"/>
+  </node>
+  <node id="-736" visible="true" lat="43.65707184" lon="-72.8864309">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Old Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336280"/>
   </node>
   <node id="-739" visible="true" lat="43.65176148" lon="-72.88808277">
     <tag k="addr:city" v="Mendon"/>
@@ -2842,6 +4424,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336284"/>
   </node>
+  <node id="-742" visible="true" lat="43.59219813" lon="-72.90352207">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1510"/>
+    <tag k="addr:street" v="Falls Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336286"/>
+  </node>
   <node id="-744" visible="true" lat="43.58714646" lon="-72.90387108">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="270"/>
@@ -2849,12 +4438,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336288"/>
   </node>
+  <node id="-745" visible="true" lat="43.57654749" lon="-72.90253564">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1030"/>
+    <tag k="addr:street" v="Northam Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336289"/>
+  </node>
+  <node id="-746" visible="true" lat="43.60092554" lon="-72.92948407">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="641"/>
+    <tag k="addr:street" v="Notch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336290"/>
+  </node>
+  <node id="-749" visible="true" lat="43.60513713" lon="-72.93065182">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Bell Ridge Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336294"/>
+  </node>
+  <node id="-750" visible="true" lat="43.63744991" lon="-72.9373679">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Valley View"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336305"/>
+  </node>
   <node id="-751" visible="true" lat="43.67361279" lon="-72.84316405">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="72"/>
     <tag k="addr:street" v="Windrift Ridge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336312"/>
+  </node>
+  <node id="-752" visible="true" lat="43.6383991" lon="-72.93531129">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Chalet Heights"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336313"/>
   </node>
   <node id="-754" visible="true" lat="43.65658343" lon="-72.87736023">
     <tag k="addr:city" v="Mendon"/>
@@ -2877,12 +4501,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341013"/>
   </node>
+  <node id="-758" visible="true" lat="43.6052388" lon="-72.93377069">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="272"/>
+    <tag k="addr:street" v="Notch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341550"/>
+  </node>
   <node id="-759" visible="true" lat="43.65308459" lon="-72.90778846">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="589"/>
     <tag k="addr:street" v="Journeys End"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342533"/>
+  </node>
+  <node id="-762" visible="true" lat="43.66227479" lon="-72.87949127">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="627"/>
+    <tag k="addr:street" v="Old Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450355"/>
+  </node>
+  <node id="-763" visible="true" lat="43.66655644" lon="-72.84990269">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="7150"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450358"/>
+  </node>
+  <node id="-764" visible="true" lat="43.6819254" lon="-72.84667494">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="676"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450362"/>
   </node>
   <node id="-765" visible="true" lat="43.60323394" lon="-72.93110859">
     <tag k="addr:city" v="Mendon"/>
@@ -2891,12 +4543,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451565"/>
   </node>
+  <node id="-766" visible="true" lat="43.60940184" lon="-72.86620827">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="3989"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455355"/>
+  </node>
   <node id="-768" visible="true" lat="43.64589529" lon="-72.88618361">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="722"/>
     <tag k="addr:street" v="Woodward Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="610539"/>
+  </node>
+  <node id="-769" visible="true" lat="43.61548238" lon="-72.90884682">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5846"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610541"/>
   </node>
   <node id="-770" visible="true" lat="43.60787031" lon="-72.90102781">
     <tag k="addr:city" v="Mendon"/>
@@ -2905,11 +4571,319 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="610542"/>
   </node>
+  <node id="-771" visible="true" lat="43.62238373" lon="-72.9048778">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5514"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610543"/>
+  </node>
+  <node id="-772" visible="true" lat="43.58860392" lon="-72.89522097">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Northam Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620371"/>
+  </node>
+  <node id="-773" visible="true" lat="43.58705998" lon="-72.88708243">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Northam Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620372"/>
+  </node>
+  <node id="-774" visible="true" lat="43.67216499" lon="-72.87073196">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620373"/>
+  </node>
+  <node id="-775" visible="true" lat="43.60483044" lon="-72.93140623">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Bell Ridge Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620374"/>
+  </node>
+  <node id="-776" visible="true" lat="43.60955649" lon="-72.89345162">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="5239"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752916"/>
+  </node>
+  <node id="-777" visible="true" lat="43.62431955" lon="-72.87850849">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="3640"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753402"/>
+  </node>
   <node id="-779" visible="true" lat="43.6687287" lon="-72.84714546">
     <tag k="addr:city" v="Mendon"/>
     <tag k="addr:housenumber" v="155"/>
     <tag k="addr:street" v="Merry Maple Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753436"/>
+  </node>
+  <node id="-780" visible="true" lat="43.66591897" lon="-72.87408664">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="975"/>
+    <tag k="addr:street" v="Old Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753598"/>
+  </node>
+  <node id="-781" visible="true" lat="43.64821392" lon="-72.92578893">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="296"/>
+    <tag k="addr:street" v="Old Stockbridge Path"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753616"/>
+  </node>
+  <node id="-782" visible="true" lat="43.65087938" lon="-72.92370216">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:street" v="Old Stockbridge Path"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753617"/>
+  </node>
+  <node id="-783" visible="true" lat="43.64615383" lon="-72.9248801">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:street" v="Old Stockbridge Path"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754969"/>
+  </node>
+  <node id="-784" visible="true" lat="43.643897" lon="-72.918414">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="3410"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756228"/>
+  </node>
+  <node id="-785" visible="true" lat="43.66230516" lon="-72.88880482">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="612"/>
+    <tag k="addr:street" v="Cream Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756371"/>
+  </node>
+  <node id="-786" visible="true" lat="43.65176885" lon="-72.89590133">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="4387"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760502"/>
+  </node>
+  <node id="-787" visible="true" lat="43.65243245" lon="-72.8957276">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="4389"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760503"/>
+  </node>
+  <node id="-788" visible="true" lat="43.65486477" lon="-72.91386573">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="791"/>
+    <tag k="addr:street" v="Journeys End"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760635"/>
+  </node>
+  <node id="-789" visible="true" lat="43.60343493" lon="-72.9304414">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Bell Ridge Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760700"/>
+  </node>
+  <node id="-790" visible="true" lat="43.6275019" lon="-72.87338574">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="3348"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761448"/>
+  </node>
+  <node id="-791" visible="true" lat="43.66343671" lon="-72.9306263">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="453"/>
+    <tag k="addr:street" v="Stone Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761906"/>
+  </node>
+  <node id="-792" visible="true" lat="43.64987749" lon="-72.92597146">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="261"/>
+    <tag k="addr:street" v="Old Stockbridge Path"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762517"/>
+  </node>
+  <node id="-793" visible="true" lat="43.66222188" lon="-72.86746028">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Cortina Country Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764319"/>
+  </node>
+  <node id="-794" visible="true" lat="43.59719381" lon="-72.93120178">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="266"/>
+    <tag k="addr:street" v="South Mendon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764751"/>
+  </node>
+  <node id="-795" visible="true" lat="43.64419545" lon="-72.93737131">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="357"/>
+    <tag k="addr:street" v="Park Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766378"/>
+  </node>
+  <node id="-796" visible="true" lat="43.60403745" lon="-72.93053269">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Bell Ridge Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766967"/>
+  </node>
+  <node id="-797" visible="true" lat="43.64499492" lon="-72.92622405">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:street" v="Old Stockbridge Path"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766973"/>
+  </node>
+  <node id="-798" visible="true" lat="43.65429665" lon="-72.89261093">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767060"/>
+  </node>
+  <node id="-799" visible="true" lat="43.6093779" lon="-72.93547184">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1769"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767061"/>
+  </node>
+  <node id="-800" visible="true" lat="43.64778046" lon="-72.93561583">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="Park Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767068"/>
+  </node>
+  <node id="-803" visible="true" lat="43.60595442" lon="-72.89241544">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:street" v="Falls Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767201"/>
+  </node>
+  <node id="-804" visible="true" lat="43.60028898" lon="-72.89365132">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="845"/>
+    <tag k="addr:street" v="Falls Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767202"/>
+  </node>
+  <node id="-805" visible="true" lat="43.59198999" lon="-72.90207029">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1483"/>
+    <tag k="addr:street" v="Falls Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767236"/>
+  </node>
+  <node id="-806" visible="true" lat="43.64463644" lon="-72.88719887">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="810"/>
+    <tag k="addr:street" v="Woodward Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767316"/>
+  </node>
+  <node id="-807" visible="true" lat="43.59701688" lon="-72.92063715">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1231"/>
+    <tag k="addr:street" v="Notch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767322"/>
+  </node>
+  <node id="-808" visible="true" lat="43.59894602" lon="-72.90054971">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1016"/>
+    <tag k="addr:street" v="Falls Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767456"/>
+  </node>
+  <node id="-809" visible="true" lat="43.61132888" lon="-72.92804357">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767567"/>
+  </node>
+  <node id="-810" visible="true" lat="43.67091916" lon="-72.87238231">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="250"/>
+    <tag k="addr:street" v="Heather Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767625"/>
+  </node>
+  <node id="-811" visible="true" lat="43.66125897" lon="-72.87102016">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Cortina Country Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767627"/>
+  </node>
+  <node id="-813" visible="true" lat="43.65464577" lon="-72.92614742">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Terra Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769357"/>
+  </node>
+  <node id="-814" visible="true" lat="43.62325195" lon="-72.88026181">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="3754"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769689"/>
+  </node>
+  <node id="-815" visible="true" lat="43.5947725" lon="-72.92562741">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="497"/>
+    <tag k="addr:street" v="South Mendon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769690"/>
+  </node>
+  <node id="-816" visible="true" lat="43.65317005" lon="-72.9296952">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:street" v="Meadow Lake Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770748"/>
+  </node>
+  <node id="-821" visible="true" lat="43.58984418" lon="-72.91076788">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="1973"/>
+    <tag k="addr:street" v="Notch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="800149"/>
+  </node>
+  <node id="-822" visible="true" lat="43.64368093" lon="-72.92809861">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Old Stockbridge Path"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="900105"/>
+  </node>
+  <node id="-823" visible="true" lat="43.6195599" lon="-72.87650322">
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="3961"/>
+    <tag k="addr:street" v="Wheelerville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050722"/>
   </node>
 </osm>

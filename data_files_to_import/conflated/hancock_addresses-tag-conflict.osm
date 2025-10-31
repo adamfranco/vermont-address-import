@@ -1,27 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-207" visible="true" lat="43.92644988" lon="-72.84203267">
-    <!-- conflict: "47 Vermont Route 125, Hancock, VT" No match in OSM, but a different address exists <5m away: "47 State Route 125, Hancock, VT" -->
-    <tag k="addr:city" v="Hancock"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Vermont Route 125"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="118508"/>
-  </node>
-  <node id="-263" visible="true" lat="43.9192431" lon="-72.83974521">
-    <!-- conflict: "725 Vermont Route 100, Hancock, VT" No match in OSM, but a different address exists <5m away: "725 Vt Route 100, Hancock, VT" -->
-    <tag k="addr:city" v="Hancock"/>
-    <tag k="addr:housenumber" v="725"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="118565"/>
-  </node>
-  <node id="-272" visible="true" lat="43.91656156" lon="-72.84047567">
-    <!-- conflict: "529 Vermont Route 100, Hancock, VT" No match in OSM, but a different address exists <5m away: "529 VT Route 100, Hancock, VT" -->
-    <tag k="addr:city" v="Hancock"/>
-    <tag k="addr:housenumber" v="529"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="118575"/>
-  </node>
 </osm>

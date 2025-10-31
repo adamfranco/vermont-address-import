@@ -7,6 +7,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147052"/>
   </node>
+  <node id="-1046" visible="true" lat="44.53610477" lon="-72.00685814">
+    <!-- multiple: "119 Park Avenue, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:street" v="Park Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="147371"/>
+  </node>
+  <node id="-1063" visible="true" lat="44.53553012" lon="-72.00554736">
+    <!-- multiple: "35 Maple Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="147393"/>
+  </node>
   <node id="-1225" visible="true" lat="44.53309886" lon="-72.00359066">
     <!-- multiple: "957 Broad Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="957"/>
@@ -21,6 +35,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147660"/>
   </node>
+  <node id="-1360" visible="true" lat="44.52934877" lon="-72.00100429">
+    <!-- multiple: "686 Broad Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="686"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="147731"/>
+  </node>
+  <node id="-1420" visible="true" lat="44.52621469" lon="-72.00123412">
+    <!-- multiple: "467 Broad Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="467"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="147795"/>
+  </node>
   <node id="-1579" visible="true" lat="44.52065717" lon="-72.00052286">
     <!-- multiple: "78 Broad Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="78"/>
@@ -34,5 +62,33 @@
     <tag k="addr:street" v="Broad Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="148014"/>
+  </node>
+  <node id="-1797" visible="true" lat="44.51326403" lon="-71.99439049">
+    <!-- multiple: "30 Lily Pond Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Lily Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="148210"/>
+  </node>
+  <node id="-1989" visible="true" lat="44.57761568" lon="-71.93295103">
+    <!-- multiple: "964 Kirby Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="964"/>
+    <tag k="addr:street" v="Kirby Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="148417"/>
+  </node>
+  <node id="-2372" visible="true" lat="44.50510321" lon="-72.04836096">
+    <!-- multiple: "956 Libby Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="956"/>
+    <tag k="addr:street" v="Libby Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365448"/>
+  </node>
+  <node id="-2519" visible="true" lat="44.49641105" lon="-71.98885016">
+    <!-- multiple: "50 Sugar House Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Sugar House Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769829"/>
   </node>
 </osm>

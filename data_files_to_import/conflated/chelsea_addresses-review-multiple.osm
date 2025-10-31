@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-466" visible="true" lat="43.98834991" lon="-72.44558715">
-    <!-- multiple: "11 Vermont Route 113, Chelsea, VT" Multiple exact matches in OSM. -->
+  <node id="-381" visible="true" lat="43.99230866" lon="-72.5161733">
+    <!-- multiple: "212 Hook Road, Chelsea, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Chelsea"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Vermont Route 113"/>
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:street" v="Hook Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="65488"/>
+    <tag k="ref:vcgi:esiteid" v="65396"/>
+  </node>
+  <node id="-583" visible="true" lat="43.97438001" lon="-72.42906188">
+    <!-- multiple: "30 Hall Road, Chelsea, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Chelsea"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Hall Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="65615"/>
+  </node>
+  <node id="-807" visible="true" lat="43.97490021" lon="-72.42829985">
+    <!-- multiple: "30 Hall Road, Chelsea, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Chelsea"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Hall Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333933"/>
+  </node>
+  <node id="-821" visible="true" lat="43.99168757" lon="-72.51571407">
+    <!-- multiple: "212 Hook Road, Chelsea, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Chelsea"/>
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:street" v="Hook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341683"/>
   </node>
 </osm>

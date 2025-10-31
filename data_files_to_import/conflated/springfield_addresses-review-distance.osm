@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-135" visible="true" lat="43.34176635" lon="-72.54196929">
+    <!-- offset: "116 Baltimore Road, , VT" Significant offset - 1136.2m -->
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:street" v="Baltimore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="234382"/>
+  </node>
+  <node id="-145" visible="true" lat="43.34073369" lon="-72.5314192">
+    <!-- offset: "95 Vermont Route 106, , VT" Significant offset - 539.2m -->
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Vermont Route 106"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="234395"/>
+  </node>
+  <node id="-163" visible="true" lat="43.33898925" lon="-72.52824401">
+    <!-- offset: "67 Vermont Route 106, , VT" Significant offset - 706.4m -->
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Vermont Route 106"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="234415"/>
+  </node>
+  <node id="-184" visible="true" lat="43.33760452" lon="-72.52559661">
+    <!-- offset: "56 Vermont Route 106, , VT" Significant offset - 989.8m -->
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Vermont Route 106"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="234437"/>
+  </node>
+  <node id="-201" visible="true" lat="43.33699787" lon="-72.52727974">
+    <!-- offset: "34 School Street, , VT" Significant offset - 9962.7m -->
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="234456"/>
+  </node>
+  <node id="-242" visible="true" lat="43.33596094" lon="-72.52603495">
+    <!-- offset: "23 School Street, , VT" Significant offset - 9923.8m -->
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="234504"/>
+  </node>
+  <node id="-245" visible="true" lat="43.33574123" lon="-72.52586999">
+    <!-- offset: "23 School Street, , VT" Significant offset - 9911.9m -->
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="234508"/>
+  </node>
   <node id="-501" visible="true" lat="43.33196904" lon="-72.46740795">
     <!-- offset: "11 Town Farm Road, , VT" Significant offset - 1141m -->
     <tag k="addr:housenumber" v="11"/>
@@ -7,39 +56,102 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="234788"/>
   </node>
-  <node id="-3528" visible="true" lat="43.28807825" lon="-72.51034768">
-    <!-- offset: "28 Monument Hill Road, , VT" Significant offset - 233.8m -->
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Monument Hill Road"/>
+  <node id="-549" visible="true" lat="43.33054406" lon="-72.52608309">
+    <!-- offset: "15 Church Street, , VT" Significant offset - 4773.3m -->
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Church Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="238072"/>
+    <tag k="ref:vcgi:esiteid" v="234845"/>
   </node>
-  <node id="-3838" visible="true" lat="43.34397908" lon="-72.54494612">
+  <node id="-779" visible="true" lat="43.32239531" lon="-72.50710358">
+    <!-- offset: "371 River Street, , VT" Significant offset - 9947.3m -->
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="235098"/>
+  </node>
+  <node id="-848" visible="true" lat="43.31979923" lon="-72.45352715">
+    <!-- offset: "222 Barlow Road, , VT" Significant offset - 114.6m -->
+    <tag k="addr:housenumber" v="222"/>
+    <tag k="addr:street" v="Barlow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="235173"/>
+  </node>
+  <node id="-1428" visible="true" lat="43.30145138" lon="-72.48414252">
+    <!-- offset: "57 River Street, , VT" Significant offset - 9793.7m -->
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="235807"/>
+  </node>
+  <node id="-3380" visible="true" lat="43.25214682" lon="-72.47586996">
+    <!-- offset: "315 Parker Hill Road, , VT" Significant offset - 4691.2m -->
+    <tag k="addr:housenumber" v="315"/>
+    <tag k="addr:street" v="Parker Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="237925"/>
+  </node>
+  <node id="-3390" visible="true" lat="43.25126647" lon="-72.47366332">
+    <!-- offset: "316 Parker Hill Road, , VT" Significant offset - 4489.1m -->
+    <tag k="addr:housenumber" v="316"/>
+    <tag k="addr:street" v="Parker Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="237935"/>
+  </node>
+  <node id="-3395" visible="true" lat="43.25127437" lon="-72.47542432">
+    <!-- offset: "315 Parker Hill Road, , VT" Significant offset - 4595.2m -->
+    <tag k="addr:housenumber" v="315"/>
+    <tag k="addr:street" v="Parker Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="237940"/>
+  </node>
+  <node id="-3836" visible="true" lat="43.34397908" lon="-72.54494612">
     <!-- offset: "170 Baltimore Road, , VT" Significant offset - 114.6m -->
     <tag k="addr:housenumber" v="170"/>
     <tag k="addr:street" v="Baltimore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344429"/>
   </node>
-  <node id="-3902" visible="true" lat="43.3016769" lon="-72.48583434">
+  <node id="-3900" visible="true" lat="43.3016769" lon="-72.48583434">
     <!-- offset: "100 River Street, , VT" Significant offset - 102.6m -->
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="River Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345993"/>
   </node>
-  <node id="-3934" visible="true" lat="43.30282553" lon="-72.49463984">
-    <!-- offset: "2 Chester Road, , VT" Significant offset - 258.9m -->
+  <node id="-3932" visible="true" lat="43.30282553" lon="-72.49463984">
+    <!-- offset: "2 Chester Road, , VT" Significant offset - 175.7m -->
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Chester Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452973"/>
   </node>
-  <node id="-3948" visible="true" lat="43.29641702" lon="-72.51507963">
-    <!-- offset: "142 Chester Road, , VT" Significant offset - 385.9m -->
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="Chester Road"/>
+  <node id="-4003" visible="true" lat="43.30883741" lon="-72.49758685">
+    <!-- offset: "252 River Street, , VT" Significant offset - 9413.5m -->
+    <tag k="addr:housenumber" v="252"/>
+    <tag k="addr:street" v="River Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453078"/>
+    <tag k="ref:vcgi:esiteid" v="700187"/>
+  </node>
+  <node id="-4021" visible="true" lat="43.30948063" lon="-72.49760417">
+    <!-- offset: "268 River Street, , VT" Significant offset - 9464.1m -->
+    <tag k="addr:housenumber" v="268"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752758"/>
+  </node>
+  <node id="-4038" visible="true" lat="43.28049847" lon="-72.54703086">
+    <!-- offset: "24 Lacross Road, , VT" Significant offset - 190.9m -->
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Lacross Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756560"/>
+  </node>
+  <node id="-4104" visible="true" lat="43.23571348" lon="-72.47647757">
+    <!-- offset: "770 Parker Hill Road, , VT" Significant offset - 133.6m -->
+    <tag k="addr:housenumber" v="770"/>
+    <tag k="addr:street" v="Parker Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760738"/>
   </node>
 </osm>

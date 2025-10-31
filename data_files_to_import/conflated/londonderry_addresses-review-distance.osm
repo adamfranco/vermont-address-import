@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
   <node id="-110" visible="true" lat="43.25863199" lon="-72.84806753">
-    <!-- offset: "10 Landgrove Road, , VT" Significant offset - 5573.1m -->
+    <!-- offset: "10 Landgrove Road, , VT" Significant offset - 5577m -->
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Landgrove Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139277"/>
+  </node>
+  <node id="-274" visible="true" lat="43.23373254" lon="-72.83042982">
+    <!-- offset: "1020 Vermont Route 11, , VT" Significant offset - 4432.2m -->
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:street" v="Vermont Route 11"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="140815"/>
+  </node>
+  <node id="-1436" visible="true" lat="43.21581372" lon="-72.76502862">
+    <!-- offset: "33 Muskrat Lane, , VT" Significant offset - 3633.5m -->
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Muskrat Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="142041"/>
+  </node>
+  <node id="-1575" visible="true" lat="43.24929206" lon="-72.79600853">
+    <!-- offset: "7587 Vermont Route 100, , VT" Significant offset - 163.4m -->
+    <tag k="addr:housenumber" v="7587"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759986"/>
+  </node>
+  <node id="-1600" visible="true" lat="43.19117681" lon="-72.77774856">
+    <!-- offset: "887 Under The Mountain Road, , VT" Significant offset - 183.1m -->
+    <tag k="addr:housenumber" v="887"/>
+    <tag k="addr:street" v="Under The Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762396"/>
   </node>
 </osm>

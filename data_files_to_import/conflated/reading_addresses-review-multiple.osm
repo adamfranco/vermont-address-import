@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-202" visible="true" lat="43.49981308" lon="-72.58696746">
-    <!-- multiple: "1197 Town Hill Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1197"/>
-    <tag k="addr:street" v="Town Hill Road"/>
+  <node id="-392" visible="true" lat="43.46749114" lon="-72.62528991">
+    <!-- multiple: "850 Tattle Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="850"/>
+    <tag k="addr:street" v="Tattle Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="198193"/>
+    <tag k="ref:vcgi:esiteid" v="198399"/>
+  </node>
+  <node id="-474" visible="true" lat="43.45589828" lon="-72.53742218">
+    <!-- multiple: "821 Vermont Route 106, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="821"/>
+    <tag k="addr:street" v="Vermont Route 106"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="198484"/>
+  </node>
+  <node id="-603" visible="true" lat="43.50763204" lon="-72.53204823">
+    <!-- multiple: "841 Spear Cemetery Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="841"/>
+    <tag k="addr:street" v="Spear Cemetery Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341876"/>
+  </node>
+  <node id="-612" visible="true" lat="43.47916987" lon="-72.53088763">
+    <!-- multiple: "467 Hurricane Hill, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="467"/>
+    <tag k="addr:street" v="Hurricane Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450169"/>
   </node>
 </osm>

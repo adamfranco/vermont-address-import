@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-329" visible="true" lat="43.48042425" lon="-72.46074971">
-    <!-- offset: "948 Coon Club Road, , VT" Significant offset - 174.6m -->
-    <tag k="addr:housenumber" v="948"/>
-    <tag k="addr:street" v="Coon Club Road"/>
+  <node id="-750" visible="true" lat="43.51010683" lon="-72.53092716">
+    <!-- offset: "841 Spear Cemetery Road, , VT" Significant offset - 289.7m -->
+    <tag k="addr:housenumber" v="841"/>
+    <tag k="addr:street" v="Spear Cemetery Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="280408"/>
+    <tag k="ref:vcgi:esiteid" v="280857"/>
   </node>
-  <node id="-911" visible="true" lat="43.51983857" lon="-72.45338552">
-    <!-- offset: "289 Farm Road, , VT" Significant offset - 170.9m -->
-    <tag k="addr:housenumber" v="289"/>
-    <tag k="addr:street" v="Farm Road"/>
+  <node id="-830" visible="true" lat="43.53289279" lon="-72.52859796">
+    <!-- offset: "5690 Rush Meadow Road, , VT" Significant offset - 161m -->
+    <tag k="addr:housenumber" v="5690"/>
+    <tag k="addr:street" v="Rush Meadow Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753411"/>
+    <tag k="ref:vcgi:esiteid" v="341839"/>
+  </node>
+  <node id="-831" visible="true" lat="43.53286728" lon="-72.52855567">
+    <!-- offset: "5696 Rush Meadow Road, , VT" Significant offset - 237.4m -->
+    <tag k="addr:housenumber" v="5696"/>
+    <tag k="addr:street" v="Rush Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341840"/>
   </node>
 </osm>

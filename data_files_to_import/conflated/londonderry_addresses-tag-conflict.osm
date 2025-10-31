@@ -1,66 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-145" visible="true" lat="43.24742193" lon="-72.79679133">
-    <!-- conflict: "7455 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "7455 Vt Route 100, Londonderry, VT" -->
-    <tag k="addr:housenumber" v="7455"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
+  <node id="-1532" visible="true" lat="43.23005746" lon="-72.791369">
+    <!-- conflict: "455 Wolf Pack Drive, , VT" No match in OSM, but a different address exists <5m away: "455 Wild Cat Drive, , VT" -->
+    <tag k="addr:housenumber" v="455"/>
+    <tag k="addr:street" v="Wolf Pack Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="140686"/>
+    <tag k="ref:vcgi:esiteid" v="620289"/>
   </node>
-  <node id="-219" visible="true" lat="43.23696705" lon="-72.84815855">
-    <!-- conflict: "91 Vermont Route 11, , VT" No match in OSM, but a different address exists <5m away: "91 Vt Route 11, Londonderry, VT" -->
-    <tag k="addr:housenumber" v="91"/>
-    <tag k="addr:street" v="Vermont Route 11"/>
+  <node id="-1550" visible="true" lat="43.2254678" lon="-72.79005149">
+    <!-- conflict: "76 Wolf Pack Drive, , VT" No match in OSM, but a different address exists <5m away: "76 Wild Cat Drive, , VT" -->
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Wolf Pack Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="140760"/>
-  </node>
-  <node id="-225" visible="true" lat="43.23607638" lon="-72.8493526">
-    <!-- conflict: "38 Vermont Route 11, , VT" No match in OSM, but a different address exists <5m away: "38 State Route 11, Londonderry, VT" -->
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="Vermont Route 11"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="140766"/>
-  </node>
-  <node id="-489" visible="true" lat="43.22645975" lon="-72.72842896">
-    <!-- conflict: "7451 Vermont Route 11, , VT" No match in OSM, but a different address exists <5m away: "7451 Vt Route 11, Londonderry, VT" -->
-    <tag k="addr:housenumber" v="7451"/>
-    <tag k="addr:street" v="Vermont Route 11"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="141049"/>
-  </node>
-  <node id="-697" visible="true" lat="43.2130618" lon="-72.78830722">
-    <!-- conflict: "3806 Vermont Route 11, , VT" No match in OSM, but a different address exists <5m away: "3806 State Route 11, Londonderry, VT" -->
-    <tag k="addr:housenumber" v="3806"/>
-    <tag k="addr:street" v="Vermont Route 11"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="141264"/>
-  </node>
-  <node id="-707" visible="true" lat="43.21149063" lon="-72.78567504">
-    <!-- conflict: "3969 Vermont Route 11, , VT" No match in OSM, but a different address exists <5m away: "3969 Vt Route 11, Londonderry, VT" -->
-    <tag k="addr:housenumber" v="3969"/>
-    <tag k="addr:street" v="Vermont Route 11"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="141275"/>
-  </node>
-  <node id="-891" visible="true" lat="43.20299528" lon="-72.77355245">
-    <!-- conflict: "420 Magic Mountain Access Road, , VT" No match in OSM, but a different address exists <5m away: "42 Magic Mountain Access Road, Londonderry, " -->
-    <tag k="addr:housenumber" v="420"/>
-    <tag k="addr:street" v="Magic Mountain Access Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="141466"/>
-  </node>
-  <node id="-1031" visible="true" lat="43.19096143" lon="-72.8124301">
-    <!-- conflict: "15 Old School Street, , VT" Fuzzy match to "15 Old School Road, South Londonderry, VT" -->
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Old School Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="141613"/>
-  </node>
-  <node id="-1289" visible="true" lat="43.15951982" lon="-72.83684801">
-    <!-- conflict: "2 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "2 Vt Route 100, Londonderry, VT" -->
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="141875"/>
+    <tag k="ref:vcgi:esiteid" v="756183"/>
   </node>
 </osm>

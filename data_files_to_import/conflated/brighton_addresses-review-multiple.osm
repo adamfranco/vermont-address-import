@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-155" visible="true" lat="44.82149697" lon="-71.89398785">
+    <!-- multiple: "825 Railroad Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="825"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="37863"/>
+  </node>
+  <node id="-342" visible="true" lat="44.81549578" lon="-71.88065231">
+    <!-- multiple: "23 East Brighton Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="East Brighton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38074"/>
+  </node>
+  <node id="-386" visible="true" lat="44.81420898" lon="-71.88134002">
+    <!-- multiple: "62 Cross Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Cross Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38124"/>
+  </node>
+  <node id="-667" visible="true" lat="44.79669952" lon="-71.85550689">
+    <!-- multiple: "66 State Park Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="State Park Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38441"/>
+  </node>
 </osm>

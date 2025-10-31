@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-102" visible="true" lat="44.06948201" lon="-72.49248992">
+    <!-- offset: "1736 Williamstown Road, , VT" Significant offset - 445.4m -->
+    <tag k="addr:housenumber" v="1736"/>
+    <tag k="addr:street" v="Williamstown Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="273155"/>
+  </node>
   <node id="-459" visible="true" lat="44.12578201" lon="-72.52529907">
     <!-- offset: "560 Graniteville Road, , VT" Significant offset - 4342.5m -->
     <tag k="addr:housenumber" v="560"/>
@@ -7,26 +14,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287478"/>
   </node>
-  <node id="-625" visible="true" lat="44.12237075" lon="-72.54248813">
-    <!-- offset: "64 Brook Street, , VT" Significant offset - 7101m -->
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Brook Street"/>
+  <node id="-896" visible="true" lat="44.11121368" lon="-72.59983825">
+    <!-- offset: "29 Stone Road, , VT" Significant offset - 7629.7m -->
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Stone Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="287658"/>
-  </node>
-  <node id="-627" visible="true" lat="44.12238288" lon="-72.54286237">
-    <!-- offset: "84 Brook Street, , VT" Significant offset - 9796m -->
-    <tag k="addr:housenumber" v="84"/>
-    <tag k="addr:street" v="Brook Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="287660"/>
-  </node>
-  <node id="-1262" visible="true" lat="44.1261924" lon="-72.51997518">
-    <!-- offset: "845 Graniteville Road, , VT" Significant offset - 3912.1m -->
-    <tag k="addr:housenumber" v="845"/>
-    <tag k="addr:street" v="Graniteville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="288325"/>
+    <tag k="ref:vcgi:esiteid" v="287950"/>
   </node>
   <node id="-1265" visible="true" lat="44.12563105" lon="-72.52055729">
     <!-- offset: "852 Graniteville Road, , VT" Significant offset - 3996.2m -->
@@ -35,11 +28,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="288328"/>
   </node>
-  <node id="-1687" visible="true" lat="44.11674706" lon="-72.49265956">
-    <!-- offset: "212 Therriault Hill, , VT" Significant offset - 226.1m -->
-    <tag k="addr:housenumber" v="212"/>
-    <tag k="addr:street" v="Therriault Hill"/>
+  <node id="-1541" visible="true" lat="44.08680361" lon="-72.6221827">
+    <!-- offset: "934 Howe Road, , VT" Significant offset - 617.2m -->
+    <tag k="addr:housenumber" v="934"/>
+    <tag k="addr:street" v="Howe Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="760590"/>
+    <tag k="ref:vcgi:esiteid" v="454660"/>
+  </node>
+  <node id="-1751" visible="true" lat="44.10203598" lon="-72.5474895">
+    <!-- offset: "4104 Vermont Route 14, , VT" Significant offset - 111.2m -->
+    <tag k="addr:housenumber" v="4104"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772197"/>
   </node>
 </osm>

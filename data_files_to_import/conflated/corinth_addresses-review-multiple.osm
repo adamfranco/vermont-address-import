@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1660" visible="true" lat="44.04800458" lon="-72.27750534">
+    <!-- multiple: "995 Richardson Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="995"/>
+    <tag k="addr:street" v="Richardson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="614452"/>
+  </node>
+  <node id="-1785" visible="true" lat="43.99252125" lon="-72.23469097">
+    <!-- multiple: "1784 Camp Munn Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1784"/>
+    <tag k="addr:street" v="Camp Munn Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762712"/>
+  </node>
 </osm>

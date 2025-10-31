@@ -1,38 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-401" visible="true" lat="43.14169691" lon="-72.76780751">
-    <!-- conflict: "166 Leonards Road, , VT" No match in OSM, but a different address exists <5m away: "166 Under The Mountain Road, Windham, VT" -->
-    <tag k="addr:housenumber" v="166"/>
-    <tag k="addr:street" v="Leonards Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295250"/>
-  </node>
-  <node id="-447" visible="true" lat="43.22205962" lon="-72.70547672">
-    <!-- conflict: "6397 Popple Dungeon Road, , VT" No match in OSM, but a different address exists <5m away: "145 Edson Drive, Windham, VT" -->
-    <tag k="addr:housenumber" v="6397"/>
-    <tag k="addr:street" v="Popple Dungeon Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295296"/>
-  </node>
-  <node id="-535" visible="true" lat="43.21745311" lon="-72.71974815">
-    <!-- conflict: "90 Fairway Meadows, , VT" No match in OSM, but a different address exists <5m away: "121 White Road, Windham, VT" -->
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Fairway Meadows"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="445963"/>
-  </node>
-  <node id="-541" visible="true" lat="43.22817414" lon="-72.7288557">
-    <!-- conflict: "7511 Vermont Route 11, , VT" No match in OSM, but a different address exists <5m away: "7511 Vt Route 11, Windham, VT" -->
-    <tag k="addr:housenumber" v="7511"/>
-    <tag k="addr:street" v="Vermont Route 11"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452648"/>
-  </node>
-  <node id="-559" visible="true" lat="43.17532884" lon="-72.73264063">
-    <!-- conflict: "355 Old Farm Road, , VT" No match in OSM, but a different address exists <5m away: " Old Farm Road, Windham, VT" -->
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Old Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620683"/>
-  </node>
 </osm>

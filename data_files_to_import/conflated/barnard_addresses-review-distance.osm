@@ -1,3 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-380" visible="true" lat="43.74361313" lon="-72.64256333">
+    <!-- offset: "185 Mount Hunger Road, , VT" Significant offset - 203m -->
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:street" v="Mount Hunger Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6220"/>
+  </node>
+  <node id="-828" visible="true" lat="43.73222899" lon="-72.63703042">
+    <!-- offset: "371 West Road, , VT" Significant offset - 383.9m -->
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:street" v="West Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="6689"/>
+  </node>
+  <node id="-994" visible="true" lat="43.67885554" lon="-72.63841425">
+    <!-- offset: "1485 Green Gate Road, , VT" Significant offset - 1251.1m -->
+    <tag k="addr:housenumber" v="1485"/>
+    <tag k="addr:street" v="Green Gate Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050953"/>
+  </node>
 </osm>

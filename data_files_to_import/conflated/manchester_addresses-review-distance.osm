@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="43.2111197" lon="-73.03007381">
+    <!-- offset: "166 Green Peak Orchard South, , VT" Significant offset - 172.8m -->
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Green Peak Orchard South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="85496"/>
+  </node>
+  <node id="-115" visible="true" lat="43.21182832" lon="-73.05628789">
+    <!-- offset: "499 West Branch Drive, , VT" Significant offset - 114.5m -->
+    <tag k="addr:housenumber" v="499"/>
+    <tag k="addr:street" v="West Branch Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149033"/>
+  </node>
+  <node id="-149" visible="true" lat="43.21034218" lon="-73.03263152">
+    <!-- offset: "685 Green Peak Orchard, , VT" Significant offset - 232.9m -->
+    <tag k="addr:housenumber" v="685"/>
+    <tag k="addr:street" v="Green Peak Orchard"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149067"/>
+  </node>
   <node id="-1667" visible="true" lat="43.16799587" lon="-73.06711355">
     <!-- offset: "4070 Main Street, , VT" Significant offset - 711.1m -->
     <tag k="addr:housenumber" v="4070"/>
@@ -20,5 +41,12 @@
     <tag k="addr:street" v="Union Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151144"/>
+  </node>
+  <node id="-2896" visible="true" lat="43.21264906" lon="-73.08793027">
+    <!-- offset: "352 Spruce Lane, , VT" Significant offset - 166.4m -->
+    <tag k="addr:housenumber" v="352"/>
+    <tag k="addr:street" v="Spruce Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345061"/>
   </node>
 </osm>

@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-274" visible="true" lat="43.48944497" lon="-72.49702996">
-    <!-- multiple: "1406 Sheddsville Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1406"/>
-    <tag k="addr:street" v="Sheddsville Road"/>
+  <node id="-102" visible="true" lat="43.47961762" lon="-72.530626">
+    <!-- multiple: "467 Hurricane Hill, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="467"/>
+    <tag k="addr:street" v="Hurricane Hill"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="280353"/>
+    <tag k="ref:vcgi:esiteid" v="198269"/>
+  </node>
+  <node id="-803" visible="true" lat="43.44374797" lon="-72.45452986">
+    <!-- multiple: "3800 Mount Ascutney State Park Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3800"/>
+    <tag k="addr:street" v="Mount Ascutney State Park Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="296862"/>
   </node>
 </osm>

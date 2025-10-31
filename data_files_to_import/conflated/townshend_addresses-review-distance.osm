@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="43.13140859" lon="-72.64015213">
+    <!-- offset: "3348 Townshend Road, , VT" Significant offset - 223.8m -->
+    <tag k="addr:housenumber" v="3348"/>
+    <tag k="addr:street" v="Townshend Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="113198"/>
+  </node>
+  <node id="-101" visible="true" lat="43.12656786" lon="-72.64198971">
+    <!-- offset: "3528 Townshend Road, , VT" Significant offset - 258.6m -->
+    <tag k="addr:housenumber" v="3528"/>
+    <tag k="addr:street" v="Townshend Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="113220"/>
+  </node>
+  <node id="-647" visible="true" lat="43.03330543" lon="-72.66347715">
+    <!-- offset: "1096 Vermont Route 30, , VT" Significant offset - 1912.5m -->
+    <tag k="addr:housenumber" v="1096"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="261518"/>
+  </node>
   <node id="-754" visible="true" lat="43.02922597" lon="-72.65856325">
     <!-- offset: "708 Vermont Route 30, , VT" Significant offset - 4046.4m -->
     <tag k="addr:housenumber" v="708"/>
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="261628"/>
+  </node>
+  <node id="-803" visible="true" lat="43.0268504" lon="-72.62241687">
+    <!-- offset: "400 Brookline Road, , VT" Significant offset - 6837.5m -->
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:street" v="Brookline Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="261684"/>
+  </node>
+  <node id="-828" visible="true" lat="43.0293147" lon="-72.65862474">
+    <!-- offset: "714 Vermont Route 30, , VT" Significant offset - 4020.2m -->
+    <tag k="addr:housenumber" v="714"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="261713"/>
   </node>
 </osm>

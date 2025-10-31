@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-466" visible="true" lat="43.84889526" lon="-72.18957155">
-    <!-- offset: "473 Clay Road, , VT" Significant offset - 690.8m -->
-    <tag k="addr:housenumber" v="473"/>
-    <tag k="addr:street" v="Clay Road"/>
+  <node id="-114" visible="true" lat="43.89355087" lon="-72.25582885">
+    <!-- offset: "1067 West Fairlee Road, , VT" Significant offset - 235.5m -->
+    <tag k="addr:housenumber" v="1067"/>
+    <tag k="addr:street" v="West Fairlee Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="258847"/>
-  </node>
-  <node id="-622" visible="true" lat="43.83497982" lon="-72.22255012">
-    <!-- offset: "1193 Houghton Hill Road, , VT" Significant offset - 106.9m -->
-    <tag k="addr:housenumber" v="1193"/>
-    <tag k="addr:street" v="Houghton Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259012"/>
+    <tag k="ref:vcgi:esiteid" v="258483"/>
   </node>
   <node id="-928" visible="true" lat="43.81591414" lon="-72.21265576">
     <!-- offset: "300 Latham Road, , VT" Significant offset - 178.9m -->
@@ -21,11 +14,25 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259323"/>
   </node>
-  <node id="-1316" visible="true" lat="43.85000967" lon="-72.29553919">
-    <!-- offset: "3174 Route 132, , VT" Significant offset - 1300.4m -->
-    <tag k="addr:housenumber" v="3174"/>
-    <tag k="addr:street" v="Route 132"/>
+  <node id="-1033" visible="true" lat="43.81277546" lon="-72.23537487">
+    <!-- offset: "622 Academy Road, , VT" Significant offset - 265.4m -->
+    <tag k="addr:housenumber" v="622"/>
+    <tag k="addr:street" v="Academy Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="259725"/>
+    <tag k="ref:vcgi:esiteid" v="259437"/>
+  </node>
+  <node id="-1638" visible="true" lat="43.88513422" lon="-72.21975061">
+    <!-- offset: "262 Bragg Road, , VT" Significant offset - 145.2m -->
+    <tag k="addr:housenumber" v="262"/>
+    <tag k="addr:street" v="Bragg Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753496"/>
+  </node>
+  <node id="-1702" visible="true" lat="43.79185477" lon="-72.24061961">
+    <!-- offset: "755 Burnham Road, , VT" Significant offset - 130.2m -->
+    <tag k="addr:housenumber" v="755"/>
+    <tag k="addr:street" v="Burnham Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770718"/>
   </node>
 </osm>

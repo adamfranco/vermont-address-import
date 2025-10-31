@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-114" visible="true" lat="44.64690602" lon="-73.01631928">
-    <!-- offset: "24 Talcott Road, , VT" Significant offset - 106.1m -->
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Talcott Road"/>
+  <node id="-334" visible="true" lat="44.62979151" lon="-73.03260671">
+    <!-- offset: "51 North Road, , VT" Significant offset - 5490.8m -->
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="North Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="281266"/>
+    <tag k="ref:vcgi:esiteid" v="281493"/>
+  </node>
+  <node id="-1284" visible="true" lat="44.64290304" lon="-72.9882559">
+    <!-- offset: "18 Shady Lane, , VT" Significant offset - 126.5m -->
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Shady Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="331871"/>
   </node>
 </osm>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-190" visible="true" lat="44.8105746" lon="-72.20238559">
-    <!-- conflict: "2 Water Street, Orleans, VT" Fuzzy match to "2 Water Street, , " -->
+  <node id="-175" visible="true" lat="44.81081678" lon="-72.20609321">
+    <!-- conflict: "37 South Avenue, Orleans, VT" No match in OSM, but a different address exists <5m away: "37 Prospect Street, Orleans, VT" -->
     <tag k="addr:city" v="Orleans"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Water Street"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="South Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="14333"/>
+    <tag k="ref:vcgi:esiteid" v="14318"/>
   </node>
 </osm>

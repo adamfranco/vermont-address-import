@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="44.98690168" lon="-71.81166503">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1749"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1040"/>
+  </node>
+  <node id="-101" visible="true" lat="44.9955854" lon="-71.7143764">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="4199"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1085"/>
+  </node>
   <node id="-102" visible="true" lat="45.01060484" lon="-71.79143256">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="113"/>
     <tag k="addr:street" v="Marsh Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181896"/>
+  </node>
+  <node id="-103" visible="true" lat="45.01054111" lon="-71.7933114">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Vermont Route 147 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181897"/>
   </node>
   <node id="-104" visible="true" lat="45.0104807" lon="-71.79166632">
     <tag k="addr:city" v="Norton"/>
@@ -140,12 +161,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181918"/>
   </node>
-  <node id="-123" visible="true" lat="45.00859142" lon="-71.79358212">
+  <node id="-124" visible="true" lat="45.00852705" lon="-71.78540592">
     <tag k="addr:city" v="Norton"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="O'Brien Lane"/>
+    <tag k="addr:housenumber" v="513"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="181919"/>
+    <tag k="ref:vcgi:esiteid" v="181920"/>
   </node>
   <node id="-125" visible="true" lat="45.00824537" lon="-71.78916825">
     <tag k="addr:city" v="Norton"/>
@@ -161,12 +182,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181922"/>
   </node>
+  <node id="-127" visible="true" lat="45.00769851" lon="-71.77433486">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1043"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181923"/>
+  </node>
   <node id="-128" visible="true" lat="45.00764083" lon="-71.78271484">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:street" v="Town Highway 13"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181924"/>
+  </node>
+  <node id="-129" visible="true" lat="45.0076262" lon="-71.77676066">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="955"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181925"/>
   </node>
   <node id="-130" visible="true" lat="45.00697631" lon="-71.7970126">
     <tag k="addr:city" v="Norton"/>
@@ -182,12 +217,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181927"/>
   </node>
+  <node id="-132" visible="true" lat="45.00559843" lon="-71.77068709">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1282"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181928"/>
+  </node>
   <node id="-133" visible="true" lat="45.00577457" lon="-71.79774708">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="249"/>
     <tag k="addr:street" v="Vermont Route 114 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181929"/>
+  </node>
+  <node id="-134" visible="true" lat="45.00530194" lon="-71.76913558">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1340"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181930"/>
   </node>
   <node id="-135" visible="true" lat="45.00524705" lon="-71.80009872">
     <tag k="addr:city" v="Norton"/>
@@ -216,6 +265,13 @@
     <tag k="addr:street" v="Railroad Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181934"/>
+  </node>
+  <node id="-139" visible="true" lat="45.00392532" lon="-71.76676178">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1506"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181935"/>
   </node>
   <node id="-140" visible="true" lat="45.00415917" lon="-71.79900996">
     <tag k="addr:city" v="Norton"/>
@@ -252,6 +308,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181940"/>
   </node>
+  <node id="-145" visible="true" lat="45.00276633" lon="-71.76156772">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1760"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181941"/>
+  </node>
   <node id="-146" visible="true" lat="45.00319071" lon="-71.79917375">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="445"/>
@@ -272,6 +335,20 @@
     <tag k="addr:street" v="Vermont Route 114 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181944"/>
+  </node>
+  <node id="-149" visible="true" lat="45.0023448" lon="-71.75844095">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1927"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181945"/>
+  </node>
+  <node id="-150" visible="true" lat="45.00224047" lon="-71.7580742">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1929"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181946"/>
   </node>
   <node id="-151" visible="true" lat="45.00191116" lon="-71.80020141">
     <tag k="addr:city" v="Norton"/>
@@ -315,6 +392,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181953"/>
   </node>
+  <node id="-157" visible="true" lat="45.00032424" lon="-71.75422668">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="2162"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181954"/>
+  </node>
   <node id="-158" visible="true" lat="44.99982597" lon="-71.70808904">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="4615"/>
@@ -329,12 +413,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181956"/>
   </node>
+  <node id="-160" visible="true" lat="44.99955368" lon="-71.75161743">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="2298"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181957"/>
+  </node>
+  <node id="-161" visible="true" lat="44.99918859" lon="-71.7507225">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="2354"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181958"/>
+  </node>
   <node id="-163" visible="true" lat="44.99935531" lon="-71.79616546">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="264"/>
     <tag k="addr:street" v="Church Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181960"/>
+  </node>
+  <node id="-164" visible="true" lat="44.99892314" lon="-71.75002672">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="2408"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181962"/>
   </node>
   <node id="-165" visible="true" lat="44.9986492" lon="-71.71054816">
     <tag k="addr:city" v="Norton"/>
@@ -343,12 +448,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181963"/>
   </node>
+  <node id="-166" visible="true" lat="44.99878134" lon="-71.74805989">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="2479"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181964"/>
+  </node>
   <node id="-167" visible="true" lat="44.9982828" lon="-71.7486623">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Gaudette Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181965"/>
+  </node>
+  <node id="-168" visible="true" lat="44.99836724" lon="-71.74788423">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="2504"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181966"/>
   </node>
   <node id="-169" visible="true" lat="44.99812741" lon="-71.71020635">
     <tag k="addr:city" v="Norton"/>
@@ -406,6 +525,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181974"/>
   </node>
+  <node id="-177" visible="true" lat="44.99668379" lon="-71.74112922">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="2859"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181975"/>
+  </node>
   <node id="-178" visible="true" lat="44.99638734" lon="-71.72308937">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="3763"/>
@@ -440,6 +566,13 @@
     <tag k="addr:street" v="Lake View Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181980"/>
+  </node>
+  <node id="-183" visible="true" lat="44.99573085" lon="-71.71175693">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="329"/>
+    <tag k="addr:street" v="Lake View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181981"/>
   </node>
   <node id="-184" visible="true" lat="44.99571678" lon="-71.73395187">
     <tag k="addr:city" v="Norton"/>
@@ -489,6 +622,13 @@
     <tag k="addr:street" v="Lake View Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="181988"/>
+  </node>
+  <node id="-191" visible="true" lat="44.99478711" lon="-71.7131706">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:street" v="Lake View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="181989"/>
   </node>
   <node id="-192" visible="true" lat="44.99511555" lon="-71.80352805">
     <tag k="addr:city" v="Norton"/>
@@ -560,6 +700,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182000"/>
   </node>
+  <node id="-202" visible="true" lat="44.9927027" lon="-71.80384141">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1197"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182001"/>
+  </node>
   <node id="-203" visible="true" lat="44.99249104" lon="-71.80627397">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="1267"/>
@@ -623,7 +770,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182010"/>
   </node>
-  <node id="-212" visible="true" lat="44.98715576" lon="-71.81201936">
+  <node id="-212" visible="true" lat="44.98715402" lon="-71.81201721">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="1740"/>
     <tag k="addr:street" v="Vermont Route 114 South"/>
@@ -672,6 +819,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182018"/>
   </node>
+  <node id="-219" visible="true" lat="44.98163223" lon="-71.81916046">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Gagnon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182019"/>
+  </node>
   <node id="-220" visible="true" lat="44.97999395" lon="-71.81545648">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="2297"/>
@@ -699,6 +853,13 @@
     <tag k="addr:street" v="Brousseau Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182023"/>
+  </node>
+  <node id="-224" visible="true" lat="44.97818004" lon="-71.81698996">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="2453"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182024"/>
   </node>
   <node id="-225" visible="true" lat="44.97725677" lon="-71.73937988">
     <tag k="addr:city" v="Norton"/>
@@ -742,6 +903,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182030"/>
   </node>
+  <node id="-231" visible="true" lat="44.96856858" lon="-71.81637299">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3105"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182031"/>
+  </node>
+  <node id="-232" visible="true" lat="44.96753257" lon="-71.81538332">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3125"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182032"/>
+  </node>
   <node id="-233" visible="true" lat="44.96773944" lon="-71.8169022">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="3173"/>
@@ -762,6 +937,13 @@
     <tag k="addr:street" v="Vermont Route 114 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182035"/>
+  </node>
+  <node id="-236" visible="true" lat="44.96644705" lon="-71.81764328">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3261"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182036"/>
   </node>
   <node id="-237" visible="true" lat="44.96609855" lon="-71.8192292">
     <tag k="addr:city" v="Norton"/>
@@ -798,6 +980,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182041"/>
   </node>
+  <node id="-242" visible="true" lat="44.9651013" lon="-71.81998539">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3407"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182042"/>
+  </node>
   <node id="-243" visible="true" lat="44.96494133" lon="-71.82038669">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="3419"/>
@@ -812,6 +1001,48 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182044"/>
   </node>
+  <node id="-245" visible="true" lat="44.96426807" lon="-71.82183842">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3509"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182045"/>
+  </node>
+  <node id="-246" visible="true" lat="44.96409641" lon="-71.823494">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3581"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182046"/>
+  </node>
+  <node id="-247" visible="true" lat="44.96382556" lon="-71.82389835">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3633"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182047"/>
+  </node>
+  <node id="-248" visible="true" lat="44.963407" lon="-71.82305298">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3585"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182048"/>
+  </node>
+  <node id="-249" visible="true" lat="44.96340842" lon="-71.82666585">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3728"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182049"/>
+  </node>
+  <node id="-250" visible="true" lat="44.96302456" lon="-71.82446783">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3661"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182050"/>
+  </node>
   <node id="-251" visible="true" lat="44.96298528" lon="-71.82584293">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="3721"/>
@@ -825,6 +1056,41 @@
     <tag k="addr:street" v="Vermont Route 114 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182052"/>
+  </node>
+  <node id="-253" visible="true" lat="44.960141" lon="-71.83071719">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="4039"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182053"/>
+  </node>
+  <node id="-254" visible="true" lat="44.95775352" lon="-71.83574552">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="4337"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182054"/>
+  </node>
+  <node id="-255" visible="true" lat="44.95747508" lon="-71.83627762">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="4371"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182055"/>
+  </node>
+  <node id="-256" visible="true" lat="44.95688281" lon="-71.83814208">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="4460"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182056"/>
+  </node>
+  <node id="-257" visible="true" lat="44.95184277" lon="-71.84400157">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Lake Station Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182057"/>
   </node>
   <node id="-258" visible="true" lat="44.95115322" lon="-71.84284832">
     <tag k="addr:city" v="Norton"/>
@@ -854,12 +1120,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182061"/>
   </node>
+  <node id="-262" visible="true" lat="44.94782502" lon="-71.84587737">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="5201"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182062"/>
+  </node>
+  <node id="-263" visible="true" lat="44.9475383" lon="-71.84615195">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="5225"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182063"/>
+  </node>
+  <node id="-264" visible="true" lat="44.94715533" lon="-71.84658817">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="5261"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182064"/>
+  </node>
   <node id="-265" visible="true" lat="45.01053327" lon="-71.79080185">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="Marsh Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182066"/>
+  </node>
+  <node id="-266" visible="true" lat="45.00422287" lon="-71.79938507">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="380"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182067"/>
   </node>
   <node id="-267" visible="true" lat="44.99490565" lon="-71.7458318">
     <tag k="addr:city" v="Norton"/>
@@ -917,7 +1211,21 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182075"/>
   </node>
-  <node id="-277" visible="true" lat="44.94988756" lon="-71.84915248">
+  <node id="-275" visible="true" lat="44.94862412" lon="-71.84962641">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:street" v="Devost Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182076"/>
+  </node>
+  <node id="-276" visible="true" lat="44.95004396" lon="-71.8487176">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Biron Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182077"/>
+  </node>
+  <node id="-277" visible="true" lat="44.94963656" lon="-71.84945238">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="106"/>
     <tag k="addr:street" v="Biron Lane"/>
@@ -952,6 +1260,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182082"/>
   </node>
+  <node id="-282" visible="true" lat="44.95363775" lon="-71.85138422">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="905"/>
+    <tag k="addr:street" v="Lake Station Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182083"/>
+  </node>
   <node id="-283" visible="true" lat="45.00308639" lon="-71.76851995">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="150"/>
@@ -965,6 +1280,20 @@
     <tag k="addr:street" v="Mountain View Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182086"/>
+  </node>
+  <node id="-285" visible="true" lat="44.99692217" lon="-71.72872241">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3461"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182087"/>
+  </node>
+  <node id="-286" visible="true" lat="44.99046842" lon="-71.8031421">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1311"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182088"/>
   </node>
   <node id="-287" visible="true" lat="44.98718619" lon="-71.81052634">
     <tag k="addr:city" v="Norton"/>
@@ -987,12 +1316,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182091"/>
   </node>
+  <node id="-290" visible="true" lat="44.99854599" lon="-71.74574026">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Mountain View Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182092"/>
+  </node>
   <node id="-291" visible="true" lat="44.98059386" lon="-71.81429292">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="2211"/>
     <tag k="addr:street" v="Vermont Route 114 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182093"/>
+  </node>
+  <node id="-292" visible="true" lat="44.96807956" lon="-71.81546502">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3121"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182094"/>
   </node>
   <node id="-293" visible="true" lat="44.99633466" lon="-71.73923966">
     <tag k="addr:city" v="Norton"/>
@@ -1029,6 +1372,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182099"/>
   </node>
+  <node id="-298" visible="true" lat="44.99935899" lon="-71.74485993">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Mountain View Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182100"/>
+  </node>
   <node id="-299" visible="true" lat="44.98795358" lon="-71.80426798">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="1551"/>
@@ -1050,6 +1400,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182103"/>
   </node>
+  <node id="-302" visible="true" lat="44.98247932" lon="-71.82233393">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="316"/>
+    <tag k="addr:street" v="Gagnon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182105"/>
+  </node>
   <node id="-303" visible="true" lat="45.00640365" lon="-71.80514986">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="474"/>
@@ -1063,6 +1420,13 @@
     <tag k="addr:street" v="Vermont Route 114 East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182107"/>
+  </node>
+  <node id="-305" visible="true" lat="44.99588171" lon="-71.72819606">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Averill Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340855"/>
   </node>
   <node id="-306" visible="true" lat="44.99402265" lon="-71.74979117">
     <tag k="addr:city" v="Norton"/>
@@ -1099,6 +1463,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342468"/>
   </node>
+  <node id="-311" visible="true" lat="45.00721001" lon="-71.78442972">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="602"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342524"/>
+  </node>
+  <node id="-312" visible="true" lat="44.99886477" lon="-71.74686887">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="2571"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365346"/>
+  </node>
   <node id="-313" visible="true" lat="44.98921533" lon="-71.72217337">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="750"/>
@@ -1134,6 +1512,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450120"/>
   </node>
+  <node id="-318" visible="true" lat="45.00763006" lon="-71.77795869">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="889"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450121"/>
+  </node>
   <node id="-319" visible="true" lat="44.99890868" lon="-71.7611399">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="262"/>
@@ -1141,7 +1526,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450954"/>
   </node>
-  <node id="-320" visible="true" lat="45.01003268" lon="-71.79522975">
+  <node id="-320" visible="true" lat="45.01003094" lon="-71.79522761">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Town Highway 11"/>
@@ -1190,6 +1575,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455027"/>
   </node>
+  <node id="-329" visible="true" lat="45.00662758" lon="-71.77185327">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1157"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620635"/>
+  </node>
   <node id="-330" visible="true" lat="45.00405685" lon="-71.79733558">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="357"/>
@@ -1203,6 +1595,13 @@
     <tag k="addr:street" v="Vermont Route 114 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620637"/>
+  </node>
+  <node id="-332" visible="true" lat="45.00768067" lon="-71.78537318">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="522"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="700134"/>
   </node>
   <node id="-333" visible="true" lat="44.97297538" lon="-71.81478084">
     <tag k="addr:city" v="Norton"/>
@@ -1232,11 +1631,123 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757544"/>
   </node>
+  <node id="-339" visible="true" lat="44.95339852" lon="-71.85015002">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="428"/>
+    <tag k="addr:street" v="Lake Station Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762470"/>
+  </node>
+  <node id="-343" visible="true" lat="44.99589783" lon="-71.77066585">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="656"/>
+    <tag k="addr:street" v="Leos Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766254"/>
+  </node>
+  <node id="-344" visible="true" lat="44.99723479" lon="-71.75143484">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Gaudette Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768464"/>
+  </node>
+  <node id="-345" visible="true" lat="44.99736674" lon="-71.75070558">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:street" v="Gaudette Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768521"/>
+  </node>
+  <node id="-348" visible="true" lat="45.00097284" lon="-71.76888518">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="306"/>
+    <tag k="addr:street" v="Leos Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768525"/>
+  </node>
+  <node id="-349" visible="true" lat="45.00749572" lon="-71.77140898">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1151"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768526"/>
+  </node>
+  <node id="-350" visible="true" lat="45.00659213" lon="-71.77645805">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="962"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768527"/>
+  </node>
+  <node id="-351" visible="true" lat="45.00605935" lon="-71.79581678">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="287"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768528"/>
+  </node>
+  <node id="-352" visible="true" lat="44.98420367" lon="-71.82111145">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:street" v="Gagnon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768529"/>
+  </node>
+  <node id="-353" visible="true" lat="44.99032565" lon="-71.80816434">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1435"/>
+    <tag k="addr:street" v="Vermont Route 114 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768530"/>
+  </node>
+  <node id="-354" visible="true" lat="44.99877866" lon="-71.73694268">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="3559"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768531"/>
+  </node>
+  <node id="-355" visible="true" lat="44.99872731" lon="-71.76949491">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="470"/>
+    <tag k="addr:street" v="Leos Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768592"/>
+  </node>
+  <node id="-356" visible="true" lat="44.99874301" lon="-71.76998583">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="496"/>
+    <tag k="addr:street" v="Leos Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768593"/>
+  </node>
+  <node id="-358" visible="true" lat="44.9978208" lon="-71.76519626">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="424"/>
+    <tag k="addr:street" v="Stony Acres Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768595"/>
+  </node>
   <node id="-359" visible="true" lat="44.95361479" lon="-71.89860352">
     <tag k="addr:city" v="Norton"/>
     <tag k="addr:housenumber" v="2457"/>
     <tag k="addr:street" v="Hurricane Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="800162"/>
+  </node>
+  <node id="-360" visible="true" lat="44.95997755" lon="-71.76048534">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="1049"/>
+    <tag k="addr:street" v="Gaudette Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050755"/>
+  </node>
+  <node id="-361" visible="true" lat="44.99736412" lon="-71.74397695">
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="2710"/>
+    <tag k="addr:street" v="Vermont Route 114 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050765"/>
   </node>
 </osm>

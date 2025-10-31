@@ -1,75 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-739" visible="true" lat="43.80815792" lon="-73.09316123">
-    <!-- conflict: "9 North Conant Drive, Brandon, VT" Fuzzy match to "9 Conant Square, Brandon, VT" -->
+  <node id="-673" visible="true" lat="43.81073774" lon="-73.10458496">
+    <!-- conflict: "908 Grove Street, Brandon, VT" No match in OSM, but a different address exists <5m away: "908 New Road, Brandon, VT" -->
     <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="North Conant Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28418"/>
-  </node>
-  <node id="-743" visible="true" lat="43.80786514" lon="-73.09377288">
-    <!-- conflict: "8 North Conant Drive, Brandon, VT" Fuzzy match to "8 Conant Square, , " -->
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="North Conant Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28422"/>
-  </node>
-  <node id="-776" visible="true" lat="43.80646672" lon="-73.09275822">
-    <!-- conflict: "3 North Conant Drive, Brandon, VT" Fuzzy match to "3 Conant Square, Brandon, VT" -->
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="North Conant Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28459"/>
-  </node>
-  <node id="-855" visible="true" lat="43.80301394" lon="-73.08589981">
-    <!-- conflict: "4 North Seminary Street, Brandon, VT" Fuzzy match to "4 West Seminary Street, Brandon, VT" -->
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="North Seminary Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28546"/>
-  </node>
-  <node id="-857" visible="true" lat="43.80295944" lon="-73.08535766">
-    <!-- conflict: "6 North Seminary Street, Brandon, VT" Fuzzy match to "6 West Seminary Street, Brandon, VT" -->
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="North Seminary Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28548"/>
-  </node>
-  <node id="-858" visible="true" lat="43.80285368" lon="-73.0966186">
-    <!-- conflict: "256 Grove Street, Brandon, VT" Fuzzy match to "256 Grove Street, , " -->
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="256"/>
+    <tag k="addr:housenumber" v="908"/>
     <tag k="addr:street" v="Grove Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28549"/>
+    <tag k="ref:vcgi:esiteid" v="28345"/>
   </node>
-  <node id="-860" visible="true" lat="43.80266952" lon="-73.08616638">
-    <!-- conflict: "3 North Seminary Street, Brandon, VT" Fuzzy match to "3 West Seminary Street, Brandon, VT" -->
+  <node id="-1934" visible="true" lat="43.84483687" lon="-73.08426548">
+    <!-- conflict: "2559 Town Farm Road, Brandon, VT" Fuzzy match to "2559 Town Farm Road, , VT" -->
     <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="North Seminary Street"/>
+    <tag k="addr:housenumber" v="2559"/>
+    <tag k="addr:street" v="Town Farm Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28552"/>
-  </node>
-  <node id="-1063" visible="true" lat="43.79851572" lon="-73.08675784">
-    <!-- conflict: "22 Park Street, Brandon, VT" No match in OSM, but a different address exists <5m away: " Randle Drive, Brandon, " -->
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28782"/>
-  </node>
-  <node id="-1113" visible="true" lat="43.79718642" lon="-73.08940683">
-    <!-- conflict: "71 Supermarket Drive, Brandon, VT" Fuzzy match to "71 Supermarket Drive, , VT" -->
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Supermarket Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28844"/>
+    <tag k="ref:vcgi:esiteid" v="450249"/>
   </node>
 </osm>

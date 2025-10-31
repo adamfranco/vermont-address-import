@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="44.16750302" lon="-72.4683467">
+    <!-- offset: "227 Websterville Road, , VT" Significant offset - 448.3m -->
+    <tag k="addr:housenumber" v="227"/>
+    <tag k="addr:street" v="Websterville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1"/>
+  </node>
+  <node id="-340" visible="true" lat="44.21936149" lon="-72.52180293">
+    <!-- offset: "3 Cross Street, , VT" Significant offset - 6245.9m -->
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Cross Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="11148"/>
+  </node>
+  <node id="-671" visible="true" lat="44.2053642" lon="-72.49079955">
+    <!-- offset: "7 Meadow Lane, , VT" Significant offset - 8986.8m -->
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="11485"/>
+  </node>
+  <node id="-684" visible="true" lat="44.20518493" lon="-72.49147796">
+    <!-- offset: "2 Meadow Lane, , VT" Significant offset - 8956.8m -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="11498"/>
+  </node>
+  <node id="-1145" visible="true" lat="44.18951669" lon="-72.48598258">
+    <!-- offset: "284 Washington Street, , VT" Significant offset - 180.2m -->
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="11970"/>
+  </node>
+  <node id="-1577" visible="true" lat="44.17474666" lon="-72.50554401">
+    <!-- offset: "10 Wilson Street, , VT" Significant offset - 9436.5m -->
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Wilson Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="12432"/>
+  </node>
+  <node id="-1589" visible="true" lat="44.17447799" lon="-72.50318089">
+    <!-- offset: "9 Howard Street, , VT" Significant offset - 2994.7m -->
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Howard Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="12445"/>
+  </node>
+  <node id="-1602" visible="true" lat="44.17411874" lon="-72.50493467">
+    <!-- offset: "22 Wilson Street, , VT" Significant offset - 9541.8m -->
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Wilson Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="12458"/>
+  </node>
   <node id="-2089" visible="true" lat="44.16132887" lon="-72.45189272">
-    <!-- offset: "21 High Street, , VT" Significant offset - 8321.6m -->
+    <!-- offset: "21 High Street, , VT" Significant offset - 8319.5m -->
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="High Street"/>
     <tag k="addr:state" v="VT"/>
@@ -28,6 +84,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="13124"/>
   </node>
+  <node id="-2282" visible="true" lat="44.15894756" lon="-72.45242533">
+    <!-- offset: "1 Church Street, , VT" Significant offset - 5691.1m -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="13203"/>
+  </node>
   <node id="-2298" visible="true" lat="44.15875244" lon="-72.46857452">
     <!-- offset: "72 Brook Street, , VT" Significant offset - 6064.3m -->
     <tag k="addr:housenumber" v="72"/>
@@ -35,8 +98,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="13220"/>
   </node>
+  <node id="-2320" visible="true" lat="44.1582738" lon="-72.46889838">
+    <!-- offset: "64 Brook Street, , VT" Significant offset - 7096.8m -->
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Brook Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="13243"/>
+  </node>
   <node id="-2388" visible="true" lat="44.15739342" lon="-72.46939236">
-    <!-- offset: "50 Brook Street, , VT" Significant offset - 6989.6m -->
+    <!-- offset: "50 Brook Street, , VT" Significant offset - 6987m -->
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Brook Street"/>
     <tag k="addr:state" v="VT"/>
@@ -49,43 +119,43 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="13693"/>
   </node>
-  <node id="-2804" visible="true" lat="44.14228277" lon="-72.47164047">
-    <!-- offset: "4 Short Street, , VT" Significant offset - 7295.3m -->
+  <node id="-2804" visible="true" lat="44.14229526" lon="-72.47162637">
+    <!-- offset: "4 Short Street, , VT" Significant offset - 7294.4m -->
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Short Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="13767"/>
   </node>
-  <node id="-2940" visible="true" lat="44.23197405" lon="-72.47817547">
-    <!-- offset: "89 Mitchell Road, , VT" Significant offset - 112.5m -->
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Mitchell Road"/>
+  <node id="-2811" visible="true" lat="44.14193344" lon="-72.47608947">
+    <!-- offset: "845 Graniteville Road, , VT" Significant offset - 3912.8m -->
+    <tag k="addr:housenumber" v="845"/>
+    <tag k="addr:street" v="Graniteville Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="13911"/>
+    <tag k="ref:vcgi:esiteid" v="13775"/>
   </node>
-  <node id="-3121" visible="true" lat="44.23299115" lon="-72.47805147">
-    <!-- offset: "91 Mitchell Road, , VT" Significant offset - 112.7m -->
-    <tag k="addr:housenumber" v="91"/>
-    <tag k="addr:street" v="Mitchell Road"/>
+  <node id="-3326" visible="true" lat="44.16266146" lon="-72.51109216">
+    <!-- offset: "6 Morris Drive, , VT" Significant offset - 8887.8m -->
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Morris Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="14099"/>
+    <tag k="ref:vcgi:esiteid" v="329588"/>
   </node>
-  <node id="-3444" visible="true" lat="44.23438102" lon="-72.48795829">
-    <!-- offset: "575 East Montpelier Road, , VT" Significant offset - 123.7m -->
-    <tag k="addr:housenumber" v="575"/>
-    <tag k="addr:street" v="East Montpelier Road"/>
+  <node id="-3522" visible="true" lat="44.214443" lon="-72.51169561">
+    <!-- offset: "85 Ivan Drive, , VT" Significant offset - 104.9m -->
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Ivan Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451325"/>
+    <tag k="ref:vcgi:esiteid" v="655351"/>
   </node>
-  <node id="-3469" visible="true" lat="44.18404098" lon="-72.50835591">
-    <!-- offset: "3 Wallace Road, , VT" Significant offset - 104.2m -->
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Wallace Road"/>
+  <node id="-3572" visible="true" lat="44.22463587" lon="-72.43440596">
+    <!-- offset: "910 Gonyeau Road, , VT" Significant offset - 411m -->
+    <tag k="addr:housenumber" v="910"/>
+    <tag k="addr:street" v="Gonyeau Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453109"/>
+    <tag k="ref:vcgi:esiteid" v="757297"/>
   </node>
-  <node id="-3744" visible="true" lat="44.16966186" lon="-72.50730569">
-    <!-- offset: "596 South Barre Road, , VT" Significant offset - 102.6m -->
+  <node id="-3750" visible="true" lat="44.16966186" lon="-72.50730569">
+    <!-- offset: "596 South Barre Road, , VT" Significant offset - 103.7m -->
     <tag k="addr:housenumber" v="596"/>
     <tag k="addr:street" v="South Barre Road"/>
     <tag k="addr:state" v="VT"/>

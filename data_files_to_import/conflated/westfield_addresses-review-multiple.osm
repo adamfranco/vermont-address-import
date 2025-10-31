@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-306" visible="true" lat="44.87493119" lon="-72.45881069">
-    <!-- multiple: "795 Kettle Farm Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="795"/>
-    <tag k="addr:street" v="Kettle Farm Road"/>
+  <node id="-100" visible="true" lat="44.83752825" lon="-72.40459477">
+    <!-- multiple: "255 Mountain Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Mountain Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="281123"/>
+    <tag k="ref:vcgi:esiteid" v="142064"/>
+  </node>
+  <node id="-153" visible="true" lat="44.89432887" lon="-72.41900398">
+    <!-- multiple: "560 Vermont Route 100, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="560"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280966"/>
+  </node>
+  <node id="-430" visible="true" lat="44.85695307" lon="-72.43285646">
+    <!-- multiple: "3429 Vermont Route 100, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3429"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281251"/>
+  </node>
+  <node id="-464" visible="true" lat="44.86504872" lon="-72.43294537">
+    <!-- multiple: "2841 Vermont Route 100, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2841"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344362"/>
+  </node>
+  <node id="-471" visible="true" lat="44.83441406" lon="-72.50896867">
+    <!-- multiple: "21 Route 58, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Route 58"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365446"/>
+  </node>
+  <node id="-524" visible="true" lat="44.85152139" lon="-72.40594566">
+    <!-- multiple: "5065 Loop Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="5065"/>
+    <tag k="addr:street" v="Loop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762084"/>
+  </node>
+  <node id="-525" visible="true" lat="44.84459338" lon="-72.40574091">
+    <!-- multiple: "132 Carter Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:street" v="Carter Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762085"/>
   </node>
 </osm>

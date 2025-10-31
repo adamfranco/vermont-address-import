@@ -1,17 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-387" visible="true" lat="44.1143296" lon="-72.22222477">
-    <!-- offset: "25 Miller Drive, , VT" Significant offset - 193.5m -->
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Miller Drive"/>
+  <node id="-651" visible="true" lat="44.14431434" lon="-72.28709097">
+    <!-- offset: "138 Willey Hill Road, , VT" Significant offset - 341.2m -->
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Willey Hill Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="260546"/>
+    <tag k="ref:vcgi:esiteid" v="260815"/>
   </node>
-  <node id="-821" visible="true" lat="44.14093214" lon="-72.31643847">
+  <node id="-696" visible="true" lat="44.12293265" lon="-72.21823981">
+    <!-- offset: "72 Harts Road, , VT" Significant offset - 227m -->
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Harts Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260864"/>
+  </node>
+  <node id="-730" visible="true" lat="44.14528753" lon="-72.28757165">
+    <!-- offset: "130 Willey Hill Road, , VT" Significant offset - 317.9m -->
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Willey Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260902"/>
+  </node>
+  <node id="-731" visible="true" lat="44.14304145" lon="-72.28501239">
+    <!-- offset: "170 Willey Hill Road, , VT" Significant offset - 233.9m -->
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Willey Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260903"/>
+  </node>
+  <node id="-732" visible="true" lat="44.14382511" lon="-72.28556667">
+    <!-- offset: "168 Willey Hill Road, , VT" Significant offset - 276m -->
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:street" v="Willey Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260904"/>
+  </node>
+  <node id="-819" visible="true" lat="44.14093214" lon="-72.31643847">
     <!-- offset: "7 U.S. Route 302, , VT" Significant offset - 210.1m -->
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="U.S. Route 302"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341859"/>
+  </node>
+  <node id="-832" visible="true" lat="44.14487938" lon="-72.25976698">
+    <!-- offset: "120 Downing Road, , VT" Significant offset - 114.4m -->
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Downing Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449148"/>
+  </node>
+  <node id="-847" visible="true" lat="44.14634876" lon="-72.25972171">
+    <!-- offset: "126 Downing Road, , VT" Significant offset - 159.4m -->
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Downing Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613426"/>
   </node>
 </osm>

@@ -1,94 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-341" visible="true" lat="44.70466825" lon="-72.18808529">
-    <!-- conflict: "9 Doctor Buck Hill, , VT" No match in OSM, but a different address exists <5m away: "9 Dr Buck Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Doctor Buck Hill"/>
+  <node id="-802" visible="true" lat="44.66945388" lon="-72.22096456">
+    <!-- conflict: "420 Stone Shore Road, , VT" No match in OSM, but a different address exists <5m away: "440 Stone Shore Road, , VT" -->
+    <tag k="addr:housenumber" v="420"/>
+    <tag k="addr:street" v="Stone Shore Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111960"/>
-  </node>
-  <node id="-348" visible="true" lat="44.7042334" lon="-72.18741882">
-    <!-- conflict: "54 Doctor Buck Hill, , VT" No match in OSM, but a different address exists <5m away: "54 Dr Buck Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Doctor Buck Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111967"/>
-  </node>
-  <node id="-351" visible="true" lat="44.70422764" lon="-72.19015962">
-    <!-- conflict: "64 Still Hill, , VT" Fuzzy match to "64 Still Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Still Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111970"/>
-  </node>
-  <node id="-354" visible="true" lat="44.70368314" lon="-72.18913892">
-    <!-- conflict: "21 Still Hill, , VT" Fuzzy match to "21 Still Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Still Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111973"/>
-  </node>
-  <node id="-355" visible="true" lat="44.70362393" lon="-72.19045432">
-    <!-- conflict: "82 Still Hill, , VT" Fuzzy match to "82 Still Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Still Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111974"/>
-  </node>
-  <node id="-358" visible="true" lat="44.70290257" lon="-72.19061714">
-    <!-- conflict: "135 Still Hill, , VT" Fuzzy match to "135 Still Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="135"/>
-    <tag k="addr:street" v="Still Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111977"/>
-  </node>
-  <node id="-365" visible="true" lat="44.70212328" lon="-72.19134777">
-    <!-- conflict: "203 Still Hill, , VT" Fuzzy match to "203 Still Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="203"/>
-    <tag k="addr:street" v="Still Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111984"/>
-  </node>
-  <node id="-372" visible="true" lat="44.70088095" lon="-72.19219511">
-    <!-- conflict: "291 Still Hill, , VT" Fuzzy match to "291 Still Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="291"/>
-    <tag k="addr:street" v="Still Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111991"/>
-  </node>
-  <node id="-373" visible="true" lat="44.70083471" lon="-72.1929743">
-    <!-- conflict: "322 Still Hill, , VT" Fuzzy match to "322 Still Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="322"/>
-    <tag k="addr:street" v="Still Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111992"/>
-  </node>
-  <node id="-375" visible="true" lat="44.70055239" lon="-72.19246936">
-    <!-- conflict: "323 Still Hill, , VT" Fuzzy match to "323 Still Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="323"/>
-    <tag k="addr:street" v="Still Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111994"/>
-  </node>
-  <node id="-378" visible="true" lat="44.70013641" lon="-72.19289922">
-    <!-- conflict: "355 Still Hill, , VT" Fuzzy match to "355 Still Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Still Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111997"/>
-  </node>
-  <node id="-849" visible="true" lat="44.70260995" lon="-72.19187296">
-    <!-- conflict: "158 Still Hill, , VT" Fuzzy match to "158 Still Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="158"/>
-    <tag k="addr:street" v="Still Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310088"/>
-  </node>
-  <node id="-926" visible="true" lat="44.70019387" lon="-72.19193436">
-    <!-- conflict: "227 Still Hill, , VT" Fuzzy match to "227 Still Hollow, Glover, VT" -->
-    <tag k="addr:housenumber" v="227"/>
-    <tag k="addr:street" v="Still Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610364"/>
+    <tag k="ref:vcgi:esiteid" v="112427"/>
   </node>
 </osm>

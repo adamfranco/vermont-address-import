@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-226" visible="true" lat="44.99585854" lon="-72.40544821">
+    <!-- multiple: "126 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="261857"/>
+  </node>
+  <node id="-800" visible="true" lat="44.84224642" lon="-72.39768943">
+    <!-- multiple: "34 Foster Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Foster Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="262500"/>
+  </node>
+  <node id="-821" visible="true" lat="44.91078082" lon="-72.40735271">
+    <!-- multiple: "96 Woodland Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Woodland Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="262522"/>
+  </node>
+  <node id="-1014" visible="true" lat="44.85158015" lon="-72.40168342">
+    <!-- multiple: "5063 Loop Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="5063"/>
+    <tag k="addr:street" v="Loop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762082"/>
+  </node>
 </osm>

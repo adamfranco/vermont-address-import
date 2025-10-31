@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1559" visible="true" lat="43.20376586" lon="-72.99512452">
-    <!-- multiple: "23 Valley View Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Valley View Road"/>
+  <node id="-1638" visible="true" lat="43.15516553" lon="-72.86570516">
+    <!-- multiple: "1 Greentree Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Greentree Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298461"/>
+    <tag k="ref:vcgi:esiteid" v="298541"/>
+  </node>
+  <node id="-1684" visible="true" lat="43.11968715" lon="-72.88081411">
+    <!-- multiple: "125 Upper Taylor Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Upper Taylor Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="307432"/>
   </node>
 </osm>

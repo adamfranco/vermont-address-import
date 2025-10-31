@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-562" visible="true" lat="43.59544414" lon="-73.02612831">
+  <node id="-561" visible="true" lat="43.59544414" lon="-73.02612831">
     <!-- multiple: "610 Rutland Road, West Rutland, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="West Rutland"/>
     <tag k="addr:housenumber" v="610"/>
@@ -8,12 +8,28 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="279663"/>
   </node>
-  <node id="-665" visible="true" lat="43.5928521" lon="-73.04478236">
+  <node id="-617" visible="true" lat="43.59398588" lon="-73.0427626">
+    <!-- multiple: "232 Main Street, West Rutland, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="West Rutland"/>
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="279727"/>
+  </node>
+  <node id="-664" visible="true" lat="43.5928521" lon="-73.04478236">
     <!-- multiple: "355 Main Street, West Rutland, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="West Rutland"/>
     <tag k="addr:housenumber" v="355"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="279780"/>
+  </node>
+  <node id="-1085" visible="true" lat="43.57203825" lon="-73.05112296">
+    <!-- multiple: "1010 Dewey Avenue, West Rutland, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="West Rutland"/>
+    <tag k="addr:housenumber" v="1010"/>
+    <tag k="addr:street" v="Dewey Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617406"/>
   </node>
 </osm>

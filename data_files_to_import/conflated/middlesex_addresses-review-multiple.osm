@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-187" visible="true" lat="44.35096487" lon="-72.60272671">
+    <!-- multiple: "433 Shady Rill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="433"/>
+    <tag k="addr:street" v="Shady Rill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="156926"/>
+  </node>
+  <node id="-952" visible="true" lat="44.32709737" lon="-72.64329214">
+    <!-- multiple: "765 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="765"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751427"/>
+  </node>
 </osm>

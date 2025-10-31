@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-159" visible="true" lat="45.00539997" lon="-72.14194034">
+    <!-- multiple: "3141 Beebe Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3141"/>
+    <tag k="addr:street" v="Beebe Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="81767"/>
+  </node>
+  <node id="-201" visible="true" lat="45.00475985" lon="-72.09976775">
+    <!-- multiple: "69 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="81811"/>
+  </node>
+  <node id="-223" visible="true" lat="45.00411144" lon="-72.09981423">
+    <!-- multiple: "109 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="81842"/>
+  </node>
   <node id="-394" visible="true" lat="45.00150281" lon="-72.11834471">
     <!-- multiple: "907 Elm Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="907"/>
     <tag k="addr:street" v="Elm Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="82037"/>
+  </node>
+  <node id="-1090" visible="true" lat="44.95509051" lon="-72.13039946">
+    <!-- multiple: "3064 U.S. Route 5, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3064"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="82777"/>
   </node>
   <node id="-1199" visible="true" lat="44.95227921" lon="-72.14639638">
     <!-- multiple: "3923 U.S. Route 5, , VT" Multiple exact matches in OSM. -->
@@ -20,5 +48,26 @@
     <tag k="addr:street" v="U.S. Route 5"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="82917"/>
+  </node>
+  <node id="-1234" visible="true" lat="44.95135774" lon="-72.1564377">
+    <!-- multiple: "4397 U.S. Route 5, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="4397"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="82949"/>
+  </node>
+  <node id="-1610" visible="true" lat="44.93095318" lon="-72.09063143">
+    <!-- multiple: "74 Dumas Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Dumas Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="83360"/>
+  </node>
+  <node id="-1805" visible="true" lat="44.90695962" lon="-72.08377981">
+    <!-- multiple: "3777 Vermont Route 105, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3777"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="83561"/>
   </node>
 </osm>

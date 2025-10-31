@@ -32,14 +32,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154107"/>
   </node>
-  <node id="-449" visible="true" lat="44.02397745" lon="-73.16964292">
-    <!-- multiple: "338 Exchange Street, Middlebury, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="338"/>
-    <tag k="addr:street" v="Exchange Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="154248"/>
-  </node>
   <node id="-503" visible="true" lat="44.0214035" lon="-73.16995954">
     <!-- multiple: "213 Exchange Street, Middlebury, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Middlebury"/>
@@ -71,6 +63,14 @@
     <tag k="addr:street" v="Washington Street Extension"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154532"/>
+  </node>
+  <node id="-763" visible="true" lat="44.01756286" lon="-73.16957855">
+    <!-- multiple: "29 Seymour Street, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Seymour Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154593"/>
   </node>
   <node id="-849" visible="true" lat="44.0166143" lon="-73.16854179">
     <!-- multiple: "20 Seymour Street, Middlebury, VT" Multiple exact matches in OSM. -->
@@ -128,6 +128,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154851"/>
   </node>
+  <node id="-992" visible="true" lat="44.01498003" lon="-73.16391459">
+    <!-- multiple: "10 Washington Street, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154852"/>
+  </node>
   <node id="-1006" visible="true" lat="44.01486213" lon="-73.16606698">
     <!-- multiple: "14 Court Square, Middlebury, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Middlebury"/>
@@ -168,6 +176,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154929"/>
   </node>
+  <node id="-1057" visible="true" lat="44.01405371" lon="-73.16526307">
+    <!-- multiple: "3 Court Street, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Court Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154931"/>
+  </node>
   <node id="-1060" visible="true" lat="44.01394999" lon="-73.16850321">
     <!-- multiple: "38 Main Street, Middlebury, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Middlebury"/>
@@ -192,6 +208,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154941"/>
   </node>
+  <node id="-1072" visible="true" lat="44.01374435" lon="-73.16483306">
+    <!-- multiple: "7 Court Street, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Court Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154950"/>
+  </node>
   <node id="-1073" visible="true" lat="44.01369165" lon="-73.16860814">
     <!-- multiple: "44 Main Street, Middlebury, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Middlebury"/>
@@ -200,6 +224,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154951"/>
   </node>
+  <node id="-1076" visible="true" lat="44.01369857" lon="-73.16526794">
+    <!-- multiple: "7 Court Street, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Court Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154954"/>
+  </node>
   <node id="-1091" visible="true" lat="44.01354855" lon="-73.16870864">
     <!-- multiple: "48 Main Street, Middlebury, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Middlebury"/>
@@ -207,6 +239,14 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154970"/>
+  </node>
+  <node id="-1097" visible="true" lat="44.01453194" lon="-73.13951858">
+    <!-- multiple: "217 Quarry Road, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154977"/>
   </node>
   <node id="-1112" visible="true" lat="44.01328277" lon="-73.17003948">
     <!-- multiple: "3 Mill Street, Middlebury, VT" Multiple exact matches in OSM. -->
@@ -239,6 +279,14 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155015"/>
+  </node>
+  <node id="-1138" visible="true" lat="44.01299285" lon="-73.16484832">
+    <!-- multiple: "13 Court Street, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Court Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="155024"/>
   </node>
   <node id="-1144" visible="true" lat="44.01291944" lon="-73.16913659">
     <!-- multiple: "68 Main Street, Middlebury, VT" Multiple exact matches in OSM. -->
@@ -320,6 +368,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155114"/>
   </node>
+  <node id="-1215" visible="true" lat="44.01213455" lon="-73.17000579">
+    <!-- multiple: "88 Main Street, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="155116"/>
+  </node>
   <node id="-1237" visible="true" lat="44.01169845" lon="-73.18124081">
     <!-- multiple: "160 HMKL Way, Middlebury, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Middlebury"/>
@@ -343,6 +399,14 @@
     <tag k="addr:street" v="Court Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155148"/>
+  </node>
+  <node id="-1298" visible="true" lat="44.01101868" lon="-73.16290003">
+    <!-- multiple: "43 Court Street, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Court Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="155213"/>
   </node>
   <node id="-1306" visible="true" lat="44.01073565" lon="-73.16450428">
     <!-- multiple: "40 Court Street, Middlebury, VT" Multiple exact matches in OSM. -->
@@ -392,7 +456,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155583"/>
   </node>
-  <node id="-1673" visible="true" lat="44.00530014" lon="-73.17596272">
+  <node id="-1673" visible="true" lat="44.00530905" lon="-73.17596412">
     <!-- multiple: "72 Porter Field Road, Middlebury, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="72"/>
@@ -464,6 +528,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155900"/>
   </node>
+  <node id="-2198" visible="true" lat="43.97274342" lon="-73.09955498">
+    <!-- multiple: "407 East Main Street, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="407"/>
+    <tag k="addr:street" v="East Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="156226"/>
+  </node>
+  <node id="-2431" visible="true" lat="43.9992583" lon="-73.15924101">
+    <!-- multiple: "399 Creek Road, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="399"/>
+    <tag k="addr:street" v="Creek Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="156479"/>
+  </node>
   <node id="-2436" visible="true" lat="44.01338563" lon="-73.18127451">
     <!-- multiple: "276 Bicentennial Way, Middlebury, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Middlebury"/>
@@ -479,6 +559,14 @@
     <tag k="addr:street" v="Deerfield Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156495"/>
+  </node>
+  <node id="-2486" visible="true" lat="44.01109912" lon="-73.16308419">
+    <!-- multiple: "43 Court Street, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Court Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="156542"/>
   </node>
   <node id="-2489" visible="true" lat="44.01348706" lon="-73.16835327">
     <!-- multiple: "51 Main Street, Middlebury, VT" Multiple exact matches in OSM. -->
@@ -504,7 +592,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156550"/>
   </node>
-  <node id="-2507" visible="true" lat="44.0279904" lon="-73.17277887">
+  <node id="-2507" visible="true" lat="44.02798868" lon="-73.17277673">
     <!-- multiple: "82 Catamount Park, Middlebury, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="82"/>
@@ -535,5 +623,13 @@
     <tag k="addr:street" v="Maple Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="332727"/>
+  </node>
+  <node id="-2895" visible="true" lat="44.02398528" lon="-73.17106372">
+    <!-- multiple: "383 Exchange Street, Middlebury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="383"/>
+    <tag k="addr:street" v="Exchange Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337740"/>
   </node>
 </osm>

@@ -1,31 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-446" visible="true" lat="44.38096413" lon="-72.71997116">
-    <!-- conflict: "3582 Waterbury Stowe Road, , VT" No match in OSM, but a different address exists <5m away: "3852 Waterbury Stowe Road, Waterbury Center, VT" -->
-    <tag k="addr:housenumber" v="3582"/>
-    <tag k="addr:street" v="Waterbury Stowe Road"/>
+  <node id="-817" visible="true" lat="44.3646275" lon="-72.73066023">
+    <!-- conflict: "14 Stowebury Road, , VT" Fuzzy match to "14 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Stowebury Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="273567"/>
+    <tag k="ref:vcgi:esiteid" v="273961"/>
   </node>
-  <node id="-647" visible="true" lat="44.37493348" lon="-72.72696655">
-    <!-- conflict: "3029 Waterbury Stowe Road, , VT" No match in OSM, but a different address exists <5m away: "3029 State Route 100, Waterbury Center, VT" -->
-    <tag k="addr:housenumber" v="3029"/>
-    <tag k="addr:street" v="Waterbury Stowe Road"/>
+  <node id="-829" visible="true" lat="44.36419509" lon="-72.72980376">
+    <!-- conflict: "81 Stowebury Road, , VT" Fuzzy match to "81 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Stowebury Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="273786"/>
+    <tag k="ref:vcgi:esiteid" v="273973"/>
   </node>
-  <node id="-1416" visible="true" lat="44.34271266" lon="-72.76017829">
-    <!-- conflict: "55 North Main Street, , VT" Fuzzy match to "55 South Main Street, Waterbury, VT" -->
+  <node id="-833" visible="true" lat="44.36403746" lon="-72.73067236">
+    <!-- conflict: "118 Stowebury Road, , VT" Fuzzy match to "118 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Stowebury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="273977"/>
+  </node>
+  <node id="-840" visible="true" lat="44.36367973" lon="-72.72987531">
+    <!-- conflict: "133 Stowebury Road, , VT" Fuzzy match to "133 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="133"/>
+    <tag k="addr:street" v="Stowebury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="273984"/>
+  </node>
+  <node id="-856" visible="true" lat="44.36319282" lon="-72.7307244">
+    <!-- conflict: "182 Stowebury Road, , VT" Fuzzy match to "182 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="182"/>
+    <tag k="addr:street" v="Stowebury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274001"/>
+  </node>
+  <node id="-857" visible="true" lat="44.3631703" lon="-72.73134359">
+    <!-- conflict: "190 Stowebury Road, , VT" Fuzzy match to "190 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Stowebury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274002"/>
+  </node>
+  <node id="-860" visible="true" lat="44.36314622" lon="-72.7299591">
+    <!-- conflict: "201 Stowebury Road, , VT" Fuzzy match to "201 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Stowebury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274005"/>
+  </node>
+  <node id="-870" visible="true" lat="44.36269922" lon="-72.73070756">
+    <!-- conflict: "194 Stowebury Road, , VT" Fuzzy match to "194 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:street" v="Stowebury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274015"/>
+  </node>
+  <node id="-884" visible="true" lat="44.36247336" lon="-72.73022978">
+    <!-- conflict: "226 Stowebury Road, , VT" Fuzzy match to "226 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Stowebury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274029"/>
+  </node>
+  <node id="-885" visible="true" lat="44.36246362" lon="-72.72908315">
+    <!-- conflict: "320 Stowebury Road, , VT" Fuzzy match to "320 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:street" v="Stowebury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274030"/>
+  </node>
+  <node id="-893" visible="true" lat="44.36206559" lon="-72.729366">
+    <!-- conflict: "292 Stowebury Road, , VT" Fuzzy match to "292 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="292"/>
+    <tag k="addr:street" v="Stowebury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274038"/>
+  </node>
+  <node id="-930" visible="true" lat="44.36093861" lon="-72.6987013">
+    <!-- conflict: "55 George's Way, , VT" Fuzzy match to "55 Georges Way, , VT" -->
     <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:street" v="George's Way"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="274618"/>
+    <tag k="ref:vcgi:esiteid" v="274077"/>
   </node>
-  <node id="-2019" visible="true" lat="44.33711097" lon="-72.7552613">
-    <!-- conflict: "38 South Main Street, , VT" Fuzzy match to "38 North Main Street, Waterbury, VT" -->
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="South Main Street"/>
+  <node id="-940" visible="true" lat="44.36042912" lon="-72.69931443">
+    <!-- conflict: "20 George's Way, , VT" Fuzzy match to "20 Georges Way, , VT" -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="George's Way"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="275359"/>
+    <tag k="ref:vcgi:esiteid" v="274087"/>
+  </node>
+  <node id="-980" visible="true" lat="44.35987953" lon="-72.6968923">
+    <!-- conflict: "141 George's Way, , VT" Fuzzy match to "141 Georges Way, , VT" -->
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="George's Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274132"/>
+  </node>
+  <node id="-1032" visible="true" lat="44.35922115" lon="-72.69608564">
+    <!-- conflict: "167 George's Way, , VT" Fuzzy match to "167 Georges Way, , VT" -->
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="George's Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="274185"/>
+  </node>
+  <node id="-2086" visible="true" lat="44.36306322" lon="-72.72884051">
+    <!-- conflict: "325 Stowebury Road, , VT" Fuzzy match to "325 Stowebury, Waterbury, VT" -->
+    <tag k="addr:housenumber" v="325"/>
+    <tag k="addr:street" v="Stowebury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="316616"/>
+  </node>
+  <node id="-2104" visible="true" lat="44.35987476" lon="-72.69792982">
+    <!-- conflict: "100 George's Way, , VT" Fuzzy match to "100 Georges Way, , VT" -->
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="George's Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="316635"/>
+  </node>
+  <node id="-2421" visible="true" lat="44.36050704" lon="-72.69690676">
+    <!-- conflict: "125 George's Way, , VT" Fuzzy match to "125 Georges Way, , VT" -->
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="George's Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613409"/>
+  </node>
+  <node id="-2606" visible="true" lat="44.37760552" lon="-72.69298725">
+    <!-- conflict: "1483 Shaw Mansion Road, , VT" No match in OSM, but a different address exists <5m away: " Shaw Mansion Road, , VT" -->
+    <tag k="addr:housenumber" v="1483"/>
+    <tag k="addr:street" v="Shaw Mansion Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771063"/>
+  </node>
+  <node id="-2607" visible="true" lat="44.36480437" lon="-72.73053456">
+    <!-- conflict: "12 Stowebury Road, , VT" Fuzzy match to "12 Stowebury, , VT" -->
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Stowebury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771064"/>
   </node>
 </osm>

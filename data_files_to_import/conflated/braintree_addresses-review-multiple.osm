@@ -1,3 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-722" visible="true" lat="43.94731776" lon="-72.67784529">
+    <!-- multiple: "468 Hollyhock Hill, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="468"/>
+    <tag k="addr:street" v="Hollyhock Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="27656"/>
+  </node>
+  <node id="-773" visible="true" lat="43.90822511" lon="-72.71397409">
+    <!-- multiple: "672 Albin Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="672"/>
+    <tag k="addr:street" v="Albin Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="202181"/>
+  </node>
+  <node id="-809" visible="true" lat="43.92194608" lon="-72.69406998">
+    <!-- multiple: "104 Jackson Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Jackson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="615127"/>
+  </node>
 </osm>

@@ -1,5 +1,782 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="43.72044575" lon="-73.23215964">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="806"/>
+    <tag k="addr:street" v="Burns Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="21657"/>
+  </node>
+  <node id="-101" visible="true" lat="43.74999062" lon="-73.18956447">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5144"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130320"/>
+  </node>
+  <node id="-102" visible="true" lat="43.74956851" lon="-73.20371409">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="353"/>
+    <tag k="addr:street" v="Duboff Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130321"/>
+  </node>
+  <node id="-103" visible="true" lat="43.74929341" lon="-73.21069009">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130322"/>
+  </node>
+  <node id="-104" visible="true" lat="43.74929146" lon="-73.21111088">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130323"/>
+  </node>
+  <node id="-105" visible="true" lat="43.74917614" lon="-73.21135195">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130324"/>
+  </node>
+  <node id="-106" visible="true" lat="43.74893233" lon="-73.21162622">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130325"/>
+  </node>
+  <node id="-107" visible="true" lat="43.74903252" lon="-73.20396246">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Duboff Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130326"/>
+  </node>
+  <node id="-108" visible="true" lat="43.74879837" lon="-73.21580505">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="Humphreys Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130327"/>
+  </node>
+  <node id="-109" visible="true" lat="43.7488767" lon="-73.21130768">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130328"/>
+  </node>
+  <node id="-110" visible="true" lat="43.7487297" lon="-73.21664428">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Humphreys Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130329"/>
+  </node>
+  <node id="-111" visible="true" lat="43.74879847" lon="-73.18940939">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5073"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130330"/>
+  </node>
+  <node id="-112" visible="true" lat="43.7486928" lon="-73.21154391">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130331"/>
+  </node>
+  <node id="-113" visible="true" lat="43.74887827" lon="-73.20073689">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:street" v="Green Mountain Village"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130332"/>
+  </node>
+  <node id="-114" visible="true" lat="43.74892764" lon="-73.20001497">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="172"/>
+    <tag k="addr:street" v="Green Mountain Village"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130333"/>
+  </node>
+  <node id="-115" visible="true" lat="43.74853819" lon="-73.21208844">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="174"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130334"/>
+  </node>
+  <node id="-116" visible="true" lat="43.7487176" lon="-73.2010554">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Green Mountain Village"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130335"/>
+  </node>
+  <node id="-117" visible="true" lat="43.74874855" lon="-73.19831405">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="592"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130336"/>
+  </node>
+  <node id="-118" visible="true" lat="43.74862023" lon="-73.20336476">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:street" v="Duboff Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130337"/>
+  </node>
+  <node id="-119" visible="true" lat="43.74861898" lon="-73.18975412">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130338"/>
+  </node>
+  <node id="-120" visible="true" lat="43.74845435" lon="-73.20125883">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="236"/>
+    <tag k="addr:street" v="Green Mountain Village"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130339"/>
+  </node>
+  <node id="-121" visible="true" lat="43.74837573" lon="-73.20418543">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="277"/>
+    <tag k="addr:street" v="Duboff Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130340"/>
+  </node>
+  <node id="-122" visible="true" lat="43.74865722" lon="-73.13573455">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1958"/>
+    <tag k="addr:street" v="High Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130341"/>
+  </node>
+  <node id="-123" visible="true" lat="43.74811382" lon="-73.21200725">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="172"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130342"/>
+  </node>
+  <node id="-124" visible="true" lat="43.74790573" lon="-73.21912383">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Route 144"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130343"/>
+  </node>
+  <node id="-125" visible="true" lat="43.74812171" lon="-73.20097288">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:street" v="Green Mountain Village"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130344"/>
+  </node>
+  <node id="-126" visible="true" lat="43.74797306" lon="-73.20894449">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Phillips Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130345"/>
+  </node>
+  <node id="-127" visible="true" lat="43.74784088" lon="-73.21666717">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="174"/>
+    <tag k="addr:street" v="Space Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130346"/>
+  </node>
+  <node id="-128" visible="true" lat="43.74785995" lon="-73.2106781">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Tiptop Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130347"/>
+  </node>
+  <node id="-129" visible="true" lat="43.7478447" lon="-73.21207428">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Elbow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130348"/>
+  </node>
+  <node id="-130" visible="true" lat="43.74797041" lon="-73.20080301">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="266"/>
+    <tag k="addr:street" v="Green Mountain Village"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130349"/>
+  </node>
+  <node id="-131" visible="true" lat="43.74771036" lon="-73.20967707">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Phillips Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130350"/>
+  </node>
+  <node id="-132" visible="true" lat="43.74777603" lon="-73.20055389">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="278"/>
+    <tag k="addr:street" v="Green Mountain Village"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130351"/>
+  </node>
+  <node id="-133" visible="true" lat="43.74759335" lon="-73.20940619">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Phillips Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130352"/>
+  </node>
+  <node id="-134" visible="true" lat="43.74766541" lon="-73.21070099">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Tiptop Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130353"/>
+  </node>
+  <node id="-135" visible="true" lat="43.74760819" lon="-73.21208954">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Elbow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130354"/>
+  </node>
+  <node id="-136" visible="true" lat="43.74774565" lon="-73.2109384">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Tiptop Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130355"/>
+  </node>
+  <node id="-137" visible="true" lat="43.74751448" lon="-73.21657985">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Space Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130356"/>
+  </node>
+  <node id="-138" visible="true" lat="43.74744797" lon="-73.21208954">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Elbow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130357"/>
+  </node>
+  <node id="-139" visible="true" lat="43.74751135" lon="-73.20040579">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="286"/>
+    <tag k="addr:street" v="Green Mountain Village"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130358"/>
+  </node>
+  <node id="-140" visible="true" lat="43.74726373" lon="-73.21054948">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Tiptop Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130359"/>
+  </node>
+  <node id="-141" visible="true" lat="43.74732208" lon="-73.20980835">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Wits End Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130360"/>
+  </node>
+  <node id="-142" visible="true" lat="43.74730506" lon="-73.21214029">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Elbow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130361"/>
+  </node>
+  <node id="-143" visible="true" lat="43.74727631" lon="-73.21131134">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130362"/>
+  </node>
+  <node id="-144" visible="true" lat="43.7472496" lon="-73.21102905">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Tiptop Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130363"/>
+  </node>
+  <node id="-145" visible="true" lat="43.74716364" lon="-73.21073816">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Tiptop Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130364"/>
+  </node>
+  <node id="-146" visible="true" lat="43.74715804" lon="-73.21965026">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="143"/>
+    <tag k="addr:street" v="Route 144"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130365"/>
+  </node>
+  <node id="-147" visible="true" lat="43.74706987" lon="-73.21842362">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Space Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130366"/>
+  </node>
+  <node id="-148" visible="true" lat="43.74704329" lon="-73.21867265">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Space Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130367"/>
+  </node>
+  <node id="-149" visible="true" lat="43.74716919" lon="-73.21210952">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Elbow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130368"/>
+  </node>
+  <node id="-150" visible="true" lat="43.74714079" lon="-73.20957835">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Wits End Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130369"/>
+  </node>
+  <node id="-151" visible="true" lat="43.74705004" lon="-73.21214437">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Elbow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130370"/>
+  </node>
+  <node id="-152" visible="true" lat="43.74700164" lon="-73.21988677">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:street" v="Route 144"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130371"/>
+  </node>
+  <node id="-153" visible="true" lat="43.74703723" lon="-73.21134067">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="237"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130372"/>
+  </node>
+  <node id="-154" visible="true" lat="43.74708175" lon="-73.20420837">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:street" v="Doten Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130373"/>
+  </node>
+  <node id="-155" visible="true" lat="43.74694017" lon="-73.21695777">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Space Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130374"/>
+  </node>
+  <node id="-156" visible="true" lat="43.74700081" lon="-73.21044977">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Wits End Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130375"/>
+  </node>
+  <node id="-157" visible="true" lat="43.74700605" lon="-73.2109781">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130376"/>
+  </node>
+  <node id="-158" visible="true" lat="43.74690247" lon="-73.20986176">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Wits End Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130377"/>
+  </node>
+  <node id="-159" visible="true" lat="43.74682235" lon="-73.2207489">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="LHCS Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130378"/>
+  </node>
+  <node id="-160" visible="true" lat="43.74691599" lon="-73.22127846">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="Route 144"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130379"/>
+  </node>
+  <node id="-161" visible="true" lat="43.74679565" lon="-73.22029113">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:street" v="Route 144"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130380"/>
+  </node>
+  <node id="-162" visible="true" lat="43.74679677" lon="-73.21207482">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="260"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130381"/>
+  </node>
+  <node id="-163" visible="true" lat="43.74671486" lon="-73.21007976">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Wits End Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130382"/>
+  </node>
+  <node id="-164" visible="true" lat="43.74669265" lon="-73.22059631">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="LHCS Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130383"/>
+  </node>
+  <node id="-165" visible="true" lat="43.74660376" lon="-73.21728989">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Space Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130384"/>
+  </node>
+  <node id="-166" visible="true" lat="43.74640782" lon="-73.21175614">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="272"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130385"/>
+  </node>
+  <node id="-167" visible="true" lat="43.74658497" lon="-73.21041572">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Wits End Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130386"/>
+  </node>
+  <node id="-168" visible="true" lat="43.74684953" lon="-73.20470512">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="377"/>
+    <tag k="addr:street" v="Doten Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130387"/>
+  </node>
+  <node id="-169" visible="true" lat="43.74652862" lon="-73.22045135">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="LHCS Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130388"/>
+  </node>
+  <node id="-170" visible="true" lat="43.74671556" lon="-73.20495951">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:street" v="Doten Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130389"/>
+  </node>
+  <node id="-171" visible="true" lat="43.74633402" lon="-73.21160814">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="280"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130390"/>
+  </node>
+  <node id="-172" visible="true" lat="43.74643325" lon="-73.22039031">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="LHCS Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130391"/>
+  </node>
+  <node id="-173" visible="true" lat="43.74643707" lon="-73.20586395">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:street" v="Doten Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130392"/>
+  </node>
+  <node id="-174" visible="true" lat="43.7464666" lon="-73.20540322">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="333"/>
+    <tag k="addr:street" v="Doten Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130393"/>
+  </node>
+  <node id="-175" visible="true" lat="43.74632047" lon="-73.21133888">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="288"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130394"/>
+  </node>
+  <node id="-176" visible="true" lat="43.74626922" lon="-73.22050476">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="LHCS Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130395"/>
+  </node>
+  <node id="-177" visible="true" lat="43.74626113" lon="-73.21116433">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130396"/>
+  </node>
+  <node id="-178" visible="true" lat="43.74627726" lon="-73.21091554">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130397"/>
+  </node>
+  <node id="-179" visible="true" lat="43.74344956" lon="-73.22073584">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Stony Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130398"/>
+  </node>
+  <node id="-180" visible="true" lat="43.74615074" lon="-73.22106828">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="LHCS Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130399"/>
+  </node>
+  <node id="-181" visible="true" lat="43.74618099" lon="-73.19994835">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="650"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130400"/>
+  </node>
+  <node id="-182" visible="true" lat="43.74611895" lon="-73.22119997">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="LHCS Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130401"/>
+  </node>
+  <node id="-183" visible="true" lat="43.74608584" lon="-73.22130287">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="LHCS Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130402"/>
+  </node>
+  <node id="-184" visible="true" lat="43.74621153" lon="-73.20684346">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="191"/>
+    <tag k="addr:street" v="Doten Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130403"/>
+  </node>
+  <node id="-185" visible="true" lat="43.74603809" lon="-73.22137655">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="LHCS Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130404"/>
+  </node>
+  <node id="-186" visible="true" lat="43.7460289" lon="-73.21269989">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="Whites Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130405"/>
+  </node>
+  <node id="-187" visible="true" lat="43.74620716" lon="-73.19618765">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="453"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130406"/>
+  </node>
+  <node id="-188" visible="true" lat="43.74585342" lon="-73.22225952">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="303"/>
+    <tag k="addr:street" v="Route 144"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130407"/>
+  </node>
+  <node id="-189" visible="true" lat="43.74575805" lon="-73.20720672">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Doten Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130409"/>
+  </node>
+  <node id="-190" visible="true" lat="43.74567607" lon="-73.22334882">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:street" v="Route 144"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130410"/>
+  </node>
+  <node id="-191" visible="true" lat="43.74573624" lon="-73.22052769">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Tyminski Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130411"/>
+  </node>
+  <node id="-192" visible="true" lat="43.74560546" lon="-73.22029113">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Tyminski Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130412"/>
+  </node>
+  <node id="-193" visible="true" lat="43.7455635" lon="-73.21975707">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:street" v="Sharon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130413"/>
+  </node>
+  <node id="-194" visible="true" lat="43.74529929" lon="-73.22033702">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Tyminski Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130414"/>
+  </node>
+  <node id="-195" visible="true" lat="43.74553819" lon="-73.22261821">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3920"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130415"/>
+  </node>
+  <node id="-196" visible="true" lat="43.74541821" lon="-73.22079198">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Tyminski Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130416"/>
+  </node>
+  <node id="-197" visible="true" lat="43.74550057" lon="-73.22109642">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Bent Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130417"/>
+  </node>
+  <node id="-198" visible="true" lat="43.74522773" lon="-73.22065993">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Tyminski Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130418"/>
+  </node>
+  <node id="-199" visible="true" lat="43.74522399" lon="-73.20386505">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="934"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130419"/>
+  </node>
+  <node id="-200" visible="true" lat="43.74514377" lon="-73.22090581">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Bent Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130420"/>
+  </node>
+  <node id="-201" visible="true" lat="43.7450104" lon="-73.22167208">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Pirani Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130421"/>
+  </node>
+  <node id="-202" visible="true" lat="43.74493789" lon="-73.21957397">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="Sharon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130422"/>
+  </node>
+  <node id="-203" visible="true" lat="43.744915" lon="-73.22194671">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3856"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130423"/>
+  </node>
+  <node id="-204" visible="true" lat="43.74498746" lon="-73.22135749">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Pirani Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130424"/>
+  </node>
+  <node id="-205" visible="true" lat="43.74495315" lon="-73.20855712">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="addr:street" v="Crane Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130425"/>
+  </node>
+  <node id="-206" visible="true" lat="43.7449298" lon="-73.20995091">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="266"/>
+    <tag k="addr:street" v="Crane Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130426"/>
+  </node>
+  <node id="-207" visible="true" lat="43.74482828" lon="-73.22098551">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Bent Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130427"/>
+  </node>
+  <node id="-208" visible="true" lat="43.74481266" lon="-73.22057448">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Tyminski Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130428"/>
+  </node>
+  <node id="-209" visible="true" lat="43.74477767" lon="-73.20949554">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="Crane Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130429"/>
+  </node>
+  <node id="-210" visible="true" lat="43.74469275" lon="-73.22169831">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Pirani Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130430"/>
+  </node>
   <node id="-211" visible="true" lat="43.74470901" lon="-73.21385955">
     <tag k="addr:city" v="Hubbardton"/>
     <tag k="addr:housenumber" v="268"/>
@@ -7,12 +784,4043 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="130431"/>
   </node>
+  <node id="-212" visible="true" lat="43.74465308" lon="-73.22098919">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Bent Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130432"/>
+  </node>
+  <node id="-213" visible="true" lat="43.74462127" lon="-73.21987914">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:street" v="Sharon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130433"/>
+  </node>
+  <node id="-214" visible="true" lat="43.74468612" lon="-73.20915985">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:street" v="Crane Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130434"/>
+  </node>
+  <node id="-215" visible="true" lat="43.74477648" lon="-73.21940631">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="197"/>
+    <tag k="addr:street" v="Sharon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130435"/>
+  </node>
+  <node id="-216" visible="true" lat="43.74463501" lon="-73.21010735">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="267"/>
+    <tag k="addr:street" v="Crane Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130436"/>
+  </node>
+  <node id="-217" visible="true" lat="43.74442291" lon="-73.22229766">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3854"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130437"/>
+  </node>
+  <node id="-218" visible="true" lat="43.74425263" lon="-73.22178812">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Sharon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130438"/>
+  </node>
+  <node id="-219" visible="true" lat="43.74444201" lon="-73.22067507">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Sharon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130439"/>
+  </node>
+  <node id="-220" visible="true" lat="43.74431594" lon="-73.21994455">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="216"/>
+    <tag k="addr:street" v="Sharon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130440"/>
+  </node>
+  <node id="-221" visible="true" lat="43.74427319" lon="-73.22035416">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Sharon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130441"/>
+  </node>
+  <node id="-222" visible="true" lat="43.74433561" lon="-73.21937174">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Jennings Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130442"/>
+  </node>
+  <node id="-223" visible="true" lat="43.74462128" lon="-73.14211273">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1615"/>
+    <tag k="addr:street" v="High Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130443"/>
+  </node>
+  <node id="-224" visible="true" lat="43.74409218" lon="-73.22473162">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="474"/>
+    <tag k="addr:street" v="Route 144"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130444"/>
+  </node>
+  <node id="-225" visible="true" lat="43.74413032" lon="-73.22711848">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:street" v="Route 144"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130445"/>
+  </node>
+  <node id="-226" visible="true" lat="43.74419013" lon="-73.21893784">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Jennings Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130446"/>
+  </node>
+  <node id="-227" visible="true" lat="43.74398567" lon="-73.22133342">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Stony Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130447"/>
+  </node>
+  <node id="-228" visible="true" lat="43.74394988" lon="-73.21996307">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="242"/>
+    <tag k="addr:street" v="Sharon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130448"/>
+  </node>
+  <node id="-229" visible="true" lat="43.74391523" lon="-73.22267251">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3818"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130449"/>
+  </node>
+  <node id="-230" visible="true" lat="43.74385324" lon="-73.21884522">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Jennings Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130450"/>
+  </node>
+  <node id="-231" visible="true" lat="43.74369555" lon="-73.22033832">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Sharon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130451"/>
+  </node>
+  <node id="-232" visible="true" lat="43.74348559" lon="-73.22305454">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3785"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130452"/>
+  </node>
+  <node id="-233" visible="true" lat="43.74343389" lon="-73.21865183">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Jennings Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130453"/>
+  </node>
+  <node id="-234" visible="true" lat="43.74375916" lon="-73.13771057">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1613"/>
+    <tag k="addr:street" v="High Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130454"/>
+  </node>
+  <node id="-235" visible="true" lat="43.74321503" lon="-73.21857421">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Jennings Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130455"/>
+  </node>
+  <node id="-236" visible="true" lat="43.74318694" lon="-73.21996307">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="294"/>
+    <tag k="addr:street" v="Sharon Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130456"/>
+  </node>
+  <node id="-237" visible="true" lat="43.74304228" lon="-73.22129564">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:street" v="Stony Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130457"/>
+  </node>
+  <node id="-238" visible="true" lat="43.74303206" lon="-73.22265889">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3754"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130458"/>
+  </node>
+  <node id="-239" visible="true" lat="43.74256866" lon="-73.22140365">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Stony Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130459"/>
+  </node>
+  <node id="-240" visible="true" lat="43.74317144" lon="-73.18545063">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4595"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130460"/>
+  </node>
+  <node id="-241" visible="true" lat="43.74258078" lon="-73.18594915">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4597"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130461"/>
+  </node>
+  <node id="-242" visible="true" lat="43.74242257" lon="-73.21820269">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130462"/>
+  </node>
+  <node id="-243" visible="true" lat="43.74245227" lon="-73.21258425">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1774"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130463"/>
+  </node>
+  <node id="-244" visible="true" lat="43.74222292" lon="-73.22257155">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3684"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130464"/>
+  </node>
+  <node id="-245" visible="true" lat="43.74221077" lon="-73.21805377">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130465"/>
+  </node>
+  <node id="-246" visible="true" lat="43.74243648" lon="-73.2100755">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1424"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130466"/>
+  </node>
+  <node id="-247" visible="true" lat="43.74184417" lon="-73.21768188">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130467"/>
+  </node>
+  <node id="-248" visible="true" lat="43.74176788" lon="-73.22222137">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3670"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130468"/>
+  </node>
+  <node id="-249" visible="true" lat="43.74154781" lon="-73.21725659">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="460"/>
+    <tag k="addr:street" v="Cottage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130469"/>
+  </node>
+  <node id="-250" visible="true" lat="43.74161105" lon="-73.2230056">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3651"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130470"/>
+  </node>
+  <node id="-251" visible="true" lat="43.74201277" lon="-73.13556711">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1471"/>
+    <tag k="addr:street" v="High Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130471"/>
+  </node>
+  <node id="-252" visible="true" lat="43.74131393" lon="-73.21765136">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130472"/>
+  </node>
+  <node id="-253" visible="true" lat="43.7413149" lon="-73.21713751">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="446"/>
+    <tag k="addr:street" v="Cottage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130473"/>
+  </node>
+  <node id="-254" visible="true" lat="43.74128341" lon="-73.21059417">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1430"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130474"/>
+  </node>
+  <node id="-255" visible="true" lat="43.74120106" lon="-73.21695241">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="436"/>
+    <tag k="addr:street" v="Cottage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130475"/>
+  </node>
+  <node id="-256" visible="true" lat="43.74103088" lon="-73.21674774">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="420"/>
+    <tag k="addr:street" v="Cottage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130476"/>
+  </node>
+  <node id="-257" visible="true" lat="43.74088552" lon="-73.21642833">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="406"/>
+    <tag k="addr:street" v="Cottage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130477"/>
+  </node>
+  <node id="-258" visible="true" lat="43.74067166" lon="-73.21621752">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="396"/>
+    <tag k="addr:street" v="Cottage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130478"/>
+  </node>
+  <node id="-259" visible="true" lat="43.74044268" lon="-73.2160922">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="362"/>
+    <tag k="addr:street" v="Cottage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130479"/>
+  </node>
+  <node id="-260" visible="true" lat="43.7410541" lon="-73.13428188">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1374"/>
+    <tag k="addr:street" v="High Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130480"/>
+  </node>
+  <node id="-261" visible="true" lat="43.74025245" lon="-73.2160671">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="358"/>
+    <tag k="addr:street" v="Cottage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130481"/>
+  </node>
+  <node id="-262" visible="true" lat="43.73992787" lon="-73.21222805">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1741"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130482"/>
+  </node>
+  <node id="-263" visible="true" lat="43.74003894" lon="-73.21597842">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="346"/>
+    <tag k="addr:street" v="Cottage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130483"/>
+  </node>
+  <node id="-264" visible="true" lat="43.74009591" lon="-73.21191082">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1651"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130484"/>
+  </node>
+  <node id="-265" visible="true" lat="43.73981538" lon="-73.21598723">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:street" v="Cottage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130485"/>
+  </node>
+  <node id="-266" visible="true" lat="43.73969902" lon="-73.18399277">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Pine Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130486"/>
+  </node>
+  <node id="-267" visible="true" lat="43.73932709" lon="-73.21598639">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Heede Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130487"/>
+  </node>
+  <node id="-268" visible="true" lat="43.73965496" lon="-73.18131093">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4316"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130488"/>
+  </node>
+  <node id="-269" visible="true" lat="43.73912134" lon="-73.2159005">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Heede Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130489"/>
+  </node>
+  <node id="-270" visible="true" lat="43.73909378" lon="-73.18412781">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Pine Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130490"/>
+  </node>
+  <node id="-271" visible="true" lat="43.73888925" lon="-73.21583738">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Heede Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130491"/>
+  </node>
+  <node id="-272" visible="true" lat="43.73888397" lon="-73.18422699">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Pine Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130492"/>
+  </node>
+  <node id="-273" visible="true" lat="43.73826012" lon="-73.18920497">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Fern Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130493"/>
+  </node>
+  <node id="-274" visible="true" lat="43.73852614" lon="-73.21204652">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:street" v="Miller Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130494"/>
+  </node>
+  <node id="-275" visible="true" lat="43.73847198" lon="-73.21554565">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Anderson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130495"/>
+  </node>
+  <node id="-276" visible="true" lat="43.73831626" lon="-73.21384619">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Downers Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130496"/>
+  </node>
+  <node id="-277" visible="true" lat="43.73826599" lon="-73.215065">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="Anderson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130497"/>
+  </node>
+  <node id="-278" visible="true" lat="43.73842535" lon="-73.1814471">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4243"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130498"/>
+  </node>
+  <node id="-279" visible="true" lat="43.73840415" lon="-73.18438835">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Pine Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130499"/>
+  </node>
+  <node id="-280" visible="true" lat="43.73806972" lon="-73.17681511">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:street" v="Ganson Hill Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130500"/>
+  </node>
+  <node id="-281" visible="true" lat="43.73799896" lon="-73.21394348">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Downers Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130501"/>
+  </node>
+  <node id="-282" visible="true" lat="43.73803755" lon="-73.18637325">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130502"/>
+  </node>
+  <node id="-283" visible="true" lat="43.73813594" lon="-73.18462607">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130503"/>
+  </node>
+  <node id="-284" visible="true" lat="43.73808766" lon="-73.18135353">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4219"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130504"/>
+  </node>
+  <node id="-285" visible="true" lat="43.73806877" lon="-73.21517357">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Anderson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130505"/>
+  </node>
+  <node id="-286" visible="true" lat="43.73773574" lon="-73.21234893">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:street" v="Miller Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130506"/>
+  </node>
+  <node id="-287" visible="true" lat="43.73788892" lon="-73.1812789">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4209"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130507"/>
+  </node>
+  <node id="-288" visible="true" lat="43.73781204" lon="-73.18562317">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="305"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130509"/>
+  </node>
+  <node id="-289" visible="true" lat="43.7378273" lon="-73.17747498">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="180"/>
+    <tag k="addr:street" v="Ganson Hill Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130510"/>
+  </node>
+  <node id="-290" visible="true" lat="43.73778152" lon="-73.18032837">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Ganson Hill Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130511"/>
+  </node>
+  <node id="-291" visible="true" lat="43.73775691" lon="-73.18719363">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Fern Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130512"/>
+  </node>
+  <node id="-292" visible="true" lat="43.7374988" lon="-73.21416227">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Downers Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130513"/>
+  </node>
+  <node id="-293" visible="true" lat="43.73774252" lon="-73.17890992">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Ganson Hill Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130514"/>
+  </node>
+  <node id="-294" visible="true" lat="43.73755646" lon="-73.18103027">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4183"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130515"/>
+  </node>
+  <node id="-295" visible="true" lat="43.73729324" lon="-73.18677521">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Fern Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130517"/>
+  </node>
+  <node id="-296" visible="true" lat="43.73686488" lon="-73.22063115">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3323"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130518"/>
+  </node>
+  <node id="-297" visible="true" lat="43.73706274" lon="-73.21254001">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Miller Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130519"/>
+  </node>
+  <node id="-298" visible="true" lat="43.73716771" lon="-73.17879678">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:street" v="Ganson Hill Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130520"/>
+  </node>
+  <node id="-299" visible="true" lat="43.73691145" lon="-73.18124146">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4153"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130521"/>
+  </node>
+  <node id="-300" visible="true" lat="43.73682404" lon="-73.18613434">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="389"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130522"/>
+  </node>
+  <node id="-301" visible="true" lat="43.73660699" lon="-73.17999007">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4102"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130523"/>
+  </node>
+  <node id="-302" visible="true" lat="43.73666537" lon="-73.18069349">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4109"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130524"/>
+  </node>
+  <node id="-303" visible="true" lat="43.73639318" lon="-73.21408537">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="251"/>
+    <tag k="addr:street" v="Anderson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130525"/>
+  </node>
+  <node id="-304" visible="true" lat="43.7364769" lon="-73.18600464">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="421"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130526"/>
+  </node>
+  <node id="-305" visible="true" lat="43.73641586" lon="-73.18643951">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="414"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130527"/>
+  </node>
+  <node id="-306" visible="true" lat="43.73627677" lon="-73.21394444">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:street" v="Anderson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130528"/>
+  </node>
+  <node id="-307" visible="true" lat="43.73629355" lon="-73.18001073">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4082"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130529"/>
+  </node>
+  <node id="-308" visible="true" lat="43.73597646" lon="-73.21936684">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Cottage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130530"/>
+  </node>
+  <node id="-309" visible="true" lat="43.73597616" lon="-73.2138843">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="273"/>
+    <tag k="addr:street" v="Anderson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130531"/>
+  </node>
+  <node id="-310" visible="true" lat="43.7361412" lon="-73.18653107">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="448"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130532"/>
+  </node>
+  <node id="-311" visible="true" lat="43.73614998" lon="-73.21383399">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="265"/>
+    <tag k="addr:street" v="Anderson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130533"/>
+  </node>
+  <node id="-312" visible="true" lat="43.73584021" lon="-73.21416754">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="289"/>
+    <tag k="addr:street" v="Anderson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130534"/>
+  </node>
+  <node id="-313" visible="true" lat="43.73581695" lon="-73.18668365">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="470"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130535"/>
+  </node>
+  <node id="-314" visible="true" lat="43.7357254" lon="-73.18619537">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="469"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130536"/>
+  </node>
+  <node id="-315" visible="true" lat="43.73566818" lon="-73.18030548">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4041"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130537"/>
+  </node>
+  <node id="-316" visible="true" lat="43.73530579" lon="-73.18630218">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="495"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130538"/>
+  </node>
+  <node id="-317" visible="true" lat="43.73520279" lon="-73.18704987">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="518"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130539"/>
+  </node>
+  <node id="-318" visible="true" lat="43.73505783" lon="-73.18623352">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="509"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130540"/>
+  </node>
+  <node id="-319" visible="true" lat="43.73483276" lon="-73.20448303">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="845"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130541"/>
+  </node>
+  <node id="-320" visible="true" lat="43.73478317" lon="-73.18710327">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Ethan Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130542"/>
+  </node>
+  <node id="-321" visible="true" lat="43.73478317" lon="-73.18635559">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="537"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130543"/>
+  </node>
+  <node id="-322" visible="true" lat="43.73473358" lon="-73.15233612">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="735"/>
+    <tag k="addr:street" v="Ganson Hill Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130544"/>
+  </node>
+  <node id="-323" visible="true" lat="43.73439026" lon="-73.18665314">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="563"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130545"/>
+  </node>
+  <node id="-324" visible="true" lat="43.73437119" lon="-73.18723297">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Ethan Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130546"/>
+  </node>
+  <node id="-325" visible="true" lat="43.73426437" lon="-73.18787384">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Ethan Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130547"/>
+  </node>
+  <node id="-326" visible="true" lat="43.73447418" lon="-73.14644623">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="480"/>
+    <tag k="addr:street" v="Ganson Hill Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130548"/>
+  </node>
+  <node id="-327" visible="true" lat="43.73381805" lon="-73.18753052">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Ethan Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130549"/>
+  </node>
+  <node id="-328" visible="true" lat="43.73350525" lon="-73.1889267">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="179"/>
+    <tag k="addr:street" v="Maple Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130550"/>
+  </node>
+  <node id="-329" visible="true" lat="43.73304367" lon="-73.21843719">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3030"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130551"/>
+  </node>
+  <node id="-330" visible="true" lat="43.73313522" lon="-73.18829346">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Maple Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130552"/>
+  </node>
+  <node id="-331" visible="true" lat="43.73266983" lon="-73.21388244">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="603"/>
+    <tag k="addr:street" v="Anderson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130553"/>
+  </node>
+  <node id="-332" visible="true" lat="43.73276138" lon="-73.18050385">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3841"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130554"/>
+  </node>
+  <node id="-333" visible="true" lat="43.73260498" lon="-73.18801117">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="702"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130555"/>
+  </node>
+  <node id="-334" visible="true" lat="43.73247528" lon="-73.18887329">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:street" v="Maple Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130556"/>
+  </node>
+  <node id="-335" visible="true" lat="43.73189545" lon="-73.18843842">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Maple Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130557"/>
+  </node>
+  <node id="-336" visible="true" lat="43.7311554" lon="-73.18900299">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Maple Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130558"/>
+  </node>
+  <node id="-337" visible="true" lat="43.73114014" lon="-73.18403625">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="270"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130559"/>
+  </node>
+  <node id="-338" visible="true" lat="43.73052532" lon="-73.18355998">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130560"/>
+  </node>
+  <node id="-339" visible="true" lat="43.73091507" lon="-73.18430328">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="272"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130561"/>
+  </node>
+  <node id="-340" visible="true" lat="43.73264001" lon="-73.17771858">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3676"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130562"/>
+  </node>
+  <node id="-341" visible="true" lat="43.73094177" lon="-73.15014649">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="491"/>
+    <tag k="addr:street" v="Ganson Hill Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130563"/>
+  </node>
+  <node id="-342" visible="true" lat="43.73072815" lon="-73.18373108">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="260"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130564"/>
+  </node>
+  <node id="-343" visible="true" lat="43.73067856" lon="-73.1844101">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="290"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130565"/>
+  </node>
+  <node id="-344" visible="true" lat="43.73061371" lon="-73.18787384">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="843"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130566"/>
+  </node>
+  <node id="-345" visible="true" lat="43.73044586" lon="-73.18517304">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="338"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130567"/>
+  </node>
+  <node id="-346" visible="true" lat="43.7304039" lon="-73.18423462">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="299"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130568"/>
+  </node>
+  <node id="-347" visible="true" lat="43.73035812" lon="-73.18774414">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="863"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130569"/>
+  </node>
+  <node id="-348" visible="true" lat="43.73033142" lon="-73.18570709">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="362"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130570"/>
+  </node>
+  <node id="-349" visible="true" lat="43.73016357" lon="-73.18327331">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="214"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130571"/>
+  </node>
+  <node id="-350" visible="true" lat="43.73003769" lon="-73.18758392">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="885"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130572"/>
+  </node>
+  <node id="-351" visible="true" lat="43.7300415" lon="-73.18605041">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="380"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130573"/>
+  </node>
+  <node id="-352" visible="true" lat="43.72978973" lon="-73.22066497">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2793"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130574"/>
+  </node>
+  <node id="-353" visible="true" lat="43.72992706" lon="-73.18476105">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="335"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130575"/>
+  </node>
+  <node id="-354" visible="true" lat="43.72991562" lon="-73.18377686">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="213"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130576"/>
+  </node>
+  <node id="-355" visible="true" lat="43.72986984" lon="-73.18750763">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="893"/>
+    <tag k="addr:street" v="Birch Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130577"/>
+  </node>
+  <node id="-356" visible="true" lat="43.72978973" lon="-73.18547821">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="373"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130578"/>
+  </node>
+  <node id="-357" visible="true" lat="43.72964478" lon="-73.18627167">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="379"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130579"/>
+  </node>
+  <node id="-358" visible="true" lat="43.72944278" lon="-73.22846104">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="575"/>
+    <tag k="addr:street" v="Baker Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130580"/>
+  </node>
+  <node id="-359" visible="true" lat="43.72945686" lon="-73.18130224">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3599"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130581"/>
+  </node>
+  <node id="-360" visible="true" lat="43.72934341" lon="-73.18230438">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130582"/>
+  </node>
+  <node id="-361" visible="true" lat="43.72880936" lon="-73.1809082">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3566"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130583"/>
+  </node>
+  <node id="-362" visible="true" lat="43.72867878" lon="-73.18291187">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:street" v="Columbia Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130584"/>
+  </node>
+  <node id="-363" visible="true" lat="43.72599793" lon="-73.22042847">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2536"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130585"/>
+  </node>
+  <node id="-364" visible="true" lat="43.72618461" lon="-73.18346054">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3375"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130586"/>
+  </node>
+  <node id="-365" visible="true" lat="43.72595215" lon="-73.1492691">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2585"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130587"/>
+  </node>
+  <node id="-366" visible="true" lat="43.72585678" lon="-73.14666748">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2699"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130588"/>
+  </node>
+  <node id="-367" visible="true" lat="43.72465896" lon="-73.14931487">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2548"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130589"/>
+  </node>
+  <node id="-368" visible="true" lat="43.7248627" lon="-73.15244312">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2427"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130590"/>
+  </node>
+  <node id="-369" visible="true" lat="43.7243049" lon="-73.18684418">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="514"/>
+    <tag k="addr:street" v="Old Ti Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130591"/>
+  </node>
+  <node id="-370" visible="true" lat="43.72343444" lon="-73.22220611">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2345"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130592"/>
+  </node>
+  <node id="-371" visible="true" lat="43.72335702" lon="-73.23158088">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:street" v="West Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130593"/>
+  </node>
+  <node id="-372" visible="true" lat="43.72359991" lon="-73.18319257">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3178"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130594"/>
+  </node>
+  <node id="-373" visible="true" lat="43.72183592" lon="-73.15779686">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2145"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130595"/>
+  </node>
+  <node id="-374" visible="true" lat="43.72141647" lon="-73.22701263">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="West Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130596"/>
+  </node>
+  <node id="-375" visible="true" lat="43.72084045" lon="-73.22642517">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:street" v="Burns Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130597"/>
+  </node>
+  <node id="-376" visible="true" lat="43.7208174" lon="-73.23194722">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:street" v="West Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130598"/>
+  </node>
+  <node id="-377" visible="true" lat="43.72096633" lon="-73.15523529">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2143"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130599"/>
+  </node>
+  <node id="-378" visible="true" lat="43.72090911" lon="-73.15436553">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2160"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130600"/>
+  </node>
+  <node id="-379" visible="true" lat="43.7203865" lon="-73.22579193">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="207"/>
+    <tag k="addr:street" v="Burns Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130601"/>
+  </node>
+  <node id="-380" visible="true" lat="43.7203598" lon="-73.22463226">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="Burns Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130602"/>
+  </node>
+  <node id="-381" visible="true" lat="43.7204895" lon="-73.18890381">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="513"/>
+    <tag k="addr:street" v="Old Ti Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130603"/>
+  </node>
+  <node id="-382" visible="true" lat="43.71833686" lon="-73.13043822">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3704"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130604"/>
+  </node>
+  <node id="-383" visible="true" lat="43.71992874" lon="-73.22200012">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2125"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130605"/>
+  </node>
+  <node id="-384" visible="true" lat="43.72017489" lon="-73.18740753">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="404"/>
+    <tag k="addr:street" v="Old Ti Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130606"/>
+  </node>
+  <node id="-385" visible="true" lat="43.72000618" lon="-73.21990459">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2028"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130607"/>
+  </node>
+  <node id="-386" visible="true" lat="43.71924209" lon="-73.22299194">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Burns Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130608"/>
+  </node>
+  <node id="-387" visible="true" lat="43.7187898" lon="-73.23039122">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="487"/>
+    <tag k="addr:street" v="Burns Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130609"/>
+  </node>
+  <node id="-388" visible="true" lat="43.72019432" lon="-73.12852334">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3797"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130610"/>
+  </node>
+  <node id="-389" visible="true" lat="43.71896362" lon="-73.19129181">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="428"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130611"/>
+  </node>
+  <node id="-390" visible="true" lat="43.71921369" lon="-73.12757099">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3831"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130612"/>
+  </node>
+  <node id="-391" visible="true" lat="43.71897068" lon="-73.18463457">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2838"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130613"/>
+  </node>
+  <node id="-392" visible="true" lat="43.71855545" lon="-73.19483185">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="592"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130614"/>
+  </node>
+  <node id="-393" visible="true" lat="43.71873474" lon="-73.16016388">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1809"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130615"/>
+  </node>
+  <node id="-394" visible="true" lat="43.71866371" lon="-73.18464906">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2824"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130616"/>
+  </node>
+  <node id="-395" visible="true" lat="43.7183609" lon="-73.19293213">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="492"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130617"/>
+  </node>
+  <node id="-396" visible="true" lat="43.71807479" lon="-73.21722412">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1855"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130618"/>
+  </node>
+  <node id="-397" visible="true" lat="43.71818307" lon="-73.19513722">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="593"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130619"/>
+  </node>
+  <node id="-398" visible="true" lat="43.71809387" lon="-73.15740203">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1909"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130620"/>
+  </node>
+  <node id="-399" visible="true" lat="43.71790695" lon="-73.18849182">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="330"/>
+    <tag k="addr:street" v="Old Ti Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130621"/>
+  </node>
+  <node id="-400" visible="true" lat="43.71735996" lon="-73.21514839">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1761"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130622"/>
+  </node>
+  <node id="-401" visible="true" lat="43.71759796" lon="-73.21144104">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1494"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130623"/>
+  </node>
+  <node id="-402" visible="true" lat="43.71757889" lon="-73.21097565">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1474"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130624"/>
+  </node>
+  <node id="-403" visible="true" lat="43.71738434" lon="-73.21168518">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1508"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130625"/>
+  </node>
+  <node id="-404" visible="true" lat="43.7176361" lon="-73.1581726">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1859"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130626"/>
+  </node>
+  <node id="-405" visible="true" lat="43.71731567" lon="-73.21018219">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1438"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130627"/>
+  </node>
+  <node id="-406" visible="true" lat="43.71753019" lon="-73.20233288">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1030"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130628"/>
+  </node>
+  <node id="-407" visible="true" lat="43.71738286" lon="-73.19049752">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="Old Ti Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130629"/>
+  </node>
+  <node id="-408" visible="true" lat="43.71749496" lon="-73.15869903">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1831"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130630"/>
+  </node>
+  <node id="-409" visible="true" lat="43.71699932" lon="-73.21150913">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1511"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130631"/>
+  </node>
+  <node id="-410" visible="true" lat="43.71707535" lon="-73.19972229">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="820"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130632"/>
+  </node>
+  <node id="-411" visible="true" lat="43.71714942" lon="-73.18632171">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2839"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130633"/>
+  </node>
+  <node id="-412" visible="true" lat="43.71705977" lon="-73.20713998">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1250"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130634"/>
+  </node>
+  <node id="-413" visible="true" lat="43.71697617" lon="-73.20834351">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1382"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130635"/>
+  </node>
+  <node id="-414" visible="true" lat="43.71689163" lon="-73.21363761">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1620"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130636"/>
+  </node>
+  <node id="-415" visible="true" lat="43.71691132" lon="-73.20771789">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1258"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130637"/>
+  </node>
+  <node id="-416" visible="true" lat="43.71715771" lon="-73.20105511">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="910"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130638"/>
+  </node>
+  <node id="-417" visible="true" lat="43.71683257" lon="-73.19794315">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Two Ponds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130639"/>
+  </node>
+  <node id="-418" visible="true" lat="43.7167282" lon="-73.15980529">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1755"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130640"/>
+  </node>
+  <node id="-419" visible="true" lat="43.71623229" lon="-73.21285247">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1587"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130641"/>
+  </node>
+  <node id="-420" visible="true" lat="43.71639426" lon="-73.18751995">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130642"/>
+  </node>
+  <node id="-421" visible="true" lat="43.71621772" lon="-73.21642325">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Murphy Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130643"/>
+  </node>
+  <node id="-422" visible="true" lat="43.71635269" lon="-73.19821431">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:street" v="Two Ponds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130644"/>
+  </node>
+  <node id="-423" visible="true" lat="43.71630096" lon="-73.19102478">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130645"/>
+  </node>
+  <node id="-424" visible="true" lat="43.71662139" lon="-73.12621307">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4025"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130646"/>
+  </node>
+  <node id="-425" visible="true" lat="43.71624085" lon="-73.19913039">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Two Ponds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130647"/>
+  </node>
+  <node id="-426" visible="true" lat="43.71600723" lon="-73.21508026">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130648"/>
+  </node>
+  <node id="-427" visible="true" lat="43.71585846" lon="-73.20921325">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1289"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130649"/>
+  </node>
+  <node id="-428" visible="true" lat="43.71563751" lon="-73.21689938">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Murphy Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130650"/>
+  </node>
+  <node id="-429" visible="true" lat="43.71562195" lon="-73.19052887">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="269"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130651"/>
+  </node>
+  <node id="-430" visible="true" lat="43.71576309" lon="-73.15878295">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1756"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130652"/>
+  </node>
+  <node id="-431" visible="true" lat="43.71536403" lon="-73.1863821">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130653"/>
+  </node>
+  <node id="-432" visible="true" lat="43.7149153" lon="-73.21747097">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130654"/>
+  </node>
+  <node id="-433" visible="true" lat="43.71522903" lon="-73.19231414">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="427"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130655"/>
+  </node>
+  <node id="-434" visible="true" lat="43.71536117" lon="-73.18541471">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130656"/>
+  </node>
+  <node id="-435" visible="true" lat="43.71507619" lon="-73.21283056">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="Six Bux Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130657"/>
+  </node>
+  <node id="-436" visible="true" lat="43.71496835" lon="-73.18731523">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130658"/>
+  </node>
+  <node id="-437" visible="true" lat="43.71493911" lon="-73.16210174">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1590"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130659"/>
+  </node>
+  <node id="-438" visible="true" lat="43.71481357" lon="-73.18598262">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130660"/>
+  </node>
+  <node id="-439" visible="true" lat="43.71457363" lon="-73.20001535">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="291"/>
+    <tag k="addr:street" v="Two Ponds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130661"/>
+  </node>
+  <node id="-440" visible="true" lat="43.7145294" lon="-73.21410856">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Six Bux Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130662"/>
+  </node>
+  <node id="-441" visible="true" lat="43.71426549" lon="-73.21945973">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Murphy Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130663"/>
+  </node>
+  <node id="-442" visible="true" lat="43.71424102" lon="-73.20110321">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="317"/>
+    <tag k="addr:street" v="Two Ponds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130664"/>
+  </node>
+  <node id="-443" visible="true" lat="43.71441848" lon="-73.13261096">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4556"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130665"/>
+  </node>
+  <node id="-444" visible="true" lat="43.71396323" lon="-73.18521828">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2493"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130666"/>
+  </node>
+  <node id="-445" visible="true" lat="43.71329603" lon="-73.21423414">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="346"/>
+    <tag k="addr:street" v="Six Bux Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130667"/>
+  </node>
+  <node id="-446" visible="true" lat="43.71232532" lon="-73.16607502">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1315"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130668"/>
+  </node>
+  <node id="-447" visible="true" lat="43.71217592" lon="-73.18490716">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2365"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130669"/>
+  </node>
+  <node id="-448" visible="true" lat="43.71214161" lon="-73.16413421">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1390"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130670"/>
+  </node>
+  <node id="-449" visible="true" lat="43.71213531" lon="-73.13103485">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4420"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130671"/>
+  </node>
+  <node id="-450" visible="true" lat="43.71189987" lon="-73.18328993">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2198"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130672"/>
+  </node>
+  <node id="-451" visible="true" lat="43.71139526" lon="-73.16653442">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1245"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130673"/>
+  </node>
+  <node id="-452" visible="true" lat="43.71136855" lon="-73.165802">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1268"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130674"/>
+  </node>
+  <node id="-453" visible="true" lat="43.71113586" lon="-73.19047546">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2043"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130675"/>
+  </node>
+  <node id="-454" visible="true" lat="43.71112303" lon="-73.18499651">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2287"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130676"/>
+  </node>
+  <node id="-455" visible="true" lat="43.71240837" lon="-73.17516063">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="543"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130677"/>
+  </node>
+  <node id="-456" visible="true" lat="43.71059799" lon="-73.22073364">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="553"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130678"/>
+  </node>
+  <node id="-457" visible="true" lat="43.71106096" lon="-73.16353511">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Military Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130679"/>
+  </node>
+  <node id="-458" visible="true" lat="43.71071243" lon="-73.16723632">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1185"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130680"/>
+  </node>
+  <node id="-459" visible="true" lat="43.71047974" lon="-73.17949676">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="385"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130681"/>
+  </node>
+  <node id="-460" visible="true" lat="43.71059345" lon="-73.17765746">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="485"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130682"/>
+  </node>
+  <node id="-461" visible="true" lat="43.7103854" lon="-73.1816002">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="237"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130683"/>
+  </node>
+  <node id="-462" visible="true" lat="43.71027374" lon="-73.16819763">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1127"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130684"/>
+  </node>
+  <node id="-463" visible="true" lat="43.71004948" lon="-73.17562165">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="642"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130685"/>
+  </node>
+  <node id="-464" visible="true" lat="43.71003624" lon="-73.17867955">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130686"/>
+  </node>
+  <node id="-465" visible="true" lat="43.70953751" lon="-73.1805191">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="330"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130687"/>
+  </node>
+  <node id="-466" visible="true" lat="43.70962141" lon="-73.16959193">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1051"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130688"/>
+  </node>
+  <node id="-467" visible="true" lat="43.70934764" lon="-73.18370641">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2180"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130689"/>
+  </node>
+  <node id="-468" visible="true" lat="43.70928955" lon="-73.1740036">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="751"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130690"/>
+  </node>
+  <node id="-469" visible="true" lat="43.70941543" lon="-73.13172149">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4622"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130691"/>
+  </node>
+  <node id="-470" visible="true" lat="43.70914808" lon="-73.16977534">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1015"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130692"/>
+  </node>
+  <node id="-471" visible="true" lat="43.70877075" lon="-73.17460632">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="722"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130693"/>
+  </node>
+  <node id="-472" visible="true" lat="43.70881158" lon="-73.12233722">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="428"/>
+    <tag k="addr:street" v="Biddie Knob Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130695"/>
+  </node>
+  <node id="-473" visible="true" lat="43.70824813" lon="-73.22492218">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="825"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130696"/>
+  </node>
+  <node id="-474" visible="true" lat="43.7088708" lon="-73.11919473">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="628"/>
+    <tag k="addr:street" v="Biddie Knob Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130697"/>
+  </node>
+  <node id="-475" visible="true" lat="43.70918257" lon="-73.13037393">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4645"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130698"/>
+  </node>
+  <node id="-476" visible="true" lat="43.70866012" lon="-73.12097931">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="538"/>
+    <tag k="addr:street" v="Biddie Knob Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130699"/>
+  </node>
+  <node id="-477" visible="true" lat="43.70856055" lon="-73.12805483">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="174"/>
+    <tag k="addr:street" v="Biddie Knob Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130700"/>
+  </node>
+  <node id="-478" visible="true" lat="43.70818349" lon="-73.17041308">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="948"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130701"/>
+  </node>
+  <node id="-479" visible="true" lat="43.70778863" lon="-73.18541133">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2041"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130702"/>
+  </node>
+  <node id="-480" visible="true" lat="43.70763368" lon="-73.17213023">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Woods Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130703"/>
+  </node>
+  <node id="-481" visible="true" lat="43.70749283" lon="-73.18563843">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2039"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130704"/>
+  </node>
+  <node id="-482" visible="true" lat="43.70797518" lon="-73.12235349">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:street" v="Biddie Knob Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130705"/>
+  </node>
+  <node id="-483" visible="true" lat="43.70764019" lon="-73.13128418">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4801"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130706"/>
+  </node>
+  <node id="-484" visible="true" lat="43.70718783" lon="-73.18306951">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130707"/>
+  </node>
+  <node id="-485" visible="true" lat="43.70668362" lon="-73.18449155">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1994"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130708"/>
+  </node>
+  <node id="-486" visible="true" lat="43.70607517" lon="-73.18519106">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1985"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130709"/>
+  </node>
+  <node id="-487" visible="true" lat="43.70632934" lon="-73.1730957">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Davis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130710"/>
+  </node>
+  <node id="-488" visible="true" lat="43.70675851" lon="-73.13206184">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4813"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130711"/>
+  </node>
+  <node id="-489" visible="true" lat="43.70622866" lon="-73.2281511">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1072"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130712"/>
+  </node>
+  <node id="-490" visible="true" lat="43.7057991" lon="-73.17419433">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Davis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130713"/>
+  </node>
+  <node id="-491" visible="true" lat="43.70581317" lon="-73.18456848">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1924"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130714"/>
+  </node>
+  <node id="-492" visible="true" lat="43.7057757" lon="-73.17229902">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Woods Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130715"/>
+  </node>
+  <node id="-493" visible="true" lat="43.70551229" lon="-73.18563453">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1909"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130716"/>
+  </node>
+  <node id="-494" visible="true" lat="43.70514678" lon="-73.22525787">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Toms Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130717"/>
+  </node>
+  <node id="-495" visible="true" lat="43.70440745" lon="-73.23067274">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1162"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130718"/>
+  </node>
+  <node id="-496" visible="true" lat="43.7049956" lon="-73.22592023">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Toms Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130719"/>
+  </node>
+  <node id="-497" visible="true" lat="43.70536096" lon="-73.17447478">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="198"/>
+    <tag k="addr:street" v="Davis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130720"/>
+  </node>
+  <node id="-498" visible="true" lat="43.70524407" lon="-73.17271936">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Woods Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130721"/>
+  </node>
+  <node id="-499" visible="true" lat="43.70484542" lon="-73.22653961">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Toms Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130722"/>
+  </node>
+  <node id="-500" visible="true" lat="43.7051506" lon="-73.17464446">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:street" v="Davis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130723"/>
+  </node>
+  <node id="-501" visible="true" lat="43.70486935" lon="-73.22440285">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Toms Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130724"/>
+  </node>
+  <node id="-502" visible="true" lat="43.70468139" lon="-73.22665405">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Toms Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130725"/>
+  </node>
+  <node id="-503" visible="true" lat="43.7059914" lon="-73.2115195">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="665"/>
+    <tag k="addr:street" v="Bobs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130726"/>
+  </node>
+  <node id="-504" visible="true" lat="43.70258635" lon="-73.18554972">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1711"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130727"/>
+  </node>
+  <node id="-505" visible="true" lat="43.70276641" lon="-73.13454437">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4969"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130728"/>
+  </node>
+  <node id="-506" visible="true" lat="43.70174789" lon="-73.13726806">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5228"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130729"/>
+  </node>
+  <node id="-507" visible="true" lat="43.70129346" lon="-73.18608039">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1611"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130730"/>
+  </node>
+  <node id="-508" visible="true" lat="43.70069122" lon="-73.22318267">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1509"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130731"/>
+  </node>
+  <node id="-509" visible="true" lat="43.70075037" lon="-73.18595957">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1587"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130732"/>
+  </node>
+  <node id="-510" visible="true" lat="43.70059463" lon="-73.18657976">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1557"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130733"/>
+  </node>
+  <node id="-511" visible="true" lat="43.70062255" lon="-73.14668273">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="538"/>
+    <tag k="addr:street" v="Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130734"/>
+  </node>
+  <node id="-512" visible="true" lat="43.70066452" lon="-73.13711547">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5300"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130735"/>
+  </node>
+  <node id="-513" visible="true" lat="43.70039728" lon="-73.18106302">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Dikeman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130736"/>
+  </node>
+  <node id="-514" visible="true" lat="43.70028599" lon="-73.18487989">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1538"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130737"/>
+  </node>
+  <node id="-515" visible="true" lat="43.70044708" lon="-73.1353836">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5327"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130738"/>
+  </node>
+  <node id="-516" visible="true" lat="43.700254" lon="-73.18646159">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1535"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130739"/>
+  </node>
+  <node id="-517" visible="true" lat="43.69994354" lon="-73.17074584">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="666"/>
+    <tag k="addr:street" v="Woods Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130740"/>
+  </node>
+  <node id="-518" visible="true" lat="43.69970322" lon="-73.18785858">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1533"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130741"/>
+  </node>
+  <node id="-519" visible="true" lat="43.6998291" lon="-73.16568755">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="941"/>
+    <tag k="addr:street" v="Woods Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130742"/>
+  </node>
+  <node id="-520" visible="true" lat="43.69978565" lon="-73.18514011">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1536"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130743"/>
+  </node>
+  <node id="-521" visible="true" lat="43.69955825" lon="-73.16642761">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="934"/>
+    <tag k="addr:street" v="Woods Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130744"/>
+  </node>
+  <node id="-522" visible="true" lat="43.69952392" lon="-73.15491485">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="924"/>
+    <tag k="addr:street" v="Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130745"/>
+  </node>
+  <node id="-524" visible="true" lat="43.69930648" lon="-73.15135955">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="736"/>
+    <tag k="addr:street" v="Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130747"/>
+  </node>
+  <node id="-525" visible="true" lat="43.69866164" lon="-73.18200631">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Dikeman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130751"/>
+  </node>
+  <node id="-526" visible="true" lat="43.69875335" lon="-73.15412139">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="871"/>
+    <tag k="addr:street" v="Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130752"/>
+  </node>
+  <node id="-527" visible="true" lat="43.69860368" lon="-73.18281059">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:street" v="Dikeman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130753"/>
+  </node>
+  <node id="-528" visible="true" lat="43.698473" lon="-73.18843893">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1397"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130754"/>
+  </node>
+  <node id="-529" visible="true" lat="43.69854736" lon="-73.15106964">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="705"/>
+    <tag k="addr:street" v="Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130755"/>
+  </node>
+  <node id="-530" visible="true" lat="43.69823837" lon="-73.18466949">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1400"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130756"/>
+  </node>
+  <node id="-531" visible="true" lat="43.69834899" lon="-73.1442871">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="441"/>
+    <tag k="addr:street" v="Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130757"/>
+  </node>
+  <node id="-532" visible="true" lat="43.69821929" lon="-73.15762329">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1082"/>
+    <tag k="addr:street" v="Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130758"/>
+  </node>
+  <node id="-533" visible="true" lat="43.69755936" lon="-73.18907166">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1385"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130759"/>
+  </node>
+  <node id="-534" visible="true" lat="43.69725799" lon="-73.22389221">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1752"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130760"/>
+  </node>
+  <node id="-535" visible="true" lat="43.69725508" lon="-73.18873915">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1387"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130761"/>
+  </node>
+  <node id="-536" visible="true" lat="43.69706344" lon="-73.15425109">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="833"/>
+    <tag k="addr:street" v="Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130762"/>
+  </node>
+  <node id="-537" visible="true" lat="43.69717049" lon="-73.13741034">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5547"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130763"/>
+  </node>
+  <node id="-538" visible="true" lat="43.69685933" lon="-73.18395521">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Dikeman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130764"/>
+  </node>
+  <node id="-539" visible="true" lat="43.69677352" lon="-73.1561203">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1191"/>
+    <tag k="addr:street" v="Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130765"/>
+  </node>
+  <node id="-540" visible="true" lat="43.69648328" lon="-73.18359242">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1260"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130766"/>
+  </node>
+  <node id="-541" visible="true" lat="43.69598158" lon="-73.18360941">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1228"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130767"/>
+  </node>
+  <node id="-542" visible="true" lat="43.69588088" lon="-73.16326141">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1246"/>
+    <tag k="addr:street" v="Woods Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130768"/>
+  </node>
+  <node id="-543" visible="true" lat="43.69508831" lon="-73.13900125">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5696"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130769"/>
+  </node>
+  <node id="-544" visible="true" lat="43.6943779" lon="-73.16395568">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130770"/>
+  </node>
+  <node id="-545" visible="true" lat="43.69429016" lon="-73.14971923">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="582"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130771"/>
+  </node>
+  <node id="-546" visible="true" lat="43.69370363" lon="-73.18689127">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1225"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130772"/>
+  </node>
+  <node id="-547" visible="true" lat="43.69371414" lon="-73.14651489">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="416"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130773"/>
+  </node>
+  <node id="-548" visible="true" lat="43.69361877" lon="-73.15133667">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="658"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130774"/>
+  </node>
+  <node id="-549" visible="true" lat="43.69359218" lon="-73.18761471">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1229"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130775"/>
+  </node>
+  <node id="-550" visible="true" lat="43.69360351" lon="-73.14859771">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="522"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130776"/>
+  </node>
+  <node id="-551" visible="true" lat="43.69356918" lon="-73.14708709">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="446"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130777"/>
+  </node>
+  <node id="-552" visible="true" lat="43.69347381" lon="-73.16262817">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130778"/>
+  </node>
+  <node id="-553" visible="true" lat="43.69329071" lon="-73.16534423">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="270"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130779"/>
+  </node>
+  <node id="-554" visible="true" lat="43.69317635" lon="-73.16750306">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="342"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130780"/>
+  </node>
+  <node id="-555" visible="true" lat="43.69304275" lon="-73.15348052">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="765"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130781"/>
+  </node>
+  <node id="-556" visible="true" lat="43.69315722" lon="-73.14514836">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="349"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130782"/>
+  </node>
+  <node id="-557" visible="true" lat="43.69278652" lon="-73.15093349">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130783"/>
+  </node>
+  <node id="-558" visible="true" lat="43.6930107" lon="-73.1457113">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="373"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130784"/>
+  </node>
+  <node id="-559" visible="true" lat="43.69281005" lon="-73.14885711">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="533"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130785"/>
+  </node>
+  <node id="-560" visible="true" lat="43.69260274" lon="-73.13734262">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5877"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130786"/>
+  </node>
+  <node id="-561" visible="true" lat="43.69207382" lon="-73.14522552">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130787"/>
+  </node>
+  <node id="-562" visible="true" lat="43.69157409" lon="-73.13772583">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5934"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130788"/>
+  </node>
+  <node id="-563" visible="true" lat="43.69144821" lon="-73.15605926">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Hinkley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130789"/>
+  </node>
+  <node id="-564" visible="true" lat="43.69134594" lon="-73.16909432">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="460"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130790"/>
+  </node>
+  <node id="-565" visible="true" lat="43.69096664" lon="-73.18302741">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="920"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130791"/>
+  </node>
+  <node id="-566" visible="true" lat="43.69121551" lon="-73.13697814">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5969"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130792"/>
+  </node>
+  <node id="-567" visible="true" lat="43.69116427" lon="-73.15687938">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:street" v="Hinkley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130793"/>
+  </node>
+  <node id="-568" visible="true" lat="43.69081973" lon="-73.16853764">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="523"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130794"/>
+  </node>
+  <node id="-569" visible="true" lat="43.69070434" lon="-73.13676452">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6003"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130795"/>
+  </node>
+  <node id="-570" visible="true" lat="43.69144779" lon="-73.19498051">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="876"/>
+    <tag k="addr:street" v="Jason's Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130796"/>
+  </node>
   <node id="-571" visible="true" lat="43.68949476" lon="-73.19917678">
-    <!-- match: "872 Jason's Way, Hubbardton, VT"  ignoring street punctuation to "872 Jason's Way, Hubbardton, VT" -->
     <tag k="addr:city" v="Hubbardton"/>
     <tag k="addr:housenumber" v="872"/>
     <tag k="addr:street" v="Jason's Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="130797"/>
+  </node>
+  <node id="-572" visible="true" lat="43.68935096" lon="-73.18523174">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="755"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130798"/>
+  </node>
+  <node id="-573" visible="true" lat="43.68939419" lon="-73.18451415">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="764"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130799"/>
+  </node>
+  <node id="-574" visible="true" lat="43.6892385" lon="-73.15613976">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="483"/>
+    <tag k="addr:street" v="Hinkley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130800"/>
+  </node>
+  <node id="-575" visible="true" lat="43.68887092" lon="-73.18338896">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1929"/>
+    <tag k="addr:street" v="Pencil Mill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130801"/>
+  </node>
+  <node id="-576" visible="true" lat="43.68905837" lon="-73.13647445">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6121"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130802"/>
+  </node>
+  <node id="-577" visible="true" lat="43.68849563" lon="-73.17653656">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1450"/>
+    <tag k="addr:street" v="Pencil Mill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130803"/>
+  </node>
+  <node id="-578" visible="true" lat="43.68824548" lon="-73.18354628">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1889"/>
+    <tag k="addr:street" v="Pencil Mill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130804"/>
+  </node>
+  <node id="-579" visible="true" lat="43.68833567" lon="-73.17043004">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="728"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130805"/>
+  </node>
+  <node id="-580" visible="true" lat="43.68844985" lon="-73.13766479">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6118"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130806"/>
+  </node>
+  <node id="-581" visible="true" lat="43.68792343" lon="-73.13770294">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6194"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130807"/>
+  </node>
+  <node id="-582" visible="true" lat="43.68710745" lon="-73.20304707">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="581"/>
+    <tag k="addr:street" v="Jason's Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130808"/>
+  </node>
+  <node id="-583" visible="true" lat="43.68776321" lon="-73.13637542">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6207"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130809"/>
+  </node>
+  <node id="-584" visible="true" lat="43.68744811" lon="-73.1867397">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="599"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130810"/>
+  </node>
+  <node id="-585" visible="true" lat="43.68750727" lon="-73.15773102">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="602"/>
+    <tag k="addr:street" v="Hinkley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130811"/>
+  </node>
+  <node id="-586" visible="true" lat="43.68720685" lon="-73.18623686">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="598"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130812"/>
+  </node>
+  <node id="-587" visible="true" lat="43.68707419" lon="-73.18624766">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="588"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130813"/>
+  </node>
+  <node id="-588" visible="true" lat="43.68719863" lon="-73.13789367">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6310"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130814"/>
+  </node>
+  <node id="-589" visible="true" lat="43.68681703" lon="-73.18627522">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="570"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130815"/>
+  </node>
+  <node id="-590" visible="true" lat="43.68682506" lon="-73.18598568">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="578"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130816"/>
+  </node>
+  <node id="-591" visible="true" lat="43.68627166" lon="-73.17866515">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1496"/>
+    <tag k="addr:street" v="Pencil Mill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130817"/>
+  </node>
+  <node id="-592" visible="true" lat="43.68616485" lon="-73.18163299">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1566"/>
+    <tag k="addr:street" v="Pencil Mill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130818"/>
+  </node>
+  <node id="-593" visible="true" lat="43.68584284" lon="-73.19394873">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="559"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130819"/>
+  </node>
+  <node id="-594" visible="true" lat="43.6855462" lon="-73.18844317">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="445"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130820"/>
+  </node>
+  <node id="-595" visible="true" lat="43.6853493" lon="-73.19367025">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="534"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130821"/>
+  </node>
+  <node id="-596" visible="true" lat="43.6851773" lon="-73.19436567">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="531"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130822"/>
+  </node>
+  <node id="-597" visible="true" lat="43.68488464" lon="-73.18852124">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="407"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130823"/>
+  </node>
+  <node id="-598" visible="true" lat="43.68490927" lon="-73.19357251">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="506"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130824"/>
+  </node>
+  <node id="-599" visible="true" lat="43.68474888" lon="-73.19450185">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130825"/>
+  </node>
+  <node id="-600" visible="true" lat="43.68491209" lon="-73.14216679">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130827"/>
+  </node>
+  <node id="-601" visible="true" lat="43.68447909" lon="-73.19450062">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="481"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130828"/>
+  </node>
+  <node id="-602" visible="true" lat="43.68381695" lon="-73.19446025">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="447"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130829"/>
+  </node>
+  <node id="-603" visible="true" lat="43.68378829" lon="-73.18141937">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1565"/>
+    <tag k="addr:street" v="Pencil Mill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130830"/>
+  </node>
+  <node id="-604" visible="true" lat="43.68377655" lon="-73.19368129">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="438"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130831"/>
+  </node>
+  <node id="-605" visible="true" lat="43.68354034" lon="-73.18137359">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1549"/>
+    <tag k="addr:street" v="Pencil Mill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130832"/>
+  </node>
+  <node id="-606" visible="true" lat="43.68339606" lon="-73.18976491">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Campground Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130833"/>
+  </node>
+  <node id="-607" visible="true" lat="43.68336282" lon="-73.1944438">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130834"/>
+  </node>
+  <node id="-608" visible="true" lat="43.68351685" lon="-73.19362288">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="412"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130835"/>
+  </node>
+  <node id="-609" visible="true" lat="43.68366904" lon="-73.18889043">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Campground Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130836"/>
+  </node>
+  <node id="-610" visible="true" lat="43.68338013" lon="-73.19023132">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Campground Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130837"/>
+  </node>
+  <node id="-611" visible="true" lat="43.68324726" lon="-73.19365146">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="392"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130838"/>
+  </node>
+  <node id="-612" visible="true" lat="43.6831677" lon="-73.19419122">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="389"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130839"/>
+  </node>
+  <node id="-613" visible="true" lat="43.68341064" lon="-73.13754272">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6514"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130840"/>
+  </node>
+  <node id="-614" visible="true" lat="43.68295982" lon="-73.19443229">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="367"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130841"/>
+  </node>
+  <node id="-615" visible="true" lat="43.68264836" lon="-73.19449869">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="349"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130842"/>
+  </node>
+  <node id="-616" visible="true" lat="43.68242582" lon="-73.19450796">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="341"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130843"/>
+  </node>
+  <node id="-617" visible="true" lat="43.6823597" lon="-73.19364785">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130844"/>
+  </node>
+  <node id="-618" visible="true" lat="43.68222017" lon="-73.19440919">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="323"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130845"/>
+  </node>
+  <node id="-619" visible="true" lat="43.68214239" lon="-73.19381045">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130846"/>
+  </node>
+  <node id="-620" visible="true" lat="43.68198013" lon="-73.1945343">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="311"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130847"/>
+  </node>
+  <node id="-621" visible="true" lat="43.6819725" lon="-73.17945098">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1414"/>
+    <tag k="addr:street" v="Pencil Mill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130848"/>
+  </node>
+  <node id="-622" visible="true" lat="43.68194826" lon="-73.19379614">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="306"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130849"/>
+  </node>
+  <node id="-623" visible="true" lat="43.68181223" lon="-73.19462885">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="289"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130850"/>
+  </node>
+  <node id="-624" visible="true" lat="43.68171812" lon="-73.19385352">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="292"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130851"/>
+  </node>
+  <node id="-625" visible="true" lat="43.68155078" lon="-73.19471671">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="271"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130852"/>
+  </node>
+  <node id="-626" visible="true" lat="43.68152999" lon="-73.17506408">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1235"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130853"/>
+  </node>
+  <node id="-627" visible="true" lat="43.68143592" lon="-73.19387046">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="276"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130854"/>
+  </node>
+  <node id="-628" visible="true" lat="43.68135093" lon="-73.19471018">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="257"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130855"/>
+  </node>
+  <node id="-629" visible="true" lat="43.68113131" lon="-73.19478803">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130856"/>
+  </node>
+  <node id="-630" visible="true" lat="43.68088974" lon="-73.20223924">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:street" v="Jason's Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130857"/>
+  </node>
+  <node id="-631" visible="true" lat="43.6812552" lon="-73.19385868">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="238"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130858"/>
+  </node>
+  <node id="-632" visible="true" lat="43.68084092" lon="-73.19487885">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130859"/>
+  </node>
+  <node id="-633" visible="true" lat="43.68077835" lon="-73.19411722">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="198"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130860"/>
+  </node>
+  <node id="-634" visible="true" lat="43.68074417" lon="-73.17987823">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1330"/>
+    <tag k="addr:street" v="Pencil Mill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130861"/>
+  </node>
+  <node id="-635" visible="true" lat="43.68067498" lon="-73.19488225">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130862"/>
+  </node>
+  <node id="-636" visible="true" lat="43.680598" lon="-73.19179029">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130863"/>
+  </node>
+  <node id="-637" visible="true" lat="43.68056869" lon="-73.19345093">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130864"/>
+  </node>
+  <node id="-638" visible="true" lat="43.68041979" lon="-73.20218724">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="Jason's Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130865"/>
+  </node>
+  <node id="-639" visible="true" lat="43.68051438" lon="-73.19388816">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130866"/>
+  </node>
+  <node id="-640" visible="true" lat="43.68056488" lon="-73.17782592">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1394"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130867"/>
+  </node>
+  <node id="-641" visible="true" lat="43.68045431" lon="-73.19466746">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="213"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130868"/>
+  </node>
+  <node id="-642" visible="true" lat="43.68032491" lon="-73.19499445">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130869"/>
+  </node>
+  <node id="-643" visible="true" lat="43.68007377" lon="-73.19528615">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Campbell Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130870"/>
+  </node>
+  <node id="-644" visible="true" lat="43.67993159" lon="-73.2009974">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:street" v="Sevigny Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130871"/>
+  </node>
+  <node id="-645" visible="true" lat="43.67993164" lon="-73.17714691">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1371"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130872"/>
+  </node>
+  <node id="-646" visible="true" lat="43.67989848" lon="-73.19537225">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Campbell Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130873"/>
+  </node>
+  <node id="-647" visible="true" lat="43.6798172" lon="-73.18696594">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130874"/>
+  </node>
+  <node id="-648" visible="true" lat="43.67961478" lon="-73.20202914">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Jason's Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130875"/>
+  </node>
+  <node id="-649" visible="true" lat="43.67976191" lon="-73.20078339">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Sevigny Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130876"/>
+  </node>
+  <node id="-650" visible="true" lat="43.6795602" lon="-73.19552655">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="Campbell Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130877"/>
+  </node>
+  <node id="-651" visible="true" lat="43.67980806" lon="-73.16948137">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="445"/>
+    <tag k="addr:street" v="Gill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130878"/>
+  </node>
+  <node id="-652" visible="true" lat="43.67967409" lon="-73.17730516">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1381"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130879"/>
+  </node>
+  <node id="-653" visible="true" lat="43.67942047" lon="-73.1955719">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Campbell Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130880"/>
+  </node>
+  <node id="-654" visible="true" lat="43.67969131" lon="-73.1390686">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6786"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130881"/>
+  </node>
+  <node id="-655" visible="true" lat="43.67938995" lon="-73.14112854">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6826"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130882"/>
+  </node>
+  <node id="-656" visible="true" lat="43.67914581" lon="-73.1550827">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1187"/>
+    <tag k="addr:street" v="Hinkley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130883"/>
+  </node>
+  <node id="-657" visible="true" lat="43.67918777" lon="-73.13947296">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6816"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130884"/>
+  </node>
+  <node id="-658" visible="true" lat="43.6790657" lon="-73.15451812">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1189"/>
+    <tag k="addr:street" v="Hinkley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130885"/>
+  </node>
+  <node id="-659" visible="true" lat="43.67882537" lon="-73.13885498">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6841"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130886"/>
+  </node>
+  <node id="-660" visible="true" lat="43.67844009" lon="-73.13892364">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6865"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130887"/>
+  </node>
+  <node id="-661" visible="true" lat="43.67836761" lon="-73.1400299">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6892"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130888"/>
+  </node>
+  <node id="-662" visible="true" lat="43.6782993" lon="-73.15225336">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1223"/>
+    <tag k="addr:street" v="Hinkley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130889"/>
+  </node>
+  <node id="-663" visible="true" lat="43.67798233" lon="-73.14012145">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6916"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130890"/>
+  </node>
+  <node id="-664" visible="true" lat="43.677742" lon="-73.13925933">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6917"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130891"/>
+  </node>
+  <node id="-665" visible="true" lat="43.74695515" lon="-73.22505605">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3945"/>
+    <tag k="addr:street" v="Young Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130892"/>
+  </node>
+  <node id="-666" visible="true" lat="43.745909" lon="-73.22420346">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4043"/>
+    <tag k="addr:street" v="Young Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130893"/>
+  </node>
+  <node id="-667" visible="true" lat="43.74670645" lon="-73.22346584">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4000"/>
+    <tag k="addr:street" v="Young Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130894"/>
+  </node>
+  <node id="-668" visible="true" lat="43.74866143" lon="-73.19978385">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="Green Mountain Village"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130895"/>
+  </node>
+  <node id="-669" visible="true" lat="43.74847497" lon="-73.19999088">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Green Mountain Village"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130896"/>
+  </node>
+  <node id="-670" visible="true" lat="43.70731452" lon="-73.17034998">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Woods Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130897"/>
+  </node>
+  <node id="-671" visible="true" lat="43.70572662" lon="-73.185112">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1921"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130898"/>
+  </node>
+  <node id="-672" visible="true" lat="43.70772468" lon="-73.13016034">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Biddie Knob Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130899"/>
+  </node>
+  <node id="-673" visible="true" lat="43.71205039" lon="-73.12653185">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="311"/>
+    <tag k="addr:street" v="Biddie Knob Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130900"/>
+  </node>
+  <node id="-674" visible="true" lat="43.68496779" lon="-73.19445579">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="509"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130901"/>
+  </node>
+  <node id="-675" visible="true" lat="43.68924606" lon="-73.13638344">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6119"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130902"/>
+  </node>
+  <node id="-676" visible="true" lat="43.74928623" lon="-73.20892106">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="248"/>
+    <tag k="addr:street" v="Phillips Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130903"/>
+  </node>
+  <node id="-677" visible="true" lat="43.74793279" lon="-73.20365815">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Duboff Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130904"/>
+  </node>
+  <node id="-678" visible="true" lat="43.74569573" lon="-73.19316319">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="325"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130905"/>
+  </node>
+  <node id="-679" visible="true" lat="43.74912275" lon="-73.18574734">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="Delancey Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130906"/>
+  </node>
+  <node id="-680" visible="true" lat="43.70859679" lon="-73.22701861">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="934"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130907"/>
+  </node>
+  <node id="-681" visible="true" lat="43.71293729" lon="-73.18461393">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2386"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130908"/>
+  </node>
+  <node id="-682" visible="true" lat="43.69387582" lon="-73.1519321">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="674"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130909"/>
+  </node>
+  <node id="-683" visible="true" lat="43.6929296" lon="-73.14977557">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="579"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130910"/>
+  </node>
+  <node id="-684" visible="true" lat="43.6885295" lon="-73.18472876">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="702"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130911"/>
+  </node>
+  <node id="-685" visible="true" lat="43.68158003" lon="-73.19296867">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130912"/>
+  </node>
+  <node id="-686" visible="true" lat="43.67726786" lon="-73.13797861">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6961"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130913"/>
+  </node>
+  <node id="-687" visible="true" lat="43.6772348" lon="-73.13708754">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6963"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130914"/>
+  </node>
+  <node id="-688" visible="true" lat="43.73892123" lon="-73.21915929">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130915"/>
+  </node>
+  <node id="-689" visible="true" lat="43.74773154" lon="-73.21027556">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Tiptop Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130916"/>
+  </node>
+  <node id="-690" visible="true" lat="43.74851842" lon="-73.19139971">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130917"/>
+  </node>
+  <node id="-691" visible="true" lat="43.74036551" lon="-73.1355906">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1379"/>
+    <tag k="addr:street" v="High Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130918"/>
+  </node>
+  <node id="-692" visible="true" lat="43.72367623" lon="-73.22222034">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2347"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130920"/>
+  </node>
+  <node id="-693" visible="true" lat="43.71728993" lon="-73.1975554">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Two Ponds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130921"/>
+  </node>
+  <node id="-694" visible="true" lat="43.71210473" lon="-73.22389734">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="750"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130922"/>
+  </node>
+  <node id="-695" visible="true" lat="43.72897518" lon="-73.16796996">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2349"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130923"/>
+  </node>
+  <node id="-696" visible="true" lat="43.73220147" lon="-73.15055737">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="565"/>
+    <tag k="addr:street" v="Ganson Hill Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130924"/>
+  </node>
+  <node id="-697" visible="true" lat="43.7218552" lon="-73.18865037">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="516"/>
+    <tag k="addr:street" v="Old Ti Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130925"/>
+  </node>
+  <node id="-698" visible="true" lat="43.71508743" lon="-73.18856981">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="179"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130926"/>
+  </node>
+  <node id="-699" visible="true" lat="43.71522388" lon="-73.18923214">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130927"/>
+  </node>
+  <node id="-700" visible="true" lat="43.72602826" lon="-73.13661862">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3115"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130928"/>
+  </node>
+  <node id="-701" visible="true" lat="43.72404109" lon="-73.12990319">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3435"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130929"/>
+  </node>
+  <node id="-702" visible="true" lat="43.70444305" lon="-73.22312693">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="180"/>
+    <tag k="addr:street" v="Toms Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130930"/>
+  </node>
+  <node id="-703" visible="true" lat="43.71004967" lon="-73.22399349">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="724"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130931"/>
+  </node>
+  <node id="-704" visible="true" lat="43.70478986" lon="-73.21204185">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="652"/>
+    <tag k="addr:street" v="Bobs Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130932"/>
+  </node>
+  <node id="-705" visible="true" lat="43.69746088" lon="-73.18000469">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:street" v="Big D Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130933"/>
+  </node>
+  <node id="-706" visible="true" lat="43.69325983" lon="-73.17061768">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="396"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130934"/>
+  </node>
+  <node id="-707" visible="true" lat="43.69421531" lon="-73.15862878">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1173"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130935"/>
+  </node>
+  <node id="-708" visible="true" lat="43.69440719" lon="-73.15953643">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1175"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130936"/>
+  </node>
+  <node id="-709" visible="true" lat="43.6955822" lon="-73.18170811">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="283"/>
+    <tag k="addr:street" v="Desna Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130937"/>
+  </node>
+  <node id="-710" visible="true" lat="43.69490461" lon="-73.18275159">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Desna Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130938"/>
+  </node>
+  <node id="-711" visible="true" lat="43.69434603" lon="-73.18220392">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:street" v="Desna Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130939"/>
+  </node>
+  <node id="-712" visible="true" lat="43.69812724" lon="-73.14861938">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="613"/>
+    <tag k="addr:street" v="Frog Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130940"/>
+  </node>
+  <node id="-713" visible="true" lat="43.69273283" lon="-73.14706458">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="439"/>
+    <tag k="addr:street" v="Saint John Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130941"/>
+  </node>
+  <node id="-714" visible="true" lat="43.69740485" lon="-73.13789951">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5568"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130942"/>
+  </node>
+  <node id="-715" visible="true" lat="43.68328222" lon="-73.22483046">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2699"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130943"/>
+  </node>
+  <node id="-716" visible="true" lat="43.68672357" lon="-73.17016653">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="811"/>
+    <tag k="addr:street" v="Howland Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130944"/>
+  </node>
+  <node id="-717" visible="true" lat="43.68396444" lon="-73.1936592">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="456"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130945"/>
+  </node>
+  <node id="-718" visible="true" lat="43.68425018" lon="-73.19448248">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="469"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130946"/>
+  </node>
+  <node id="-719" visible="true" lat="43.69775822" lon="-73.17989865">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="291"/>
+    <tag k="addr:street" v="Big D Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="329471"/>
+  </node>
+  <node id="-720" visible="true" lat="43.69704826" lon="-73.17905214">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="374"/>
+    <tag k="addr:street" v="Big D Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="329472"/>
+  </node>
+  <node id="-721" visible="true" lat="43.69760804" lon="-73.17899323">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="357"/>
+    <tag k="addr:street" v="Big D Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="329473"/>
+  </node>
+  <node id="-723" visible="true" lat="43.68441755" lon="-73.19367594">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="478"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="329542"/>
+  </node>
+  <node id="-724" visible="true" lat="43.74305921" lon="-73.18455115">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4614"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339599"/>
+  </node>
+  <node id="-725" visible="true" lat="43.74399297" lon="-73.18455035">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4676"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339600"/>
+  </node>
+  <node id="-726" visible="true" lat="43.74526562" lon="-73.22139381">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Bent Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339601"/>
+  </node>
+  <node id="-727" visible="true" lat="43.74716835" lon="-73.21722173">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Space Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344037"/>
+  </node>
+  <node id="-728" visible="true" lat="43.72856426" lon="-73.14731778">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="189"/>
+    <tag k="addr:street" v="Ganson Hill Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344057"/>
+  </node>
+  <node id="-729" visible="true" lat="43.71111251" lon="-73.12641587">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="309"/>
+    <tag k="addr:street" v="Biddie Knob Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448951"/>
+  </node>
+  <node id="-730" visible="true" lat="43.74882639" lon="-73.18886318">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5054"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451555"/>
+  </node>
+  <node id="-731" visible="true" lat="43.69011253" lon="-73.15702607">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="408"/>
+    <tag k="addr:street" v="Hinkley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452042"/>
+  </node>
+  <node id="-732" visible="true" lat="43.72803529" lon="-73.14709666">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Ganson Hill Road East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452094"/>
+  </node>
+  <node id="-733" visible="true" lat="43.68260503" lon="-73.19374133">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="346"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452783"/>
+  </node>
+  <node id="-734" visible="true" lat="43.68281187" lon="-73.19360426">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="358"/>
+    <tag k="addr:street" v="Ledgemere Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452784"/>
+  </node>
+  <node id="-735" visible="true" lat="43.74644762" lon="-73.19442215">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="362"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454211"/>
+  </node>
+  <node id="-736" visible="true" lat="43.7447115" lon="-73.19978266">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="749"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454213"/>
+  </node>
+  <node id="-737" visible="true" lat="43.68340014" lon="-73.19000778">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Campground Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454214"/>
+  </node>
+  <node id="-738" visible="true" lat="43.68462844" lon="-73.19079519">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Campground Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454215"/>
+  </node>
+  <node id="-739" visible="true" lat="43.71869103" lon="-73.19706322">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="638"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454216"/>
+  </node>
+  <node id="-740" visible="true" lat="43.72140091" lon="-73.22875967">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:street" v="West Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454217"/>
+  </node>
+  <node id="-741" visible="true" lat="43.72037051" lon="-73.22859532">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:street" v="West Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454218"/>
+  </node>
+  <node id="-742" visible="true" lat="43.68994717" lon="-73.21833368">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="702"/>
+    <tag k="addr:street" v="SFH"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454219"/>
+  </node>
+  <node id="-743" visible="true" lat="43.69149498" lon="-73.21759402">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="731"/>
+    <tag k="addr:street" v="SFH"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454220"/>
+  </node>
+  <node id="-744" visible="true" lat="43.6920625" lon="-73.22107148">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="519"/>
+    <tag k="addr:street" v="SFH"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454221"/>
+  </node>
+  <node id="-745" visible="true" lat="43.69558658" lon="-73.21963181">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="233"/>
+    <tag k="addr:street" v="SFH"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454222"/>
+  </node>
+  <node id="-746" visible="true" lat="43.70456727" lon="-73.11712208">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="870"/>
+    <tag k="addr:street" v="Biddie Knob Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454447"/>
+  </node>
+  <node id="-747" visible="true" lat="43.69139039" lon="-73.13751396">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5944"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454478"/>
+  </node>
+  <node id="-748" visible="true" lat="43.72185885" lon="-73.13956222">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="2964"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610378"/>
+  </node>
+  <node id="-749" visible="true" lat="43.72679836" lon="-73.13606191">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3089"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610379"/>
+  </node>
+  <node id="-750" visible="true" lat="43.74213254" lon="-73.18161382">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4410"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610916"/>
+  </node>
+  <node id="-751" visible="true" lat="43.70775604" lon="-73.18232282">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610918"/>
+  </node>
+  <node id="-752" visible="true" lat="43.69044675" lon="-73.13655953">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="6037"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611575"/>
+  </node>
+  <node id="-753" visible="true" lat="43.71755367" lon="-73.20614043">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1220"/>
+    <tag k="addr:street" v="Hortonia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611576"/>
+  </node>
+  <node id="-754" visible="true" lat="43.74636124" lon="-73.18446954">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Delancey Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611625"/>
+  </node>
+  <node id="-755" visible="true" lat="43.74489122" lon="-73.18400272">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4692"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611762"/>
+  </node>
+  <node id="-756" visible="true" lat="43.74366899" lon="-73.18459485">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="4650"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611763"/>
+  </node>
+  <node id="-757" visible="true" lat="43.73944297" lon="-73.13457412">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1281"/>
+    <tag k="addr:street" v="High Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618113"/>
+  </node>
+  <node id="-758" visible="true" lat="43.74020149" lon="-73.13563813">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1383"/>
+    <tag k="addr:street" v="High Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618114"/>
+  </node>
+  <node id="-759" visible="true" lat="43.74041715" lon="-73.13539735">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1381"/>
+    <tag k="addr:street" v="High Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618115"/>
+  </node>
+  <node id="-761" visible="true" lat="43.6976813" lon="-73.18192271">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Big D Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618248"/>
+  </node>
+  <node id="-762" visible="true" lat="43.6970523" lon="-73.17957533">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="330"/>
+    <tag k="addr:street" v="Big D Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618249"/>
+  </node>
+  <node id="-763" visible="true" lat="43.69607555" lon="-73.17722738">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="517"/>
+    <tag k="addr:street" v="Big D Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618250"/>
+  </node>
+  <node id="-764" visible="true" lat="43.72661941" lon="-73.23011009">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="709"/>
+    <tag k="addr:street" v="Baker Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="619255"/>
+  </node>
+  <node id="-767" visible="true" lat="43.70743007" lon="-73.18404887">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655702"/>
+  </node>
+  <node id="-769" visible="true" lat="43.71093745" lon="-73.16591073">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Military Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656390"/>
+  </node>
+  <node id="-770" visible="true" lat="43.68815446" lon="-73.15625873">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="553"/>
+    <tag k="addr:street" v="Hinkley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750307"/>
+  </node>
+  <node id="-771" visible="true" lat="43.70234984" lon="-73.22472142">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1381"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751832"/>
+  </node>
+  <node id="-772" visible="true" lat="43.7159703" lon="-73.21549192">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751833"/>
+  </node>
+  <node id="-773" visible="true" lat="43.73205196" lon="-73.21498831">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="546"/>
+    <tag k="addr:street" v="Anderson Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751841"/>
+  </node>
+  <node id="-774" visible="true" lat="43.70280078" lon="-73.17344337">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:street" v="Woods Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752011"/>
+  </node>
+  <node id="-775" visible="true" lat="43.68166356" lon="-73.15441497">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="969"/>
+    <tag k="addr:street" v="Hinkley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752984"/>
+  </node>
+  <node id="-776" visible="true" lat="43.74891639" lon="-73.18895962">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="5056"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752985"/>
+  </node>
+  <node id="-777" visible="true" lat="43.74572506" lon="-73.22185565">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="LHCS Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753521"/>
+  </node>
+  <node id="-778" visible="true" lat="43.70669918" lon="-73.17891736">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755560"/>
+  </node>
+  <node id="-779" visible="true" lat="43.74585332" lon="-73.1983376">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="603"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758120"/>
+  </node>
+  <node id="-780" visible="true" lat="43.72492409" lon="-73.13352424">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3153"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762076"/>
+  </node>
+  <node id="-781" visible="true" lat="43.74794028" lon="-73.19489017">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763381"/>
+  </node>
+  <node id="-783" visible="true" lat="43.73787277" lon="-73.1798738">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Ganson Hill Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764477"/>
+  </node>
+  <node id="-784" visible="true" lat="43.73754471" lon="-73.18022475">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Ganson Hill Road West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764478"/>
+  </node>
+  <node id="-785" visible="true" lat="43.7318706" lon="-73.19237654">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1670"/>
+    <tag k="addr:street" v="Old Ti Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764868"/>
+  </node>
+  <node id="-786" visible="true" lat="43.73147472" lon="-73.19404031">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1585"/>
+    <tag k="addr:street" v="Old Ti Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764869"/>
+  </node>
+  <node id="-787" visible="true" lat="43.72856134" lon="-73.19222649">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1394"/>
+    <tag k="addr:street" v="Old Ti Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764870"/>
+  </node>
+  <node id="-788" visible="true" lat="43.70992885" lon="-73.12736837">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Biddie Knob Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766430"/>
+  </node>
+  <node id="-789" visible="true" lat="43.69923076" lon="-73.18466494">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1450"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766484"/>
+  </node>
+  <node id="-790" visible="true" lat="43.72590065" lon="-73.13816327">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="3047"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766492"/>
+  </node>
+  <node id="-791" visible="true" lat="43.74415664" lon="-73.22539411">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="476"/>
+    <tag k="addr:street" v="Route 144"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767362"/>
+  </node>
+  <node id="-792" visible="true" lat="43.74604874" lon="-73.19908008">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="641"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769744"/>
+  </node>
+  <node id="-793" visible="true" lat="43.70954741" lon="-73.16408653">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Military Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770090"/>
+  </node>
+  <node id="-794" visible="true" lat="43.70484131" lon="-73.22742357">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1121"/>
+    <tag k="addr:street" v="Black Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770099"/>
+  </node>
+  <node id="-795" visible="true" lat="43.72508704" lon="-73.18784297">
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="512"/>
+    <tag k="addr:street" v="Old Ti Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770559"/>
   </node>
 </osm>

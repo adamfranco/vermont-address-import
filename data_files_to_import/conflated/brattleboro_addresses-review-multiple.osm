@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-160" visible="true" lat="42.8848922" lon="-72.55729724">
+    <!-- multiple: "1114 Putney Road, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="1114"/>
+    <tag k="addr:street" v="Putney Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="29708"/>
+  </node>
   <node id="-184" visible="true" lat="42.8817329" lon="-72.55795526">
     <!-- multiple: "1007 Putney Road, Brattleboro, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brattleboro"/>
@@ -8,15 +16,103 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="29750"/>
   </node>
-  <node id="-1213" visible="true" lat="42.85488" lon="-72.55954999">
-    <!-- multiple: "210 Main Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+  <node id="-199" visible="true" lat="42.87898228" lon="-72.56129505">
+    <!-- multiple: "896 Putney Road, Brattleboro, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:housenumber" v="896"/>
+    <tag k="addr:street" v="Putney Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="29766"/>
+  </node>
+  <node id="-271" visible="true" lat="42.87397239" lon="-72.55933024">
+    <!-- multiple: "707 Putney Road, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:street" v="Putney Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="29839"/>
+  </node>
+  <node id="-309" visible="true" lat="42.87226332" lon="-72.55901483">
+    <!-- multiple: "648 Putney Road, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="648"/>
+    <tag k="addr:street" v="Putney Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="29877"/>
+  </node>
+  <node id="-955" visible="true" lat="42.85677999" lon="-72.55952">
+    <!-- multiple: "37 Putney Road, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Putney Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="30540"/>
+  </node>
+  <node id="-972" visible="true" lat="42.85646999" lon="-72.55816999">
+    <!-- multiple: "48 Walnut Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Walnut Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="30557"/>
+  </node>
+  <node id="-1146" visible="true" lat="42.8553" lon="-72.60725">
+    <!-- multiple: "151 Greenleaf Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Greenleaf Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="30735"/>
+  </node>
+  <node id="-1401" visible="true" lat="42.85372999" lon="-72.55833">
+    <!-- multiple: "185 Main Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="185"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="30808"/>
+    <tag k="ref:vcgi:esiteid" v="31003"/>
   </node>
-  <node id="-1992" visible="true" lat="42.85072717" lon="-72.55656755">
+  <node id="-1409" visible="true" lat="42.85356194" lon="-72.5632175">
+    <!-- multiple: "10 Oak Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Oak Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="31012"/>
+  </node>
+  <node id="-1545" visible="true" lat="42.85296" lon="-72.55981999">
+    <!-- multiple: "11 Green Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Green Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="31155"/>
+  </node>
+  <node id="-1867" visible="true" lat="42.8516774" lon="-72.55996003">
+    <!-- multiple: "78 Elliot Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Elliot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="31481"/>
+  </node>
+  <node id="-1875" visible="true" lat="42.85147" lon="-72.59628999">
+    <!-- multiple: "814 Western Avenue, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="814"/>
+    <tag k="addr:street" v="Western Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="31489"/>
+  </node>
+  <node id="-1899" visible="true" lat="42.85125974" lon="-72.59805244">
+    <!-- multiple: "860 Western Avenue, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="860"/>
+    <tag k="addr:street" v="Western Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="31514"/>
+  </node>
+  <node id="-1991" visible="true" lat="42.85072717" lon="-72.55656755">
     <!-- multiple: "10 Vernon Street, Brattleboro, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="10"/>
@@ -24,7 +120,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="31607"/>
   </node>
-  <node id="-2902" visible="true" lat="42.84563" lon="-72.56279999">
+  <node id="-2088" visible="true" lat="42.85022999" lon="-72.56023">
+    <!-- multiple: "80 Flat Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Flat Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="31706"/>
+  </node>
+  <node id="-2900" visible="true" lat="42.84563" lon="-72.56279999">
     <!-- multiple: "228 Canal Street, Brattleboro, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="228"/>
@@ -32,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32530"/>
   </node>
-  <node id="-2912" visible="true" lat="42.84557999" lon="-72.56798999">
+  <node id="-2910" visible="true" lat="42.84557999" lon="-72.56798999">
     <!-- multiple: "11 Cottage Street, Brattleboro, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="11"/>
@@ -40,7 +144,31 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="32540"/>
   </node>
-  <node id="-3898" visible="true" lat="42.83947612" lon="-72.56534839">
+  <node id="-3006" visible="true" lat="42.84505" lon="-72.56287">
+    <!-- multiple: "250 Canal Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="250"/>
+    <tag k="addr:street" v="Canal Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="32639"/>
+  </node>
+  <node id="-3793" visible="true" lat="42.84062318" lon="-72.56418536">
+    <!-- multiple: "414 Canal Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="414"/>
+    <tag k="addr:street" v="Canal Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="33428"/>
+  </node>
+  <node id="-3803" visible="true" lat="42.84039496" lon="-72.56498255">
+    <!-- multiple: "429 Canal Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="429"/>
+    <tag k="addr:street" v="Canal Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="33438"/>
+  </node>
+  <node id="-3896" visible="true" lat="42.83947612" lon="-72.56534839">
     <!-- multiple: "469 Canal Street, Brattleboro, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="469"/>
@@ -48,7 +176,31 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="33534"/>
   </node>
-  <node id="-4848" visible="true" lat="42.86562108" lon="-72.61589255">
+  <node id="-4042" visible="true" lat="42.83677" lon="-72.56551">
+    <!-- multiple: "564 Canal Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="564"/>
+    <tag k="addr:street" v="Canal Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="33681"/>
+  </node>
+  <node id="-4048" visible="true" lat="42.83673855" lon="-72.56126708">
+    <!-- multiple: "131 Fairground Road, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Fairground Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="33688"/>
+  </node>
+  <node id="-4506" visible="true" lat="42.87953999" lon="-72.57643">
+    <!-- multiple: "485 West River Road, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="485"/>
+    <tag k="addr:street" v="West River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="34163"/>
+  </node>
+  <node id="-4846" visible="true" lat="42.86562108" lon="-72.61589255">
     <!-- multiple: "328 Marlboro Road, Brattleboro, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="328"/>
@@ -56,7 +208,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="34511"/>
   </node>
-  <node id="-6150" visible="true" lat="42.85132161" lon="-72.55773034">
+  <node id="-5327" visible="true" lat="42.83619353" lon="-72.58782735">
+    <!-- multiple: "99 Stafford Farm Hill, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Stafford Farm Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="35008"/>
+  </node>
+  <node id="-6134" visible="true" lat="42.85132161" lon="-72.55773034">
     <!-- multiple: "50 Main Street, Brattleboro, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="50"/>
@@ -64,7 +224,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36261"/>
   </node>
-  <node id="-6366" visible="true" lat="42.86629796" lon="-72.61604335">
+  <node id="-6286" visible="true" lat="42.85196418" lon="-72.55994797">
+    <!-- multiple: "75 Elliot Street, Brattleboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Elliot Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36429"/>
+  </node>
+  <node id="-6350" visible="true" lat="42.86629796" lon="-72.61604335">
     <!-- multiple: "317 Marlboro Road, Brattleboro, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="317"/>

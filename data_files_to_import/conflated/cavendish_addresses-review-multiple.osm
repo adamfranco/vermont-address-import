@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-573" visible="true" lat="43.38394928" lon="-72.6371994">
+  <node id="-572" visible="true" lat="43.38394928" lon="-72.6371994">
     <!-- multiple: "573 Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="573"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="61952"/>
   </node>
-  <node id="-627" visible="true" lat="43.38267517" lon="-72.63819122">
+  <node id="-624" visible="true" lat="43.38267517" lon="-72.63819122">
     <!-- multiple: "7 Depot Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Depot Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="62011"/>
+  </node>
+  <node id="-1094" visible="true" lat="43.44109494" lon="-72.66094453">
+    <!-- multiple: "693 Chapman Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="693"/>
+    <tag k="addr:street" v="Chapman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755325"/>
+  </node>
+  <node id="-1095" visible="true" lat="43.44102734" lon="-72.66083437">
+    <!-- multiple: "687 Chapman Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="687"/>
+    <tag k="addr:street" v="Chapman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755326"/>
+  </node>
+  <node id="-1122" visible="true" lat="43.38256827" lon="-72.60898213">
+    <!-- multiple: "28 Pleasant Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Pleasant Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762534"/>
   </node>
 </osm>

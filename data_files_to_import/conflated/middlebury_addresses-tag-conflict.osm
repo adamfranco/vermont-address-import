@@ -24,14 +24,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154957"/>
   </node>
-  <node id="-1666" visible="true" lat="44.00548477" lon="-73.15446498">
-    <!-- conflict: "19 Lucys Way, Middlebury, VT" No match in OSM, but a different address exists <5m away: "19 Birchard Park, Middlebury, VT" -->
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Lucys Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="155625"/>
-  </node>
   <node id="-2152" visible="true" lat="43.97357015" lon="-73.10661153">
     <!-- conflict: "1 Case Street, Middlebury, VT" Fuzzy match to "1 Case Street, East Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>

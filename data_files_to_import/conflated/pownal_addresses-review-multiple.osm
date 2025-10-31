@@ -1,17 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-869" visible="true" lat="42.79503546" lon="-73.2234919">
-    <!-- multiple: "495 Center Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="495"/>
+  <node id="-108" visible="true" lat="42.83660149" lon="-73.1758919">
+    <!-- multiple: "224 Niles Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Niles Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="192500"/>
+  </node>
+  <node id="-341" visible="true" lat="42.81119851" lon="-73.21257248">
+    <!-- multiple: "161 Pine Circle, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="addr:street" v="Pine Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="192740"/>
+  </node>
+  <node id="-351" visible="true" lat="42.8109169" lon="-73.2127304">
+    <!-- multiple: "141 Pine Circle, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Pine Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="192750"/>
+  </node>
+  <node id="-358" visible="true" lat="42.81076431" lon="-73.21284484">
+    <!-- multiple: "131 Pine Circle, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Pine Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="192757"/>
+  </node>
+  <node id="-364" visible="true" lat="42.8106344" lon="-73.21249711">
+    <!-- multiple: "130 Pine Circle, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Pine Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="192763"/>
+  </node>
+  <node id="-464" visible="true" lat="42.80723292" lon="-73.19387928">
+    <!-- multiple: "1025 Middle Pownal Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1025"/>
+    <tag k="addr:street" v="Middle Pownal Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="192863"/>
+  </node>
+  <node id="-582" visible="true" lat="42.80173163" lon="-73.22049223">
+    <!-- multiple: "4 Center Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Center Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="193285"/>
+    <tag k="ref:vcgi:esiteid" v="192986"/>
   </node>
-  <node id="-1225" visible="true" lat="42.76730895" lon="-73.24105496">
+  <node id="-1223" visible="true" lat="42.76730895" lon="-73.24105496">
     <!-- multiple: "97 Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="97"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="193651"/>
+  </node>
+  <node id="-1492" visible="true" lat="42.75039641" lon="-73.21508093">
+    <!-- multiple: "7594 U.S. Route 7, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="7594"/>
+    <tag k="addr:street" v="U.S. Route 7"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="193931"/>
+  </node>
+  <node id="-1883" visible="true" lat="42.83612286" lon="-73.20235624">
+    <!-- multiple: "1803 U.S. Route 7 South, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1803"/>
+    <tag k="addr:street" v="U.S. Route 7 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617107"/>
+  </node>
+  <node id="-1929" visible="true" lat="42.78476706" lon="-73.21132229">
+    <!-- multiple: "242 Mattison Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="242"/>
+    <tag k="addr:street" v="Mattison Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761931"/>
   </node>
 </osm>

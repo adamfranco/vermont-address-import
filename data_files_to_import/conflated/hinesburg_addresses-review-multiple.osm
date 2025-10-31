@@ -8,6 +8,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129053"/>
   </node>
+  <node id="-1187" visible="true" lat="44.3269446" lon="-73.10973552">
+    <!-- multiple: "10805 Vermont Route 116, Hinesburg, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="10805"/>
+    <tag k="addr:street" v="Vermont Route 116"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="129282"/>
+  </node>
   <node id="-1209" visible="true" lat="44.32620961" lon="-73.1080558">
     <!-- multiple: "10888 Vermont Route 116, Hinesburg, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Hinesburg"/>
@@ -16,6 +24,30 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129304"/>
   </node>
+  <node id="-1737" visible="true" lat="44.33875288" lon="-73.11161672">
+    <!-- multiple: "110 Riggs Road, Hinesburg, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Riggs Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="129836"/>
+  </node>
+  <node id="-1794" visible="true" lat="44.35605034" lon="-73.15507842">
+    <!-- multiple: "2386 Shelburne Falls Road, Hinesburg, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="2386"/>
+    <tag k="addr:street" v="Shelburne Falls Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="305864"/>
+  </node>
+  <node id="-1795" visible="true" lat="44.35638647" lon="-73.15538492">
+    <!-- multiple: "2408 Shelburne Falls Road, Hinesburg, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="2408"/>
+    <tag k="addr:street" v="Shelburne Falls Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="305865"/>
+  </node>
   <node id="-1863" visible="true" lat="44.33485448" lon="-73.10928155">
     <!-- multiple: "140 Commerce Street, Hinesburg, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Hinesburg"/>
@@ -23,5 +55,29 @@
     <tag k="addr:street" v="Commerce Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328149"/>
+  </node>
+  <node id="-1927" visible="true" lat="44.33498923" lon="-73.11310304">
+    <!-- multiple: "10212 Vermont Route 116, Hinesburg, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="10212"/>
+    <tag k="addr:street" v="Vermont Route 116"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341789"/>
+  </node>
+  <node id="-1956" visible="true" lat="44.27536938" lon="-73.13291782">
+    <!-- multiple: "3373 Baldwin Road, Hinesburg, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="3373"/>
+    <tag k="addr:street" v="Baldwin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448374"/>
+  </node>
+  <node id="-2209" visible="true" lat="44.28373938" lon="-73.07163498">
+    <!-- multiple: "135 Tyler Bridge Road, Hinesburg, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Tyler Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767115"/>
   </node>
 </osm>

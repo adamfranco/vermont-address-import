@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-2068" visible="true" lat="44.51499087" lon="-73.26856957">
-    <!-- offset: "34 Starr Farm Beach, Burlington, VT" Significant offset - 160.4m -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Starr Farm Beach"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="44726"/>
-  </node>
-  <node id="-2629" visible="true" lat="44.50649849" lon="-73.24553492">
-    <!-- offset: "1127 North Avenue, Burlington, VT" Significant offset - 110.8m -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="1127"/>
-    <tag k="addr:street" v="North Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="45289"/>
-  </node>
   <node id="-2669" visible="true" lat="44.50783108" lon="-73.24566716">
     <!-- offset: "1174 North Avenue, Burlington, VT" Significant offset - 191.3m -->
     <tag k="addr:city" v="Burlington"/>
@@ -23,6 +7,22 @@
     <tag k="addr:street" v="North Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="45329"/>
+  </node>
+  <node id="-2953" visible="true" lat="44.5081239" lon="-73.23161597">
+    <!-- offset: "1 Ethan Allen Homestead, Burlington, VT" Significant offset - 128m -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Ethan Allen Homestead"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="45617"/>
+  </node>
+  <node id="-2954" visible="true" lat="44.50853771" lon="-73.23131975">
+    <!-- offset: "1 Ethan Allen Homestead, Burlington, VT" Significant offset - 119.5m -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Ethan Allen Homestead"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="45618"/>
   </node>
   <node id="-3073" visible="true" lat="44.50634086" lon="-73.2444022">
     <!-- offset: "1127 North Avenue, Burlington, VT" Significant offset - 194.1m -->
@@ -40,53 +40,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="45739"/>
   </node>
-  <node id="-3544" visible="true" lat="44.49758632" lon="-73.23234097">
-    <!-- offset: "602 North Avenue, Burlington, VT" Significant offset - 104.4m -->
+  <node id="-3776" visible="true" lat="44.49007916" lon="-73.20677756">
+    <!-- offset: "669 Riverside Avenue, Burlington, VT" Significant offset - 112.3m -->
     <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="602"/>
-    <tag k="addr:street" v="North Avenue"/>
+    <tag k="addr:housenumber" v="669"/>
+    <tag k="addr:street" v="Riverside Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="46209"/>
+    <tag k="ref:vcgi:esiteid" v="46442"/>
   </node>
-  <node id="-3545" visible="true" lat="44.4978043" lon="-73.23209532">
-    <!-- offset: "602 North Avenue, Burlington, VT" Significant offset - 120.7m -->
+  <node id="-3780" visible="true" lat="44.48982871" lon="-73.20670787">
+    <!-- offset: "669 Riverside Avenue, Burlington, VT" Significant offset - 114.6m -->
     <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="602"/>
-    <tag k="addr:street" v="North Avenue"/>
+    <tag k="addr:housenumber" v="669"/>
+    <tag k="addr:street" v="Riverside Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="46210"/>
+    <tag k="ref:vcgi:esiteid" v="46446"/>
   </node>
-  <node id="-3582" visible="true" lat="44.49479223" lon="-73.23606639">
-    <!-- offset: "60 Institute Road, Burlington, VT" Significant offset - 116.6m -->
+  <node id="-3925" visible="true" lat="44.4861227" lon="-73.19147682">
+    <!-- offset: "220 Riverside Avenue, Burlington, VT" Significant offset - 125.8m -->
     <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Institute Road"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:street" v="Riverside Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="46247"/>
-  </node>
-  <node id="-5671" visible="true" lat="44.48189265" lon="-73.21340081">
-    <!-- offset: "50 Elmwood Avenue, Burlington, VT" Significant offset - 389.4m -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Elmwood Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="48357"/>
-  </node>
-  <node id="-6075" visible="true" lat="44.48255816" lon="-73.19351767">
-    <!-- offset: "208 Colchester Avenue, Burlington, VT" Significant offset - 104.2m -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="208"/>
-    <tag k="addr:street" v="Colchester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="48762"/>
-  </node>
-  <node id="-6149" visible="true" lat="44.48305329" lon="-73.18940631">
-    <!-- offset: "287 Colchester Avenue, Burlington, VT" Significant offset - 229.2m -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="287"/>
-    <tag k="addr:street" v="Colchester Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="48837"/>
+    <tag k="ref:vcgi:esiteid" v="46593"/>
   </node>
   <node id="-6274" visible="true" lat="44.4798207" lon="-73.19396747">
     <!-- offset: "111 Colchester Avenue, Burlington, VT" Significant offset - 146.9m -->
@@ -128,14 +104,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="49428"/>
   </node>
-  <node id="-7579" visible="true" lat="44.46929018" lon="-73.20994334">
-    <!-- offset: "372 South Winooski Avenue, Burlington, VT" Significant offset - 2250.3m -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="372"/>
-    <tag k="addr:street" v="South Winooski Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="50320"/>
-  </node>
   <node id="-7733" visible="true" lat="44.4710594" lon="-73.22063011">
     <!-- offset: "53 Lavalley Lane, Burlington, VT" Significant offset - 122.6m -->
     <tag k="addr:city" v="Burlington"/>
@@ -143,6 +111,14 @@
     <tag k="addr:street" v="Lavalley Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50476"/>
+  </node>
+  <node id="-8111" visible="true" lat="44.46651198" lon="-73.20244357">
+    <!-- offset: "545 South Prospect Street, Burlington, VT" Significant offset - 174.9m -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="545"/>
+    <tag k="addr:street" v="South Prospect Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="50856"/>
   </node>
   <node id="-8155" visible="true" lat="44.46621244" lon="-73.19926302">
     <!-- offset: "500 South Prospect Street, Burlington, VT" Significant offset - 123.4m -->
@@ -160,31 +136,39 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="50907"/>
   </node>
-  <node id="-8548" visible="true" lat="44.45751058" lon="-73.21943296">
-    <!-- offset: "180 Flynn Avenue, Burlington, VT" Significant offset - 122.7m -->
+  <node id="-9782" visible="true" lat="44.48169453" lon="-73.17979629">
+    <!-- offset: "284 Grove Street, Burlington, VT" Significant offset - 112.4m -->
     <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="180"/>
-    <tag k="addr:street" v="Flynn Avenue"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51298"/>
+    <tag k="ref:vcgi:esiteid" v="52823"/>
   </node>
-  <node id="-8549" visible="true" lat="44.45678615" lon="-73.21940133">
-    <!-- offset: "180 Flynn Avenue, Burlington, VT" Significant offset - 104m -->
+  <node id="-9783" visible="true" lat="44.4815246" lon="-73.17991209">
+    <!-- offset: "284 Grove Street, Burlington, VT" Significant offset - 106.5m -->
     <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="180"/>
-    <tag k="addr:street" v="Flynn Avenue"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51299"/>
+    <tag k="ref:vcgi:esiteid" v="52824"/>
   </node>
-  <node id="-8621" visible="true" lat="44.45706493" lon="-73.21322111">
-    <!-- offset: "800 Pine Street, Burlington, VT" Significant offset - 144.9m -->
+  <node id="-9785" visible="true" lat="44.48131618" lon="-73.18001065">
+    <!-- offset: "284 Grove Street, Burlington, VT" Significant offset - 107.7m -->
     <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="800"/>
-    <tag k="addr:street" v="Pine Street"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="51382"/>
+    <tag k="ref:vcgi:esiteid" v="52826"/>
   </node>
-  <node id="-10539" visible="true" lat="44.50682484" lon="-73.24507398">
+  <node id="-9786" visible="true" lat="44.48112542" lon="-73.18015706">
+    <!-- offset: "284 Grove Street, Burlington, VT" Significant offset - 110.2m -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="Grove Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52827"/>
+  </node>
+  <node id="-10537" visible="true" lat="44.50682484" lon="-73.24507398">
     <!-- offset: "1127 North Avenue, Burlington, VT" Significant offset - 123.1m -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1127"/>
@@ -192,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53912"/>
   </node>
-  <node id="-10540" visible="true" lat="44.50585297" lon="-73.24488128">
+  <node id="-10538" visible="true" lat="44.50585297" lon="-73.24488128">
     <!-- offset: "1127 North Avenue, Burlington, VT" Significant offset - 198.6m -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="1127"/>
@@ -200,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53916"/>
   </node>
-  <node id="-11814" visible="true" lat="44.44818842" lon="-73.2097235">
+  <node id="-11811" visible="true" lat="44.44818842" lon="-73.2097235">
     <!-- offset: "555 Shelburne Street, Burlington, VT" Significant offset - 221.6m -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="555"/>
@@ -208,20 +192,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="55527"/>
   </node>
-  <node id="-11886" visible="true" lat="44.4577729" lon="-73.22349839">
-    <!-- offset: "1 Proctor Place, Burlington, VT" Significant offset - 108.8m -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Proctor Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="327283"/>
-  </node>
-  <node id="-12707" visible="true" lat="44.46986177" lon="-73.20031195">
-    <!-- offset: "384 South Prospect Street, Burlington, VT" Significant offset - 222.7m -->
+  <node id="-12164" visible="true" lat="44.46994555" lon="-73.19749984">
+    <!-- offset: "384 South Prospect Street, Burlington, VT" Significant offset - 223.3m -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="384"/>
     <tag k="addr:street" v="South Prospect Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="758707"/>
+    <tag k="ref:vcgi:esiteid" v="446106"/>
   </node>
 </osm>

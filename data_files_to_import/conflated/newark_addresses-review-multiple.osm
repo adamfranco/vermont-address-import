@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-419" visible="true" lat="44.69018894" lon="-71.95072514">
+    <!-- multiple: "1448 Newark Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1448"/>
+    <tag k="addr:street" v="Newark Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="173230"/>
+  </node>
+  <node id="-734" visible="true" lat="44.73584796" lon="-71.97367204">
+    <!-- multiple: "927 Bald Hill Pond Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="927"/>
+    <tag k="addr:street" v="Bald Hill Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756194"/>
+  </node>
 </osm>

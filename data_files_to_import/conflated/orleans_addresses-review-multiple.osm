@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-217" visible="true" lat="44.81006209" lon="-72.19683421">
+    <!-- multiple: "53 School Street, Orleans, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Orleans"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="14369"/>
+  </node>
+  <node id="-351" visible="true" lat="44.80289459" lon="-72.1977539">
+    <!-- multiple: "340 Water Street, Orleans, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Orleans"/>
+    <tag k="addr:housenumber" v="340"/>
+    <tag k="addr:street" v="Water Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="14535"/>
+  </node>
 </osm>

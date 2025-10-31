@@ -49,6 +49,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="305294"/>
   </node>
+  <node id="-107" visible="true" lat="44.88406668" lon="-71.78428784">
+    <tag k="addr:city" v="Lewis"/>
+    <tag k="addr:housenumber" v="780"/>
+    <tag k="addr:street" v="Lewis Pond Trail"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="305297"/>
+  </node>
   <node id="-108" visible="true" lat="44.88317488" lon="-71.68410987">
     <tag k="addr:city" v="Lewis"/>
     <tag k="addr:housenumber" v="7037"/>
@@ -105,12 +112,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="305316"/>
   </node>
+  <node id="-116" visible="true" lat="44.86143503" lon="-71.72146125">
+    <tag k="addr:city" v="Lewis"/>
+    <tag k="addr:housenumber" v="6255"/>
+    <tag k="addr:street" v="Power Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="305317"/>
+  </node>
   <node id="-117" visible="true" lat="44.85134567" lon="-71.81923156">
     <tag k="addr:city" v="Lewis"/>
     <tag k="addr:housenumber" v="185"/>
     <tag k="addr:street" v="Henshaw Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="305319"/>
+  </node>
+  <node id="-118" visible="true" lat="44.84960232" lon="-71.7179417">
+    <tag k="addr:city" v="Lewis"/>
+    <tag k="addr:housenumber" v="1736"/>
+    <tag k="addr:street" v="Lower Tin Shack Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="305320"/>
   </node>
   <node id="-119" visible="true" lat="44.84849229" lon="-71.75146167">
     <tag k="addr:city" v="Lewis"/>
@@ -153,5 +174,40 @@
     <tag k="addr:street" v="Four Mile Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="305330"/>
+  </node>
+  <node id="-127" visible="true" lat="44.85973442" lon="-71.78843864">
+    <tag k="addr:city" v="Lewis"/>
+    <tag k="addr:housenumber" v="7533"/>
+    <tag k="addr:street" v="Lewis Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454675"/>
+  </node>
+  <node id="-128" visible="true" lat="44.89262932" lon="-71.77028455">
+    <tag k="addr:city" v="Lewis"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Lewis Pond Overlook"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761973"/>
+  </node>
+  <node id="-130" visible="true" lat="44.88535285" lon="-71.78453378">
+    <tag k="addr:city" v="Lewis"/>
+    <tag k="addr:housenumber" v="890"/>
+    <tag k="addr:street" v="Lewis Pond Trail"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767231"/>
+  </node>
+  <node id="-140" visible="true" lat="44.88040911" lon="-71.72980989">
+    <tag k="addr:city" v="Lewis"/>
+    <tag k="addr:housenumber" v="1988"/>
+    <tag k="addr:street" v="Upper Tin Shack Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768547"/>
+  </node>
+  <node id="-141" visible="true" lat="44.88159475" lon="-71.80427644">
+    <tag k="addr:city" v="Lewis"/>
+    <tag k="addr:housenumber" v="771"/>
+    <tag k="addr:street" v="Tim Carroll Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768555"/>
   </node>
 </osm>

@@ -16,14 +16,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263639"/>
   </node>
-  <node id="-535" visible="true" lat="44.55057452" lon="-72.86266352">
-    <!-- offset: "43 Ellsworth Meadow Lane, Underhill, VT" Significant offset - 205m -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Ellsworth Meadow Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263763"/>
-  </node>
   <node id="-563" visible="true" lat="44.54635116" lon="-72.91022764">
     <!-- offset: "141 Upper English Settlement Road, Underhill, VT" Significant offset - 133.8m -->
     <tag k="addr:city" v="Underhill"/>
@@ -31,14 +23,6 @@
     <tag k="addr:street" v="Upper English Settlement Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263791"/>
-  </node>
-  <node id="-858" visible="true" lat="44.52103011" lon="-72.93132582">
-    <!-- offset: "97 River Road, Underhill, VT" Significant offset - 112.9m -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="River Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264090"/>
   </node>
   <node id="-914" visible="true" lat="44.5147946" lon="-72.92692566">
     <!-- offset: "128 River Road, Underhill, VT" Significant offset - 176.1m -->
@@ -48,20 +32,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="264147"/>
   </node>
-  <node id="-1460" visible="true" lat="44.58336199" lon="-72.93519378">
-    <!-- offset: "26 North Underhill Station Road, Underhill, VT" Significant offset - 179m -->
+  <node id="-1528" visible="true" lat="44.54990957" lon="-72.88315292">
+    <!-- offset: "317 Irish Settlement Road, Underhill, VT" Significant offset - 109.1m -->
     <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="North Underhill Station Road"/>
+    <tag k="addr:housenumber" v="317"/>
+    <tag k="addr:street" v="Irish Settlement Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759943"/>
-  </node>
-  <node id="-1570" visible="true" lat="44.50672133" lon="-72.85683202">
-    <!-- offset: "221 Stevensville Road, Underhill, VT" Significant offset - 172m -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="221"/>
-    <tag k="addr:street" v="Stevensville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="769531"/>
+    <tag k="ref:vcgi:esiteid" v="767007"/>
   </node>
 </osm>

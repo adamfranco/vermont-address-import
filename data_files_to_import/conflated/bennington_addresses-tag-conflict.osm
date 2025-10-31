@@ -1,108 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-175" visible="true" lat="42.92792294" lon="-73.20708322">
-    <!-- conflict: "11 Sunset Farms Mhp, , VT" No match in OSM, but a different address exists <5m away: "11 Sunset Mobile Home Park, Bennington, VT" -->
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Sunset Farms Mobile Home Park"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16039"/>
-  </node>
-  <node id="-177" visible="true" lat="42.92788314" lon="-73.2066574">
-    <!-- conflict: "6 Sunset Farms Mhp, , VT" No match in OSM, but a different address exists <5m away: "6 Sunset Mobile Home Park, Bennington, VT" -->
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Sunset Farms Mobile Home Park"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16041"/>
-  </node>
-  <node id="-178" visible="true" lat="42.92791578" lon="-73.20737174">
-    <!-- conflict: "14 Sunset Farms Mhp, , VT" No match in OSM, but a different address exists <5m away: "14 Sunset Mobile Home Park, Bennington, VT" -->
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Sunset Farms Mobile Home Park"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16042"/>
-  </node>
-  <node id="-181" visible="true" lat="42.927603" lon="-73.20636373">
-    <!-- conflict: "12 Sunset Farms Mhp, , VT" No match in OSM, but a different address exists <5m away: "12 Sunset Mobile Home Park, Bennington, VT" -->
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Sunset Farms Mobile Home Park"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16045"/>
-  </node>
-  <node id="-186" visible="true" lat="42.92763162" lon="-73.20664141">
-    <!-- conflict: "10 Sunset Farms Mhp, , VT" No match in OSM, but a different address exists <5m away: "10 Sunset Mobile Home Park, Bennington, VT" -->
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Sunset Farms Mobile Home Park"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16051"/>
-  </node>
-  <node id="-189" visible="true" lat="42.92763542" lon="-73.20791086">
-    <!-- conflict: "1 Sunset Farms Mhp, , VT" No match in OSM, but a different address exists <5m away: "1 Sunset Mobile Home Park, Bennington, VT" -->
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Sunset Farms Mobile Home Park"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16054"/>
-  </node>
-  <node id="-193" visible="true" lat="42.9275402" lon="-73.20716752">
-    <!-- conflict: "9 Sunset Farms Mhp, , VT" No match in OSM, but a different address exists <5m away: "9 Sunset Mobile Home Park, Bennington, VT" -->
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Sunset Farms Mobile Home Park"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16058"/>
-  </node>
-  <node id="-195" visible="true" lat="42.9275363" lon="-73.20752358">
-    <!-- conflict: "4 Sunset Farms Mhp, , VT" No match in OSM, but a different address exists <5m away: "4 Sunset Mobile Home Park, Bennington, VT" -->
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Sunset Farms Mobile Home Park"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16060"/>
-  </node>
-  <node id="-196" visible="true" lat="42.92735706" lon="-73.20798252">
-    <!-- conflict: "2 Sunset Farms Mhp, , VT" No match in OSM, but a different address exists <5m away: "2 Sunset Mobile Home Park, Bennington, VT" -->
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Sunset Farms Mobile Home Park"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16062"/>
-  </node>
-  <node id="-684" visible="true" lat="42.90819169" lon="-73.21849874">
-    <!-- conflict: "121 Bennington Plaza, , VT" Fuzzy match to "121 North Bennington Road, Bennington, VT" -->
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-965" visible="true" lat="42.89717827" lon="-73.20553532">
+    <!-- conflict: "121 Northside Drive, , VT" No match in OSM, but a different address exists <5m away: "123 Northside Drive, , VT" -->
     <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="Bennington Plaza"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16603"/>
-  </node>
-  <node id="-986" visible="true" lat="42.8960701" lon="-73.20523218">
-    <!-- conflict: "114 Northside Drive, , VT" No match in OSM, but a different address exists <5m away: "114 , , " -->
-    <tag k="addr:housenumber" v="114"/>
     <tag k="addr:street" v="Northside Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16987"/>
+    <tag k="ref:vcgi:esiteid" v="16958"/>
   </node>
-  <node id="-3055" visible="true" lat="42.87827904" lon="-73.18756265">
-    <!-- conflict: "713 Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Bennington, " -->
-    <tag k="addr:housenumber" v="713"/>
-    <tag k="addr:street" v="Main Street"/>
+  <node id="-1196" visible="true" lat="42.89027996" lon="-73.19104703">
+    <!-- conflict: "83 Metcalfe Drive, , VT" No match in OSM, but a different address exists <5m away: "83 Little League Road, , VT" -->
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Metcalfe Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="19294"/>
+    <tag k="ref:vcgi:esiteid" v="17229"/>
   </node>
-  <node id="-3269" visible="true" lat="42.87742975" lon="-73.19518374">
-    <!-- conflict: "126 Union Street, , VT" Fuzzy match to "126 Union St, , " -->
-    <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:street" v="Union Street"/>
+  <node id="-3945" visible="true" lat="42.87384099" lon="-73.18384078">
+    <!-- conflict: "68 Belvedere Street, , VT" No match in OSM, but a different address exists <5m away: "20 Belvedere Street, , VT" -->
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Belvedere Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="19529"/>
+    <tag k="ref:vcgi:esiteid" v="20262"/>
   </node>
-  <node id="-5209" visible="true" lat="42.88169101" lon="-73.19067395">
-    <!-- conflict: "406 Gage Street, , VT" No match in OSM, but a different address exists <5m away: "406-408 Gage Street, Bennington, VT" -->
-    <tag k="addr:housenumber" v="406"/>
-    <tag k="addr:street" v="Gage Street"/>
+  <node id="-4398" visible="true" lat="42.86960365" lon="-73.1756438">
+    <!-- conflict: "16 Sweets Mobile Home Park North, , VT" No match in OSM, but a different address exists <5m away: "16 Sweets Mhp North, , VT" -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park North"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="314612"/>
+    <tag k="ref:vcgi:esiteid" v="20760"/>
   </node>
-  <node id="-5624" visible="true" lat="42.87548485" lon="-73.18920683">
-    <!-- conflict: "148 1/2 Imperial Avenue, , VT" No match in OSM, but a different address exists <5m away: "148.5 Imperial Avenue, Bennington, VT" -->
-    <tag k="addr:housenumber" v="148 1/2"/>
-    <tag k="addr:street" v="Imperial Avenue"/>
+  <node id="-4403" visible="true" lat="42.86937421" lon="-73.17529962">
+    <!-- conflict: "14 Sweets Mobile Home Park North, , VT" No match in OSM, but a different address exists <5m away: "14 Sweets Mhp North, , VT" -->
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park North"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338959"/>
+    <tag k="ref:vcgi:esiteid" v="20766"/>
+  </node>
+  <node id="-4411" visible="true" lat="42.86948049" lon="-73.17583583">
+    <!-- conflict: "15 Sweets Mobile Home Park North, , VT" No match in OSM, but a different address exists <5m away: "15 Sweets Mhp North, , VT" -->
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20774"/>
+  </node>
+  <node id="-4418" visible="true" lat="42.86921074" lon="-73.17543155">
+    <!-- conflict: "13 Sweets Mobile Home Park North, , VT" No match in OSM, but a different address exists <5m away: "13 Sweets Mhp North, , VT" -->
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20782"/>
+  </node>
+  <node id="-4421" visible="true" lat="42.86912744" lon="-73.17454177">
+    <!-- conflict: "9 Sweets Mobile Home Park South, , VT" No match in OSM, but a different address exists <5m away: "9 Sweets Mhp South, , VT" -->
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20786"/>
+  </node>
+  <node id="-4422" visible="true" lat="42.86926606" lon="-73.174892">
+    <!-- conflict: "11 Sweets Mobile Home Park South, , VT" No match in OSM, but a different address exists <5m away: "11 Sweets Mhp South, , VT" -->
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20787"/>
+  </node>
+  <node id="-4425" visible="true" lat="42.86911185" lon="-73.17563933">
+    <!-- conflict: "12 Sweets Mobile Home Park North, , VT" No match in OSM, but a different address exists <5m away: "12 Sweets Mhp North, , VT" -->
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20790"/>
+  </node>
+  <node id="-4431" visible="true" lat="42.86915542" lon="-73.17496897">
+    <!-- conflict: "10 Sweets Mobile Home Park South, , VT" No match in OSM, but a different address exists <5m away: "10 Sweets Mhp South, , VT" -->
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20796"/>
+  </node>
+  <node id="-4432" visible="true" lat="42.86905585" lon="-73.17509511">
+    <!-- conflict: "8 Sweets Mobile Home Park South, , VT" No match in OSM, but a different address exists <5m away: "8 Sweets Mhp South, , VT" -->
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20797"/>
+  </node>
+  <node id="-4437" visible="true" lat="42.86896181" lon="-73.17469019">
+    <!-- conflict: "7 Sweets Mobile Home Park South, , VT" No match in OSM, but a different address exists <5m away: "7 Sweets Mhp South, , VT" -->
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20804"/>
+  </node>
+  <node id="-4444" visible="true" lat="42.8688773" lon="-73.17519922">
+    <!-- conflict: "6 Sweets Mobile Home Park South, , VT" No match in OSM, but a different address exists <5m away: "6 Sweets Mhp South, , VT" -->
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20812"/>
+  </node>
+  <node id="-4448" visible="true" lat="42.86877497" lon="-73.17487101">
+    <!-- conflict: "5 Sweets Mobile Home Park South, , VT" No match in OSM, but a different address exists <5m away: "5 Sweets Mhp South, , VT" -->
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20816"/>
+  </node>
+  <node id="-4449" visible="true" lat="42.86878611" lon="-73.17530249">
+    <!-- conflict: "4 Sweets Mobile Home Park South, , VT" No match in OSM, but a different address exists <5m away: "4 Sweets Mhp South, , VT" -->
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20817"/>
+  </node>
+  <node id="-4454" visible="true" lat="42.86872027" lon="-73.17542952">
+    <!-- conflict: "2 Sweets Mobile Home Park South, , VT" No match in OSM, but a different address exists <5m away: "2 Sweets Mhp South, , VT" -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20823"/>
+  </node>
+  <node id="-4456" visible="true" lat="42.86859659" lon="-73.17505144">
+    <!-- conflict: "3 Sweets Mobile Home Park South, , VT" No match in OSM, but a different address exists <5m away: "3 Sweets Mhp South, , VT" -->
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20825"/>
+  </node>
+  <node id="-4462" visible="true" lat="42.86844596" lon="-73.17521731">
+    <!-- conflict: "1 Sweets Mobile Home Park South, , VT" No match in OSM, but a different address exists <5m away: "1 Sweets Mhp South, , VT" -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Sweets Mobile Home Park South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20831"/>
   </node>
 </osm>

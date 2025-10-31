@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-286" visible="true" lat="43.43566152" lon="-72.72883536">
-    <!-- conflict: "1360 Vermont Route 103 North, Ludlow, VT" No match in OSM, but a different address exists <5m away: "1360 Vt Route 103 North, Ludlow, VT" -->
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="1360"/>
-    <tag k="addr:street" v="Vermont Route 103 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142767"/>
-  </node>
-  <node id="-564" visible="true" lat="43.40312948" lon="-72.70779336">
-    <!-- conflict: "72 Pond Street, Ludlow, VT" Fuzzy match to "72 Pond Street, , " -->
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="Pond Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="143052"/>
-  </node>
-  <node id="-633" visible="true" lat="43.40163399" lon="-72.7164679">
-    <!-- conflict: "77 Okemo Ridge Road, Ludlow, VT" Fuzzy match to "77 Okemo Ridge Rd, Ludlow, VT" -->
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="Okemo Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="143121"/>
-  </node>
-  <node id="-792" visible="true" lat="43.39852169" lon="-72.70628711">
-    <!-- conflict: "36 Pond Street, Ludlow, VT" Fuzzy match to "36 Pond Street, , " -->
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Pond Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="143292"/>
-  </node>
-  <node id="-796" visible="true" lat="43.3974442" lon="-72.70579485">
-    <!-- conflict: "26 Pond Street, Ludlow, VT" Fuzzy match to "26 Pond Street, , " -->
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Pond Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="143296"/>
-  </node>
-  <node id="-1311" visible="true" lat="43.3954768" lon="-72.70072912">
-    <!-- conflict: "44 Depot Street, Ludlow, VT" Fuzzy match to "44 South Depot Street, Ludlow, VT" -->
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Depot Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="143832"/>
-  </node>
-  <node id="-2754" visible="true" lat="43.41661466" lon="-72.74012861">
+  <node id="-2755" visible="true" lat="43.41661466" lon="-72.74012861">
     <!-- conflict: "1380 Mountain Road, Ludlow, VT" Fuzzy match to "1380 Mountain Road, Mount Holly, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="1380"/>

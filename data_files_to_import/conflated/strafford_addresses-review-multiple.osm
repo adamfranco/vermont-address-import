@@ -1,33 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-252" visible="true" lat="43.87462997" lon="-72.37589263">
-    <!-- multiple: "30 Old City Falls Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Old City Falls Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252282"/>
-  </node>
-  <node id="-284" visible="true" lat="43.87109829" lon="-72.37604145">
-    <!-- multiple: "266 Justin Morrill Memorial Highway, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="266"/>
-    <tag k="addr:street" v="Justin Morrill Memorial Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252316"/>
-  </node>
-  <node id="-320" visible="true" lat="43.86696355" lon="-72.37903898">
-    <!-- multiple: "18 Brook Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252352"/>
-  </node>
-  <node id="-322" visible="true" lat="43.86698844" lon="-72.37836258">
-    <!-- multiple: "16 Brook Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252354"/>
-  </node>
   <node id="-337" visible="true" lat="43.86500641" lon="-72.37734154">
     <!-- multiple: "1 Brook Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="1"/>
@@ -35,11 +7,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252372"/>
   </node>
-  <node id="-595" visible="true" lat="43.83076506" lon="-72.39701892">
-    <!-- multiple: "29 Judd Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Judd Lane"/>
+  <node id="-544" visible="true" lat="43.83418037" lon="-72.36046455">
+    <!-- multiple: "216 Route 132, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="216"/>
+    <tag k="addr:street" v="Route 132"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="252652"/>
+    <tag k="ref:vcgi:esiteid" v="252597"/>
+  </node>
+  <node id="-833" visible="true" lat="43.83564402" lon="-72.36343871">
+    <!-- multiple: "236 Route 132, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="236"/>
+    <tag k="addr:street" v="Route 132"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050674"/>
   </node>
 </osm>

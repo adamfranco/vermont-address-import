@@ -1,17 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-293" visible="true" lat="43.91605758" lon="-72.47587585">
-    <!-- multiple: "513 Vermont Route 110, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="513"/>
+  <node id="-105" visible="true" lat="43.84087722" lon="-72.46818064">
+    <!-- multiple: "2975 Dairy Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2975"/>
+    <tag k="addr:street" v="Dairy Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="262621"/>
+  </node>
+  <node id="-327" visible="true" lat="43.91377447" lon="-72.47891477">
+    <!-- multiple: "494 Vermont Route 110, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="494"/>
     <tag k="addr:street" v="Vermont Route 110"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="262814"/>
+    <tag k="ref:vcgi:esiteid" v="262849"/>
   </node>
-  <node id="-500" visible="true" lat="43.89038841" lon="-72.49129349">
+  <node id="-417" visible="true" lat="43.90074157" lon="-72.43518829">
+    <!-- multiple: "73 Moody Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Moody Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="262941"/>
+  </node>
+  <node id="-498" visible="true" lat="43.89038841" lon="-72.49129349">
     <!-- multiple: "304 Vermont Route 110, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="304"/>
     <tag k="addr:street" v="Vermont Route 110"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263022"/>
+  </node>
+  <node id="-579" visible="true" lat="43.87481512" lon="-72.44944295">
+    <!-- multiple: "77 Kibling Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Kibling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="263108"/>
+  </node>
+  <node id="-599" visible="true" lat="43.87335557" lon="-72.4345966">
+    <!-- multiple: "156 Kibling Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Kibling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="263128"/>
+  </node>
+  <node id="-613" visible="true" lat="43.87141418" lon="-72.49923705">
+    <!-- multiple: "143 Vermont Route 110, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="143"/>
+    <tag k="addr:street" v="Vermont Route 110"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="263144"/>
+  </node>
+  <node id="-798" visible="true" lat="43.88982738" lon="-72.49399239">
+    <!-- multiple: "1 Fairground Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Fairground Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326541"/>
+  </node>
+  <node id="-813" visible="true" lat="43.87185291" lon="-72.44784708">
+    <!-- multiple: "86 Kibling Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Kibling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326602"/>
+  </node>
+  <node id="-854" visible="true" lat="43.85273046" lon="-72.50575397">
+    <!-- multiple: "4 Vermont Route 110, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Vermont Route 110"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338716"/>
   </node>
 </osm>

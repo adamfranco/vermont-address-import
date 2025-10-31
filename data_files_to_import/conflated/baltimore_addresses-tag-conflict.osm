@@ -1,35 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-109" visible="true" lat="43.37034112" lon="-72.55357375">
-    <!-- conflict: "2975 Baltimore Road, Baltimore, VT" No match in OSM, but a different address exists <5m away: "3001 Baltimore Road, Baltimore, VT" -->
+  <node id="-189" visible="true" lat="43.34686637" lon="-72.55586472">
+    <!-- conflict: "180 Gould Road, Baltimore, VT" No match in OSM, but a different address exists <5m away: "104 Gould Road, Baltimore, VT" -->
     <tag k="addr:city" v="Baltimore"/>
-    <tag k="addr:housenumber" v="2975"/>
-    <tag k="addr:street" v="Baltimore Road"/>
+    <tag k="addr:housenumber" v="180"/>
+    <tag k="addr:street" v="Gould Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="5839"/>
-  </node>
-  <node id="-135" visible="true" lat="43.36354149" lon="-72.56873458">
-    <!-- conflict: "2094 Baltimore Road, Baltimore, VT" No match in OSM, but a different address exists <5m away: "2094;2080 Baltimore Road, Baltimore, VT" -->
-    <tag k="addr:city" v="Baltimore"/>
-    <tag k="addr:housenumber" v="2094"/>
-    <tag k="addr:street" v="Baltimore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="5866"/>
-  </node>
-  <node id="-153" visible="true" lat="43.35884479" lon="-72.57502522">
-    <!-- conflict: "79 Old Shincracker Lane, Baltimore, VT" No match in OSM, but a different address exists <5m away: "169 Harris Road, Baltimore, VT" -->
-    <tag k="addr:city" v="Baltimore"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Old Shincracker Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="5886"/>
-  </node>
-  <node id="-195" visible="true" lat="43.35725398" lon="-72.57606911">
-    <!-- conflict: "200 Old Shincracker Lane, Baltimore, VT" No match in OSM, but a different address exists <5m away: "171 Harris Road, Baltimore, VT" -->
-    <tag k="addr:city" v="Baltimore"/>
-    <tag k="addr:housenumber" v="200"/>
-    <tag k="addr:street" v="Old Shincracker Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="5928"/>
+    <tag k="ref:vcgi:esiteid" v="5922"/>
   </node>
 </osm>

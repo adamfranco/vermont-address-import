@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-491" visible="true" lat="43.10563251" lon="-72.77330001">
-    <!-- offset: "48 Salmon Hole Lane, , VT" Significant offset - 2510m -->
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Salmon Hole Lane"/>
+  <node id="-958" visible="true" lat="43.06146749" lon="-72.86744998">
+    <!-- offset: "230 West Jamaica Road, , VT" Significant offset - 220.5m -->
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:street" v="West Jamaica Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="134887"/>
+    <tag k="ref:vcgi:esiteid" v="135372"/>
   </node>
-  <node id="-1239" visible="true" lat="43.07211813" lon="-72.87045794">
+  <node id="-1152" visible="true" lat="43.08331601" lon="-72.72413422">
+    <!-- offset: "7280 Vermont Route 30, , VT" Significant offset - 233.8m -->
+    <tag k="addr:housenumber" v="7280"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317647"/>
+  </node>
+  <node id="-1238" visible="true" lat="43.07211813" lon="-72.87045794">
     <!-- offset: "124 Forrester Road, , VT" Significant offset - 137.7m -->
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Forrester Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="616439"/>
+  </node>
+  <node id="-1612" visible="true" lat="43.13417896" lon="-72.8185383">
+    <!-- offset: "7280 Vermont Route 30, , VT" Significant offset - 9722.6m -->
+    <tag k="addr:housenumber" v="7280"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="616987"/>
   </node>
 </osm>

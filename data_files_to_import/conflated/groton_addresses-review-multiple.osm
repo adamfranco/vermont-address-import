@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-630" visible="true" lat="44.20974316" lon="-72.1932085">
+    <!-- multiple: "1243 Scott Highway, Groton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Groton"/>
+    <tag k="addr:housenumber" v="1243"/>
+    <tag k="addr:street" v="Scott Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="116164"/>
+  </node>
+  <node id="-633" visible="true" lat="44.20956404" lon="-72.19247845">
+    <!-- multiple: "1203 Scott Highway, Groton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Groton"/>
+    <tag k="addr:housenumber" v="1203"/>
+    <tag k="addr:street" v="Scott Highway"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="116168"/>
+  </node>
 </osm>

@@ -1,164 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-104" visible="true" lat="44.93063592" lon="-72.0655053">
-    <!-- conflict: "42 Hayward Hollow, , VT" No match in OSM, but a different address exists <5m away: "2 Hayward Hollow, Morgan, VT" -->
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Hayward Hollow"/>
+  <node id="-832" visible="true" lat="44.92252834" lon="-71.92865307">
+    <!-- conflict: "3169 I P Road, , VT" Fuzzy match to "3169 Ip Road, , VT" -->
+    <tag k="addr:housenumber" v="3169"/>
+    <tag k="addr:street" v="I P Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167830"/>
+    <tag k="ref:vcgi:esiteid" v="168567"/>
   </node>
-  <node id="-105" visible="true" lat="44.9301969" lon="-72.09428862">
-    <!-- conflict: "236 Dumas Drive, , VT" No match in OSM, but a different address exists <5m away: "93 Dumas Drive, Morgan, VT" -->
-    <tag k="addr:housenumber" v="236"/>
-    <tag k="addr:street" v="Dumas Drive"/>
+  <node id="-834" visible="true" lat="44.92811305" lon="-71.93991724">
+    <!-- conflict: "4013 I P Road, , VT" Fuzzy match to "4013 Ip Road, Morgan, VT" -->
+    <tag k="addr:housenumber" v="4013"/>
+    <tag k="addr:street" v="I P Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167831"/>
-  </node>
-  <node id="-109" visible="true" lat="44.92927932" lon="-72.0608139">
-    <!-- conflict: "11044 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "11044 Vt Route 111, Morgan, VT" -->
-    <tag k="addr:housenumber" v="11044"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167835"/>
-  </node>
-  <node id="-111" visible="true" lat="44.92934159" lon="-72.09456038">
-    <!-- conflict: "294 Dumas Drive, , VT" No match in OSM, but a different address exists <5m away: "33 Dumas Drive, Morgan, VT" -->
-    <tag k="addr:housenumber" v="294"/>
-    <tag k="addr:street" v="Dumas Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167837"/>
-  </node>
-  <node id="-145" visible="true" lat="44.92251572" lon="-71.94871088">
-    <!-- conflict: "15 Ip Road, , VT" Fuzzy match to "15 I P Road, Morgan, VT" -->
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Ip Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167873"/>
-  </node>
-  <node id="-153" visible="true" lat="44.92075633" lon="-71.94977124">
-    <!-- conflict: "105 Ip Road, , VT" Fuzzy match to "105 I P Road, Morgan, VT" -->
-    <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="Ip Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167881"/>
-  </node>
-  <node id="-185" visible="true" lat="44.9171757" lon="-72.02226653">
-    <!-- conflict: "8874 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "8874 Vt Route 111, Morgan, VT" -->
-    <tag k="addr:housenumber" v="8874"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167913"/>
-  </node>
-  <node id="-205" visible="true" lat="44.91399795" lon="-72.016779">
-    <!-- conflict: "8523 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "8523 Vt Route 111, Morgan, VT" -->
-    <tag k="addr:housenumber" v="8523"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167933"/>
-  </node>
-  <node id="-211" visible="true" lat="44.91344283" lon="-72.01515864">
-    <!-- conflict: "8437 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "8437 Vt Route 111, Morgan, VT" -->
-    <tag k="addr:housenumber" v="8437"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167939"/>
-  </node>
-  <node id="-215" visible="true" lat="44.9131782" lon="-72.01479398">
-    <!-- conflict: "8411 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "8411 State Route 111, , " -->
-    <tag k="addr:housenumber" v="8411"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167943"/>
-  </node>
-  <node id="-225" visible="true" lat="44.91242655" lon="-72.01279597">
-    <!-- conflict: "8312 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "8312 Vt Route 111, Morgan, VT" -->
-    <tag k="addr:housenumber" v="8312"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167953"/>
-  </node>
-  <node id="-249" visible="true" lat="44.91143972" lon="-72.01083855">
-    <!-- conflict: "8190 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "8190 Vt Route 111, Morgan, VT" -->
-    <tag k="addr:housenumber" v="8190"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167978"/>
-  </node>
-  <node id="-264" visible="true" lat="44.91046741" lon="-72.00913681">
-    <!-- conflict: "8101 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "8101 Vt Route 111, Morgan, VT" -->
-    <tag k="addr:housenumber" v="8101"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167993"/>
-  </node>
-  <node id="-289" visible="true" lat="44.90887834" lon="-72.01231464">
-    <!-- conflict: "8119 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "8119 Vt Route 111, Morgan, VT" -->
-    <tag k="addr:housenumber" v="8119"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168018"/>
-  </node>
-  <node id="-737" visible="true" lat="44.92777727" lon="-72.0647719">
-    <!-- conflict: "11501 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "265 Hayward Hollow, Morgan, VT" -->
-    <tag k="addr:housenumber" v="11501"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168470"/>
-  </node>
-  <node id="-741" visible="true" lat="44.93015123" lon="-72.09331759">
-    <!-- conflict: "199 Dumas Drive, , VT" No match in OSM, but a different address exists <5m away: "130 Dumas Drive, Morgan, VT" -->
-    <tag k="addr:housenumber" v="199"/>
-    <tag k="addr:street" v="Dumas Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168474"/>
-  </node>
-  <node id="-789" visible="true" lat="44.9271161" lon="-72.0591726">
-    <!-- conflict: "10883 Vermont Route 111, , VT" No match in OSM, but a different address exists <5m away: "10883 Vt Route 111, Morgan, VT" -->
-    <tag k="addr:housenumber" v="10883"/>
-    <tag k="addr:street" v="Vermont Route 111"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168523"/>
-  </node>
-  <node id="-830" visible="true" lat="44.91974801" lon="-71.9504439">
-    <!-- conflict: "158 Ip Road, , VT" Fuzzy match to "158 I P Road, Morgan, VT" -->
-    <tag k="addr:housenumber" v="158"/>
-    <tag k="addr:street" v="Ip Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168565"/>
-  </node>
-  <node id="-831" visible="true" lat="44.9241765" lon="-71.92158882">
-    <!-- conflict: "2956 Ip Road, , VT" Fuzzy match to "2956 I P Road, Morgan, VT" -->
-    <tag k="addr:housenumber" v="2956"/>
-    <tag k="addr:street" v="Ip Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168566"/>
-  </node>
-  <node id="-833" visible="true" lat="44.93096049" lon="-71.93077482">
-    <!-- conflict: "3380 Ip Road, , VT" Fuzzy match to "3380 I P Road, Morgan, VT" -->
-    <tag k="addr:housenumber" v="3380"/>
-    <tag k="addr:street" v="Ip Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="168568"/>
-  </node>
-  <node id="-880" visible="true" lat="44.92876121" lon="-71.93702372">
-    <!-- conflict: "3383 Ip Road, , VT" Fuzzy match to "3383 I P Road, Morgan, VT" -->
-    <tag k="addr:housenumber" v="3383"/>
-    <tag k="addr:street" v="Ip Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="323963"/>
-  </node>
-  <node id="-933" visible="true" lat="44.88226148" lon="-71.98525172">
-    <!-- conflict: "1793 Camp Winape Road, , VT" No match in OSM, but a different address exists <5m away: "1751 Camp Winape Road, Morgan, VT" -->
-    <tag k="addr:housenumber" v="1793"/>
-    <tag k="addr:street" v="Camp Winape Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610555"/>
-  </node>
-  <node id="-948" visible="true" lat="44.92471727" lon="-71.93136824">
-    <!-- conflict: "2841 Ip Road, , VT" Fuzzy match to "2841 I P Road, Morgan, VT" -->
-    <tag k="addr:housenumber" v="2841"/>
-    <tag k="addr:street" v="Ip Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755838"/>
+    <tag k="ref:vcgi:esiteid" v="168569"/>
   </node>
 </osm>

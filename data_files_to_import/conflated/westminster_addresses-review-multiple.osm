@@ -1,3 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-185" visible="true" lat="43.12211227" lon="-72.43632507">
+    <!-- multiple: "7892 U.S. Route 5, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="7892"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="282508"/>
+  </node>
+  <node id="-916" visible="true" lat="43.07028017" lon="-72.46368082">
+    <!-- multiple: "301 School Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="283257"/>
+  </node>
+  <node id="-970" visible="true" lat="43.0682106" lon="-72.45866394">
+    <!-- multiple: "22 School Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="283311"/>
+  </node>
+  <node id="-1026" visible="true" lat="43.06537984" lon="-72.47484121">
+    <!-- multiple: "708 Kurn Hattin Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="708"/>
+    <tag k="addr:street" v="Kurn Hattin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="283370"/>
+  </node>
+  <node id="-1711" visible="true" lat="43.08635482" lon="-72.44493244">
+    <!-- multiple: "419 Westminster Business Park, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="419"/>
+    <tag k="addr:street" v="Westminster Business Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450973"/>
+  </node>
+  <node id="-1735" visible="true" lat="43.02151974" lon="-72.50237352">
+    <!-- multiple: "1315 Quarry Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1315"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617827"/>
+  </node>
+  <node id="-1805" visible="true" lat="43.05146298" lon="-72.56411209">
+    <!-- multiple: "1026 Windmill Hill Road North, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1026"/>
+    <tag k="addr:street" v="Windmill Hill Road North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050798"/>
+  </node>
 </osm>

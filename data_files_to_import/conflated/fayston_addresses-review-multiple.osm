@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-532" visible="true" lat="44.1955143" lon="-72.89158326">
-    <!-- multiple: "2849 Mill Brook Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2849"/>
+  <node id="-667" visible="true" lat="44.18400388" lon="-72.8705782">
+    <!-- multiple: "1440 Mill Brook Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1440"/>
     <tag k="addr:street" v="Mill Brook Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="106359"/>
+    <tag k="ref:vcgi:esiteid" v="106496"/>
   </node>
-  <node id="-666" visible="true" lat="44.18376498" lon="-72.87027111">
-    <!-- multiple: "1428 Mill Brook Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1428"/>
-    <tag k="addr:street" v="Mill Brook Road"/>
+  <node id="-739" visible="true" lat="44.17918432" lon="-72.88425695">
+    <!-- multiple: "782 German Flats Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="782"/>
+    <tag k="addr:street" v="German Flats Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="106495"/>
+    <tag k="ref:vcgi:esiteid" v="106570"/>
+  </node>
+  <node id="-1139" visible="true" lat="44.18462969" lon="-72.84025372">
+    <!-- multiple: "139 Post Office Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:street" v="Post Office Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757413"/>
+  </node>
+  <node id="-1140" visible="true" lat="44.18431385" lon="-72.84055879">
+    <!-- multiple: "165 Post Office Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:street" v="Post Office Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757414"/>
+  </node>
+  <node id="-1187" visible="true" lat="44.26160076" lon="-72.86171664">
+    <!-- multiple: "1531 Sharpshooters Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1531"/>
+    <tag k="addr:street" v="Sharpshooters Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770689"/>
+  </node>
+  <node id="-1188" visible="true" lat="44.26188248" lon="-72.86111809">
+    <!-- multiple: "1529 Sharpshooters Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1529"/>
+    <tag k="addr:street" v="Sharpshooters Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770745"/>
   </node>
 </osm>

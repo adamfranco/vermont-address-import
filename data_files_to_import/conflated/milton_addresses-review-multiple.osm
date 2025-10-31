@@ -1,12 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-904" visible="true" lat="44.63951361" lon="-73.11146402">
-    <!-- multiple: "17 Main Street, Milton, VT" Multiple exact matches in OSM. -->
+  <node id="-272" visible="true" lat="44.68602499" lon="-73.15932501">
+    <!-- multiple: "350 Murray Avenue, Milton, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Milton"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:housenumber" v="350"/>
+    <tag k="addr:street" v="Murray Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="159036"/>
+    <tag k="ref:vcgi:esiteid" v="158397"/>
+  </node>
+  <node id="-465" visible="true" lat="44.66513788" lon="-73.16035866">
+    <!-- multiple: "524 Lake Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="524"/>
+    <tag k="addr:street" v="Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="158590"/>
+  </node>
+  <node id="-697" visible="true" lat="44.6592227" lon="-73.14475427">
+    <!-- multiple: "7 Sanderson Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Sanderson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="158822"/>
+  </node>
+  <node id="-698" visible="true" lat="44.65890984" lon="-73.14551143">
+    <!-- multiple: "7 Sanderson Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Sanderson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="158823"/>
+  </node>
+  <node id="-818" visible="true" lat="44.64498374" lon="-73.13323799">
+    <!-- multiple: "215 Poor Farm Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="158947"/>
+  </node>
+  <node id="-821" visible="true" lat="44.64508578" lon="-73.13441578">
+    <!-- multiple: "215 Poor Farm Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="158950"/>
+  </node>
+  <node id="-901" visible="true" lat="44.64019927" lon="-73.11327929">
+    <!-- multiple: "2 River Street, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="159033"/>
+  </node>
+  <node id="-1105" visible="true" lat="44.63206853" lon="-73.17035872">
+    <!-- multiple: "308 West Milton Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="308"/>
+    <tag k="addr:street" v="West Milton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="159238"/>
+  </node>
+  <node id="-1316" visible="true" lat="44.63240242" lon="-73.11547094">
+    <!-- multiple: "105 River Street, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="159453"/>
+  </node>
+  <node id="-1366" visible="true" lat="44.63130858" lon="-73.11975672">
+    <!-- multiple: "37 Lamoille Terrace, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Lamoille Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="159503"/>
+  </node>
+  <node id="-1712" visible="true" lat="44.62423382" lon="-73.13126798">
+    <!-- multiple: "13 Landfill Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Landfill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="159858"/>
   </node>
   <node id="-1773" visible="true" lat="44.62329308" lon="-73.1234202">
     <!-- multiple: "11 Haydenberry Drive, Milton, VT" Multiple exact matches in OSM. -->
@@ -15,6 +95,14 @@
     <tag k="addr:street" v="Haydenberry Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="159922"/>
+  </node>
+  <node id="-1780" visible="true" lat="44.62334453" lon="-73.11887227">
+    <!-- multiple: "13 Middle Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Middle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="159930"/>
   </node>
   <node id="-1838" visible="true" lat="44.62226579" lon="-73.1212528">
     <!-- multiple: "250 U.S. Route 7 South, Milton, VT" Multiple exact matches in OSM. -->
@@ -32,6 +120,70 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="160075"/>
   </node>
+  <node id="-1922" visible="true" lat="44.61904517" lon="-73.12396281">
+    <!-- multiple: "43 Bombardier Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Bombardier Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160079"/>
+  </node>
+  <node id="-2196" visible="true" lat="44.60993752" lon="-73.15932837">
+    <!-- multiple: "37 Precast Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Precast Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160359"/>
+  </node>
+  <node id="-2439" visible="true" lat="44.6059094" lon="-73.21159876">
+    <!-- multiple: "117 Gravelle Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Gravelle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160605"/>
+  </node>
+  <node id="-2503" visible="true" lat="44.60539859" lon="-73.12462386">
+    <!-- multiple: "262 Middle Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="262"/>
+    <tag k="addr:street" v="Middle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160669"/>
+  </node>
+  <node id="-2504" visible="true" lat="44.60498725" lon="-73.12460346">
+    <!-- multiple: "262 Middle Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="262"/>
+    <tag k="addr:street" v="Middle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160670"/>
+  </node>
+  <node id="-2708" visible="true" lat="44.60621865" lon="-73.21175195">
+    <!-- multiple: "117 Gravelle Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Gravelle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160881"/>
+  </node>
+  <node id="-2836" visible="true" lat="44.61386202" lon="-73.08265922">
+    <!-- multiple: "313 Hardscrabble Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="313"/>
+    <tag k="addr:street" v="Hardscrabble Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="161011"/>
+  </node>
+  <node id="-2987" visible="true" lat="44.63448437" lon="-73.10961824">
+    <!-- multiple: "13 Herrick Avenue, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Herrick Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="161166"/>
+  </node>
   <node id="-3000" visible="true" lat="44.63252647" lon="-73.10986773">
     <!-- multiple: "42 Herrick Avenue, Milton, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Milton"/>
@@ -40,13 +192,101 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="161179"/>
   </node>
-  <node id="-3030" visible="true" lat="44.63985485" lon="-73.11022663">
-    <!-- multiple: "26 Main Street, Milton, VT" Multiple exact matches in OSM. -->
+  <node id="-3109" visible="true" lat="44.64185109" lon="-73.10853667">
+    <!-- multiple: "36 Maplewood Avenue, Milton, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Milton"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Maplewood Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="161209"/>
+    <tag k="ref:vcgi:esiteid" v="161290"/>
+  </node>
+  <node id="-3444" visible="true" lat="44.6093147" lon="-73.15945652">
+    <!-- multiple: "37 Precast Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Precast Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="161653"/>
+  </node>
+  <node id="-3474" visible="true" lat="44.63128299" lon="-73.11962194">
+    <!-- multiple: "39 Lamoille Terrace, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Lamoille Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="161724"/>
+  </node>
+  <node id="-4010" visible="true" lat="44.6768188" lon="-73.20918965">
+    <!-- multiple: "365 Eagle Mountain Harbor Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162414"/>
+  </node>
+  <node id="-4011" visible="true" lat="44.67699158" lon="-73.20872462">
+    <!-- multiple: "365 Eagle Mountain Harbor Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162415"/>
+  </node>
+  <node id="-4012" visible="true" lat="44.67754662" lon="-73.20963048">
+    <!-- multiple: "365 Eagle Mountain Harbor Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162416"/>
+  </node>
+  <node id="-4013" visible="true" lat="44.67720699" lon="-73.20935765">
+    <!-- multiple: "365 Eagle Mountain Harbor Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162417"/>
+  </node>
+  <node id="-4015" visible="true" lat="44.67741846" lon="-73.20961906">
+    <!-- multiple: "365 Eagle Mountain Harbor Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162419"/>
+  </node>
+  <node id="-4016" visible="true" lat="44.67738255" lon="-73.20989543">
+    <!-- multiple: "365 Eagle Mountain Harbor Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162420"/>
+  </node>
+  <node id="-4017" visible="true" lat="44.67747971" lon="-73.20994634">
+    <!-- multiple: "365 Eagle Mountain Harbor Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162421"/>
+  </node>
+  <node id="-4142" visible="true" lat="44.6322227" lon="-73.14800179">
+    <!-- multiple: "67 West Milton Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="West Milton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162564"/>
+  </node>
+  <node id="-4163" visible="true" lat="44.62333785" lon="-73.11877915">
+    <!-- multiple: "214 U.S. Route 7 South, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="214"/>
+    <tag k="addr:street" v="U.S. Route 7 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162588"/>
   </node>
   <node id="-4245" visible="true" lat="44.62491033" lon="-73.11953687">
     <!-- multiple: "199 U.S. Route 7 South, Milton, VT" Multiple exact matches in OSM. -->
@@ -79,5 +319,21 @@
     <tag k="addr:street" v="Southerberry Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451299"/>
+  </node>
+  <node id="-4791" visible="true" lat="44.62303152" lon="-73.11881142">
+    <!-- multiple: "13 Middle Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Middle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753973"/>
+  </node>
+  <node id="-4959" visible="true" lat="44.69714207" lon="-73.18870598">
+    <!-- multiple: "105 Beebe Hill Road, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:street" v="Beebe Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759930"/>
   </node>
 </osm>

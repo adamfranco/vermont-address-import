@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-400" visible="true" lat="44.37334859" lon="-72.54794862">
+    <!-- multiple: "24 Calais Road, Worcester, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Calais Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304560"/>
+  </node>
 </osm>

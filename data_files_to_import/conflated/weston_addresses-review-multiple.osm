@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-377" visible="true" lat="43.29309672" lon="-72.79047776">
-    <!-- multiple: "703 Main Street, Weston, VT" Multiple exact matches in OSM. -->
+  <node id="-223" visible="true" lat="43.31319811" lon="-72.79432635">
+    <!-- multiple: "354 Lawrence Hill Road, Weston, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="703"/>
+    <tag k="addr:housenumber" v="354"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284699"/>
+  </node>
+  <node id="-417" visible="true" lat="43.29097364" lon="-72.79318259">
+    <!-- multiple: "660 Main Street, Weston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="660"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284863"/>
+    <tag k="ref:vcgi:esiteid" v="284905"/>
   </node>
 </osm>

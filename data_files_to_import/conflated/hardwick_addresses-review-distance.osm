@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-927" visible="true" lat="44.5033417" lon="-72.3681882">
-    <!-- offset: "135 South Main Street, , VT" Significant offset - 122.1m -->
-    <tag k="addr:housenumber" v="135"/>
-    <tag k="addr:street" v="South Main Street"/>
+  <node id="-1620" visible="true" lat="44.47789956" lon="-72.35882564">
+    <!-- offset: "1144 Mackville Road, , VT" Significant offset - 104.7m -->
+    <tag k="addr:housenumber" v="1144"/>
+    <tag k="addr:street" v="Mackville Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="119510"/>
+    <tag k="ref:vcgi:esiteid" v="754077"/>
+  </node>
+  <node id="-1621" visible="true" lat="44.47744611" lon="-72.35871161">
+    <!-- offset: "1150 Mackville Road, , VT" Significant offset - 544.1m -->
+    <tag k="addr:housenumber" v="1150"/>
+    <tag k="addr:street" v="Mackville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754080"/>
   </node>
 </osm>

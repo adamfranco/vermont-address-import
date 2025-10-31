@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1005" visible="true" lat="43.05220613" lon="-72.79820311">
-    <!-- multiple: "501 Melis Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="501"/>
-    <tag k="addr:street" v="Melis Road"/>
+  <node id="-491" visible="true" lat="43.10563251" lon="-72.77330001">
+    <!-- multiple: "48 Salmon Hole Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Salmon Hole Lane"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="135418"/>
+    <tag k="ref:vcgi:esiteid" v="134887"/>
+  </node>
+  <node id="-1078" visible="true" lat="43.15951035" lon="-72.84154795">
+    <!-- multiple: "244 Bobcat Run, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:street" v="Bobcat Run"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135493"/>
+  </node>
+  <node id="-1213" visible="true" lat="43.14587711" lon="-72.83876569">
+    <!-- multiple: "8701 Vermont Route 30, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="8701"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="453117"/>
+  </node>
+  <node id="-1222" visible="true" lat="43.06337549" lon="-72.86819048">
+    <!-- multiple: "230 West Jamaica Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:street" v="West Jamaica Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="616419"/>
+  </node>
+  <node id="-1691" visible="true" lat="43.1503564" lon="-72.80384612">
+    <!-- multiple: "15 Hughes Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Hughes Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760789"/>
   </node>
 </osm>

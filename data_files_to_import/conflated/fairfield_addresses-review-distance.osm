@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1057" visible="true" lat="44.86248449" lon="-73.00148778">
-    <!-- offset: "3706 Pond Road, , VT" Significant offset - 167.8m -->
-    <tag k="addr:housenumber" v="3706"/>
-    <tag k="addr:street" v="Pond Road"/>
+  <node id="-612" visible="true" lat="44.78836059" lon="-72.95442199">
+    <!-- offset: "1012 South Road, , VT" Significant offset - 116.3m -->
+    <tag k="addr:housenumber" v="1012"/>
+    <tag k="addr:street" v="South Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="365058"/>
+    <tag k="ref:vcgi:esiteid" v="104993"/>
+  </node>
+  <node id="-850" visible="true" lat="44.79358275" lon="-73.02090744">
+    <!-- offset: "130 Kane Road, , VT" Significant offset - 155.9m -->
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Kane Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="243790"/>
+  </node>
+  <node id="-987" visible="true" lat="44.80394666" lon="-72.93627017">
+    <!-- offset: "4883 Vermont Route 36, , VT" Significant offset - 100.6m -->
+    <tag k="addr:housenumber" v="4883"/>
+    <tag k="addr:street" v="Vermont Route 36"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333437"/>
   </node>
 </osm>

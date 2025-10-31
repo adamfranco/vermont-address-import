@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-122" visible="true" lat="42.93180184" lon="-73.20001415">
+    <!-- offset: "498 Town Line Road, , VT" Significant offset - 248.8m -->
+    <tag k="addr:housenumber" v="498"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="15983"/>
+  </node>
+  <node id="-253" visible="true" lat="42.92324868" lon="-73.18485892">
+    <!-- offset: "2063 East Road, , VT" Significant offset - 4267.1m -->
+    <tag k="addr:housenumber" v="2063"/>
+    <tag k="addr:street" v="East Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="16129"/>
+  </node>
+  <node id="-257" visible="true" lat="42.9228363" lon="-73.18587493">
+    <!-- offset: "2040 East Road, , VT" Significant offset - 4279.7m -->
+    <tag k="addr:housenumber" v="2040"/>
+    <tag k="addr:street" v="East Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="16133"/>
+  </node>
   <node id="-421" visible="true" lat="42.91657376" lon="-73.20939711">
     <!-- offset: "82 Transport Drive, , VT" Significant offset - 221.1m -->
     <tag k="addr:housenumber" v="82"/>
@@ -14,25 +35,165 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="16832"/>
   </node>
-  <node id="-903" visible="true" lat="42.89879448" lon="-73.20968851">
-    <!-- offset: "210 Northside Drive, , VT" Significant offset - 274.9m -->
-    <tag k="addr:housenumber" v="210"/>
-    <tag k="addr:street" v="Northside Drive"/>
+  <node id="-3048" visible="true" lat="42.87825744" lon="-73.20618075">
+    <!-- offset: "335 Elm Street, , VT" Significant offset - 7374m -->
+    <tag k="addr:housenumber" v="335"/>
+    <tag k="addr:street" v="Elm Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16879"/>
+    <tag k="ref:vcgi:esiteid" v="19291"/>
   </node>
-  <node id="-3984" visible="true" lat="42.8730864" lon="-73.26024438">
-    <!-- offset: "313 Pleasant Valley Road, , VT" Significant offset - 146.8m -->
-    <tag k="addr:housenumber" v="313"/>
-    <tag k="addr:street" v="Pleasant Valley Road"/>
+  <node id="-3174" visible="true" lat="42.8777819" lon="-73.20390534">
+    <!-- offset: "307 Elm Street, , VT" Significant offset - 7471.4m -->
+    <tag k="addr:housenumber" v="307"/>
+    <tag k="addr:street" v="Elm Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="20300"/>
+    <tag k="ref:vcgi:esiteid" v="19427"/>
   </node>
-  <node id="-5922" visible="true" lat="42.91218733" lon="-73.21852949">
+  <node id="-3189" visible="true" lat="42.87785819" lon="-73.16798168">
+    <!-- offset: "4 Center Street, , VT" Significant offset - 9486.1m -->
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Center Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="19443"/>
+  </node>
+  <node id="-3640" visible="true" lat="42.87554968" lon="-73.19670823">
+    <!-- offset: "102 Grandview Street, , VT" Significant offset - 7623.9m -->
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Grandview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="19932"/>
+  </node>
+  <node id="-3754" visible="true" lat="42.87502244" lon="-73.19560348">
+    <!-- offset: "115 Grandview Street, , VT" Significant offset - 7765.6m -->
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Grandview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20055"/>
+  </node>
+  <node id="-3807" visible="true" lat="42.87471338" lon="-73.19315438">
+    <!-- offset: "211 Grandview Street, , VT" Significant offset - 8029.4m -->
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:street" v="Grandview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20114"/>
+  </node>
+  <node id="-4312" visible="true" lat="42.8703148" lon="-73.19304681">
+    <!-- offset: "161 Pine Circle, , VT" Significant offset - 6763.5m -->
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="addr:street" v="Pine Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20663"/>
+  </node>
+  <node id="-4402" visible="true" lat="42.86928415" lon="-73.19474409">
+    <!-- offset: "130 Pine Circle, , VT" Significant offset - 6680.3m -->
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Pine Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20764"/>
+  </node>
+  <node id="-4414" visible="true" lat="42.86915734" lon="-73.19537403">
+    <!-- offset: "131 Pine Circle, , VT" Significant offset - 6647.4m -->
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Pine Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20777"/>
+  </node>
+  <node id="-4439" visible="true" lat="42.86875302" lon="-73.19448699">
+    <!-- offset: "141 Pine Circle, , VT" Significant offset - 6600.9m -->
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Pine Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="20806"/>
+  </node>
+  <node id="-4677" visible="true" lat="42.85596728" lon="-73.18604844">
+    <!-- offset: "1025 Middle Pownal Road, , VT" Significant offset - 5456.5m -->
+    <tag k="addr:housenumber" v="1025"/>
+    <tag k="addr:street" v="Middle Pownal Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="21053"/>
+  </node>
+  <node id="-5002" visible="true" lat="42.88608492" lon="-73.20834617">
+    <!-- offset: "20 Eastview Drive, , VT" Significant offset - 8006.1m -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Eastview Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="21403"/>
+  </node>
+  <node id="-5066" visible="true" lat="42.84275262" lon="-73.20127233">
+    <!-- offset: "1803 U.S. Route 7 South, , VT" Significant offset - 742.5m -->
+    <tag k="addr:housenumber" v="1803"/>
+    <tag k="addr:street" v="U.S. Route 7 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313924"/>
+  </node>
+  <node id="-5472" visible="true" lat="42.8822028" lon="-73.20052386">
+    <!-- offset: "122 River Street, , VT" Significant offset - 119.8m -->
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317923"/>
+  </node>
+  <node id="-5570" visible="true" lat="42.87874393" lon="-73.202113">
+    <!-- offset: "103 Grant Street, , VT" Significant offset - 7331.6m -->
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:street" v="Grant Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336116"/>
+  </node>
+  <node id="-5577" visible="true" lat="42.87550121" lon="-73.19579313">
+    <!-- offset: "114 Grandview Street, , VT" Significant offset - 7683.9m -->
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Grandview Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336123"/>
+  </node>
+  <node id="-5592" visible="true" lat="42.87014177" lon="-73.15167222">
+    <!-- offset: "1474 Burgess Road, , VT" Significant offset - 512.8m -->
+    <tag k="addr:housenumber" v="1474"/>
+    <tag k="addr:street" v="Burgess Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336371"/>
+  </node>
+  <node id="-5661" visible="true" lat="42.8386305" lon="-73.17579176">
+    <!-- offset: "224 Niles Road, , VT" Significant offset - 225.8m -->
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Niles Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341543"/>
+  </node>
+  <node id="-5755" visible="true" lat="42.90382718" lon="-73.20426867">
+    <!-- offset: "100 Vermont Route 279 East, , VT" Significant offset - 411m -->
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Vermont Route 279 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="447415"/>
+  </node>
+  <node id="-5816" visible="true" lat="42.86713654" lon="-73.25401361">
+    <!-- offset: "428 Horst Road, , VT" Significant offset - 210m -->
+    <tag k="addr:housenumber" v="428"/>
+    <tag k="addr:street" v="Horst Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455071"/>
+  </node>
+  <node id="-5928" visible="true" lat="42.91218733" lon="-73.21852949">
     <!-- offset: "400 Rice Lane, , VT" Significant offset - 108.4m -->
     <tag k="addr:housenumber" v="400"/>
     <tag k="addr:street" v="Rice Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756048"/>
+  </node>
+  <node id="-5945" visible="true" lat="42.93213764" lon="-73.22413176">
+    <!-- offset: "720 Lake Drive, , VT" Significant offset - 126.6m -->
+    <tag k="addr:housenumber" v="720"/>
+    <tag k="addr:street" v="Lake Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758127"/>
+  </node>
+  <node id="-6045" visible="true" lat="42.89514919" lon="-73.17826017">
+    <!-- offset: "401 Chapel Road, , VT" Significant offset - 165.9m -->
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:street" v="Chapel Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771874"/>
   </node>
 </osm>

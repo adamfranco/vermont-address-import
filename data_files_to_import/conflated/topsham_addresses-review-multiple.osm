@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-265" visible="true" lat="44.12983655" lon="-72.24356839">
+    <!-- multiple: "87 Powder Spring Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Powder Spring Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260421"/>
+  </node>
+  <node id="-848" visible="true" lat="44.15959028" lon="-72.31152849">
+    <!-- multiple: "159 U.S. Route 302, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="159"/>
+    <tag k="addr:street" v="U.S. Route 302"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617825"/>
+  </node>
 </osm>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-326" visible="true" lat="44.42503588" lon="-73.0206867">
+    <!-- multiple: "2258 West Main Street, Richmond, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="2258"/>
+    <tag k="addr:street" v="West Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="200394"/>
+  </node>
   <node id="-617" visible="true" lat="44.40518542" lon="-72.99332725">
     <!-- multiple: "13 West Main Street, Richmond, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Richmond"/>
@@ -8,6 +16,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="200715"/>
   </node>
+  <node id="-710" visible="true" lat="44.40341949" lon="-72.99459075">
+    <!-- multiple: "151 Bridge Street, Richmond, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="200818"/>
+  </node>
   <node id="-824" visible="true" lat="44.39895155" lon="-73.00157115">
     <!-- multiple: "83 Huntington Road, Richmond, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Richmond"/>
@@ -15,13 +31,5 @@
     <tag k="addr:street" v="Huntington Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="200942"/>
-  </node>
-  <node id="-1854" visible="true" lat="44.41264113" lon="-72.99880819">
-    <!-- multiple: "650 West Main Street, Richmond, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Richmond"/>
-    <tag k="addr:housenumber" v="650"/>
-    <tag k="addr:street" v="West Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617519"/>
   </node>
 </osm>

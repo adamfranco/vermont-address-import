@@ -1,31 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-244" visible="true" lat="44.25664152" lon="-73.22874845">
-    <!-- conflict: "9 Swan Lane, , VT" No match in OSM, but a different address exists <5m away: "6821 Route 7, North Ferrisburgh, VT" -->
-    <tag k="addr:housenumber" v="9"/>
+  <node id="-102" visible="true" lat="44.1654032" lon="-73.3572742">
+    <!-- conflict: "276 Spencer Farm Road, , VT" No match in OSM, but a different address exists <5m away: "672 Spencer Farm Road, , VT" -->
+    <tag k="addr:housenumber" v="276"/>
+    <tag k="addr:street" v="Spencer Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2832"/>
+  </node>
+  <node id="-104" visible="true" lat="44.16467273" lon="-73.35789396">
+    <!-- conflict: "340 Spencer Farm Road, , VT" No match in OSM, but a different address exists <5m away: "804 Spencer Farm Road, , VT" -->
+    <tag k="addr:housenumber" v="340"/>
+    <tag k="addr:street" v="Spencer Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3037"/>
+  </node>
+  <node id="-225" visible="true" lat="44.25731083" lon="-73.22998131">
+    <!-- conflict: "95 Swan Lane, , VT" No match in OSM, but a different address exists <5m away: "6829 U.S. Route 7, , VT" -->
+    <tag k="addr:housenumber" v="95"/>
     <tag k="addr:street" v="Swan Lane"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="106983"/>
+    <tag k="ref:vcgi:esiteid" v="106963"/>
   </node>
-  <node id="-313" visible="true" lat="44.25468342" lon="-73.22729594">
-    <!-- conflict: "6656 U.S. Route 7, , VT" No match in OSM, but a different address exists <5m away: " Ethan Allen Highway, , " -->
-    <tag k="addr:housenumber" v="6656"/>
-    <tag k="addr:street" v="U.S. Route 7"/>
+  <node id="-1729" visible="true" lat="44.22197341" lon="-73.18848095">
+    <!-- conflict: "35 Wilderness Way, , VT" No match in OSM, but a different address exists <5m away: "521 Echo Road, , VT" -->
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Wilderness Way"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="107052"/>
+    <tag k="ref:vcgi:esiteid" v="342154"/>
   </node>
-  <node id="-1612" visible="true" lat="44.24343528" lon="-73.23039945">
-    <!-- conflict: "5801 U.S. Route 7, , VT" No match in OSM, but a different address exists <5m away: "5797 Rt 7, Ferrisburgh, VT" -->
-    <tag k="addr:housenumber" v="5801"/>
-    <tag k="addr:street" v="U.S. Route 7"/>
+  <node id="-1745" visible="true" lat="44.24427448" lon="-73.23917368">
+    <!-- conflict: "737 Quaker Street, , VT" No match in OSM, but a different address exists <5m away: "741 Quaker Street, , VT" -->
+    <tag k="addr:housenumber" v="737"/>
+    <tag k="addr:street" v="Quaker Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="108401"/>
-  </node>
-  <node id="-1628" visible="true" lat="44.16147247" lon="-73.21859577">
-    <!-- conflict: "44 Bedford Road, , VT" No match in OSM, but a different address exists <5m away: "45 Bedford Road, Ferrisburgh, VT" -->
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Bedford Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="108418"/>
+    <tag k="ref:vcgi:esiteid" v="449630"/>
   </node>
 </osm>

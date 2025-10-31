@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-223" visible="true" lat="44.67045092" lon="-71.97653489">
+    <!-- multiple: "3787 Sugarhouse Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3787"/>
+    <tag k="addr:street" v="Sugarhouse Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="254449"/>
+  </node>
+  <node id="-230" visible="true" lat="44.66827216" lon="-72.02670888">
+    <!-- multiple: "2987 U.S. Route 5, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2987"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="254456"/>
+  </node>
+  <node id="-321" visible="true" lat="44.64685051" lon="-72.07445243">
+    <!-- multiple: "474 Union House Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="474"/>
+    <tag k="addr:street" v="Union House Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="254549"/>
+  </node>
   <node id="-365" visible="true" lat="44.63359432" lon="-72.02792425">
     <!-- multiple: "95 Underpass Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="95"/>
     <tag k="addr:street" v="Underpass Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="254596"/>
+  </node>
+  <node id="-628" visible="true" lat="44.74107869" lon="-72.09856268">
+    <!-- multiple: "319 Stevens Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:street" v="Stevens Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758785"/>
+  </node>
+  <node id="-653" visible="true" lat="44.65039501" lon="-72.07562237">
+    <!-- multiple: "722 Union House Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="722"/>
+    <tag k="addr:street" v="Union House Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764040"/>
+  </node>
+  <node id="-668" visible="true" lat="44.64270865" lon="-72.07272359">
+    <!-- multiple: "169 Union House Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="Union House Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767643"/>
   </node>
 </osm>

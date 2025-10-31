@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-648" visible="true" lat="43.07225058" lon="-73.15542526">
+    <!-- multiple: "3713 Vermont Route 7A, Arlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="3713"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4241"/>
+  </node>
+  <node id="-764" visible="true" lat="43.06616937" lon="-73.15365909">
+    <!-- multiple: "504 East Arlington Road, Arlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="504"/>
+    <tag k="addr:street" v="East Arlington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4366"/>
+  </node>
+  <node id="-769" visible="true" lat="43.06560897" lon="-73.15130615">
+    <!-- multiple: "529 East Arlington Road, Arlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="529"/>
+    <tag k="addr:street" v="East Arlington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4372"/>
+  </node>
 </osm>

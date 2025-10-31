@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-875" visible="true" lat="43.87899579" lon="-72.81277636">
+    <!-- offset: "210 Beans Bridge Road, Rochester, VT" Significant offset - 252.1m -->
+    <tag k="addr:city" v="Rochester"/>
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:street" v="Beans Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="202989"/>
+  </node>
+  <node id="-962" visible="true" lat="43.83250515" lon="-72.96031043">
+    <!-- offset: "3357 Gap Road, Rochester, VT" Significant offset - 171.4m -->
+    <tag k="addr:city" v="Rochester"/>
+    <tag k="addr:housenumber" v="3357"/>
+    <tag k="addr:street" v="Gap Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450369"/>
+  </node>
 </osm>

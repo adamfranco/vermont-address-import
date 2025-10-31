@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-791" visible="true" lat="43.52763337" lon="-72.94534875">
-    <!-- offset: "1002 Airport Road, Clarendon, VT" Significant offset - 134.2m -->
+  <node id="-104" visible="true" lat="43.57325742" lon="-72.9494634">
+    <!-- offset: "1356 Cold River Road, Clarendon, VT" Significant offset - 102.6m -->
     <tag k="addr:city" v="Clarendon"/>
-    <tag k="addr:housenumber" v="1002"/>
-    <tag k="addr:street" v="Airport Road"/>
+    <tag k="addr:housenumber" v="1356"/>
+    <tag k="addr:street" v="Cold River Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="68939"/>
+    <tag k="ref:vcgi:esiteid" v="68209"/>
+  </node>
+  <node id="-1351" visible="true" lat="43.48567356" lon="-72.95358405">
+    <!-- offset: "51 East Street, Clarendon, VT" Significant offset - 145.4m -->
+    <tag k="addr:city" v="Clarendon"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="East Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655958"/>
+  </node>
+  <node id="-1352" visible="true" lat="43.48574248" lon="-72.95452165">
+    <!-- offset: "53 East Street, Clarendon, VT" Significant offset - 132.5m -->
+    <tag k="addr:city" v="Clarendon"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="East Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655959"/>
+  </node>
+  <node id="-1354" visible="true" lat="43.56533916" lon="-72.97399968">
+    <!-- offset: "3665 Middle Road, Clarendon, VT" Significant offset - 141.7m -->
+    <tag k="addr:city" v="Clarendon"/>
+    <tag k="addr:housenumber" v="3665"/>
+    <tag k="addr:street" v="Middle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655991"/>
+  </node>
+  <node id="-1397" visible="true" lat="43.55744041" lon="-73.03452359">
+    <!-- offset: "300 Vermont Route 133, Clarendon, VT" Significant offset - 258.7m -->
+    <tag k="addr:city" v="Clarendon"/>
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="Vermont Route 133"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767966"/>
   </node>
 </osm>

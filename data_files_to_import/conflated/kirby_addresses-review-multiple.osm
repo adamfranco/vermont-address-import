@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-288" visible="true" lat="44.47221372" lon="-71.94803049">
+    <!-- multiple: "54 Hollow View Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Hollow View Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="139120"/>
+  </node>
+  <node id="-411" visible="true" lat="44.56842834" lon="-71.9183963">
+    <!-- multiple: "360 Brindle Terrace, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="360"/>
+    <tag k="addr:street" v="Brindle Terrace"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767619"/>
+  </node>
 </osm>

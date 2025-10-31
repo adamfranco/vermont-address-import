@@ -322,7 +322,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="201851"/>
   </node>
-  <node id="-146" visible="true" lat="44.00396212" lon="-73.03718481">
+  <node id="-146" visible="true" lat="44.00395315" lon="-73.03718265">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2050"/>
     <tag k="addr:street" v="North Branch Road"/>
@@ -1295,6 +1295,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="201993"/>
   </node>
+  <node id="-286" visible="true" lat="43.97515803" lon="-73.03667332">
+    <tag k="addr:city" v="Ripton"/>
+    <tag k="addr:housenumber" v="1311"/>
+    <tag k="addr:street" v="Vermont Route 125"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="201994"/>
+  </node>
+  <node id="-287" visible="true" lat="43.97507944" lon="-73.03713804">
+    <tag k="addr:city" v="Ripton"/>
+    <tag k="addr:housenumber" v="1283"/>
+    <tag k="addr:street" v="Vermont Route 125"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="201995"/>
+  </node>
   <node id="-288" visible="true" lat="43.97509929" lon="-73.03628388">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1329"/>
@@ -1456,6 +1470,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202021"/>
   </node>
+  <node id="-311" visible="true" lat="43.97439875" lon="-73.03432394">
+    <tag k="addr:city" v="Ripton"/>
+    <tag k="addr:housenumber" v="1439"/>
+    <tag k="addr:street" v="Vermont Route 125"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="202022"/>
+  </node>
   <node id="-313" visible="true" lat="43.97419202" lon="-73.04056006">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1089"/>
@@ -1483,6 +1504,13 @@
     <tag k="addr:street" v="Wagon Wheel Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202027"/>
+  </node>
+  <node id="-317" visible="true" lat="43.97407944" lon="-73.03447701">
+    <tag k="addr:city" v="Ripton"/>
+    <tag k="addr:housenumber" v="1446"/>
+    <tag k="addr:street" v="Vermont Route 125"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="202028"/>
   </node>
   <node id="-318" visible="true" lat="43.9739433" lon="-73.03916535">
     <tag k="addr:city" v="Ripton"/>
@@ -1575,12 +1603,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202041"/>
   </node>
+  <node id="-331" visible="true" lat="43.97269142" lon="-73.03177136">
+    <tag k="addr:city" v="Ripton"/>
+    <tag k="addr:housenumber" v="1583"/>
+    <tag k="addr:street" v="Vermont Route 125"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="202042"/>
+  </node>
   <node id="-332" visible="true" lat="43.97235852" lon="-73.02652304">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="643"/>
     <tag k="addr:street" v="Maiden Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202043"/>
+  </node>
+  <node id="-333" visible="true" lat="43.97225689" lon="-73.0314411">
+    <tag k="addr:city" v="Ripton"/>
+    <tag k="addr:housenumber" v="1613"/>
+    <tag k="addr:street" v="Vermont Route 125"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="202044"/>
   </node>
   <node id="-334" visible="true" lat="43.97217214" lon="-73.02563197">
     <tag k="addr:city" v="Ripton"/>
@@ -1925,973 +1967,987 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202096"/>
   </node>
-  <node id="-383" visible="true" lat="43.95447789" lon="-72.99202831">
-    <tag k="addr:city" v="Ripton"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="College Inn Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202098"/>
-  </node>
-  <node id="-384" visible="true" lat="43.95422745" lon="-73.02425384">
+  <node id="-383" visible="true" lat="43.95422745" lon="-73.02425384">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="80"/>
     <tag k="addr:street" v="Silver Towers Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202100"/>
   </node>
-  <node id="-385" visible="true" lat="43.95440392" lon="-72.99206117">
+  <node id="-384" visible="true" lat="43.95440392" lon="-72.99206117">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="79"/>
     <tag k="addr:street" v="College Cross Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202101"/>
   </node>
-  <node id="-386" visible="true" lat="43.95423886" lon="-73.02472457">
+  <node id="-385" visible="true" lat="43.95423886" lon="-73.02472457">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="67"/>
     <tag k="addr:street" v="Silver Towers Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202102"/>
   </node>
-  <node id="-387" visible="true" lat="43.95434686" lon="-72.99331369">
+  <node id="-386" visible="true" lat="43.95434686" lon="-72.99331369">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="College Inn Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202103"/>
   </node>
-  <node id="-388" visible="true" lat="43.9540081" lon="-73.02539822">
+  <node id="-387" visible="true" lat="43.9540081" lon="-73.02539822">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Silver Towers Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202105"/>
   </node>
-  <node id="-389" visible="true" lat="43.95389959" lon="-73.02449638">
+  <node id="-388" visible="true" lat="43.95389959" lon="-73.02449638">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Silver Towers Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202106"/>
   </node>
-  <node id="-390" visible="true" lat="43.95402012" lon="-72.99468693">
+  <node id="-389" visible="true" lat="43.95402012" lon="-72.99468693">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4166"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202107"/>
   </node>
-  <node id="-391" visible="true" lat="43.9540219" lon="-72.99244314">
+  <node id="-390" visible="true" lat="43.9540219" lon="-72.99244314">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="College Cross Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202108"/>
   </node>
-  <node id="-392" visible="true" lat="43.95392303" lon="-72.99438027">
+  <node id="-391" visible="true" lat="43.95392303" lon="-72.99438027">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4180"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202109"/>
   </node>
-  <node id="-393" visible="true" lat="43.95383643" lon="-73.02515542">
+  <node id="-392" visible="true" lat="43.95383643" lon="-73.02515542">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Silver Towers Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202110"/>
   </node>
-  <node id="-394" visible="true" lat="43.95388794" lon="-72.99328613">
+  <node id="-393" visible="true" lat="43.95388794" lon="-72.99328613">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4229"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202111"/>
   </node>
-  <node id="-395" visible="true" lat="43.95394293" lon="-72.9790897">
+  <node id="-394" visible="true" lat="43.95394293" lon="-72.9790897">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="446"/>
     <tag k="addr:street" v="Deacon Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202112"/>
   </node>
-  <node id="-396" visible="true" lat="43.95365547" lon="-72.99274834">
+  <node id="-395" visible="true" lat="43.95365547" lon="-72.99274834">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4265"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202113"/>
   </node>
-  <node id="-397" visible="true" lat="43.95343765" lon="-72.99233754">
+  <node id="-396" visible="true" lat="43.95343765" lon="-72.99233754">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4289"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202114"/>
   </node>
-  <node id="-398" visible="true" lat="43.95329713" lon="-72.99305173">
+  <node id="-397" visible="true" lat="43.95329713" lon="-72.99305173">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4260"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202115"/>
   </node>
-  <node id="-399" visible="true" lat="43.95327642" lon="-72.99191851">
+  <node id="-398" visible="true" lat="43.95327642" lon="-72.99191851">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4311"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202116"/>
   </node>
-  <node id="-400" visible="true" lat="43.95318708" lon="-72.99280668">
+  <node id="-399" visible="true" lat="43.95318708" lon="-72.99280668">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4274"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202117"/>
   </node>
-  <node id="-401" visible="true" lat="43.9530503" lon="-72.99140811">
+  <node id="-400" visible="true" lat="43.9530503" lon="-72.99140811">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4343"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202118"/>
   </node>
-  <node id="-402" visible="true" lat="43.95285173" lon="-72.99249513">
+  <node id="-401" visible="true" lat="43.95285173" lon="-72.99249513">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4290"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202119"/>
   </node>
-  <node id="-403" visible="true" lat="43.9527638" lon="-72.98937015">
+  <node id="-402" visible="true" lat="43.9527638" lon="-72.98937015">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4453"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202121"/>
   </node>
-  <node id="-404" visible="true" lat="43.95258331" lon="-72.99182891">
+  <node id="-403" visible="true" lat="43.95258331" lon="-72.99182891">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4344"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202122"/>
   </node>
-  <node id="-405" visible="true" lat="43.95231464" lon="-72.98912035">
+  <node id="-404" visible="true" lat="43.95231464" lon="-72.98912035">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4449"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202124"/>
   </node>
-  <node id="-406" visible="true" lat="43.95120439" lon="-72.97928019">
+  <node id="-405" visible="true" lat="43.95120439" lon="-72.97928019">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:street" v="Scott Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202125"/>
   </node>
-  <node id="-407" visible="true" lat="43.95103083" lon="-72.97424713">
+  <node id="-406" visible="true" lat="43.95103083" lon="-72.97424713">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="322"/>
     <tag k="addr:street" v="Scott Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202126"/>
   </node>
-  <node id="-408" visible="true" lat="43.95095019" lon="-72.97376561">
+  <node id="-407" visible="true" lat="43.95095019" lon="-72.97376561">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="348"/>
     <tag k="addr:street" v="Scott Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202127"/>
   </node>
-  <node id="-409" visible="true" lat="43.94963569" lon="-72.97124088">
+  <node id="-408" visible="true" lat="43.94963569" lon="-72.97124088">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="498"/>
     <tag k="addr:street" v="Scott Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202128"/>
   </node>
-  <node id="-410" visible="true" lat="43.94838805" lon="-72.98314756">
+  <node id="-409" visible="true" lat="43.94838805" lon="-72.98314756">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Brooks Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202129"/>
   </node>
-  <node id="-412" visible="true" lat="43.9457583" lon="-72.98500172">
+  <node id="-410" visible="true" lat="43.94704233" lon="-72.97955618">
+    <tag k="addr:city" v="Ripton"/>
+    <tag k="addr:housenumber" v="5041"/>
+    <tag k="addr:street" v="Vermont Route 125"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="202130"/>
+  </node>
+  <node id="-411" visible="true" lat="43.9457583" lon="-72.98500172">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="187"/>
     <tag k="addr:street" v="Brooks Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202131"/>
   </node>
-  <node id="-413" visible="true" lat="43.94468509" lon="-73.02215354">
+  <node id="-412" visible="true" lat="43.94468509" lon="-73.02215354">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="110"/>
     <tag k="addr:street" v="Old Goshen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202132"/>
   </node>
-  <node id="-414" visible="true" lat="43.94287109" lon="-73.02341461">
+  <node id="-413" visible="true" lat="43.94287109" lon="-73.02341461">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1620"/>
     <tag k="addr:street" v="Goshen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202133"/>
   </node>
-  <node id="-415" visible="true" lat="43.94202036" lon="-73.02279893">
+  <node id="-414" visible="true" lat="43.94202036" lon="-73.02279893">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1738"/>
     <tag k="addr:street" v="Goshen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202134"/>
   </node>
-  <node id="-416" visible="true" lat="43.94189585" lon="-73.02326272">
+  <node id="-415" visible="true" lat="43.94189585" lon="-73.02326272">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1740"/>
     <tag k="addr:street" v="Goshen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202135"/>
   </node>
-  <node id="-417" visible="true" lat="43.93265357" lon="-73.0197057">
+  <node id="-416" visible="true" lat="43.93265357" lon="-73.0197057">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2383"/>
     <tag k="addr:street" v="Goshen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202136"/>
   </node>
-  <node id="-419" visible="true" lat="43.98619937" lon="-73.03732699">
+  <node id="-417" visible="true" lat="43.94059577" lon="-72.97449853">
+    <tag k="addr:city" v="Ripton"/>
+    <tag k="addr:housenumber" v="5330"/>
+    <tag k="addr:street" v="Vermont Route 125"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="202137"/>
+  </node>
+  <node id="-418" visible="true" lat="43.98619937" lon="-73.03732699">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:street" v="Dugway Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202138"/>
   </node>
-  <node id="-420" visible="true" lat="44.03404731" lon="-73.00705742">
+  <node id="-419" visible="true" lat="44.03404731" lon="-73.00705742">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1465"/>
     <tag k="addr:street" v="Pearl Lee Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202139"/>
   </node>
-  <node id="-421" visible="true" lat="44.01045386" lon="-73.03155489">
+  <node id="-420" visible="true" lat="44.01045386" lon="-73.03155489">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2610"/>
     <tag k="addr:street" v="North Branch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202140"/>
   </node>
-  <node id="-422" visible="true" lat="44.0126963" lon="-73.03026644">
+  <node id="-421" visible="true" lat="44.0126963" lon="-73.03026644">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2805"/>
     <tag k="addr:street" v="North Branch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202141"/>
   </node>
-  <node id="-423" visible="true" lat="44.01155168" lon="-73.03239829">
+  <node id="-422" visible="true" lat="44.01155168" lon="-73.03239829">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2645"/>
     <tag k="addr:street" v="North Branch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202142"/>
   </node>
-  <node id="-424" visible="true" lat="44.0089712" lon="-73.02379219">
+  <node id="-423" visible="true" lat="44.0089712" lon="-73.02379219">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2915"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202143"/>
   </node>
-  <node id="-425" visible="true" lat="43.98382261" lon="-73.05730139">
+  <node id="-424" visible="true" lat="43.98382261" lon="-73.05730139">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="195"/>
     <tag k="addr:street" v="North Branch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202144"/>
   </node>
-  <node id="-426" visible="true" lat="43.99195103" lon="-73.04601904">
+  <node id="-425" visible="true" lat="43.99195103" lon="-73.04601904">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1125"/>
     <tag k="addr:street" v="North Branch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202145"/>
   </node>
-  <node id="-427" visible="true" lat="43.99482353" lon="-73.05010004">
+  <node id="-426" visible="true" lat="43.99482353" lon="-73.05010004">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="299"/>
     <tag k="addr:street" v="County Cross Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202146"/>
   </node>
-  <node id="-428" visible="true" lat="43.99004513" lon="-73.05954861">
+  <node id="-427" visible="true" lat="43.99004513" lon="-73.05954861">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="594"/>
     <tag k="addr:street" v="Dragon Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202147"/>
   </node>
-  <node id="-429" visible="true" lat="43.98318089" lon="-73.03550505">
+  <node id="-428" visible="true" lat="43.98318089" lon="-73.03550505">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="634"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202148"/>
   </node>
-  <node id="-430" visible="true" lat="43.99188702" lon="-72.99338039">
+  <node id="-429" visible="true" lat="43.99188702" lon="-72.99338039">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2721"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202149"/>
   </node>
-  <node id="-431" visible="true" lat="43.98748255" lon="-72.99225994">
+  <node id="-430" visible="true" lat="43.98748255" lon="-72.99225994">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2710"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202150"/>
   </node>
-  <node id="-432" visible="true" lat="43.98487518" lon="-72.99551897">
+  <node id="-431" visible="true" lat="43.98487518" lon="-72.99551897">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="210"/>
     <tag k="addr:street" v="Elzira Winter Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202151"/>
   </node>
-  <node id="-433" visible="true" lat="43.98667375" lon="-72.99604512">
+  <node id="-432" visible="true" lat="43.98667375" lon="-72.99604512">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="289"/>
     <tag k="addr:street" v="Elzira Winter Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202153"/>
   </node>
-  <node id="-434" visible="true" lat="43.98792327" lon="-73.03411372">
+  <node id="-433" visible="true" lat="43.98792327" lon="-73.03411372">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1010"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202154"/>
   </node>
-  <node id="-435" visible="true" lat="43.98695783" lon="-73.03524789">
+  <node id="-434" visible="true" lat="43.98695783" lon="-73.03524789">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="898"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202155"/>
   </node>
-  <node id="-436" visible="true" lat="43.98106589" lon="-73.03757987">
+  <node id="-435" visible="true" lat="43.98106589" lon="-73.03757987">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="516"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202156"/>
   </node>
-  <node id="-437" visible="true" lat="43.99756839" lon="-73.01656637">
+  <node id="-436" visible="true" lat="43.99756839" lon="-73.01656637">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2000"/>
     <tag k="addr:street" v="Chandler Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202157"/>
   </node>
-  <node id="-438" visible="true" lat="43.99520786" lon="-73.01656008">
+  <node id="-437" visible="true" lat="43.99520786" lon="-73.01656008">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="433"/>
     <tag k="addr:street" v="Hemlock Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202158"/>
   </node>
-  <node id="-439" visible="true" lat="43.99527821" lon="-73.0204654">
+  <node id="-438" visible="true" lat="43.99527821" lon="-73.0204654">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="344"/>
     <tag k="addr:street" v="Hemlock Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202159"/>
   </node>
-  <node id="-440" visible="true" lat="43.99530205" lon="-73.02387877">
+  <node id="-439" visible="true" lat="43.99530205" lon="-73.02387877">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="162"/>
     <tag k="addr:street" v="Hemlock Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202161"/>
   </node>
-  <node id="-441" visible="true" lat="43.96390409" lon="-73.02238173">
+  <node id="-440" visible="true" lat="43.96390409" lon="-73.02238173">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:street" v="Maiden Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202162"/>
   </node>
-  <node id="-442" visible="true" lat="43.97539527" lon="-73.01573247">
+  <node id="-441" visible="true" lat="43.97539527" lon="-73.01573247">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="325"/>
     <tag k="addr:street" v="Wagon Wheel Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202163"/>
   </node>
-  <node id="-443" visible="true" lat="43.97296285" lon="-73.00971148">
+  <node id="-442" visible="true" lat="43.97296285" lon="-73.00971148">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="660"/>
     <tag k="addr:street" v="Wagon Wheel Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202164"/>
   </node>
-  <node id="-444" visible="true" lat="43.97125181" lon="-73.02762629">
+  <node id="-443" visible="true" lat="43.97125181" lon="-73.02762629">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="555"/>
     <tag k="addr:street" v="Maiden Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202165"/>
   </node>
-  <node id="-445" visible="true" lat="43.95724274" lon="-73.04446301">
+  <node id="-444" visible="true" lat="43.95724274" lon="-73.04446301">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1231"/>
     <tag k="addr:street" v="National Forest Road 92a"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202167"/>
   </node>
-  <node id="-446" visible="true" lat="43.95513308" lon="-73.03839358">
+  <node id="-445" visible="true" lat="43.95513308" lon="-73.03839358">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="850"/>
     <tag k="addr:street" v="National Forest Road 92a"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202168"/>
   </node>
-  <node id="-447" visible="true" lat="43.9561325" lon="-73.02621458">
+  <node id="-446" visible="true" lat="43.9561325" lon="-73.02621458">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="620"/>
     <tag k="addr:street" v="Goshen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202169"/>
   </node>
-  <node id="-448" visible="true" lat="43.96809492" lon="-73.03570686">
+  <node id="-447" visible="true" lat="43.96809492" lon="-73.03570686">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="180"/>
     <tag k="addr:street" v="Billings Old Town Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202171"/>
   </node>
-  <node id="-449" visible="true" lat="43.97313422" lon="-73.02907991">
+  <node id="-448" visible="true" lat="43.97313422" lon="-73.02907991">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="150"/>
     <tag k="addr:street" v="Wimett Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202172"/>
   </node>
-  <node id="-450" visible="true" lat="43.97192772" lon="-73.02841463">
+  <node id="-449" visible="true" lat="43.97192772" lon="-73.02841463">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="125"/>
     <tag k="addr:street" v="Wimett Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202173"/>
   </node>
-  <node id="-451" visible="true" lat="44.00230727" lon="-73.02844577">
+  <node id="-450" visible="true" lat="44.00230727" lon="-73.02844577">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="425"/>
     <tag k="addr:street" v="Fire Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202174"/>
   </node>
-  <node id="-452" visible="true" lat="43.97794251" lon="-73.02796532">
+  <node id="-451" visible="true" lat="43.97794251" lon="-73.02796532">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="143"/>
     <tag k="addr:street" v="Billings Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="202175"/>
   </node>
-  <node id="-453" visible="true" lat="43.97772852" lon="-73.03888633">
+  <node id="-452" visible="true" lat="43.97772852" lon="-73.03888633">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="220"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306502"/>
   </node>
-  <node id="-454" visible="true" lat="43.99008064" lon="-73.04208147">
+  <node id="-453" visible="true" lat="43.99008064" lon="-73.04208147">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="295"/>
     <tag k="addr:street" v="Deer Creek Run"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310930"/>
   </node>
-  <node id="-455" visible="true" lat="44.02880891" lon="-73.01891835">
+  <node id="-454" visible="true" lat="44.02880891" lon="-73.01891835">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4266"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="312287"/>
   </node>
-  <node id="-456" visible="true" lat="43.98340293" lon="-73.03331514">
+  <node id="-455" visible="true" lat="43.98340121" lon="-73.03331301">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="645"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="312288"/>
   </node>
-  <node id="-457" visible="true" lat="43.97376103" lon="-73.02719788">
+  <node id="-456" visible="true" lat="43.97376103" lon="-73.02719788">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:street" v="Wimett Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="317965"/>
   </node>
-  <node id="-458" visible="true" lat="43.97416312" lon="-73.03853722">
+  <node id="-457" visible="true" lat="43.97416312" lon="-73.03853722">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1194"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328199"/>
   </node>
-  <node id="-459" visible="true" lat="43.970741" lon="-73.02535456">
+  <node id="-458" visible="true" lat="43.970741" lon="-73.02535456">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="514"/>
     <tag k="addr:street" v="Maiden Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339055"/>
   </node>
-  <node id="-460" visible="true" lat="44.02748041" lon="-73.01951483">
+  <node id="-459" visible="true" lat="44.02748041" lon="-73.01951483">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4120"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339222"/>
   </node>
-  <node id="-461" visible="true" lat="43.94664051" lon="-72.98646638">
+  <node id="-460" visible="true" lat="43.94664051" lon="-72.98646638">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="208"/>
     <tag k="addr:street" v="Brooks Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339232"/>
   </node>
-  <node id="-462" visible="true" lat="43.94634625" lon="-72.98589692">
+  <node id="-461" visible="true" lat="43.94634437" lon="-72.98593434">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="218"/>
     <tag k="addr:street" v="Brooks Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339233"/>
   </node>
-  <node id="-463" visible="true" lat="43.97832267" lon="-72.98477556">
+  <node id="-462" visible="true" lat="43.97832267" lon="-72.98477556">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2195"/>
     <tag k="addr:street" v="Wagon Wheel Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="339914"/>
   </node>
-  <node id="-464" visible="true" lat="43.99650911" lon="-73.04866679">
+  <node id="-463" visible="true" lat="43.99650911" lon="-73.04866679">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="298"/>
     <tag k="addr:street" v="County Cross Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="340602"/>
   </node>
-  <node id="-465" visible="true" lat="43.95583226" lon="-72.99173072">
+  <node id="-464" visible="true" lat="43.95583226" lon="-72.99173072">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="194"/>
     <tag k="addr:street" v="College Cross Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341246"/>
   </node>
-  <node id="-466" visible="true" lat="44.0141887" lon="-73.02023103">
+  <node id="-465" visible="true" lat="44.0141887" lon="-73.02023103">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="3280"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343471"/>
   </node>
-  <node id="-467" visible="true" lat="43.97081477" lon="-73.02711306">
+  <node id="-466" visible="true" lat="43.97081477" lon="-73.02711306">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="551"/>
     <tag k="addr:street" v="Maiden Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343472"/>
   </node>
-  <node id="-468" visible="true" lat="43.97560894" lon="-73.03219595">
+  <node id="-467" visible="true" lat="43.97560723" lon="-73.03219382">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="166"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344043"/>
   </node>
-  <node id="-469" visible="true" lat="43.95392594" lon="-72.99279495">
+  <node id="-468" visible="true" lat="43.95388275" lon="-72.99287078">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:street" v="College Inn Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344056"/>
   </node>
-  <node id="-470" visible="true" lat="43.98655676" lon="-73.04740007">
+  <node id="-469" visible="true" lat="43.98655676" lon="-73.04740007">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="760"/>
     <tag k="addr:street" v="North Branch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365013"/>
   </node>
-  <node id="-471" visible="true" lat="44.00263218" lon="-73.03796552">
+  <node id="-470" visible="true" lat="44.00263218" lon="-73.03796552">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1968"/>
     <tag k="addr:street" v="North Branch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446762"/>
   </node>
-  <node id="-472" visible="true" lat="43.95572495" lon="-72.98953458">
+  <node id="-471" visible="true" lat="43.95572495" lon="-72.98953458">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="400"/>
     <tag k="addr:street" v="Steam Mill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446891"/>
   </node>
-  <node id="-473" visible="true" lat="43.99142878" lon="-72.98938601">
+  <node id="-472" visible="true" lat="43.99142878" lon="-72.98938601">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="3087"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="447072"/>
   </node>
-  <node id="-474" visible="true" lat="43.93947728" lon="-73.02136233">
+  <node id="-473" visible="true" lat="43.93947728" lon="-73.02136233">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1905"/>
     <tag k="addr:street" v="Goshen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450373"/>
   </node>
-  <node id="-475" visible="true" lat="43.95355763" lon="-73.02488612">
+  <node id="-474" visible="true" lat="43.95355763" lon="-73.02488612">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:street" v="Silver Towers Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450375"/>
   </node>
-  <node id="-476" visible="true" lat="43.95326555" lon="-73.02615691">
+  <node id="-475" visible="true" lat="43.95300978" lon="-73.02608132">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="812"/>
     <tag k="addr:street" v="Goshen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450377"/>
   </node>
-  <node id="-477" visible="true" lat="43.95471222" lon="-73.02629665">
+  <node id="-476" visible="true" lat="43.95471222" lon="-73.02629665">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="National Forest Road 92"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450380"/>
   </node>
-  <node id="-478" visible="true" lat="43.95602248" lon="-73.02578628">
+  <node id="-477" visible="true" lat="43.95602248" lon="-73.02578628">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="631"/>
     <tag k="addr:street" v="Goshen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450382"/>
   </node>
-  <node id="-479" visible="true" lat="43.9580354" lon="-73.00709134">
+  <node id="-478" visible="true" lat="43.9580354" lon="-73.00709134">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="3461"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450384"/>
   </node>
-  <node id="-480" visible="true" lat="43.95843018" lon="-73.01216698">
+  <node id="-479" visible="true" lat="43.95843018" lon="-73.01216698">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="3216"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450386"/>
   </node>
-  <node id="-481" visible="true" lat="43.95985956" lon="-72.9782265">
+  <node id="-480" visible="true" lat="43.95985956" lon="-72.9782265">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1062"/>
     <tag k="addr:street" v="Steam Mill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450392"/>
   </node>
-  <node id="-482" visible="true" lat="43.96002778" lon="-72.9781966">
+  <node id="-481" visible="true" lat="43.96002778" lon="-72.9781966">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1074"/>
     <tag k="addr:street" v="Steam Mill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450393"/>
   </node>
-  <node id="-483" visible="true" lat="43.99225332" lon="-72.96576901">
+  <node id="-482" visible="true" lat="43.99225332" lon="-72.96576901">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="3622"/>
     <tag k="addr:street" v="Steam Mill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450395"/>
   </node>
-  <node id="-484" visible="true" lat="43.9922399" lon="-72.96588573">
+  <node id="-483" visible="true" lat="43.9922399" lon="-72.96588573">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="3624"/>
     <tag k="addr:street" v="Steam Mill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450397"/>
   </node>
-  <node id="-488" visible="true" lat="43.9545029" lon="-72.9923418">
+  <node id="-486" visible="true" lat="44.00145302" lon="-72.93214336">
+    <tag k="addr:city" v="Ripton"/>
+    <tag k="addr:housenumber" v="342"/>
+    <tag k="addr:street" v="National Forest Road 55"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450408"/>
+  </node>
+  <node id="-487" visible="true" lat="43.9545029" lon="-72.9923418">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="71"/>
     <tag k="addr:street" v="College Inn Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453549"/>
   </node>
-  <node id="-489" visible="true" lat="43.99700937" lon="-73.01896357">
+  <node id="-488" visible="true" lat="43.99700937" lon="-73.01896357">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="391"/>
     <tag k="addr:street" v="Hemlock Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453779"/>
   </node>
-  <node id="-490" visible="true" lat="43.98796427" lon="-73.03865544">
+  <node id="-489" visible="true" lat="43.98796427" lon="-73.03865544">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="301"/>
     <tag k="addr:street" v="Dugway Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="618080"/>
   </node>
-  <node id="-491" visible="true" lat="44.02567464" lon="-72.95377909">
+  <node id="-490" visible="true" lat="44.02567464" lon="-72.95377909">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="704"/>
     <tag k="addr:street" v="Barrows Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="618081"/>
   </node>
-  <node id="-492" visible="true" lat="43.9996316" lon="-72.9810153">
+  <node id="-491" visible="true" lat="43.9996316" lon="-72.9810153">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="3890"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620432"/>
   </node>
-  <node id="-493" visible="true" lat="44.00396643" lon="-72.97250767">
+  <node id="-492" visible="true" lat="44.00396643" lon="-72.97250767">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="3892"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620433"/>
   </node>
-  <node id="-494" visible="true" lat="44.02476653" lon="-73.00873025">
+  <node id="-493" visible="true" lat="44.02476653" lon="-73.00873025">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="900"/>
     <tag k="addr:street" v="Pearl Lee Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620689"/>
   </node>
-  <node id="-496" visible="true" lat="43.98439165" lon="-73.0054982">
+  <node id="-495" visible="true" lat="43.9843859" lon="-73.00547577">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1969"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="655316"/>
   </node>
-  <node id="-497" visible="true" lat="43.96733368" lon="-73.03252848">
+  <node id="-496" visible="true" lat="43.96733368" lon="-73.03252848">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Billings Old Town Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751326"/>
   </node>
-  <node id="-498" visible="true" lat="44.02298174" lon="-72.97530535">
+  <node id="-497" visible="true" lat="44.02298174" lon="-72.97530535">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="405"/>
     <tag k="addr:street" v="Eagles Nest Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753107"/>
   </node>
-  <node id="-499" visible="true" lat="43.96674529" lon="-73.00456035">
+  <node id="-498" visible="true" lat="43.96674529" lon="-73.00456035">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="631"/>
     <tag k="addr:street" v="Frost Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754024"/>
   </node>
-  <node id="-500" visible="true" lat="43.96864862" lon="-72.99524821">
+  <node id="-499" visible="true" lat="43.96864862" lon="-72.99524821">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="530"/>
     <tag k="addr:street" v="Frost Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754025"/>
   </node>
-  <node id="-501" visible="true" lat="43.94568462" lon="-73.02340694">
+  <node id="-500" visible="true" lat="43.94568462" lon="-73.02340694">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="175"/>
     <tag k="addr:street" v="Old Goshen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757464"/>
   </node>
-  <node id="-502" visible="true" lat="43.94528808" lon="-73.02319848">
+  <node id="-501" visible="true" lat="43.94528808" lon="-73.02319848">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="145"/>
     <tag k="addr:street" v="Old Goshen Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757467"/>
   </node>
-  <node id="-503" visible="true" lat="43.99123164" lon="-73.01404788">
+  <node id="-502" visible="true" lat="43.99123164" lon="-73.01404788">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="520"/>
     <tag k="addr:street" v="Chandler Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759417"/>
   </node>
-  <node id="-504" visible="true" lat="43.9895654" lon="-72.99270493">
+  <node id="-503" visible="true" lat="43.9895654" lon="-72.99270493">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2750"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760179"/>
   </node>
-  <node id="-505" visible="true" lat="43.98943265" lon="-72.99141254">
+  <node id="-504" visible="true" lat="43.98943265" lon="-72.99141254">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2810"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760180"/>
   </node>
-  <node id="-506" visible="true" lat="43.98396101" lon="-73.03821075">
+  <node id="-505" visible="true" lat="43.98395526" lon="-73.03818831">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="685"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762357"/>
   </node>
-  <node id="-507" visible="true" lat="44.02331381" lon="-73.01021492">
+  <node id="-506" visible="true" lat="44.02331381" lon="-73.01021492">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="752"/>
     <tag k="addr:street" v="Pearl Lee Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762358"/>
   </node>
-  <node id="-508" visible="true" lat="43.97670226" lon="-73.03950821">
+  <node id="-507" visible="true" lat="43.97670226" lon="-73.03950821">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Windfall Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762460"/>
   </node>
-  <node id="-509" visible="true" lat="43.9520009" lon="-72.97710374">
+  <node id="-508" visible="true" lat="43.9520009" lon="-72.97710374">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="155"/>
     <tag k="addr:street" v="Scott Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762461"/>
   </node>
-  <node id="-510" visible="true" lat="43.98945646" lon="-73.0351297">
+  <node id="-509" visible="true" lat="43.98945474" lon="-73.03512756">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="1121"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762759"/>
   </node>
-  <node id="-511" visible="true" lat="43.9776133" lon="-73.03279276">
+  <node id="-510" visible="true" lat="43.9776133" lon="-73.03279276">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="328"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763007"/>
   </node>
-  <node id="-512" visible="true" lat="43.981251" lon="-73.03973785">
+  <node id="-511" visible="true" lat="43.981251" lon="-73.03973785">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="465"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763008"/>
   </node>
-  <node id="-513" visible="true" lat="43.98517369" lon="-73.00288222">
+  <node id="-512" visible="true" lat="43.98517369" lon="-73.00288222">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2076"/>
     <tag k="addr:street" v="Natural Turnpike"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763915"/>
   </node>
-  <node id="-514" visible="true" lat="44.00123763" lon="-72.98486095">
+  <node id="-513" visible="true" lat="44.00123763" lon="-72.98486095">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Alder Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765299"/>
   </node>
-  <node id="-515" visible="true" lat="44.02674721" lon="-73.0220786">
+  <node id="-514" visible="true" lat="44.02674721" lon="-73.0220786">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4100"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765954"/>
   </node>
-  <node id="-516" visible="true" lat="43.98373932" lon="-73.03849213">
+  <node id="-515" visible="true" lat="43.98372689" lon="-73.03848298">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="683"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="766601"/>
   </node>
-  <node id="-517" visible="true" lat="43.97169667" lon="-73.03958016">
+  <node id="-516" visible="true" lat="43.97168771" lon="-73.03957801">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="568"/>
     <tag k="addr:street" v="Old Town Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="766721"/>
   </node>
-  <node id="-518" visible="true" lat="43.95600788" lon="-72.99273276">
+  <node id="-517" visible="true" lat="43.95600788" lon="-72.99273276">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="191"/>
     <tag k="addr:street" v="College Cross Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767932"/>
   </node>
-  <node id="-519" visible="true" lat="44.00973938" lon="-73.0333997">
+  <node id="-518" visible="true" lat="44.00973938" lon="-73.0333997">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2525"/>
     <tag k="addr:street" v="North Branch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768316"/>
   </node>
-  <node id="-520" visible="true" lat="44.00919071" lon="-73.03526056">
+  <node id="-519" visible="true" lat="44.00919071" lon="-73.03526056">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="2523"/>
     <tag k="addr:street" v="North Branch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768317"/>
   </node>
-  <node id="-529" visible="true" lat="43.98532344" lon="-73.05610986">
+  <node id="-528" visible="true" lat="43.98532344" lon="-73.05610986">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="485"/>
     <tag k="addr:street" v="North Branch Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768326"/>
   </node>
-  <node id="-530" visible="true" lat="43.9702359" lon="-73.02380916">
+  <node id="-529" visible="true" lat="43.9702359" lon="-73.02380916">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="454"/>
     <tag k="addr:street" v="Maiden Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768327"/>
   </node>
-  <node id="-531" visible="true" lat="43.95673918" lon="-73.00260811">
+  <node id="-530" visible="true" lat="43.95673918" lon="-73.00260811">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="3708"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="800156"/>
   </node>
-  <node id="-532" visible="true" lat="43.9536778" lon="-72.99116094">
+  <node id="-531" visible="true" lat="43.9536778" lon="-72.99116094">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="4317"/>
     <tag k="addr:street" v="Vermont Route 125"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050406"/>
   </node>
-  <node id="-533" visible="true" lat="43.96586707" lon="-73.00565616">
+  <node id="-532" visible="true" lat="43.96586707" lon="-73.00565616">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="525"/>
     <tag k="addr:street" v="Frost Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050407"/>
   </node>
-  <node id="-534" visible="true" lat="43.98483" lon="-73.03917">
+  <node id="-533" visible="true" lat="43.98483" lon="-73.03917">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="737"/>
     <tag k="addr:street" v="Lincoln Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050408"/>
   </node>
-  <node id="-535" visible="true" lat="43.9925" lon="-72.96633">
+  <node id="-534" visible="true" lat="43.9925" lon="-72.96633">
     <tag k="addr:city" v="Ripton"/>
     <tag k="addr:housenumber" v="3646"/>
     <tag k="addr:street" v="Steam Mill Road"/>

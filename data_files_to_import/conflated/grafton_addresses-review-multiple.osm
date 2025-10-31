@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-419" visible="true" lat="43.16594934" lon="-72.61337877">
-    <!-- multiple: "533 Townshend Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="533"/>
+  <node id="-329" visible="true" lat="43.17343314" lon="-72.61018748">
+    <!-- multiple: "17 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="113017"/>
+  </node>
+  <node id="-333" visible="true" lat="43.1730909" lon="-72.61028273">
+    <!-- multiple: "16 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="113022"/>
+  </node>
+  <node id="-338" visible="true" lat="43.17279695" lon="-72.60969152">
+    <!-- multiple: "54 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="113027"/>
+  </node>
+  <node id="-377" visible="true" lat="43.17120234" lon="-72.60911811">
+    <!-- multiple: "18 Pleasant Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Pleasant Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="113071"/>
+  </node>
+  <node id="-405" visible="true" lat="43.17017364" lon="-72.60900878">
+    <!-- multiple: "58 School Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="113104"/>
+  </node>
+  <node id="-615" visible="true" lat="43.13048235" lon="-72.63770362">
+    <!-- multiple: "3348 Townshend Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3348"/>
     <tag k="addr:street" v="Townshend Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="113118"/>
+    <tag k="ref:vcgi:esiteid" v="338720"/>
+  </node>
+  <node id="-616" visible="true" lat="43.12736297" lon="-72.63899552">
+    <!-- multiple: "3528 Townshend Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3528"/>
+    <tag k="addr:street" v="Townshend Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338721"/>
+  </node>
+  <node id="-723" visible="true" lat="43.12835314" lon="-72.63873963">
+    <!-- multiple: "3498 Townshend Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3498"/>
+    <tag k="addr:street" v="Townshend Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770917"/>
   </node>
 </osm>

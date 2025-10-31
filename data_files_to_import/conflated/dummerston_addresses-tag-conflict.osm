@@ -1,17 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-424" visible="true" lat="42.93601226" lon="-72.60919952">
-    <!-- conflict: "49 Day Road, , VT" No match in OSM, but a different address exists <5m away: " , Dummerston, VT" -->
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Day Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89307"/>
-  </node>
-  <node id="-786" visible="true" lat="42.908432" lon="-72.54418945">
-    <!-- conflict: "471 U.S. Route 5, , VT" No match in OSM, but a different address exists <5m away: "471 Calvin Coolidge Memorial Highway, Dummerston, VT" -->
-    <tag k="addr:housenumber" v="471"/>
-    <tag k="addr:street" v="U.S. Route 5"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="89678"/>
-  </node>
 </osm>

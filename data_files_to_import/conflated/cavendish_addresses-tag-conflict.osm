@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-467" visible="true" lat="43.38774108" lon="-72.59901428">
-    <!-- conflict: "354 Vermont Route 131, , VT" No match in OSM, but a different address exists <5m away: "354 Vt Route 131, Cavendish, VT" -->
-    <tag k="addr:housenumber" v="354"/>
-    <tag k="addr:street" v="Vermont Route 131"/>
+  <node id="-584" visible="true" lat="43.38355636" lon="-72.6076284">
+    <!-- conflict: "130 Pleasant Street, , VT" No match in OSM, but a different address exists <5m away: "79 High Street, , VT" -->
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Pleasant Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="61833"/>
-  </node>
-  <node id="-534" visible="true" lat="43.38492584" lon="-72.63223266">
-    <!-- conflict: "832 Main Street, , VT" No match in OSM, but a different address exists <5m away: " Main Street, Proctorsville, VT" -->
-    <tag k="addr:housenumber" v="832"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="61909"/>
-  </node>
-  <node id="-590" visible="true" lat="43.38346405" lon="-72.63816839">
-    <!-- conflict: "513 Main Street, , VT" No match in OSM, but a different address exists <5m away: " , Proctorsville, VT" -->
-    <tag k="addr:housenumber" v="513"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="61970"/>
+    <tag k="ref:vcgi:esiteid" v="61966"/>
   </node>
 </osm>

@@ -1,11 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-292" visible="true" lat="43.72992095" lon="-72.93762155">
-    <!-- conflict: "195 Mountain Top Road, Chittenden, VT" Fuzzy match to "195 Mountain Top Rd, , " -->
+  <node id="-120" visible="true" lat="43.76783985" lon="-72.97834919">
+    <!-- conflict: "208 Middle Road, Chittenden, VT" No match in OSM, but a different address exists <5m away: "204 Middle Road, Chittenden, VT" -->
     <tag k="addr:city" v="Chittenden"/>
-    <tag k="addr:housenumber" v="195"/>
-    <tag k="addr:street" v="Mountain Top Road"/>
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:street" v="Middle Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67756"/>
+    <tag k="ref:vcgi:esiteid" v="67582"/>
+  </node>
+  <node id="-798" visible="true" lat="43.67397711" lon="-72.94317741">
+    <!-- conflict: "11 Chittenden Road, Chittenden, VT" Fuzzy match to "11 Chittenden Road, , VT" -->
+    <tag k="addr:city" v="Chittenden"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Chittenden Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339146"/>
+  </node>
+  <node id="-799" visible="true" lat="43.67671847" lon="-72.9452185">
+    <!-- conflict: "33 Chittenden Road, Chittenden, VT" Fuzzy match to "33 Chittenden Road, , VT" -->
+    <tag k="addr:city" v="Chittenden"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Chittenden Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339147"/>
+  </node>
+  <node id="-813" visible="true" lat="43.67643206" lon="-72.94496404">
+    <!-- conflict: "31 Chittenden Road, Chittenden, VT" Fuzzy match to "31 Chittenden Road, , VT" -->
+    <tag k="addr:city" v="Chittenden"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Chittenden Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449618"/>
+  </node>
+  <node id="-814" visible="true" lat="43.67673697" lon="-72.94523718">
+    <!-- conflict: "35 Chittenden Road, Chittenden, VT" Fuzzy match to "35 Chittenden Road, , VT" -->
+    <tag k="addr:city" v="Chittenden"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Chittenden Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449621"/>
+  </node>
+  <node id="-838" visible="true" lat="43.67835819" lon="-72.94591849">
+    <!-- conflict: "47 Chittenden Road, Chittenden, VT" Fuzzy match to "47 Chittenden Road, , VT" -->
+    <tag k="addr:city" v="Chittenden"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Chittenden Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451529"/>
+  </node>
+  <node id="-889" visible="true" lat="43.69117661" lon="-72.95532248">
+    <!-- conflict: "2162 Sangamon Road, Chittenden, VT" Fuzzy match to "2162 Sangamon Road, , VT" -->
+    <tag k="addr:city" v="Chittenden"/>
+    <tag k="addr:housenumber" v="2162"/>
+    <tag k="addr:street" v="Sangamon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772491"/>
   </node>
 </osm>

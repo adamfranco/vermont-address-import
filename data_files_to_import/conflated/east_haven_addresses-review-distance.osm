@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-110" visible="true" lat="44.69633084" lon="-71.85412107">
+    <!-- offset: "315 Jack Brook Road, East Haven, VT" Significant offset - 164.1m -->
+    <tag k="addr:city" v="East Haven"/>
+    <tag k="addr:housenumber" v="315"/>
+    <tag k="addr:street" v="Jack Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="90560"/>
+  </node>
   <node id="-296" visible="true" lat="44.64576261" lon="-71.85629045">
     <!-- offset: "1145 Radar Road, East Haven, VT" Significant offset - 167.1m -->
     <tag k="addr:city" v="East Haven"/>

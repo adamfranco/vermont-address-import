@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-192" visible="true" lat="44.50281831" lon="-73.18369587">
+    <!-- multiple: "450 Weaver Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:street" v="Weaver Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298669"/>
+  </node>
+  <node id="-233" visible="true" lat="44.49923977" lon="-73.18415369">
+    <!-- multiple: "348 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="348"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298714"/>
+  </node>
+  <node id="-238" visible="true" lat="44.50122674" lon="-73.18342017">
+    <!-- multiple: "400 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298720"/>
+  </node>
   <node id="-247" visible="true" lat="44.49963511" lon="-73.18330561">
     <!-- multiple: "357 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Winooski"/>
@@ -7,6 +31,46 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298729"/>
+  </node>
+  <node id="-259" visible="true" lat="44.50028217" lon="-73.18369659">
+    <!-- multiple: "388 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="388"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298741"/>
+  </node>
+  <node id="-283" visible="true" lat="44.49915704" lon="-73.17735125">
+    <!-- multiple: "181 Franklin Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:street" v="Franklin Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298766"/>
+  </node>
+  <node id="-284" visible="true" lat="44.49934107" lon="-73.17723627">
+    <!-- multiple: "181 Franklin Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:street" v="Franklin Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298767"/>
+  </node>
+  <node id="-285" visible="true" lat="44.49934863" lon="-73.17684478">
+    <!-- multiple: "181 Franklin Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:street" v="Franklin Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298768"/>
+  </node>
+  <node id="-286" visible="true" lat="44.49903441" lon="-73.17683016">
+    <!-- multiple: "181 Franklin Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:street" v="Franklin Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298769"/>
   </node>
   <node id="-535" visible="true" lat="44.49296138" lon="-73.17523264">
     <!-- multiple: "298 East Allen Street, Winooski, VT" Multiple exact matches in OSM. -->
@@ -32,7 +96,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299026"/>
   </node>
-  <node id="-843" visible="true" lat="44.49058168" lon="-73.19272783">
+  <node id="-750" visible="true" lat="44.49339528" lon="-73.18338678">
+    <!-- multiple: "115 Barlow Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Barlow Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299251"/>
+  </node>
+  <node id="-754" visible="true" lat="44.49312203" lon="-73.18339061">
+    <!-- multiple: "115 Barlow Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Barlow Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299255"/>
+  </node>
+  <node id="-842" visible="true" lat="44.49058168" lon="-73.19272783">
     <!-- multiple: "150 West Canal Street, Winooski, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="150"/>
@@ -40,7 +120,31 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299354"/>
   </node>
-  <node id="-1176" visible="true" lat="44.49769611" lon="-73.18431129">
+  <node id="-900" visible="true" lat="44.49050044" lon="-73.19747037">
+    <!-- multiple: "250 West Allen Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="250"/>
+    <tag k="addr:street" v="West Allen Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299413"/>
+  </node>
+  <node id="-1145" visible="true" lat="44.49739223" lon="-73.18613203">
+    <!-- multiple: "281 Weaver Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Weaver Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299665"/>
+  </node>
+  <node id="-1164" visible="true" lat="44.49731546" lon="-73.18591458">
+    <!-- multiple: "281 Weaver Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Weaver Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299684"/>
+  </node>
+  <node id="-1175" visible="true" lat="44.49769611" lon="-73.18431129">
     <!-- multiple: "293 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="293"/>
@@ -48,7 +152,111 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="299697"/>
   </node>
-  <node id="-1697" visible="true" lat="44.49231249" lon="-73.19111925">
+  <node id="-1210" visible="true" lat="44.4958469" lon="-73.19822622">
+    <!-- multiple: "87 Elm Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299734"/>
+  </node>
+  <node id="-1220" visible="true" lat="44.49595397" lon="-73.19942023">
+    <!-- multiple: "87 Elm Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299745"/>
+  </node>
+  <node id="-1221" visible="true" lat="44.49554333" lon="-73.1995311">
+    <!-- multiple: "87 Elm Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299746"/>
+  </node>
+  <node id="-1222" visible="true" lat="44.49572241" lon="-73.19902138">
+    <!-- multiple: "87 Elm Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299747"/>
+  </node>
+  <node id="-1223" visible="true" lat="44.49527503" lon="-73.19887364">
+    <!-- multiple: "87 Elm Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299748"/>
+  </node>
+  <node id="-1226" visible="true" lat="44.49505576" lon="-73.19942783">
+    <!-- multiple: "87 Elm Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299751"/>
+  </node>
+  <node id="-1227" visible="true" lat="44.49512365" lon="-73.19973025">
+    <!-- multiple: "87 Elm Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299752"/>
+  </node>
+  <node id="-1229" visible="true" lat="44.49540235" lon="-73.19984745">
+    <!-- multiple: "87 Elm Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299754"/>
+  </node>
+  <node id="-1461" visible="true" lat="44.49784643" lon="-73.19371686">
+    <!-- multiple: "46 Shepard Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Shepard Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="299989"/>
+  </node>
+  <node id="-1564" visible="true" lat="44.49923529" lon="-73.19340253">
+    <!-- multiple: "75 Audet Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Audet Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300094"/>
+  </node>
+  <node id="-1650" visible="true" lat="44.490091" lon="-73.18707502">
+    <!-- multiple: "12 West Canal Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="West Canal Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300186"/>
+  </node>
+  <node id="-1669" visible="true" lat="44.49645268" lon="-73.18843011">
+    <!-- multiple: "5 Saint Peter Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Saint Peter Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300237"/>
+  </node>
+  <node id="-1680" visible="true" lat="44.49624216" lon="-73.19889777">
+    <!-- multiple: "240 West Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:street" v="West Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300270"/>
+  </node>
+  <node id="-1694" visible="true" lat="44.49231249" lon="-73.19111925">
     <!-- multiple: "32 Malletts Bay Avenue, Winooski, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="32"/>
@@ -56,15 +264,71 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300294"/>
   </node>
-  <node id="-1799" visible="true" lat="44.49009096" lon="-73.18670902">
-    <!-- multiple: "22 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
+  <node id="-1723" visible="true" lat="44.49770887" lon="-73.19386652">
+    <!-- multiple: "46 Shepard Street, Winooski, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Shepard Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300343"/>
+  </node>
+  <node id="-1734" visible="true" lat="44.49608449" lon="-73.18960971">
+    <!-- multiple: "83 North Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300364"/>
+  </node>
+  <node id="-1804" visible="true" lat="44.50057316" lon="-73.18380444">
+    <!-- multiple: "388 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="388"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300493"/>
+    <tag k="ref:vcgi:esiteid" v="300509"/>
   </node>
-  <node id="-1818" visible="true" lat="44.49098245" lon="-73.1867341">
+  <node id="-1805" visible="true" lat="44.50039734" lon="-73.18429644">
+    <!-- multiple: "388 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="388"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300510"/>
+  </node>
+  <node id="-1806" visible="true" lat="44.50051824" lon="-73.18422832">
+    <!-- multiple: "388 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="388"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300511"/>
+  </node>
+  <node id="-1807" visible="true" lat="44.50062597" lon="-73.18417103">
+    <!-- multiple: "388 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="388"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300512"/>
+  </node>
+  <node id="-1808" visible="true" lat="44.50061857" lon="-73.18409409">
+    <!-- multiple: "388 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="388"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300513"/>
+  </node>
+  <node id="-1809" visible="true" lat="44.50061371" lon="-73.18403181">
+    <!-- multiple: "388 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="388"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="300514"/>
+  </node>
+  <node id="-1815" visible="true" lat="44.49098245" lon="-73.1867341">
     <!-- multiple: "46 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="46"/>
@@ -72,7 +336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300529"/>
   </node>
-  <node id="-1880" visible="true" lat="44.49043636" lon="-73.1835991">
+  <node id="-1877" visible="true" lat="44.49043636" lon="-73.1835991">
     <!-- multiple: "65 Winooski Falls Way, Winooski, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="65"/>
@@ -80,12 +344,36 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="327103"/>
   </node>
-  <node id="-1899" visible="true" lat="44.49042211" lon="-73.1849819">
+  <node id="-1895" visible="true" lat="44.49042211" lon="-73.1849819">
     <!-- multiple: "25 Winooski Falls Way, Winooski, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:street" v="Winooski Falls Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344798"/>
+  </node>
+  <node id="-1906" visible="true" lat="44.49134936" lon="-73.18157808">
+    <!-- multiple: "1 Abenaki Way, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Abenaki Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450931"/>
+  </node>
+  <node id="-1932" visible="true" lat="44.50110257" lon="-73.18367373">
+    <!-- multiple: "400 Main Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756263"/>
+  </node>
+  <node id="-1937" visible="true" lat="44.49036605" lon="-73.19710578">
+    <!-- multiple: "250 West Allen Street, Winooski, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="250"/>
+    <tag k="addr:street" v="West Allen Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759552"/>
   </node>
 </osm>

@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-522" visible="true" lat="43.82226077" lon="-72.51440774">
+  <node id="-520" visible="true" lat="43.82226077" lon="-72.51440774">
     <!-- offset: "2094 Vermont Route 14, , VT" Significant offset - 9940.5m -->
     <tag k="addr:housenumber" v="2094"/>
     <tag k="addr:street" v="Vermont Route 14"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="206204"/>
+  </node>
+  <node id="-725" visible="true" lat="43.81565331" lon="-72.51876817">
+    <!-- offset: "190 Pleasant Street, , VT" Significant offset - 9938.7m -->
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Pleasant Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="206433"/>
+  </node>
+  <node id="-1289" visible="true" lat="43.85174188" lon="-72.5054487">
+    <!-- offset: "4 Vermont Route 110, , VT" Significant offset - 112.6m -->
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Vermont Route 110"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326609"/>
+  </node>
+  <node id="-1328" visible="true" lat="43.82787178" lon="-72.61149071">
+    <!-- offset: "127 White Oak Lane, , VT" Significant offset - 150.6m -->
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="White Oak Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341264"/>
+  </node>
+  <node id="-1347" visible="true" lat="43.8699325" lon="-72.57646112">
+    <!-- offset: "445 Gage Road, , VT" Significant offset - 194m -->
+    <tag k="addr:housenumber" v="445"/>
+    <tag k="addr:street" v="Gage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450354"/>
+  </node>
+  <node id="-1360" visible="true" lat="43.83962013" lon="-72.46789083">
+    <!-- offset: "2975 Dairy Hill Road, , VT" Significant offset - 141.7m -->
+    <tag k="addr:housenumber" v="2975"/>
+    <tag k="addr:street" v="Dairy Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="453568"/>
   </node>
 </osm>

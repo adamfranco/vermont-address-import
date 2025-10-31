@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-686" visible="true" lat="44.98180921" lon="-73.29800874">
+    <!-- multiple: "353 North Main Street, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="353"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2298"/>
+  </node>
   <node id="-693" visible="true" lat="44.97899072" lon="-73.29806282">
     <!-- multiple: "45 Champlain Street, Alburgh, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Alburgh"/>
@@ -7,6 +15,14 @@
     <tag k="addr:street" v="Champlain Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2305"/>
+  </node>
+  <node id="-1212" visible="true" lat="44.90701097" lon="-73.30511535">
+    <!-- multiple: "230 Vermont Route 129, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:street" v="Vermont Route 129"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2863"/>
   </node>
   <node id="-1221" visible="true" lat="44.8580808" lon="-73.28951345">
     <!-- multiple: "218 Poor Farm Road, Alburgh, VT" Multiple exact matches in OSM. -->
@@ -71,5 +87,61 @@
     <tag k="addr:street" v="Poor Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2887"/>
+  </node>
+  <node id="-1345" visible="true" lat="44.92016601" lon="-73.274971">
+    <!-- multiple: "19 Goose Point, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Goose Point"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3009"/>
+  </node>
+  <node id="-1354" visible="true" lat="44.90295818" lon="-73.27299881">
+    <!-- multiple: "20 Bruleys Trailer Park, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3018"/>
+  </node>
+  <node id="-1356" visible="true" lat="44.90318449" lon="-73.27307695">
+    <!-- multiple: "18 Bruleys Trailer Park, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3020"/>
+  </node>
+  <node id="-1730" visible="true" lat="44.96409961" lon="-73.24367081">
+    <!-- multiple: "6 H Street, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="H Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333510"/>
+  </node>
+  <node id="-1835" visible="true" lat="44.96428034" lon="-73.24365118">
+    <!-- multiple: "6 H Street, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="H Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339669"/>
+  </node>
+  <node id="-2098" visible="true" lat="44.90228393" lon="-73.27302686">
+    <!-- multiple: "20 Bruleys Trailer Park, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618590"/>
+  </node>
+  <node id="-2124" visible="true" lat="44.9033021" lon="-73.27308136">
+    <!-- multiple: "18 Bruleys Trailer Park, Alburgh, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Bruleys Trailer Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620848"/>
   </node>
 </osm>

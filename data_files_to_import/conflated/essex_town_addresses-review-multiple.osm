@@ -1,11 +1,410 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-293" visible="true" lat="44.54111547" lon="-73.01096621">
+    <!-- multiple: "6 Hanley Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Hanley Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94573"/>
+  </node>
+  <node id="-338" visible="true" lat="44.53745016" lon="-73.05982996">
+    <!-- multiple: "150 Chapin Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Chapin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94619"/>
+  </node>
+  <node id="-342" visible="true" lat="44.53699071" lon="-73.0599096">
+    <!-- multiple: "150 Chapin Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Chapin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94623"/>
+  </node>
+  <node id="-367" visible="true" lat="44.53467602" lon="-73.07435807">
+    <!-- multiple: "9 Colonel Page Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Colonel Page Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94648"/>
+  </node>
+  <node id="-368" visible="true" lat="44.53451156" lon="-73.07326507">
+    <!-- multiple: "9 Colonel Page Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Colonel Page Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94649"/>
+  </node>
+  <node id="-372" visible="true" lat="44.53440475" lon="-73.07559204">
+    <!-- multiple: "178 Old Stage Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="178"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94653"/>
+  </node>
+  <node id="-374" visible="true" lat="44.5341654" lon="-73.07584888">
+    <!-- multiple: "178 Old Stage Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="178"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94655"/>
+  </node>
+  <node id="-445" visible="true" lat="44.52856404" lon="-73.12555641">
+    <!-- multiple: "68 Gentes Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Gentes Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94729"/>
+  </node>
+  <node id="-447" visible="true" lat="44.52857405" lon="-73.12505526">
+    <!-- multiple: "68 Gentes Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Gentes Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94731"/>
+  </node>
+  <node id="-455" visible="true" lat="44.5282384" lon="-73.09521281">
+    <!-- multiple: "123 Indian Brook Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Indian Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94739"/>
+  </node>
+  <node id="-466" visible="true" lat="44.5275475" lon="-73.12849303">
+    <!-- multiple: "302 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94750"/>
+  </node>
+  <node id="-468" visible="true" lat="44.52762376" lon="-73.12817341">
+    <!-- multiple: "302 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94752"/>
+  </node>
+  <node id="-471" visible="true" lat="44.5276184" lon="-73.0956192">
+    <!-- multiple: "120 Indian Brook Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Indian Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94755"/>
+  </node>
+  <node id="-476" visible="true" lat="44.52737808" lon="-73.09548187">
+    <!-- multiple: "120 Indian Brook Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Indian Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94760"/>
+  </node>
+  <node id="-525" visible="true" lat="44.52446588" lon="-73.12524086">
+    <!-- multiple: "264 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94810"/>
+  </node>
+  <node id="-527" visible="true" lat="44.52445624" lon="-73.12573063">
+    <!-- multiple: "264 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94812"/>
+  </node>
+  <node id="-534" visible="true" lat="44.52417755" lon="-73.12576293">
+    <!-- multiple: "264 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94819"/>
+  </node>
+  <node id="-665" visible="true" lat="44.51952425" lon="-73.01050846">
+    <!-- multiple: "101 Sleepy Hollow Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Sleepy Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94960"/>
+  </node>
+  <node id="-673" visible="true" lat="44.51908521" lon="-73.01066155">
+    <!-- multiple: "101 Sleepy Hollow Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Sleepy Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="94970"/>
+  </node>
+  <node id="-804" visible="true" lat="44.51613998" lon="-73.06180572">
+    <!-- multiple: "16 Clover Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Clover Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95130"/>
+  </node>
+  <node id="-817" visible="true" lat="44.51588869" lon="-73.06108111">
+    <!-- multiple: "16 Clover Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Clover Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95145"/>
+  </node>
+  <node id="-828" visible="true" lat="44.51571999" lon="-73.06174044">
+    <!-- multiple: "16 Clover Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Clover Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95162"/>
+  </node>
+  <node id="-839" visible="true" lat="44.51540713" lon="-73.12148625">
+    <!-- multiple: "189 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="189"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95176"/>
+  </node>
+  <node id="-848" visible="true" lat="44.51537131" lon="-73.06152085">
+    <!-- multiple: "16 Clover Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Clover Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95186"/>
+  </node>
+  <node id="-851" visible="true" lat="44.51505886" lon="-73.12187221">
+    <!-- multiple: "189 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="189"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95189"/>
+  </node>
+  <node id="-862" visible="true" lat="44.51453255" lon="-73.13223597">
+    <!-- multiple: "2 Bushey Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Bushey Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95203"/>
+  </node>
+  <node id="-864" visible="true" lat="44.51457005" lon="-73.12154909">
+    <!-- multiple: "189 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="189"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95205"/>
+  </node>
+  <node id="-953" visible="true" lat="44.51324161" lon="-73.08305791">
+    <!-- multiple: "22 Old Stage Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95312"/>
+  </node>
   <node id="-965" visible="true" lat="44.51306851" lon="-73.05582079">
     <!-- multiple: "1 Bixby Hill Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Bixby Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="95326"/>
+  </node>
+  <node id="-966" visible="true" lat="44.51297342" lon="-73.08311952">
+    <!-- multiple: "22 Old Stage Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95327"/>
+  </node>
+  <node id="-979" visible="true" lat="44.51251901" lon="-73.12012241">
+    <!-- multiple: "167 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95343"/>
+  </node>
+  <node id="-993" visible="true" lat="44.51232223" lon="-73.13397754">
+    <!-- multiple: "1 Turcotte Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Turcotte Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95360"/>
+  </node>
+  <node id="-1003" visible="true" lat="44.51206573" lon="-73.14080363">
+    <!-- multiple: "52 Kellogg Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Kellogg Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95371"/>
+  </node>
+  <node id="-1012" visible="true" lat="44.51244807" lon="-73.02396173">
+    <!-- multiple: "66 Weed Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Weed Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95382"/>
+  </node>
+  <node id="-1017" visible="true" lat="44.51177527" lon="-73.11949255">
+    <!-- multiple: "167 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95389"/>
+  </node>
+  <node id="-1025" visible="true" lat="44.51182107" lon="-73.14045042">
+    <!-- multiple: "52 Kellogg Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Kellogg Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95400"/>
+  </node>
+  <node id="-1034" visible="true" lat="44.51204681" lon="-73.06101989">
+    <!-- multiple: "120 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95414"/>
+  </node>
+  <node id="-1037" visible="true" lat="44.51215075" lon="-73.02362638">
+    <!-- multiple: "66 Weed Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Weed Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95417"/>
+  </node>
+  <node id="-1057" visible="true" lat="44.51154894" lon="-73.12019227">
+    <!-- multiple: "164 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95441"/>
+  </node>
+  <node id="-1060" visible="true" lat="44.51178595" lon="-73.06063888">
+    <!-- multiple: "120 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95444"/>
+  </node>
+  <node id="-1080" visible="true" lat="44.5116043" lon="-73.05993652">
+    <!-- multiple: "123 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95469"/>
+  </node>
+  <node id="-1088" visible="true" lat="44.51121902" lon="-73.12032318">
+    <!-- multiple: "164 Colchester Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95480"/>
+  </node>
+  <node id="-1095" visible="true" lat="44.51152608" lon="-73.06023101">
+    <!-- multiple: "123 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95490"/>
+  </node>
+  <node id="-1097" visible="true" lat="44.51136016" lon="-73.08146667">
+    <!-- multiple: "18 Craftsbury Court, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Craftsbury Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95492"/>
+  </node>
+  <node id="-1101" visible="true" lat="44.51145319" lon="-73.06055661">
+    <!-- multiple: "121 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95497"/>
+  </node>
+  <node id="-1121" visible="true" lat="44.51116561" lon="-73.08042144">
+    <!-- multiple: "18 Craftsbury Court, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Craftsbury Court"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95521"/>
+  </node>
+  <node id="-1127" visible="true" lat="44.5111885" lon="-73.0618515">
+    <!-- multiple: "115 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95528"/>
+  </node>
+  <node id="-1136" visible="true" lat="44.51103468" lon="-73.06204054">
+    <!-- multiple: "115 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95540"/>
+  </node>
+  <node id="-1146" visible="true" lat="44.51097869" lon="-73.0689392">
+    <!-- multiple: "76 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95553"/>
+  </node>
+  <node id="-1151" visible="true" lat="44.51044715" lon="-73.14065655">
+    <!-- multiple: "18 Morse Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Morse Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95559"/>
+  </node>
+  <node id="-1159" visible="true" lat="44.51106236" lon="-73.05681262">
+    <!-- multiple: "10 Alder Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Alder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95568"/>
+  </node>
+  <node id="-1176" visible="true" lat="44.51094961" lon="-73.05658054">
+    <!-- multiple: "10 Alder Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Alder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95589"/>
+  </node>
+  <node id="-1177" visible="true" lat="44.51073454" lon="-73.06461635">
+    <!-- multiple: "97 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95590"/>
+  </node>
+  <node id="-1182" visible="true" lat="44.51036834" lon="-73.13278198">
+    <!-- multiple: "7 Kellogg Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Kellogg Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95597"/>
+  </node>
+  <node id="-1189" visible="true" lat="44.5102806" lon="-73.13626861">
+    <!-- multiple: "26 Kellogg Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Kellogg Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95605"/>
+  </node>
+  <node id="-1207" visible="true" lat="44.510057" lon="-73.14077239">
+    <!-- multiple: "18 Morse Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Morse Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95627"/>
+  </node>
+  <node id="-1243" visible="true" lat="44.51000134" lon="-73.0646549">
+    <!-- multiple: "97 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95680"/>
+  </node>
+  <node id="-1274" visible="true" lat="44.50936839" lon="-73.13769978">
+    <!-- multiple: "11 Morse Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Morse Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95715"/>
   </node>
   <node id="-1297" visible="true" lat="44.50954437" lon="-73.05576324">
     <!-- multiple: "20 Jericho Road, , VT" Multiple exact matches in OSM. -->
@@ -14,12 +413,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="95741"/>
   </node>
+  <node id="-1313" visible="true" lat="44.50898077" lon="-73.1376655">
+    <!-- multiple: "11 Morse Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Morse Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95760"/>
+  </node>
+  <node id="-1315" visible="true" lat="44.50891659" lon="-73.13793411">
+    <!-- multiple: "11 Morse Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Morse Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95762"/>
+  </node>
   <node id="-1331" visible="true" lat="44.50894296" lon="-73.07809199">
     <!-- multiple: "8 Essex Way, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Essex Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="95780"/>
+  </node>
+  <node id="-1382" visible="true" lat="44.50871844" lon="-73.05152621">
+    <!-- multiple: "38A Jericho Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="38A"/>
+    <tag k="addr:street" v="Jericho Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95842"/>
   </node>
   <node id="-1396" visible="true" lat="44.50829344" lon="-73.05392677">
     <!-- multiple: "25 Jericho Road, , VT" Multiple exact matches in OSM. -->
@@ -28,6 +448,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="95858"/>
   </node>
+  <node id="-1398" visible="true" lat="44.50841888" lon="-73.05169238">
+    <!-- multiple: "38A Jericho Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="38A"/>
+    <tag k="addr:street" v="Jericho Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95860"/>
+  </node>
   <node id="-1409" visible="true" lat="44.50823551" lon="-73.08720168">
     <!-- multiple: "72 Upper Main Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="72"/>
@@ -35,12 +462,89 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="95872"/>
   </node>
-  <node id="-1474" visible="true" lat="44.50688178" lon="-73.13134188">
-    <!-- multiple: "12 Market Place, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Market Place"/>
+  <node id="-1426" visible="true" lat="44.50464609" lon="-73.05250064">
+    <!-- multiple: "190 Sand Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Sand Hill Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="95957"/>
+    <tag k="ref:vcgi:esiteid" v="95890"/>
+  </node>
+  <node id="-1441" visible="true" lat="44.5074316" lon="-73.12326923">
+    <!-- multiple: "86 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95910"/>
+  </node>
+  <node id="-1446" visible="true" lat="44.50732803" lon="-73.11998748">
+    <!-- multiple: "98 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95918"/>
+  </node>
+  <node id="-1462" visible="true" lat="44.50713829" lon="-73.12438048">
+    <!-- multiple: "86 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95939"/>
+  </node>
+  <node id="-1473" visible="true" lat="44.50688699" lon="-73.12252575">
+    <!-- multiple: "86 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95956"/>
+  </node>
+  <node id="-1488" visible="true" lat="44.50685046" lon="-73.11919967">
+    <!-- multiple: "98 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95974"/>
+  </node>
+  <node id="-1490" visible="true" lat="44.50680418" lon="-73.12441036">
+    <!-- multiple: "86 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95976"/>
+  </node>
+  <node id="-1505" visible="true" lat="44.50660095" lon="-73.12346447">
+    <!-- multiple: "86 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95998"/>
+  </node>
+  <node id="-1518" visible="true" lat="44.50654745" lon="-73.12099259">
+    <!-- multiple: "90 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96011"/>
+  </node>
+  <node id="-1529" visible="true" lat="44.50645065" lon="-73.12134552">
+    <!-- multiple: "90 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96022"/>
+  </node>
+  <node id="-1559" visible="true" lat="44.50661225" lon="-73.04088625">
+    <!-- multiple: "82 Jericho Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Jericho Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96058"/>
+  </node>
+  <node id="-1566" visible="true" lat="44.50622667" lon="-73.09082936">
+    <!-- multiple: "48 Upper Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Upper Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96065"/>
   </node>
   <node id="-1600" visible="true" lat="44.5060816" lon="-73.08147503">
     <!-- multiple: "25 Essex Way, , VT" Multiple exact matches in OSM. -->
@@ -49,12 +553,110 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="96104"/>
   </node>
+  <node id="-1609" visible="true" lat="44.50619503" lon="-73.04178406">
+    <!-- multiple: "82 Jericho Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Jericho Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96116"/>
+  </node>
+  <node id="-1616" visible="true" lat="44.50577258" lon="-73.12388663">
+    <!-- multiple: "74 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96125"/>
+  </node>
+  <node id="-1740" visible="true" lat="44.50509595" lon="-73.08998761">
+    <!-- multiple: "45 Upper Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Upper Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96267"/>
+  </node>
+  <node id="-1800" visible="true" lat="44.50457058" lon="-73.05339276">
+    <!-- multiple: "190 Sand Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Sand Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96339"/>
+  </node>
+  <node id="-1845" visible="true" lat="44.50421001" lon="-73.05311369">
+    <!-- multiple: "190 Sand Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Sand Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96396"/>
+  </node>
+  <node id="-1862" visible="true" lat="44.50427375" lon="-73.01498754">
+    <!-- multiple: "143 Weed Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="143"/>
+    <tag k="addr:street" v="Weed Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96418"/>
+  </node>
+  <node id="-1883" visible="true" lat="44.50414774" lon="-73.01534109">
+    <!-- multiple: "143 Weed Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="143"/>
+    <tag k="addr:street" v="Weed Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96443"/>
+  </node>
+  <node id="-1902" visible="true" lat="44.50319375" lon="-73.13037331">
+    <!-- multiple: "13 Kimberly Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Kimberly Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96467"/>
+  </node>
+  <node id="-1908" visible="true" lat="44.50321999" lon="-73.12981668">
+    <!-- multiple: "13 Kimberly Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Kimberly Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96474"/>
+  </node>
+  <node id="-1936" visible="true" lat="44.50329626" lon="-73.05203927">
+    <!-- multiple: "2 Clara Hill Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Clara Hill Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96508"/>
+  </node>
+  <node id="-1950" visible="true" lat="44.5032184" lon="-73.05234222">
+    <!-- multiple: "2 Clara Hill Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Clara Hill Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96530"/>
+  </node>
   <node id="-1992" visible="true" lat="44.50265015" lon="-73.02788305">
     <!-- multiple: "1 Whitcomb Meadows Lane, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Whitcomb Meadows Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="96610"/>
+  </node>
+  <node id="-1998" visible="true" lat="44.50255833" lon="-73.01954369">
+    <!-- multiple: "200 Jericho Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Jericho Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96628"/>
+  </node>
+  <node id="-1999" visible="true" lat="44.50252171" lon="-73.01993813">
+    <!-- multiple: "200 Jericho Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Jericho Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96630"/>
+  </node>
+  <node id="-2033" visible="true" lat="44.50160598" lon="-73.07851409">
+    <!-- multiple: "70 Essex Way, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Essex Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96724"/>
   </node>
   <node id="-2067" visible="true" lat="44.50039953" lon="-73.05535943">
     <!-- multiple: "33 Founders Road, , VT" Multiple exact matches in OSM. -->
@@ -70,6 +672,230 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="97006"/>
   </node>
+  <node id="-2278" visible="true" lat="44.49144908" lon="-73.05208639">
+    <!-- multiple: "7 Saxonhollow Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Saxonhollow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98529"/>
+  </node>
+  <node id="-2285" visible="true" lat="44.49112196" lon="-73.05228365">
+    <!-- multiple: "7 Saxonhollow Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Saxonhollow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98628"/>
+  </node>
+  <node id="-2288" visible="true" lat="44.49076793" lon="-73.05224928">
+    <!-- multiple: "7 Saxonhollow Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Saxonhollow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98724"/>
+  </node>
+  <node id="-2313" visible="true" lat="44.48977279" lon="-73.05359649">
+    <!-- multiple: "19 Saxonhollow Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Saxonhollow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98993"/>
+  </node>
+  <node id="-2320" visible="true" lat="44.48958447" lon="-73.05391564">
+    <!-- multiple: "19 Saxonhollow Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Saxonhollow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99052"/>
+  </node>
+  <node id="-2322" visible="true" lat="44.48947222" lon="-73.05079614">
+    <!-- multiple: "78 Sand Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Sand Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99054"/>
+  </node>
+  <node id="-2324" visible="true" lat="44.48939302" lon="-73.05156214">
+    <!-- multiple: "78 Sand Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Sand Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99074"/>
+  </node>
+  <node id="-2325" visible="true" lat="44.48930934" lon="-73.05119181">
+    <!-- multiple: "78 Sand Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Sand Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99083"/>
+  </node>
+  <node id="-2326" visible="true" lat="44.48937496" lon="-73.05233889">
+    <!-- multiple: "78 Sand Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Sand Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99085"/>
+  </node>
+  <node id="-2332" visible="true" lat="44.48923993" lon="-73.05391256">
+    <!-- multiple: "19 Saxonhollow Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Saxonhollow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99125"/>
+  </node>
+  <node id="-2343" visible="true" lat="44.48892459" lon="-73.05144651">
+    <!-- multiple: "78 Sand Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Sand Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99176"/>
+  </node>
+  <node id="-2376" visible="true" lat="44.48813166" lon="-73.07497062">
+    <!-- multiple: "12 Ridge Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99311"/>
+  </node>
+  <node id="-2387" visible="true" lat="44.48809051" lon="-73.0756607">
+    <!-- multiple: "10 Ridge Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99348"/>
+  </node>
+  <node id="-2405" visible="true" lat="44.48791131" lon="-73.07445824">
+    <!-- multiple: "14 Ridge Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99420"/>
+  </node>
+  <node id="-2411" visible="true" lat="44.48780476" lon="-73.07672055">
+    <!-- multiple: "6 Ridge Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99444"/>
+  </node>
+  <node id="-2425" visible="true" lat="44.4876433" lon="-73.07400141">
+    <!-- multiple: "16 Ridge Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99499"/>
+  </node>
+  <node id="-2595" visible="true" lat="44.48512978" lon="-73.06127471">
+    <!-- multiple: "2 Greenfield Road Extension, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Greenfield Road Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="99997"/>
+  </node>
+  <node id="-2600" visible="true" lat="44.4850876" lon="-73.06198421">
+    <!-- multiple: "2 Greenfield Road Extension, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Greenfield Road Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100010"/>
+  </node>
+  <node id="-2632" visible="true" lat="44.48433303" lon="-73.08136749">
+    <!-- multiple: "57 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100099"/>
+  </node>
+  <node id="-2653" visible="true" lat="44.48388949" lon="-73.08765373">
+    <!-- multiple: "23 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100154"/>
+  </node>
+  <node id="-2657" visible="true" lat="44.48386635" lon="-73.08049486">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100164"/>
+  </node>
+  <node id="-2659" visible="true" lat="44.48386001" lon="-73.08621215">
+    <!-- multiple: "29 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100166"/>
+  </node>
+  <node id="-2663" visible="true" lat="44.48382212" lon="-73.08782547">
+    <!-- multiple: "23 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100171"/>
+  </node>
+  <node id="-2682" visible="true" lat="44.48359522" lon="-73.08370853">
+    <!-- multiple: "45 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100209"/>
+  </node>
+  <node id="-2730" visible="true" lat="44.48238537" lon="-73.08413339">
+    <!-- multiple: "42 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100323"/>
+  </node>
+  <node id="-2732" visible="true" lat="44.48251626" lon="-73.05722822">
+    <!-- multiple: "12 Baker Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Baker Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100326"/>
+  </node>
+  <node id="-2739" visible="true" lat="44.48238457" lon="-73.05768067">
+    <!-- multiple: "12 Baker Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Baker Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100342"/>
+  </node>
+  <node id="-2742" visible="true" lat="44.48210713" lon="-73.05819677">
+    <!-- multiple: "12 Baker Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Baker Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100350"/>
+  </node>
+  <node id="-2770" visible="true" lat="44.48056759" lon="-73.05984562">
+    <!-- multiple: "20 Greenfield Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Greenfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100414"/>
+  </node>
+  <node id="-2906" visible="true" lat="44.48700495" lon="-73.07426577">
+    <!-- multiple: "9 Ridge Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100588"/>
+  </node>
+  <node id="-2907" visible="true" lat="44.48700392" lon="-73.07702109">
+    <!-- multiple: "2 Ridge Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100589"/>
+  </node>
+  <node id="-2909" visible="true" lat="44.52804261" lon="-73.09512689">
+    <!-- multiple: "123 Indian Brook Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Indian Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100592"/>
+  </node>
   <node id="-2944" visible="true" lat="44.50910734" lon="-73.13264341">
     <!-- multiple: "50 Susie Wilson Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="50"/>
@@ -84,6 +910,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="100640"/>
   </node>
+  <node id="-2953" visible="true" lat="44.50635528" lon="-73.1362152">
+    <!-- multiple: "20 Susie Wilson Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Susie Wilson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100642"/>
+  </node>
   <node id="-2956" visible="true" lat="44.50497245" lon="-73.13372237">
     <!-- multiple: "15 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="15"/>
@@ -91,7 +924,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="100647"/>
   </node>
-  <node id="-2971" visible="true" lat="44.50652694" lon="-73.13252258">
+  <node id="-2971" visible="true" lat="44.50652523" lon="-73.13252042">
     <!-- multiple: "1 Market Place, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Market Place"/>
@@ -119,6 +952,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="101418"/>
   </node>
+  <node id="-3443" visible="true" lat="44.5080598" lon="-73.08562244">
+    <!-- multiple: "2 Carmichael Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Carmichael Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308360"/>
+  </node>
   <node id="-3444" visible="true" lat="44.50772402" lon="-73.08520016">
     <!-- multiple: "1 Carmichael Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="1"/>
@@ -140,18 +980,207 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="308510"/>
   </node>
-  <node id="-4164" visible="true" lat="44.50835193" lon="-73.08371158">
+  <node id="-3567" visible="true" lat="44.48389419" lon="-73.08012964">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308534"/>
+  </node>
+  <node id="-3568" visible="true" lat="44.48416278" lon="-73.08012715">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308535"/>
+  </node>
+  <node id="-3569" visible="true" lat="44.48429668" lon="-73.08014864">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308536"/>
+  </node>
+  <node id="-3570" visible="true" lat="44.48440704" lon="-73.08015489">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308537"/>
+  </node>
+  <node id="-3571" visible="true" lat="44.48458906" lon="-73.08015459">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308538"/>
+  </node>
+  <node id="-3572" visible="true" lat="44.48477229" lon="-73.08016859">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308539"/>
+  </node>
+  <node id="-3575" visible="true" lat="44.48475933" lon="-73.08057083">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308542"/>
+  </node>
+  <node id="-3576" visible="true" lat="44.48451702" lon="-73.08058976">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308543"/>
+  </node>
+  <node id="-3577" visible="true" lat="44.48438397" lon="-73.08057625">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308544"/>
+  </node>
+  <node id="-3578" visible="true" lat="44.48425393" lon="-73.08052314">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308545"/>
+  </node>
+  <node id="-3579" visible="true" lat="44.48410337" lon="-73.08052165">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308546"/>
+  </node>
+  <node id="-3580" visible="true" lat="44.48399209" lon="-73.08052054">
+    <!-- multiple: "63 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="308547"/>
+  </node>
+  <node id="-3886" visible="true" lat="44.53481306" lon="-73.00882843">
+    <!-- multiple: "17 Hanley Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Hanley Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317180"/>
+  </node>
+  <node id="-3888" visible="true" lat="44.5407412" lon="-73.00314366">
+    <!-- multiple: "33 Hanley Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Hanley Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317182"/>
+  </node>
+  <node id="-3962" visible="true" lat="44.48111672" lon="-73.06221721">
+    <!-- multiple: "171 River Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="333488"/>
+  </node>
+  <node id="-3991" visible="true" lat="44.50878543" lon="-73.08020831">
+    <!-- multiple: "21 Carmichael Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Carmichael Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338996"/>
+  </node>
+  <node id="-4021" visible="true" lat="44.50976345" lon="-73.08295214">
+    <!-- multiple: "2 Commonwealth Avenue, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Commonwealth Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="343369"/>
+  </node>
+  <node id="-4057" visible="true" lat="44.51134102" lon="-73.06076678">
+    <!-- multiple: "121 Center Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450731"/>
+  </node>
+  <node id="-4167" visible="true" lat="44.50835193" lon="-73.08371158">
     <!-- multiple: "7 Carmichael Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Carmichael Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750837"/>
   </node>
-  <node id="-4250" visible="true" lat="44.50474483" lon="-73.13810113">
+  <node id="-4244" visible="true" lat="44.50111876" lon="-73.07898372">
+    <!-- multiple: "70 Essex Way, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Essex Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754245"/>
+  </node>
+  <node id="-4245" visible="true" lat="44.50102271" lon="-73.07801285">
+    <!-- multiple: "70 Essex Way, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Essex Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754246"/>
+  </node>
+  <node id="-4253" visible="true" lat="44.50474483" lon="-73.13810113">
     <!-- multiple: "52 Sunderland Way, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="Sunderland Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756104"/>
+  </node>
+  <node id="-4255" visible="true" lat="44.50570326" lon="-73.1236825">
+    <!-- multiple: "74 Pinecrest Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756188"/>
+  </node>
+  <node id="-4277" visible="true" lat="44.50357265" lon="-73.0474654">
+    <!-- multiple: "16 Corporate Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Corporate Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761238"/>
+  </node>
+  <node id="-4278" visible="true" lat="44.50314717" lon="-73.04780745">
+    <!-- multiple: "16 Corporate Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Corporate Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761239"/>
+  </node>
+  <node id="-4287" visible="true" lat="44.50476917" lon="-73.04778749">
+    <!-- multiple: "17 Corporate Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Corporate Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762373"/>
+  </node>
+  <node id="-4387" visible="true" lat="44.50472717" lon="-73.04661053">
+    <!-- multiple: "15 Corporate Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Corporate Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770590"/>
+  </node>
+  <node id="-4390" visible="true" lat="44.51134295" lon="-73.0594843">
+    <!-- multiple: "1 Jericho Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Jericho Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="900074"/>
+  </node>
+  <node id="-4396" visible="true" lat="44.5044128" lon="-73.04717853">
+    <!-- multiple: "15 Corporate Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Corporate Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="900474"/>
   </node>
 </osm>

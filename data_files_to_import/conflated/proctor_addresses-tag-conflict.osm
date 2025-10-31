@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-278" visible="true" lat="43.6631763" lon="-73.03759706">
-    <!-- conflict: "62 Main Street, , VT" No match in OSM, but a different address exists <5m away: "80 Main Street, Proctor, VT" -->
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Main Street"/>
+  <node id="-226" visible="true" lat="43.66513728" lon="-73.03161942">
+    <!-- conflict: "139 Generation Avenue, , VT" No match in OSM, but a different address exists <5m away: "139 Patch Street, , VT" -->
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:street" v="Generation Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="194348"/>
-  </node>
-  <node id="-288" visible="true" lat="43.66286682" lon="-73.04679555">
-    <!-- conflict: "30 Center Street, , VT" No match in OSM, but a different address exists <5m away: "40 Center Street, Proctor, VT" -->
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Center Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="194361"/>
-  </node>
-  <node id="-299" visible="true" lat="43.66244057" lon="-73.04036225">
-    <!-- conflict: "21 North Street, , VT" No match in OSM, but a different address exists <5m away: "19 North Street, Proctor, VT" -->
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="194372"/>
-  </node>
-  <node id="-781" visible="true" lat="43.6522773" lon="-73.04229376">
-    <!-- conflict: "126 West Street, , VT" No match in OSM, but a different address exists <5m away: "126 Larry Lane, Proctor, VT" -->
-    <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="194903"/>
+    <tag k="ref:vcgi:esiteid" v="194288"/>
   </node>
 </osm>

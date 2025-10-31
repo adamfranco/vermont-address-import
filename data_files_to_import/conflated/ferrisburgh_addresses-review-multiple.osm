@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-165" visible="true" lat="44.25904464" lon="-73.22358703">
-    <!-- multiple: "227 Old Hollow Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="227"/>
-    <tag k="addr:street" v="Old Hollow Road"/>
+  <node id="-108" visible="true" lat="44.26346636" lon="-73.2278392">
+    <!-- multiple: "54 Line Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Line Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="106902"/>
+    <tag k="ref:vcgi:esiteid" v="106842"/>
+  </node>
+  <node id="-598" visible="true" lat="44.22750151" lon="-73.32499064">
+    <!-- multiple: "29 Diamond Island Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Diamond Island Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="107347"/>
+  </node>
+  <node id="-604" visible="true" lat="44.22715677" lon="-73.32532464">
+    <!-- multiple: "29 Diamond Island Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Diamond Island Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="107353"/>
   </node>
   <node id="-1296" visible="true" lat="44.1726941" lon="-73.24003779">
     <!-- multiple: "113 Monkton Road, , VT" Multiple exact matches in OSM. -->
@@ -21,11 +35,39 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316779"/>
   </node>
-  <node id="-1769" visible="true" lat="44.16083702" lon="-73.2193593">
+  <node id="-1764" visible="true" lat="44.15727078" lon="-73.19704251">
+    <!-- multiple: "1936 Plank Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1936"/>
+    <tag k="addr:street" v="Plank Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452510"/>
+  </node>
+  <node id="-1765" visible="true" lat="44.15759453" lon="-73.19912437">
+    <!-- multiple: "1834 Plank Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1834"/>
+    <tag k="addr:street" v="Plank Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452511"/>
+  </node>
+  <node id="-1766" visible="true" lat="44.15777713" lon="-73.20031779">
+    <!-- multiple: "1772 Plank Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1772"/>
+    <tag k="addr:street" v="Plank Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452512"/>
+  </node>
+  <node id="-1768" visible="true" lat="44.16083702" lon="-73.2193593">
     <!-- multiple: "808 Plank Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="808"/>
     <tag k="addr:street" v="Plank Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452669"/>
+  </node>
+  <node id="-1906" visible="true" lat="44.25602386" lon="-73.22637086">
+    <!-- multiple: "6720 U.S. Route 7, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="6720"/>
+    <tag k="addr:street" v="U.S. Route 7"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050139"/>
   </node>
 </osm>

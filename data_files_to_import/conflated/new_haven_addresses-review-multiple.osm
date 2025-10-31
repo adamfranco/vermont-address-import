@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-270" visible="true" lat="44.12434005" lon="-73.18376159">
-    <!-- multiple: "5482 Ethan Allen Highway, New Haven, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="New Haven"/>
-    <tag k="addr:housenumber" v="5482"/>
-    <tag k="addr:street" v="Ethan Allen Highway"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="172342"/>
-  </node>
-  <node id="-283" visible="true" lat="44.12417154" lon="-73.15323834">
-    <!-- multiple: "23 South Street, New Haven, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="New Haven"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="172355"/>
-  </node>
-  <node id="-314" visible="true" lat="44.12247788" lon="-73.18152282">
+  <node id="-313" visible="true" lat="44.12247788" lon="-73.18152282">
     <!-- multiple: "5356 Ethan Allen Highway, New Haven, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="New Haven"/>
     <tag k="addr:housenumber" v="5356"/>
@@ -24,7 +8,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="172388"/>
   </node>
-  <node id="-618" visible="true" lat="44.07442815" lon="-73.17367994">
+  <node id="-417" visible="true" lat="44.10574005" lon="-73.1161274">
+    <!-- multiple: "1467 East Street, New Haven, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="New Haven"/>
+    <tag k="addr:housenumber" v="1467"/>
+    <tag k="addr:street" v="East Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="172493"/>
+  </node>
+  <node id="-496" visible="true" lat="44.0912056" lon="-73.22919464">
+    <!-- multiple: "1790 Field Days Road, New Haven, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="New Haven"/>
+    <tag k="addr:housenumber" v="1790"/>
+    <tag k="addr:street" v="Field Days Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="172573"/>
+  </node>
+  <node id="-617" visible="true" lat="44.07442815" lon="-73.17367994">
     <!-- multiple: "1908 Ethan Allen Highway, New Haven, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="New Haven"/>
     <tag k="addr:housenumber" v="1908"/>

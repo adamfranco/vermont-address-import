@@ -1,3 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-365" visible="true" lat="44.24758543" lon="-73.13062126">
+    <!-- offset: "488 Monkton Road, , VT" Significant offset - 4920.4m -->
+    <tag k="addr:housenumber" v="488"/>
+    <tag k="addr:street" v="Monkton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162859"/>
+  </node>
+  <node id="-804" visible="true" lat="44.23080032" lon="-73.14966813">
+    <!-- offset: "2027 Monkton Road, , VT" Significant offset - 113.7m -->
+    <tag k="addr:housenumber" v="2027"/>
+    <tag k="addr:street" v="Monkton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163305"/>
+  </node>
+  <node id="-1020" visible="true" lat="44.17677745" lon="-73.15117823">
+    <!-- offset: "14 Parks Hurlburt Road, , VT" Significant offset - 138.4m -->
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Parks Hurlburt Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620353"/>
+  </node>
 </osm>

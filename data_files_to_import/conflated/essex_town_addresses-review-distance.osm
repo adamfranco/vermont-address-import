@@ -1,5 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-750" visible="true" lat="44.51703591" lon="-73.06144989">
+    <!-- offset: "16 Clover Drive, , VT" Significant offset - 188.2m -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Clover Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95061"/>
+  </node>
+  <node id="-762" visible="true" lat="44.51683489" lon="-73.06186526">
+    <!-- offset: "16 Clover Drive, , VT" Significant offset - 167.5m -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Clover Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95074"/>
+  </node>
+  <node id="-768" visible="true" lat="44.51660103" lon="-73.06113426">
+    <!-- offset: "16 Clover Drive, , VT" Significant offset - 143.6m -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Clover Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95082"/>
+  </node>
+  <node id="-773" visible="true" lat="44.51660781" lon="-73.06219737">
+    <!-- offset: "16 Clover Drive, , VT" Significant offset - 149.4m -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Clover Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95089"/>
+  </node>
+  <node id="-799" visible="true" lat="44.51623519" lon="-73.0611987">
+    <!-- offset: "16 Clover Drive, , VT" Significant offset - 103m -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Clover Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95124"/>
+  </node>
+  <node id="-976" visible="true" lat="44.51271445" lon="-73.12001937">
+    <!-- offset: "167 Colchester Road, , VT" Significant offset - 112.5m -->
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="Colchester Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95340"/>
+  </node>
+  <node id="-1373" visible="true" lat="44.50838088" lon="-73.12293243">
+    <!-- offset: "86 Pinecrest Drive, , VT" Significant offset - 202.4m -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95831"/>
+  </node>
+  <node id="-1380" visible="true" lat="44.50832748" lon="-73.12111663">
+    <!-- offset: "86 Pinecrest Drive, , VT" Significant offset - 267.4m -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95839"/>
+  </node>
+  <node id="-1397" visible="true" lat="44.50809118" lon="-73.12271959">
+    <!-- offset: "86 Pinecrest Drive, , VT" Significant offset - 175.9m -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95859"/>
+  </node>
+  <node id="-1418" visible="true" lat="44.50780105" lon="-73.12156677">
+    <!-- offset: "86 Pinecrest Drive, , VT" Significant offset - 201.1m -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95882"/>
+  </node>
+  <node id="-1421" visible="true" lat="44.50780697" lon="-73.12354366">
+    <!-- offset: "86 Pinecrest Drive, , VT" Significant offset - 134.2m -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95885"/>
+  </node>
+  <node id="-1433" visible="true" lat="44.50760373" lon="-73.12398007">
+    <!-- offset: "86 Pinecrest Drive, , VT" Significant offset - 118.8m -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95899"/>
+  </node>
+  <node id="-1456" visible="true" lat="44.50720438" lon="-73.12147943">
+    <!-- offset: "86 Pinecrest Drive, , VT" Significant offset - 171.1m -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Pinecrest Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95932"/>
+  </node>
   <node id="-1457" visible="true" lat="44.50739219" lon="-73.08246619">
     <!-- offset: "21 Essex Way, , VT" Significant offset - 146.4m -->
     <tag k="addr:housenumber" v="21"/>
@@ -7,12 +98,96 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="95933"/>
   </node>
+  <node id="-1469" visible="true" lat="44.5075673" lon="-73.04247713">
+    <!-- offset: "82 Jericho Road, , VT" Significant offset - 162.2m -->
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Jericho Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95949"/>
+  </node>
+  <node id="-1492" visible="true" lat="44.50713718" lon="-73.04194566">
+    <!-- offset: "82 Jericho Road, , VT" Significant offset - 105.5m -->
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Jericho Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="95978"/>
+  </node>
   <node id="-1556" visible="true" lat="44.50618316" lon="-73.13371582">
     <!-- offset: "1 Market Place, , VT" Significant offset - 106.1m -->
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Market Place"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="96055"/>
+  </node>
+  <node id="-1598" visible="true" lat="44.50630712" lon="-73.04019437">
+    <!-- offset: "82 Jericho Road, , VT" Significant offset - 126.7m -->
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Jericho Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96101"/>
+  </node>
+  <node id="-2014" visible="true" lat="44.50200652" lon="-73.07907867">
+    <!-- offset: "70 Essex Way, , VT" Significant offset - 138.3m -->
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Essex Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="96668"/>
+  </node>
+  <node id="-2276" visible="true" lat="44.49174856" lon="-73.05173651">
+    <!-- offset: "7 Saxonhollow Drive, , VT" Significant offset - 116.4m -->
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Saxonhollow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98451"/>
+  </node>
+  <node id="-2306" visible="true" lat="44.4900093" lon="-73.05316925">
+    <!-- offset: "19 Saxonhollow Drive, , VT" Significant offset - 103.9m -->
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Saxonhollow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="98932"/>
+  </node>
+  <node id="-2690" visible="true" lat="44.48362589" lon="-73.06043361">
+    <!-- offset: "20 Greenfield Road, , VT" Significant offset - 343.3m -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Greenfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100226"/>
+  </node>
+  <node id="-2702" visible="true" lat="44.48329925" lon="-73.06080627">
+    <!-- offset: "20 Greenfield Road, , VT" Significant offset - 313.2m -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Greenfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100258"/>
+  </node>
+  <node id="-2717" visible="true" lat="44.48296361" lon="-73.06048465">
+    <!-- offset: "20 Greenfield Road, , VT" Significant offset - 271.2m -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Greenfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100290"/>
+  </node>
+  <node id="-2736" visible="true" lat="44.48229197" lon="-73.0566986">
+    <!-- offset: "12 Baker Street, , VT" Significant offset - 120.6m -->
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Baker Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100338"/>
+  </node>
+  <node id="-2740" visible="true" lat="44.48232359" lon="-73.05995219">
+    <!-- offset: "20 Greenfield Road, , VT" Significant offset - 195.4m -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Greenfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100343"/>
+  </node>
+  <node id="-2757" visible="true" lat="44.48147271" lon="-73.05991046">
+    <!-- offset: "20 Greenfield Road, , VT" Significant offset - 100.8m -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Greenfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="100382"/>
   </node>
   <node id="-2969" visible="true" lat="44.50734685" lon="-73.133847">
     <!-- offset: "1 Market Place, , VT" Significant offset - 126.7m -->
@@ -28,18 +203,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="100662"/>
   </node>
-  <node id="-2989" visible="true" lat="44.54333796" lon="-73.07574752">
-    <!-- offset: "234 Old Stage Road, , VT" Significant offset - 223.6m -->
-    <tag k="addr:housenumber" v="234"/>
-    <tag k="addr:street" v="Old Stage Road"/>
+  <node id="-3573" visible="true" lat="44.48493421" lon="-73.08011377">
+    <!-- offset: "63 River Road, , VT" Significant offset - 109.6m -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="100685"/>
+    <tag k="ref:vcgi:esiteid" v="308540"/>
   </node>
-  <node id="-3905" visible="true" lat="44.50468083" lon="-73.13477832">
-    <!-- offset: "9 Joshua Way, , VT" Significant offset - 158.2m -->
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Joshua Way"/>
+  <node id="-3574" visible="true" lat="44.48477794" lon="-73.07986039">
+    <!-- offset: "63 River Road, , VT" Significant offset - 101.9m -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="River Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="318058"/>
+    <tag k="ref:vcgi:esiteid" v="308541"/>
   </node>
 </osm>

@@ -1,700 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-208" visible="true" lat="44.41785812" lon="-73.2071762">
-    <!-- conflict: "325 Martindale Road, Shelburne, VT" Fuzzy match to "325 Martindale Road, , " -->
+  <node id="-3234" visible="true" lat="44.4118283" lon="-73.18627931">
+    <!-- conflict: "233 O'Brien Drive, Shelburne, VT" Fuzzy match to "233 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="325"/>
-    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:housenumber" v="233"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220384"/>
+    <tag k="ref:vcgi:esiteid" v="450184"/>
   </node>
-  <node id="-210" visible="true" lat="44.4178276" lon="-73.20758819">
-    <!-- conflict: "307 Martindale Road, Shelburne, VT" Fuzzy match to "307 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="307"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220386"/>
-  </node>
-  <node id="-211" visible="true" lat="44.41783441" lon="-73.20678785">
-    <!-- conflict: "337 Martindale Road, Shelburne, VT" Fuzzy match to "337 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="337"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220387"/>
-  </node>
-  <node id="-213" visible="true" lat="44.41776657" lon="-73.20642852">
-    <!-- conflict: "359 Martindale Road, Shelburne, VT" Fuzzy match to "359 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="359"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220391"/>
-  </node>
-  <node id="-216" visible="true" lat="44.41774749" lon="-73.20599365">
-    <!-- conflict: "381 Martindale Road, Shelburne, VT" Fuzzy match to "381 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="381"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220394"/>
-  </node>
-  <node id="-217" visible="true" lat="44.41772079" lon="-73.20567321">
-    <!-- conflict: "397 Martindale Road, Shelburne, VT" Fuzzy match to "397 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="397"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220395"/>
-  </node>
-  <node id="-226" visible="true" lat="44.41737747" lon="-73.20700836">
-    <!-- conflict: "336 Martindale Road, Shelburne, VT" Fuzzy match to "336 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="336"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220405"/>
-  </node>
-  <node id="-227" visible="true" lat="44.41736984" lon="-73.20778656">
-    <!-- conflict: "11 Oak Hill Road, Shelburne, VT" Fuzzy match to "11 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220406"/>
-  </node>
-  <node id="-230" visible="true" lat="44.41732406" lon="-73.20661163">
-    <!-- conflict: "356 Martindale Road, Shelburne, VT" Fuzzy match to "356 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="356"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220410"/>
-  </node>
-  <node id="-231" visible="true" lat="44.41727829" lon="-73.20617675">
-    <!-- conflict: "378 Martindale Road, Shelburne, VT" Fuzzy match to "378 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="378"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220411"/>
-  </node>
-  <node id="-232" visible="true" lat="44.41725921" lon="-73.20832824">
-    <!-- conflict: "16 Oak Hill Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: "16 Martindale Road, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220412"/>
-  </node>
-  <node id="-235" visible="true" lat="44.41719055" lon="-73.20574188">
-    <!-- conflict: "400 Martindale Road, Shelburne, VT" Fuzzy match to "400 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="400"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220416"/>
-  </node>
-  <node id="-238" visible="true" lat="44.41710281" lon="-73.20767211">
-    <!-- conflict: "31 Oak Hill Road, Shelburne, VT" Fuzzy match to "31 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220419"/>
-  </node>
-  <node id="-239" visible="true" lat="44.41711044" lon="-73.20536804">
-    <!-- conflict: "418 Martindale Road, Shelburne, VT" Fuzzy match to "418 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="418"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220420"/>
-  </node>
-  <node id="-240" visible="true" lat="44.41711425" lon="-73.20422363">
-    <!-- conflict: "469 Martindale Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: " Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="469"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220421"/>
-  </node>
-  <node id="-241" visible="true" lat="44.41707611" lon="-73.20494842">
-    <!-- conflict: "468 Martindale Road, Shelburne, VT" Fuzzy match to "468 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="468"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220422"/>
-  </node>
-  <node id="-258" visible="true" lat="44.41681494" lon="-73.20704849">
-    <!-- conflict: "45 Summit Circle, Shelburne, VT" Fuzzy match to "45 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220441"/>
-  </node>
-  <node id="-259" visible="true" lat="44.41680526" lon="-73.20654296">
-    <!-- conflict: "65 Summit Circle, Shelburne, VT" No match in OSM, but a different address exists <5m away: "45 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220442"/>
-  </node>
-  <node id="-262" visible="true" lat="44.41677453" lon="-73.20754716">
-    <!-- conflict: "19 Summit Circle, Shelburne, VT" Fuzzy match to "19 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220445"/>
-  </node>
-  <node id="-264" visible="true" lat="44.41678619" lon="-73.20482635">
-    <!-- conflict: "488 Martindale Road, Shelburne, VT" Fuzzy match to "488 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="488"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220447"/>
-  </node>
-  <node id="-266" visible="true" lat="44.41678237" lon="-73.20418548">
-    <!-- conflict: "491 Martindale Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: " Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="491"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220449"/>
-  </node>
-  <node id="-267" visible="true" lat="44.41675186" lon="-73.20609283">
-    <!-- conflict: "87 Summit Circle, Shelburne, VT" Fuzzy match to "87 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220450"/>
-  </node>
-  <node id="-272" visible="true" lat="44.41669464" lon="-73.20574951">
-    <!-- conflict: "97 Summit Circle, Shelburne, VT" Fuzzy match to "97 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220455"/>
-  </node>
-  <node id="-277" visible="true" lat="44.41661453" lon="-73.20820617">
-    <!-- conflict: "60 Oak Hill Road, Shelburne, VT" Fuzzy match to "60 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220461"/>
-  </node>
-  <node id="-279" visible="true" lat="44.41648864" lon="-73.20545196">
-    <!-- conflict: "107 Summit Circle, Shelburne, VT" Fuzzy match to "107 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="107"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220466"/>
-  </node>
-  <node id="-280" visible="true" lat="44.41648864" lon="-73.20414733">
-    <!-- conflict: "511 Martindale Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: " Martindale Road, , " -->
+  <node id="-3240" visible="true" lat="44.4099557" lon="-73.18253303">
+    <!-- conflict: "511 O'Brien Drive, Shelburne, VT" Fuzzy match to "511 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="511"/>
-    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220467"/>
+    <tag k="ref:vcgi:esiteid" v="451442"/>
   </node>
-  <node id="-281" visible="true" lat="44.41648483" lon="-73.20477294">
-    <!-- conflict: "508 Martindale Road, Shelburne, VT" Fuzzy match to "508 Martindale Road, , " -->
+  <node id="-3241" visible="true" lat="44.41075637" lon="-73.18348657">
+    <!-- conflict: "432 O'Brien Drive, Shelburne, VT" Fuzzy match to "432 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="508"/>
-    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:housenumber" v="432"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220468"/>
+    <tag k="ref:vcgi:esiteid" v="451443"/>
   </node>
-  <node id="-299" visible="true" lat="44.41638183" lon="-73.2066574">
-    <!-- conflict: "62 Summit Circle, Shelburne, VT" Fuzzy match to "62 Summit Circle, , " -->
+  <node id="-3243" visible="true" lat="44.41212949" lon="-73.1823894">
+    <!-- conflict: "389 O'Brien Drive, Shelburne, VT" Fuzzy match to "389 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Summit Circle"/>
+    <tag k="addr:housenumber" v="389"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220487"/>
+    <tag k="ref:vcgi:esiteid" v="451569"/>
   </node>
-  <node id="-302" visible="true" lat="44.41637039" lon="-73.2070465">
-    <!-- conflict: "40 Summit Circle, Shelburne, VT" Fuzzy match to "40 Summit Circle, , " -->
+  <node id="-3250" visible="true" lat="44.41299523" lon="-73.1863829">
+    <!-- conflict: "271 O'Brien Drive, Shelburne, VT" Fuzzy match to "271 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Summit Circle"/>
+    <tag k="addr:housenumber" v="271"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220490"/>
+    <tag k="ref:vcgi:esiteid" v="452532"/>
   </node>
-  <node id="-303" visible="true" lat="44.41636657" lon="-73.20751953">
-    <!-- conflict: "16 Summit Circle, Shelburne, VT" Fuzzy match to "16 Summit Circle, , " -->
+  <node id="-3251" visible="true" lat="44.41257983" lon="-73.18537479">
+    <!-- conflict: "273 O'Brien Drive, Shelburne, VT" Fuzzy match to "273 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Summit Circle"/>
+    <tag k="addr:housenumber" v="273"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220491"/>
+    <tag k="ref:vcgi:esiteid" v="452533"/>
   </node>
-  <node id="-307" visible="true" lat="44.41630554" lon="-73.20620727">
-    <!-- conflict: "86 Summit Circle, Shelburne, VT" Fuzzy match to "86 Summit Circle, , " -->
+  <node id="-3253" visible="true" lat="44.41117729" lon="-73.18628781">
+    <!-- conflict: "195 O'Brien Drive, Shelburne, VT" Fuzzy match to "195 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:street" v="Summit Circle"/>
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220496"/>
+    <tag k="ref:vcgi:esiteid" v="452944"/>
   </node>
-  <node id="-308" visible="true" lat="44.4162445" lon="-73.20815277">
-    <!-- conflict: "88 Oak Hill Road, Shelburne, VT" Fuzzy match to "88 Oak Hill Road, , " -->
+  <node id="-3260" visible="true" lat="44.41053066" lon="-73.18651053">
+    <!-- conflict: "157 O'Brien Drive, Shelburne, VT" Fuzzy match to "157 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220497"/>
+    <tag k="ref:vcgi:esiteid" v="453158"/>
   </node>
-  <node id="-310" visible="true" lat="44.41624832" lon="-73.20409393">
-    <!-- conflict: "529 Martindale Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: " Martindale Road, , " -->
+  <node id="-3261" visible="true" lat="44.40941918" lon="-73.18245153">
+    <!-- conflict: "543 O'Brien Drive, Shelburne, VT" Fuzzy match to "543 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="529"/>
-    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:housenumber" v="543"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220499"/>
+    <tag k="ref:vcgi:esiteid" v="453159"/>
   </node>
-  <node id="-311" visible="true" lat="44.41623687" lon="-73.20539092">
-    <!-- conflict: "121 Summit Circle, Shelburne, VT" Fuzzy match to "121 Summit Circle, , " -->
+  <node id="-3262" visible="true" lat="44.41229943" lon="-73.18618242">
+    <!-- conflict: "255 O'Brien Drive, Shelburne, VT" Fuzzy match to "255 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="Summit Circle"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220500"/>
+    <tag k="ref:vcgi:esiteid" v="453160"/>
   </node>
-  <node id="-315" visible="true" lat="44.41617965" lon="-73.20470428">
-    <!-- conflict: "530 Martindale Road, Shelburne, VT" Fuzzy match to "530 Martindale Road, , " -->
+  <node id="-3263" visible="true" lat="44.41284329" lon="-73.18443474">
+    <!-- conflict: "331 O'Brien Drive, Shelburne, VT" Fuzzy match to "331 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="530"/>
-    <tag k="addr:street" v="Martindale Road"/>
+    <tag k="addr:housenumber" v="331"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220504"/>
+    <tag k="ref:vcgi:esiteid" v="453161"/>
   </node>
-  <node id="-337" visible="true" lat="44.41602325" lon="-73.20755004">
-    <!-- conflict: "105 Oak Hill Road, Shelburne, VT" Fuzzy match to "105 Oak Hill Road, , " -->
+  <node id="-3264" visible="true" lat="44.41261775" lon="-73.18392717">
+    <!-- conflict: "333 O'Brien Drive, Shelburne, VT" Fuzzy match to "333 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
+    <tag k="addr:housenumber" v="333"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220526"/>
+    <tag k="ref:vcgi:esiteid" v="453162"/>
   </node>
-  <node id="-340" visible="true" lat="44.41592788" lon="-73.20815277">
-    <!-- conflict: "110 Oak Hill Road, Shelburne, VT" Fuzzy match to "110 Oak Hill Road, , " -->
+  <node id="-3265" visible="true" lat="44.41139179" lon="-73.18347438">
+    <!-- conflict: "420 O'Brien Drive, Shelburne, VT" Fuzzy match to "420 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="110"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
+    <tag k="addr:housenumber" v="420"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220529"/>
+    <tag k="ref:vcgi:esiteid" v="453163"/>
   </node>
-  <node id="-341" visible="true" lat="44.41599821" lon="-73.20610317">
-    <!-- conflict: "142 Summit Circle, Shelburne, VT" Fuzzy match to "142 Summit Circle, , " -->
+  <node id="-3266" visible="true" lat="44.41045488" lon="-73.1824669">
+    <!-- conflict: "473 O'Brien Drive, Shelburne, VT" Fuzzy match to "473 Obrien Drive, Shelburne, VT" -->
     <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="Summit Circle"/>
+    <tag k="addr:housenumber" v="473"/>
+    <tag k="addr:street" v="O'Brien Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220530"/>
-  </node>
-  <node id="-342" visible="true" lat="44.41589736" lon="-73.20536804">
-    <!-- conflict: "143 Summit Circle, Shelburne, VT" Fuzzy match to "143 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="143"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220531"/>
-  </node>
-  <node id="-343" visible="true" lat="44.41590118" lon="-73.20404815">
-    <!-- conflict: "553 Martindale Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: " Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="553"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220532"/>
-  </node>
-  <node id="-344" visible="true" lat="44.41589355" lon="-73.20464324">
-    <!-- conflict: "550 Martindale Road, Shelburne, VT" Fuzzy match to "550 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="550"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220533"/>
-  </node>
-  <node id="-347" visible="true" lat="44.41578674" lon="-73.20746612">
-    <!-- conflict: "121 Oak Hill Road, Shelburne, VT" Fuzzy match to "121 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220536"/>
-  </node>
-  <node id="-351" visible="true" lat="44.41573333" lon="-73.20402526">
-    <!-- conflict: "565 Martindale Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: " Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="565"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220540"/>
-  </node>
-  <node id="-353" visible="true" lat="44.41567993" lon="-73.20809936">
-    <!-- conflict: "126 Oak Hill Road, Shelburne, VT" Fuzzy match to "126 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220543"/>
-  </node>
-  <node id="-354" visible="true" lat="44.41564941" lon="-73.2069931">
-    <!-- conflict: "224 Summit Circle, Shelburne, VT" Fuzzy match to "224 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="224"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220544"/>
-  </node>
-  <node id="-355" visible="true" lat="44.41564941" lon="-73.20466613">
-    <!-- conflict: "566 Martindale Road, Shelburne, VT" Fuzzy match to "566 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="566"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220545"/>
-  </node>
-  <node id="-356" visible="true" lat="44.41563796" lon="-73.20607757">
-    <!-- conflict: "186 Summit Circle, Shelburne, VT" Fuzzy match to "186 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="186"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220546"/>
-  </node>
-  <node id="-357" visible="true" lat="44.41558837" lon="-73.20653533">
-    <!-- conflict: "208 Summit Circle, Shelburne, VT" Fuzzy match to "208 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="208"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220547"/>
-  </node>
-  <node id="-358" visible="true" lat="44.4155693" lon="-73.20536041">
-    <!-- conflict: "165 Summit Circle, Shelburne, VT" Fuzzy match to "165 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="165"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220549"/>
-  </node>
-  <node id="-361" visible="true" lat="44.41546249" lon="-73.20739746">
-    <!-- conflict: "252 Summit Circle, Shelburne, VT" Fuzzy match to "252 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="252"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220553"/>
-  </node>
-  <node id="-362" visible="true" lat="44.41544723" lon="-73.20809936">
-    <!-- conflict: "142 Oak Hill Road, Shelburne, VT" Fuzzy match to "142 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220554"/>
-  </node>
-  <node id="-373" visible="true" lat="44.41529846" lon="-73.20459747">
-    <!-- conflict: "592 Martindale Road, Shelburne, VT" Fuzzy match to "592 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="592"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220567"/>
-  </node>
-  <node id="-378" visible="true" lat="44.41518783" lon="-73.20809936">
-    <!-- conflict: "160 Oak Hill Road, Shelburne, VT" Fuzzy match to "160 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="160"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220574"/>
-  </node>
-  <node id="-380" visible="true" lat="44.41519546" lon="-73.20597076">
-    <!-- conflict: "185 Summit Circle, Shelburne, VT" Fuzzy match to "185 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="185"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220576"/>
-  </node>
-  <node id="-383" visible="true" lat="44.41517257" lon="-73.20559692">
-    <!-- conflict: "175 Summit Circle, Shelburne, VT" Fuzzy match to "175 Summit Circle, , VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="175"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220580"/>
-  </node>
-  <node id="-384" visible="true" lat="44.41514968" lon="-73.20638275">
-    <!-- conflict: "203 Summit Circle, Shelburne, VT" Fuzzy match to "203 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="203"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220581"/>
-  </node>
-  <node id="-385" visible="true" lat="44.41513061" lon="-73.20677185">
-    <!-- conflict: "223 Summit Circle, Shelburne, VT" Fuzzy match to "223 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="223"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220583"/>
-  </node>
-  <node id="-386" visible="true" lat="44.41506195" lon="-73.20731353">
-    <!-- conflict: "251 Summit Circle, Shelburne, VT" Fuzzy match to "251 Summit Circle, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="251"/>
-    <tag k="addr:street" v="Summit Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220584"/>
-  </node>
-  <node id="-387" visible="true" lat="44.41511431" lon="-73.2045874">
-    <!-- conflict: "606 Martindale Road, Shelburne, VT" Fuzzy match to "606 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="606"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220585"/>
-  </node>
-  <node id="-396" visible="true" lat="44.41485595" lon="-73.20735168">
-    <!-- conflict: "187 Oak Hill Road, Shelburne, VT" Fuzzy match to "187 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="187"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220594"/>
-  </node>
-  <node id="-398" visible="true" lat="44.41484451" lon="-73.20799255">
-    <!-- conflict: "184 Oak Hill Road, Shelburne, VT" Fuzzy match to "184 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="184"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220596"/>
-  </node>
-  <node id="-402" visible="true" lat="44.41478729" lon="-73.20449066">
-    <!-- conflict: "626 Martindale Road, Shelburne, VT" Fuzzy match to "626 Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="626"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220600"/>
-  </node>
-  <node id="-405" visible="true" lat="44.41470718" lon="-73.2054367">
-    <!-- conflict: "325 Oak Hill Road, Shelburne, VT" Fuzzy match to "325 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="325"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220604"/>
-  </node>
-  <node id="-406" visible="true" lat="44.41468429" lon="-73.2049942">
-    <!-- conflict: "347 Oak Hill Road, Shelburne, VT" Fuzzy match to "347 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="347"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220605"/>
-  </node>
-  <node id="-407" visible="true" lat="44.4146347" lon="-73.20586395">
-    <!-- conflict: "303 Oak Hill Road, Shelburne, VT" Fuzzy match to "303 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="303"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220606"/>
-  </node>
-  <node id="-409" visible="true" lat="44.41460418" lon="-73.20623779">
-    <!-- conflict: "285 Oak Hill Road, Shelburne, VT" Fuzzy match to "285 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="285"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220608"/>
-  </node>
-  <node id="-411" visible="true" lat="44.41457366" lon="-73.2038269">
-    <!-- conflict: "647 Martindale Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: " Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="647"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220610"/>
-  </node>
-  <node id="-415" visible="true" lat="44.41451644" lon="-73.2065277">
-    <!-- conflict: "269 Oak Hill Road, Shelburne, VT" Fuzzy match to "269 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="269"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220614"/>
-  </node>
-  <node id="-417" visible="true" lat="44.41449356" lon="-73.20695495">
-    <!-- conflict: "249 Oak Hill Road, Shelburne, VT" Fuzzy match to "249 Oak Hill Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="249"/>
-    <tag k="addr:street" v="Oak Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220616"/>
-  </node>
-  <node id="-423" visible="true" lat="44.4143486" lon="-73.20384216">
-    <!-- conflict: "663 Martindale Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: " Martindale Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="663"/>
-    <tag k="addr:street" v="Martindale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220623"/>
-  </node>
-  <node id="-577" visible="true" lat="44.41194534" lon="-73.2142868">
-    <!-- conflict: "2997 Shelburne Road, Shelburne, VT" Fuzzy match to "2997 Shelburne Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="2997"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="220795"/>
-  </node>
-  <node id="-816" visible="true" lat="44.40430796" lon="-73.22028336">
-    <!-- conflict: "230 Bay Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: "230 , , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="230"/>
-    <tag k="addr:street" v="Bay Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221077"/>
-  </node>
-  <node id="-864" visible="true" lat="44.40255355" lon="-73.14642334">
-    <!-- conflict: "4987 Vermont Route 116, Shelburne, VT" No match in OSM, but a different address exists <5m away: "4987 Vt Route 116, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="4987"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221128"/>
-  </node>
-  <node id="-877" visible="true" lat="44.40229353" lon="-73.14376454">
-    <!-- conflict: "5155 Vermont Route 116, Shelburne, VT" No match in OSM, but a different address exists <5m away: "5155 Vt Route 116, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="5155"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221143"/>
-  </node>
-  <node id="-900" visible="true" lat="44.40164779" lon="-73.14352797">
-    <!-- conflict: "5153 Vermont Route 116, Shelburne, VT" No match in OSM, but a different address exists <5m away: "5153 Vt Route 116, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="5153"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221168"/>
-  </node>
-  <node id="-904" visible="true" lat="44.40153121" lon="-73.14391327">
-    <!-- conflict: "5119 Vermont Route 116, Shelburne, VT" No match in OSM, but a different address exists <5m away: "5119 Vt Route 116, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="5119"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221173"/>
-  </node>
-  <node id="-919" visible="true" lat="44.40061659" lon="-73.22312832">
-    <!-- conflict: "533 Bay Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: "215 Maple Leaf Lane, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="533"/>
-    <tag k="addr:street" v="Bay Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221191"/>
-  </node>
-  <node id="-929" visible="true" lat="44.40097427" lon="-73.14546203">
-    <!-- conflict: "5052 Vermont Route 116, Shelburne, VT" No match in OSM, but a different address exists <5m away: "5052 Vt Route 116, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="5052"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221201"/>
-  </node>
-  <node id="-932" visible="true" lat="44.40096664" lon="-73.14355468">
-    <!-- conflict: "5146 Vermont Route 116, Shelburne, VT" No match in OSM, but a different address exists <5m away: "5146 Vt Route 116, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="5146"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221204"/>
-  </node>
-  <node id="-933" visible="true" lat="44.40093612" lon="-73.14630127">
-    <!-- conflict: "5020 Vermont Route 116, Shelburne, VT" No match in OSM, but a different address exists <5m away: "5020 Vt Route 116, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="5020"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221205"/>
-  </node>
-  <node id="-1529" visible="true" lat="44.38059997" lon="-73.22703552">
-    <!-- conflict: "15 Falls Road, Shelburne, VT" Fuzzy match to "15 Falls Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Falls Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221917"/>
-  </node>
-  <node id="-1536" visible="true" lat="44.38035964" lon="-73.22695922">
-    <!-- conflict: "29 Falls Road, Shelburne, VT" Fuzzy match to "29 Falls Rd, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Falls Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="221928"/>
-  </node>
-  <node id="-2239" visible="true" lat="44.36418914" lon="-73.21115112">
-    <!-- conflict: "470 Thomas Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: " Thomas Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="470"/>
-    <tag k="addr:street" v="Thomas Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="222712"/>
-  </node>
-  <node id="-2242" visible="true" lat="44.36424052" lon="-73.20873876">
-    <!-- conflict: "552 Thomas Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: " Thomas Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="552"/>
-    <tag k="addr:street" v="Thomas Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="222715"/>
-  </node>
-  <node id="-2250" visible="true" lat="44.36382541" lon="-73.21015818">
-    <!-- conflict: "480 Thomas Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: " Thomas Road, , " -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="480"/>
-    <tag k="addr:street" v="Thomas Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="222725"/>
-  </node>
-  <node id="-2675" visible="true" lat="44.36790977" lon="-73.2526195">
-    <!-- conflict: "106 Colonel Fletcher Road, Shelburne, VT" No match in OSM, but a different address exists <5m away: "106 Colonel Fletcher Road, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Colonel Fletcher Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="223216"/>
-  </node>
-  <node id="-2731" visible="true" lat="44.36607232" lon="-73.15550673">
-    <!-- conflict: "370 Monarch Road, Shelburne, VT" Fuzzy match to "370 Monarch Rd, Shelburne, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="370"/>
-    <tag k="addr:street" v="Monarch Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="223275"/>
+    <tag k="ref:vcgi:esiteid" v="453164"/>
   </node>
   <node id="-3404" visible="true" lat="44.38118322" lon="-73.13779283">
     <!-- conflict: "6707 Vermont Route 116, Shelburne, VT" Fuzzy match to "6707 Vermont Route 116, Saint George, VT" -->
@@ -703,5 +119,13 @@
     <tag k="addr:street" v="Vermont Route 116"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754206"/>
+  </node>
+  <node id="-3405" visible="true" lat="44.38303412" lon="-73.13893852">
+    <!-- conflict: "6583 Vermont Route 116, Shelburne, VT" Fuzzy match to "6583 Vermont Route 116, Saint George, VT" -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="6583"/>
+    <tag k="addr:street" v="Vermont Route 116"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754207"/>
   </node>
 </osm>

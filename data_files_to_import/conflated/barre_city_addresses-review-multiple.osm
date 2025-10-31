@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-113" visible="true" lat="44.21316146" lon="-72.52222442">
-    <!-- multiple: "775 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Barre"/>
-    <tag k="addr:housenumber" v="775"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="7725"/>
-  </node>
   <node id="-121" visible="true" lat="44.21166255" lon="-72.52106694">
     <!-- multiple: "7 Jones Brothers Way, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
@@ -24,7 +16,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="7759"/>
   </node>
-  <node id="-412" visible="true" lat="44.20620727" lon="-72.51175689">
+  <node id="-304" visible="true" lat="44.20722916" lon="-72.51374965">
+    <!-- multiple: "520 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="520"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="7958"/>
+  </node>
+  <node id="-411" visible="true" lat="44.20620727" lon="-72.51175689">
     <!-- multiple: "475 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="475"/>
@@ -32,15 +32,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8078"/>
   </node>
-  <node id="-625" visible="true" lat="44.20461843" lon="-72.50162304">
-    <!-- multiple: "8 Cleary Street, Barre, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Barre"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Cleary Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="8312"/>
-  </node>
-  <node id="-667" visible="true" lat="44.20428395" lon="-72.5089552">
+  <node id="-666" visible="true" lat="44.20428395" lon="-72.5089552">
     <!-- multiple: "425 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="425"/>
@@ -48,7 +40,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8358"/>
   </node>
-  <node id="-690" visible="true" lat="44.20406722" lon="-72.50613403">
+  <node id="-689" visible="true" lat="44.20406722" lon="-72.50613403">
     <!-- multiple: "102 Seminary Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="102"/>
@@ -56,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8383"/>
   </node>
-  <node id="-705" visible="true" lat="44.20384597" lon="-72.50849914">
+  <node id="-704" visible="true" lat="44.20384597" lon="-72.50849914">
     <!-- multiple: "411 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="411"/>
@@ -64,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8400"/>
   </node>
-  <node id="-795" visible="true" lat="44.20299196" lon="-72.50786908">
+  <node id="-794" visible="true" lat="44.20299196" lon="-72.50786908">
     <!-- multiple: "393 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="393"/>
@@ -72,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8511"/>
   </node>
-  <node id="-863" visible="true" lat="44.20226503" lon="-72.50698572">
+  <node id="-862" visible="true" lat="44.20226503" lon="-72.50698572">
     <!-- multiple: "377 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="377"/>
@@ -80,7 +72,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8586"/>
   </node>
-  <node id="-906" visible="true" lat="44.20155108" lon="-72.50750777">
+  <node id="-905" visible="true" lat="44.20155108" lon="-72.50750777">
     <!-- multiple: "350 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="350"/>
@@ -88,7 +80,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8635"/>
   </node>
-  <node id="-934" visible="true" lat="44.20144631" lon="-72.50549425">
+  <node id="-933" visible="true" lat="44.20144631" lon="-72.50549425">
     <!-- multiple: "347 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="347"/>
@@ -96,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8669"/>
   </node>
-  <node id="-942" visible="true" lat="44.20149927" lon="-72.50390156">
+  <node id="-941" visible="true" lat="44.20149927" lon="-72.50390156">
     <!-- multiple: "79 Summer Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="79"/>
@@ -104,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8678"/>
   </node>
-  <node id="-1014" visible="true" lat="44.20068707" lon="-72.50634522">
+  <node id="-1013" visible="true" lat="44.20068707" lon="-72.50634522">
     <!-- multiple: "322 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="322"/>
@@ -112,7 +104,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8762"/>
   </node>
-  <node id="-1092" visible="true" lat="44.20034245" lon="-72.50288935">
+  <node id="-1039" visible="true" lat="44.20057619" lon="-72.50523445">
+    <!-- multiple: "315 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="315"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="8793"/>
+  </node>
+  <node id="-1091" visible="true" lat="44.20034245" lon="-72.50288935">
     <!-- multiple: "42 Summer Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="42"/>
@@ -120,15 +120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8850"/>
   </node>
-  <node id="-1099" visible="true" lat="44.20032501" lon="-72.49826049">
-    <!-- multiple: "62 Tremont Street, Barre, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Barre"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Tremont Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="8859"/>
-  </node>
-  <node id="-1183" visible="true" lat="44.19992133" lon="-72.50729431">
+  <node id="-1182" visible="true" lat="44.19992133" lon="-72.50729431">
     <!-- multiple: "20 Gable Place, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="20"/>
@@ -136,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8951"/>
   </node>
-  <node id="-1213" visible="true" lat="44.19952066" lon="-72.50457847">
+  <node id="-1212" visible="true" lat="44.19952066" lon="-72.50457847">
     <!-- multiple: "260 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="260"/>
@@ -144,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="8988"/>
   </node>
-  <node id="-1277" visible="true" lat="44.19913253" lon="-72.50404974">
+  <node id="-1276" visible="true" lat="44.19913253" lon="-72.50404974">
     <!-- multiple: "214 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="214"/>
@@ -152,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9065"/>
   </node>
-  <node id="-1303" visible="true" lat="44.19918017" lon="-72.50328787">
+  <node id="-1302" visible="true" lat="44.19918017" lon="-72.50328787">
     <!-- multiple: "201 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="201"/>
@@ -160,7 +152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9092"/>
   </node>
-  <node id="-1330" visible="true" lat="44.1988831" lon="-72.50372018">
+  <node id="-1329" visible="true" lat="44.1988831" lon="-72.50372018">
     <!-- multiple: "210 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="210"/>
@@ -168,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9120"/>
   </node>
-  <node id="-1342" visible="true" lat="44.19882587" lon="-72.50361898">
+  <node id="-1341" visible="true" lat="44.19882587" lon="-72.50361898">
     <!-- multiple: "200 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="200"/>
@@ -176,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9133"/>
   </node>
-  <node id="-1343" visible="true" lat="44.1988761" lon="-72.50296302">
+  <node id="-1342" visible="true" lat="44.1988761" lon="-72.50296302">
     <!-- multiple: "171 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="171"/>
@@ -184,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9134"/>
   </node>
-  <node id="-1355" visible="true" lat="44.1987175" lon="-72.50346839">
+  <node id="-1354" visible="true" lat="44.1987175" lon="-72.50346839">
     <!-- multiple: "188 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="188"/>
@@ -192,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9151"/>
   </node>
-  <node id="-1406" visible="true" lat="44.19835259" lon="-72.50307475">
+  <node id="-1405" visible="true" lat="44.19835259" lon="-72.50307475">
     <!-- multiple: "168 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="168"/>
@@ -200,7 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9206"/>
   </node>
-  <node id="-1415" visible="true" lat="44.19828393" lon="-72.50296031">
+  <node id="-1414" visible="true" lat="44.19828393" lon="-72.50296031">
     <!-- multiple: "162 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="162"/>
@@ -208,7 +200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9217"/>
   </node>
-  <node id="-1417" visible="true" lat="44.19839987" lon="-72.50237607">
+  <node id="-1416" visible="true" lat="44.19839987" lon="-72.50237607">
     <!-- multiple: "123 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="123"/>
@@ -216,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9221"/>
   </node>
-  <node id="-1446" visible="true" lat="44.19815047" lon="-72.50280832">
+  <node id="-1445" visible="true" lat="44.19815047" lon="-72.50280832">
     <!-- multiple: "136 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="136"/>
@@ -224,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9255"/>
   </node>
-  <node id="-1464" visible="true" lat="44.19808318" lon="-72.50270073">
+  <node id="-1463" visible="true" lat="44.19808318" lon="-72.50270073">
     <!-- multiple: "124 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="124"/>
@@ -232,7 +224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9277"/>
   </node>
-  <node id="-1474" visible="true" lat="44.19798691" lon="-72.50258278">
+  <node id="-1473" visible="true" lat="44.19798691" lon="-72.50258278">
     <!-- multiple: "114 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="114"/>
@@ -240,7 +232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9290"/>
   </node>
-  <node id="-1486" visible="true" lat="44.19816903" lon="-72.50203674">
+  <node id="-1484" visible="true" lat="44.198178" lon="-72.50203793">
     <!-- multiple: "105 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="105"/>
@@ -248,7 +240,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9303"/>
   </node>
-  <node id="-1508" visible="true" lat="44.19780427" lon="-72.50228821">
+  <node id="-1496" visible="true" lat="44.19791689" lon="-72.50241553">
+    <!-- multiple: "100 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="9316"/>
+  </node>
+  <node id="-1505" visible="true" lat="44.19780427" lon="-72.50228821">
     <!-- multiple: "94 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="94"/>
@@ -256,7 +256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9328"/>
   </node>
-  <node id="-1528" visible="true" lat="44.19769365" lon="-72.50221955">
+  <node id="-1525" visible="true" lat="44.19769365" lon="-72.50221955">
     <!-- multiple: "86 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="86"/>
@@ -264,7 +264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9349"/>
   </node>
-  <node id="-1572" visible="true" lat="44.19740901" lon="-72.50196813">
+  <node id="-1569" visible="true" lat="44.19740901" lon="-72.50196813">
     <!-- multiple: "48 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="48"/>
@@ -272,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9401"/>
   </node>
-  <node id="-1614" visible="true" lat="44.19727934" lon="-72.50186519">
+  <node id="-1611" visible="true" lat="44.19727934" lon="-72.50186519">
     <!-- multiple: "36 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="36"/>
@@ -280,7 +280,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9448"/>
   </node>
-  <node id="-1628" visible="true" lat="44.19717252" lon="-72.50182704">
+  <node id="-1625" visible="true" lat="44.19717252" lon="-72.50182704">
     <!-- multiple: "14 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="14"/>
@@ -288,7 +288,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9462"/>
   </node>
-  <node id="-1733" visible="true" lat="44.196358" lon="-72.50090023">
+  <node id="-1642" visible="true" lat="44.19710598" lon="-72.49981522">
+    <!-- multiple: "40 Washington Street, Barre, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Washington Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="9479"/>
+  </node>
+  <node id="-1729" visible="true" lat="44.196358" lon="-72.50090023">
     <!-- multiple: "19 Church Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="19"/>
@@ -296,7 +304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9579"/>
   </node>
-  <node id="-1829" visible="true" lat="44.19580094" lon="-72.50167142">
+  <node id="-1825" visible="true" lat="44.19580094" lon="-72.50167142">
     <!-- multiple: "15 South Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="15"/>
@@ -304,7 +312,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9690"/>
   </node>
-  <node id="-1967" visible="true" lat="44.19436353" lon="-72.50064378">
+  <node id="-1963" visible="true" lat="44.19436353" lon="-72.50064378">
     <!-- multiple: "44 South Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="44"/>
@@ -312,7 +320,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="9847"/>
   </node>
-  <node id="-2139" visible="true" lat="44.19304006" lon="-72.50029426">
+  <node id="-2134" visible="true" lat="44.19304006" lon="-72.50029426">
     <!-- multiple: "74 South Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="74"/>
@@ -320,7 +328,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10032"/>
   </node>
-  <node id="-2270" visible="true" lat="44.1918791" lon="-72.49255105">
+  <node id="-2265" visible="true" lat="44.1918791" lon="-72.49255105">
     <!-- multiple: "169 Washington Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="169"/>
@@ -328,15 +336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10181"/>
   </node>
-  <node id="-2341" visible="true" lat="44.1912918" lon="-72.50011444">
-    <!-- multiple: "4 Glenwood Avenue, Barre, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Barre"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Glenwood Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="10260"/>
-  </node>
-  <node id="-2486" visible="true" lat="44.18983912" lon="-72.49934316">
+  <node id="-2481" visible="true" lat="44.18983912" lon="-72.49934316">
     <!-- multiple: "131 South Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="131"/>
@@ -344,7 +344,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10421"/>
   </node>
-  <node id="-2492" visible="true" lat="44.18960182" lon="-72.49802489">
+  <node id="-2487" visible="true" lat="44.18960182" lon="-72.49802489">
     <!-- multiple: "132 South Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="132"/>
@@ -352,7 +352,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10432"/>
   </node>
-  <node id="-2494" visible="true" lat="44.18948364" lon="-72.48780059">
+  <node id="-2489" visible="true" lat="44.18948364" lon="-72.48780059">
     <!-- multiple: "320 Washington Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="320"/>
@@ -360,7 +360,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10434"/>
   </node>
-  <node id="-2585" visible="true" lat="44.1865021" lon="-72.48760673">
+  <node id="-2580" visible="true" lat="44.1865021" lon="-72.48760673">
     <!-- multiple: "122 Batchelder Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="122"/>
@@ -368,7 +368,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10544"/>
   </node>
-  <node id="-2598" visible="true" lat="44.18624828" lon="-72.48713456">
+  <node id="-2593" visible="true" lat="44.18624828" lon="-72.48713456">
     <!-- multiple: "122 Batchelder Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="122"/>
@@ -376,7 +376,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10560"/>
   </node>
-  <node id="-2599" visible="true" lat="44.18608476" lon="-72.48763943">
+  <node id="-2594" visible="true" lat="44.18608476" lon="-72.48763943">
     <!-- multiple: "122 Batchelder Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="122"/>
@@ -384,7 +384,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10561"/>
   </node>
-  <node id="-2612" visible="true" lat="44.1858159" lon="-72.48692086">
+  <node id="-2607" visible="true" lat="44.1858159" lon="-72.48692086">
     <!-- multiple: "122 Batchelder Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="122"/>
@@ -392,23 +392,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10574"/>
   </node>
-  <node id="-2637" visible="true" lat="44.18544753" lon="-72.48618478">
-    <!-- multiple: "132 Batchelder Street, Barre, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Barre"/>
-    <tag k="addr:housenumber" v="132"/>
-    <tag k="addr:street" v="Batchelder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="10601"/>
-  </node>
-  <node id="-2646" visible="true" lat="44.1851752" lon="-72.48525806">
-    <!-- multiple: "142 Batchelder Street, Barre, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Barre"/>
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="Batchelder Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="10612"/>
-  </node>
-  <node id="-2661" visible="true" lat="44.18452506" lon="-72.50200944">
+  <node id="-2656" visible="true" lat="44.18452506" lon="-72.50200944">
     <!-- multiple: "59 Parkside Terrace, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="59"/>
@@ -416,7 +400,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10628"/>
   </node>
-  <node id="-2810" visible="true" lat="44.18480333" lon="-72.50445841">
+  <node id="-2805" visible="true" lat="44.18480333" lon="-72.50445841">
     <!-- multiple: "50 Parkside Terrace, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="50"/>
@@ -424,7 +408,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10798"/>
   </node>
-  <node id="-3051" visible="true" lat="44.20133917" lon="-72.50535486">
+  <node id="-3046" visible="true" lat="44.20133917" lon="-72.50535486">
     <!-- multiple: "321 North Main Street, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="321"/>

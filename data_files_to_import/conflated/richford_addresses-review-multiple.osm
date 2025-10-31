@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-237" visible="true" lat="45.00148024" lon="-72.65842419">
+    <!-- multiple: "40 Golf Course Road, Richford, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Richford"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Golf Course Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="199207"/>
+  </node>
+  <node id="-486" visible="true" lat="44.99515423" lon="-72.67251175">
+    <!-- multiple: "75 Main Street, Richford, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Richford"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="199491"/>
+  </node>
+  <node id="-1007" visible="true" lat="44.97077968" lon="-72.68960878">
+    <!-- multiple: "1581 Saint Albans Road, Richford, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Richford"/>
+    <tag k="addr:housenumber" v="1581"/>
+    <tag k="addr:street" v="Saint Albans Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="200064"/>
+  </node>
+  <node id="-1247" visible="true" lat="44.9627758" lon="-72.57665599">
+    <!-- multiple: "298 Stevens Mills Slide Road, Richford, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Richford"/>
+    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:street" v="Stevens Mills Slide Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750584"/>
+  </node>
 </osm>

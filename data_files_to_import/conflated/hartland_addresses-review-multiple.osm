@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-103" visible="true" lat="43.62353206" lon="-72.42504869">
+    <!-- multiple: "552 Sugar House Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="552"/>
+    <tag k="addr:street" v="Sugar House Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124926"/>
+  </node>
+  <node id="-1106" visible="true" lat="43.54185943" lon="-72.40170437">
+    <!-- multiple: "19 Vermont Route 12, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="125945"/>
+  </node>
   <node id="-1182" visible="true" lat="43.5381279" lon="-72.39408875">
     <!-- multiple: "97 Martinsville Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="97"/>
     <tag k="addr:street" v="Martinsville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126023"/>
+  </node>
+  <node id="-1307" visible="true" lat="43.52965969" lon="-72.43849325">
+    <!-- multiple: "64 County Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="County Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126152"/>
+  </node>
+  <node id="-1347" visible="true" lat="43.5807228" lon="-72.37525177">
+    <!-- multiple: "500 U.S. Route 5, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126193"/>
+  </node>
+  <node id="-1473" visible="true" lat="43.62029968" lon="-72.40816726">
+    <!-- multiple: "390 Clay Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="390"/>
+    <tag k="addr:street" v="Clay Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126322"/>
+  </node>
+  <node id="-1505" visible="true" lat="43.53372228" lon="-72.52696137">
+    <!-- multiple: "5690 Rush Meadow Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="5690"/>
+    <tag k="addr:street" v="Rush Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126356"/>
+  </node>
+  <node id="-1506" visible="true" lat="43.533358" lon="-72.52568935">
+    <!-- multiple: "5696 Rush Meadow Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="5696"/>
+    <tag k="addr:street" v="Rush Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126357"/>
+  </node>
+  <node id="-1703" visible="true" lat="43.59979269" lon="-72.48877995">
+    <!-- multiple: "2500 Garvin Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2500"/>
+    <tag k="addr:street" v="Garvin Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342592"/>
+  </node>
+  <node id="-1916" visible="true" lat="43.54137788" lon="-72.4022683">
+    <!-- multiple: "19 Vermont Route 12, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050563"/>
   </node>
 </osm>

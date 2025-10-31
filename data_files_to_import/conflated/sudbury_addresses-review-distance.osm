@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-217" visible="true" lat="43.78717576" lon="-73.19963203">
+    <!-- offset: "3443 Vermont Route 30, Sudbury, VT" Significant offset - 125m -->
+    <tag k="addr:city" v="Sudbury"/>
+    <tag k="addr:housenumber" v="3443"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="253508"/>
+  </node>
+  <node id="-411" visible="true" lat="43.75507301" lon="-73.19433867">
+    <!-- offset: "5938 Vermont Route 30, Sudbury, VT" Significant offset - 141.2m -->
+    <tag k="addr:city" v="Sudbury"/>
+    <tag k="addr:housenumber" v="5938"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="253704"/>
+  </node>
+  <node id="-477" visible="true" lat="43.79547044" lon="-73.16031662">
+    <!-- offset: "1406 Willowbrook Road, Sudbury, VT" Significant offset - 139.7m -->
+    <tag k="addr:city" v="Sudbury"/>
+    <tag k="addr:housenumber" v="1406"/>
+    <tag k="addr:street" v="Willowbrook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="253772"/>
+  </node>
 </osm>

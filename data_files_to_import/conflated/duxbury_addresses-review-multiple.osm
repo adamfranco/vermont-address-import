@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-264" visible="true" lat="44.32131341" lon="-72.75257223">
+    <!-- multiple: "5672 Vermont Route 100, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="5672"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="90111"/>
+  </node>
+  <node id="-567" visible="true" lat="44.25403171" lon="-72.78643663">
+    <!-- multiple: "458 Vermont Route 100, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="458"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="90420"/>
+  </node>
 </osm>

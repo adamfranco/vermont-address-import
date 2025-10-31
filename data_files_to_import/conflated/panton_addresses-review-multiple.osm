@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-379" visible="true" lat="44.12565757" lon="-73.37510813">
+    <!-- multiple: "490 Shadow Glen Drive, Panton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Panton"/>
+    <tag k="addr:housenumber" v="490"/>
+    <tag k="addr:street" v="Shadow Glen Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="185091"/>
+  </node>
+  <node id="-492" visible="true" lat="44.15983015" lon="-73.27997064">
+    <!-- multiple: "290 Whisper Circle, Panton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Panton"/>
+    <tag k="addr:housenumber" v="290"/>
+    <tag k="addr:street" v="Whisper Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755541"/>
+  </node>
 </osm>

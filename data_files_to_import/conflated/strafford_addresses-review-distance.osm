@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="43.82774304" lon="-72.41450315">
+    <!-- offset: "601 Old Orchard Road, , VT" Significant offset - 183.6m -->
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:street" v="Old Orchard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219704"/>
+  </node>
   <node id="-203" visible="true" lat="43.88184738" lon="-72.37007141">
     <!-- offset: "89 Old City Falls Road, , VT" Significant offset - 115.1m -->
     <tag k="addr:housenumber" v="89"/>
     <tag k="addr:street" v="Old City Falls Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252226"/>
+  </node>
+  <node id="-277" visible="true" lat="43.87084154" lon="-72.41523069">
+    <!-- offset: "86 Kibling Hill Road, , VT" Significant offset - 2617m -->
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Kibling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="252308"/>
+  </node>
+  <node id="-279" visible="true" lat="43.87101744" lon="-72.42796204">
+    <!-- offset: "156 Kibling Hill Road, , VT" Significant offset - 592m -->
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Kibling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="252311"/>
+  </node>
+  <node id="-298" visible="true" lat="43.86923662" lon="-72.41403788">
+    <!-- offset: "77 Kibling Hill Road, , VT" Significant offset - 2905m -->
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Kibling Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="252330"/>
   </node>
   <node id="-442" visible="true" lat="43.84283232" lon="-72.33943118">
     <!-- offset: "57 Furnace Flats Road, , VT" Significant offset - 529.9m -->
@@ -35,6 +63,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252680"/>
   </node>
+  <node id="-637" visible="true" lat="43.82101082" lon="-72.38608628">
+    <!-- offset: "275 Star Mountain Road, , VT" Significant offset - 155.1m -->
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Star Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="252696"/>
+  </node>
+  <node id="-684" visible="true" lat="43.85999244" lon="-72.34574539">
+    <!-- offset: "62 Alger Brook Road, , VT" Significant offset - 1211m -->
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Alger Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="252757"/>
+  </node>
   <node id="-736" visible="true" lat="43.83151021" lon="-72.41926236">
     <!-- offset: "34 Fayen Road, , VT" Significant offset - 613.6m -->
     <tag k="addr:housenumber" v="34"/>
@@ -56,18 +98,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453569"/>
   </node>
-  <node id="-801" visible="true" lat="43.88738848" lon="-72.2884482">
+  <node id="-802" visible="true" lat="43.88738848" lon="-72.2884482">
     <!-- offset: "3566 Sawnee Bean Road, , VT" Significant offset - 552.7m -->
     <tag k="addr:housenumber" v="3566"/>
     <tag k="addr:street" v="Sawnee Bean Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757173"/>
-  </node>
-  <node id="-829" visible="true" lat="43.83564402" lon="-72.36343871">
-    <!-- offset: "236 Route 132, , VT" Significant offset - 8891.5m -->
-    <tag k="addr:housenumber" v="236"/>
-    <tag k="addr:street" v="Route 132"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1050674"/>
   </node>
 </osm>

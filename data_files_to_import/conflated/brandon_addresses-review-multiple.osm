@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-909" visible="true" lat="43.80109311" lon="-73.0941551">
-    <!-- multiple: "11 Grove Street, Brandon, VT" Multiple exact matches in OSM. -->
+  <node id="-406" visible="true" lat="43.82705813" lon="-73.0528433">
+    <!-- multiple: "2265 Forest Dale Road, Brandon, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:housenumber" v="2265"/>
+    <tag k="addr:street" v="Forest Dale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="28045"/>
+  </node>
+  <node id="-933" visible="true" lat="43.80073428" lon="-73.09375245">
+    <!-- multiple: "1 Grove Street, Brandon, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Brandon"/>
+    <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Grove Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28608"/>
+    <tag k="ref:vcgi:esiteid" v="28639"/>
   </node>
-  <node id="-954" visible="true" lat="43.80029544" lon="-73.09257266">
-    <!-- multiple: "37 Conant Square, Brandon, VT" Multiple exact matches in OSM. -->
+  <node id="-948" visible="true" lat="43.80040115" lon="-73.09323786">
+    <!-- multiple: "43 Conant Square, Brandon, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:housenumber" v="43"/>
     <tag k="addr:street" v="Conant Square"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28658"/>
+    <tag k="ref:vcgi:esiteid" v="28654"/>
   </node>
-  <node id="-1026" visible="true" lat="43.79932935" lon="-73.08846388">
+  <node id="-1024" visible="true" lat="43.79932935" lon="-73.08846388">
     <!-- multiple: "31 Center Street, Brandon, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="31"/>
@@ -24,12 +32,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="28739"/>
   </node>
-  <node id="-1068" visible="true" lat="43.79852999" lon="-73.08705119">
-    <!-- multiple: "20 Park Street, Brandon, VT" Multiple exact matches in OSM. -->
+  <node id="-1974" visible="true" lat="43.79802939" lon="-73.08562756">
+    <!-- multiple: "4 Franklin Street, Brandon, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Park Street"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Franklin Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28788"/>
+    <tag k="ref:vcgi:esiteid" v="700125"/>
   </node>
 </osm>

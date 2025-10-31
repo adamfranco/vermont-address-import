@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-441" visible="true" lat="44.12422123" lon="-73.37228941">
+    <!-- offset: "1064 Lake Road, Panton, VT" Significant offset - 201.1m -->
+    <tag k="addr:city" v="Panton"/>
+    <tag k="addr:housenumber" v="1064"/>
+    <tag k="addr:street" v="Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620578"/>
+  </node>
+  <node id="-499" visible="true" lat="44.13763289" lon="-73.34774098">
+    <!-- offset: "3900 Jersey Street, Panton, VT" Significant offset - 123.1m -->
+    <tag k="addr:city" v="Panton"/>
+    <tag k="addr:housenumber" v="3900"/>
+    <tag k="addr:street" v="Jersey Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757254"/>
+  </node>
+  <node id="-501" visible="true" lat="44.14288229" lon="-73.2702102">
+    <!-- offset: "1378 Hopkins Road, Panton, VT" Significant offset - 107.6m -->
+    <tag k="addr:city" v="Panton"/>
+    <tag k="addr:housenumber" v="1378"/>
+    <tag k="addr:street" v="Hopkins Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758704"/>
+  </node>
 </osm>

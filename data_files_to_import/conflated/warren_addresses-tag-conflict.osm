@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-214" visible="true" lat="44.1450208" lon="-72.84153421">
-    <!-- conflict: "114 Vermont Route 100, Warren, VT" No match in OSM, but a different address exists <5m away: "114 VT Route 100, Warren, VT" -->
+  <node id="-208" visible="true" lat="44.145037" lon="-72.88267742">
+    <!-- conflict: "261 Club Sugarbush Extension, Warren, VT" No match in OSM, but a different address exists <5m away: "261 Club Sugarbush North Road, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:housenumber" v="261"/>
+    <tag k="addr:street" v="Club Sugarbush Extension"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271234"/>
+    <tag k="ref:vcgi:esiteid" v="271225"/>
   </node>
-  <node id="-418" visible="true" lat="44.13927326" lon="-72.89294801">
-    <!-- conflict: "59 Mountainside Drive, Warren, VT" No match in OSM, but a different address exists <5m away: "59 Sugarbush Village Road, Warren, VT" -->
+  <node id="-420" visible="true" lat="44.139112" lon="-72.88843248">
+    <!-- conflict: "185 Sports Center Drive, Warren, VT" Fuzzy match to "185 Sports Ctr Drive, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Mountainside Drive"/>
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:street" v="Sports Center Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271474"/>
+    <tag k="ref:vcgi:esiteid" v="271477"/>
   </node>
   <node id="-421" visible="true" lat="44.13907322" lon="-72.89336539">
     <!-- conflict: "80 Sugarbush Village Drive, Warren, VT" Fuzzy match to "80 Sugarbush Village Road, Warren, VT" -->
@@ -24,92 +24,100 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="271478"/>
   </node>
-  <node id="-428" visible="true" lat="44.1391052" lon="-72.89310995">
-    <!-- conflict: "76 Sugarbush Village Drive, Warren, VT" Fuzzy match to "76 Sugarbush Village Road, Warren, VT" -->
+  <node id="-450" visible="true" lat="44.13793243" lon="-72.87402896">
+    <!-- conflict: "263 Norwegian Lane, Warren, VT" No match in OSM, but a different address exists <5m away: "263 Norweigian Lane, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:street" v="Sugarbush Village Drive"/>
+    <tag k="addr:housenumber" v="263"/>
+    <tag k="addr:street" v="Norwegian Lane"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271486"/>
+    <tag k="ref:vcgi:esiteid" v="271509"/>
   </node>
-  <node id="-759" visible="true" lat="44.11610015" lon="-72.8248102">
-    <!-- conflict: "438 Woods Road South, Warren, VT" No match in OSM, but a different address exists <5m away: "354 Woods Road South, Warren, VT" -->
+  <node id="-458" visible="true" lat="44.13752745" lon="-72.87233367">
+    <!-- conflict: "447 Norwegian Lane, Warren, VT" No match in OSM, but a different address exists <5m away: "447 Norweigian Lane, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="438"/>
-    <tag k="addr:street" v="Woods Road South"/>
+    <tag k="addr:housenumber" v="447"/>
+    <tag k="addr:street" v="Norwegian Lane"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271837"/>
+    <tag k="ref:vcgi:esiteid" v="271518"/>
+  </node>
+  <node id="-461" visible="true" lat="44.13749904" lon="-72.87166877">
+    <!-- conflict: "444 Norwegian Lane, Warren, VT" No match in OSM, but a different address exists <5m away: "444 Norweigian Lane, Warren, VT" -->
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="444"/>
+    <tag k="addr:street" v="Norwegian Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="271521"/>
+  </node>
+  <node id="-463" visible="true" lat="44.13743471" lon="-72.87505005">
+    <!-- conflict: "245 Norwegian Lane, Warren, VT" No match in OSM, but a different address exists <5m away: "245 Norweigian Lane, Warren, VT" -->
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Norwegian Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="271523"/>
+  </node>
+  <node id="-464" visible="true" lat="44.137097" lon="-72.87171184">
+    <!-- conflict: "424 Norwegian Lane, Warren, VT" No match in OSM, but a different address exists <5m away: "424 Norweigian Lane, Warren, VT" -->
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="424"/>
+    <tag k="addr:street" v="Norwegian Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="271524"/>
+  </node>
+  <node id="-465" visible="true" lat="44.13707497" lon="-72.87261803">
+    <!-- conflict: "393 Norwegian Lane, Warren, VT" No match in OSM, but a different address exists <5m away: "393 Norweigian Lane, Warren, VT" -->
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="393"/>
+    <tag k="addr:street" v="Norwegian Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="271525"/>
+  </node>
+  <node id="-466" visible="true" lat="44.13678711" lon="-72.87199159">
+    <!-- conflict: "404 Norwegian Lane, Warren, VT" No match in OSM, but a different address exists <5m away: "404 Norweigian Lane, Warren, VT" -->
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="404"/>
+    <tag k="addr:street" v="Norwegian Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="271526"/>
   </node>
   <node id="-798" visible="true" lat="44.11442955" lon="-72.85349906">
-    <!-- conflict: "15 Gratton Road, Warren, VT" No match in OSM, but a different address exists <5m away: "136 Brook Road, Warren, VT" -->
+    <!-- conflict: "136 Brook Road, Warren, VT" No match in OSM, but a different address exists <5m away: "15 Gratton Road, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Gratton Road"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="271877"/>
   </node>
   <node id="-812" visible="true" lat="44.11401503" lon="-72.85365243">
-    <!-- conflict: "40 Gratton Road, Warren, VT" No match in OSM, but a different address exists <5m away: "120 Brook Road, Warren, VT" -->
+    <!-- conflict: "120 Brook Road, Warren, VT" No match in OSM, but a different address exists <5m away: "40 Gratton Road, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Gratton Road"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="271891"/>
   </node>
   <node id="-828" visible="true" lat="44.11318195" lon="-72.85344175">
-    <!-- conflict: "108 Gratton Road, Warren, VT" No match in OSM, but a different address exists <5m away: "122 Brook Road, Warren, VT" -->
+    <!-- conflict: "122 Brook Road, Warren, VT" No match in OSM, but a different address exists <5m away: "108 Gratton Road, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="Gratton Road"/>
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:street" v="Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="271908"/>
   </node>
-  <node id="-910" visible="true" lat="44.10869379" lon="-72.8192385">
-    <!-- conflict: "42 Roxbury Mountain Road, Warren, VT" No match in OSM, but a different address exists <5m away: "42 Roxburry Mountain Road, Warren, VT" -->
+  <node id="-1092" visible="true" lat="44.09162716" lon="-72.84418025">
+    <!-- conflict: "60 Fuller Farm Road, Warren, VT" No match in OSM, but a different address exists <5m away: "1848 Fuller Hill Road, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Roxbury Mountain Road"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Fuller Farm Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271996"/>
+    <tag k="ref:vcgi:esiteid" v="272189"/>
   </node>
-  <node id="-916" visible="true" lat="44.10860505" lon="-72.85002294">
-    <!-- conflict: "114 Martin Way, Warren, VT" No match in OSM, but a different address exists <5m away: "9 Murray Hill Road, Warren, VT" -->
+  <node id="-1802" visible="true" lat="44.0654792" lon="-72.83163258">
+    <!-- conflict: "228 Oak Street, Warren, VT" No match in OSM, but a different address exists <5m away: "248 Oak Street, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="Martin Way"/>
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:street" v="Oak Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272003"/>
-  </node>
-  <node id="-920" visible="true" lat="44.10826245" lon="-72.85119149">
-    <!-- conflict: "63 Martin Way, Warren, VT" No match in OSM, but a different address exists <5m away: "7 Murray Hill Road, Warren, VT" -->
-    <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Martin Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272007"/>
-  </node>
-  <node id="-924" visible="true" lat="44.1078855" lon="-72.85070639">
-    <!-- conflict: "12 Martin Way, Warren, VT" No match in OSM, but a different address exists <5m away: "11 Murray Hill Road, Warren, VT" -->
-    <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Martin Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272011"/>
-  </node>
-  <node id="-1103" visible="true" lat="44.08942578" lon="-72.84912069">
-    <!-- conflict: "267 Anne Burns Road, Warren, VT" No match in OSM, but a different address exists <5m away: " Anne Burns Road, Warren, VT" -->
-    <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="267"/>
-    <tag k="addr:street" v="Anne Burns Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="272200"/>
-  </node>
-  <node id="-1636" visible="true" lat="44.14185786" lon="-72.89641498">
-    <!-- conflict: "211 Upper Village Road, Warren, VT" No match in OSM, but a different address exists <5m away: " Upper Village Road, Warren, VT" -->
-    <tag k="addr:city" v="Warren"/>
-    <tag k="addr:housenumber" v="211"/>
-    <tag k="addr:street" v="Upper Village Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="445374"/>
+    <tag k="ref:vcgi:esiteid" v="766628"/>
   </node>
 </osm>

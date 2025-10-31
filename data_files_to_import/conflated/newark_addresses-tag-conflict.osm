@@ -1,45 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-294" visible="true" lat="44.71319781" lon="-71.93106755">
-    <!-- conflict: "133 Creek Crossing Lane, , VT" No match in OSM, but a different address exists <5m away: "842 Kinney Hill Road, Newark, VT" -->
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Creek Crossing Lane"/>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-290" visible="true" lat="44.71363449" lon="-71.92391967">
+    <!-- conflict: "1141 Center Pond Road, , VT" No match in OSM, but a different address exists <5m away: "1111 Center Pond Road, Newark, VT" -->
+    <tag k="addr:housenumber" v="1141"/>
+    <tag k="addr:street" v="Center Pond Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="173097"/>
-  </node>
-  <node id="-301" visible="true" lat="44.71255369" lon="-71.93014045">
-    <!-- conflict: "98 Creek Crossing Lane, , VT" No match in OSM, but a different address exists <5m away: "840 Kinney Hill Road, Newark, VT" -->
-    <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Creek Crossing Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="173104"/>
-  </node>
-  <node id="-330" visible="true" lat="44.70734787" lon="-71.93247985">
-    <!-- conflict: "135 Deer Ridge Road, , VT" No match in OSM, but a different address exists <5m away: "234 Deer Ridge Road, Newark, VT" -->
-    <tag k="addr:housenumber" v="135"/>
-    <tag k="addr:street" v="Deer Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="173134"/>
-  </node>
-  <node id="-443" visible="true" lat="44.68373993" lon="-71.97691677">
-    <!-- conflict: "352 Mountain Ash Lane, , VT" No match in OSM, but a different address exists <5m away: "212 Baird Road, Newark, VT" -->
-    <tag k="addr:housenumber" v="352"/>
-    <tag k="addr:street" v="Mountain Ash Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="173256"/>
-  </node>
-  <node id="-615" visible="true" lat="44.69199945" lon="-71.99784092">
-    <!-- conflict: "3756 Vermont Route 5A, , VT" No match in OSM, but a different address exists <5m away: "3756 Vt Route 5A, Newark, VT" -->
-    <tag k="addr:housenumber" v="3756"/>
-    <tag k="addr:street" v="Vermont Route 5A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="254339"/>
-  </node>
-  <node id="-671" visible="true" lat="44.71461964" lon="-71.97900011">
-    <!-- conflict: "411 Ponemah Path, , VT" No match in OSM, but a different address exists <5m away: "417 Ponemah Path, Newark, VT" -->
-    <tag k="addr:housenumber" v="411"/>
-    <tag k="addr:street" v="Ponemah Path"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451105"/>
+    <tag k="ref:vcgi:esiteid" v="173093"/>
   </node>
 </osm>

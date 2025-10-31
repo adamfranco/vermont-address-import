@@ -1,45 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-276" visible="true" lat="44.96918546" lon="-73.21261924">
-    <!-- conflict: "24 Lakewood Drive, , VT" No match in OSM, but a different address exists <5m away: "26 Lakewood Drive, Swanton, VT" -->
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Lakewood Drive"/>
+  <node id="-3812" visible="true" lat="44.83006111" lon="-72.99715984">
+    <!-- conflict: "46 Swanton Hill Road, , VT" No match in OSM, but a different address exists <5m away: "42 Swanton Hill Road, , VT" -->
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Swanton Hill Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="254967"/>
+    <tag k="ref:vcgi:esiteid" v="336905"/>
   </node>
-  <node id="-1915" visible="true" lat="44.91320492" lon="-73.11464252">
-    <!-- conflict: "116 Grand Avenue, , VT" No match in OSM, but a different address exists <5m away: "116 Grand Ave., , " -->
-    <tag k="addr:housenumber" v="116"/>
-    <tag k="addr:street" v="Grand Avenue"/>
+  <node id="-4175" visible="true" lat="44.87166103" lon="-73.09666477">
+    <!-- conflict: "17 Reeves Drive, , VT" Fuzzy match to "17 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Reeves Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="256629"/>
+    <tag k="ref:vcgi:esiteid" v="770176"/>
   </node>
-  <node id="-2431" visible="true" lat="44.85781335" lon="-73.02213613">
-    <!-- conflict: "55 Pond Road, , VT" No match in OSM, but a different address exists <5m away: "53 Pond Road, Swanton, VT" -->
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Pond Road"/>
+  <node id="-4176" visible="true" lat="44.87172773" lon="-73.09665453">
+    <!-- conflict: "21 Reeves Drive, , VT" Fuzzy match to "21 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Reeves Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="257157"/>
+    <tag k="ref:vcgi:esiteid" v="770177"/>
   </node>
-  <node id="-2598" visible="true" lat="44.90308902" lon="-73.09844365">
-    <!-- conflict: "82 Saint Albans Road, , VT" No match in OSM, but a different address exists <5m away: "82 St Albans Road, Swanton, VT" -->
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Saint Albans Road"/>
+  <node id="-4177" visible="true" lat="44.87180774" lon="-73.09665241">
+    <!-- conflict: "25 Reeves Drive, , VT" Fuzzy match to "25 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Reeves Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="257330"/>
+    <tag k="ref:vcgi:esiteid" v="770178"/>
   </node>
-  <node id="-3317" visible="true" lat="44.91740356" lon="-73.11562067">
-    <!-- conflict: "32A Platt Street, , VT" Fuzzy match to "32 A Platt Street, Swanton, VT" -->
-    <tag k="addr:housenumber" v="32A"/>
-    <tag k="addr:street" v="Platt Street"/>
+  <node id="-4178" visible="true" lat="44.8718706" lon="-73.09665017">
+    <!-- conflict: "29 Reeves Drive, , VT" Fuzzy match to "29 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Reeves Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="258127"/>
+    <tag k="ref:vcgi:esiteid" v="770179"/>
   </node>
-  <node id="-3920" visible="true" lat="44.97484859" lon="-73.18482625">
-    <!-- conflict: "109 Church Road, , VT" No match in OSM, but a different address exists <5m away: "109 Campbell Bay Road, Swanton, VT" -->
+  <node id="-4179" visible="true" lat="44.87207439" lon="-73.09665428">
+    <!-- conflict: "45 Reeves Drive, , VT" Fuzzy match to "45 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770180"/>
+  </node>
+  <node id="-4180" visible="true" lat="44.87212013" lon="-73.09664657">
+    <!-- conflict: "49 Reeves Drive, , VT" Fuzzy match to "49 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770181"/>
+  </node>
+  <node id="-4181" visible="true" lat="44.87218109" lon="-73.09664432">
+    <!-- conflict: "53 Reeves Drive, , VT" Fuzzy match to "53 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770182"/>
+  </node>
+  <node id="-4182" visible="true" lat="44.87223442" lon="-73.09664737">
+    <!-- conflict: "57 Reeves Drive, , VT" Fuzzy match to "57 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770183"/>
+  </node>
+  <node id="-4183" visible="true" lat="44.87257029" lon="-73.09646758">
+    <!-- conflict: "63 Reeves Drive, , VT" Fuzzy match to "63 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770184"/>
+  </node>
+  <node id="-4184" visible="true" lat="44.87256669" lon="-73.09640863">
+    <!-- conflict: "67 Reeves Drive, , VT" Fuzzy match to "67 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770185"/>
+  </node>
+  <node id="-4185" visible="true" lat="44.87255352" lon="-73.096363">
+    <!-- conflict: "71 Reeves Drive, , VT" Fuzzy match to "71 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770186"/>
+  </node>
+  <node id="-4186" visible="true" lat="44.87255188" lon="-73.09628798">
+    <!-- conflict: "75 Reeves Drive, , VT" Fuzzy match to "75 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770187"/>
+  </node>
+  <node id="-4187" visible="true" lat="44.8724898" lon="-73.0960679">
+    <!-- conflict: "77 Reeves Drive, , VT" Fuzzy match to "77 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770188"/>
+  </node>
+  <node id="-4188" visible="true" lat="44.87245194" lon="-73.09600334">
+    <!-- conflict: "81 Reeves Drive, , VT" Fuzzy match to "81 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770189"/>
+  </node>
+  <node id="-4189" visible="true" lat="44.87241593" lon="-73.0959522">
+    <!-- conflict: "85 Reeves Drive, , VT" Fuzzy match to "85 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770190"/>
+  </node>
+  <node id="-4190" visible="true" lat="44.87238953" lon="-73.09587701">
+    <!-- conflict: "89 Reeves Drive, , VT" Fuzzy match to "89 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770191"/>
+  </node>
+  <node id="-4191" visible="true" lat="44.8722242" lon="-73.0957687">
+    <!-- conflict: "93 Reeves Drive, , VT" Fuzzy match to "93 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770192"/>
+  </node>
+  <node id="-4192" visible="true" lat="44.87216706" lon="-73.0957683">
+    <!-- conflict: "97 Reeves Drive, , VT" Fuzzy match to "97 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770193"/>
+  </node>
+  <node id="-4193" visible="true" lat="44.87212327" lon="-73.09576264">
+    <!-- conflict: "101 Reeves Drive, , VT" Fuzzy match to "101 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770194"/>
+  </node>
+  <node id="-4194" visible="true" lat="44.87205466" lon="-73.09577287">
+    <!-- conflict: "105 Reeves Drive, , VT" Fuzzy match to "105 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770195"/>
+  </node>
+  <node id="-4195" visible="true" lat="44.87188506" lon="-73.09579579">
+    <!-- conflict: "109 Reeves Drive, , VT" Fuzzy match to "109 Reeves Road, , VT" -->
     <tag k="addr:housenumber" v="109"/>
-    <tag k="addr:street" v="Church Road"/>
+    <tag k="addr:street" v="Reeves Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="448553"/>
+    <tag k="ref:vcgi:esiteid" v="770196"/>
+  </node>
+  <node id="-4196" visible="true" lat="44.87181836" lon="-73.09580604">
+    <!-- conflict: "113 Reeves Drive, , VT" Fuzzy match to "113 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770197"/>
+  </node>
+  <node id="-4197" visible="true" lat="44.87177067" lon="-73.09582713">
+    <!-- conflict: "117 Reeves Drive, , VT" Fuzzy match to "117 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770198"/>
+  </node>
+  <node id="-4198" visible="true" lat="44.87171924" lon="-73.09582677">
+    <!-- conflict: "121 Reeves Drive, , VT" Fuzzy match to "121 Reeves Road, , VT" -->
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Reeves Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770199"/>
+  </node>
+  <node id="-4210" visible="true" lat="44.8596916" lon="-73.02519806">
+    <!-- conflict: "99 Trails Edge, , VT" Fuzzy match to "99 Trails edge, , VT" -->
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Trails Edge"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770953"/>
+  </node>
+  <node id="-4211" visible="true" lat="44.85986129" lon="-73.02389466">
+    <!-- conflict: "38 Trails Edge, , VT" Fuzzy match to "38 Trails edge, , VT" -->
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Trails Edge"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770954"/>
+  </node>
+  <node id="-4212" visible="true" lat="44.86148835" lon="-73.02425822">
+    <!-- conflict: "300 Trails Edge, , VT" Fuzzy match to "300 Trails edge, , VT" -->
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="Trails Edge"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770955"/>
+  </node>
+  <node id="-4213" visible="true" lat="44.86174327" lon="-73.02322306">
+    <!-- conflict: "3898 Sweet Hollow Road, , VT" No match in OSM, but a different address exists <5m away: "3896 Sweet Hollow Road, , VT" -->
+    <tag k="addr:housenumber" v="3898"/>
+    <tag k="addr:street" v="Sweet Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770956"/>
   </node>
 </osm>

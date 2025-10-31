@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-272" visible="true" lat="44.68602499" lon="-73.15932501">
-    <!-- offset: "350 Murray Avenue, Milton, VT" Significant offset - 225.6m -->
+  <node id="-464" visible="true" lat="44.66659466" lon="-73.16043125">
+    <!-- offset: "524 Lake Road, Milton, VT" Significant offset - 162.9m -->
     <tag k="addr:city" v="Milton"/>
-    <tag k="addr:housenumber" v="350"/>
-    <tag k="addr:street" v="Murray Avenue"/>
+    <tag k="addr:housenumber" v="524"/>
+    <tag k="addr:street" v="Lake Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="158397"/>
+    <tag k="ref:vcgi:esiteid" v="158589"/>
   </node>
   <node id="-1438" visible="true" lat="44.62910157" lon="-73.11892499">
     <!-- offset: "17 Rebecca Lander Drive, Milton, VT" Significant offset - 116.7m -->
@@ -16,6 +16,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="159577"/>
   </node>
+  <node id="-2780" visible="true" lat="44.60901364" lon="-73.07828621">
+    <!-- offset: "313 Hardscrabble Road, Milton, VT" Significant offset - 638.7m -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="313"/>
+    <tag k="addr:street" v="Hardscrabble Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160954"/>
+  </node>
   <node id="-3708" visible="true" lat="44.64193578" lon="-73.10699792">
     <!-- offset: "36 Maplewood Avenue, Milton, VT" Significant offset - 122.9m -->
     <tag k="addr:city" v="Milton"/>
@@ -23,5 +31,53 @@
     <tag k="addr:street" v="Maplewood Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162045"/>
+  </node>
+  <node id="-4014" visible="true" lat="44.67810299" lon="-73.20933536">
+    <!-- offset: "365 Eagle Mountain Harbor Road, Milton, VT" Significant offset - 144.9m -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162418"/>
+  </node>
+  <node id="-4018" visible="true" lat="44.67758425" lon="-73.21002851">
+    <!-- offset: "365 Eagle Mountain Harbor Road, Milton, VT" Significant offset - 108.2m -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162422"/>
+  </node>
+  <node id="-4019" visible="true" lat="44.67775426" lon="-73.21010226">
+    <!-- offset: "365 Eagle Mountain Harbor Road, Milton, VT" Significant offset - 127m -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162423"/>
+  </node>
+  <node id="-4020" visible="true" lat="44.67794709" lon="-73.21016168">
+    <!-- offset: "365 Eagle Mountain Harbor Road, Milton, VT" Significant offset - 147.7m -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162424"/>
+  </node>
+  <node id="-4099" visible="true" lat="44.67781317" lon="-73.20972213">
+    <!-- offset: "365 Eagle Mountain Harbor Road, Milton, VT" Significant offset - 119.3m -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162511"/>
+  </node>
+  <node id="-4319" visible="true" lat="44.69420508" lon="-73.16089616">
+    <!-- offset: "413 Hibbard Road, Milton, VT" Significant offset - 108.4m -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="413"/>
+    <tag k="addr:street" v="Hibbard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341978"/>
   </node>
 </osm>

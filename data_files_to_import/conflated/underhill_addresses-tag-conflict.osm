@@ -1,604 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-124" visible="true" lat="44.61384964" lon="-72.9064331">
-    <!-- conflict: "23 Downes Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "23 Downs Road, Underhill, VT" -->
+  <node id="-101" visible="true" lat="44.52364796" lon="-72.94350783">
+    <!-- conflict: "16 Park Street, Underhill, VT" Fuzzy match to "16 Park Street, Jericho, VT" -->
     <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Downes Road"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263348"/>
+    <tag k="ref:vcgi:esiteid" v="135881"/>
   </node>
-  <node id="-125" visible="true" lat="44.61398749" lon="-72.9053321">
-    <!-- conflict: "29 Downes Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "29 Downs Road, Underhill, VT" -->
+  <node id="-102" visible="true" lat="44.5225436" lon="-72.94237543">
+    <!-- conflict: "26 Park Street, Underhill, VT" Fuzzy match to "26 Park Street, Jericho, VT" -->
     <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Downes Road"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263349"/>
+    <tag k="ref:vcgi:esiteid" v="135883"/>
   </node>
-  <node id="-127" visible="true" lat="44.61345169" lon="-72.90984876">
-    <!-- conflict: "8 Downes Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "8 Downs Road, Underhill, VT" -->
+  <node id="-715" visible="true" lat="44.52987428" lon="-72.94538975">
+    <!-- conflict: "26 Vermont Farmhouse Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "4 Vermont Farmhouse Road, Underhill, VT" -->
     <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Downes Road"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Vermont Farmhouse Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263351"/>
-  </node>
-  <node id="-128" visible="true" lat="44.61299552" lon="-72.9009961">
-    <!-- conflict: "43 Downes Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "43 Downs Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Downes Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263352"/>
-  </node>
-  <node id="-132" visible="true" lat="44.61208243" lon="-72.90709633">
-    <!-- conflict: "20 Downes Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "20 Downs Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Downes Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263356"/>
-  </node>
-  <node id="-147" visible="true" lat="44.60257804" lon="-72.92871168">
-    <!-- conflict: "29 Wildberry Lane, Underhill, VT" Fuzzy match to "29 Wild Berry Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Wildberry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263371"/>
-  </node>
-  <node id="-150" visible="true" lat="44.60167631" lon="-72.93071218">
-    <!-- conflict: "23 Wildberry Lane, Underhill, VT" Fuzzy match to "23 Wild Berry Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Wildberry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263374"/>
-  </node>
-  <node id="-151" visible="true" lat="44.60179973" lon="-72.93130433">
-    <!-- conflict: "9 Wildberry Lane, Underhill, VT" Fuzzy match to "9 Wild Berry Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Wildberry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263375"/>
-  </node>
-  <node id="-153" visible="true" lat="44.60110703" lon="-72.92846041">
-    <!-- conflict: "33 Wildberry Lane, Underhill, VT" Fuzzy match to "33 Wild Berry Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Wildberry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263377"/>
-  </node>
-  <node id="-156" visible="true" lat="44.60059035" lon="-72.9277793">
-    <!-- conflict: "41 Wildberry Lane, Underhill, VT" Fuzzy match to "41 Wild Berry Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Wildberry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263380"/>
-  </node>
-  <node id="-160" visible="true" lat="44.59982914" lon="-72.92826203">
-    <!-- conflict: "42 Wildberry Lane, Underhill, VT" Fuzzy match to "42 Wild Berry Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Wildberry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263384"/>
-  </node>
-  <node id="-161" visible="true" lat="44.5999794" lon="-72.93195342">
-    <!-- conflict: "8 Wildberry Lane, Underhill, VT" Fuzzy match to "8 Wild Berry Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Wildberry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263385"/>
-  </node>
-  <node id="-162" visible="true" lat="44.59982943" lon="-72.92714188">
-    <!-- conflict: "45 Wildberry Lane, Underhill, VT" Fuzzy match to "45 Wild Berry Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Wildberry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263386"/>
-  </node>
-  <node id="-163" visible="true" lat="44.59870495" lon="-72.928944">
-    <!-- conflict: "54 Wildberry Lane, Underhill, VT" Fuzzy match to "54 Wild Berry Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Wildberry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263387"/>
-  </node>
-  <node id="-174" visible="true" lat="44.59671713" lon="-72.91918051">
-    <!-- conflict: "497 Poker Hill Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Poker Hill Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="497"/>
-    <tag k="addr:street" v="Poker Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263398"/>
-  </node>
-  <node id="-197" visible="true" lat="44.59372753" lon="-72.93718065">
-    <!-- conflict: "914 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "914 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="914"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263422"/>
-  </node>
-  <node id="-218" visible="true" lat="44.59094177" lon="-72.93794064">
-    <!-- conflict: "896 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "896 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="896"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263443"/>
-  </node>
-  <node id="-223" visible="true" lat="44.59047317" lon="-72.87905883">
-    <!-- conflict: "19 Butler Lane, Underhill, VT" Fuzzy match to "19 Butler Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Butler Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263448"/>
-  </node>
-  <node id="-228" visible="true" lat="44.589724" lon="-72.9376543">
-    <!-- conflict: "890 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "890 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="890"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263453"/>
-  </node>
-  <node id="-231" visible="true" lat="44.58951845" lon="-72.87847184">
-    <!-- conflict: "9 Butler Lane, Underhill, VT" Fuzzy match to "9 Butler Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Butler Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263456"/>
-  </node>
-  <node id="-232" visible="true" lat="44.58897373" lon="-72.93821166">
-    <!-- conflict: "880 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "880 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="880"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263457"/>
-  </node>
-  <node id="-247" visible="true" lat="44.58823999" lon="-72.93831782">
-    <!-- conflict: "874 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "874 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="874"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263472"/>
-  </node>
-  <node id="-249" visible="true" lat="44.58781492" lon="-72.93956242">
-    <!-- conflict: "863 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "863 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="863"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263474"/>
-  </node>
-  <node id="-251" visible="true" lat="44.58755432" lon="-72.94019076">
-    <!-- conflict: "861 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: " State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="861"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263476"/>
-  </node>
-  <node id="-253" visible="true" lat="44.58739744" lon="-72.93857105">
-    <!-- conflict: "868 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "868 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="868"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263478"/>
-  </node>
-  <node id="-257" visible="true" lat="44.58630996" lon="-72.94092645">
-    <!-- conflict: "855 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: " State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="855"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263482"/>
-  </node>
-  <node id="-276" visible="true" lat="44.58277149" lon="-72.94008764">
-    <!-- conflict: "832 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "832 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="832"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263501"/>
-  </node>
-  <node id="-287" visible="true" lat="44.58106024" lon="-72.94184477">
-    <!-- conflict: "817 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "817 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="817"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263512"/>
-  </node>
-  <node id="-301" visible="true" lat="44.57909936" lon="-72.94228358">
-    <!-- conflict: "805 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "805 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="805"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263526"/>
-  </node>
-  <node id="-309" visible="true" lat="44.57798281" lon="-72.9425412">
-    <!-- conflict: "799 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "799 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="799"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263534"/>
-  </node>
-  <node id="-320" visible="true" lat="44.57580803" lon="-72.94235583">
-    <!-- conflict: "779 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "779 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="779"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263546"/>
-  </node>
-  <node id="-321" visible="true" lat="44.57567038" lon="-72.94170982">
-    <!-- conflict: "780 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "780 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="780"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263547"/>
-  </node>
-  <node id="-325" visible="true" lat="44.57474541" lon="-72.94249968">
-    <!-- conflict: "773 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "773 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="773"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263552"/>
-  </node>
-  <node id="-327" visible="true" lat="44.57514395" lon="-72.94162422">
-    <!-- conflict: "772 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "772 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="772"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263554"/>
-  </node>
-  <node id="-328" visible="true" lat="44.57434177" lon="-72.94255832">
-    <!-- conflict: "769 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "769 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="769"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263555"/>
-  </node>
-  <node id="-349" visible="true" lat="44.5700286" lon="-72.88483284">
-    <!-- conflict: "5 Basin Hill Lane, Underhill, VT" No match in OSM, but a different address exists <5m away: " Basin Hill Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Basin Hill Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263577"/>
-  </node>
-  <node id="-380" visible="true" lat="44.56652544" lon="-72.94003832">
-    <!-- conflict: "720 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "720 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="720"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263608"/>
-  </node>
-  <node id="-389" visible="true" lat="44.56494911" lon="-72.94085">
-    <!-- conflict: "698 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "698 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="698"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263617"/>
-  </node>
-  <node id="-400" visible="true" lat="44.56425948" lon="-72.94134294">
-    <!-- conflict: "696 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "696 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="696"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263628"/>
-  </node>
-  <node id="-408" visible="true" lat="44.56335984" lon="-72.94128764">
-    <!-- conflict: "690 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "690 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="690"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263636"/>
-  </node>
-  <node id="-421" visible="true" lat="44.56180591" lon="-72.9416999">
-    <!-- conflict: "686 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "686 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="686"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263649"/>
-  </node>
-  <node id="-422" visible="true" lat="44.56198134" lon="-72.94244043">
-    <!-- conflict: "679 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "679 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="679"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263650"/>
-  </node>
-  <node id="-443" visible="true" lat="44.5600713" lon="-72.94255537">
-    <!-- conflict: "668 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "668 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="668"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263671"/>
-  </node>
-  <node id="-447" visible="true" lat="44.55935933" lon="-72.94271451">
-    <!-- conflict: "660 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "660 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="660"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263675"/>
-  </node>
-  <node id="-468" visible="true" lat="44.55749009" lon="-72.94349637">
-    <!-- conflict: "646 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "646 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="646"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263696"/>
-  </node>
-  <node id="-515" visible="true" lat="44.55431933" lon="-72.944597">
-    <!-- conflict: "618 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "618 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="618"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263743"/>
-  </node>
-  <node id="-540" visible="true" lat="44.55023223" lon="-72.94582493">
-    <!-- conflict: "585 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "585 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="585"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263768"/>
-  </node>
-  <node id="-550" visible="true" lat="44.54926094" lon="-72.94657242">
-    <!-- conflict: "575 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "575 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="575"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263778"/>
-  </node>
-  <node id="-573" visible="true" lat="44.5458703" lon="-72.94851098">
-    <!-- conflict: "551 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "551 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="551"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263801"/>
-  </node>
-  <node id="-598" visible="true" lat="44.54073422" lon="-72.95108426">
-    <!-- conflict: "521 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "523 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="521"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263827"/>
-  </node>
-  <node id="-612" visible="true" lat="44.53946264" lon="-72.94985168">
-    <!-- conflict: "505 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "505 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="505"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263841"/>
-  </node>
-  <node id="-622" visible="true" lat="44.5381068" lon="-72.94973215">
-    <!-- conflict: "497 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "497 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="497"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263851"/>
-  </node>
-  <node id="-623" visible="true" lat="44.53608663" lon="-72.95448422">
-    <!-- conflict: "485 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "485 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="485"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263852"/>
-  </node>
-  <node id="-638" visible="true" lat="44.53580112" lon="-72.94871901">
-    <!-- conflict: "483 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "483 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="483"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263867"/>
-  </node>
-  <node id="-642" visible="true" lat="44.53538569" lon="-72.94668352">
-    <!-- conflict: "476 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "476 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="476"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263871"/>
-  </node>
-  <node id="-684" visible="true" lat="44.5318502" lon="-72.94512417">
-    <!-- conflict: "447 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "447 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="447"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263914"/>
-  </node>
-  <node id="-693" visible="true" lat="44.53155329" lon="-72.94416612">
-    <!-- conflict: "446 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "446 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="446"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263923"/>
-  </node>
-  <node id="-694" visible="true" lat="44.53121118" lon="-72.94422129">
-    <!-- conflict: "444 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "444 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="444"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263924"/>
-  </node>
-  <node id="-699" visible="true" lat="44.53106902" lon="-72.94501152">
-    <!-- conflict: "441 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "441 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="441"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263929"/>
-  </node>
-  <node id="-706" visible="true" lat="44.53051757" lon="-72.94508361">
-    <!-- conflict: "439 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "439 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="439"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263936"/>
-  </node>
-  <node id="-713" visible="true" lat="44.53013183" lon="-72.94507742">
-    <!-- conflict: "435 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "435 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="435"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263943"/>
-  </node>
-  <node id="-732" visible="true" lat="44.52913557" lon="-72.9452122">
-    <!-- conflict: "427 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "427 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="427"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263962"/>
-  </node>
-  <node id="-733" visible="true" lat="44.52911234" lon="-72.94455944">
-    <!-- conflict: "428 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "428 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="428"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263963"/>
-  </node>
-  <node id="-738" visible="true" lat="44.52921954" lon="-72.8765532">
-    <!-- conflict: "3 Harvey Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "218 Pleasant Valley Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Harvey Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263968"/>
-  </node>
-  <node id="-747" visible="true" lat="44.52881923" lon="-72.944559">
-    <!-- conflict: "426 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "426 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="426"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263977"/>
-  </node>
-  <node id="-750" visible="true" lat="44.52866527" lon="-72.94523087">
-    <!-- conflict: "423 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "423 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="423"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263980"/>
-  </node>
-  <node id="-753" visible="true" lat="44.52847438" lon="-72.9445619">
-    <!-- conflict: "424 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "424 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="424"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263983"/>
-  </node>
-  <node id="-757" visible="true" lat="44.52833112" lon="-72.94521442">
-    <!-- conflict: "421 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "421 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="421"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263987"/>
-  </node>
-  <node id="-763" visible="true" lat="44.52789308" lon="-72.94525135">
-    <!-- conflict: "419 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "419 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="419"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263993"/>
-  </node>
-  <node id="-764" visible="true" lat="44.52756812" lon="-72.94433855">
-    <!-- conflict: "420 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "420 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="420"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263994"/>
-  </node>
-  <node id="-772" visible="true" lat="44.52742016" lon="-72.94530672">
-    <!-- conflict: "417 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "417 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="417"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264003"/>
-  </node>
-  <node id="-774" visible="true" lat="44.52709273" lon="-72.94478309">
-    <!-- conflict: "416 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "416 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="416"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264005"/>
-  </node>
-  <node id="-778" visible="true" lat="44.52684774" lon="-72.94477622">
-    <!-- conflict: "414 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "414 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="414"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264009"/>
-  </node>
-  <node id="-780" visible="true" lat="44.5267839" lon="-72.94538041">
-    <!-- conflict: "411 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "411 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="411"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264011"/>
-  </node>
-  <node id="-781" visible="true" lat="44.52667306" lon="-72.94481477">
-    <!-- conflict: "412 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "412 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="412"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264012"/>
+    <tag k="ref:vcgi:esiteid" v="263945"/>
   </node>
   <node id="-783" visible="true" lat="44.52671348" lon="-72.93303828">
     <!-- conflict: "71 Maple Ridge, Underhill, VT" Fuzzy match to "71 Maple Ridge Road, Underhill, VT" -->
@@ -607,14 +31,6 @@
     <tag k="addr:street" v="Maple Ridge"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="264014"/>
-  </node>
-  <node id="-784" visible="true" lat="44.52645231" lon="-72.9447827">
-    <!-- conflict: "410 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "410 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="410"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264015"/>
   </node>
   <node id="-787" visible="true" lat="44.52649145" lon="-72.93067116">
     <!-- conflict: "75 Maple Ridge, Underhill, VT" Fuzzy match to "75 Maple Ridge Road, Underhill, VT" -->
@@ -631,54 +47,6 @@
     <tag k="addr:street" v="Maple Ridge"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="264019"/>
-  </node>
-  <node id="-789" visible="true" lat="44.52633448" lon="-72.94479697">
-    <!-- conflict: "408 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "408 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="408"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264021"/>
-  </node>
-  <node id="-790" visible="true" lat="44.52612263" lon="-72.94533678">
-    <!-- conflict: "407 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "407 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="407"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264022"/>
-  </node>
-  <node id="-791" visible="true" lat="44.52610984" lon="-72.94476909">
-    <!-- conflict: "406 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "406 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="406"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264023"/>
-  </node>
-  <node id="-793" visible="true" lat="44.52595683" lon="-72.94537477">
-    <!-- conflict: "405 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "405 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="405"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264025"/>
-  </node>
-  <node id="-794" visible="true" lat="44.52582168" lon="-72.9453839">
-    <!-- conflict: "403 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "403 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="403"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264026"/>
-  </node>
-  <node id="-804" visible="true" lat="44.52513254" lon="-72.86598313">
-    <!-- conflict: "364 Marvin Taylor Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "58 Harvey Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="364"/>
-    <tag k="addr:street" v="Marvin Taylor Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264036"/>
   </node>
   <node id="-805" visible="true" lat="44.52484893" lon="-72.93286895">
     <!-- conflict: "74 Maple Ridge, Underhill, VT" Fuzzy match to "74 Maple Ridge Road, Underhill, VT" -->
@@ -720,6 +88,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="264047"/>
   </node>
+  <node id="-817" visible="true" lat="44.52394867" lon="-72.94386291">
+    <!-- conflict: "14 Park Street, Underhill, VT" Fuzzy match to "14 Park Street, Jericho, VT" -->
+    <tag k="addr:city" v="Underhill"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="264049"/>
+  </node>
   <node id="-819" visible="true" lat="44.52392579" lon="-72.93985703">
     <!-- conflict: "29 Maple Ridge, Underhill, VT" Fuzzy match to "29 Maple Ridge Road, Underhill, VT" -->
     <tag k="addr:city" v="Underhill"/>
@@ -743,14 +119,6 @@
     <tag k="addr:street" v="Maple Ridge"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="264056"/>
-  </node>
-  <node id="-827" visible="true" lat="44.52340128" lon="-72.92926088">
-    <!-- conflict: "15 Chamberlin Woods, Underhill, VT" No match in OSM, but a different address exists <5m away: " Chamberlin Woods, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Chamberlin Woods"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264059"/>
   </node>
   <node id="-833" visible="true" lat="44.52310149" lon="-72.93914624">
     <!-- conflict: "32 Maple Ridge, Underhill, VT" Fuzzy match to "32 Maple Ridge Road, Underhill, VT" -->
@@ -816,134 +184,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="264081"/>
   </node>
-  <node id="-951" visible="true" lat="44.511837" lon="-72.90536498">
-    <!-- conflict: "6 Sand Hill Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Sand Hill Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Sand Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264185"/>
-  </node>
-  <node id="-976" visible="true" lat="44.50877147" lon="-72.90986481">
-    <!-- conflict: "32 South Hill Drive, Underhill, VT" No match in OSM, but a different address exists <5m away: " South Hill Drive, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="South Hill Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264210"/>
-  </node>
-  <node id="-985" visible="true" lat="44.50892693" lon="-72.86769735">
-    <!-- conflict: "31 Maple Leaf Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Maple Leaf Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Maple Leaf Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264219"/>
-  </node>
-  <node id="-1010" visible="true" lat="44.50758282" lon="-72.86783647">
-    <!-- conflict: "29 Maple Leaf Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Maple Leaf Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Maple Leaf Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264244"/>
-  </node>
-  <node id="-1011" visible="true" lat="44.50741107" lon="-72.90450303">
-    <!-- conflict: "8 Range Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Range Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Range Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264245"/>
-  </node>
-  <node id="-1016" visible="true" lat="44.5072497" lon="-72.90195617">
-    <!-- conflict: "286 River Road, Underhill, VT" Fuzzy match to "286 River Road, Underhill Center, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="286"/>
-    <tag k="addr:street" v="River Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264250"/>
-  </node>
-  <node id="-1030" visible="true" lat="44.50666012" lon="-72.9002846">
-    <!-- conflict: "6 Green Street, Underhill, VT" Fuzzy match to "6 Green Street, Underhill Center, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Green Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264265"/>
-  </node>
-  <node id="-1055" visible="true" lat="44.50580752" lon="-72.86475364">
-    <!-- conflict: "10 Maple Leaf Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Maple Leaf Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Maple Leaf Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264290"/>
-  </node>
-  <node id="-1058" visible="true" lat="44.50515725" lon="-72.87227603">
-    <!-- conflict: "135 Stevensville Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Stevensville Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="135"/>
-    <tag k="addr:street" v="Stevensville Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264293"/>
-  </node>
-  <node id="-1077" visible="true" lat="44.50429941" lon="-72.88870534">
-    <!-- conflict: "154 Kusserow Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "49 Beartown Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="154"/>
-    <tag k="addr:street" v="Kusserow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264312"/>
-  </node>
-  <node id="-1093" visible="true" lat="44.50347482" lon="-72.88412792">
-    <!-- conflict: "10 High Meadows Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " High Meadows Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="High Meadows Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264328"/>
-  </node>
-  <node id="-1111" visible="true" lat="44.50187627" lon="-72.90007094">
-    <!-- conflict: "42 Krug Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Krug Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Krug Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264346"/>
-  </node>
-  <node id="-1118" visible="true" lat="44.50126453" lon="-72.89969691">
-    <!-- conflict: "46 Krug Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Krug Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Krug Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264353"/>
-  </node>
-  <node id="-1127" visible="true" lat="44.49988641" lon="-72.90653796">
-    <!-- conflict: "63 Range Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Range Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Range Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264362"/>
-  </node>
-  <node id="-1137" visible="true" lat="44.55819567" lon="-72.94241653">
-    <!-- conflict: "656 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "656 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="656"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264372"/>
-  </node>
-  <node id="-1149" visible="true" lat="44.59136235" lon="-72.87835663">
-    <!-- conflict: "23 Butler Lane, Underhill, VT" Fuzzy match to "23 Butler Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Butler Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264384"/>
-  </node>
   <node id="-1175" visible="true" lat="44.52417176" lon="-72.93501302">
     <!-- conflict: "60 Maple Ridge, Underhill, VT" Fuzzy match to "60 Maple Ridge Road, Underhill, VT" -->
     <tag k="addr:city" v="Underhill"/>
@@ -951,38 +191,6 @@
     <tag k="addr:street" v="Maple Ridge"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="264410"/>
-  </node>
-  <node id="-1181" visible="true" lat="44.505906" lon="-72.86533071">
-    <!-- conflict: "8 Maple Leaf Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Maple Leaf Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Maple Leaf Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264417"/>
-  </node>
-  <node id="-1191" visible="true" lat="44.61439149" lon="-72.90809157">
-    <!-- conflict: "11 Downes Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "11 Downs Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Downes Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264427"/>
-  </node>
-  <node id="-1194" visible="true" lat="44.58892695" lon="-72.93907307">
-    <!-- conflict: "881 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "881 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="881"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="264430"/>
-  </node>
-  <node id="-1213" visible="true" lat="44.57087516" lon="-72.88458952">
-    <!-- conflict: "4 Basin Hill Lane, Underhill, VT" No match in OSM, but a different address exists <5m away: " Basin Hill Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Basin Hill Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="317273"/>
   </node>
   <node id="-1248" visible="true" lat="44.52443529" lon="-72.93693959">
     <!-- conflict: "43 Maple Ridge, Underhill, VT" Fuzzy match to "43 Maple Ridge Road, Underhill, VT" -->
@@ -992,220 +200,60 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328431"/>
   </node>
-  <node id="-1254" visible="true" lat="44.54009214" lon="-72.95292281">
-    <!-- conflict: "523 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: " State Route 15, Underhill, VT" -->
+  <node id="-1298" visible="true" lat="44.53002455" lon="-72.94629173">
+    <!-- conflict: "67 Vermont Farmhouse Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "7 Vermont Farmhouse Road, Underhill, VT" -->
     <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="523"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Vermont Farmhouse Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="328437"/>
+    <tag k="ref:vcgi:esiteid" v="337710"/>
   </node>
-  <node id="-1273" visible="true" lat="44.60724028" lon="-72.89973985">
-    <!-- conflict: "82 Downes Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "82 Downs Road, Underhill, VT" -->
+  <node id="-1308" visible="true" lat="44.52279453" lon="-72.94262264">
+    <!-- conflict: "24 Park Street, Underhill, VT" Fuzzy match to "24 Park Street, Jericho, VT" -->
     <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Downes Road"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="331036"/>
+    <tag k="ref:vcgi:esiteid" v="341238"/>
   </node>
-  <node id="-1274" visible="true" lat="44.59139086" lon="-72.88738368">
-    <!-- conflict: "11 Butler Lane, Underhill, VT" No match in OSM, but a different address exists <5m away: "595 Irish Settlement Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Butler Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="331037"/>
-  </node>
-  <node id="-1280" visible="true" lat="44.60611295" lon="-72.92472598">
-    <!-- conflict: "39 Hobart Hill, Underhill, VT" Fuzzy match to "39 Hobart Hill Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Hobart Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="331149"/>
-  </node>
-  <node id="-1281" visible="true" lat="44.60520564" lon="-72.92700457">
-    <!-- conflict: "40 Hobart Hill, Underhill, VT" Fuzzy match to "40 Hobart Hill Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Hobart Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="331150"/>
-  </node>
-  <node id="-1318" visible="true" lat="44.56568392" lon="-72.88533373">
-    <!-- conflict: "431 Irish Settlement Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Irish Settlement Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="431"/>
-    <tag k="addr:street" v="Irish Settlement Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345257"/>
-  </node>
-  <node id="-1322" visible="true" lat="44.51143092" lon="-72.86079208">
-    <!-- conflict: "6 Wheeler Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Wheeler Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Wheeler Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345262"/>
-  </node>
-  <node id="-1328" visible="true" lat="44.55656462" lon="-72.94298249">
-    <!-- conflict: "640 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "640 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="640"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="448695"/>
-  </node>
-  <node id="-1329" visible="true" lat="44.51334154" lon="-72.85660405">
-    <!-- conflict: "28 Wheeler Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Wheeler Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Wheeler Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450526"/>
-  </node>
-  <node id="-1335" visible="true" lat="44.52038623" lon="-72.93971101">
-    <!-- conflict: "54 River Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "50 River Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="River Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450533"/>
-  </node>
-  <node id="-1336" visible="true" lat="44.59194823" lon="-72.87694097">
-    <!-- conflict: "28 Butler Lane, Underhill, VT" No match in OSM, but a different address exists <5m away: " Butler Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Butler Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452853"/>
-  </node>
-  <node id="-1342" visible="true" lat="44.58758532" lon="-72.93336153">
-    <!-- conflict: "75 Cloverdale Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Cloverdale Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Cloverdale Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="455169"/>
-  </node>
-  <node id="-1364" visible="true" lat="44.52688666" lon="-72.94030184">
-    <!-- conflict: "7 Mins Lane, Underhill, VT" No match in OSM, but a different address exists <5m away: " Mins Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Mins Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617280"/>
-  </node>
-  <node id="-1368" visible="true" lat="44.53736858" lon="-72.95124249">
-    <!-- conflict: "495 Vermont Route 15, Underhill, VT" No match in OSM, but a different address exists <5m away: "493 State Route 15, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="495"/>
-    <tag k="addr:street" v="Vermont Route 15"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620408"/>
-  </node>
-  <node id="-1372" visible="true" lat="44.57751803" lon="-72.91807198">
-    <!-- conflict: "284 Iron Kettle Lane, Underhill, VT" No match in OSM, but a different address exists <5m away: "330 Poker Hill Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="284"/>
-    <tag k="addr:street" v="Iron Kettle Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="655174"/>
-  </node>
-  <node id="-1373" visible="true" lat="44.57540937" lon="-72.92040209">
-    <!-- conflict: "118 Iron Kettle Lane, Underhill, VT" No match in OSM, but a different address exists <5m away: "328 Poker Hill Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:street" v="Iron Kettle Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="655175"/>
-  </node>
-  <node id="-1398" visible="true" lat="44.52344859" lon="-72.88233973">
-    <!-- conflict: "163 Pleasant Valley Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Pleasant Valley Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="163"/>
-    <tag k="addr:street" v="Pleasant Valley Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="655971"/>
-  </node>
-  <node id="-1407" visible="true" lat="44.526513" lon="-72.94037098">
-    <!-- conflict: "5 Mins Lane, Underhill, VT" No match in OSM, but a different address exists <5m away: " Mins Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Mins Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750975"/>
-  </node>
-  <node id="-1408" visible="true" lat="44.52760898" lon="-72.94025575">
-    <!-- conflict: "9 Mins Lane, Underhill, VT" No match in OSM, but a different address exists <5m away: " Mins Lane, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Mins Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750976"/>
-  </node>
-  <node id="-1412" visible="true" lat="44.50379407" lon="-72.89202767">
-    <!-- conflict: "50 Beartown Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Beartown Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Beartown Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753150"/>
-  </node>
-  <node id="-1414" visible="true" lat="44.52347236" lon="-72.92499269">
-    <!-- conflict: "31 Chamberlin Woods, Underhill, VT" No match in OSM, but a different address exists <5m away: " Chamberlin Woods, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Chamberlin Woods"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753152"/>
-  </node>
-  <node id="-1417" visible="true" lat="44.55998276" lon="-72.94882723">
-    <!-- conflict: "22 Russin Drive, Underhill, VT" No match in OSM, but a different address exists <5m away: " Russin Drive, Underhill, VT" -->
+  <node id="-1309" visible="true" lat="44.52303936" lon="-72.94287163">
+    <!-- conflict: "22 Park Street, Underhill, VT" Fuzzy match to "22 Park Street, Jericho, VT" -->
     <tag k="addr:city" v="Underhill"/>
     <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Russin Drive"/>
+    <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753155"/>
+    <tag k="ref:vcgi:esiteid" v="341239"/>
   </node>
-  <node id="-1449" visible="true" lat="44.59668062" lon="-72.91439445">
-    <!-- conflict: "23 Mullen Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Mullen Road, Underhill, VT" -->
+  <node id="-1343" visible="true" lat="44.52174898" lon="-72.94151654">
+    <!-- conflict: "34 Park Street, Underhill, VT" Fuzzy match to "34 Park Street, Jericho, VT" -->
     <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Mullen Road"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="756810"/>
+    <tag k="ref:vcgi:esiteid" v="455191"/>
   </node>
-  <node id="-1475" visible="true" lat="44.59588356" lon="-72.91956525">
-    <!-- conflict: "489 Poker Hill Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Poker Hill Road, Underhill, VT" -->
+  <node id="-1344" visible="true" lat="44.52328575" lon="-72.94311076">
+    <!-- conflict: "20 Park Street, Underhill, VT" Fuzzy match to "20 Park Street, Jericho, VT" -->
     <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="489"/>
-    <tag k="addr:street" v="Poker Hill Road"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="765413"/>
+    <tag k="ref:vcgi:esiteid" v="455192"/>
   </node>
-  <node id="-1488" visible="true" lat="44.50450754" lon="-72.87783767">
-    <!-- conflict: "106 Stevensville Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Stevensville Road, Underhill, VT" -->
+  <node id="-1345" visible="true" lat="44.5212663" lon="-72.94104731">
+    <!-- conflict: "38 Park Street, Underhill, VT" Fuzzy match to "38 Park Street, Jericho, VT" -->
     <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Stevensville Road"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="765993"/>
+    <tag k="ref:vcgi:esiteid" v="455193"/>
   </node>
-  <node id="-1507" visible="true" lat="44.50904621" lon="-72.90943209">
-    <!-- conflict: "30 South Hill Drive, Underhill, VT" No match in OSM, but a different address exists <5m away: " South Hill Drive, Underhill, VT" -->
+  <node id="-1445" visible="true" lat="44.53075173" lon="-72.94804105">
+    <!-- conflict: "61 Vermont Farmhouse Road, Underhill, VT" No match in OSM, but a different address exists <5m away: "5 Vermont Farmhouse Road, Underhill, VT" -->
     <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="South Hill Drive"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Vermont Farmhouse Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="766045"/>
-  </node>
-  <node id="-1565" visible="true" lat="44.56009446" lon="-72.88114645">
-    <!-- conflict: "400 Irish Settlement Road, Underhill, VT" No match in OSM, but a different address exists <5m away: " Irish Settlement Road, Underhill, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="400"/>
-    <tag k="addr:street" v="Irish Settlement Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768884"/>
+    <tag k="ref:vcgi:esiteid" v="755941"/>
   </node>
 </osm>

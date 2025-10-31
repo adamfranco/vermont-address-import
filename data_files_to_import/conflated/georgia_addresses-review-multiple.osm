@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-284" visible="true" lat="44.76783951" lon="-73.16162143">
+    <!-- multiple: "4815 Georgia Shore Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="4815"/>
+    <tag k="addr:street" v="Georgia Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110065"/>
+  </node>
+  <node id="-319" visible="true" lat="44.76175308" lon="-73.08081054">
+    <!-- multiple: "3731 Oakland Station Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3731"/>
+    <tag k="addr:street" v="Oakland Station Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="110100"/>
+  </node>
   <node id="-1132" visible="true" lat="44.69638359" lon="-73.10795559">
     <!-- multiple: "1207 Ethan Allen Highway, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="1207"/>
     <tag k="addr:street" v="Ethan Allen Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="110921"/>
+  </node>
+  <node id="-1843" visible="true" lat="44.68711502" lon="-73.10771254">
+    <!-- multiple: "102 Guilder Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111666"/>
+  </node>
+  <node id="-1855" visible="true" lat="44.69385464" lon="-73.08624968">
+    <!-- multiple: "1803 Skunk Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1803"/>
+    <tag k="addr:street" v="Skunk Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111680"/>
+  </node>
+  <node id="-1945" visible="true" lat="44.68717671" lon="-73.1081404">
+    <!-- multiple: "102 Guilder Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Guilder Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="329318"/>
+  </node>
+  <node id="-2066" visible="true" lat="44.76684282" lon="-73.08362171">
+    <!-- multiple: "2962 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2962"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450515"/>
+  </node>
+  <node id="-2192" visible="true" lat="44.78145789" lon="-73.10881944">
+    <!-- multiple: "92 Wilder Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Wilder Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754750"/>
+  </node>
+  <node id="-2268" visible="true" lat="44.78150394" lon="-73.10895379">
+    <!-- multiple: "94 Wilder Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Wilder Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766196"/>
   </node>
 </osm>

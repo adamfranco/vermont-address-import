@@ -1,3 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-103" visible="true" lat="44.55063611" lon="-72.53445234">
+    <!-- multiple: "1255 Richard Woolcutt Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1255"/>
+    <tag k="addr:street" v="Richard Woolcutt Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="92608"/>
+  </node>
+  <node id="-104" visible="true" lat="44.5508871" lon="-72.53581357">
+    <!-- multiple: "1331 Richard Woolcutt Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1331"/>
+    <tag k="addr:street" v="Richard Woolcutt Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="92609"/>
+  </node>
+  <node id="-536" visible="true" lat="44.55140094" lon="-72.5366546">
+    <!-- multiple: "1369 Richard Woolcutt Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1369"/>
+    <tag k="addr:street" v="Richard Woolcutt Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="93046"/>
+  </node>
+  <node id="-661" visible="true" lat="44.51947766" lon="-72.44933692">
+    <!-- multiple: "900 Gates Farm Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:street" v="Gates Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454360"/>
+  </node>
+  <node id="-696" visible="true" lat="44.55087379" lon="-72.54131297">
+    <!-- multiple: "48 Vermont Route 12, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Vermont Route 12"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753149"/>
+  </node>
 </osm>

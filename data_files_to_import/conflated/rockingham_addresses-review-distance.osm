@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-212" visible="true" lat="43.22282028" lon="-72.44724273">
+    <!-- offset: "823 Missing Link Road, , VT" Significant offset - 155m -->
+    <tag k="addr:housenumber" v="823"/>
+    <tag k="addr:street" v="Missing Link Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="203105"/>
+  </node>
+  <node id="-596" visible="true" lat="43.16104708" lon="-72.4556321">
+    <!-- offset: "5 Industrial Drive, , VT" Significant offset - 101.7m -->
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Industrial Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="203504"/>
+  </node>
 </osm>

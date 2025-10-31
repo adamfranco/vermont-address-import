@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-118" visible="true" lat="44.67599858" lon="-73.34614063">
+    <!-- multiple: "586 West Shore Road, South Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="586"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="233263"/>
+  </node>
+  <node id="-121" visible="true" lat="44.67566502" lon="-73.34618061">
+    <!-- multiple: "586 West Shore Road, South Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="586"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="233266"/>
+  </node>
+  <node id="-127" visible="true" lat="44.6752701" lon="-73.34839363">
+    <!-- multiple: "581 West Shore Road, South Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="581"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="233272"/>
+  </node>
+  <node id="-129" visible="true" lat="44.67515947" lon="-73.34898872">
+    <!-- multiple: "581 West Shore Road, South Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="581"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="233274"/>
+  </node>
+  <node id="-155" visible="true" lat="44.67036437" lon="-73.32135009">
+    <!-- multiple: "564 U.S. Route 2, South Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="564"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="233300"/>
+  </node>
+  <node id="-158" visible="true" lat="44.66977806" lon="-73.3357808">
+    <!-- multiple: "66 Ferry Road, South Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Ferry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="233303"/>
+  </node>
   <node id="-246" visible="true" lat="44.66418457" lon="-73.32299041">
     <!-- multiple: "1 Ferry Road, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
@@ -8,39 +56,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233394"/>
   </node>
-  <node id="-372" visible="true" lat="44.65683746" lon="-73.3061676">
-    <!-- multiple: "98 Wallys Point Road, South Hero, VT" Multiple exact matches in OSM. -->
+  <node id="-350" visible="true" lat="44.65820995" lon="-73.32089336">
+    <!-- multiple: "472 U.S. Route 2, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Wallys Point Road"/>
+    <tag k="addr:housenumber" v="472"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233527"/>
+    <tag k="ref:vcgi:esiteid" v="233505"/>
   </node>
-  <node id="-388" visible="true" lat="44.65546874" lon="-73.30864102">
-    <!-- multiple: "49 Heron Ridge Road, South Hero, VT" Multiple exact matches in OSM. -->
+  <node id="-352" visible="true" lat="44.65803707" lon="-73.32053847">
+    <!-- multiple: "472 U.S. Route 2, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Heron Ridge Road"/>
+    <tag k="addr:housenumber" v="472"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233543"/>
+    <tag k="ref:vcgi:esiteid" v="233507"/>
   </node>
-  <node id="-399" visible="true" lat="44.65457752" lon="-73.30931702">
-    <!-- multiple: "41 Heron Ridge Road, South Hero, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Heron Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233555"/>
-  </node>
-  <node id="-419" visible="true" lat="44.65367517" lon="-73.290912">
-    <!-- multiple: "47 Gifford Lane, South Hero, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Gifford Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233575"/>
-  </node>
-  <node id="-488" visible="true" lat="44.65002059" lon="-73.29815673">
+  <node id="-487" visible="true" lat="44.65002059" lon="-73.29815673">
     <!-- multiple: "25 Carter Lane, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="25"/>
@@ -48,7 +80,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233646"/>
   </node>
-  <node id="-493" visible="true" lat="44.64992141" lon="-73.29795074">
+  <node id="-492" visible="true" lat="44.64992141" lon="-73.29795074">
     <!-- multiple: "25 Carter Lane, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="25"/>
@@ -56,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233651"/>
   </node>
-  <node id="-508" visible="true" lat="44.64931735" lon="-73.29809408">
+  <node id="-507" visible="true" lat="44.64931735" lon="-73.29809408">
     <!-- multiple: "25 Carter Lane, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="25"/>
@@ -64,23 +96,39 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233667"/>
   </node>
-  <node id="-517" visible="true" lat="44.64903557" lon="-73.29471066">
-    <!-- multiple: "17 Heritage Drive, South Hero, VT" Multiple exact matches in OSM. -->
+  <node id="-589" visible="true" lat="44.64575958" lon="-73.30833435">
+    <!-- multiple: "348 U.S. Route 2, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Heritage Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233678"/>
-  </node>
-  <node id="-558" visible="true" lat="44.64657395" lon="-73.29917152">
-    <!-- multiple: "274 U.S. Route 2, South Hero, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="274"/>
+    <tag k="addr:housenumber" v="348"/>
     <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233719"/>
+    <tag k="ref:vcgi:esiteid" v="233754"/>
   </node>
-  <node id="-614" visible="true" lat="44.64488604" lon="-73.34695931">
+  <node id="-595" visible="true" lat="44.64563751" lon="-73.30850219">
+    <!-- multiple: "348 U.S. Route 2, South Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="348"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="233762"/>
+  </node>
+  <node id="-603" visible="true" lat="44.64552852" lon="-73.30091171">
+    <!-- multiple: "291 U.S. Route 2, South Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="291"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="233770"/>
+  </node>
+  <node id="-607" visible="true" lat="44.64544296" lon="-73.30168914">
+    <!-- multiple: "295 U.S. Route 2, South Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="295"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="233775"/>
+  </node>
+  <node id="-613" visible="true" lat="44.64488604" lon="-73.34695931">
     <!-- multiple: "341 West Shore Road, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="341"/>
@@ -88,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233783"/>
   </node>
-  <node id="-615" visible="true" lat="44.64488604" lon="-73.34652443">
+  <node id="-614" visible="true" lat="44.64488604" lon="-73.34652443">
     <!-- multiple: "341 West Shore Road, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="341"/>
@@ -96,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233784"/>
   </node>
-  <node id="-626" visible="true" lat="44.64465332" lon="-73.34634399">
+  <node id="-625" visible="true" lat="44.64465332" lon="-73.34634399">
     <!-- multiple: "341 West Shore Road, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="341"/>
@@ -104,15 +152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233795"/>
   </node>
-  <node id="-722" visible="true" lat="44.63631057" lon="-73.30220794">
-    <!-- multiple: "75 South Street, South Hero, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233896"/>
-  </node>
-  <node id="-740" visible="true" lat="44.63436126" lon="-73.30294036">
+  <node id="-739" visible="true" lat="44.63436126" lon="-73.30294036">
     <!-- multiple: "86 South Street, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="86"/>
@@ -120,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233917"/>
   </node>
-  <node id="-742" visible="true" lat="44.6342163" lon="-73.30310058">
+  <node id="-741" visible="true" lat="44.6342163" lon="-73.30310058">
     <!-- multiple: "86 South Street, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="86"/>
@@ -128,31 +168,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233921"/>
   </node>
-  <node id="-746" visible="true" lat="44.63393304" lon="-73.30219448">
-    <!-- multiple: "87 South Street, South Hero, VT" Multiple exact matches in OSM. -->
+  <node id="-995" visible="true" lat="44.60702496" lon="-73.30584392">
+    <!-- multiple: "308 South Street, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:housenumber" v="308"/>
     <tag k="addr:street" v="South Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233927"/>
+    <tag k="ref:vcgi:esiteid" v="234189"/>
   </node>
-  <node id="-767" visible="true" lat="44.63035591" lon="-73.30284122">
-    <!-- multiple: "114 South Street, South Hero, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233948"/>
-  </node>
-  <node id="-853" visible="true" lat="44.62128568" lon="-73.30198676">
-    <!-- multiple: "189 South Street, South Hero, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="189"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234037"/>
-  </node>
-  <node id="-1047" visible="true" lat="44.59732437" lon="-73.30228424">
+  <node id="-1046" visible="true" lat="44.59732437" lon="-73.30228424">
     <!-- multiple: "398 South Street, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="398"/>
@@ -160,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="234241"/>
   </node>
-  <node id="-1053" visible="true" lat="44.59690856" lon="-73.30249786">
+  <node id="-1052" visible="true" lat="44.59690856" lon="-73.30249786">
     <!-- multiple: "398 South Street, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="398"/>
@@ -168,7 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="234247"/>
   </node>
-  <node id="-1055" visible="true" lat="44.59666824" lon="-73.30257415">
+  <node id="-1054" visible="true" lat="44.59666824" lon="-73.30257415">
     <!-- multiple: "398 South Street, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="398"/>
@@ -176,7 +200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="234249"/>
   </node>
-  <node id="-1060" visible="true" lat="44.59648132" lon="-73.3024826">
+  <node id="-1059" visible="true" lat="44.59648132" lon="-73.3024826">
     <!-- multiple: "398 South Street, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="398"/>
@@ -184,20 +208,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="234254"/>
   </node>
-  <node id="-1584" visible="true" lat="44.66239252" lon="-73.34963549">
-    <!-- multiple: "485 West Shore Road, South Hero, VT" Multiple exact matches in OSM. -->
+  <node id="-1446" visible="true" lat="44.61831865" lon="-73.27522007">
+    <!-- multiple: "48 Outerbay Way, South Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="485"/>
-    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Outerbay Way"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751595"/>
-  </node>
-  <node id="-1717" visible="true" lat="44.6494871" lon="-73.30254393">
-    <!-- multiple: "25 Hill Road, South Hero, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="758359"/>
+    <tag k="ref:vcgi:esiteid" v="445405"/>
   </node>
 </osm>

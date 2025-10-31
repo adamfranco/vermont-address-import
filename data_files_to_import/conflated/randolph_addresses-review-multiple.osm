@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-502" visible="true" lat="43.94348522" lon="-72.654358">
-    <!-- multiple: "84 Scenic Drive, Randolph, VT" Multiple exact matches in OSM. -->
+  <node id="-496" visible="true" lat="43.94395065" lon="-72.62594604">
+    <!-- multiple: "1869 Vermont Route 66, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="84"/>
-    <tag k="addr:street" v="Scenic Drive"/>
+    <tag k="addr:housenumber" v="1869"/>
+    <tag k="addr:street" v="Vermont Route 66"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="196427"/>
+    <tag k="ref:vcgi:esiteid" v="196421"/>
   </node>
   <node id="-1000" visible="true" lat="43.92730349" lon="-72.66523673">
     <!-- multiple: "7 Central Street, Randolph, VT" Multiple exact matches in OSM. -->
@@ -16,45 +16,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="196967"/>
   </node>
-  <node id="-1048" visible="true" lat="43.92537029" lon="-72.66614243">
-    <!-- multiple: "30 North Main Street, Randolph, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="197021"/>
-  </node>
-  <node id="-1173" visible="true" lat="43.92328259" lon="-72.66486079">
+  <node id="-1173" visible="true" lat="43.92328834" lon="-72.66481599">
     <!-- multiple: "29 North Main Street, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197169"/>
-  </node>
-  <node id="-1174" visible="true" lat="43.92328007" lon="-72.66560605">
-    <!-- multiple: "12 North Main Street, Randolph, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="197170"/>
-  </node>
-  <node id="-1178" visible="true" lat="43.92318725" lon="-72.66647338">
-    <!-- multiple: "9 Salisbury Street, Randolph, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Salisbury Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="197174"/>
-  </node>
-  <node id="-1181" visible="true" lat="43.92312622" lon="-72.6669693">
-    <!-- multiple: "2 Summer Street, Randolph, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Summer Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="197177"/>
   </node>
   <node id="-1212" visible="true" lat="43.92268056" lon="-72.66571823">
     <!-- multiple: "4 Salisbury Street, Randolph, VT" Multiple exact matches in OSM. -->
@@ -96,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197521"/>
   </node>
-  <node id="-1744" visible="true" lat="43.92780607" lon="-72.67094777">
+  <node id="-1743" visible="true" lat="43.92780607" lon="-72.67094777">
     <!-- multiple: "26 Park Street, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="26"/>
@@ -104,7 +72,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197808"/>
   </node>
-  <node id="-1745" visible="true" lat="43.92779231" lon="-72.67125265">
+  <node id="-1744" visible="true" lat="43.92779231" lon="-72.67125265">
     <!-- multiple: "26 Park Street, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="26"/>
@@ -112,7 +80,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197809"/>
   </node>
-  <node id="-1746" visible="true" lat="43.92772666" lon="-72.67140968">
+  <node id="-1745" visible="true" lat="43.92772666" lon="-72.67140968">
     <!-- multiple: "26 Park Street, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="26"/>
@@ -120,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197810"/>
   </node>
-  <node id="-1748" visible="true" lat="43.92765888" lon="-72.67158257">
+  <node id="-1747" visible="true" lat="43.92765888" lon="-72.67158257">
     <!-- multiple: "26 Park Street, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="26"/>
@@ -128,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197812"/>
   </node>
-  <node id="-1749" visible="true" lat="43.92761604" lon="-72.67177513">
+  <node id="-1748" visible="true" lat="43.92761604" lon="-72.67177513">
     <!-- multiple: "26 Park Street, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="26"/>
@@ -136,7 +104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197813"/>
   </node>
-  <node id="-1750" visible="true" lat="43.92757111" lon="-72.67195823">
+  <node id="-1749" visible="true" lat="43.92757111" lon="-72.67195823">
     <!-- multiple: "26 Park Street, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="26"/>
@@ -144,7 +112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197814"/>
   </node>
-  <node id="-1766" visible="true" lat="43.92355042" lon="-72.66549444">
+  <node id="-1765" visible="true" lat="43.92355042" lon="-72.66549444">
     <!-- multiple: "16 North Main Street, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="16"/>
@@ -152,7 +120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197834"/>
   </node>
-  <node id="-1772" visible="true" lat="43.92234128" lon="-72.66716857">
+  <node id="-1771" visible="true" lat="43.92234128" lon="-72.66716857">
     <!-- multiple: "13 Weston Street, Randolph, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="13"/>

@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-244" visible="true" lat="44.09097928" lon="-72.73419723">
-    <!-- multiple: "1664 Roxbury Road, Roxbury, VT" Multiple exact matches in OSM. -->
+  <node id="-210" visible="true" lat="44.09313162" lon="-72.73212563">
+    <!-- multiple: "35 Tracy Hill Road, Roxbury, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Roxbury"/>
-    <tag k="addr:housenumber" v="1664"/>
-    <tag k="addr:street" v="Roxbury Road"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Tracy Hill Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="205444"/>
+    <tag k="ref:vcgi:esiteid" v="205410"/>
+  </node>
+  <node id="-575" visible="true" lat="44.08509162" lon="-72.64729484">
+    <!-- multiple: "371 East Roxbury Road, Roxbury, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Roxbury"/>
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340055"/>
   </node>
 </osm>

@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-326" visible="true" lat="44.93889051" lon="-72.50543319">
-    <!-- offset: "830 Jay Peak Road, Jay, VT" Significant offset - 111m -->
+  <node id="-703" visible="true" lat="44.94314416" lon="-72.43358454">
+    <!-- offset: "1174 Cross Road, Jay, VT" Significant offset - 117.5m -->
     <tag k="addr:city" v="Jay"/>
-    <tag k="addr:housenumber" v="830"/>
-    <tag k="addr:street" v="Jay Peak Road"/>
+    <tag k="addr:housenumber" v="1174"/>
+    <tag k="addr:street" v="Cross Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="135743"/>
+    <tag k="ref:vcgi:esiteid" v="756739"/>
+  </node>
+  <node id="-772" visible="true" lat="44.99849984" lon="-72.46599294">
+    <!-- offset: "901 Journeys End Road, Jay, VT" Significant offset - 200m -->
+    <tag k="addr:city" v="Jay"/>
+    <tag k="addr:housenumber" v="901"/>
+    <tag k="addr:street" v="Journeys End Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050032"/>
   </node>
 </osm>

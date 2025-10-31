@@ -24,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265536"/>
   </node>
-  <node id="-312" visible="true" lat="42.7755363" lon="-72.51441528">
+  <node id="-306" visible="true" lat="42.7755363" lon="-72.51441528">
     <!-- multiple: "320 Governor Hunt Road, Vernon, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="320"/>
@@ -32,7 +32,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265754"/>
   </node>
-  <node id="-326" visible="true" lat="42.77626312" lon="-72.51856495">
+  <node id="-320" visible="true" lat="42.77626312" lon="-72.51856495">
     <!-- multiple: "381 Governor Hunt Road, Vernon, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="381"/>
@@ -40,7 +40,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265769"/>
   </node>
-  <node id="-440" visible="true" lat="42.76223179" lon="-72.50628716">
+  <node id="-432" visible="true" lat="42.76407997" lon="-72.50605901">
+    <!-- multiple: "63 Stebbins Road, Vernon, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Vernon"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Stebbins Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="265882"/>
+  </node>
+  <node id="-433" visible="true" lat="42.76437154" lon="-72.50531037">
+    <!-- multiple: "63 Stebbins Road, Vernon, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Vernon"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Stebbins Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="265883"/>
+  </node>
+  <node id="-434" visible="true" lat="42.76223179" lon="-72.50628716">
     <!-- multiple: "2745 Fort Bridgman Road, Vernon, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="2745"/>
@@ -48,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265884"/>
   </node>
-  <node id="-441" visible="true" lat="42.76224896" lon="-72.50597685">
+  <node id="-435" visible="true" lat="42.76224896" lon="-72.50597685">
     <!-- multiple: "2745 Fort Bridgman Road, Vernon, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="2745"/>
@@ -56,7 +72,31 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265885"/>
   </node>
-  <node id="-995" visible="true" lat="42.73612289" lon="-72.46975271">
+  <node id="-489" visible="true" lat="42.76073307" lon="-72.49499612">
+    <!-- multiple: "3062 Fort Bridgman Road, Vernon, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Vernon"/>
+    <tag k="addr:housenumber" v="3062"/>
+    <tag k="addr:street" v="Fort Bridgman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="265942"/>
+  </node>
+  <node id="-491" visible="true" lat="42.76051583" lon="-72.49470135">
+    <!-- multiple: "3062 Fort Bridgman Road, Vernon, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Vernon"/>
+    <tag k="addr:housenumber" v="3062"/>
+    <tag k="addr:street" v="Fort Bridgman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="265944"/>
+  </node>
+  <node id="-516" visible="true" lat="42.76075033" lon="-72.49981757">
+    <!-- multiple: "2908 Fort Bridgman Road, Vernon, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Vernon"/>
+    <tag k="addr:housenumber" v="2908"/>
+    <tag k="addr:street" v="Fort Bridgman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="265969"/>
+  </node>
+  <node id="-989" visible="true" lat="42.73612289" lon="-72.46975271">
     <!-- multiple: "4236 Fort Bridgman Road, Vernon, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="4236"/>
@@ -64,12 +104,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266444"/>
   </node>
-  <node id="-997" visible="true" lat="42.73569992" lon="-72.46995454">
+  <node id="-991" visible="true" lat="42.73569992" lon="-72.46995454">
     <!-- multiple: "4236 Fort Bridgman Road, Vernon, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Vernon"/>
     <tag k="addr:housenumber" v="4236"/>
     <tag k="addr:street" v="Fort Bridgman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="266446"/>
+  </node>
+  <node id="-1224" visible="true" lat="42.76088913" lon="-72.50061609">
+    <!-- multiple: "2908 Fort Bridgman Road, Vernon, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Vernon"/>
+    <tag k="addr:housenumber" v="2908"/>
+    <tag k="addr:street" v="Fort Bridgman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="266684"/>
   </node>
 </osm>

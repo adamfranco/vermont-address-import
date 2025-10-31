@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-567" visible="true" lat="44.25403171" lon="-72.78643663">
-    <!-- offset: "458 Vermont Route 100, , VT" Significant offset - 151.4m -->
-    <tag k="addr:housenumber" v="458"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-686" visible="true" lat="44.33515736" lon="-72.8337967">
+    <!-- offset: "1665 Camels Hump Road, , VT" Significant offset - 9463.7m -->
+    <tag k="addr:housenumber" v="1665"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="90420"/>
+    <tag k="ref:vcgi:esiteid" v="90541"/>
+  </node>
+  <node id="-865" visible="true" lat="44.27646388" lon="-72.86261706">
+    <!-- offset: "1531 Sharpshooters Road, , VT" Significant offset - 1654.3m -->
+    <tag k="addr:housenumber" v="1531"/>
+    <tag k="addr:street" v="Sharpshooters Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760822"/>
+  </node>
+  <node id="-899" visible="true" lat="44.26884649" lon="-72.86963807">
+    <!-- offset: "1529 Sharpshooters Road, , VT" Significant offset - 1029.5m -->
+    <tag k="addr:housenumber" v="1529"/>
+    <tag k="addr:street" v="Sharpshooters Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770746"/>
   </node>
 </osm>

@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-878" visible="true" lat="43.51796999" lon="-73.23741136">
-    <!-- multiple: "55 Depot Street, Poultney, VT" Multiple exact matches in OSM. -->
+  <node id="-481" visible="true" lat="43.52606964" lon="-73.20671081">
+    <!-- multiple: "1457 East Main Street, Poultney, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Poultney"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:housenumber" v="1457"/>
+    <tag k="addr:street" v="East Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="191570"/>
+    <tag k="ref:vcgi:esiteid" v="191141"/>
+  </node>
+  <node id="-483" visible="true" lat="43.52605438" lon="-73.20693969">
+    <!-- multiple: "1457 East Main Street, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="1457"/>
+    <tag k="addr:street" v="East Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="191143"/>
+  </node>
+  <node id="-530" visible="true" lat="43.52457588" lon="-73.23767404">
+    <!-- multiple: "96 School Circle, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="School Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="191190"/>
   </node>
   <node id="-899" visible="true" lat="43.51762771" lon="-73.23632812">
     <!-- multiple: "28 Depot Street, Poultney, VT" Multiple exact matches in OSM. -->
@@ -16,6 +32,30 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="191593"/>
   </node>
+  <node id="-934" visible="true" lat="43.51730143" lon="-73.23603176">
+    <!-- multiple: "158 Main Street, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="191631"/>
+  </node>
+  <node id="-972" visible="true" lat="43.51682815" lon="-73.23813007">
+    <!-- multiple: "267 Main Street, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="267"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="191679"/>
+  </node>
+  <node id="-976" visible="true" lat="43.51668802" lon="-73.23714849">
+    <!-- multiple: "217 Main Street, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="191683"/>
+  </node>
   <node id="-985" visible="true" lat="43.51669065" lon="-73.23248034">
     <!-- multiple: "10 East Main Street, Poultney, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Poultney"/>
@@ -23,5 +63,37 @@
     <tag k="addr:street" v="East Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="191692"/>
+  </node>
+  <node id="-1182" visible="true" lat="43.51043319" lon="-73.16607665">
+    <!-- multiple: "724 Morse Hollow Road, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="724"/>
+    <tag k="addr:street" v="Morse Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="191910"/>
+  </node>
+  <node id="-1186" visible="true" lat="43.51037597" lon="-73.16644287">
+    <!-- multiple: "724 Morse Hollow Road, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="724"/>
+    <tag k="addr:street" v="Morse Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="191914"/>
+  </node>
+  <node id="-1193" visible="true" lat="43.50958633" lon="-73.17572021">
+    <!-- multiple: "131 Town Farm Road, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Town Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="191921"/>
+  </node>
+  <node id="-1697" visible="true" lat="43.47531792" lon="-73.23625875">
+    <!-- multiple: "264 Ruby Road, Poultney, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="Ruby Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="192434"/>
   </node>
 </osm>

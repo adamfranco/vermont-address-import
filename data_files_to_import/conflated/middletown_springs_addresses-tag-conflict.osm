@@ -1,75 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-459" visible="true" lat="43.48934278" lon="-73.17183647">
-    <!-- conflict: "99 Dayton Hill, Middletown Springs, VT" Fuzzy match to "99 Dayton Hill Road, Middletown Springs, VT" -->
+  <node id="-178" visible="true" lat="43.44138297" lon="-73.11487475">
+    <!-- conflict: "215 Hundred Acre Lane, Middletown Springs, VT" No match in OSM, but a different address exists <5m away: "652 South Street, Middletown Springs, VT" -->
     <tag k="addr:city" v="Middletown Springs"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Dayton Hill"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Hundred Acre Lane"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="158011"/>
+    <tag k="ref:vcgi:esiteid" v="157725"/>
   </node>
-  <node id="-460" visible="true" lat="43.49053953" lon="-73.17243852">
-    <!-- conflict: "76 Dayton Hill, Middletown Springs, VT" Fuzzy match to "76 Dayton Hill Road, Middletown Springs, VT" -->
+  <node id="-685" visible="true" lat="43.44064636" lon="-73.11684622">
+    <!-- conflict: "310 Hundred Acre Lane, Middletown Springs, VT" No match in OSM, but a different address exists <5m away: "656 South Street, Middletown Springs, VT" -->
     <tag k="addr:city" v="Middletown Springs"/>
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:street" v="Dayton Hill"/>
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:street" v="Hundred Acre Lane"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="158012"/>
-  </node>
-  <node id="-461" visible="true" lat="43.49001253" lon="-73.17166333">
-    <!-- conflict: "79 Dayton Hill, Middletown Springs, VT" Fuzzy match to "79 Dayton Hill Road, Middletown Springs, VT" -->
-    <tag k="addr:city" v="Middletown Springs"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Dayton Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="158013"/>
-  </node>
-  <node id="-513" visible="true" lat="43.49272" lon="-73.17196027">
-    <!-- conflict: "40 Dayton Hill, Middletown Springs, VT" Fuzzy match to "40 Dayton Hill Road, Middletown Springs, VT" -->
-    <tag k="addr:city" v="Middletown Springs"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Dayton Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="158065"/>
-  </node>
-  <node id="-514" visible="true" lat="43.49192839" lon="-73.17049911">
-    <!-- conflict: "49 Dayton Hill, Middletown Springs, VT" Fuzzy match to "49 Dayton Hill Road, Middletown Springs, VT" -->
-    <tag k="addr:city" v="Middletown Springs"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Dayton Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="158066"/>
-  </node>
-  <node id="-515" visible="true" lat="43.49447187" lon="-73.17049585">
-    <!-- conflict: "16 Dayton Hill, Middletown Springs, VT" Fuzzy match to "16 Dayton Hill Road, Middletown Springs, VT" -->
-    <tag k="addr:city" v="Middletown Springs"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Dayton Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="158067"/>
-  </node>
-  <node id="-626" visible="true" lat="43.44983374" lon="-73.1282998">
-    <!-- conflict: "285 Garron Road, Middletown Springs, VT" No match in OSM, but a different address exists <5m away: "267 Garron Road, Middletown Springs, VT" -->
-    <tag k="addr:city" v="Middletown Springs"/>
-    <tag k="addr:housenumber" v="285"/>
-    <tag k="addr:street" v="Garron Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="158187"/>
-  </node>
-  <node id="-654" visible="true" lat="43.48304357" lon="-73.17476789">
-    <!-- conflict: "145 Dayton Hill, Middletown Springs, VT" Fuzzy match to "145 Dayton Hill Road, Middletown Springs, VT" -->
-    <tag k="addr:city" v="Middletown Springs"/>
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="Dayton Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="158219"/>
-  </node>
-  <node id="-655" visible="true" lat="43.48585699" lon="-73.17479423">
-    <!-- conflict: "124 Dayton Hill, Middletown Springs, VT" Fuzzy match to "124 Dayton Hill Road, Middletown Springs, VT" -->
-    <tag k="addr:city" v="Middletown Springs"/>
-    <tag k="addr:housenumber" v="124"/>
-    <tag k="addr:street" v="Dayton Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="158220"/>
+    <tag k="ref:vcgi:esiteid" v="454233"/>
   </node>
 </osm>

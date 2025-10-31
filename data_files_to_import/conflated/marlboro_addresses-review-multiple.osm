@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-576" visible="true" lat="42.83866257" lon="-72.73237345">
+    <!-- multiple: "2472 South Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2472"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152439"/>
+  </node>
 </osm>

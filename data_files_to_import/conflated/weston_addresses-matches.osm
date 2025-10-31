@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="43.26344571" lon="-72.81933624">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Shaw Knoll Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="139327"/>
+  </node>
+  <node id="-101" visible="true" lat="43.25033229" lon="-72.79740043">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="7587"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="140667"/>
+  </node>
   <node id="-102" visible="true" lat="43.35611166" lon="-72.7700869">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="99"/>
@@ -49,6 +63,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284579"/>
   </node>
+  <node id="-109" visible="true" lat="43.353731" lon="-72.76610691">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Slawson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284580"/>
+  </node>
   <node id="-110" visible="true" lat="43.35354036" lon="-72.76959834">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="123"/>
@@ -70,12 +91,166 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284583"/>
   </node>
+  <node id="-113" visible="true" lat="43.35161788" lon="-72.76794109">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Slawson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284584"/>
+  </node>
+  <node id="-114" visible="true" lat="43.35142615" lon="-72.76033761">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1766"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284585"/>
+  </node>
+  <node id="-115" visible="true" lat="43.35120113" lon="-72.82240996">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="698"/>
+    <tag k="addr:street" v="Greendale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284586"/>
+  </node>
+  <node id="-116" visible="true" lat="43.35150361" lon="-72.76877024">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Slawson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284587"/>
+  </node>
+  <node id="-117" visible="true" lat="43.35128784" lon="-72.76111603">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1756"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284588"/>
+  </node>
+  <node id="-118" visible="true" lat="43.35123253" lon="-72.76405708">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1727"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284589"/>
+  </node>
+  <node id="-119" visible="true" lat="43.35122103" lon="-72.76994372">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1658"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284590"/>
+  </node>
+  <node id="-120" visible="true" lat="43.35093971" lon="-72.82018693">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="685"/>
+    <tag k="addr:street" v="Greendale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284591"/>
+  </node>
+  <node id="-121" visible="true" lat="43.35087714" lon="-72.77167532">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1642"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284592"/>
+  </node>
+  <node id="-122" visible="true" lat="43.35089305" lon="-72.76772789">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1671"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284593"/>
+  </node>
+  <node id="-123" visible="true" lat="43.35050587" lon="-72.7704845">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1646"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284594"/>
+  </node>
+  <node id="-124" visible="true" lat="43.34851074" lon="-72.77339172">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1600"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284596"/>
+  </node>
+  <node id="-125" visible="true" lat="43.34790986" lon="-72.77447058">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1596"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284597"/>
+  </node>
+  <node id="-126" visible="true" lat="43.34578708" lon="-72.77613288">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1556"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284598"/>
+  </node>
+  <node id="-127" visible="true" lat="43.34568307" lon="-72.77740139">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1550"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284599"/>
+  </node>
+  <node id="-128" visible="true" lat="43.34564208" lon="-72.78895058">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Ettinger Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284600"/>
+  </node>
+  <node id="-129" visible="true" lat="43.3450794" lon="-72.77786773">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1536"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284602"/>
+  </node>
+  <node id="-130" visible="true" lat="43.34517144" lon="-72.77859182">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1530"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284603"/>
+  </node>
+  <node id="-131" visible="true" lat="43.34453768" lon="-72.77919466">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1520"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284604"/>
+  </node>
+  <node id="-132" visible="true" lat="43.34422308" lon="-72.78014055">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1510"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284605"/>
+  </node>
+  <node id="-133" visible="true" lat="43.34396005" lon="-72.7806154">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284606"/>
+  </node>
   <node id="-134" visible="true" lat="43.34371961" lon="-72.77839252">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Cider Mill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284607"/>
+  </node>
+  <node id="-135" visible="true" lat="43.34348499" lon="-72.77979157">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1507"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284608"/>
   </node>
   <node id="-136" visible="true" lat="43.34285546" lon="-72.77893062">
     <tag k="addr:city" v="Weston"/>
@@ -91,6 +266,62 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284610"/>
   </node>
+  <node id="-138" visible="true" lat="43.3424415" lon="-72.78789299">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Vermont Route 155"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284611"/>
+  </node>
+  <node id="-139" visible="true" lat="43.3418541" lon="-72.78279114">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1468"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284612"/>
+  </node>
+  <node id="-140" visible="true" lat="43.34079205" lon="-72.82804657">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="286"/>
+    <tag k="addr:street" v="Jenny Coolidge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284613"/>
+  </node>
+  <node id="-141" visible="true" lat="43.33982509" lon="-72.80980443">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="431"/>
+    <tag k="addr:street" v="Greendale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284614"/>
+  </node>
+  <node id="-142" visible="true" lat="43.33905117" lon="-72.78423705">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1422"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284615"/>
+  </node>
+  <node id="-143" visible="true" lat="43.3388171" lon="-72.80901667">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="420"/>
+    <tag k="addr:street" v="Greendale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284616"/>
+  </node>
+  <node id="-144" visible="true" lat="43.33834103" lon="-72.78283022">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Cascade Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284618"/>
+  </node>
+  <node id="-145" visible="true" lat="43.33852145" lon="-72.78335084">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Cascade Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284619"/>
+  </node>
   <node id="-146" visible="true" lat="43.33821485" lon="-72.78844463">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="24"/>
@@ -105,6 +336,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284621"/>
   </node>
+  <node id="-148" visible="true" lat="43.33683206" lon="-72.78542792">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1385"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284622"/>
+  </node>
   <node id="-149" visible="true" lat="43.3345441" lon="-72.77522359">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="112"/>
@@ -112,12 +350,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284623"/>
   </node>
+  <node id="-150" visible="true" lat="43.33403219" lon="-72.78409825">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1333"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284624"/>
+  </node>
   <node id="-151" visible="true" lat="43.3337623" lon="-72.77885733">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="74"/>
     <tag k="addr:street" v="Kile Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284625"/>
+  </node>
+  <node id="-152" visible="true" lat="43.33387564" lon="-72.79205226">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="272"/>
+    <tag k="addr:street" v="Old County Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284626"/>
   </node>
   <node id="-153" visible="true" lat="43.33327288" lon="-72.77710781">
     <tag k="addr:city" v="Weston"/>
@@ -154,6 +406,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284631"/>
   </node>
+  <node id="-158" visible="true" lat="43.33010683" lon="-72.78261101">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1278"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284632"/>
+  </node>
   <node id="-159" visible="true" lat="43.33001329" lon="-72.79135911">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="194"/>
@@ -167,6 +426,27 @@
     <tag k="addr:street" v="Old County Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284634"/>
+  </node>
+  <node id="-161" visible="true" lat="43.32886799" lon="-72.78264163">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Stevens Loop"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284635"/>
+  </node>
+  <node id="-162" visible="true" lat="43.3287431" lon="-72.78147391">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1256"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284636"/>
+  </node>
+  <node id="-163" visible="true" lat="43.32817852" lon="-72.76933168">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="192"/>
+    <tag k="addr:street" v="Felton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284638"/>
   </node>
   <node id="-164" visible="true" lat="43.32795229" lon="-72.78154817">
     <tag k="addr:city" v="Weston"/>
@@ -182,12 +462,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284640"/>
   </node>
+  <node id="-166" visible="true" lat="43.32662576" lon="-72.81593317">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="457"/>
+    <tag k="addr:street" v="Moses Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284641"/>
+  </node>
   <node id="-167" visible="true" lat="43.32675839" lon="-72.77097208">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="161"/>
     <tag k="addr:street" v="Felton Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284642"/>
+  </node>
+  <node id="-168" visible="true" lat="43.32594329" lon="-72.81731516">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="468"/>
+    <tag k="addr:street" v="Moses Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284643"/>
   </node>
   <node id="-169" visible="true" lat="43.32596766" lon="-72.79109305">
     <tag k="addr:city" v="Weston"/>
@@ -210,12 +504,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284646"/>
   </node>
+  <node id="-172" visible="true" lat="43.32507128" lon="-72.81553781">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="446"/>
+    <tag k="addr:street" v="Moses Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284647"/>
+  </node>
+  <node id="-173" visible="true" lat="43.32486578" lon="-72.81498493">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="440"/>
+    <tag k="addr:street" v="Moses Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284648"/>
+  </node>
   <node id="-174" visible="true" lat="43.32487353" lon="-72.79175915">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Old County Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284649"/>
+  </node>
+  <node id="-175" visible="true" lat="43.32489291" lon="-72.78164745">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1190"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284650"/>
   </node>
   <node id="-176" visible="true" lat="43.32313257" lon="-72.78121516">
     <tag k="addr:city" v="Weston"/>
@@ -238,6 +553,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284653"/>
   </node>
+  <node id="-179" visible="true" lat="43.32288973" lon="-72.78310487">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1166"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284654"/>
+  </node>
   <node id="-180" visible="true" lat="43.32261378" lon="-72.78120346">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="25"/>
@@ -252,12 +574,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284656"/>
   </node>
+  <node id="-182" visible="true" lat="43.32215065" lon="-72.79506825">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Greendale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284657"/>
+  </node>
+  <node id="-183" visible="true" lat="43.32148316" lon="-72.78440875">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1138"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284658"/>
+  </node>
+  <node id="-184" visible="true" lat="43.32145287" lon="-72.78280324">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1143"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284659"/>
+  </node>
   <node id="-185" visible="true" lat="43.32136337" lon="-72.79475728">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="111"/>
     <tag k="addr:street" v="Greendale Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284660"/>
+  </node>
+  <node id="-186" visible="true" lat="43.3209533" lon="-72.82706274">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:street" v="Turner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284661"/>
   </node>
   <node id="-187" visible="true" lat="43.32094016" lon="-72.78934039">
     <tag k="addr:city" v="Weston"/>
@@ -280,6 +630,34 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284664"/>
   </node>
+  <node id="-190" visible="true" lat="43.31980027" lon="-72.82495574">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Turner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284665"/>
+  </node>
+  <node id="-191" visible="true" lat="43.31954722" lon="-72.78563791">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1100"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284666"/>
+  </node>
+  <node id="-192" visible="true" lat="43.31935037" lon="-72.82769301">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Turner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284667"/>
+  </node>
+  <node id="-193" visible="true" lat="43.3194046" lon="-72.78608704">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1086"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284668"/>
+  </node>
   <node id="-194" visible="true" lat="43.31911331" lon="-72.79243476">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="65"/>
@@ -301,6 +679,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284671"/>
   </node>
+  <node id="-197" visible="true" lat="43.31841676" lon="-72.78598398">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1087"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284672"/>
+  </node>
+  <node id="-198" visible="true" lat="43.31828904" lon="-72.79494144">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Greendale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284673"/>
+  </node>
   <node id="-199" visible="true" lat="43.31837076" lon="-72.79084039">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="43"/>
@@ -314,6 +706,34 @@
     <tag k="addr:street" v="Greendale Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284675"/>
+  </node>
+  <node id="-201" visible="true" lat="43.31789941" lon="-72.78815599">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Old County Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284676"/>
+  </node>
+  <node id="-202" visible="true" lat="43.31784448" lon="-72.78646003">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1081"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284677"/>
+  </node>
+  <node id="-203" visible="true" lat="43.31860466" lon="-72.80991579">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Peabody Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284678"/>
+  </node>
+  <node id="-204" visible="true" lat="43.31770475" lon="-72.78828521">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Old County Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284679"/>
   </node>
   <node id="-205" visible="true" lat="43.31755267" lon="-72.78939835">
     <tag k="addr:city" v="Weston"/>
@@ -329,12 +749,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284681"/>
   </node>
+  <node id="-207" visible="true" lat="43.31749573" lon="-72.82790223">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Turner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284682"/>
+  </node>
   <node id="-208" visible="true" lat="43.31687332" lon="-72.79185537">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="426"/>
     <tag k="addr:street" v="Lawrence Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284683"/>
+  </node>
+  <node id="-209" visible="true" lat="43.31647878" lon="-72.82608751">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Turner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284684"/>
   </node>
   <node id="-210" visible="true" lat="43.31648386" lon="-72.78966629">
     <tag k="addr:city" v="Weston"/>
@@ -343,6 +777,41 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284685"/>
   </node>
+  <node id="-211" visible="true" lat="43.31637586" lon="-72.78780489">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1052"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284686"/>
+  </node>
+  <node id="-212" visible="true" lat="43.31586307" lon="-72.79206891">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="416"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284687"/>
+  </node>
+  <node id="-213" visible="true" lat="43.31512361" lon="-72.78593264">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1031"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284689"/>
+  </node>
+  <node id="-214" visible="true" lat="43.31471918" lon="-72.79069903">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="405"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284690"/>
+  </node>
+  <node id="-215" visible="true" lat="43.31433777" lon="-72.79087037">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284691"/>
+  </node>
   <node id="-216" visible="true" lat="43.31418695" lon="-72.83992859">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="526"/>
@@ -350,12 +819,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284692"/>
   </node>
-  <node id="-223" visible="true" lat="43.31319811" lon="-72.79432635">
+  <node id="-217" visible="true" lat="43.31363778" lon="-72.79373891">
     <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="354"/>
+    <tag k="addr:housenumber" v="370"/>
     <tag k="addr:street" v="Lawrence Hill Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284699"/>
+    <tag k="ref:vcgi:esiteid" v="284693"/>
+  </node>
+  <node id="-218" visible="true" lat="43.31370639" lon="-72.79336638">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="372"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284694"/>
+  </node>
+  <node id="-219" visible="true" lat="43.31347378" lon="-72.78706294">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1019"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284695"/>
+  </node>
+  <node id="-220" visible="true" lat="43.31335543" lon="-72.79462428">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="352"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284696"/>
+  </node>
+  <node id="-221" visible="true" lat="43.31315194" lon="-72.78798336">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1010"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284697"/>
+  </node>
+  <node id="-222" visible="true" lat="43.31308214" lon="-72.83073626">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="453"/>
+    <tag k="addr:street" v="Trout Club Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284698"/>
   </node>
   <node id="-224" visible="true" lat="43.31296338" lon="-72.83329188">
     <tag k="addr:city" v="Weston"/>
@@ -363,6 +867,13 @@
     <tag k="addr:street" v="Trout Club Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284700"/>
+  </node>
+  <node id="-225" visible="true" lat="43.31309131" lon="-72.79198807">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="385"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284701"/>
   </node>
   <node id="-226" visible="true" lat="43.31282244" lon="-72.8399593">
     <tag k="addr:city" v="Weston"/>
@@ -378,6 +889,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284703"/>
   </node>
+  <node id="-228" visible="true" lat="43.31256594" lon="-72.78773326">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="996"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284704"/>
+  </node>
   <node id="-229" visible="true" lat="43.31233686" lon="-72.83228615">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="474"/>
@@ -392,12 +910,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284707"/>
   </node>
+  <node id="-231" visible="true" lat="43.31202396" lon="-72.79422186">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="349"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284708"/>
+  </node>
+  <node id="-232" visible="true" lat="43.31192692" lon="-72.78784897">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="988"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284709"/>
+  </node>
   <node id="-233" visible="true" lat="43.31188795" lon="-72.82577312">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="Turner Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284710"/>
+  </node>
+  <node id="-234" visible="true" lat="43.31175614" lon="-72.78630438">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="987"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284711"/>
   </node>
   <node id="-235" visible="true" lat="43.31161111" lon="-72.8297888">
     <tag k="addr:city" v="Weston"/>
@@ -427,6 +966,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284715"/>
   </node>
+  <node id="-239" visible="true" lat="43.31114002" lon="-72.78646139">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="979"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284716"/>
+  </node>
   <node id="-240" visible="true" lat="43.31117443" lon="-72.78480855">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="33"/>
@@ -434,12 +980,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284717"/>
   </node>
+  <node id="-241" visible="true" lat="43.31108872" lon="-72.78754676">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="982"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284718"/>
+  </node>
   <node id="-242" visible="true" lat="43.3107967" lon="-72.82777441">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="411"/>
     <tag k="addr:street" v="Trout Club Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284719"/>
+  </node>
+  <node id="-243" visible="true" lat="43.31082056" lon="-72.78593452">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Maple Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284720"/>
+  </node>
+  <node id="-244" visible="true" lat="43.31038078" lon="-72.78723645">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="970"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284721"/>
+  </node>
+  <node id="-245" visible="true" lat="43.3104945" lon="-72.78666984">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="967"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284722"/>
   </node>
   <node id="-246" visible="true" lat="43.31031426" lon="-72.78549887">
     <tag k="addr:city" v="Weston"/>
@@ -455,12 +1029,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284724"/>
   </node>
+  <node id="-248" visible="true" lat="43.31010528" lon="-72.78664065">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="963"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284725"/>
+  </node>
   <node id="-249" visible="true" lat="43.30995851" lon="-72.79494818">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="321"/>
     <tag k="addr:street" v="Lawrence Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284726"/>
+  </node>
+  <node id="-250" visible="true" lat="43.3094737" lon="-72.78728768">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="950"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284728"/>
   </node>
   <node id="-251" visible="true" lat="43.3093529" lon="-72.81754283">
     <tag k="addr:city" v="Weston"/>
@@ -475,6 +1063,27 @@
     <tag k="addr:street" v="Maple Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284730"/>
+  </node>
+  <node id="-253" visible="true" lat="43.30904217" lon="-72.84615549">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="addr:street" v="Jaquith Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284731"/>
+  </node>
+  <node id="-254" visible="true" lat="43.30891251" lon="-72.77735299">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Bailey Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284732"/>
+  </node>
+  <node id="-255" visible="true" lat="43.30900386" lon="-72.78644092">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="947"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284733"/>
   </node>
   <node id="-256" visible="true" lat="43.30866623" lon="-72.81815338">
     <tag k="addr:city" v="Weston"/>
@@ -525,12 +1134,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284740"/>
   </node>
+  <node id="-263" visible="true" lat="43.30789683" lon="-72.7768684">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Bailey Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284741"/>
+  </node>
+  <node id="-264" visible="true" lat="43.30780998" lon="-72.78627999">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="929"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284742"/>
+  </node>
   <node id="-265" visible="true" lat="43.3072949" lon="-72.79561967">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="275"/>
     <tag k="addr:street" v="Lawrence Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284743"/>
+  </node>
+  <node id="-266" visible="true" lat="43.30702014" lon="-72.77139102">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="196"/>
+    <tag k="addr:street" v="Burton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284744"/>
   </node>
   <node id="-267" visible="true" lat="43.30696095" lon="-72.79630747">
     <tag k="addr:city" v="Weston"/>
@@ -539,12 +1169,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284745"/>
   </node>
+  <node id="-268" visible="true" lat="43.30694066" lon="-72.78690677">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="920"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284746"/>
+  </node>
   <node id="-269" visible="true" lat="43.30719295" lon="-72.7973499">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="266"/>
     <tag k="addr:street" v="Lawrence Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284747"/>
+  </node>
+  <node id="-270" visible="true" lat="43.3067229" lon="-72.78585936">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="913"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284748"/>
   </node>
   <node id="-271" visible="true" lat="43.3064891" lon="-72.79538235">
     <tag k="addr:city" v="Weston"/>
@@ -553,12 +1197,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284749"/>
   </node>
+  <node id="-272" visible="true" lat="43.30624392" lon="-72.78608608">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="905"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284750"/>
+  </node>
   <node id="-273" visible="true" lat="43.3060006" lon="-72.79543026">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="251"/>
     <tag k="addr:street" v="Lawrence Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284751"/>
+  </node>
+  <node id="-274" visible="true" lat="43.30577855" lon="-72.7726691">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="179"/>
+    <tag k="addr:street" v="Burton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284752"/>
   </node>
   <node id="-275" visible="true" lat="43.30563981" lon="-72.81525292">
     <tag k="addr:city" v="Weston"/>
@@ -580,6 +1238,13 @@
     <tag k="addr:street" v="Parker Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284755"/>
+  </node>
+  <node id="-278" visible="true" lat="43.30529734" lon="-72.78594427">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="891"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284756"/>
   </node>
   <node id="-279" visible="true" lat="43.30493906" lon="-72.81820333">
     <tag k="addr:city" v="Weston"/>
@@ -630,12 +1295,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284764"/>
   </node>
+  <node id="-286" visible="true" lat="43.30467252" lon="-72.80608097">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Parker Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284765"/>
+  </node>
   <node id="-287" visible="true" lat="43.3046779" lon="-72.77162454">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="44"/>
     <tag k="addr:street" v="Obed Moore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284766"/>
+  </node>
+  <node id="-288" visible="true" lat="43.3045645" lon="-72.78643581">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="886"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284767"/>
   </node>
   <node id="-289" visible="true" lat="43.30452627" lon="-72.79659695">
     <tag k="addr:city" v="Weston"/>
@@ -650,6 +1329,13 @@
     <tag k="addr:street" v="Obed Moore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284769"/>
+  </node>
+  <node id="-291" visible="true" lat="43.30435661" lon="-72.78538411">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="881"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284770"/>
   </node>
   <node id="-292" visible="true" lat="43.30406375" lon="-72.77006573">
     <tag k="addr:city" v="Weston"/>
@@ -721,6 +1407,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284780"/>
   </node>
+  <node id="-302" visible="true" lat="43.30259795" lon="-72.81421683">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:street" v="Trout Club Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284781"/>
+  </node>
   <node id="-303" visible="true" lat="43.30259519" lon="-72.79494043">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="205"/>
@@ -784,6 +1477,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284791"/>
   </node>
+  <node id="-312" visible="true" lat="43.30167122" lon="-72.81059804">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:street" v="Trout Club Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284792"/>
+  </node>
   <node id="-313" visible="true" lat="43.30182074" lon="-72.76667937">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="129"/>
@@ -791,12 +1491,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284793"/>
   </node>
+  <node id="-314" visible="true" lat="43.30157697" lon="-72.77547682">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:street" v="Burton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284794"/>
+  </node>
+  <node id="-315" visible="true" lat="43.30114524" lon="-72.8486642">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Jaquith Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284796"/>
+  </node>
+  <node id="-316" visible="true" lat="43.30127984" lon="-72.8447431">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Jaquith Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284797"/>
+  </node>
+  <node id="-317" visible="true" lat="43.30137573" lon="-72.80383618">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Parker Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284798"/>
+  </node>
   <node id="-318" visible="true" lat="43.30130395" lon="-72.77011775">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="93"/>
     <tag k="addr:street" v="Obed Moore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284799"/>
+  </node>
+  <node id="-319" visible="true" lat="43.30081217" lon="-72.8112729">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="180"/>
+    <tag k="addr:street" v="Trout Club Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284800"/>
   </node>
   <node id="-320" visible="true" lat="43.30093576" lon="-72.79490245">
     <tag k="addr:city" v="Weston"/>
@@ -812,12 +1547,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284802"/>
   </node>
+  <node id="-322" visible="true" lat="43.30033493" lon="-72.78526306">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="815"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284803"/>
+  </node>
+  <node id="-323" visible="true" lat="43.29991816" lon="-72.79556667">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284804"/>
+  </node>
   <node id="-324" visible="true" lat="43.29956116" lon="-72.80293284">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="36"/>
     <tag k="addr:street" v="Moses Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284805"/>
+  </node>
+  <node id="-325" visible="true" lat="43.29981223" lon="-72.79789796">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284806"/>
   </node>
   <node id="-326" visible="true" lat="43.29969513" lon="-72.80839781">
     <tag k="addr:city" v="Weston"/>
@@ -839,6 +1595,13 @@
     <tag k="addr:street" v="Moses Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284809"/>
+  </node>
+  <node id="-329" visible="true" lat="43.29836553" lon="-72.78693707">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="790"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284810"/>
   </node>
   <node id="-330" visible="true" lat="43.29795884" lon="-72.80660339">
     <tag k="addr:city" v="Weston"/>
@@ -868,6 +1631,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284814"/>
   </node>
+  <node id="-334" visible="true" lat="43.29674433" lon="-72.79461562">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Wildes Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284816"/>
+  </node>
   <node id="-335" visible="true" lat="43.2967362" lon="-72.7754307">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="150"/>
@@ -875,12 +1645,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284817"/>
   </node>
+  <node id="-336" visible="true" lat="43.29813491" lon="-72.79631859">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Wildes Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284818"/>
+  </node>
   <node id="-337" visible="true" lat="43.29666787" lon="-72.80555061">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="84"/>
     <tag k="addr:street" v="Trout Club Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284819"/>
+  </node>
+  <node id="-338" visible="true" lat="43.29672012" lon="-72.78177663">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Chester Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284820"/>
   </node>
   <node id="-339" visible="true" lat="43.29652777" lon="-72.79868972">
     <tag k="addr:city" v="Weston"/>
@@ -917,6 +1701,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284825"/>
   </node>
+  <node id="-344" visible="true" lat="43.29550374" lon="-72.78212198">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Chester Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284826"/>
+  </node>
   <node id="-345" visible="true" lat="43.29573189" lon="-72.79790864">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="93"/>
@@ -945,6 +1736,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284830"/>
   </node>
+  <node id="-349" visible="true" lat="43.2955364" lon="-72.78355074">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Chester Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284832"/>
+  </node>
+  <node id="-350" visible="true" lat="43.29545692" lon="-72.78562739">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Chester Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284833"/>
+  </node>
   <node id="-351" visible="true" lat="43.29530013" lon="-72.79779217">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="87"/>
@@ -958,6 +1763,13 @@
     <tag k="addr:street" v="Lawrence Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284836"/>
+  </node>
+  <node id="-353" visible="true" lat="43.29509081" lon="-72.78413191">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Chester Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284837"/>
   </node>
   <node id="-354" visible="true" lat="43.29509498" lon="-72.80004264">
     <tag k="addr:city" v="Weston"/>
@@ -973,12 +1785,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284839"/>
   </node>
+  <node id="-356" visible="true" lat="43.29495475" lon="-72.77885447">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Chester Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284840"/>
+  </node>
   <node id="-357" visible="true" lat="43.29487965" lon="-72.78863881">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="735"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284841"/>
+  </node>
+  <node id="-358" visible="true" lat="43.2947731" lon="-72.78762817">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Chester Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284843"/>
   </node>
   <node id="-359" visible="true" lat="43.29481922" lon="-72.79771365">
     <tag k="addr:city" v="Weston"/>
@@ -994,6 +1820,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284845"/>
   </node>
+  <node id="-361" visible="true" lat="43.29427049" lon="-72.78751186">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Chester Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284846"/>
+  </node>
   <node id="-362" visible="true" lat="43.29442054" lon="-72.79977433">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="24"/>
@@ -1001,12 +1834,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284847"/>
   </node>
+  <node id="-363" visible="true" lat="43.29430727" lon="-72.78911163">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="725"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284848"/>
+  </node>
   <node id="-364" visible="true" lat="43.29427579" lon="-72.79723495">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="75"/>
     <tag k="addr:street" v="Lawrence Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284849"/>
+  </node>
+  <node id="-365" visible="true" lat="43.29410261" lon="-72.78976316">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="722"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284850"/>
+  </node>
+  <node id="-366" visible="true" lat="43.29408959" lon="-72.79808162">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Trout Club Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284851"/>
+  </node>
+  <node id="-367" visible="true" lat="43.29402341" lon="-72.80176623">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284852"/>
+  </node>
+  <node id="-368" visible="true" lat="43.29397956" lon="-72.78913915">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="719"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284853"/>
   </node>
   <node id="-369" visible="true" lat="43.29390322" lon="-72.78998836">
     <tag k="addr:city" v="Weston"/>
@@ -1022,6 +1890,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284855"/>
   </node>
+  <node id="-371" visible="true" lat="43.29367171" lon="-72.80715132">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284856"/>
+  </node>
   <node id="-372" visible="true" lat="43.29363126" lon="-72.79026323">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="710"/>
@@ -1036,6 +1911,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284859"/>
   </node>
+  <node id="-374" visible="true" lat="43.29330069" lon="-72.79682607">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284860"/>
+  </node>
   <node id="-375" visible="true" lat="43.29307929" lon="-72.79103375">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="700"/>
@@ -1049,6 +1931,13 @@
     <tag k="addr:street" v="Landgrove Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284862"/>
+  </node>
+  <node id="-377" visible="true" lat="43.29309672" lon="-72.79047776">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="703"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284863"/>
   </node>
   <node id="-378" visible="true" lat="43.29268844" lon="-72.79067566">
     <tag k="addr:city" v="Weston"/>
@@ -1127,6 +2016,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284874"/>
   </node>
+  <node id="-389" visible="true" lat="43.29235076" lon="-72.79561374">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284875"/>
+  </node>
   <node id="-390" visible="true" lat="43.29232257" lon="-72.79323646">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="12"/>
@@ -1148,6 +2044,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284879"/>
   </node>
+  <node id="-393" visible="true" lat="43.29223435" lon="-72.80018165">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284880"/>
+  </node>
   <node id="-394" visible="true" lat="43.29217528" lon="-72.79553744">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="37"/>
@@ -1168,6 +2071,13 @@
     <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284883"/>
+  </node>
+  <node id="-397" visible="true" lat="43.29174248" lon="-72.8041871">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284884"/>
   </node>
   <node id="-398" visible="true" lat="43.29188108" lon="-72.7949767">
     <tag k="addr:city" v="Weston"/>
@@ -1232,6 +2142,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284894"/>
   </node>
+  <node id="-407" visible="true" lat="43.2911911" lon="-72.81932068">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284895"/>
+  </node>
   <node id="-408" visible="true" lat="43.29120015" lon="-72.79257044">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="665"/>
@@ -1253,6 +2170,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284898"/>
   </node>
+  <node id="-411" visible="true" lat="43.29103479" lon="-72.81817309">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284899"/>
+  </node>
   <node id="-412" visible="true" lat="43.29113767" lon="-72.79316733">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="664"/>
@@ -1267,6 +2191,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284901"/>
   </node>
+  <node id="-414" visible="true" lat="43.29092617" lon="-72.79969154">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284902"/>
+  </node>
   <node id="-415" visible="true" lat="43.29103849" lon="-72.79364798">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="8"/>
@@ -1280,13 +2211,6 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284904"/>
-  </node>
-  <node id="-417" visible="true" lat="43.29097364" lon="-72.79318259">
-    <tag k="addr:city" v="Weston"/>
-    <tag k="addr:housenumber" v="660"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="284905"/>
   </node>
   <node id="-418" visible="true" lat="43.29074484" lon="-72.81706699">
     <tag k="addr:city" v="Weston"/>
@@ -1316,6 +2240,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284910"/>
   </node>
+  <node id="-422" visible="true" lat="43.29079203" lon="-72.809327">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284911"/>
+  </node>
   <node id="-423" visible="true" lat="43.29055605" lon="-72.79267055">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="651"/>
@@ -1329,6 +2260,13 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284913"/>
+  </node>
+  <node id="-425" visible="true" lat="43.29027857" lon="-72.81187347">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284914"/>
   </node>
   <node id="-426" visible="true" lat="43.29030807" lon="-72.81867917">
     <tag k="addr:city" v="Weston"/>
@@ -1365,6 +2303,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284919"/>
   </node>
+  <node id="-431" visible="true" lat="43.28989796" lon="-72.81764441">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="236"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284920"/>
+  </node>
   <node id="-432" visible="true" lat="43.28993798" lon="-72.79324079">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="646"/>
@@ -1379,12 +2324,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284922"/>
   </node>
+  <node id="-434" visible="true" lat="43.28978928" lon="-72.8083689">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284923"/>
+  </node>
   <node id="-435" visible="true" lat="43.28980065" lon="-72.78985616">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Markham Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284924"/>
+  </node>
+  <node id="-436" visible="true" lat="43.28980447" lon="-72.79337049">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="644"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284925"/>
   </node>
   <node id="-437" visible="true" lat="43.28950311" lon="-72.7927754">
     <tag k="addr:city" v="Weston"/>
@@ -1435,7 +2394,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284932"/>
   </node>
-  <node id="-444" visible="true" lat="43.28845607" lon="-72.79385287">
+  <node id="-444" visible="true" lat="43.28845434" lon="-72.79385076">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Mill Lane"/>
@@ -1463,6 +2422,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284936"/>
   </node>
+  <node id="-448" visible="true" lat="43.288044" lon="-72.81544214">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284937"/>
+  </node>
+  <node id="-449" visible="true" lat="43.28797907" lon="-72.81730714">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284938"/>
+  </node>
   <node id="-450" visible="true" lat="43.28791806" lon="-72.79336571">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="616"/>
@@ -1484,12 +2457,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284941"/>
   </node>
+  <node id="-453" visible="true" lat="43.2875249" lon="-72.80532827">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284942"/>
+  </node>
+  <node id="-454" visible="true" lat="43.2864247" lon="-72.81574579">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284944"/>
+  </node>
   <node id="-455" visible="true" lat="43.2863866" lon="-72.78923697">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="74"/>
     <tag k="addr:street" v="Piper Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284945"/>
+  </node>
+  <node id="-456" visible="true" lat="43.28615209" lon="-72.80553251">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284946"/>
   </node>
   <node id="-457" visible="true" lat="43.28619962" lon="-72.79263509">
     <tag k="addr:city" v="Weston"/>
@@ -1498,12 +2492,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284947"/>
   </node>
+  <node id="-458" visible="true" lat="43.28546215" lon="-72.81825841">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284948"/>
+  </node>
   <node id="-459" visible="true" lat="43.28552051" lon="-72.79178122">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Piper Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284949"/>
+  </node>
+  <node id="-460" visible="true" lat="43.28474833" lon="-72.81633567">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284950"/>
   </node>
   <node id="-461" visible="true" lat="43.2849099" lon="-72.79129259">
     <tag k="addr:city" v="Weston"/>
@@ -1512,12 +2520,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284951"/>
   </node>
+  <node id="-462" visible="true" lat="43.28428853" lon="-72.79073988">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284952"/>
+  </node>
+  <node id="-463" visible="true" lat="43.28388902" lon="-72.81572922">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284953"/>
+  </node>
   <node id="-464" visible="true" lat="43.28350439" lon="-72.78755262">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="84"/>
     <tag k="addr:street" v="Piper Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284954"/>
+  </node>
+  <node id="-465" visible="true" lat="43.28340443" lon="-72.81723608">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284955"/>
   </node>
   <node id="-466" visible="true" lat="43.28324709" lon="-72.79008925">
     <tag k="addr:city" v="Weston"/>
@@ -1533,12 +2562,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284957"/>
   </node>
+  <node id="-468" visible="true" lat="43.28256293" lon="-72.80517827">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284958"/>
+  </node>
   <node id="-469" visible="true" lat="43.28252222" lon="-72.78656738">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="116"/>
     <tag k="addr:street" v="Piper Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284959"/>
+  </node>
+  <node id="-470" visible="true" lat="43.28189751" lon="-72.81719309">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284960"/>
   </node>
   <node id="-471" visible="true" lat="43.28156474" lon="-72.78711419">
     <tag k="addr:city" v="Weston"/>
@@ -1568,12 +2611,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284965"/>
   </node>
+  <node id="-475" visible="true" lat="43.28027858" lon="-72.79282793">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="496"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284966"/>
+  </node>
+  <node id="-476" visible="true" lat="43.27963494" lon="-72.81860679">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284967"/>
+  </node>
   <node id="-477" visible="true" lat="43.27970507" lon="-72.78523482">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="123"/>
     <tag k="addr:street" v="Piper Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284968"/>
+  </node>
+  <node id="-478" visible="true" lat="43.27954866" lon="-72.81286972">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284969"/>
+  </node>
+  <node id="-479" visible="true" lat="43.2787136" lon="-72.81712509">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284970"/>
   </node>
   <node id="-480" visible="true" lat="43.27876096" lon="-72.78415624">
     <tag k="addr:city" v="Weston"/>
@@ -1582,6 +2653,27 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284971"/>
   </node>
+  <node id="-481" visible="true" lat="43.27796079" lon="-72.81105422">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284972"/>
+  </node>
+  <node id="-482" visible="true" lat="43.2776778" lon="-72.8180079">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284973"/>
+  </node>
+  <node id="-483" visible="true" lat="43.27764469" lon="-72.816901">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284974"/>
+  </node>
   <node id="-484" visible="true" lat="43.27650235" lon="-72.77977235">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="198"/>
@@ -1589,12 +2681,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284975"/>
   </node>
+  <node id="-485" visible="true" lat="43.27638729" lon="-72.78964546">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="440"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284976"/>
+  </node>
   <node id="-486" visible="true" lat="43.27642491" lon="-72.77582773">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="240"/>
     <tag k="addr:street" v="Piper Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284977"/>
+  </node>
+  <node id="-487" visible="true" lat="43.27621449" lon="-72.81723376">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284978"/>
+  </node>
+  <node id="-488" visible="true" lat="43.27614746" lon="-72.81798554">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="209"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284979"/>
+  </node>
+  <node id="-489" visible="true" lat="43.27590859" lon="-72.81749447">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284980"/>
   </node>
   <node id="-490" visible="true" lat="43.27595045" lon="-72.77957112">
     <tag k="addr:city" v="Weston"/>
@@ -1610,6 +2730,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284982"/>
   </node>
+  <node id="-492" visible="true" lat="43.27504381" lon="-72.81731241">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="222"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284983"/>
+  </node>
   <node id="-493" visible="true" lat="43.27511315" lon="-72.77585548">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="248"/>
@@ -1623,6 +2750,13 @@
     <tag k="addr:street" v="Piper Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284987"/>
+  </node>
+  <node id="-495" visible="true" lat="43.27340694" lon="-72.81666354">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284988"/>
   </node>
   <node id="-496" visible="true" lat="43.2734719" lon="-72.78754353">
     <tag k="addr:city" v="Weston"/>
@@ -1644,6 +2778,13 @@
     <tag k="addr:street" v="Piper Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284991"/>
+  </node>
+  <node id="-499" visible="true" lat="43.27322184" lon="-72.7892353">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="392"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284992"/>
   </node>
   <node id="-500" visible="true" lat="43.2722016" lon="-72.78512901">
     <tag k="addr:city" v="Weston"/>
@@ -1673,12 +2814,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="284997"/>
   </node>
+  <node id="-504" visible="true" lat="43.27168729" lon="-72.817292">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="270"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284998"/>
+  </node>
+  <node id="-505" visible="true" lat="43.27151108" lon="-72.79854624">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="294"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284999"/>
+  </node>
   <node id="-506" visible="true" lat="43.2712937" lon="-72.81433513">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Summit Trail Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285000"/>
+  </node>
+  <node id="-507" visible="true" lat="43.27137145" lon="-72.77799944">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Dale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285002"/>
+  </node>
+  <node id="-508" visible="true" lat="43.27102306" lon="-72.77951365">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Dale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285003"/>
   </node>
   <node id="-509" visible="true" lat="43.27082741" lon="-72.77614488">
     <tag k="addr:city" v="Weston"/>
@@ -1743,12 +2912,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285012"/>
   </node>
+  <node id="-518" visible="true" lat="43.26937863" lon="-72.78841425">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="335"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285013"/>
+  </node>
   <node id="-519" visible="true" lat="43.26914211" lon="-72.8127344">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="63"/>
     <tag k="addr:street" v="Summit Trail Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285014"/>
+  </node>
+  <node id="-520" visible="true" lat="43.26906392" lon="-72.8176908">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="306"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285015"/>
+  </node>
+  <node id="-521" visible="true" lat="43.26906742" lon="-72.78980565">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="324"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285016"/>
   </node>
   <node id="-522" visible="true" lat="43.26863174" lon="-72.81113351">
     <tag k="addr:city" v="Weston"/>
@@ -1770,6 +2960,13 @@
     <tag k="addr:street" v="Piper Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285019"/>
+  </node>
+  <node id="-525" visible="true" lat="43.26857949" lon="-72.77024571">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:street" v="Dale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285020"/>
   </node>
   <node id="-526" visible="true" lat="43.2683851" lon="-72.77592566">
     <tag k="addr:city" v="Weston"/>
@@ -1798,6 +2995,13 @@
     <tag k="addr:street" v="Summit Trail Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285024"/>
+  </node>
+  <node id="-530" visible="true" lat="43.26796536" lon="-72.787971">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="315"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285025"/>
   </node>
   <node id="-531" visible="true" lat="43.26771366" lon="-72.77539699">
     <tag k="addr:city" v="Weston"/>
@@ -1855,6 +3059,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285033"/>
   </node>
+  <node id="-539" visible="true" lat="43.26657147" lon="-72.78758592">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="287"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285034"/>
+  </node>
+  <node id="-540" visible="true" lat="43.26635536" lon="-72.78832387">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="288"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285035"/>
+  </node>
   <node id="-541" visible="true" lat="43.26631926" lon="-72.77625281">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="371"/>
@@ -1889,6 +3107,13 @@
     <tag k="addr:street" v="Piper Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285040"/>
+  </node>
+  <node id="-546" visible="true" lat="43.26549749" lon="-72.78818038">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="278"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285041"/>
   </node>
   <node id="-547" visible="true" lat="43.2656821" lon="-72.76212965">
     <tag k="addr:city" v="Weston"/>
@@ -1953,12 +3178,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285050"/>
   </node>
+  <node id="-556" visible="true" lat="43.26414292" lon="-72.78644043">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285051"/>
+  </node>
   <node id="-557" visible="true" lat="43.26375035" lon="-72.80630499">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="119"/>
     <tag k="addr:street" v="Highland View Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285052"/>
+  </node>
+  <node id="-558" visible="true" lat="43.26384407" lon="-72.787564">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="252"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285053"/>
   </node>
   <node id="-559" visible="true" lat="43.26356553" lon="-72.80828434">
     <tag k="addr:city" v="Weston"/>
@@ -2009,6 +3248,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285060"/>
   </node>
+  <node id="-566" visible="true" lat="43.26258752" lon="-72.78681594">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="231"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285061"/>
+  </node>
   <node id="-567" visible="true" lat="43.26246635" lon="-72.81022957">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="466"/>
@@ -2036,6 +3282,13 @@
     <tag k="addr:street" v="Highland View Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285065"/>
+  </node>
+  <node id="-571" visible="true" lat="43.26156311" lon="-72.7766134">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="443"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285066"/>
   </node>
   <node id="-572" visible="true" lat="43.26149128" lon="-72.80553176">
     <tag k="addr:city" v="Weston"/>
@@ -2093,6 +3346,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285074"/>
   </node>
+  <node id="-580" visible="true" lat="43.25985742" lon="-72.80862191">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="495"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285075"/>
+  </node>
   <node id="-581" visible="true" lat="43.25977868" lon="-72.8068924">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="167"/>
@@ -2107,6 +3367,27 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285077"/>
   </node>
+  <node id="-583" visible="true" lat="43.25974013" lon="-72.78931554">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="192"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285078"/>
+  </node>
+  <node id="-584" visible="true" lat="43.25954238" lon="-72.76811513">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="254"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285079"/>
+  </node>
+  <node id="-585" visible="true" lat="43.25943169" lon="-72.76123282">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="326"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285080"/>
+  </node>
   <node id="-586" visible="true" lat="43.2589743" lon="-72.80174489">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="210"/>
@@ -2114,12 +3395,82 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285081"/>
   </node>
+  <node id="-587" visible="true" lat="43.25893986" lon="-72.76718775">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="266"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285082"/>
+  </node>
   <node id="-588" visible="true" lat="43.25882027" lon="-72.80480615">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="149"/>
     <tag k="addr:street" v="Johnson Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285083"/>
+  </node>
+  <node id="-589" visible="true" lat="43.25885202" lon="-72.77272754">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285084"/>
+  </node>
+  <node id="-590" visible="true" lat="43.25868797" lon="-72.80880225">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Hells Peak Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285085"/>
+  </node>
+  <node id="-591" visible="true" lat="43.25868231" lon="-72.7733153">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="197"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285086"/>
+  </node>
+  <node id="-592" visible="true" lat="43.25866705" lon="-72.78923377">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285087"/>
+  </node>
+  <node id="-593" visible="true" lat="43.25862045" lon="-72.77123509">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285088"/>
+  </node>
+  <node id="-594" visible="true" lat="43.25860997" lon="-72.76062437">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Rogers Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285089"/>
+  </node>
+  <node id="-595" visible="true" lat="43.25848884" lon="-72.78769896">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285090"/>
+  </node>
+  <node id="-596" visible="true" lat="43.25853153" lon="-72.76959786">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285091"/>
+  </node>
+  <node id="-597" visible="true" lat="43.25841531" lon="-72.77390206">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285092"/>
   </node>
   <node id="-598" visible="true" lat="43.25839744" lon="-72.78430124">
     <tag k="addr:city" v="Weston"/>
@@ -2149,6 +3500,55 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285096"/>
   </node>
+  <node id="-602" visible="true" lat="43.2583031" lon="-72.76188216">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285097"/>
+  </node>
+  <node id="-603" visible="true" lat="43.2582876" lon="-72.76626904">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285098"/>
+  </node>
+  <node id="-604" visible="true" lat="43.25826826" lon="-72.7644001">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="295"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285099"/>
+  </node>
+  <node id="-605" visible="true" lat="43.25827598" lon="-72.76337669">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="303"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285100"/>
+  </node>
+  <node id="-606" visible="true" lat="43.25819635" lon="-72.78554143">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Alans Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285101"/>
+  </node>
+  <node id="-607" visible="true" lat="43.25809476" lon="-72.775406">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285102"/>
+  </node>
+  <node id="-608" visible="true" lat="43.25787149" lon="-72.80674604">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Hells Peak Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285103"/>
+  </node>
   <node id="-609" visible="true" lat="43.26041751" lon="-72.79662239">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="3"/>
@@ -2170,6 +3570,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285106"/>
   </node>
+  <node id="-612" visible="true" lat="43.25751872" lon="-72.75997587">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Rogers Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285107"/>
+  </node>
   <node id="-613" visible="true" lat="43.25709189" lon="-72.77734516">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="143"/>
@@ -2183,6 +3590,13 @@
     <tag k="addr:street" v="Johnson Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285109"/>
+  </node>
+  <node id="-615" visible="true" lat="43.25663771" lon="-72.8080177">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Hells Peak Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285110"/>
   </node>
   <node id="-616" visible="true" lat="43.25643923" lon="-72.79962365">
     <tag k="addr:city" v="Weston"/>
@@ -2247,6 +3661,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285119"/>
   </node>
+  <node id="-625" visible="true" lat="43.25600052" lon="-72.81027222">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Hells Peak Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285120"/>
+  </node>
   <node id="-626" visible="true" lat="43.25588204" lon="-72.79697669">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="30"/>
@@ -2261,12 +3682,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285122"/>
   </node>
-  <node id="-631" visible="true" lat="43.25526762" lon="-72.78418355">
+  <node id="-628" visible="true" lat="43.25544978" lon="-72.79355007">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285123"/>
+  </node>
+  <node id="-629" visible="true" lat="43.25554666" lon="-72.79275919">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285124"/>
+  </node>
+  <node id="-630" visible="true" lat="43.2554705" lon="-72.7929947">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285125"/>
+  </node>
+  <node id="-631" visible="true" lat="43.25530379" lon="-72.78422791">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:street" v="Old Tavern Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285126"/>
+  </node>
+  <node id="-632" visible="true" lat="43.25516908" lon="-72.79236209">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285127"/>
   </node>
   <node id="-633" visible="true" lat="43.25514312" lon="-72.7972917">
     <tag k="addr:city" v="Weston"/>
@@ -2275,12 +3724,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285128"/>
   </node>
+  <node id="-634" visible="true" lat="43.25512986" lon="-72.79336221">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285129"/>
+  </node>
   <node id="-635" visible="true" lat="43.25507827" lon="-72.78630185">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:street" v="Old Tavern Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285130"/>
+  </node>
+  <node id="-636" visible="true" lat="43.25510972" lon="-72.77317086">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="542"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285131"/>
   </node>
   <node id="-637" visible="true" lat="43.25472122" lon="-72.79762948">
     <tag k="addr:city" v="Weston"/>
@@ -2296,12 +3759,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285133"/>
   </node>
+  <node id="-639" visible="true" lat="43.25428694" lon="-72.79139831">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Fields Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285134"/>
+  </node>
   <node id="-640" visible="true" lat="43.25445535" lon="-72.79511436">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Longley Loop"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285135"/>
+  </node>
+  <node id="-641" visible="true" lat="43.25424008" lon="-72.79030756">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Fields Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285136"/>
   </node>
   <node id="-642" visible="true" lat="43.25384883" lon="-72.78892699">
     <tag k="addr:city" v="Weston"/>
@@ -2331,12 +3808,54 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285141"/>
   </node>
+  <node id="-646" visible="true" lat="43.25325584" lon="-72.80537948">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Hells Peak Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285142"/>
+  </node>
+  <node id="-647" visible="true" lat="43.25309359" lon="-72.80745067">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Hells Peak Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285143"/>
+  </node>
   <node id="-648" visible="true" lat="43.25203718" lon="-72.7743315">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="585"/>
     <tag k="addr:street" v="Piper Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285144"/>
+  </node>
+  <node id="-649" visible="true" lat="43.25174261" lon="-72.80028142">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="315"/>
+    <tag k="addr:street" v="Hobart Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285145"/>
+  </node>
+  <node id="-650" visible="true" lat="43.25105668" lon="-72.7885023">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Boynton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285146"/>
+  </node>
+  <node id="-651" visible="true" lat="43.25012983" lon="-72.79606262">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285147"/>
+  </node>
+  <node id="-652" visible="true" lat="43.24923886" lon="-72.78636803">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:street" v="Boynton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285148"/>
   </node>
   <node id="-653" visible="true" lat="43.31993724" lon="-72.78678156">
     <tag k="addr:city" v="Weston"/>
@@ -2380,6 +3899,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285156"/>
   </node>
+  <node id="-659" visible="true" lat="43.27798276" lon="-72.78105259">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="172"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285157"/>
+  </node>
   <node id="-660" visible="true" lat="43.24871656" lon="-72.78746857">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="117"/>
@@ -2393,6 +3919,13 @@
     <tag k="addr:street" v="Benson Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285159"/>
+  </node>
+  <node id="-662" visible="true" lat="43.31331604" lon="-72.78964083">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Benson Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285160"/>
   </node>
   <node id="-663" visible="true" lat="43.31404782" lon="-72.78831831">
     <tag k="addr:city" v="Weston"/>
@@ -2414,6 +3947,13 @@
     <tag k="addr:street" v="Old Tavern Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285163"/>
+  </node>
+  <node id="-666" visible="true" lat="43.29298864" lon="-72.81459336">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285164"/>
   </node>
   <node id="-667" visible="true" lat="43.35574592" lon="-72.76733323">
     <tag k="addr:city" v="Weston"/>
@@ -2450,6 +3990,48 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285169"/>
   </node>
+  <node id="-672" visible="true" lat="43.31587897" lon="-72.82931157">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Turner Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285170"/>
+  </node>
+  <node id="-673" visible="true" lat="43.30231874" lon="-72.84446165">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Jaquith Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285171"/>
+  </node>
+  <node id="-674" visible="true" lat="43.27315425" lon="-72.78066417">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Dale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285172"/>
+  </node>
+  <node id="-675" visible="true" lat="43.26309019" lon="-72.80230149">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:street" v="Highland View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285173"/>
+  </node>
+  <node id="-676" visible="true" lat="43.25506934" lon="-72.79297947">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285174"/>
+  </node>
+  <node id="-677" visible="true" lat="43.28879104" lon="-72.81416927">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285175"/>
+  </node>
   <node id="-678" visible="true" lat="43.32732493" lon="-72.78184815">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="18"/>
@@ -2464,6 +4046,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285177"/>
   </node>
+  <node id="-680" visible="true" lat="43.2892599" lon="-72.81129669">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285178"/>
+  </node>
+  <node id="-681" visible="true" lat="43.26587147" lon="-72.80691643">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Summit Trail Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285179"/>
+  </node>
   <node id="-682" visible="true" lat="43.25115553" lon="-72.79314683">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="30"/>
@@ -2471,12 +4067,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285180"/>
   </node>
+  <node id="-683" visible="true" lat="43.25305486" lon="-72.78385962">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Casper Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285181"/>
+  </node>
   <node id="-684" visible="true" lat="43.25231271" lon="-72.78363871">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:street" v="Casper Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285182"/>
+  </node>
+  <node id="-685" visible="true" lat="43.25519213" lon="-72.76041325">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Rogers Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285183"/>
   </node>
   <node id="-686" visible="true" lat="43.35645931" lon="-72.76880869">
     <tag k="addr:city" v="Weston"/>
@@ -2506,6 +4116,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285187"/>
   </node>
+  <node id="-690" visible="true" lat="43.25208754" lon="-72.79695008">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285188"/>
+  </node>
+  <node id="-691" visible="true" lat="43.29375681" lon="-72.79521927">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Serene Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285189"/>
+  </node>
   <node id="-692" visible="true" lat="43.29607421" lon="-72.77748266">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="126"/>
@@ -2527,6 +4151,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285192"/>
   </node>
+  <node id="-695" visible="true" lat="43.26679755" lon="-72.76817232">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="231"/>
+    <tag k="addr:street" v="Dale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285193"/>
+  </node>
   <node id="-696" visible="true" lat="43.25840225" lon="-72.80402727">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="135"/>
@@ -2547,6 +4178,20 @@
     <tag k="addr:street" v="Woodcock Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285196"/>
+  </node>
+  <node id="-699" visible="true" lat="43.30143155" lon="-72.78967103">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="770"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285197"/>
+  </node>
+  <node id="-700" visible="true" lat="43.27030312" lon="-72.77857064">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Dale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="307420"/>
   </node>
   <node id="-701" visible="true" lat="43.27219753" lon="-72.81278494">
     <tag k="addr:city" v="Weston"/>
@@ -2576,6 +4221,48 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315339"/>
   </node>
+  <node id="-705" visible="true" lat="43.30308167" lon="-72.77188288">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Obed Moore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="315340"/>
+  </node>
+  <node id="-706" visible="true" lat="43.2883821" lon="-72.80475648">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317506"/>
+  </node>
+  <node id="-707" visible="true" lat="43.28814475" lon="-72.80483513">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317507"/>
+  </node>
+  <node id="-708" visible="true" lat="43.28787433" lon="-72.80482752">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317508"/>
+  </node>
+  <node id="-709" visible="true" lat="43.27657072" lon="-72.81523262">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="318251"/>
+  </node>
+  <node id="-710" visible="true" lat="43.27529647" lon="-72.81530344">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="196"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="318252"/>
+  </node>
   <node id="-711" visible="true" lat="43.29106417" lon="-72.78914606">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="7"/>
@@ -2589,6 +4276,20 @@
     <tag k="addr:street" v="Dale Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328404"/>
+  </node>
+  <node id="-713" visible="true" lat="43.29846767" lon="-72.79511796">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Wildes Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336069"/>
+  </node>
+  <node id="-714" visible="true" lat="43.25894018" lon="-72.78062557">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336566"/>
   </node>
   <node id="-715" visible="true" lat="43.2634995" lon="-72.80526167">
     <tag k="addr:city" v="Weston"/>
@@ -2604,6 +4305,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336740"/>
   </node>
+  <node id="-717" visible="true" lat="43.25968399" lon="-72.77089767">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338520"/>
+  </node>
+  <node id="-718" visible="true" lat="43.29199025" lon="-72.80095413">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341805"/>
+  </node>
   <node id="-719" visible="true" lat="43.26379554" lon="-72.81515231">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="407"/>
@@ -2611,11 +4326,263 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345626"/>
   </node>
+  <node id="-720" visible="true" lat="43.25987118" lon="-72.77306743">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:street" v="Old Tavern Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345868"/>
+  </node>
+  <node id="-721" visible="true" lat="43.3323032" lon="-72.80310572">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:street" v="Greendale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451121"/>
+  </node>
+  <node id="-722" visible="true" lat="43.27383658" lon="-72.8179555">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451124"/>
+  </node>
   <node id="-723" visible="true" lat="43.32867866" lon="-72.79167483">
     <tag k="addr:city" v="Weston"/>
     <tag k="addr:housenumber" v="174"/>
     <tag k="addr:street" v="Old County Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611077"/>
+  </node>
+  <node id="-727" visible="true" lat="43.29446972" lon="-72.78132948">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Chester Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="616583"/>
+  </node>
+  <node id="-728" visible="true" lat="43.2938476" lon="-72.77513924">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Chester Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617042"/>
+  </node>
+  <node id="-729" visible="true" lat="43.28189235" lon="-72.81644652">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617043"/>
+  </node>
+  <node id="-730" visible="true" lat="43.28931546" lon="-72.80476838">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617044"/>
+  </node>
+  <node id="-731" visible="true" lat="43.27087259" lon="-72.78041326">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Dale Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617045"/>
+  </node>
+  <node id="-732" visible="true" lat="43.35455836" lon="-72.76234849">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="1722"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617118"/>
+  </node>
+  <node id="-733" visible="true" lat="43.32431541" lon="-72.77988371">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Felton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617940"/>
+  </node>
+  <node id="-815" visible="true" lat="43.26582084" lon="-72.77293126">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="386"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="619193"/>
+  </node>
+  <node id="-839" visible="true" lat="43.26875185" lon="-72.78769757">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="329"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750536"/>
+  </node>
+  <node id="-842" visible="true" lat="43.33959134" lon="-72.81255113">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Jenny Coolidge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752040"/>
+  </node>
+  <node id="-843" visible="true" lat="43.2914058" lon="-72.79539464">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752041"/>
+  </node>
+  <node id="-845" visible="true" lat="43.34272733" lon="-72.78082148">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Cider Mill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752183"/>
+  </node>
+  <node id="-846" visible="true" lat="43.29343273" lon="-72.7889624">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="705"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753200"/>
+  </node>
+  <node id="-847" visible="true" lat="43.26136886" lon="-72.80264123">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="178"/>
+    <tag k="addr:street" v="Highland View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756161"/>
+  </node>
+  <node id="-848" visible="true" lat="43.26342495" lon="-72.77825637">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="415"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756388"/>
+  </node>
+  <node id="-849" visible="true" lat="43.26320408" lon="-72.77572848">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="420"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756389"/>
+  </node>
+  <node id="-850" visible="true" lat="43.26125563" lon="-72.80898135">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="480"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756390"/>
+  </node>
+  <node id="-851" visible="true" lat="43.25956986" lon="-72.80389107">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="197"/>
+    <tag k="addr:street" v="Highland View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759227"/>
+  </node>
+  <node id="-852" visible="true" lat="43.27671137" lon="-72.7816451">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760776"/>
+  </node>
+  <node id="-854" visible="true" lat="43.2609435" lon="-72.77561277">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="452"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761369"/>
+  </node>
+  <node id="-856" visible="true" lat="43.26763098" lon="-72.80716444">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Summit Trail Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761467"/>
+  </node>
+  <node id="-857" visible="true" lat="43.29647557" lon="-72.78685643">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="763"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761893"/>
+  </node>
+  <node id="-858" visible="true" lat="43.26497674" lon="-72.77704054">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="401"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764061"/>
+  </node>
+  <node id="-859" visible="true" lat="43.26703921" lon="-72.7753959">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="364"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764325"/>
+  </node>
+  <node id="-860" visible="true" lat="43.32792199" lon="-72.79180991">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:street" v="Old County Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765930"/>
+  </node>
+  <node id="-861" visible="true" lat="43.35504576" lon="-72.77013443">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Slawson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768729"/>
+  </node>
+  <node id="-862" visible="true" lat="43.25287307" lon="-72.78614313">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Casper Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768899"/>
+  </node>
+  <node id="-863" visible="true" lat="43.26890244" lon="-72.77629005">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="333"/>
+    <tag k="addr:street" v="Piper Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768923"/>
+  </node>
+  <node id="-865" visible="true" lat="43.26307346" lon="-72.81278455">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="427"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="800018"/>
+  </node>
+  <node id="-866" visible="true" lat="43.36253724" lon="-72.79488565">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="392"/>
+    <tag k="addr:street" v="Vermont Route 155"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="800157"/>
+  </node>
+  <node id="-867" visible="true" lat="43.25399437" lon="-72.79163609">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Fields Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050328"/>
+  </node>
+  <node id="-868" visible="true" lat="43.30046023" lon="-72.78642656">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="826"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050329"/>
+  </node>
+  <node id="-869" visible="true" lat="43.31660354" lon="-72.79087323">
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="424"/>
+    <tag k="addr:street" v="Lawrence Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050330"/>
   </node>
 </osm>

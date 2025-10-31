@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-274" visible="true" lat="43.8328539" lon="-72.85190554">
+    <!-- offset: "98 Mountain Road, Pittsfield, VT" Significant offset - 178.5m -->
+    <tag k="addr:city" v="Pittsfield"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="187204"/>
+  </node>
+  <node id="-275" visible="true" lat="43.83059926" lon="-72.8508262">
+    <!-- offset: "275 Mountain Road, Pittsfield, VT" Significant offset - 261.5m -->
+    <tag k="addr:city" v="Pittsfield"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="187205"/>
+  </node>
+  <node id="-544" visible="true" lat="43.77783759" lon="-72.79940685">
+    <!-- offset: "4668 Vermont Route 100, Pittsfield, VT" Significant offset - 183.2m -->
+    <tag k="addr:city" v="Pittsfield"/>
+    <tag k="addr:housenumber" v="4668"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770654"/>
+  </node>
 </osm>

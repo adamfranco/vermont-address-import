@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-194" visible="true" lat="44.28348412" lon="-73.07129596">
+    <!-- multiple: "135 Tyler Bridge Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Tyler Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="248026"/>
+  </node>
+  <node id="-232" visible="true" lat="44.27950042" lon="-73.0724403">
+    <!-- multiple: "157 Tyler Bridge Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:street" v="Tyler Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="248064"/>
+  </node>
 </osm>

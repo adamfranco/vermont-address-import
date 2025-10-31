@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-156" visible="true" lat="44.47515869" lon="-73.11380767">
+    <!-- multiple: "500 Essex Road, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:street" v="Essex Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="288530"/>
+  </node>
+  <node id="-1001" visible="true" lat="44.45361328" lon="-73.13520812">
+    <!-- multiple: "521 Shunpike Road, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="521"/>
+    <tag k="addr:street" v="Shunpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="289523"/>
+  </node>
   <node id="-1033" visible="true" lat="44.45285034" lon="-73.11627197">
     <!-- multiple: "34 Blair Park Road, Williston, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Williston"/>
@@ -24,15 +40,55 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="289885"/>
   </node>
-  <node id="-1501" visible="true" lat="44.44551176" lon="-73.05767222">
-    <!-- multiple: "242 Tamarack Drive, Williston, VT" Multiple exact matches in OSM. -->
+  <node id="-1668" visible="true" lat="44.4404602" lon="-73.11379241">
+    <!-- multiple: "2939 Saint George Road, Williston, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="242"/>
-    <tag k="addr:street" v="Tamarack Drive"/>
+    <tag k="addr:housenumber" v="2939"/>
+    <tag k="addr:street" v="Saint George Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="290151"/>
+    <tag k="ref:vcgi:esiteid" v="290375"/>
   </node>
-  <node id="-3096" visible="true" lat="44.44639916" lon="-73.10867297">
+  <node id="-2593" visible="true" lat="44.44787199" lon="-73.10550583">
+    <!-- multiple: "777 Zephyr Road, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="777"/>
+    <tag k="addr:street" v="Zephyr Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="291405"/>
+  </node>
+  <node id="-2653" visible="true" lat="44.44556991" lon="-73.1267779">
+    <!-- multiple: "740 Marshall Avenue, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="740"/>
+    <tag k="addr:street" v="Marshall Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="291468"/>
+  </node>
+  <node id="-2806" visible="true" lat="44.44715286" lon="-73.10268615">
+    <!-- multiple: "400 Cornerstone Drive, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:street" v="Cornerstone Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="291626"/>
+  </node>
+  <node id="-2807" visible="true" lat="44.44668488" lon="-73.10256908">
+    <!-- multiple: "300 Cornerstone Drive, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="Cornerstone Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="291627"/>
+  </node>
+  <node id="-3086" visible="true" lat="44.44460125" lon="-73.10974459">
+    <!-- multiple: "26 Cypress Street, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Cypress Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="291947"/>
+  </node>
+  <node id="-3093" visible="true" lat="44.44639916" lon="-73.10867297">
     <!-- multiple: "121 Connor Way, Williston, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Williston"/>
     <tag k="addr:housenumber" v="121"/>
@@ -40,31 +96,55 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="291954"/>
   </node>
-  <node id="-3277" visible="true" lat="44.45246101" lon="-73.10243045">
-    <!-- multiple: "188 Allen Brook Lane, Williston, VT" Multiple exact matches in OSM. -->
+  <node id="-3097" visible="true" lat="44.4466267" lon="-73.11068">
+    <!-- multiple: "30 Hawthorne Street, Williston, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="188"/>
-    <tag k="addr:street" v="Allen Brook Lane"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Hawthorne Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="292137"/>
+    <tag k="ref:vcgi:esiteid" v="291958"/>
   </node>
-  <node id="-3957" visible="true" lat="44.45309043" lon="-73.1092039">
-    <!-- multiple: "155 Day Lane, Williston, VT" Multiple exact matches in OSM. -->
+  <node id="-3104" visible="true" lat="44.44352551" lon="-73.11481293">
+    <!-- multiple: "194 Retail Way, Williston, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="155"/>
-    <tag k="addr:street" v="Day Lane"/>
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:street" v="Retail Way"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326746"/>
+    <tag k="ref:vcgi:esiteid" v="291965"/>
   </node>
-  <node id="-3969" visible="true" lat="44.45308686" lon="-73.10895991">
-    <!-- multiple: "50 Madison Drive, Williston, VT" Multiple exact matches in OSM. -->
+  <node id="-3141" visible="true" lat="44.4459021" lon="-73.10996273">
+    <!-- multiple: "190 Boxwood Street, Williston, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Madison Drive"/>
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Boxwood Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326758"/>
+    <tag k="ref:vcgi:esiteid" v="292003"/>
   </node>
-  <node id="-4471" visible="true" lat="44.44845232" lon="-73.10745076">
+  <node id="-3755" visible="true" lat="44.44565093" lon="-73.10824141">
+    <!-- multiple: "166 Sycamore Street, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Sycamore Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="292650"/>
+  </node>
+  <node id="-4218" visible="true" lat="44.44556601" lon="-73.11217855">
+    <!-- multiple: "62 Merchants Row, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Merchants Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="447008"/>
+  </node>
+  <node id="-4269" visible="true" lat="44.47612621" lon="-73.11396627">
+    <!-- multiple: "22 James Brown Drive, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="James Brown Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450186"/>
+  </node>
+  <node id="-4468" visible="true" lat="44.44845232" lon="-73.10745076">
     <!-- multiple: "69 Market Street, Williston, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Williston"/>
     <tag k="addr:housenumber" v="69"/>
@@ -72,12 +152,28 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751482"/>
   </node>
-  <node id="-4533" visible="true" lat="44.4489504" lon="-73.10850223">
+  <node id="-4530" visible="true" lat="44.4489504" lon="-73.10850223">
     <!-- multiple: "129 Market Street, Williston, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Williston"/>
     <tag k="addr:housenumber" v="129"/>
     <tag k="addr:street" v="Market Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754557"/>
+  </node>
+  <node id="-4590" visible="true" lat="44.42533595" lon="-73.09693969">
+    <!-- multiple: "495 Porterwood Drive, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="495"/>
+    <tag k="addr:street" v="Porterwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761595"/>
+  </node>
+  <node id="-5007" visible="true" lat="44.46916287" lon="-73.11936509">
+    <!-- multiple: "142 Horseshoe Drive, Williston, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Horseshoe Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="800032"/>
   </node>
 </osm>

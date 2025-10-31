@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1006" visible="true" lat="43.57267256" lon="-73.03902973">
+    <!-- offset: "1450 Clarendon Avenue, West Rutland, VT" Significant offset - 189.5m -->
+    <tag k="addr:city" v="West Rutland"/>
+    <tag k="addr:housenumber" v="1450"/>
+    <tag k="addr:street" v="Clarendon Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280141"/>
+  </node>
+  <node id="-1067" visible="true" lat="43.57105057" lon="-73.04991416">
+    <!-- offset: "1010 Dewey Avenue, West Rutland, VT" Significant offset - 146.8m -->
+    <tag k="addr:city" v="West Rutland"/>
+    <tag k="addr:housenumber" v="1010"/>
+    <tag k="addr:street" v="Dewey Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="332380"/>
+  </node>
 </osm>

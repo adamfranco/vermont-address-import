@@ -1,411 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-201" visible="true" lat="43.62682152" lon="-72.97477803">
-    <!-- conflict: "260 North Main Street, Rutland, VT" Fuzzy match to "260 North Main Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="260"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="207591"/>
-  </node>
-  <node id="-308" visible="true" lat="43.62438201" lon="-72.9758377">
-    <!-- conflict: "217 North Main Street, Rutland, VT" Fuzzy match to "217 North Main Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="217"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="207700"/>
-  </node>
-  <node id="-1439" visible="true" lat="43.61532352" lon="-72.96278097">
-    <!-- conflict: "125 Woodstock Avenue, Rutland, VT" Fuzzy match to "125 Woodstock Avenue, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:street" v="Woodstock Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="208839"/>
-  </node>
-  <node id="-1503" visible="true" lat="43.61489297" lon="-72.96342658">
-    <!-- conflict: "115 Woodstock Avenue, Rutland, VT" Fuzzy match to "115 Woodstock Avenue, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="115"/>
-    <tag k="addr:street" v="Woodstock Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="208903"/>
-  </node>
-  <node id="-2172" visible="true" lat="43.61195373" lon="-72.98719024">
-    <!-- conflict: "137 Library Avenue, Rutland, VT" Fuzzy match to "137 Library Avenue, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="137"/>
-    <tag k="addr:street" v="Library Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="209581"/>
-  </node>
-  <node id="-2260" visible="true" lat="43.61156992" lon="-72.9875227">
-    <!-- conflict: "65 Baxter Street, Rutland, VT" Fuzzy match to "65 Baxter Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="Baxter Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="209670"/>
-  </node>
-  <node id="-2371" visible="true" lat="43.61122894" lon="-72.98675537">
-    <!-- conflict: "143 Maple Street, Rutland, VT" Fuzzy match to "143 Maple Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="143"/>
-    <tag k="addr:street" v="Maple Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="209782"/>
-  </node>
-  <node id="-2765" visible="true" lat="43.61000267" lon="-72.97303483">
-    <!-- conflict: "29 North Main Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "2729 North Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210187"/>
-  </node>
-  <node id="-2874" visible="true" lat="43.60961532" lon="-72.98110198">
-    <!-- conflict: "81 State Street, Rutland, VT" Fuzzy match to "81 State Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210299"/>
-  </node>
-  <node id="-2938" visible="true" lat="43.60966285" lon="-72.9715737">
-    <!-- conflict: "12 North Main Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "12 S Main Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210364"/>
-  </node>
-  <node id="-3036" visible="true" lat="43.60905838" lon="-72.98657226">
-    <!-- conflict: "145 State Street, Rutland, VT" Fuzzy match to "145 State Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210467"/>
-  </node>
-  <node id="-3174" visible="true" lat="43.60854721" lon="-72.96918487">
-    <!-- conflict: "41 East Street, Rutland, VT" Fuzzy match to "41 East Center Street, Rutland, VT" -->
+  <node id="-790" visible="true" lat="43.61944488" lon="-72.96955473">
+    <!-- conflict: "41 North Street Extension, Rutland, VT" Fuzzy match to "41 North Street, Rutland, VT" -->
     <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="East Street"/>
+    <tag k="addr:street" v="North Street Extension"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210610"/>
+    <tag k="ref:vcgi:esiteid" v="208184"/>
   </node>
-  <node id="-3275" visible="true" lat="43.60803999" lon="-72.97384167">
-    <!-- conflict: "7 Court Square, Rutland, VT" Fuzzy match to "7 Court Square, , " -->
+  <node id="-3387" visible="true" lat="43.60749268" lon="-72.9821886">
+    <!-- conflict: "174 West Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "176 West Street, Rutland, VT" -->
     <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Court Square"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210716"/>
-  </node>
-  <node id="-3341" visible="true" lat="43.60771297" lon="-72.98560885">
-    <!-- conflict: "251 West Street, Rutland, VT" Fuzzy match to "251 West Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="251"/>
+    <tag k="addr:housenumber" v="174"/>
     <tag k="addr:street" v="West Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210784"/>
+    <tag k="ref:vcgi:esiteid" v="210831"/>
   </node>
-  <node id="-3381" visible="true" lat="43.60743943" lon="-72.98272338">
-    <!-- conflict: "178 West Street, Rutland, VT" Fuzzy match to "178 West Street, , " -->
+  <node id="-4238" visible="true" lat="43.6035807" lon="-72.97475992">
+    <!-- conflict: "33 Madison Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "31 Madison Street, Rutland, VT" -->
     <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="178"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="210825"/>
-  </node>
-  <node id="-3628" visible="true" lat="43.60630685" lon="-72.97762496">
-    <!-- conflict: "51 Wales Street, Rutland, VT" Fuzzy match to "51 Wales Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Wales Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211077"/>
-  </node>
-  <node id="-3766" visible="true" lat="43.60578494" lon="-72.97682408">
-    <!-- conflict: "41 Washington Street, Rutland, VT" Fuzzy match to "41 East Washington Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Washington Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211216"/>
-  </node>
-  <node id="-3770" visible="true" lat="43.60569381" lon="-72.97780609">
-    <!-- conflict: "51 Washington Street, Rutland, VT" Fuzzy match to "51 East Washington Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Washington Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211220"/>
-  </node>
-  <node id="-3773" visible="true" lat="43.60575442" lon="-72.97704533">
-    <!-- conflict: "43 Washington Street, Rutland, VT" Fuzzy match to "43 East Washington Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Washington Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211223"/>
-  </node>
-  <node id="-3816" visible="true" lat="43.60538097" lon="-72.97672376">
-    <!-- conflict: "40 Washington Street, Rutland, VT" Fuzzy match to "40 East Washington Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Washington Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211266"/>
-  </node>
-  <node id="-3833" visible="true" lat="43.60538104" lon="-72.97708762">
-    <!-- conflict: "44 Washington Street, Rutland, VT" Fuzzy match to "44 East Washington Street, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Washington Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211283"/>
-  </node>
-  <node id="-3989" visible="true" lat="43.60471588" lon="-72.9769274">
-    <!-- conflict: "108 Wales Street, Rutland, VT" Fuzzy match to "108 Wales Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="Wales Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211439"/>
-  </node>
-  <node id="-4221" visible="true" lat="43.60367506" lon="-72.97418293">
-    <!-- conflict: "61 Pleasant Street, Rutland, VT" Fuzzy match to "61 Pleasant Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Pleasant Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211679"/>
-  </node>
-  <node id="-4344" visible="true" lat="43.60280227" lon="-72.9785614">
-    <!-- conflict: "65 River Street, Rutland, VT" Fuzzy match to "65 River Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="River Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="211805"/>
-  </node>
-  <node id="-4719" visible="true" lat="43.60037826" lon="-72.97453412">
-    <!-- conflict: "1 Scale Avenue, Rutland, VT" Fuzzy match to "1 Scale Avenue, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Scale Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212199"/>
-  </node>
-  <node id="-4910" visible="true" lat="43.59819626" lon="-72.96975622">
-    <!-- conflict: "158 South Main Street, Rutland, VT" Fuzzy match to "158 South Main Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="158"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212406"/>
-  </node>
-  <node id="-4976" visible="true" lat="43.59749472" lon="-72.96976323">
-    <!-- conflict: "162 South Main Street, Rutland, VT" Fuzzy match to "162 South Main Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="162"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212486"/>
-  </node>
-  <node id="-5162" visible="true" lat="43.59529667" lon="-72.96921248">
-    <!-- conflict: "190 South Main Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "158 South Main Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212677"/>
-  </node>
-  <node id="-5241" visible="true" lat="43.59445909" lon="-72.97763345">
-    <!-- conflict: "88 Park Street, Rutland, VT" Fuzzy match to "88 Park Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212756"/>
-  </node>
-  <node id="-5445" visible="true" lat="43.59244806" lon="-72.97842331">
-    <!-- conflict: "92 Park Street, Rutland, VT" Fuzzy match to "92 Park Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="212961"/>
-  </node>
-  <node id="-5517" visible="true" lat="43.59178841" lon="-72.967171">
-    <!-- conflict: "20 Curtis Avenue, Rutland, VT" Fuzzy match to "20 Curtis Avenue, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Curtis Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213035"/>
-  </node>
-  <node id="-5543" visible="true" lat="43.59088294" lon="-72.96987286">
-    <!-- conflict: "253 South Main Street, Rutland, VT" Fuzzy match to "253 South Main Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="253"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213062"/>
-  </node>
-  <node id="-5634" visible="true" lat="43.60620117" lon="-72.97930908">
-    <!-- conflict: "110 Merchants Row, Rutland, VT" Fuzzy match to "110 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="110"/>
-    <tag k="addr:street" v="Merchants Row"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213565"/>
-  </node>
-  <node id="-5635" visible="true" lat="43.60624612" lon="-72.97937982">
-    <!-- conflict: "104 Merchants Row, Rutland, VT" No match in OSM, but a different address exists <5m away: "110 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="104"/>
-    <tag k="addr:street" v="Merchants Row"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213566"/>
-  </node>
-  <node id="-5646" visible="true" lat="43.60724951" lon="-72.9806865">
-    <!-- conflict: "67 Merchants Row, Rutland, VT" Fuzzy match to "67 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Merchants Row"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213582"/>
-  </node>
-  <node id="-5647" visible="true" lat="43.60739018" lon="-72.98071633">
-    <!-- conflict: "59 Merchants Row, Rutland, VT" No match in OSM, but a different address exists <5m away: "67 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Merchants Row"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213583"/>
-  </node>
-  <node id="-5651" visible="true" lat="43.60720701" lon="-72.98158434">
-    <!-- conflict: "16 Evelyn Street, Rutland, VT" Fuzzy match to "16 Evelyn Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Evelyn Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213590"/>
-  </node>
-  <node id="-5655" visible="true" lat="43.60633043" lon="-72.97928936">
-    <!-- conflict: "2 Center Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "110 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Center Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213599"/>
-  </node>
-  <node id="-5668" visible="true" lat="43.60400177" lon="-72.97920452">
-    <!-- conflict: "196 Shopping Plaza Road, Rutland, VT" No match in OSM, but a different address exists <5m away: "1 Rutland Shopping Plaza, Rutland, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="196"/>
-    <tag k="addr:street" v="Shopping Plaza Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213632"/>
-  </node>
-  <node id="-5732" visible="true" lat="43.60267546" lon="-72.95640087">
-    <!-- conflict: "1 General Wing Road, Rutland, VT" Fuzzy match to "1 General Wing Road, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="General Wing Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213700"/>
-  </node>
-  <node id="-5733" visible="true" lat="43.60765782" lon="-72.97918356">
-    <!-- conflict: "102 West Street, Rutland, VT" Fuzzy match to "102 West Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="102"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213701"/>
-  </node>
-  <node id="-5755" visible="true" lat="43.60655727" lon="-72.98288949">
-    <!-- conflict: "45 Union Street, Rutland, VT" Fuzzy match to "45 Union Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Union Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="315439"/>
-  </node>
-  <node id="-5775" visible="true" lat="43.60713941" lon="-72.98139179">
-    <!-- conflict: "18 Evelyn Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "16 Evelyn Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Evelyn Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="327458"/>
-  </node>
-  <node id="-5783" visible="true" lat="43.60276648" lon="-72.95967504">
-    <!-- conflict: "5 General Wing Road, Rutland, VT" Fuzzy match to "5 General Wing Road, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="General Wing Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="328137"/>
-  </node>
-  <node id="-5897" visible="true" lat="43.61348436" lon="-72.96808584">
-    <!-- conflict: "1 Deer Street, Rutland, VT" Fuzzy match to "1 Deer Street, , VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Deer Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="340190"/>
-  </node>
-  <node id="-5982" visible="true" lat="43.60914166" lon="-72.9859911">
-    <!-- conflict: "141 State Street, Rutland, VT" Fuzzy match to "141 State Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="141"/>
-    <tag k="addr:street" v="State Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343852"/>
-  </node>
-  <node id="-6061" visible="true" lat="43.60589648" lon="-72.97756784">
-    <!-- conflict: "77 Wales Street, Rutland, VT" Fuzzy match to "77 Wales Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="Wales Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="445195"/>
-  </node>
-  <node id="-6063" visible="true" lat="43.60584704" lon="-72.97888262">
-    <!-- conflict: "128 Merchants Row, Rutland, VT" Fuzzy match to "128 Merchants Row, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="Merchants Row"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="445197"/>
-  </node>
-  <node id="-6180" visible="true" lat="43.6031769" lon="-72.97492819">
-    <!-- conflict: "32 Madison Street, Rutland, VT" Fuzzy match to "32 Madison Street, , " -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Madison Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617554"/>
+    <tag k="ref:vcgi:esiteid" v="211697"/>
   </node>
-  <node id="-6282" visible="true" lat="43.60595901" lon="-72.98271441">
-    <!-- conflict: "45 Union Street, Rutland, VT" Fuzzy match to "45 Union Street, , " -->
+  <node id="-5231" visible="true" lat="43.59465083" lon="-72.96361218">
+    <!-- conflict: "18 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "1 Brookside Mobile Home Park, Rutland, VT" -->
     <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Union Street"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Brookside Park"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755461"/>
+    <tag k="ref:vcgi:esiteid" v="212746"/>
   </node>
-  <node id="-6292" visible="true" lat="43.62665538" lon="-72.97613309">
-    <!-- conflict: "1 Field Avenue, Rutland, VT" Fuzzy match to "1 Field Avenue, , " -->
+  <node id="-5233" visible="true" lat="43.59462714" lon="-72.96382787">
+    <!-- conflict: "28 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "2 Brookside Mobile Home Park, Rutland, VT" -->
     <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Field Avenue"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Brookside Park"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="757451"/>
+    <tag k="ref:vcgi:esiteid" v="212748"/>
+  </node>
+  <node id="-5236" visible="true" lat="43.59459844" lon="-72.96403834">
+    <!-- conflict: "38 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "3 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212751"/>
+  </node>
+  <node id="-5237" visible="true" lat="43.59459317" lon="-72.9642509">
+    <!-- conflict: "50 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "4 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212752"/>
+  </node>
+  <node id="-5243" visible="true" lat="43.59456103" lon="-72.96449637">
+    <!-- conflict: "64 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "5 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212758"/>
+  </node>
+  <node id="-5245" visible="true" lat="43.59454196" lon="-72.96473288">
+    <!-- conflict: "74 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "6 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212760"/>
+  </node>
+  <node id="-5246" visible="true" lat="43.59447596" lon="-72.96516847">
+    <!-- conflict: "96 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "8 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212761"/>
+  </node>
+  <node id="-5252" visible="true" lat="43.59443517" lon="-72.96559304">
+    <!-- conflict: "118 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "10 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212767"/>
+  </node>
+  <node id="-5259" visible="true" lat="43.59448121" lon="-72.96540534">
+    <!-- conflict: "108 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "9 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212774"/>
+  </node>
+  <node id="-5262" visible="true" lat="43.5944191" lon="-72.96605357">
+    <!-- conflict: "142 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "12 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212777"/>
+  </node>
+  <node id="-5263" visible="true" lat="43.59441147" lon="-72.96581706">
+    <!-- conflict: "130 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "11 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212778"/>
+  </node>
+  <node id="-5265" visible="true" lat="43.59440384" lon="-72.96629771">
+    <!-- conflict: "154 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "13 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212780"/>
+  </node>
+  <node id="-5266" visible="true" lat="43.59451803" lon="-72.96494108">
+    <!-- conflict: "86 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "7 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212781"/>
+  </node>
+  <node id="-5268" visible="true" lat="43.59425125" lon="-72.96342824">
+    <!-- conflict: "11 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "14 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212783"/>
+  </node>
+  <node id="-5271" visible="true" lat="43.59423218" lon="-72.9636266">
+    <!-- conflict: "19 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "15 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212786"/>
+  </node>
+  <node id="-5274" visible="true" lat="43.59421333" lon="-72.9638303">
+    <!-- conflict: "29 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "16 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212789"/>
+  </node>
+  <node id="-5276" visible="true" lat="43.59420547" lon="-72.96410725">
+    <!-- conflict: "37 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "17 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212792"/>
+  </node>
+  <node id="-5278" visible="true" lat="43.5941864" lon="-72.96432087">
+    <!-- conflict: "51 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "18 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212794"/>
+  </node>
+  <node id="-5279" visible="true" lat="43.59417496" lon="-72.96456502">
+    <!-- conflict: "65 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "19 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212795"/>
+  </node>
+  <node id="-5280" visible="true" lat="43.59414315" lon="-72.96479481">
+    <!-- conflict: "75 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "20 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212796"/>
+  </node>
+  <node id="-5283" visible="true" lat="43.594105" lon="-72.96503132">
+    <!-- conflict: "87 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "21 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212799"/>
+  </node>
+  <node id="-5285" visible="true" lat="43.5940773" lon="-72.96543767">
+    <!-- conflict: "109 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "24 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212801"/>
+  </node>
+  <node id="-5288" visible="true" lat="43.59406205" lon="-72.96568181">
+    <!-- conflict: "121 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "25 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212804"/>
+  </node>
+  <node id="-5290" visible="true" lat="43.5940506" lon="-72.96584202">
+    <!-- conflict: "131 Brookside Park, Rutland, VT" No match in OSM, but a different address exists <5m away: "26 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Brookside Park"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212806"/>
+  </node>
+  <node id="-5312" visible="true" lat="43.59392239" lon="-72.96335945">
+    <!-- conflict: "225 Mussey Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "22 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:street" v="Mussey Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212828"/>
+  </node>
+  <node id="-5319" visible="true" lat="43.5938786" lon="-72.96381756">
+    <!-- conflict: "227 Mussey Street, Rutland, VT" No match in OSM, but a different address exists <5m away: "23 Brookside Mobile Home Park, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="227"/>
+    <tag k="addr:street" v="Mussey Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="212835"/>
+  </node>
+  <node id="-5609" visible="true" lat="43.61102676" lon="-72.9595642">
+    <!-- conflict: "42 Howard Avenue, Rutland, VT" No match in OSM, but a different address exists <5m away: "19 Piedmont Drive, Rutland, VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Howard Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="213537"/>
   </node>
 </osm>

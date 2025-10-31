@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1465" visible="true" lat="44.44559954" lon="-73.13084816">
-    <!-- offset: "921 Marshall Avenue, Williston, VT" Significant offset - 385.3m -->
+  <node id="-301" visible="true" lat="44.46919564" lon="-73.05617452">
+    <!-- offset: "577 Fay Lane, Williston, VT" Significant offset - 139.7m -->
     <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="921"/>
-    <tag k="addr:street" v="Marshall Avenue"/>
+    <tag k="addr:housenumber" v="577"/>
+    <tag k="addr:street" v="Fay Lane"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="290107"/>
+    <tag k="ref:vcgi:esiteid" v="288701"/>
   </node>
-  <node id="-1533" visible="true" lat="44.12952418" lon="-72.59152076">
-    <!-- offset: "22 Merchants Row, Williston, VT" Significant offset - 54303.4m -->
+  <node id="-2010" visible="true" lat="44.42631225" lon="-73.09686864">
+    <!-- offset: "495 Porterwood Drive, Williston, VT" Significant offset - 108.7m -->
     <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Merchants Row"/>
+    <tag k="addr:housenumber" v="495"/>
+    <tag k="addr:street" v="Porterwood Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="290191"/>
+    <tag k="ref:vcgi:esiteid" v="290791"/>
+  </node>
+  <node id="-4430" visible="true" lat="44.46985958" lon="-73.12046206">
+    <!-- offset: "142 Horseshoe Drive, Williston, VT" Significant offset - 116.5m -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Horseshoe Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="700013"/>
   </node>
 </osm>

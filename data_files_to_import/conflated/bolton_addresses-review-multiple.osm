@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-322" visible="true" lat="44.37905702" lon="-72.93334248">
+    <!-- multiple: "100 Jack Jump Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Jack Jump Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="25433"/>
+  </node>
   <node id="-362" visible="true" lat="44.37393169" lon="-72.87686153">
     <!-- multiple: "2712 Theodore Roosevelt Highway, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="2712"/>
@@ -13,5 +20,33 @@
     <tag k="addr:street" v="Theodore Roosevelt Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="25490"/>
+  </node>
+  <node id="-560" visible="true" lat="44.39993119" lon="-72.9266368">
+    <!-- multiple: "78 Creek Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Creek Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="200924"/>
+  </node>
+  <node id="-574" visible="true" lat="44.34374389" lon="-72.94410239">
+    <!-- multiple: "1757 Happy Hollow Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1757"/>
+    <tag k="addr:street" v="Happy Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="332493"/>
+  </node>
+  <node id="-600" visible="true" lat="44.36449722" lon="-72.93069722">
+    <!-- multiple: "1403 Wes White Hill, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1403"/>
+    <tag k="addr:street" v="Wes White Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="447047"/>
+  </node>
+  <node id="-703" visible="true" lat="44.39134111" lon="-72.92887148">
+    <!-- multiple: "135 Three Boys Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Three Boys Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765461"/>
   </node>
 </osm>

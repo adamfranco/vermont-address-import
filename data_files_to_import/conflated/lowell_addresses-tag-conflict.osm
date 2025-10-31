@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-199" visible="true" lat="44.81371102" lon="-72.44393867">
-    <!-- conflict: "1594 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "1594 State Route 100, , " -->
-    <tag k="addr:housenumber" v="1594"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
+  <node id="-442" visible="true" lat="44.76265006" lon="-72.45650367">
+    <!-- conflict: "80 Stewart Road, , VT" No match in OSM, but a different address exists <5m away: "150 Stewart Road, , VT" -->
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Stewart Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142169"/>
+    <tag k="ref:vcgi:esiteid" v="142425"/>
   </node>
-  <node id="-582" visible="true" lat="44.77236827" lon="-72.45422886">
-    <!-- conflict: "24 Norris Mountain View Drive, , VT" No match in OSM, but a different address exists <5m away: "145 Edward Drive, Lowell, VT" -->
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Norris Mountain View Drive"/>
+  <node id="-452" visible="true" lat="44.74520433" lon="-72.40804954">
+    <!-- conflict: "365 Bayley-Hazen Road, , VT" Fuzzy match to "365 Bayley Hazen Road, , VT" -->
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Bayley-Hazen Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="310118"/>
+    <tag k="ref:vcgi:esiteid" v="142436"/>
+  </node>
+  <node id="-677" visible="true" lat="44.75565965" lon="-72.40514934">
+    <!-- conflict: "1014 Bayley-Hazen Road, , VT" Fuzzy match to "1014 Bayley Hazen Road, , VT" -->
+    <tag k="addr:housenumber" v="1014"/>
+    <tag k="addr:street" v="Bayley-Hazen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454089"/>
+  </node>
+  <node id="-678" visible="true" lat="44.76329986" lon="-72.40295515">
+    <!-- conflict: "1671 Bayley-Hazen Road, , VT" Fuzzy match to "1671 Bayley Hazen Road, , VT" -->
+    <tag k="addr:housenumber" v="1671"/>
+    <tag k="addr:street" v="Bayley-Hazen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454090"/>
   </node>
 </osm>

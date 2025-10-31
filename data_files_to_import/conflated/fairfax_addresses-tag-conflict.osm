@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-2084" visible="true" lat="44.69702236" lon="-73.02425683">
+    <!-- conflict: "54 Alden Road, , VT" No match in OSM, but a different address exists <5m away: "54 Paddock Place, , VT" -->
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Alden Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454642"/>
+  </node>
 </osm>

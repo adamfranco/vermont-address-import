@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-290" visible="true" lat="43.04315567" lon="-72.78984832">
+    <!-- multiple: "170 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="270482"/>
+  </node>
   <node id="-540" visible="true" lat="43.02933883" lon="-72.85447692">
     <!-- multiple: "47 Cross Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:street" v="Cross Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270742"/>
-  </node>
-  <node id="-812" visible="true" lat="42.99155044" lon="-72.77603912">
-    <!-- multiple: "145 Hunt Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="Hunt Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271019"/>
   </node>
 </osm>

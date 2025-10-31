@@ -161,7 +161,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153891"/>
   </node>
-  <node id="-123" visible="true" lat="44.04722213" lon="-73.1634674">
+  <node id="-123" visible="true" lat="44.04722042" lon="-73.16346526">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1740"/>
     <tag k="addr:street" v="U.S. Route 7 North"/>
@@ -399,7 +399,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153927"/>
   </node>
-  <node id="-157" visible="true" lat="44.04073333" lon="-73.11693573">
+  <node id="-157" visible="true" lat="44.04087076" lon="-73.11695165">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1566"/>
     <tag k="addr:street" v="Munger Street"/>
@@ -427,7 +427,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153931"/>
   </node>
-  <node id="-161" visible="true" lat="44.03921508" lon="-73.11779022">
+  <node id="-161" visible="true" lat="44.03924703" lon="-73.11800502">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1459"/>
     <tag k="addr:street" v="Munger Street"/>
@@ -721,7 +721,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153979"/>
   </node>
-  <node id="-205" visible="true" lat="44.03406299" lon="-73.17515965">
+  <node id="-205" visible="true" lat="44.03430619" lon="-73.175934">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="227"/>
     <tag k="addr:street" v="Pond Lane"/>
@@ -2128,7 +2128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154202"/>
   </node>
-  <node id="-408" visible="true" lat="44.0248413" lon="-73.16973114">
+  <node id="-408" visible="true" lat="44.02498667" lon="-73.16971298">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="464"/>
     <tag k="addr:street" v="Exchange Street"/>
@@ -2414,6 +2414,13 @@
     <tag k="addr:street" v="Road 18"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154246"/>
+  </node>
+  <node id="-449" visible="true" lat="44.02398941" lon="-73.16963646">
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="338"/>
+    <tag k="addr:street" v="Exchange Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154248"/>
   </node>
   <node id="-450" visible="true" lat="44.02401823" lon="-73.14430395">
     <tag k="addr:city" v="Middlebury"/>
@@ -4571,13 +4578,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154592"/>
   </node>
-  <node id="-763" visible="true" lat="44.01756286" lon="-73.16957855">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Seymour Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="154593"/>
-  </node>
   <node id="-764" visible="true" lat="44.01756668" lon="-73.16711425">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="54"/>
@@ -5628,7 +5628,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154760"/>
   </node>
-  <node id="-916" visible="true" lat="44.01573562" lon="-73.17650604">
+  <node id="-916" visible="true" lat="44.0158172" lon="-73.17636152">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="390"/>
     <tag k="addr:street" v="Weybridge Street"/>
@@ -5642,7 +5642,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154762"/>
   </node>
-  <node id="-918" visible="true" lat="44.01587984" lon="-73.16415391">
+  <node id="-918" visible="true" lat="44.01588876" lon="-73.1641553">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="High Street"/>
@@ -6125,14 +6125,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154850"/>
   </node>
-  <node id="-992" visible="true" lat="44.01498003" lon="-73.16391459">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Washington Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="154852"/>
-  </node>
-  <node id="-993" visible="true" lat="44.0149765" lon="-73.15517425">
+  <node id="-993" visible="true" lat="44.01509198" lon="-73.15517056">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="East Road"/>
@@ -6531,13 +6524,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154930"/>
   </node>
-  <node id="-1057" visible="true" lat="44.01405371" lon="-73.16526307">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Court Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="154931"/>
-  </node>
   <node id="-1058" visible="true" lat="44.01408088" lon="-73.17412215">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="202"/>
@@ -6616,13 +6602,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154948"/>
   </node>
-  <node id="-1072" visible="true" lat="44.01374435" lon="-73.16483306">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Court Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="154950"/>
-  </node>
   <node id="-1074" visible="true" lat="44.01361952" lon="-73.16820155">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="10"/>
@@ -6636,13 +6615,6 @@
     <tag k="addr:street" v="Evergreen Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154953"/>
-  </node>
-  <node id="-1076" visible="true" lat="44.01369857" lon="-73.16526794">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Court Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="154954"/>
   </node>
   <node id="-1077" visible="true" lat="44.01389132" lon="-73.15652464">
     <tag k="addr:city" v="Middlebury"/>
@@ -6724,6 +6696,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154967"/>
   </node>
+  <node id="-1089" visible="true" lat="44.01352861" lon="-73.16740705">
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Merchants Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154968"/>
+  </node>
   <node id="-1090" visible="true" lat="44.0136045" lon="-73.16594796">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2"/>
@@ -6767,13 +6746,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154976"/>
   </node>
-  <node id="-1097" visible="true" lat="44.01453194" lon="-73.13951858">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="217"/>
-    <tag k="addr:street" v="Quarry Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="154977"/>
-  </node>
   <node id="-1098" visible="true" lat="44.01346738" lon="-73.17548563">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="59"/>
@@ -6781,7 +6753,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154978"/>
   </node>
-  <node id="-1099" visible="true" lat="44.01327768" lon="-73.16698879">
+  <node id="-1099" visible="true" lat="44.01320345" lon="-73.16703676">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="72"/>
     <tag k="addr:street" v="Merchants Row"/>
@@ -6794,6 +6766,13 @@
     <tag k="addr:street" v="Court Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154982"/>
+  </node>
+  <node id="-1101" visible="true" lat="44.01182282" lon="-73.17598445">
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Shannon Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154983"/>
   </node>
   <node id="-1102" visible="true" lat="44.01339936" lon="-73.15736295">
     <tag k="addr:city" v="Middlebury"/>
@@ -7019,13 +6998,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155023"/>
   </node>
-  <node id="-1138" visible="true" lat="44.01299285" lon="-73.16484832">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Court Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="155024"/>
-  </node>
   <node id="-1139" visible="true" lat="44.01303552" lon="-73.17480273">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="163"/>
@@ -7145,7 +7117,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155048"/>
   </node>
-  <node id="-1158" visible="true" lat="44.0128493" lon="-73.17730154">
+  <node id="-1158" visible="true" lat="44.01285821" lon="-73.17730294">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="148"/>
     <tag k="addr:street" v="Chateau Road"/>
@@ -7334,7 +7306,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155084"/>
   </node>
-  <node id="-1191" visible="true" lat="44.01246761" lon="-73.17789701">
+  <node id="-1191" visible="true" lat="44.01247653" lon="-73.17789841">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="139"/>
     <tag k="addr:street" v="Chateau Road"/>
@@ -7488,13 +7460,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155112"/>
   </node>
-  <node id="-1215" visible="true" lat="44.01213455" lon="-73.17000579">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="155116"/>
-  </node>
   <node id="-1216" visible="true" lat="44.01222432" lon="-73.16653512">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="140"/>
@@ -7593,7 +7558,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155132"/>
   </node>
-  <node id="-1230" visible="true" lat="44.01193099" lon="-73.17693258">
+  <node id="-1230" visible="true" lat="44.0119399" lon="-73.17693398">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="96"/>
     <tag k="addr:street" v="Chateau Road"/>
@@ -7705,7 +7670,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155152"/>
   </node>
-  <node id="-1249" visible="true" lat="44.01139569" lon="-73.17658178">
+  <node id="-1249" visible="true" lat="44.0114046" lon="-73.17658318">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="78"/>
     <tag k="addr:street" v="Chateau Road"/>
@@ -8048,13 +8013,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155212"/>
   </node>
-  <node id="-1298" visible="true" lat="44.01101868" lon="-73.16290003">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Court Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="155213"/>
-  </node>
   <node id="-1299" visible="true" lat="44.01099056" lon="-73.16582068">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="30"/>
@@ -8125,7 +8083,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155224"/>
   </node>
-  <node id="-1311" visible="true" lat="44.01080547" lon="-73.17645728">
+  <node id="-1311" visible="true" lat="44.01081438" lon="-73.17645868">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="356"/>
     <tag k="addr:street" v="College Street"/>
@@ -8706,7 +8664,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155317"/>
   </node>
-  <node id="-1394" visible="true" lat="44.00965878" lon="-73.18189064">
+  <node id="-1394" visible="true" lat="44.00966768" lon="-73.18189203">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="637"/>
     <tag k="addr:street" v="College Street"/>
@@ -9315,7 +9273,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155416"/>
   </node>
-  <node id="-1481" visible="true" lat="44.00840759" lon="-73.18102264">
+  <node id="-1481" visible="true" lat="44.0084165" lon="-73.18102404">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Adirondack View"/>
@@ -10582,6 +10540,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155624"/>
   </node>
+  <node id="-1666" visible="true" lat="44.00548477" lon="-73.15446498">
+    <!-- match: "19 Lucys Way, Middlebury, VT"  ignoring street punctuation to "19 Lucy's Way, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Lucys Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="155625"/>
+  </node>
   <node id="-1667" visible="true" lat="44.005628" lon="-73.15512513">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="160"/>
@@ -11079,7 +11045,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155719"/>
   </node>
-  <node id="-1741" visible="true" lat="44.00225448" lon="-73.14459991">
+  <node id="-1741" visible="true" lat="44.00234136" lon="-73.14460084">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Stonegate Drive"/>
@@ -11093,14 +11059,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155721"/>
   </node>
-  <node id="-1743" visible="true" lat="44.00225067" lon="-73.14427185">
+  <node id="-1743" visible="true" lat="44.0023445" lon="-73.14430749">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Stonegate Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155722"/>
   </node>
-  <node id="-1744" visible="true" lat="44.00224685" lon="-73.14477539">
+  <node id="-1744" visible="true" lat="44.00237122" lon="-73.14467445">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Stonegate Drive"/>
@@ -11128,7 +11094,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155727"/>
   </node>
-  <node id="-1748" visible="true" lat="44.00191116" lon="-73.14442443">
+  <node id="-1748" visible="true" lat="44.00186614" lon="-73.1443794">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Stonegate Drive"/>
@@ -11156,14 +11122,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155731"/>
   </node>
-  <node id="-1752" visible="true" lat="44.00161361" lon="-73.14442443">
+  <node id="-1752" visible="true" lat="44.00155062" lon="-73.144399">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Stonegate Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155732"/>
   </node>
-  <node id="-1753" visible="true" lat="44.00151825" lon="-73.14444732">
+  <node id="-1753" visible="true" lat="44.0014766" lon="-73.14443696">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Stonegate Drive"/>
@@ -11177,7 +11143,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155736"/>
   </node>
-  <node id="-1755" visible="true" lat="44.00137329" lon="-73.14443969">
+  <node id="-1755" visible="true" lat="44.00131744" lon="-73.14441434">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Stonegate Drive"/>
@@ -11219,7 +11185,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155742"/>
   </node>
-  <node id="-1761" visible="true" lat="44.0011177" lon="-73.14448547">
+  <node id="-1761" visible="true" lat="44.00106911" lon="-73.1444404">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Stonegate Drive"/>
@@ -12206,7 +12172,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155902"/>
   </node>
-  <node id="-1908" visible="true" lat="43.99049758" lon="-73.17623901">
+  <node id="-1908" visible="true" lat="43.99050483" lon="-73.17593398">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1096"/>
     <tag k="addr:street" v="South Street Extension"/>
@@ -12290,7 +12256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="155915"/>
   </node>
-  <node id="-1920" visible="true" lat="43.9897995" lon="-73.17565917">
+  <node id="-1920" visible="true" lat="43.98988633" lon="-73.17583503">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1110"/>
     <tag k="addr:street" v="South Street Extension"/>
@@ -14229,13 +14195,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156225"/>
   </node>
-  <node id="-2198" visible="true" lat="43.97274342" lon="-73.09955498">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="407"/>
-    <tag k="addr:street" v="East Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="156226"/>
-  </node>
   <node id="-2199" visible="true" lat="43.97267029" lon="-73.09922441">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="409"/>
@@ -15174,7 +15133,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156375"/>
   </node>
-  <node id="-2333" visible="true" lat="43.96882247" lon="-73.16153716">
+  <node id="-2333" visible="true" lat="43.96891196" lon="-73.16150519">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2296"/>
     <tag k="addr:street" v="Morse Road"/>
@@ -15188,7 +15147,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156377"/>
   </node>
-  <node id="-2335" visible="true" lat="43.96904755" lon="-73.09127808">
+  <node id="-2335" visible="true" lat="43.96904583" lon="-73.09127593">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Lower Plains Road"/>
@@ -15251,7 +15210,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156386"/>
   </node>
-  <node id="-2344" visible="true" lat="43.96760177" lon="-73.1665039">
+  <node id="-2344" visible="true" lat="43.96777963" lon="-73.1663872">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2034"/>
     <tag k="addr:street" v="Morse Road"/>
@@ -15475,7 +15434,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156419"/>
   </node>
-  <node id="-2376" visible="true" lat="43.96413421" lon="-73.16352081">
+  <node id="-2376" visible="true" lat="43.96411452" lon="-73.16363137">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3223"/>
     <tag k="addr:street" v="South Street Extension"/>
@@ -15853,19 +15812,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156477"/>
   </node>
-  <node id="-2430" visible="true" lat="43.9998766" lon="-73.14379672">
+  <node id="-2430" visible="true" lat="43.99997547" lon="-73.14399241">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="282"/>
     <tag k="addr:street" v="Boardman Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156478"/>
-  </node>
-  <node id="-2431" visible="true" lat="43.9992583" lon="-73.15924101">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="399"/>
-    <tag k="addr:street" v="Creek Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="156479"/>
   </node>
   <node id="-2432" visible="true" lat="43.99988498" lon="-73.14891874">
     <tag k="addr:city" v="Middlebury"/>
@@ -15895,21 +15847,21 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156483"/>
   </node>
-  <node id="-2437" visible="true" lat="44.00821524" lon="-73.18269968">
+  <node id="-2437" visible="true" lat="44.00822415" lon="-73.18270109">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="188"/>
     <tag k="addr:street" v="Ridgeline Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156485"/>
   </node>
-  <node id="-2438" visible="true" lat="44.00736226" lon="-73.18303227">
+  <node id="-2438" visible="true" lat="44.00737117" lon="-73.18303368">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="260"/>
     <tag k="addr:street" v="Ridgeline Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156486"/>
   </node>
-  <node id="-2439" visible="true" lat="44.00770739" lon="-73.18161176">
+  <node id="-2439" visible="true" lat="44.0077163" lon="-73.18161315">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="428"/>
     <tag k="addr:street" v="Ridgeline Road"/>
@@ -16233,13 +16185,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156541"/>
   </node>
-  <node id="-2486" visible="true" lat="44.01109912" lon="-73.16308419">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Court Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="156542"/>
-  </node>
   <node id="-2487" visible="true" lat="44.03160428" lon="-73.09568795">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="4301"/>
@@ -16254,7 +16199,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156544"/>
   </node>
-  <node id="-2491" visible="true" lat="44.00710327" lon="-73.18161143">
+  <node id="-2491" visible="true" lat="44.00711218" lon="-73.18161283">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="404"/>
     <tag k="addr:street" v="Ridgeline Road"/>
@@ -16457,7 +16402,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156577"/>
   </node>
-  <node id="-2522" visible="true" lat="44.00130314" lon="-73.1449171">
+  <node id="-2522" visible="true" lat="44.00122474" lon="-73.14487995">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="Stonegate Drive"/>
@@ -16583,7 +16528,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156598"/>
   </node>
-  <node id="-2540" visible="true" lat="44.02536898" lon="-73.16998217">
+  <node id="-2540" visible="true" lat="44.02533072" lon="-73.17001145">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="520"/>
     <tag k="addr:street" v="Exchange Street"/>
@@ -16604,7 +16549,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156601"/>
   </node>
-  <node id="-2543" visible="true" lat="44.00146463" lon="-73.14514498">
+  <node id="-2543" visible="true" lat="44.00141927" lon="-73.14515932">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Stonegate Drive"/>
@@ -16667,13 +16612,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156611"/>
   </node>
-  <node id="-2552" visible="true" lat="44.04671394" lon="-73.11716637">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="1967"/>
-    <tag k="addr:street" v="Munger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="156612"/>
-  </node>
   <node id="-2553" visible="true" lat="44.00946446" lon="-73.17447313">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="110"/>
@@ -16730,7 +16668,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156621"/>
   </node>
-  <node id="-2562" visible="true" lat="44.03544844" lon="-73.1652116">
+  <node id="-2562" visible="true" lat="44.03544468" lon="-73.16520511">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1330"/>
     <tag k="addr:street" v="Exchange Street"/>
@@ -16786,7 +16724,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156633"/>
   </node>
-  <node id="-2571" visible="true" lat="44.01340897" lon="-73.17731552">
+  <node id="-2571" visible="true" lat="44.01341788" lon="-73.17731692">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Shannon Street"/>
@@ -18103,7 +18041,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156830"/>
   </node>
-  <node id="-2765" visible="true" lat="44.00224537" lon="-73.14531292">
+  <node id="-2765" visible="true" lat="44.00232109" lon="-73.14539291">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Stonegate Drive"/>
@@ -18579,7 +18517,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328182"/>
   </node>
-  <node id="-2836" visible="true" lat="44.03963744" lon="-73.11685086">
+  <node id="-2836" visible="true" lat="44.03962077" lon="-73.11733352">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1480"/>
     <tag k="addr:street" v="Munger Street"/>
@@ -18972,13 +18910,6 @@
     <tag k="addr:street" v="Feed Mill Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337739"/>
-  </node>
-  <node id="-2895" visible="true" lat="44.02398528" lon="-73.17106372">
-    <tag k="addr:city" v="Middlebury"/>
-    <tag k="addr:housenumber" v="383"/>
-    <tag k="addr:street" v="Exchange Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="337740"/>
   </node>
   <node id="-2896" visible="true" lat="44.00172988" lon="-73.16861182">
     <tag k="addr:city" v="Middlebury"/>
@@ -19998,6 +19929,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455247"/>
   </node>
+  <node id="-3043" visible="true" lat="44.01325315" lon="-73.09887222">
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="2842"/>
+    <tag k="addr:street" v="Case Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455585"/>
+  </node>
   <node id="-3044" visible="true" lat="43.99289684" lon="-73.15280097">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="34"/>
@@ -20070,6 +20008,7 @@
     <tag k="ref:vcgi:esiteid" v="611947"/>
   </node>
   <node id="-3054" visible="true" lat="44.00608161" lon="-73.15428401">
+    <!-- match: "41 Lucys Way, Middlebury, VT"  ignoring street punctuation to "41 Lucy's Way, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:street" v="Lucys Way"/>
@@ -20293,1141 +20232,1184 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620229"/>
   </node>
-  <node id="-3089" visible="true" lat="44.02523632" lon="-73.09583258">
+  <node id="-3092" visible="true" lat="44.02523632" lon="-73.09583258">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:street" v="Commodore Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="655517"/>
   </node>
-  <node id="-3091" visible="true" lat="44.03922557" lon="-73.17430322">
+  <node id="-3093" visible="true" lat="43.98359419" lon="-73.16524157">
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="1871"/>
+    <tag k="addr:street" v="South Street Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655518"/>
+  </node>
+  <node id="-3094" visible="true" lat="44.0392426" lon="-73.17454239">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="139"/>
     <tag k="addr:street" v="Industrial Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="655701"/>
   </node>
-  <node id="-3092" visible="true" lat="44.00636816" lon="-73.15412781">
+  <node id="-3095" visible="true" lat="44.00636816" lon="-73.15412781">
+    <!-- match: "71 Lucys Way, Middlebury, VT"  ignoring street punctuation to "71 Lucy's Way, Middlebury, VT" -->
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="71"/>
     <tag k="addr:street" v="Lucys Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656312"/>
   </node>
-  <node id="-3093" visible="true" lat="44.01387442" lon="-73.16869059">
+  <node id="-3096" visible="true" lat="44.01387442" lon="-73.16869059">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="Printers Alley"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="700145"/>
   </node>
-  <node id="-3094" visible="true" lat="44.01002195" lon="-73.18565725">
+  <node id="-3097" visible="true" lat="44.01002195" lon="-73.18565725">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="784"/>
     <tag k="addr:street" v="College Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750157"/>
   </node>
-  <node id="-3095" visible="true" lat="44.00909824" lon="-73.18242994">
+  <node id="-3098" visible="true" lat="44.00910715" lon="-73.18243134">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="139"/>
     <tag k="addr:street" v="Ridgeline Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750158"/>
   </node>
-  <node id="-3096" visible="true" lat="44.00871031" lon="-73.1815957">
+  <node id="-3099" visible="true" lat="44.00871031" lon="-73.1815957">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:street" v="Adirondack View"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750159"/>
   </node>
-  <node id="-3097" visible="true" lat="44.00847113" lon="-73.18180937">
+  <node id="-3100" visible="true" lat="44.00847113" lon="-73.18180937">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="106"/>
     <tag k="addr:street" v="Adirondack View"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750160"/>
   </node>
-  <node id="-3098" visible="true" lat="44.00815083" lon="-73.18157745">
+  <node id="-3101" visible="true" lat="44.00815083" lon="-73.18157745">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Adirondack View"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750161"/>
   </node>
-  <node id="-3099" visible="true" lat="44.01839837" lon="-73.1733347">
+  <node id="-3102" visible="true" lat="44.01839837" lon="-73.1733347">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Lucius Shaw Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750691"/>
   </node>
-  <node id="-3100" visible="true" lat="43.99291916" lon="-73.14999204">
+  <node id="-3103" visible="true" lat="43.99291916" lon="-73.14999204">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="399"/>
     <tag k="addr:street" v="South Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750914"/>
   </node>
-  <node id="-3101" visible="true" lat="43.99581638" lon="-73.10337878">
+  <node id="-3104" visible="true" lat="43.99581638" lon="-73.10337878">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1618"/>
     <tag k="addr:street" v="Case Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750988"/>
   </node>
-  <node id="-3102" visible="true" lat="43.99637416" lon="-73.1539421">
+  <node id="-3105" visible="true" lat="43.99637416" lon="-73.1539421">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="68"/>
     <tag k="addr:street" v="South Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751395"/>
   </node>
-  <node id="-3103" visible="true" lat="43.99983564" lon="-73.15721963">
+  <node id="-3106" visible="true" lat="43.99983564" lon="-73.15721963">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="75"/>
     <tag k="addr:street" v="Fields Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751396"/>
   </node>
-  <node id="-3104" visible="true" lat="43.99958942" lon="-73.15717733">
+  <node id="-3107" visible="true" lat="43.99958942" lon="-73.15717733">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="Fields Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751397"/>
   </node>
-  <node id="-3105" visible="true" lat="43.99943675" lon="-73.1570173">
+  <node id="-3108" visible="true" lat="43.99943675" lon="-73.1570173">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="121"/>
     <tag k="addr:street" v="Fields Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751398"/>
   </node>
-  <node id="-3106" visible="true" lat="43.99964204" lon="-73.15672266">
+  <node id="-3109" visible="true" lat="43.99964204" lon="-73.15672266">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="231"/>
     <tag k="addr:street" v="Fields Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751399"/>
   </node>
-  <node id="-3107" visible="true" lat="43.99994238" lon="-73.15667154">
+  <node id="-3110" visible="true" lat="43.99994238" lon="-73.15667154">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="249"/>
     <tag k="addr:street" v="Fields Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751400"/>
   </node>
-  <node id="-3108" visible="true" lat="43.98605255" lon="-73.13068587">
+  <node id="-3111" visible="true" lat="43.98605255" lon="-73.13068587">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:street" v="Dairy Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752245"/>
   </node>
-  <node id="-3109" visible="true" lat="43.99219119" lon="-73.12388823">
+  <node id="-3112" visible="true" lat="43.99219119" lon="-73.12388823">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="650"/>
     <tag k="addr:street" v="Dairy Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752250"/>
   </node>
-  <node id="-3110" visible="true" lat="44.01548721" lon="-73.1673906">
+  <node id="-3113" visible="true" lat="44.01548721" lon="-73.1673906">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="North Pleasant Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752372"/>
   </node>
-  <node id="-3111" visible="true" lat="43.98355324" lon="-73.1269768">
+  <node id="-3114" visible="true" lat="43.98355324" lon="-73.1269768">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Maecliff Court"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752552"/>
   </node>
-  <node id="-3112" visible="true" lat="44.00312734" lon="-73.15976401">
+  <node id="-3115" visible="true" lat="44.00312734" lon="-73.15976401">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="137"/>
     <tag k="addr:street" v="Creek Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753392"/>
   </node>
-  <node id="-3113" visible="true" lat="44.02353139" lon="-73.09712612">
+  <node id="-3116" visible="true" lat="44.02353139" lon="-73.09712612">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3546"/>
     <tag k="addr:street" v="Case Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753394"/>
   </node>
-  <node id="-3114" visible="true" lat="43.98641882" lon="-73.103628">
+  <node id="-3117" visible="true" lat="43.98641882" lon="-73.103628">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:street" v="Airport Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753395"/>
   </node>
-  <node id="-3115" visible="true" lat="43.96646269" lon="-73.09224719">
+  <node id="-3118" visible="true" lat="43.96646269" lon="-73.09224719">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="229"/>
     <tag k="addr:street" v="Daisy Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753396"/>
   </node>
-  <node id="-3116" visible="true" lat="44.01829725" lon="-73.11497643">
+  <node id="-3119" visible="true" lat="44.01829725" lon="-73.11497643">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1535"/>
     <tag k="addr:street" v="Quarry Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753822"/>
   </node>
-  <node id="-3117" visible="true" lat="44.02523817" lon="-73.10455666">
+  <node id="-3120" visible="true" lat="44.02523817" lon="-73.10455666">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="127"/>
     <tag k="addr:street" v="Butternut Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753947"/>
   </node>
-  <node id="-3118" visible="true" lat="43.99178336" lon="-73.15260421">
+  <node id="-3121" visible="true" lat="43.99178336" lon="-73.15260421">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Meadow Glen Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753965"/>
   </node>
-  <node id="-3119" visible="true" lat="43.99768444" lon="-73.14351611">
+  <node id="-3122" visible="true" lat="43.99768444" lon="-73.14351611">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="225"/>
     <tag k="addr:street" v="Wilson Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754023"/>
   </node>
-  <node id="-3120" visible="true" lat="43.98987999" lon="-73.15282609">
+  <node id="-3123" visible="true" lat="43.98987999" lon="-73.15282609">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="254"/>
     <tag k="addr:street" v="Meadow Glen Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754102"/>
   </node>
-  <node id="-3121" visible="true" lat="44.00984186" lon="-73.09776761">
+  <node id="-3124" visible="true" lat="44.00984186" lon="-73.09776761">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2641"/>
     <tag k="addr:street" v="Case Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754487"/>
   </node>
-  <node id="-3122" visible="true" lat="43.98952216" lon="-73.15745203">
+  <node id="-3125" visible="true" lat="43.98952216" lon="-73.15745203">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="115"/>
     <tag k="addr:street" v="Star Point Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754488"/>
   </node>
-  <node id="-3123" visible="true" lat="43.98843936" lon="-73.1517">
+  <node id="-3126" visible="true" lat="43.98843936" lon="-73.1517">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="323"/>
     <tag k="addr:street" v="Meadow Glen Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755390"/>
   </node>
-  <node id="-3124" visible="true" lat="44.01745095" lon="-73.17391491">
+  <node id="-3127" visible="true" lat="44.01745095" lon="-73.17391491">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="180"/>
     <tag k="addr:street" v="Lucius Shaw Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755743"/>
   </node>
-  <node id="-3125" visible="true" lat="44.01096635" lon="-73.11335962">
+  <node id="-3128" visible="true" lat="44.01096635" lon="-73.11335962">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="517"/>
     <tag k="addr:street" v="South Munger Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756383"/>
   </node>
-  <node id="-3126" visible="true" lat="43.9931681" lon="-73.15121608">
+  <node id="-3129" visible="true" lat="43.99316638" lon="-73.15121393">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="365"/>
     <tag k="addr:street" v="South Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757062"/>
   </node>
-  <node id="-3127" visible="true" lat="43.97293312" lon="-73.13348568">
+  <node id="-3130" visible="true" lat="43.97293312" lon="-73.13348568">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1339"/>
     <tag k="addr:street" v="Halladay Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757079"/>
   </node>
-  <node id="-3128" visible="true" lat="44.01247331" lon="-73.16312439">
+  <node id="-3131" visible="true" lat="44.01247331" lon="-73.16312439">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="73"/>
     <tag k="addr:street" v="Mary Hogan Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757087"/>
   </node>
-  <node id="-3129" visible="true" lat="44.04406383" lon="-73.16118448">
+  <node id="-3132" visible="true" lat="44.04406383" lon="-73.16118448">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:street" v="Acker Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757328"/>
   </node>
-  <node id="-3130" visible="true" lat="44.02358908" lon="-73.17059512">
+  <node id="-3133" visible="true" lat="44.02358908" lon="-73.17059512">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="381"/>
     <tag k="addr:street" v="Exchange Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757590"/>
   </node>
-  <node id="-3131" visible="true" lat="43.98796" lon="-73.09717745">
+  <node id="-3134" visible="true" lat="43.98796" lon="-73.09717745">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="351"/>
     <tag k="addr:street" v="Airport Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757616"/>
   </node>
-  <node id="-3132" visible="true" lat="44.05166876" lon="-73.09426169">
+  <node id="-3135" visible="true" lat="44.05166876" lon="-73.09426169">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="5735"/>
     <tag k="addr:street" v="Case Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757661"/>
   </node>
-  <node id="-3134" visible="true" lat="44.02521466" lon="-73.15059111">
+  <node id="-3137" visible="true" lat="44.02521466" lon="-73.15059111">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="861"/>
     <tag k="addr:street" v="Washington Street Extension"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758103"/>
   </node>
-  <node id="-3135" visible="true" lat="44.03033436" lon="-73.17042151">
+  <node id="-3138" visible="true" lat="44.03033436" lon="-73.17042151">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="816"/>
     <tag k="addr:street" v="Exchange Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758489"/>
   </node>
-  <node id="-3136" visible="true" lat="44.0327575" lon="-73.15146355">
+  <node id="-3139" visible="true" lat="44.0327575" lon="-73.15146355">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="653"/>
     <tag k="addr:street" v="Happy Valley Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758751"/>
   </node>
-  <node id="-3137" visible="true" lat="43.99107878" lon="-73.15038392">
+  <node id="-3140" visible="true" lat="43.99107878" lon="-73.15038392">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="436"/>
     <tag k="addr:street" v="South Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758764"/>
   </node>
-  <node id="-3138" visible="true" lat="44.03791153" lon="-73.1440745">
+  <node id="-3141" visible="true" lat="44.03791153" lon="-73.1440745">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="746"/>
     <tag k="addr:street" v="Halpin Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759397"/>
   </node>
-  <node id="-3139" visible="true" lat="44.01917334" lon="-73.17246927">
+  <node id="-3142" visible="true" lat="44.01917334" lon="-73.17246927">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="51A"/>
     <tag k="addr:street" v="Seymour Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759464"/>
   </node>
-  <node id="-3141" visible="true" lat="44.01721833" lon="-73.15959792">
+  <node id="-3143" visible="true" lat="44.01300793" lon="-73.09848701">
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="2840"/>
+    <tag k="addr:street" v="Case Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760519"/>
+  </node>
+  <node id="-3144" visible="true" lat="44.01721833" lon="-73.15959792">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="70"/>
     <tag k="addr:street" v="Washington Street Extension"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760520"/>
   </node>
-  <node id="-3142" visible="true" lat="43.95597376" lon="-73.13770346">
+  <node id="-3145" visible="true" lat="43.95597376" lon="-73.13770346">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2189"/>
     <tag k="addr:street" v="Middle Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760752"/>
   </node>
-  <node id="-3143" visible="true" lat="44.01331099" lon="-73.16905912">
+  <node id="-3146" visible="true" lat="44.01331099" lon="-73.16905912">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Frog Hollow Alley"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760999"/>
   </node>
-  <node id="-3144" visible="true" lat="43.9982113" lon="-73.15471607">
+  <node id="-3147" visible="true" lat="43.9982113" lon="-73.15471607">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="400"/>
     <tag k="addr:street" v="Middle Road North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761015"/>
   </node>
-  <node id="-3146" visible="true" lat="43.99479051" lon="-73.1523077">
+  <node id="-3148" visible="true" lat="43.99659856" lon="-73.14282139">
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:street" v="U.S. Route 7 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761056"/>
+  </node>
+  <node id="-3149" visible="true" lat="43.99479051" lon="-73.1523077">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="201"/>
     <tag k="addr:street" v="South Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761085"/>
   </node>
-  <node id="-3147" visible="true" lat="43.98718563" lon="-73.09678003">
+  <node id="-3150" visible="true" lat="43.98718563" lon="-73.09678003">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="399"/>
     <tag k="addr:street" v="Airport Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761088"/>
   </node>
-  <node id="-3148" visible="true" lat="44.01791498" lon="-73.17007747">
+  <node id="-3151" visible="true" lat="44.01791327" lon="-73.17007532">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Middle Seymour Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761205"/>
   </node>
-  <node id="-3149" visible="true" lat="44.02046599" lon="-73.14537425">
+  <node id="-3152" visible="true" lat="44.02046599" lon="-73.14537425">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="399"/>
     <tag k="addr:street" v="Solitude Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761222"/>
   </node>
-  <node id="-3150" visible="true" lat="44.02204544" lon="-73.1701345">
+  <node id="-3153" visible="true" lat="44.02204544" lon="-73.1701345">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="253"/>
     <tag k="addr:street" v="Exchange Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761363"/>
   </node>
-  <node id="-3151" visible="true" lat="43.99400853" lon="-73.15196208">
+  <node id="-3154" visible="true" lat="43.99400853" lon="-73.15196208">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="351"/>
     <tag k="addr:street" v="South Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761364"/>
   </node>
-  <node id="-3152" visible="true" lat="43.98808338" lon="-73.09677925">
+  <node id="-3155" visible="true" lat="43.98808338" lon="-73.09677925">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="355"/>
     <tag k="addr:street" v="Airport Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761473"/>
   </node>
-  <node id="-3153" visible="true" lat="44.01261852" lon="-73.1712967">
+  <node id="-3156" visible="true" lat="44.01261852" lon="-73.1712967">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Mill Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761713"/>
   </node>
-  <node id="-3154" visible="true" lat="43.99594393" lon="-73.1537084">
+  <node id="-3157" visible="true" lat="43.99594393" lon="-73.1537084">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="92"/>
     <tag k="addr:street" v="South Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761748"/>
   </node>
-  <node id="-3155" visible="true" lat="43.97595098" lon="-73.16413799">
+  <node id="-3158" visible="true" lat="43.97595098" lon="-73.16413799">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="2457"/>
     <tag k="addr:street" v="South Street Extension"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761953"/>
   </node>
-  <node id="-3156" visible="true" lat="44.02554595" lon="-73.17584922">
+  <node id="-3159" visible="true" lat="44.02554595" lon="-73.17584922">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="66"/>
     <tag k="addr:street" v="Sarahs Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762566"/>
   </node>
-  <node id="-3157" visible="true" lat="44.02219307" lon="-73.143706">
+  <node id="-3160" visible="true" lat="44.02219307" lon="-73.143706">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="361"/>
     <tag k="addr:street" v="Solitude Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762727"/>
   </node>
-  <node id="-3158" visible="true" lat="43.98968985" lon="-73.15191663">
+  <node id="-3161" visible="true" lat="43.98968985" lon="-73.15191663">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="239"/>
     <tag k="addr:street" v="Meadow Glen Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762753"/>
   </node>
-  <node id="-3159" visible="true" lat="43.98909954" lon="-73.15175549">
+  <node id="-3162" visible="true" lat="43.98909954" lon="-73.15175549">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="277"/>
     <tag k="addr:street" v="Meadow Glen Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762754"/>
   </node>
-  <node id="-3160" visible="true" lat="43.9943313" lon="-73.15211222">
+  <node id="-3163" visible="true" lat="43.9943313" lon="-73.15211222">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="203"/>
     <tag k="addr:street" v="South Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762843"/>
   </node>
-  <node id="-3162" visible="true" lat="44.03306724" lon="-73.14390592">
+  <node id="-3164" visible="true" lat="44.013943" lon="-73.16800902">
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Merchants Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762943"/>
+  </node>
+  <node id="-3165" visible="true" lat="44.03306724" lon="-73.14390592">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="296"/>
     <tag k="addr:street" v="Halpin Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763964"/>
   </node>
-  <node id="-3163" visible="true" lat="43.99350201" lon="-73.15152702">
+  <node id="-3166" visible="true" lat="43.99350201" lon="-73.15152702">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="353"/>
     <tag k="addr:street" v="South Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764304"/>
   </node>
-  <node id="-3164" visible="true" lat="43.9935044" lon="-73.15194267">
+  <node id="-3167" visible="true" lat="43.9935044" lon="-73.15194267">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="347"/>
     <tag k="addr:street" v="South Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764305"/>
   </node>
-  <node id="-3165" visible="true" lat="43.95980248" lon="-73.13585814">
+  <node id="-3168" visible="true" lat="43.95980248" lon="-73.13585814">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="360"/>
     <tag k="addr:street" v="Blake Roy Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764449"/>
   </node>
-  <node id="-3166" visible="true" lat="43.95958629" lon="-73.13283301">
+  <node id="-3169" visible="true" lat="43.95958629" lon="-73.13283301">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="393"/>
     <tag k="addr:street" v="Blake Roy Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764488"/>
   </node>
-  <node id="-3167" visible="true" lat="43.95917538" lon="-73.13562051">
+  <node id="-3170" visible="true" lat="43.95917538" lon="-73.13562051">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="390"/>
     <tag k="addr:street" v="Blake Roy Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764489"/>
   </node>
-  <node id="-3168" visible="true" lat="43.96711584" lon="-73.0931794">
+  <node id="-3171" visible="true" lat="43.96711584" lon="-73.0931794">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="172"/>
     <tag k="addr:street" v="Daisy Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764552"/>
   </node>
-  <node id="-3169" visible="true" lat="44.02734767" lon="-73.14651111">
+  <node id="-3172" visible="true" lat="44.02734767" lon="-73.14651111">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="Grey Ledge Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764821"/>
   </node>
-  <node id="-3170" visible="true" lat="44.03993879" lon="-73.17448235">
+  <node id="-3173" visible="true" lat="44.03993879" lon="-73.17448235">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="177"/>
     <tag k="addr:street" v="Industrial Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765183"/>
   </node>
-  <node id="-3171" visible="true" lat="44.01652473" lon="-73.17987432">
+  <node id="-3174" visible="true" lat="44.01652473" lon="-73.17987432">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="31"/>
     <tag k="addr:street" v="Gorham Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765923"/>
   </node>
-  <node id="-3172" visible="true" lat="44.0165405" lon="-73.17962372">
+  <node id="-3175" visible="true" lat="44.0165405" lon="-73.17962372">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Gorham Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765924"/>
   </node>
-  <node id="-3173" visible="true" lat="44.01658045" lon="-73.17931399">
+  <node id="-3176" visible="true" lat="44.01658045" lon="-73.17931399">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="Gorham Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765925"/>
   </node>
-  <node id="-3174" visible="true" lat="44.01660614" lon="-73.1789975">
+  <node id="-3177" visible="true" lat="44.01660614" lon="-73.1789975">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Gorham Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765926"/>
   </node>
-  <node id="-3175" visible="true" lat="43.99725393" lon="-73.15648142">
+  <node id="-3178" visible="true" lat="43.99725393" lon="-73.15648142">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="62"/>
     <tag k="addr:street" v="Gardiner Close"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="766111"/>
   </node>
-  <node id="-3176" visible="true" lat="43.99771486" lon="-73.15624899">
+  <node id="-3179" visible="true" lat="43.99771486" lon="-73.15624899">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="Gardiner Close"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="766114"/>
   </node>
-  <node id="-3177" visible="true" lat="43.9668693" lon="-73.10772892">
+  <node id="-3180" visible="true" lat="43.9668693" lon="-73.10772892">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="3671"/>
     <tag k="addr:street" v="U.S. Route 7 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="766622"/>
   </node>
-  <node id="-3178" visible="true" lat="43.98771555" lon="-73.14283087">
+  <node id="-3181" visible="true" lat="43.98771384" lon="-73.14282873">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="544"/>
     <tag k="addr:street" v="Middle Road South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="766701"/>
   </node>
-  <node id="-3179" visible="true" lat="44.01254025" lon="-73.17970575">
+  <node id="-3182" visible="true" lat="44.01254019" lon="-73.17970494">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="211"/>
     <tag k="addr:street" v="Freeman Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767058"/>
   </node>
-  <node id="-3180" visible="true" lat="44.03059337" lon="-73.09865515">
+  <node id="-3183" visible="true" lat="44.03059337" lon="-73.09865515">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="4211"/>
     <tag k="addr:street" v="Case Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767288"/>
   </node>
-  <node id="-3181" visible="true" lat="43.99133922" lon="-73.14800658">
+  <node id="-3184" visible="true" lat="43.99133922" lon="-73.14800658">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="559"/>
     <tag k="addr:street" v="South Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767621"/>
   </node>
-  <node id="-3183" visible="true" lat="43.96579819" lon="-73.0922579">
+  <node id="-3185" visible="true" lat="43.99346179" lon="-73.1024443">
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Munson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768342"/>
+  </node>
+  <node id="-3186" visible="true" lat="43.96579819" lon="-73.0922579">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="266"/>
     <tag k="addr:street" v="Daisy Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768732"/>
   </node>
-  <node id="-3184" visible="true" lat="44.01151615" lon="-73.09627009">
+  <node id="-3187" visible="true" lat="44.01155214" lon="-73.09628361">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="115"/>
     <tag k="addr:street" v="Dow Farm Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768887"/>
   </node>
-  <node id="-3185" visible="true" lat="43.98344514" lon="-73.09640292">
+  <node id="-3188" visible="true" lat="43.98344514" lon="-73.09640292">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="657"/>
     <tag k="addr:street" v="Airport Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768952"/>
   </node>
-  <node id="-3186" visible="true" lat="43.96622966" lon="-73.09193114">
+  <node id="-3189" visible="true" lat="43.96622966" lon="-73.09193114">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="251"/>
     <tag k="addr:street" v="Daisy Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769335"/>
   </node>
-  <node id="-3187" visible="true" lat="43.96572073" lon="-73.09139858">
+  <node id="-3190" visible="true" lat="43.96572073" lon="-73.09139858">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="285"/>
     <tag k="addr:street" v="Daisy Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769336"/>
   </node>
-  <node id="-3188" visible="true" lat="44.03590586" lon="-73.09278988">
+  <node id="-3191" visible="true" lat="44.03590586" lon="-73.09278988">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="4645"/>
     <tag k="addr:street" v="Case Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769337"/>
   </node>
-  <node id="-3189" visible="true" lat="44.04361628" lon="-73.16069333">
+  <node id="-3192" visible="true" lat="44.04361628" lon="-73.16069333">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="80"/>
     <tag k="addr:street" v="Acker Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769368"/>
   </node>
-  <node id="-3190" visible="true" lat="43.96540048" lon="-73.09318108">
+  <node id="-3193" visible="true" lat="43.96540048" lon="-73.09318108">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="292"/>
     <tag k="addr:street" v="Daisy Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769370"/>
   </node>
-  <node id="-3191" visible="true" lat="44.0269647" lon="-73.09694968">
+  <node id="-3194" visible="true" lat="44.0269647" lon="-73.09694968">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="44"/>
     <tag k="addr:street" v="Monarch Court"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769642"/>
   </node>
-  <node id="-3192" visible="true" lat="44.01300892" lon="-73.11445191">
+  <node id="-3195" visible="true" lat="44.01300892" lon="-73.11445191">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="434"/>
     <tag k="addr:street" v="South Munger Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769712"/>
   </node>
-  <node id="-3193" visible="true" lat="44.00460666" lon="-73.15367259">
+  <node id="-3196" visible="true" lat="44.00460666" lon="-73.15367259">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="140"/>
     <tag k="addr:street" v="Birchard Park"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770082"/>
   </node>
-  <node id="-3194" visible="true" lat="44.01661039" lon="-73.15617378">
+  <node id="-3197" visible="true" lat="44.01661039" lon="-73.15617378">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770995"/>
   </node>
-  <node id="-3195" visible="true" lat="44.01666378" lon="-73.156161">
+  <node id="-3198" visible="true" lat="44.01666378" lon="-73.156161">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770996"/>
   </node>
-  <node id="-3196" visible="true" lat="44.01669623" lon="-73.15614541">
+  <node id="-3199" visible="true" lat="44.01669623" lon="-73.15614541">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770997"/>
   </node>
-  <node id="-3197" visible="true" lat="44.01674584" lon="-73.15612468">
+  <node id="-3200" visible="true" lat="44.01674584" lon="-73.15612468">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770998"/>
   </node>
-  <node id="-3198" visible="true" lat="44.01680877" lon="-73.15610933">
+  <node id="-3201" visible="true" lat="44.01680877" lon="-73.15610933">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770999"/>
   </node>
-  <node id="-3199" visible="true" lat="44.01686218" lon="-73.15609126">
+  <node id="-3202" visible="true" lat="44.01686218" lon="-73.15609126">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="53"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771000"/>
   </node>
-  <node id="-3200" visible="true" lat="44.01622359" lon="-73.1558408">
+  <node id="-3203" visible="true" lat="44.01622359" lon="-73.1558408">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771001"/>
   </node>
-  <node id="-3201" visible="true" lat="44.01621301" lon="-73.15574833">
+  <node id="-3204" visible="true" lat="44.01621301" lon="-73.15574833">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771002"/>
   </node>
-  <node id="-3202" visible="true" lat="44.01618798" lon="-73.15557786">
+  <node id="-3205" visible="true" lat="44.01618798" lon="-73.15557786">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771003"/>
   </node>
-  <node id="-3203" visible="true" lat="44.01617975" lon="-73.15549333">
+  <node id="-3206" visible="true" lat="44.01617975" lon="-73.15549333">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="28"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771004"/>
   </node>
-  <node id="-3204" visible="true" lat="44.01614521" lon="-73.15532015">
+  <node id="-3207" visible="true" lat="44.01614521" lon="-73.15532015">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="36"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771005"/>
   </node>
-  <node id="-3205" visible="true" lat="44.01612689" lon="-73.15525665">
+  <node id="-3208" visible="true" lat="44.01612689" lon="-73.15525665">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771006"/>
   </node>
-  <node id="-3206" visible="true" lat="44.01609769" lon="-73.15505844">
+  <node id="-3209" visible="true" lat="44.01609769" lon="-73.15505844">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771007"/>
   </node>
-  <node id="-3207" visible="true" lat="44.01607227" lon="-73.15498367">
+  <node id="-3210" visible="true" lat="44.01607227" lon="-73.15498367">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771008"/>
   </node>
-  <node id="-3208" visible="true" lat="44.01599768" lon="-73.15458383">
+  <node id="-3211" visible="true" lat="44.01599768" lon="-73.15458383">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="74"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771009"/>
   </node>
-  <node id="-3209" visible="true" lat="44.01597716" lon="-73.15447609">
+  <node id="-3212" visible="true" lat="44.01597716" lon="-73.15447609">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="78"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771010"/>
   </node>
-  <node id="-3210" visible="true" lat="44.01595079" lon="-73.1542845">
+  <node id="-3213" visible="true" lat="44.01595079" lon="-73.1542845">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="86"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771011"/>
   </node>
-  <node id="-3211" visible="true" lat="44.01593588" lon="-73.15420124">
+  <node id="-3214" visible="true" lat="44.01593588" lon="-73.15420124">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="88"/>
     <tag k="addr:street" v="Brush Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771012"/>
   </node>
-  <node id="-3212" visible="true" lat="44.0162415" lon="-73.15447022">
+  <node id="-3215" visible="true" lat="44.0162415" lon="-73.15447022">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771013"/>
   </node>
-  <node id="-3213" visible="true" lat="44.0163192" lon="-73.15492685">
+  <node id="-3216" visible="true" lat="44.0163192" lon="-73.15492685">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771014"/>
   </node>
-  <node id="-3214" visible="true" lat="44.01628826" lon="-73.15444947">
+  <node id="-3217" visible="true" lat="44.01628826" lon="-73.15444947">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771015"/>
   </node>
-  <node id="-3215" visible="true" lat="44.0163712" lon="-73.15490547">
+  <node id="-3218" visible="true" lat="44.0163712" lon="-73.15490547">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771016"/>
   </node>
-  <node id="-3216" visible="true" lat="44.01642838" lon="-73.15489602">
+  <node id="-3219" visible="true" lat="44.01642838" lon="-73.15489602">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771017"/>
   </node>
-  <node id="-3217" visible="true" lat="44.01648373" lon="-73.15487005">
+  <node id="-3220" visible="true" lat="44.01648373" lon="-73.15487005">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771018"/>
   </node>
-  <node id="-3218" visible="true" lat="44.0165205" lon="-73.15484657">
+  <node id="-3221" visible="true" lat="44.0165205" lon="-73.15484657">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771019"/>
   </node>
-  <node id="-3219" visible="true" lat="44.01657819" lon="-73.15483118">
+  <node id="-3222" visible="true" lat="44.01657819" lon="-73.15483118">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771020"/>
   </node>
-  <node id="-3220" visible="true" lat="44.01649041" lon="-73.15439625">
+  <node id="-3223" visible="true" lat="44.01649041" lon="-73.15439625">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="44"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771021"/>
   </node>
-  <node id="-3221" visible="true" lat="44.01643268" lon="-73.15442089">
+  <node id="-3224" visible="true" lat="44.01643268" lon="-73.15442089">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771022"/>
   </node>
-  <node id="-3222" visible="true" lat="44.01665892" lon="-73.15524296">
+  <node id="-3225" visible="true" lat="44.01665892" lon="-73.15524296">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Meadowlark Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771023"/>
   </node>
-  <node id="-3223" visible="true" lat="44.01659978" lon="-73.15526362">
+  <node id="-3226" visible="true" lat="44.01659978" lon="-73.15526362">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Meadowlark Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771024"/>
   </node>
-  <node id="-3224" visible="true" lat="44.01653877" lon="-73.15527635">
+  <node id="-3227" visible="true" lat="44.01653877" lon="-73.15527635">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Meadowlark Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771025"/>
   </node>
-  <node id="-3225" visible="true" lat="44.01650099" lon="-73.15531433">
+  <node id="-3228" visible="true" lat="44.01650099" lon="-73.15531433">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Meadowlark Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771026"/>
   </node>
-  <node id="-3226" visible="true" lat="44.01646091" lon="-73.1553325">
+  <node id="-3229" visible="true" lat="44.01646091" lon="-73.1553325">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:street" v="Meadowlark Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771027"/>
   </node>
-  <node id="-3227" visible="true" lat="44.01640748" lon="-73.15535452">
+  <node id="-3230" visible="true" lat="44.01640748" lon="-73.15535452">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Meadowlark Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771028"/>
   </node>
-  <node id="-3228" visible="true" lat="44.01687309" lon="-73.15468828">
+  <node id="-3231" visible="true" lat="44.01687309" lon="-73.15468828">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771029"/>
   </node>
-  <node id="-3229" visible="true" lat="44.01672371" lon="-73.15429445">
+  <node id="-3232" visible="true" lat="44.01672371" lon="-73.15429445">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="64"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771030"/>
   </node>
-  <node id="-3230" visible="true" lat="44.01666459" lon="-73.15430983">
+  <node id="-3233" visible="true" lat="44.01666459" lon="-73.15430983">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="58"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771031"/>
   </node>
-  <node id="-3231" visible="true" lat="44.01660309" lon="-73.15432453">
+  <node id="-3234" visible="true" lat="44.01660309" lon="-73.15432453">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771032"/>
   </node>
-  <node id="-3232" visible="true" lat="44.01684772" lon="-73.15424855">
+  <node id="-3235" visible="true" lat="44.01684772" lon="-73.15424855">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="70"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771033"/>
   </node>
-  <node id="-3233" visible="true" lat="44.01689638" lon="-73.15422649">
+  <node id="-3236" visible="true" lat="44.01689638" lon="-73.15422649">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="74"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771034"/>
   </node>
-  <node id="-3234" visible="true" lat="44.01695696" lon="-73.15420254">
+  <node id="-3237" visible="true" lat="44.01695696" lon="-73.15420254">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="80"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771035"/>
   </node>
-  <node id="-3235" visible="true" lat="44.01688041" lon="-73.15476159">
+  <node id="-3238" visible="true" lat="44.01688041" lon="-73.15476159">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="107"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771036"/>
   </node>
-  <node id="-3236" visible="true" lat="44.0168782" lon="-73.15483747">
+  <node id="-3239" visible="true" lat="44.0168782" lon="-73.15483747">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771037"/>
   </node>
-  <node id="-3237" visible="true" lat="44.01691131" lon="-73.15489514">
+  <node id="-3240" visible="true" lat="44.01691131" lon="-73.15489514">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771038"/>
   </node>
-  <node id="-3238" visible="true" lat="44.01692006" lon="-73.15496846">
+  <node id="-3241" visible="true" lat="44.01692006" lon="-73.15496846">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="97"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771039"/>
   </node>
-  <node id="-3239" visible="true" lat="44.01692834" lon="-73.15504046">
+  <node id="-3242" visible="true" lat="44.01692834" lon="-73.15504046">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="93"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771040"/>
   </node>
-  <node id="-3240" visible="true" lat="44.0166977" lon="-73.15566299">
+  <node id="-3243" visible="true" lat="44.0166977" lon="-73.15566299">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771041"/>
   </node>
-  <node id="-3241" visible="true" lat="44.01714728" lon="-73.15578264">
+  <node id="-3244" visible="true" lat="44.01714728" lon="-73.15578264">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="59"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771042"/>
   </node>
-  <node id="-3242" visible="true" lat="44.01701848" lon="-73.1554807">
+  <node id="-3245" visible="true" lat="44.01701848" lon="-73.1554807">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="71"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771043"/>
   </node>
-  <node id="-3243" visible="true" lat="44.0169997" lon="-73.15541323">
+  <node id="-3246" visible="true" lat="44.0169997" lon="-73.15541323">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="75"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771044"/>
   </node>
-  <node id="-3244" visible="true" lat="44.01698267" lon="-73.15526791">
+  <node id="-3247" visible="true" lat="44.01698267" lon="-73.15526791">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="79"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771045"/>
   </node>
-  <node id="-3245" visible="true" lat="44.01699192" lon="-73.1553353">
+  <node id="-3248" visible="true" lat="44.01699192" lon="-73.1553353">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="77"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771046"/>
   </node>
-  <node id="-3246" visible="true" lat="44.01696631" lon="-73.15519189">
+  <node id="-3249" visible="true" lat="44.01696631" lon="-73.15519189">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="83"/>
     <tag k="addr:street" v="Stonecrop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771047"/>
   </node>
-  <node id="-3249" visible="true" lat="44.01751625" lon="-73.15557761">
+  <node id="-3252" visible="true" lat="44.01751625" lon="-73.15557761">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="64"/>
     <tag k="addr:street" v="Seaton Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771050"/>
   </node>
-  <node id="-3250" visible="true" lat="44.01756586" lon="-73.1555582">
+  <node id="-3253" visible="true" lat="44.01756586" lon="-73.1555582">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="68"/>
     <tag k="addr:street" v="Seaton Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771051"/>
   </node>
-  <node id="-3251" visible="true" lat="44.01761256" lon="-73.15554998">
+  <node id="-3254" visible="true" lat="44.01761256" lon="-73.15554998">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="72"/>
     <tag k="addr:street" v="Seaton Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771052"/>
   </node>
-  <node id="-3252" visible="true" lat="44.01766615" lon="-73.15549034">
+  <node id="-3255" visible="true" lat="44.01766615" lon="-73.15549034">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="76"/>
     <tag k="addr:street" v="Seaton Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771053"/>
   </node>
-  <node id="-3253" visible="true" lat="44.01769714" lon="-73.15548134">
+  <node id="-3256" visible="true" lat="44.01769714" lon="-73.15548134">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="80"/>
     <tag k="addr:street" v="Seaton Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771054"/>
   </node>
-  <node id="-3254" visible="true" lat="44.01776008" lon="-73.15546401">
+  <node id="-3257" visible="true" lat="44.01776008" lon="-73.15546401">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="84"/>
     <tag k="addr:street" v="Seaton Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771055"/>
   </node>
-  <node id="-3256" visible="true" lat="44.01707965" lon="-73.15415333">
+  <node id="-3259" visible="true" lat="44.01707965" lon="-73.15415333">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="86"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771057"/>
   </node>
-  <node id="-3257" visible="true" lat="44.01713446" lon="-73.15414385">
+  <node id="-3260" visible="true" lat="44.01713446" lon="-73.15414385">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771058"/>
   </node>
-  <node id="-3258" visible="true" lat="44.01719411" lon="-73.15411462">
+  <node id="-3261" visible="true" lat="44.01719411" lon="-73.15411462">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="96"/>
     <tag k="addr:street" v="Barnes Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771059"/>
   </node>
-  <node id="-3260" visible="true" lat="43.99787377" lon="-73.15134133">
+  <node id="-3265" visible="true" lat="44.01347866" lon="-73.16813178">
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Merchants Row"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="800073"/>
+  </node>
+  <node id="-3266" visible="true" lat="43.99787377" lon="-73.15134133">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="Deerfield Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050423"/>
   </node>
-  <node id="-3261" visible="true" lat="44.00170113" lon="-73.16797194">
+  <node id="-3267" visible="true" lat="44.00170113" lon="-73.16797194">
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="71"/>
     <tag k="addr:street" v="Collins Drive"/>

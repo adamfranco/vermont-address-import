@@ -1,2051 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-100" visible="true" lat="44.50252849" lon="-73.18270362">
-    <!-- conflict: "486 Main Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "486 A-B Main Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="486"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298575"/>
-  </node>
-  <node id="-241" visible="true" lat="44.50046869" lon="-73.18299568">
-    <!-- conflict: "385 Main Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "385A,385B , , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="385"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298723"/>
-  </node>
-  <node id="-242" visible="true" lat="44.50031383" lon="-73.18304436">
-    <!-- conflict: "383 Main Street, Winooski, VT" Fuzzy match to "383 Main Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="383"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298724"/>
-  </node>
-  <node id="-244" visible="true" lat="44.50034066" lon="-73.18270268">
-    <!-- conflict: "2 Normand Street, Winooski, VT" Fuzzy match to "2 Normand Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Normand Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298726"/>
-  </node>
-  <node id="-245" visible="true" lat="44.50023772" lon="-73.18239773">
-    <!-- conflict: "6 Normand Street, Winooski, VT" Fuzzy match to "6 Normand Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Normand Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298727"/>
-  </node>
-  <node id="-248" visible="true" lat="44.49946319" lon="-73.18304026">
-    <!-- conflict: "11 Bellevue Street, Winooski, VT" Fuzzy match to "11 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298730"/>
-  </node>
-  <node id="-249" visible="true" lat="44.49929377" lon="-73.18270293">
-    <!-- conflict: "17 Bellevue Street, Winooski, VT" Fuzzy match to "17 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298731"/>
-  </node>
-  <node id="-250" visible="true" lat="44.4992001" lon="-73.18248485">
-    <!-- conflict: "21 Bellevue Street, Winooski, VT" Fuzzy match to "21 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298732"/>
-  </node>
-  <node id="-251" visible="true" lat="44.49913317" lon="-73.18229011">
-    <!-- conflict: "25 Bellevue Street, Winooski, VT" Fuzzy match to "25 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298733"/>
-  </node>
-  <node id="-252" visible="true" lat="44.49906335" lon="-73.18205349">
-    <!-- conflict: "29 Bellevue Street, Winooski, VT" Fuzzy match to "29 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298734"/>
-  </node>
-  <node id="-254" visible="true" lat="44.49890689" lon="-73.18158483">
-    <!-- conflict: "41 Bellevue Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "41 1-4 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298736"/>
-  </node>
-  <node id="-255" visible="true" lat="44.4988059" lon="-73.18138969">
-    <!-- conflict: "47 Bellevue Street, Winooski, VT" Fuzzy match to "47 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298737"/>
-  </node>
-  <node id="-257" visible="true" lat="44.49872351" lon="-73.18115086">
-    <!-- conflict: "49 Bellevue Street, Winooski, VT" Fuzzy match to "49 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298739"/>
-  </node>
-  <node id="-258" visible="true" lat="44.49861378" lon="-73.1807787">
-    <!-- conflict: "81 Bellevue Street, Winooski, VT" Fuzzy match to "81 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298740"/>
-  </node>
-  <node id="-261" visible="true" lat="44.4989046" lon="-73.18016256">
-    <!-- conflict: "20 George Street, Winooski, VT" Fuzzy match to "20 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298743"/>
-  </node>
-  <node id="-262" visible="true" lat="44.49865426" lon="-73.17997667">
-    <!-- conflict: "18 George Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "91A,91B Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298745"/>
-  </node>
-  <node id="-263" visible="true" lat="44.49883858" lon="-73.17981413">
-    <!-- conflict: "16 George Street, Winooski, VT" Fuzzy match to "16 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298746"/>
-  </node>
-  <node id="-264" visible="true" lat="44.49876356" lon="-73.1796559">
-    <!-- conflict: "14 George Street, Winooski, VT" Fuzzy match to "14 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298747"/>
-  </node>
-  <node id="-265" visible="true" lat="44.49870171" lon="-73.17948684">
-    <!-- conflict: "12 George Street, Winooski, VT" Fuzzy match to "12 George Street, , VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298748"/>
-  </node>
-  <node id="-266" visible="true" lat="44.49864223" lon="-73.17935806">
-    <!-- conflict: "10 George Street, Winooski, VT" Fuzzy match to "10 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298749"/>
-  </node>
-  <node id="-267" visible="true" lat="44.49857776" lon="-73.17918897">
-    <!-- conflict: "8 George Street, Winooski, VT" Fuzzy match to "8 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298750"/>
-  </node>
-  <node id="-268" visible="true" lat="44.49845627" lon="-73.17891675">
-    <!-- conflict: "6 George Street, Winooski, VT" Fuzzy match to "6 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298751"/>
-  </node>
-  <node id="-269" visible="true" lat="44.49824099" lon="-73.17900208">
-    <!-- conflict: "170 Franklin Street, Winooski, VT" Fuzzy match to "170 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="170"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298752"/>
-  </node>
-  <node id="-270" visible="true" lat="44.49800938" lon="-73.17918969">
-    <!-- conflict: "162 Franklin Street, Winooski, VT" Fuzzy match to "162 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="162"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298753"/>
-  </node>
-  <node id="-271" visible="true" lat="44.49815137" lon="-73.17958522">
-    <!-- conflict: "119 Bellevue Street, Winooski, VT" Fuzzy match to "119 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298754"/>
-  </node>
-  <node id="-272" visible="true" lat="44.49823881" lon="-73.17985705">
-    <!-- conflict: "109 Bellevue Street, Winooski, VT" Fuzzy match to "109 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="109"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298755"/>
-  </node>
-  <node id="-273" visible="true" lat="44.49837581" lon="-73.18016238">
-    <!-- conflict: "99 Bellevue Street, Winooski, VT" Fuzzy match to "99 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298756"/>
-  </node>
-  <node id="-274" visible="true" lat="44.49786218" lon="-73.17883667">
-    <!-- conflict: "163 Franklin Street, Winooski, VT" Fuzzy match to "163 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="163"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298757"/>
-  </node>
-  <node id="-275" visible="true" lat="44.4981386" lon="-73.178602">
-    <!-- conflict: "167 Franklin Street, Winooski, VT" Fuzzy match to "167 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="167"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298758"/>
-  </node>
-  <node id="-276" visible="true" lat="44.49834349" lon="-73.17850191">
-    <!-- conflict: "171 Franklin Street, Winooski, VT" Fuzzy match to "171 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="171"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298759"/>
-  </node>
-  <node id="-277" visible="true" lat="44.4987384" lon="-73.17860164">
-    <!-- conflict: "192 Franklin Street, Winooski, VT" Fuzzy match to "192 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="192"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298760"/>
-  </node>
-  <node id="-278" visible="true" lat="44.49884876" lon="-73.17898352">
-    <!-- conflict: "7 George Street, Winooski, VT" Fuzzy match to "7 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298761"/>
-  </node>
-  <node id="-279" visible="true" lat="44.4989437" lon="-73.17931399">
-    <!-- conflict: "11 George Street, Winooski, VT" Fuzzy match to "11 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298762"/>
-  </node>
-  <node id="-280" visible="true" lat="44.49903443" lon="-73.1794724">
-    <!-- conflict: "15 George Street, Winooski, VT" Fuzzy match to "15 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298763"/>
-  </node>
-  <node id="-281" visible="true" lat="44.49911462" lon="-73.17964168">
-    <!-- conflict: "17 George Street, Winooski, VT" Fuzzy match to "17 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298764"/>
-  </node>
-  <node id="-282" visible="true" lat="44.49921526" lon="-73.17989536">
-    <!-- conflict: "19 George Street, Winooski, VT" Fuzzy match to "19 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298765"/>
-  </node>
-  <node id="-295" visible="true" lat="44.49648645" lon="-73.17032381">
-    <!-- conflict: "33 Gail Street, Winooski, VT" Fuzzy match to "33 Gail Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Gail Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298778"/>
-  </node>
-  <node id="-296" visible="true" lat="44.49663434" lon="-73.17051982">
-    <!-- conflict: "37 Gail Street, Winooski, VT" Fuzzy match to "37 Gail Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Gail Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298779"/>
-  </node>
-  <node id="-297" visible="true" lat="44.49677579" lon="-73.17076097">
-    <!-- conflict: "39 Gail Street, Winooski, VT" Fuzzy match to "39 Gail Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Gail Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298780"/>
-  </node>
-  <node id="-302" visible="true" lat="44.49677314" lon="-73.17149918">
-    <!-- conflict: "56 Roger Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "56 , , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298785"/>
-  </node>
-  <node id="-303" visible="true" lat="44.4965763" lon="-73.17164493">
-    <!-- conflict: "46 Roger Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "45 , , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298786"/>
-  </node>
-  <node id="-309" visible="true" lat="44.49543577" lon="-73.17259126">
-    <!-- conflict: "299 LaFountain Street, Winooski, VT" Fuzzy match to "299 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="299"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298792"/>
-  </node>
-  <node id="-310" visible="true" lat="44.495831" lon="-73.17270329">
-    <!-- conflict: "15 Gilbrook Road, Winooski, VT" Fuzzy match to "15 Gilbrook Road, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Gilbrook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298793"/>
-  </node>
-  <node id="-312" visible="true" lat="44.49631846" lon="-73.17265401">
-    <!-- conflict: "35 Gilbrook Road, Winooski, VT" Fuzzy match to "35 Gilbrook Road, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Gilbrook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298795"/>
-  </node>
-  <node id="-313" visible="true" lat="44.49539175" lon="-73.17191876">
-    <!-- conflict: "307 LaFountain Street, Winooski, VT" Fuzzy match to "307 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="307"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298796"/>
-  </node>
-  <node id="-314" visible="true" lat="44.49561604" lon="-73.17184452">
-    <!-- conflict: "9 Roger Street, Winooski, VT" Fuzzy match to "9 Roger Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298797"/>
-  </node>
-  <node id="-315" visible="true" lat="44.49581064" lon="-73.17171136">
-    <!-- conflict: "19 Roger Street, Winooski, VT" Fuzzy match to "19 Roger Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298798"/>
-  </node>
-  <node id="-316" visible="true" lat="44.49598737" lon="-73.17150114">
-    <!-- conflict: "29 Roger Street, Winooski, VT" Fuzzy match to "29 Roger Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298799"/>
-  </node>
-  <node id="-317" visible="true" lat="44.49617639" lon="-73.17142646">
-    <!-- conflict: "39 Roger Street, Winooski, VT" Fuzzy match to "39 Roger Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298800"/>
-  </node>
-  <node id="-318" visible="true" lat="44.4963397" lon="-73.17127098">
-    <!-- conflict: "45 Roger Street, Winooski, VT" Fuzzy match to "45 Roger Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Roger Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298801"/>
-  </node>
-  <node id="-319" visible="true" lat="44.49627804" lon="-73.17085905">
-    <!-- conflict: "70 Bernard Street, Winooski, VT" Fuzzy match to "70 Bernard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298802"/>
-  </node>
-  <node id="-320" visible="true" lat="44.49606518" lon="-73.17096978">
-    <!-- conflict: "66 Bernard Street, Winooski, VT" Fuzzy match to "66 Bernard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298803"/>
-  </node>
-  <node id="-321" visible="true" lat="44.49589579" lon="-73.17113101">
-    <!-- conflict: "52 Bernard Street, Winooski, VT" Fuzzy match to "52 Bernard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298804"/>
-  </node>
-  <node id="-322" visible="true" lat="44.49566639" lon="-73.17129985">
-    <!-- conflict: "44 Bernard Street, Winooski, VT" Fuzzy match to "44 Bernard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298805"/>
-  </node>
-  <node id="-323" visible="true" lat="44.49543468" lon="-73.17150578">
-    <!-- conflict: "30 Bernard Street, Winooski, VT" Fuzzy match to "30 Bernard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298806"/>
-  </node>
-  <node id="-349" visible="true" lat="44.49608635" lon="-73.17042405">
-    <!-- conflict: "69 Bernard Street, Winooski, VT" Fuzzy match to "69 Bernard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Bernard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298832"/>
-  </node>
-  <node id="-366" visible="true" lat="44.49504974" lon="-73.17177112">
-    <!-- conflict: "318 LaFountain Street, Winooski, VT" Fuzzy match to "318 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="318"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298849"/>
-  </node>
-  <node id="-367" visible="true" lat="44.49503657" lon="-73.17206839">
-    <!-- conflict: "310 LaFountain Street, Winooski, VT" Fuzzy match to "310 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="310"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298850"/>
-  </node>
-  <node id="-368" visible="true" lat="44.49505416" lon="-73.17235465">
-    <!-- conflict: "302 LaFountain Street, Winooski, VT" Fuzzy match to "302 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="302"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298851"/>
-  </node>
-  <node id="-369" visible="true" lat="44.49505202" lon="-73.1727181">
-    <!-- conflict: "296 LaFountain Street, Winooski, VT" Fuzzy match to "296 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="296"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298852"/>
-  </node>
-  <node id="-399" visible="true" lat="44.49732137" lon="-73.17570042">
-    <!-- conflict: "98 Dion Street, Winooski, VT" Fuzzy match to "98 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298882"/>
-  </node>
-  <node id="-400" visible="true" lat="44.49767756" lon="-73.17570453">
-    <!-- conflict: "108 Dion Street, Winooski, VT" Fuzzy match to "108 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298883"/>
-  </node>
-  <node id="-401" visible="true" lat="44.49797638" lon="-73.17571691">
-    <!-- conflict: "118 Dion Street, Winooski, VT" Fuzzy match to "118 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298884"/>
-  </node>
-  <node id="-403" visible="true" lat="44.49802716" lon="-73.17637827">
-    <!-- conflict: "41 Gamelin Court, Winooski, VT" Fuzzy match to "41 Gamelin Court, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Gamelin Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298886"/>
-  </node>
-  <node id="-405" visible="true" lat="44.49842156" lon="-73.176123">
-    <!-- conflict: "33 Gamelin Court, Winooski, VT" Fuzzy match to "33 Gamelin Court, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Gamelin Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298888"/>
-  </node>
-  <node id="-406" visible="true" lat="44.49837656" lon="-73.17576018">
-    <!-- conflict: "128 Dion Street, Winooski, VT" Fuzzy match to "128 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298889"/>
-  </node>
-  <node id="-407" visible="true" lat="44.4987711" lon="-73.17581259">
-    <!-- conflict: "138 Dion Street, Winooski, VT" Fuzzy match to "138 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="138"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298890"/>
-  </node>
-  <node id="-408" visible="true" lat="44.49837945" lon="-73.17520257">
-    <!-- conflict: "17 Gamelin Court, Winooski, VT" Fuzzy match to "17 Gamelin Court, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Gamelin Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298891"/>
-  </node>
-  <node id="-409" visible="true" lat="44.4984261" lon="-73.17491173">
-    <!-- conflict: "9 Gamelin Court, Winooski, VT" Fuzzy match to "9 Gamelin Court, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Gamelin Court"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298892"/>
-  </node>
   <node id="-411" visible="true" lat="44.49822737" lon="-73.17434248">
-    <!-- conflict: "103 LaPointe Street, Winooski, VT" Fuzzy match to "103 La Pointe Street, , " -->
+    <!-- conflict: "103 Lapointe Street, Winooski, VT" Fuzzy match to "103 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298894"/>
   </node>
-  <node id="-415" visible="true" lat="44.49798893" lon="-73.17520472">
-    <!-- conflict: "119 Dion Street, Winooski, VT" Fuzzy match to "119 Dion Street, , " -->
+  <node id="-412" visible="true" lat="44.49795532" lon="-73.17435371">
+    <!-- conflict: "91 Lapointe Street, Winooski, VT" Fuzzy match to "91 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Dion Street"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298898"/>
+    <tag k="ref:vcgi:esiteid" v="298895"/>
+  </node>
+  <node id="-413" visible="true" lat="44.49769348" lon="-73.17433971">
+    <!-- conflict: "81 Lapointe Street, Winooski, VT" Fuzzy match to "81 LaPointe Street, Winooski, VT" -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Lapointe Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298896"/>
+  </node>
+  <node id="-414" visible="true" lat="44.49744465" lon="-73.1743405">
+    <!-- conflict: "71 Lapointe Street, Winooski, VT" Fuzzy match to "71 LaPointe Street, Winooski, VT" -->
+    <tag k="addr:city" v="Winooski"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Lapointe Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298897"/>
   </node>
   <node id="-416" visible="true" lat="44.49793395" lon="-73.17483813">
-    <!-- conflict: "90 LaPointe Street, Winooski, VT" Fuzzy match to "90 La Pointe Street, , " -->
+    <!-- conflict: "90 Lapointe Street, Winooski, VT" Fuzzy match to "90 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298899"/>
   </node>
   <node id="-417" visible="true" lat="44.49767212" lon="-73.1748518">
-    <!-- conflict: "80 LaPointe Street, Winooski, VT" Fuzzy match to "80 La Pointe Street, , " -->
+    <!-- conflict: "80 Lapointe Street, Winooski, VT" Fuzzy match to "80 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298900"/>
   </node>
   <node id="-418" visible="true" lat="44.49738152" lon="-73.17483015">
-    <!-- conflict: "70 LaPointe Street, Winooski, VT" Fuzzy match to "70 La Pointe Street, , " -->
+    <!-- conflict: "70 Lapointe Street, Winooski, VT" Fuzzy match to "70 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298901"/>
   </node>
   <node id="-419" visible="true" lat="44.4970647" lon="-73.17481186">
-    <!-- conflict: "60 LaPointe Street, Winooski, VT" Fuzzy match to "60 La Pointe Street, , " -->
+    <!-- conflict: "60 Lapointe Street, Winooski, VT" Fuzzy match to "60 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298902"/>
   </node>
   <node id="-420" visible="true" lat="44.49678177" lon="-73.17479157">
-    <!-- conflict: "50 LaPointe Street, Winooski, VT" Fuzzy match to "50 La Pointe Street, , " -->
+    <!-- conflict: "50 Lapointe Street, Winooski, VT" Fuzzy match to "50 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298903"/>
   </node>
-  <node id="-422" visible="true" lat="44.49644702" lon="-73.175178">
-    <!-- conflict: "11 Bruce Street, Winooski, VT" Fuzzy match to "11 Bruce Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Bruce Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298905"/>
-  </node>
-  <node id="-423" visible="true" lat="44.49674011" lon="-73.17522163">
-    <!-- conflict: "87 Dion Street, Winooski, VT" Fuzzy match to "87 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298906"/>
-  </node>
-  <node id="-424" visible="true" lat="44.49708055" lon="-73.17523288">
-    <!-- conflict: "95 Dion Street, Winooski, VT" Fuzzy match to "95 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298907"/>
-  </node>
-  <node id="-425" visible="true" lat="44.49743416" lon="-73.17522964">
-    <!-- conflict: "103 Dion Street, Winooski, VT" Fuzzy match to "103 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298908"/>
-  </node>
-  <node id="-426" visible="true" lat="44.49773151" lon="-73.17524832">
-    <!-- conflict: "111 Dion Street, Winooski, VT" Fuzzy match to "111 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298909"/>
-  </node>
   <node id="-427" visible="true" lat="44.4962321" lon="-73.17431555">
-    <!-- conflict: "19 LaPointe Street, Winooski, VT" Fuzzy match to "19 La Pointe Street, , " -->
+    <!-- conflict: "19 Lapointe Street, Winooski, VT" Fuzzy match to "19 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298910"/>
   </node>
   <node id="-428" visible="true" lat="44.49590481" lon="-73.17429714">
-    <!-- conflict: "15 LaPointe Street, Winooski, VT" Fuzzy match to "15 La Pointe Street, , " -->
+    <!-- conflict: "15 Lapointe Street, Winooski, VT" Fuzzy match to "15 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298911"/>
   </node>
   <node id="-429" visible="true" lat="44.49571098" lon="-73.17429856">
-    <!-- conflict: "13 LaPointe Street, Winooski, VT" Fuzzy match to "13 La Pointe Street, , " -->
+    <!-- conflict: "13 Lapointe Street, Winooski, VT" Fuzzy match to "13 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298912"/>
   </node>
   <node id="-430" visible="true" lat="44.4955723" lon="-73.17427501">
-    <!-- conflict: "11 LaPointe Street, Winooski, VT" Fuzzy match to "11 La Pointe Street, , " -->
+    <!-- conflict: "11 Lapointe Street, Winooski, VT" Fuzzy match to "11 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298913"/>
   </node>
   <node id="-431" visible="true" lat="44.49542039" lon="-73.17427326">
-    <!-- conflict: "9 LaPointe Street, Winooski, VT" Fuzzy match to "9 La Pointe Street, , " -->
+    <!-- conflict: "9 Lapointe Street, Winooski, VT" Fuzzy match to "9 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298914"/>
   </node>
-  <node id="-436" visible="true" lat="44.49551018" lon="-73.17503545">
-    <!-- conflict: "71 Dion Street, Winooski, VT" Fuzzy match to "71 Dion Street, , " -->
+  <node id="-432" visible="true" lat="44.49604852" lon="-73.17476981">
+    <!-- conflict: "48 Lapointe Street, Winooski, VT" Fuzzy match to "48 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Dion Street"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298919"/>
+    <tag k="ref:vcgi:esiteid" v="298915"/>
   </node>
-  <node id="-437" visible="true" lat="44.4957925" lon="-73.17513019">
-    <!-- conflict: "79 Dion Street, Winooski, VT" Fuzzy match to "79 Dion Street, , " -->
+  <node id="-433" visible="true" lat="44.49587059" lon="-73.17476881">
+    <!-- conflict: "12 Lapointe Street, Winooski, VT" Fuzzy match to "12 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Dion Street"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298920"/>
+    <tag k="ref:vcgi:esiteid" v="298916"/>
   </node>
-  <node id="-438" visible="true" lat="44.49603199" lon="-73.17514887">
-    <!-- conflict: "85 Dion Street, Winooski, VT" Fuzzy match to "85 Dion Street, , " -->
+  <node id="-434" visible="true" lat="44.49564815" lon="-73.17473697">
+    <!-- conflict: "10 Lapointe Street, Winooski, VT" Fuzzy match to "10 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="Dion Street"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298921"/>
+    <tag k="ref:vcgi:esiteid" v="298917"/>
   </node>
   <node id="-439" visible="true" lat="44.4950562" lon="-73.17426601">
-    <!-- conflict: "7 LaPointe Street, Winooski, VT" Fuzzy match to "7 La Pointe Street, , " -->
+    <!-- conflict: "7 Lapointe Street, Winooski, VT" Fuzzy match to "7 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298922"/>
   </node>
   <node id="-440" visible="true" lat="44.49487488" lon="-73.17426562">
-    <!-- conflict: "5 LaPointe Street, Winooski, VT" Fuzzy match to "5 La Pointe Street, , " -->
+    <!-- conflict: "5 Lapointe Street, Winooski, VT" Fuzzy match to "5 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298923"/>
   </node>
   <node id="-441" visible="true" lat="44.49465921" lon="-73.17425169">
-    <!-- conflict: "3 LaPointe Street, Winooski, VT" Fuzzy match to "3 La Pointe Street, , " -->
+    <!-- conflict: "3 Lapointe Street, Winooski, VT" Fuzzy match to "3 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298924"/>
   </node>
-  <node id="-442" visible="true" lat="44.49430701" lon="-73.17423618">
-    <!-- conflict: "46 Corrine Street, Winooski, VT" Fuzzy match to "46 Corrine Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Corrine Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298925"/>
-  </node>
-  <node id="-444" visible="true" lat="44.49409636" lon="-73.17494229">
-    <!-- conflict: "7 Dion Street, Winooski, VT" Fuzzy match to "7 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298927"/>
-  </node>
-  <node id="-448" visible="true" lat="44.49502014" lon="-73.17507737">
-    <!-- conflict: "67 Dion Street, Winooski, VT" Fuzzy match to "67 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298931"/>
-  </node>
-  <node id="-451" visible="true" lat="44.49500166" lon="-73.17554555">
-    <!-- conflict: "64 Dion Street, Winooski, VT" Fuzzy match to "64 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298934"/>
-  </node>
-  <node id="-452" visible="true" lat="44.49502318" lon="-73.17582253">
-    <!-- conflict: "254 LaFountain Street, Winooski, VT" Fuzzy match to "254 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="254"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298935"/>
-  </node>
-  <node id="-453" visible="true" lat="44.49501153" lon="-73.17618167">
-    <!-- conflict: "21 Park Street, Winooski, VT" Fuzzy match to "21 Park Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298936"/>
-  </node>
-  <node id="-457" visible="true" lat="44.49429388" lon="-73.17599496">
-    <!-- conflict: "18 Corrine Street, Winooski, VT" Fuzzy match to "18 Corrine Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Corrine Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298940"/>
-  </node>
-  <node id="-458" visible="true" lat="44.4942451" lon="-73.17547827">
-    <!-- conflict: "8 Dion Street, Winooski, VT" Fuzzy match to "8 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298941"/>
-  </node>
-  <node id="-460" visible="true" lat="44.49399902" lon="-73.17545713">
-    <!-- conflict: "6 Dion Street, Winooski, VT" Fuzzy match to "6 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298943"/>
-  </node>
-  <node id="-461" visible="true" lat="44.49375028" lon="-73.17544328">
-    <!-- conflict: "4 Dion Street, Winooski, VT" Fuzzy match to "4 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298944"/>
-  </node>
-  <node id="-462" visible="true" lat="44.49502751" lon="-73.17662536">
-    <!-- conflict: "28 Park Street, Winooski, VT" Fuzzy match to "28 Park Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298945"/>
-  </node>
-  <node id="-463" visible="true" lat="44.4947292" lon="-73.17673256">
-    <!-- conflict: "18 Park Street, Winooski, VT" Fuzzy match to "18 Park Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298946"/>
-  </node>
-  <node id="-464" visible="true" lat="44.494537" lon="-73.1767018">
-    <!-- conflict: "8 Park Street, Winooski, VT" Fuzzy match to "8 Park Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298947"/>
-  </node>
-  <node id="-466" visible="true" lat="44.4950562" lon="-73.17700098">
-    <!-- conflict: "218 LaFountain Street, Winooski, VT" Fuzzy match to "218 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="218"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298949"/>
-  </node>
-  <node id="-467" visible="true" lat="44.49507834" lon="-73.17724276">
-    <!-- conflict: "210 LaFountain Street, Winooski, VT" Fuzzy match to "210 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="210"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298950"/>
-  </node>
-  <node id="-469" visible="true" lat="44.49465198" lon="-73.17738843">
-    <!-- conflict: "53 Manseau Street, Winooski, VT" Fuzzy match to "53 Manseau Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298952"/>
-  </node>
-  <node id="-470" visible="true" lat="44.49452854" lon="-73.17737961">
-    <!-- conflict: "51 Manseau Street, Winooski, VT" Fuzzy match to "51 Manseau Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298953"/>
-  </node>
-  <node id="-471" visible="true" lat="44.49439497" lon="-73.17737806">
-    <!-- conflict: "49 Manseau Street, Winooski, VT" Fuzzy match to "49 Manseau Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298954"/>
-  </node>
-  <node id="-472" visible="true" lat="44.49427984" lon="-73.17735843">
-    <!-- conflict: "41 Manseau Street, Winooski, VT" Fuzzy match to "41 Manseau Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298955"/>
-  </node>
-  <node id="-473" visible="true" lat="44.49534797" lon="-73.17744398">
-    <!-- conflict: "75 Manseau Street, Winooski, VT" Fuzzy match to "75 Manseau Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298956"/>
-  </node>
-  <node id="-483" visible="true" lat="44.49688933" lon="-73.17567713">
-    <!-- conflict: "92 Dion Street, Winooski, VT" Fuzzy match to "92 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298966"/>
-  </node>
-  <node id="-484" visible="true" lat="44.49669033" lon="-73.17566751">
-    <!-- conflict: "86 Dion Street, Winooski, VT" Fuzzy match to "86 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298967"/>
-  </node>
-  <node id="-485" visible="true" lat="44.49647083" lon="-73.1760236">
-    <!-- conflict: "21 Bruce Street, Winooski, VT" Fuzzy match to "21 Bruce Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Bruce Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298968"/>
-  </node>
-  <node id="-486" visible="true" lat="44.49650823" lon="-73.17634241">
-    <!-- conflict: "27 Bruce Street, Winooski, VT" Fuzzy match to "27 Bruce Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Bruce Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298969"/>
-  </node>
-  <node id="-490" visible="true" lat="44.49528091" lon="-73.17850825">
-    <!-- conflict: "183 LaFountain Street, Winooski, VT" Fuzzy match to "183 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="183"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298973"/>
-  </node>
-  <node id="-491" visible="true" lat="44.49530443" lon="-73.17832209">
-    <!-- conflict: "185 LaFountain Street, Winooski, VT" Fuzzy match to "185 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="185"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298974"/>
-  </node>
-  <node id="-492" visible="true" lat="44.49532684" lon="-73.17811913">
-    <!-- conflict: "187 LaFountain Street, Winooski, VT" Fuzzy match to "187 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="187"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298975"/>
-  </node>
-  <node id="-493" visible="true" lat="44.49533343" lon="-73.17795197">
-    <!-- conflict: "191 LaFountain Street, Winooski, VT" Fuzzy match to "191 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="191"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298976"/>
-  </node>
-  <node id="-494" visible="true" lat="44.4953266" lon="-73.1777799">
-    <!-- conflict: "193 LaFountain Street, Winooski, VT" Fuzzy match to "193 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="193"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298977"/>
-  </node>
-  <node id="-505" visible="true" lat="44.4950516" lon="-73.17777671">
-    <!-- conflict: "194 LaFountain Street, Winooski, VT" Fuzzy match to "194 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="194"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="298988"/>
-  </node>
-  <node id="-522" visible="true" lat="44.49360389" lon="-73.17495125">
-    <!-- conflict: "1 Dion Street, Winooski, VT" Fuzzy match to "1 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299005"/>
-  </node>
-  <node id="-523" visible="true" lat="44.49376187" lon="-73.17490312">
-    <!-- conflict: "3 Dion Street, Winooski, VT" Fuzzy match to "3 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299006"/>
-  </node>
-  <node id="-524" visible="true" lat="44.49354807" lon="-73.17553243">
-    <!-- conflict: "2 Dion Street, Winooski, VT" Fuzzy match to "2 Dion Street, , " -->
+  <node id="-445" visible="true" lat="44.494644" lon="-73.17471369">
+    <!-- conflict: "2 Lapointe Street, Winooski, VT" Fuzzy match to "2 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Dion Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299007"/>
+    <tag k="ref:vcgi:esiteid" v="298928"/>
   </node>
-  <node id="-525" visible="true" lat="44.49343026" lon="-73.17552375">
-    <!-- conflict: "291 East Allen Street, Winooski, VT" Fuzzy match to "291 East Allen Street, , " -->
+  <node id="-446" visible="true" lat="44.49482564" lon="-73.17474199">
+    <!-- conflict: "4 Lapointe Street, Winooski, VT" Fuzzy match to "4 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="291"/>
-    <tag k="addr:street" v="East Allen Street"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299008"/>
+    <tag k="ref:vcgi:esiteid" v="298929"/>
   </node>
-  <node id="-531" visible="true" lat="44.49351936" lon="-73.17725556">
-    <!-- conflict: "23 Manseau Street, Winooski, VT" Fuzzy match to "23 Manseau Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299014"/>
-  </node>
-  <node id="-532" visible="true" lat="44.49367162" lon="-73.17727728">
-    <!-- conflict: "25 Manseau Street, Winooski, VT" Fuzzy match to "25 Manseau Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Manseau Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299015"/>
-  </node>
-  <node id="-537" visible="true" lat="44.4928487" lon="-73.17636736">
-    <!-- conflict: "270 East Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="270"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299020"/>
-  </node>
-  <node id="-539" visible="true" lat="44.49271733" lon="-73.17736248">
-    <!-- conflict: "240 East Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="240"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299022"/>
-  </node>
-  <node id="-540" visible="true" lat="44.49263732" lon="-73.17764381">
-    <!-- conflict: "238 East Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="238"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299023"/>
-  </node>
-  <node id="-544" visible="true" lat="44.49209369" lon="-73.17972973">
-    <!-- conflict: "168 East Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="168"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299030"/>
-  </node>
-  <node id="-545" visible="true" lat="44.49204109" lon="-73.17992672">
-    <!-- conflict: "166 East Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="166"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299031"/>
-  </node>
-  <node id="-547" visible="true" lat="44.4919903" lon="-73.18017761">
-    <!-- conflict: "160 East Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="160"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299033"/>
-  </node>
-  <node id="-548" visible="true" lat="44.49189484" lon="-73.1803741">
-    <!-- conflict: "152 East Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="152"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299034"/>
-  </node>
-  <node id="-549" visible="true" lat="44.49179654" lon="-73.18068731">
-    <!-- conflict: "144 East Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299035"/>
-  </node>
-  <node id="-550" visible="true" lat="44.49174147" lon="-73.18093815">
-    <!-- conflict: "138 East Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="138"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299036"/>
-  </node>
-  <node id="-575" visible="true" lat="44.49712164" lon="-73.17938066">
-    <!-- conflict: "129 Franklin Street, Winooski, VT" Fuzzy match to "129 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299067"/>
-  </node>
-  <node id="-576" visible="true" lat="44.49736612" lon="-73.1792298">
-    <!-- conflict: "133 Franklin Street, Winooski, VT" Fuzzy match to "133 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299068"/>
-  </node>
-  <node id="-577" visible="true" lat="44.49759378" lon="-73.17904581">
-    <!-- conflict: "155 Franklin Street, Winooski, VT" Fuzzy match to "155 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="155"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299069"/>
-  </node>
-  <node id="-584" visible="true" lat="44.49544038" lon="-73.17920669">
-    <!-- conflict: "121 LaFountain Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "121A,121B La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299076"/>
-  </node>
-  <node id="-585" visible="true" lat="44.49552357" lon="-73.17946615">
-    <!-- conflict: "119 LaFountain Street, Winooski, VT" Fuzzy match to "119 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299077"/>
-  </node>
-  <node id="-591" visible="true" lat="44.495704" lon="-73.18038245">
-    <!-- conflict: "79 LaFountain Street, Winooski, VT" Fuzzy match to "79 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299084"/>
-  </node>
-  <node id="-600" visible="true" lat="44.4958534" lon="-73.18080502">
-    <!-- conflict: "77 LaFountain Street, Winooski, VT" Fuzzy match to "77 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299093"/>
-  </node>
-  <node id="-601" visible="true" lat="44.49590194" lon="-73.18101051">
-    <!-- conflict: "75 LaFountain Street, Winooski, VT" Fuzzy match to "75 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299094"/>
-  </node>
-  <node id="-602" visible="true" lat="44.49593525" lon="-73.18113532">
-    <!-- conflict: "73 LaFountain Street, Winooski, VT" Fuzzy match to "73 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299095"/>
-  </node>
-  <node id="-603" visible="true" lat="44.49602072" lon="-73.18154781">
-    <!-- conflict: "71 LaFountain Street, Winooski, VT" Fuzzy match to "71 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299096"/>
-  </node>
-  <node id="-604" visible="true" lat="44.49606266" lon="-73.18170133">
-    <!-- conflict: "69 LaFountain Street, Winooski, VT" Fuzzy match to "69 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299097"/>
-  </node>
-  <node id="-606" visible="true" lat="44.49615231" lon="-73.18187339">
-    <!-- conflict: "67 LaFountain Street, Winooski, VT" Fuzzy match to "67 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299099"/>
-  </node>
-  <node id="-608" visible="true" lat="44.49620521" lon="-73.18222531">
-    <!-- conflict: "65 LaFountain Street, Winooski, VT" Fuzzy match to "65 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299101"/>
-  </node>
-  <node id="-609" visible="true" lat="44.49624336" lon="-73.18241605">
-    <!-- conflict: "63 LaFountain Street, Winooski, VT" Fuzzy match to "63 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299102"/>
-  </node>
-  <node id="-611" visible="true" lat="44.49637655" lon="-73.18291895">
-    <!-- conflict: "53 LaFountain Street, Winooski, VT" Fuzzy match to "53 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299104"/>
-  </node>
-  <node id="-612" visible="true" lat="44.49643495" lon="-73.18315614">
-    <!-- conflict: "45 LaFountain Street, Winooski, VT" Fuzzy match to "45 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299105"/>
-  </node>
-  <node id="-617" visible="true" lat="44.49756543" lon="-73.18251714">
-    <!-- conflict: "5 Richard Street, Winooski, VT" Fuzzy match to "5 Richard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299110"/>
-  </node>
-  <node id="-618" visible="true" lat="44.49769626" lon="-73.18247223">
-    <!-- conflict: "7 Richard Street, Winooski, VT" Fuzzy match to "7 Richard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299111"/>
-  </node>
-  <node id="-619" visible="true" lat="44.4978439" lon="-73.18237767">
-    <!-- conflict: "9 Richard Street, Winooski, VT" Fuzzy match to "9 Richard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299112"/>
-  </node>
-  <node id="-621" visible="true" lat="44.49813557" lon="-73.18222005">
-    <!-- conflict: "17 Richard Street, Winooski, VT" Fuzzy match to "17 Richard Street, , " -->
+  <node id="-1739" visible="true" lat="44.4960568" lon="-73.17428425">
+    <!-- conflict: "17 Lapointe Street, Winooski, VT" Fuzzy match to "17 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299114"/>
-  </node>
-  <node id="-622" visible="true" lat="44.4982906" lon="-73.18213769">
-    <!-- conflict: "21 Richard Street, Winooski, VT" Fuzzy match to "21 Richard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299115"/>
-  </node>
-  <node id="-623" visible="true" lat="44.49845603" lon="-73.18206642">
-    <!-- conflict: "25 Richard Street, Winooski, VT" Fuzzy match to "25 Richard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299116"/>
-  </node>
-  <node id="-624" visible="true" lat="44.49864701" lon="-73.18195767">
-    <!-- conflict: "29 Richard Street, Winooski, VT" Fuzzy match to "29 Richard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299117"/>
-  </node>
-  <node id="-625" visible="true" lat="44.49860059" lon="-73.18175752">
-    <!-- conflict: "44 Bellevue Street, Winooski, VT" Fuzzy match to "44 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299118"/>
-  </node>
-  <node id="-626" visible="true" lat="44.49853021" lon="-73.18150359">
-    <!-- conflict: "54 Bellevue Street, Winooski, VT" Fuzzy match to "54 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299119"/>
-  </node>
-  <node id="-627" visible="true" lat="44.49826757" lon="-73.18170041">
-    <!-- conflict: "14 Solar View Drive, Winooski, VT" Fuzzy match to "14 Solar View Drive, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Solar View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299120"/>
-  </node>
-  <node id="-629" visible="true" lat="44.49796883" lon="-73.18163258">
-    <!-- conflict: "22 Solar View Drive, Winooski, VT" Fuzzy match to "22 Solar View Drive, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Solar View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299122"/>
-  </node>
-  <node id="-630" visible="true" lat="44.49789842" lon="-73.18138091">
-    <!-- conflict: "21 Solar View Drive, Winooski, VT" Fuzzy match to "21 Solar View Drive, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Solar View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299123"/>
-  </node>
-  <node id="-631" visible="true" lat="44.49810266" lon="-73.18115107">
-    <!-- conflict: "15 Solar View Drive, Winooski, VT" Fuzzy match to "15 Solar View Drive, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Solar View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299124"/>
-  </node>
-  <node id="-632" visible="true" lat="44.49838572" lon="-73.18113595">
-    <!-- conflict: "78 Bellevue Street, Winooski, VT" Fuzzy match to "78 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299125"/>
-  </node>
-  <node id="-633" visible="true" lat="44.49831625" lon="-73.18092654">
-    <!-- conflict: "82 Bellevue Street, Winooski, VT" Fuzzy match to "82 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299126"/>
-  </node>
-  <node id="-635" visible="true" lat="44.49811258" lon="-73.18038256">
-    <!-- conflict: "100 Bellevue Street, Winooski, VT" Fuzzy match to "100 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299128"/>
-  </node>
-  <node id="-636" visible="true" lat="44.49801586" lon="-73.18027032">
-    <!-- conflict: "104 Bellevue Street, Winooski, VT" Fuzzy match to "104 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="104"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299129"/>
-  </node>
-  <node id="-637" visible="true" lat="44.49793184" lon="-73.17994497">
-    <!-- conflict: "112 Bellevue Street, Winooski, VT" Fuzzy match to "112 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299130"/>
-  </node>
-  <node id="-638" visible="true" lat="44.49782878" lon="-73.17965833">
-    <!-- conflict: "120 Bellevue Street, Winooski, VT" Fuzzy match to "120 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="120"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299131"/>
-  </node>
-  <node id="-639" visible="true" lat="44.49773874" lon="-73.17938282">
-    <!-- conflict: "128 Bellevue Street, Winooski, VT" Fuzzy match to "128 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299132"/>
-  </node>
-  <node id="-640" visible="true" lat="44.49723472" lon="-73.17974426">
-    <!-- conflict: "150 Franklin Street, Winooski, VT" Fuzzy match to "150 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299133"/>
-  </node>
-  <node id="-641" visible="true" lat="44.49697795" lon="-73.17994547">
-    <!-- conflict: "60 Franklin Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "148 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299134"/>
-  </node>
-  <node id="-642" visible="true" lat="44.4968322" lon="-73.18004332">
-    <!-- conflict: "58 Franklin Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "58 , , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299135"/>
-  </node>
-  <node id="-643" visible="true" lat="44.49660315" lon="-73.18024193">
-    <!-- conflict: "48 Franklin Street, Winooski, VT" Fuzzy match to "48 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299136"/>
-  </node>
-  <node id="-645" visible="true" lat="44.49631362" lon="-73.18048009">
-    <!-- conflict: "42 Franklin Street, Winooski, VT" Fuzzy match to "42 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299138"/>
-  </node>
-  <node id="-646" visible="true" lat="44.49622946" lon="-73.18053766">
-    <!-- conflict: "40 Franklin Street, Winooski, VT" Fuzzy match to "40 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299139"/>
-  </node>
-  <node id="-647" visible="true" lat="44.49621104" lon="-73.1834345">
-    <!-- conflict: "67 Leclair Street, Winooski, VT" Fuzzy match to "67 Leclair Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299140"/>
-  </node>
-  <node id="-649" visible="true" lat="44.49601656" lon="-73.18354567">
-    <!-- conflict: "61 Leclair Street, Winooski, VT" Fuzzy match to "61 Leclair Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299142"/>
-  </node>
-  <node id="-651" visible="true" lat="44.49572228" lon="-73.18369958">
-    <!-- conflict: "45 Leclair Street, Winooski, VT" Fuzzy match to "45 Leclair Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299144"/>
-  </node>
-  <node id="-652" visible="true" lat="44.49527835" lon="-73.18391396">
-    <!-- conflict: "31 Leclair Street, Winooski, VT" Fuzzy match to "31 Leclair Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299146"/>
-  </node>
-  <node id="-653" visible="true" lat="44.49517101" lon="-73.18395282">
-    <!-- conflict: "25 Leclair Street, Winooski, VT" Fuzzy match to "25 Leclair Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299147"/>
-  </node>
-  <node id="-654" visible="true" lat="44.4950211" lon="-73.18400976">
-    <!-- conflict: "23 Leclair Street, Winooski, VT" Fuzzy match to "23 Leclair Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299148"/>
-  </node>
-  <node id="-655" visible="true" lat="44.49487648" lon="-73.18410321">
-    <!-- conflict: "17 Leclair Street, Winooski, VT" Fuzzy match to "17 Leclair Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299149"/>
-  </node>
-  <node id="-656" visible="true" lat="44.49452803" lon="-73.18420185">
-    <!-- conflict: "49 East Spring Street, Winooski, VT" Fuzzy match to "49 East Spring Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299150"/>
-  </node>
-  <node id="-657" visible="true" lat="44.4946985" lon="-73.18408283">
-    <!-- conflict: "11 Leclair Street, Winooski, VT" Fuzzy match to "11 Leclair Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299151"/>
-  </node>
-  <node id="-658" visible="true" lat="44.49449921" lon="-73.18376605">
-    <!-- conflict: "57 East Spring Street, Winooski, VT" Fuzzy match to "57 East Spring Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299152"/>
-  </node>
-  <node id="-659" visible="true" lat="44.49444816" lon="-73.18354223">
-    <!-- conflict: "65 East Spring Street, Winooski, VT" Fuzzy match to "65 East Spring Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299153"/>
-  </node>
-  <node id="-660" visible="true" lat="44.49438623" lon="-73.18338782">
-    <!-- conflict: "69 East Spring Street, Winooski, VT" Fuzzy match to "69 East Spring Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299154"/>
-  </node>
-  <node id="-661" visible="true" lat="44.49448999" lon="-73.18311824">
-    <!-- conflict: "77 East Spring Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "79 C East Spring Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299155"/>
-  </node>
-  <node id="-662" visible="true" lat="44.49428108" lon="-73.18301334">
-    <!-- conflict: "79 East Spring Street, Winooski, VT" Fuzzy match to "79 East Spring Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299156"/>
-  </node>
-  <node id="-664" visible="true" lat="44.49416006" lon="-73.18266429">
-    <!-- conflict: "87 East Spring Street, Winooski, VT" Fuzzy match to "87 East Spring Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299158"/>
-  </node>
-  <node id="-665" visible="true" lat="44.49405133" lon="-73.18245079">
-    <!-- conflict: "91 East Spring Street, Winooski, VT" Fuzzy match to "91 East Spring Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="91"/>
-    <tag k="addr:street" v="East Spring Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299159"/>
-  </node>
-  <node id="-667" visible="true" lat="44.49437069" lon="-73.18193445">
-    <!-- conflict: "8 Franklin Street, Winooski, VT" Fuzzy match to "8 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299162"/>
-  </node>
-  <node id="-674" visible="true" lat="44.49559277" lon="-73.18101329">
-    <!-- conflict: "30 Franklin Street, Winooski, VT" Fuzzy match to "30 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299171"/>
-  </node>
-  <node id="-687" visible="true" lat="44.49550353" lon="-73.18060606">
-    <!-- conflict: "31 Franklin Street, Winooski, VT" Fuzzy match to "31 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299185"/>
-  </node>
-  <node id="-692" visible="true" lat="44.49478013" lon="-73.18115412">
-    <!-- conflict: "13 Franklin Street, Winooski, VT" Fuzzy match to "13 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299190"/>
-  </node>
-  <node id="-693" visible="true" lat="44.49464844" lon="-73.18125114">
-    <!-- conflict: "11 Franklin Street, Winooski, VT" Fuzzy match to "11 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299191"/>
-  </node>
-  <node id="-696" visible="true" lat="44.49381608" lon="-73.18171849">
-    <!-- conflict: "1 Franklin Street, Winooski, VT" Fuzzy match to "1 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299194"/>
-  </node>
-  <node id="-710" visible="true" lat="44.49523945" lon="-73.17966347">
-    <!-- conflict: "144 LaFountain Street, Winooski, VT" Fuzzy match to "144 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299209"/>
-  </node>
-  <node id="-722" visible="true" lat="44.49499139" lon="-73.17926702">
-    <!-- conflict: "54 Hood Street, Winooski, VT" Fuzzy match to "54 Hood Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Hood Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299221"/>
-  </node>
-  <node id="-734" visible="true" lat="44.49239509" lon="-73.17985898">
-    <!-- conflict: "171 East Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="171"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299233"/>
-  </node>
-  <node id="-736" visible="true" lat="44.4921914" lon="-73.1805961">
-    <!-- conflict: "151 East Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299235"/>
-  </node>
-  <node id="-825" visible="true" lat="44.4911749" lon="-73.18676051">
-    <!-- conflict: "50 Main Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " , Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299334"/>
-  </node>
-  <node id="-826" visible="true" lat="44.49084971" lon="-73.18680693">
-    <!-- conflict: "40 Main Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " , Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299335"/>
-  </node>
-  <node id="-850" visible="true" lat="44.49133004" lon="-73.18941074">
-    <!-- conflict: "62 West Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " , Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="West Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299361"/>
-  </node>
-  <node id="-867" visible="true" lat="44.49140838" lon="-73.19259844">
-    <!-- conflict: "147 West Allen Street, Winooski, VT" Fuzzy match to "147 East Allen Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="147"/>
-    <tag k="addr:street" v="West Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299378"/>
-  </node>
-  <node id="-957" visible="true" lat="44.49413853" lon="-73.19557918">
-    <!-- conflict: "68 West Street, Winooski, VT" Fuzzy match to "68 West Spring Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299469"/>
-  </node>
-  <node id="-986" visible="true" lat="44.49161902" lon="-73.18904663">
-    <!-- conflict: "57 West Allen Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " Malletts Bay Avenue, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="West Allen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299500"/>
-  </node>
-  <node id="-1127" visible="true" lat="44.49650566" lon="-73.18454159">
-    <!-- conflict: "12 LaFountain Street, Winooski, VT" Fuzzy match to "12 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299646"/>
-  </node>
-  <node id="-1128" visible="true" lat="44.49642534" lon="-73.18439427">
-    <!-- conflict: "22 LaFountain Street, Winooski, VT" Fuzzy match to "22 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299647"/>
-  </node>
-  <node id="-1131" visible="true" lat="44.49634916" lon="-73.1839945">
-    <!-- conflict: "28 LaFountain Street, Winooski, VT" Fuzzy match to "28 La Fountain Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299650"/>
-  </node>
-  <node id="-1132" visible="true" lat="44.49631364" lon="-73.18379798">
-    <!-- conflict: "70 Leclair Street, Winooski, VT" Fuzzy match to "70 Leclair Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Leclair Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299651"/>
-  </node>
-  <node id="-1166" visible="true" lat="44.4968575" lon="-73.18482479">
-    <!-- conflict: "259 Main Street, Winooski, VT" Fuzzy match to "259 Main Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="259"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299687"/>
-  </node>
-  <node id="-1170" visible="true" lat="44.49655791" lon="-73.18368955">
-    <!-- conflict: "35 LaFountain Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "35 , , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="LaFountain Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299691"/>
-  </node>
-  <node id="-1174" visible="true" lat="44.49753076" lon="-73.18368486">
-    <!-- conflict: "20 Burling Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "20A-D Burling Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Burling Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299695"/>
-  </node>
-  <node id="-1175" visible="true" lat="44.49761532" lon="-73.18406152">
-    <!-- conflict: "12 Burling Street, Winooski, VT" Fuzzy match to "12 Burling Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Burling Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299696"/>
-  </node>
-  <node id="-1181" visible="true" lat="44.49756939" lon="-73.18298309">
-    <!-- conflict: "39 Burling Street, Winooski, VT" Fuzzy match to "39 Burling Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Burling Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299702"/>
-  </node>
-  <node id="-1185" visible="true" lat="44.49920641" lon="-73.18362183">
-    <!-- conflict: "355 Main Street, Winooski, VT" Fuzzy match to "355 Main Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299707"/>
-  </node>
-  <node id="-1186" visible="true" lat="44.49916159" lon="-73.18323096">
-    <!-- conflict: "8 Bellevue Street, Winooski, VT" Fuzzy match to "8 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299708"/>
-  </node>
-  <node id="-1187" visible="true" lat="44.4990743" lon="-73.18297404">
-    <!-- conflict: "12 Bellevue Street, Winooski, VT" Fuzzy match to "12 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299709"/>
-  </node>
-  <node id="-1188" visible="true" lat="44.49895758" lon="-73.18274551">
-    <!-- conflict: "18 Bellevue Street, Winooski, VT" Fuzzy match to "18 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299710"/>
-  </node>
-  <node id="-1189" visible="true" lat="44.49887253" lon="-73.18251396">
-    <!-- conflict: "24 Bellevue Street, Winooski, VT" Fuzzy match to "24 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299711"/>
-  </node>
-  <node id="-1190" visible="true" lat="44.49879245" lon="-73.18232533">
-    <!-- conflict: "30 Bellevue Street, Winooski, VT" Fuzzy match to "30 Bellevue Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Bellevue Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299712"/>
-  </node>
-  <node id="-1191" visible="true" lat="44.49856101" lon="-73.1824702">
-    <!-- conflict: "22 Richard Street, Winooski, VT" Fuzzy match to "22 Richard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299713"/>
-  </node>
-  <node id="-1193" visible="true" lat="44.49823507" lon="-73.18266402">
-    <!-- conflict: "14 Richard Street, Winooski, VT" Fuzzy match to "14 Richard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299715"/>
-  </node>
-  <node id="-1194" visible="true" lat="44.4980305" lon="-73.1827092">
-    <!-- conflict: "12 Richard Street, Winooski, VT" Fuzzy match to "12 Richard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299716"/>
-  </node>
-  <node id="-1195" visible="true" lat="44.49784616" lon="-73.18287539">
-    <!-- conflict: "10 Richard Street, Winooski, VT" Fuzzy match to "10 Richard Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Richard Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299717"/>
-  </node>
-  <node id="-1349" visible="true" lat="44.49388124" lon="-73.19481865">
-    <!-- conflict: "47 West Street, Winooski, VT" Fuzzy match to "47 West Spring Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="299872"/>
-  </node>
-  <node id="-1600" visible="true" lat="44.49853225" lon="-73.19155004">
-    <!-- conflict: "40 Pine Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "62 Pine Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Pine Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300127"/>
-  </node>
-  <node id="-1700" visible="true" lat="44.49129003" lon="-73.18915465">
-    <!-- conflict: "62 West Center Street, Winooski, VT" No match in OSM, but a different address exists <5m away: " , Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="West Center Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300299"/>
-  </node>
-  <node id="-1708" visible="true" lat="44.49077961" lon="-73.18886648">
-    <!-- conflict: "79 West Canal Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "81;79 West Canal Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="West Canal Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300310"/>
-  </node>
-  <node id="-1741" visible="true" lat="44.49651068" lon="-73.17110355">
-    <!-- conflict: "42 Gail Street, Winooski, VT" Fuzzy match to "42 Gail Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Gail Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300385"/>
-  </node>
-  <node id="-1742" visible="true" lat="44.4960568" lon="-73.17428425">
-    <!-- conflict: "17 LaPointe Street, Winooski, VT" Fuzzy match to "17 La Pointe Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300387"/>
   </node>
-  <node id="-1743" visible="true" lat="44.49646215" lon="-73.17571977">
-    <!-- conflict: "19 Bruce Street, Winooski, VT" Fuzzy match to "19 Bruce Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Bruce Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300389"/>
-  </node>
-  <node id="-1744" visible="true" lat="44.49697578" lon="-73.17434608">
-    <!-- conflict: "51 LaPointe Street, Winooski, VT" Fuzzy match to "51 La Pointe Street, , " -->
+  <node id="-1741" visible="true" lat="44.49697578" lon="-73.17434608">
+    <!-- conflict: "51 Lapointe Street, Winooski, VT" Fuzzy match to "51 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300391"/>
   </node>
-  <node id="-1745" visible="true" lat="44.49719333" lon="-73.17431931">
-    <!-- conflict: "61 LaPointe Street, Winooski, VT" Fuzzy match to "61 La Pointe Street, , " -->
+  <node id="-1742" visible="true" lat="44.49719333" lon="-73.17431931">
+    <!-- conflict: "61 Lapointe Street, Winooski, VT" Fuzzy match to "61 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="300392"/>
   </node>
-  <node id="-1746" visible="true" lat="44.4987413" lon="-73.17520447">
-    <!-- conflict: "137 Dion Street, Winooski, VT" Fuzzy match to "137 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="137"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300395"/>
-  </node>
-  <node id="-1747" visible="true" lat="44.4942951" lon="-73.17499582">
-    <!-- conflict: "9 Dion Street, Winooski, VT" Fuzzy match to "9 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300398"/>
-  </node>
-  <node id="-1748" visible="true" lat="44.49391558" lon="-73.17495118">
-    <!-- conflict: "5 Dion Street, Winooski, VT" Fuzzy match to "5 Dion Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Dion Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300399"/>
-  </node>
-  <node id="-1749" visible="true" lat="44.49457833" lon="-73.17592193">
-    <!-- conflict: "21 Corrine Street, Winooski, VT" Fuzzy match to "21 Corrine Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Corrine Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300401"/>
-  </node>
-  <node id="-1755" visible="true" lat="44.49500236" lon="-73.17874637">
-    <!-- conflict: "49 Hood Street, Winooski, VT" Fuzzy match to "49 Hood Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Hood Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300411"/>
-  </node>
-  <node id="-1780" visible="true" lat="44.49891776" lon="-73.17913997">
-    <!-- conflict: "9 George Street, Winooski, VT" Fuzzy match to "9 George Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300447"/>
-  </node>
-  <node id="-1783" visible="true" lat="44.4969775" lon="-73.18159297">
-    <!-- conflict: "19 Thornton Street, Winooski, VT" Fuzzy match to "19 Thornton Street, , VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Thornton Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300451"/>
-  </node>
-  <node id="-1790" visible="true" lat="44.49558906" lon="-73.17987884">
-    <!-- conflict: "80 Russell Street, Winooski, VT" Fuzzy match to "80 Russell Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Russell Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300461"/>
-  </node>
-  <node id="-1805" visible="true" lat="44.49878744" lon="-73.18380899">
-    <!-- conflict: "325 Main Street, Winooski, VT" Fuzzy match to "325 Main Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="325"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300501"/>
-  </node>
-  <node id="-1814" visible="true" lat="44.50107035" lon="-73.18248684">
-    <!-- conflict: "405 Main Street, Winooski, VT" Fuzzy match to "405 Main Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="405"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300516"/>
-  </node>
-  <node id="-1828" visible="true" lat="44.49700885" lon="-73.17992845">
-    <!-- conflict: "62 Franklin Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "148 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300542"/>
-  </node>
-  <node id="-1843" visible="true" lat="44.49118415" lon="-73.18845214">
-    <!-- conflict: "47 West Center Street, Winooski, VT" Fuzzy match to "47 West Spring Street, Winooski, VT" -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="West Center Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="300585"/>
-  </node>
-  <node id="-1887" visible="true" lat="44.49800883" lon="-73.17676047">
-    <!-- conflict: "127 Hood Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "41 Gamelin Court, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="127"/>
-    <tag k="addr:street" v="Hood Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338615"/>
-  </node>
-  <node id="-1894" visible="true" lat="44.49429159" lon="-73.18231422">
-    <!-- conflict: "6 Franklin Street, Winooski, VT" Fuzzy match to "6 Franklin Street, , " -->
-    <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343960"/>
-  </node>
-  <node id="-1895" visible="true" lat="44.49666714" lon="-73.17432345">
-    <!-- conflict: "39 LaPointe Street, Winooski, VT" No match in OSM, but a different address exists <5m away: "59 La Pointe Street, , " -->
+  <node id="-1891" visible="true" lat="44.49666714" lon="-73.17432345">
+    <!-- conflict: "39 Lapointe Street, Winooski, VT" Fuzzy match to "39 LaPointe Street, Winooski, VT" -->
     <tag k="addr:city" v="Winooski"/>
     <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="LaPointe Street"/>
+    <tag k="addr:street" v="Lapointe Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343961"/>
   </node>
-  <node id="-1937" visible="true" lat="44.49708126" lon="-73.17986566">
-    <!-- conflict: "148 Franklin Street, Winooski, VT" Fuzzy match to "148 Franklin Street, , " -->
+  <node id="-1974" visible="true" lat="44.49453791" lon="-73.1818276">
+    <!-- conflict: "9 Gabes Way, Winooski, VT" No match in OSM, but a different address exists <5m away: "8 1/2 Franklin Street, , " -->
     <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Franklin Street"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Gabes Way"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="758000"/>
+    <tag k="ref:vcgi:esiteid" v="772502"/>
   </node>
-  <node id="-1940" visible="true" lat="44.49629019" lon="-73.184464">
-    <!-- conflict: "24 LaFountain Street, Winooski, VT" Fuzzy match to "24 La Fountain Street, , " -->
+  <node id="-1975" visible="true" lat="44.49456446" lon="-73.18188188">
+    <!-- conflict: "13 Gabes Way, Winooski, VT" No match in OSM, but a different address exists <5m away: "8 1/2 Franklin Street, , " -->
     <tag k="addr:city" v="Winooski"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="LaFountain Street"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Gabes Way"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759202"/>
+    <tag k="ref:vcgi:esiteid" v="772503"/>
   </node>
 </osm>

@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-342" visible="true" lat="44.81549578" lon="-71.88065231">
-    <!-- conflict: "23 East Brighton Road, , VT" No match in OSM, but a different address exists <5m away: "23 VT Route 105 East Brighton Road, Island Pond, VT" -->
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="East Brighton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="38074"/>
-  </node>
   <node id="-436" visible="true" lat="44.81207013" lon="-71.83908674">
     <!-- conflict: "652 Rlw Road, , VT" Fuzzy match to "652 RLW Road, Brighton, VT" -->
     <tag k="addr:housenumber" v="652"/>
@@ -63,6 +56,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38540"/>
   </node>
+  <node id="-768" visible="true" lat="44.77851104" lon="-71.85597991">
+    <!-- conflict: "1155 Head Of The Pond Road, , VT" Fuzzy match to "1155 Head of the Pond Road, , VT" -->
+    <tag k="addr:housenumber" v="1155"/>
+    <tag k="addr:street" v="Head Of The Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38550"/>
+  </node>
+  <node id="-770" visible="true" lat="44.77799987" lon="-71.8534317">
+    <!-- conflict: "1285 Head Of The Pond Road, , VT" Fuzzy match to "1285 Head of the Pond Road, , VT" -->
+    <tag k="addr:housenumber" v="1285"/>
+    <tag k="addr:street" v="Head Of The Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38552"/>
+  </node>
   <node id="-771" visible="true" lat="44.7778244" lon="-71.83264923">
     <!-- conflict: "2748 Head Of The Pond Road, , VT" Fuzzy match to "2748 Head of the Pond Road, Brighton, VT" -->
     <tag k="addr:housenumber" v="2748"/>
@@ -97,6 +104,13 @@
     <tag k="addr:street" v="Head Of The Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38567"/>
+  </node>
+  <node id="-786" visible="true" lat="44.7745018" lon="-71.85419464">
+    <!-- conflict: "1398 Head Of The Pond Road, , VT" Fuzzy match to "1398 Head of the Pond Road, Brighton, VT" -->
+    <tag k="addr:housenumber" v="1398"/>
+    <tag k="addr:street" v="Head Of The Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38568"/>
   </node>
   <node id="-790" visible="true" lat="44.77329639" lon="-71.84815237">
     <!-- conflict: "1678 Head Of The Pond Road, , VT" Fuzzy match to "1678 Head of the Pond Road, Brighton, VT" -->
@@ -133,6 +147,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38686"/>
   </node>
+  <node id="-941" visible="true" lat="44.7789088" lon="-71.85651451">
+    <!-- conflict: "1127 Head Of The Pond Road, , VT" Fuzzy match to "1127 Head of the Pond Road, , VT" -->
+    <tag k="addr:housenumber" v="1127"/>
+    <tag k="addr:street" v="Head Of The Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="38741"/>
+  </node>
   <node id="-1015" visible="true" lat="44.77443841" lon="-71.84073935">
     <!-- conflict: "2241 Head Of The Pond Road, , VT" Fuzzy match to "2241 Head of the Pond Road, Brighton, VT" -->
     <tag k="addr:housenumber" v="2241"/>
@@ -146,13 +167,6 @@
     <tag k="addr:street" v="Head Of The Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="344499"/>
-  </node>
-  <node id="-1058" visible="true" lat="44.79882913" lon="-71.85604903">
-    <!-- conflict: "1000 Lakeshore Drive, , VT" No match in OSM, but a different address exists <5m away: "128 Woodland Trail Road, Brighton, VT" -->
-    <tag k="addr:housenumber" v="1000"/>
-    <tag k="addr:street" v="Lakeshore Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454111"/>
   </node>
   <node id="-1091" visible="true" lat="44.77597184" lon="-71.85140042">
     <!-- conflict: "1439 Head Of The Pond Road, , VT" Fuzzy match to "1439 Head of the Pond Road, Brighton, VT" -->

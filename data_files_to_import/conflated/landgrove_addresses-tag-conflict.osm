@@ -1,107 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-156" visible="true" lat="43.26965529" lon="-72.83488918">
-    <!-- conflict: "27 Sled Run Drive, Landgrove, VT" Fuzzy match to "27 Sled Run, Landgrove, VT" -->
-    <tag k="addr:city" v="Landgrove"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Sled Run Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="139224"/>
-  </node>
-  <node id="-159" visible="true" lat="43.26896282" lon="-72.83221236">
-    <!-- conflict: "14 Sled Run Drive, Landgrove, VT" Fuzzy match to "14 Sled Run, Landgrove, VT" -->
-    <tag k="addr:city" v="Landgrove"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Sled Run Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="139227"/>
-  </node>
-  <node id="-164" visible="true" lat="43.26730729" lon="-72.83569595">
-    <!-- conflict: "13 Sled Run Drive, Landgrove, VT" Fuzzy match to "13 Sled Run, Landgrove, VT" -->
-    <tag k="addr:city" v="Landgrove"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Sled Run Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="139232"/>
-  </node>
   <node id="-167" visible="true" lat="43.26624258" lon="-72.85470802">
-    <!-- conflict: "12 Old County Road W, Landgrove, VT" No match in OSM, but a different address exists <5m away: "12 Old County Road W, Landgrove, VT" -->
+    <!-- conflict: "12 Old CountyRoad East, Landgrove, VT" No match in OSM, but a different address exists <5m away: "12 Old County Road West, Landgrove, VT" -->
     <tag k="addr:city" v="Landgrove"/>
     <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Old County Road West"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139235"/>
   </node>
+  <node id="-170" visible="true" lat="43.26550055" lon="-72.85028011">
+    <!-- conflict: "38 Old CountyRoad East, Landgrove, VT" No match in OSM, but a different address exists <5m away: "38 Old County Road West, Landgrove, VT" -->
+    <tag k="addr:city" v="Landgrove"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="139238"/>
+  </node>
   <node id="-171" visible="true" lat="43.26605944" lon="-72.84052299">
-    <!-- conflict: "11 Old County Road E, Landgrove, VT" No match in OSM, but a different address exists <5m away: "11 Old County Road East, Landgrove, VT" -->
+    <!-- conflict: "11 Old CountyRoad East, Landgrove, VT" Fuzzy match to "11 Old County Road East, Landgrove, VT" -->
     <tag k="addr:city" v="Landgrove"/>
     <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Old County Road East"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139239"/>
   </node>
   <node id="-172" visible="true" lat="43.265847" lon="-72.84017168">
-    <!-- conflict: "13 Old County Road E, Landgrove, VT" No match in OSM, but a different address exists <5m away: "13 Old County Road East, Landgrove, VT" -->
+    <!-- conflict: "13 Old CountyRoad East, Landgrove, VT" Fuzzy match to "13 Old County Road East, Landgrove, VT" -->
     <tag k="addr:city" v="Landgrove"/>
     <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Old County Road East"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139240"/>
   </node>
   <node id="-173" visible="true" lat="43.26580396" lon="-72.85558653">
-    <!-- conflict: "6 Old County Road W, Landgrove, VT" No match in OSM, but a different address exists <5m away: "6 Old County Road W, Landgrove, VT" -->
+    <!-- conflict: "6 Old CountyRoad East, Landgrove, VT" No match in OSM, but a different address exists <5m away: "6 Old County Road West, Landgrove, VT" -->
     <tag k="addr:city" v="Landgrove"/>
     <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Old County Road West"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139241"/>
   </node>
   <node id="-175" visible="true" lat="43.26576403" lon="-72.83328405">
-    <!-- conflict: "49 Old County Road E, Landgrove, VT" No match in OSM, but a different address exists <5m away: "49 Old County Road East, Landgrove, VT" -->
+    <!-- conflict: "49 Old CountyRoad East, Landgrove, VT" Fuzzy match to "49 Old County Road East, Landgrove, VT" -->
     <tag k="addr:city" v="Landgrove"/>
     <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Old County Road East"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139243"/>
   </node>
   <node id="-176" visible="true" lat="43.2656864" lon="-72.84269018">
-    <!-- conflict: "4 Old County Road E, Landgrove, VT" No match in OSM, but a different address exists <5m away: "4 Old County Road East, Landgrove, VT" -->
+    <!-- conflict: "4 Old CountyRoad East, Landgrove, VT" Fuzzy match to "4 Old County Road East, Landgrove, VT" -->
     <tag k="addr:city" v="Landgrove"/>
     <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Old County Road East"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139244"/>
   </node>
+  <node id="-182" visible="true" lat="43.26384737" lon="-72.84254697">
+    <!-- conflict: "8 Old CountyRoad East, Landgrove, VT" Fuzzy match to "8 Old County Road East, Landgrove, VT" -->
+    <tag k="addr:city" v="Landgrove"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="139250"/>
+  </node>
   <node id="-247" visible="true" lat="43.26629593" lon="-72.83045854">
-    <!-- conflict: "53 Old County Road E, Landgrove, VT" No match in OSM, but a different address exists <5m away: "53 Old County Road East, Landgrove, VT" -->
+    <!-- conflict: "53 Old CountyRoad East, Landgrove, VT" Fuzzy match to "53 Old County Road East, Landgrove, VT" -->
     <tag k="addr:city" v="Landgrove"/>
     <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Old County Road East"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="139317"/>
   </node>
   <node id="-271" visible="true" lat="43.26304823" lon="-72.84014591">
-    <!-- conflict: "10 Old County Road E, Landgrove, VT" No match in OSM, but a different address exists <5m away: "10 Old County Road East, Landgrove, VT" -->
+    <!-- conflict: "10 Old CountyRoad East, Landgrove, VT" Fuzzy match to "10 Old County Road East, Landgrove, VT" -->
     <tag k="addr:city" v="Landgrove"/>
     <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Old County Road East"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453658"/>
   </node>
-  <node id="-273" visible="true" lat="43.29140365" lon="-72.82191948">
-    <!-- conflict: "419 Landgrove Road, Landgrove, VT" No match in OSM, but a different address exists <5m away: " Landgrove Road, Landgrove, VT" -->
+  <node id="-321" visible="true" lat="43.26402932" lon="-72.83707522">
+    <!-- conflict: "28 Old CountyRoad East, Landgrove, VT" Fuzzy match to "28 Old County Road East, Landgrove, VT" -->
     <tag k="addr:city" v="Landgrove"/>
-    <tag k="addr:housenumber" v="419"/>
-    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613573"/>
+    <tag k="ref:vcgi:esiteid" v="764318"/>
   </node>
-  <node id="-317" visible="true" lat="43.25877739" lon="-72.8484641">
-    <!-- conflict: "10 Landgrove Road, Landgrove, VT" Fuzzy match to "10 Landgrove Road, Londonderry, VT" -->
+  <node id="-323" visible="true" lat="43.2642483" lon="-72.83098543">
+    <!-- conflict: "70 Old CountyRoad East, Landgrove, VT" Fuzzy match to "70 Old County Road East, Landgrove, VT" -->
     <tag k="addr:city" v="Landgrove"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Old CountyRoad East"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750889"/>
+    <tag k="ref:vcgi:esiteid" v="768207"/>
   </node>
 </osm>

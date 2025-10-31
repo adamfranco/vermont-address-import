@@ -7,18 +7,32 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302108"/>
   </node>
-  <node id="-842" visible="true" lat="44.42280444" lon="-72.47003298">
-    <!-- offset: "719 Log Town Road, , VT" Significant offset - 155.8m -->
-    <tag k="addr:housenumber" v="719"/>
-    <tag k="addr:street" v="Log Town Road"/>
+  <node id="-845" visible="true" lat="44.41688437" lon="-72.45860086">
+    <!-- offset: "569 Scribner Road, , VT" Significant offset - 415.4m -->
+    <tag k="addr:housenumber" v="569"/>
+    <tag k="addr:street" v="Scribner Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="337393"/>
+    <tag k="ref:vcgi:esiteid" v="340866"/>
   </node>
-  <node id="-883" visible="true" lat="44.38954215" lon="-72.39681039">
-    <!-- offset: "1157 Bliss Road, , VT" Significant offset - 166.8m -->
+  <node id="-870" visible="true" lat="44.45508739" lon="-72.44115847">
+    <!-- offset: "3085 County Road, , VT" Significant offset - 109.3m -->
+    <tag k="addr:housenumber" v="3085"/>
+    <tag k="addr:street" v="County Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613054"/>
+  </node>
+  <node id="-886" visible="true" lat="44.38954693" lon="-72.39679622">
+    <!-- offset: "1157 Bliss Road, , VT" Significant offset - 167m -->
     <tag k="addr:housenumber" v="1157"/>
     <tag k="addr:street" v="Bliss Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="655248"/>
+  </node>
+  <node id="-888" visible="true" lat="44.47377601" lon="-72.39924646">
+    <!-- offset: "6420 Vermont Route 14, , VT" Significant offset - 9449.4m -->
+    <tag k="addr:housenumber" v="6420"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655265"/>
   </node>
 </osm>

@@ -142,7 +142,7 @@
   </node>
   <node id="-120" visible="true" lat="43.76783985" lon="-72.97834919">
     <tag k="addr:city" v="Chittenden" />
-    <tag k="addr:housenumber" v="204" />
+    <tag k="addr:housenumber" v="208" />
     <tag k="addr:street" v="Middle Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="67582" />
@@ -630,7 +630,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="67652" />
   </node>
-  <node id="-190" visible="true" lat="43.74526977" lon="-72.97566986">
+  <node id="-190" visible="true" lat="43.74544863" lon="-72.97556804">
     <tag k="addr:city" v="Chittenden" />
     <tag k="addr:housenumber" v="33" />
     <tag k="addr:street" v="River Road" />
@@ -644,7 +644,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="67654" />
   </node>
-  <node id="-192" visible="true" lat="43.74488067" lon="-72.9737854">
+  <node id="-192" visible="true" lat="43.74493762" lon="-72.97362553">
     <tag k="addr:city" v="Chittenden" />
     <tag k="addr:housenumber" v="38" />
     <tag k="addr:street" v="River Road" />
@@ -679,7 +679,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="67659" />
   </node>
-  <node id="-197" visible="true" lat="43.74403762" lon="-72.97394561">
+  <node id="-197" visible="true" lat="43.74412538" lon="-72.97389954">
     <tag k="addr:city" v="Chittenden" />
     <tag k="addr:housenumber" v="34" />
     <tag k="addr:street" v="River Road" />
@@ -4844,7 +4844,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="336434" />
   </node>
-  <node id="-793" visible="true" lat="43.76735197" lon="-72.99330297">
+  <node id="-793" visible="true" lat="43.76735025" lon="-72.99330084">
     <tag k="addr:city" v="Chittenden" />
     <tag k="addr:housenumber" v="145" />
     <tag k="addr:street" v="Lazy Acres Road" />
@@ -4879,7 +4879,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="339146" />
   </node>
-  <node id="-799" visible="true" lat="43.67671719" lon="-72.9452247">
+  <node id="-799" visible="true" lat="43.67671847" lon="-72.9452185">
     <tag k="addr:city" v="Chittenden" />
     <tag k="addr:housenumber" v="33" />
     <tag k="addr:street" v="Chittenden Road" />
@@ -5264,7 +5264,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="655499" />
   </node>
-  <node id="-858" visible="true" lat="43.72740971" lon="-72.94200405">
+  <node id="-858" visible="true" lat="43.72722949" lon="-72.94195279">
     <tag k="addr:city" v="Chittenden" />
     <tag k="addr:housenumber" v="32" />
     <tag k="addr:street" v="Trailside Drive" />
@@ -5376,6 +5376,13 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="761954" />
   </node>
+  <node id="-874" visible="true" lat="43.6836534" lon="-72.94494432">
+    <tag k="addr:city" v="Chittenden" />
+    <tag k="addr:housenumber" v="21" />
+    <tag k="addr:street" v="Suncatcher Lane" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="762547" />
+  </node>
   <node id="-875" visible="true" lat="43.68415527" lon="-72.94448861">
     <tag k="addr:city" v="Chittenden" />
     <tag k="addr:housenumber" v="22" />
@@ -5439,14 +5446,49 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="768071" />
   </node>
-  <node id="-885" visible="true" lat="43.79767679" lon="-72.9989962">
+  <node id="-885" visible="true" lat="43.74740773" lon="-72.97073854">
+    <tag k="addr:city" v="Chittenden" />
+    <tag k="addr:housenumber" v="56" />
+    <tag k="addr:street" v="River Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="771278" />
+  </node>
+  <node id="-886" visible="true" lat="43.74167129" lon="-72.9739808">
+    <tag k="addr:city" v="Chittenden" />
+    <tag k="addr:housenumber" v="18" />
+    <tag k="addr:street" v="River Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="771466" />
+  </node>
+  <node id="-887" visible="true" lat="43.68016643" lon="-72.94550801">
+    <tag k="addr:city" v="Chittenden" />
+    <tag k="addr:housenumber" v="6" />
+    <tag k="addr:street" v="Suncatcher Lane" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="771490" />
+  </node>
+  <node id="-888" visible="true" lat="43.69009228" lon="-72.95462203">
+    <tag k="addr:city" v="Chittenden" />
+    <tag k="addr:housenumber" v="2164" />
+    <tag k="addr:street" v="Sangamon Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="772490" />
+  </node>
+  <node id="-889" visible="true" lat="43.69117661" lon="-72.95532248">
+    <tag k="addr:city" v="Chittenden" />
+    <tag k="addr:housenumber" v="2162" />
+    <tag k="addr:street" v="Sangamon Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="772491" />
+  </node>
+  <node id="-890" visible="true" lat="43.79767679" lon="-72.9989962">
     <tag k="addr:city" v="Chittenden" />
     <tag k="addr:housenumber" v="40" />
     <tag k="addr:street" v="Lead Mine Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="900532" />
   </node>
-  <node id="-887" visible="true" lat="43.82515027" lon="-72.90952033">
+  <node id="-892" visible="true" lat="43.82515027" lon="-72.90952033">
     <tag k="addr:city" v="Chittenden" />
     <tag k="addr:housenumber" v="72" />
     <tag k="addr:street" v="National Forest Road 45a" />

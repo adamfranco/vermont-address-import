@@ -1,73 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-542" visible="true" lat="44.25815319" lon="-72.7876072">
-    <!-- conflict: "804 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "804 Vt Route 100, Duxbury, VT" -->
-    <tag k="addr:housenumber" v="804"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-332" visible="true" lat="44.31332295" lon="-72.84922935">
+    <!-- conflict: "185 Beaver Meadow Road, , VT" No match in OSM, but a different address exists <5m away: "3425 Camels Hump Road, , VT" -->
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="90395"/>
+    <tag k="ref:vcgi:esiteid" v="90179"/>
   </node>
-  <node id="-549" visible="true" lat="44.25684738" lon="-72.78765869">
-    <!-- conflict: "702 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "702 Vt Route 100, Duxbury, VT" -->
-    <tag k="addr:housenumber" v="702"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
+  <node id="-845" visible="true" lat="44.28738998" lon="-72.77808102">
+    <!-- conflict: "62 Fox Run Drive, , VT" No match in OSM, but a different address exists <5m away: "75 Lavanway Road, , VT" -->
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Fox Run Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="90402"/>
-  </node>
-  <node id="-557" visible="true" lat="44.25619506" lon="-72.78987884">
-    <!-- conflict: "701 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "701 Vt Route 100, Duxbury, VT" -->
-    <tag k="addr:housenumber" v="701"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="90410"/>
-  </node>
-  <node id="-571" visible="true" lat="44.25324967" lon="-72.78844557">
-    <!-- conflict: "471 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "471 Vt Route 100, Duxbury, VT" -->
-    <tag k="addr:housenumber" v="471"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="90424"/>
-  </node>
-  <node id="-572" visible="true" lat="44.25302606" lon="-72.7850908">
-    <!-- conflict: "456 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "456 Vt Route 100, Duxbury, VT" -->
-    <tag k="addr:housenumber" v="456"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="90425"/>
-  </node>
-  <node id="-575" visible="true" lat="44.25301002" lon="-72.78837752">
-    <!-- conflict: "459 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "459 State Route 100, Duxbury, VT" -->
-    <tag k="addr:housenumber" v="459"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="90428"/>
-  </node>
-  <node id="-695" visible="true" lat="44.27829206" lon="-72.77052446">
-    <!-- conflict: "1421 Stevens Brook Road, , VT" No match in OSM, but a different address exists <5m away: "1437 Stevens Brook Road, Moretown, VT" -->
-    <tag k="addr:housenumber" v="1421"/>
-    <tag k="addr:street" v="Stevens Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167336"/>
-  </node>
-  <node id="-751" visible="true" lat="44.25765536" lon="-72.78785445">
-    <!-- conflict: "800 Vermont Route 100, , VT" No match in OSM, but a different address exists <5m away: "800 Vt Route 100, Duxbury, VT" -->
-    <tag k="addr:housenumber" v="800"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451061"/>
-  </node>
-  <node id="-773" visible="true" lat="44.32401926" lon="-72.7501059">
-    <!-- conflict: "38 State Farm Road, , VT" Fuzzy match to "38 State Farm Rd, Waterbury, VT" -->
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="State Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="455049"/>
-  </node>
-  <node id="-801" visible="true" lat="44.28269765" lon="-72.77992785">
-    <!-- conflict: "89 Taylor Road, , VT" No match in OSM, but a different address exists <5m away: "89 Wilder Road, Duxbury, VT" -->
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Taylor Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617033"/>
+    <tag k="ref:vcgi:esiteid" v="758124"/>
   </node>
 </osm>

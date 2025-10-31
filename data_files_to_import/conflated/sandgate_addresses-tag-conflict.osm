@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-207" visible="true" lat="43.16289954" lon="-73.24055361">
-    <!-- conflict: "2590 West Sandgate Road, Sandgate, VT" No match in OSM, but a different address exists <5m away: "2596 West Sandgate Road, Sandgate, VT" -->
-    <tag k="addr:city" v="Sandgate"/>
-    <tag k="addr:housenumber" v="2590"/>
-    <tag k="addr:street" v="West Sandgate Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217054"/>
-  </node>
-  <node id="-360" visible="true" lat="43.12512238" lon="-73.25696986">
-    <!-- conflict: "1337 Chunks Brook Road, Sandgate, VT" No match in OSM, but a different address exists <5m away: "1345 Chunks Brook Road, Sandgate, VT" -->
-    <tag k="addr:city" v="Sandgate"/>
-    <tag k="addr:housenumber" v="1337"/>
-    <tag k="addr:street" v="Chunks Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="217214"/>
-  </node>
   <node id="-438" visible="true" lat="43.18876987" lon="-73.13228912">
     <!-- conflict: "7920 Sandgate Road, Sandgate, VT" Fuzzy match to "7920 Sandgate Road, Manchester, VT" -->
     <tag k="addr:city" v="Sandgate"/>

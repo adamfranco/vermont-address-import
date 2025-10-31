@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="44.27513661" lon="-73.13176909">
+    <!-- multiple: "3373 Baldwin Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3373"/>
+    <tag k="addr:street" v="Baldwin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="129686"/>
+  </node>
+  <node id="-253" visible="true" lat="44.25550472" lon="-73.11149499">
+    <!-- multiple: "3747 States Prison Hollow Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3747"/>
+    <tag k="addr:street" v="States Prison Hollow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="162742"/>
+  </node>
   <node id="-400" visible="true" lat="44.24387693" lon="-73.1210432">
     <!-- multiple: "654 Bristol Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="654"/>
     <tag k="addr:street" v="Bristol Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162896"/>
-  </node>
-  <node id="-496" visible="true" lat="44.23074722" lon="-73.14876556">
-    <!-- multiple: "1825 Monkton Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1825"/>
-    <tag k="addr:street" v="Monkton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="162994"/>
-  </node>
-  <node id="-591" visible="true" lat="44.20877637" lon="-73.11771826">
-    <!-- multiple: "162 Hardscrabble Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="162"/>
-    <tag k="addr:street" v="Hardscrabble Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="163089"/>
-  </node>
-  <node id="-592" visible="true" lat="44.20842997" lon="-73.11531802">
-    <!-- multiple: "29 Hardscrabble Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Hardscrabble Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="163090"/>
   </node>
   <node id="-698" visible="true" lat="44.18716861" lon="-73.11991941">
     <!-- multiple: "1915 Hardscrabble Road, , VT" Multiple exact matches in OSM. -->
@@ -35,11 +28,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163197"/>
   </node>
-  <node id="-733" visible="true" lat="44.2436817" lon="-73.13771623">
-    <!-- multiple: "953 Monkton Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="953"/>
-    <tag k="addr:street" v="Monkton Road"/>
+  <node id="-707" visible="true" lat="44.18503864" lon="-73.10673908">
+    <!-- multiple: "4818 Bristol Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="4818"/>
+    <tag k="addr:street" v="Bristol Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="163232"/>
+    <tag k="ref:vcgi:esiteid" v="163206"/>
   </node>
 </osm>

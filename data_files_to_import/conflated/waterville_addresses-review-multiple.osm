@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-362" visible="true" lat="44.69031484" lon="-72.77072091">
+  <node id="-144" visible="true" lat="44.72685455" lon="-72.74841009">
+    <!-- multiple: "3414 Vermont Route 109, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3414"/>
+    <tag k="addr:street" v="Vermont Route 109"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276044"/>
+  </node>
+  <node id="-361" visible="true" lat="44.69031484" lon="-72.77072091">
     <!-- multiple: "64 Church Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="64"/>
     <tag k="addr:street" v="Church Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="276265"/>
   </node>
-  <node id="-422" visible="true" lat="44.73667004" lon="-72.74433435">
+  <node id="-421" visible="true" lat="44.73667004" lon="-72.74433435">
     <!-- multiple: "4101 Vermont Route 109, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="4101"/>
     <tag k="addr:street" v="Vermont Route 109"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315912"/>
+  </node>
+  <node id="-473" visible="true" lat="44.7483015" lon="-72.74411962">
+    <!-- multiple: "335 Florences Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="335"/>
+    <tag k="addr:street" v="Florences Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768945"/>
   </node>
 </osm>

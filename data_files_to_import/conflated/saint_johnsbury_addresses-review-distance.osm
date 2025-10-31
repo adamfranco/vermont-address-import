@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-426" visible="true" lat="44.46054116" lon="-72.01363305">
+  <node id="-427" visible="true" lat="44.46054116" lon="-72.01363305">
     <!-- offset: "2000 Memorial Drive, , VT" Significant offset - 112.1m -->
     <tag k="addr:housenumber" v="2000"/>
     <tag k="addr:street" v="Memorial Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244580"/>
   </node>
-  <node id="-552" visible="true" lat="44.45383523" lon="-72.01476516">
+  <node id="-553" visible="true" lat="44.45383523" lon="-72.01476516">
     <!-- offset: "81 Hill Street, , VT" Significant offset - 8860.1m -->
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:street" v="Hill Street"/>
@@ -28,32 +28,39 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245452"/>
   </node>
-  <node id="-2285" visible="true" lat="44.41650764" lon="-72.02485079">
-    <!-- offset: "257 Western Avenue, , VT" Significant offset - 102.6m -->
-    <tag k="addr:housenumber" v="257"/>
-    <tag k="addr:street" v="Western Avenue"/>
+  <node id="-2068" visible="true" lat="44.41901726" lon="-72.02528095">
+    <!-- offset: "177 Highland Avenue, , VT" Significant offset - 9027.8m -->
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Highland Avenue"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="246658"/>
+    <tag k="ref:vcgi:esiteid" v="246404"/>
   </node>
-  <node id="-2741" visible="true" lat="44.41656136" lon="-72.01933564">
-    <!-- offset: "1000 Main Street, , VT" Significant offset - 285.2m -->
-    <tag k="addr:housenumber" v="1000"/>
-    <tag k="addr:street" v="Main Street"/>
+  <node id="-2833" visible="true" lat="44.50428693" lon="-72.04906868">
+    <!-- offset: "956 Libby Road, , VT" Significant offset - 106.3m -->
+    <tag k="addr:housenumber" v="956"/>
+    <tag k="addr:street" v="Libby Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="247170"/>
+    <tag k="ref:vcgi:esiteid" v="247299"/>
   </node>
-  <node id="-2742" visible="true" lat="44.41622707" lon="-72.01930016">
-    <!-- offset: "1000 Main Street, , VT" Significant offset - 257.7m -->
-    <tag k="addr:housenumber" v="1000"/>
-    <tag k="addr:street" v="Main Street"/>
+  <node id="-3046" visible="true" lat="44.4181283" lon="-71.97920733">
+    <!-- offset: "714 Higgins Hill Road, , VT" Significant offset - 129.3m -->
+    <tag k="addr:housenumber" v="714"/>
+    <tag k="addr:street" v="Higgins Hill Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="247171"/>
+    <tag k="ref:vcgi:esiteid" v="445379"/>
   </node>
-  <node id="-3080" visible="true" lat="44.43153776" lon="-71.9614525">
-    <!-- offset: "100 U.S. Route 2 East, , VT" Significant offset - 116.8m -->
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="U.S. Route 2 East"/>
+  <node id="-3079" visible="true" lat="44.41840495" lon="-71.97700729">
+    <!-- offset: "808 Higgins Hill Road, , VT" Significant offset - 1064.7m -->
+    <tag k="addr:housenumber" v="808"/>
+    <tag k="addr:street" v="Higgins Hill Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617688"/>
+    <tag k="ref:vcgi:esiteid" v="616580"/>
+  </node>
+  <node id="-3102" visible="true" lat="44.47784639" lon="-72.06859213">
+    <!-- offset: "745 Rabbit Plain, , VT" Significant offset - 437.7m -->
+    <tag k="addr:housenumber" v="745"/>
+    <tag k="addr:street" v="Rabbit Plain"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617988"/>
   </node>
 </osm>

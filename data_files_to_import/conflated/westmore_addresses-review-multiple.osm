@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-561" visible="true" lat="44.73586069" lon="-71.97401162">
+    <!-- multiple: "927 Bald Hill Pond Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="927"/>
+    <tag k="addr:street" v="Bald Hill Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284468"/>
+  </node>
+  <node id="-690" visible="true" lat="44.7619334" lon="-72.10237587">
+    <!-- multiple: "1323 Cook Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1323"/>
+    <tag k="addr:street" v="Cook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612436"/>
+  </node>
 </osm>

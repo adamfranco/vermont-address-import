@@ -14,12 +14,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295599"/>
   </node>
-  <node id="-423" visible="true" lat="43.48313941" lon="-72.38348621">
-    <!-- offset: "6 Everett Lane, , VT" Significant offset - 127.9m -->
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Everett Lane"/>
+  <node id="-381" visible="true" lat="43.48457336" lon="-72.39940643">
+    <!-- offset: "64 County Road, , VT" Significant offset - 5922.1m -->
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="County Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="295719"/>
+    <tag k="ref:vcgi:esiteid" v="295669"/>
   </node>
   <node id="-663" visible="true" lat="43.47793228" lon="-72.38449995">
     <!-- offset: "26 River Street, , VT" Significant offset - 209.9m -->
@@ -27,5 +27,12 @@
     <tag k="addr:street" v="River Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295994"/>
+  </node>
+  <node id="-1602" visible="true" lat="43.44002698" lon="-72.45263888">
+    <!-- offset: "3800 Mount Ascutney State Park Road, , VT" Significant offset - 441m -->
+    <tag k="addr:housenumber" v="3800"/>
+    <tag k="addr:street" v="Mount Ascutney State Park Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="700195"/>
   </node>
 </osm>

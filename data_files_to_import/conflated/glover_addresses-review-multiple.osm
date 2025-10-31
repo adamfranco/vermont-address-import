@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-102" visible="true" lat="44.73452377" lon="-72.23365783">
+    <!-- multiple: "569 Stevens Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="569"/>
+    <tag k="addr:street" v="Stevens Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111718"/>
+  </node>
+  <node id="-298" visible="true" lat="44.70704585" lon="-72.18816375">
+    <!-- multiple: "51 Bean Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Bean Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111916"/>
+  </node>
+  <node id="-316" visible="true" lat="44.70636759" lon="-72.18756007">
+    <!-- multiple: "2972 Glover Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2972"/>
+    <tag k="addr:street" v="Glover Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="111934"/>
+  </node>
   <node id="-318" visible="true" lat="44.70593763" lon="-72.18946641">
     <!-- multiple: "100 School Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="100"/>
@@ -7,18 +28,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111936"/>
   </node>
-  <node id="-337" visible="true" lat="44.70514414" lon="-72.18857942">
-    <!-- multiple: "3074 Glover Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="3074"/>
-    <tag k="addr:street" v="Glover Street"/>
+  <node id="-870" visible="true" lat="44.7358911" lon="-72.24361859">
+    <!-- multiple: "911 Stevens Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="911"/>
+    <tag k="addr:street" v="Stevens Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111956"/>
-  </node>
-  <node id="-340" visible="true" lat="44.70497064" lon="-72.1888805">
-    <!-- multiple: "3086 Glover Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="3086"/>
-    <tag k="addr:street" v="Glover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111959"/>
+    <tag k="ref:vcgi:esiteid" v="343434"/>
   </node>
 </osm>

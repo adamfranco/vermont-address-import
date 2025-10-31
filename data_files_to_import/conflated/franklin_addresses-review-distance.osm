@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-153" visible="true" lat="45.00042922" lon="-72.89034793">
+    <!-- offset: "1849 Middle Road, , VT" Significant offset - 151.4m -->
+    <tag k="addr:housenumber" v="1849"/>
+    <tag k="addr:street" v="Middle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="109060"/>
+  </node>
+  <node id="-1033" visible="true" lat="44.97818775" lon="-72.98356533">
+    <!-- offset: "1042 Bouchard Road, , VT" Significant offset - 284.9m -->
+    <tag k="addr:housenumber" v="1042"/>
+    <tag k="addr:street" v="Bouchard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752332"/>
+  </node>
 </osm>

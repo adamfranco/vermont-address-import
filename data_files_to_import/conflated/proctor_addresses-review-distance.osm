@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-277" visible="true" lat="43.66408795" lon="-73.03634894">
-    <!-- offset: "54 Main Street, , VT" Significant offset - 136.3m -->
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Main Street"/>
+  <node id="-197" visible="true" lat="43.6670189" lon="-73.0382515">
+    <!-- offset: "89 North Street, , VT" Significant offset - 7054.1m -->
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="North Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="194347"/>
+    <tag k="ref:vcgi:esiteid" v="194255"/>
   </node>
-  <node id="-623" visible="true" lat="43.65482163" lon="-73.02262873">
-    <!-- offset: "66 Tower Road, , VT" Significant offset - 111.5m -->
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:street" v="Tower Road"/>
+  <node id="-203" visible="true" lat="43.66647176" lon="-73.03818142">
+    <!-- offset: "79 North Street, , VT" Significant offset - 7048.2m -->
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="North Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="194734"/>
+    <tag k="ref:vcgi:esiteid" v="194262"/>
+  </node>
+  <node id="-333" visible="true" lat="43.66211321" lon="-73.04152134">
+    <!-- offset: "9 North Street, , VT" Significant offset - 7231.3m -->
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="194408"/>
   </node>
   <node id="-635" visible="true" lat="43.65500338" lon="-73.02921587">
     <!-- offset: "4 Park Street, , VT" Significant offset - 100.6m -->
@@ -20,5 +27,47 @@
     <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="194746"/>
+  </node>
+  <node id="-705" visible="true" lat="43.65062753" lon="-73.03306449">
+    <!-- offset: "133 South Street, , VT" Significant offset - 6795.4m -->
+    <tag k="addr:housenumber" v="133"/>
+    <tag k="addr:street" v="South Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="194823"/>
+  </node>
+  <node id="-711" visible="true" lat="43.650302" lon="-73.03302144">
+    <!-- offset: "137 South Street, , VT" Significant offset - 6750.7m -->
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:street" v="South Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="194830"/>
+  </node>
+  <node id="-745" visible="true" lat="43.63618342" lon="-73.03455065">
+    <!-- offset: "245 Vermont Route 3, , VT" Significant offset - 1631.3m -->
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Vermont Route 3"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="194867"/>
+  </node>
+  <node id="-746" visible="true" lat="43.63612658" lon="-73.03262705">
+    <!-- offset: "192 Vermont Route 3, , VT" Significant offset - 7126.9m -->
+    <tag k="addr:housenumber" v="192"/>
+    <tag k="addr:street" v="Vermont Route 3"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="194868"/>
+  </node>
+  <node id="-793" visible="true" lat="43.67427473" lon="-73.0397615">
+    <!-- offset: "88 Gorham Bridge Road, , VT" Significant offset - 911.9m -->
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Gorham Bridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313640"/>
+  </node>
+  <node id="-870" visible="true" lat="43.6513506" lon="-73.03131962">
+    <!-- offset: "77 Park Street, , VT" Significant offset - 7586.3m -->
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313717"/>
   </node>
 </osm>

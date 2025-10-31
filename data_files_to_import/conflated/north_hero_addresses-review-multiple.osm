@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-379" visible="true" lat="44.86347407" lon="-73.26218354">
+    <!-- multiple: "7444 U.S. Route 2, North Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="7444"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179159"/>
+  </node>
   <node id="-429" visible="true" lat="44.85087585" lon="-73.26338958">
     <!-- multiple: "6441 U.S. Route 2, North Hero, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="North Hero"/>
@@ -7,5 +15,13 @@
     <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="179220"/>
+  </node>
+  <node id="-1019" visible="true" lat="44.82585273" lon="-73.28926153">
+    <!-- multiple: "303 Savage Point Road, North Hero, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="North Hero"/>
+    <tag k="addr:housenumber" v="303"/>
+    <tag k="addr:street" v="Savage Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="179874"/>
   </node>
 </osm>

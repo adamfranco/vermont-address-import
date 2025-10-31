@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-396" visible="true" lat="44.12965011" lon="-72.42822265">
-    <!-- multiple: "333 Tucker Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="333"/>
-    <tag k="addr:street" v="Tucker Road"/>
+  <node id="-103" visible="true" lat="44.09436461" lon="-72.33962055">
+    <!-- multiple: "4470 East Orange Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="4470"/>
+    <tag k="addr:street" v="East Orange Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183839"/>
+    <tag k="ref:vcgi:esiteid" v="81"/>
   </node>
-  <node id="-397" visible="true" lat="44.12942886" lon="-72.43041992">
-    <!-- multiple: "285 Vermont Route 110, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="285"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
+  <node id="-236" visible="true" lat="44.1490322" lon="-72.40360053">
+    <!-- multiple: "357 U.S. Route 302, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="357"/>
+    <tag k="addr:street" v="U.S. Route 302"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183840"/>
+    <tag k="ref:vcgi:esiteid" v="183676"/>
+  </node>
+  <node id="-527" visible="true" lat="44.15146689" lon="-72.40081115">
+    <!-- multiple: "6 Morris Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Morris Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="183973"/>
+  </node>
+  <node id="-582" visible="true" lat="44.15957496" lon="-72.31193843">
+    <!-- multiple: "159 U.S. Route 302, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="159"/>
+    <tag k="addr:street" v="U.S. Route 302"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260852"/>
   </node>
 </osm>

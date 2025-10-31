@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-195" visible="true" lat="43.4481697" lon="-73.0502243">
+    <!-- multiple: "9 Mountain View Road, Tinmouth, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Tinmouth"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260014"/>
+  </node>
 </osm>

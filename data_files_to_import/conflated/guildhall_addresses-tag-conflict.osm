@@ -1,19 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-163" visible="true" lat="44.56494987" lon="-71.56005794">
-    <!-- conflict: "7218 Vermont Route 102, Guildhall, VT" No match in OSM, but a different address exists <5m away: "7218 State Route 102, Guildhall, VT" -->
-    <tag k="addr:city" v="Guildhall"/>
-    <tag k="addr:housenumber" v="7218"/>
-    <tag k="addr:street" v="Vermont Route 102"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="116678"/>
-  </node>
-  <node id="-282" visible="true" lat="44.55310154" lon="-71.65892985">
-    <!-- conflict: "470 North Lamotte Road, Guildhall, VT" No match in OSM, but a different address exists <5m away: "3943 Lamotte Road, Guildhall, VT" -->
-    <tag k="addr:city" v="Guildhall"/>
-    <tag k="addr:housenumber" v="470"/>
-    <tag k="addr:street" v="North Lamotte Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343925"/>
-  </node>
 </osm>

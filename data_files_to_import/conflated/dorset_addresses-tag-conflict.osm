@@ -1,24 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-181" visible="true" lat="43.2804284" lon="-73.12130984">
-    <!-- conflict: "246 Danforth Drive, , VT" No match in OSM, but a different address exists <5m away: "652 Danforth Drive, Dorset, VT" -->
-    <tag k="addr:housenumber" v="246"/>
-    <tag k="addr:street" v="Danforth Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="84267"/>
-  </node>
-  <node id="-514" visible="true" lat="43.25460273" lon="-73.09888226">
-    <!-- conflict: "13 Church Street, , VT" No match in OSM, but a different address exists <5m away: "3331 State Route 30, Dorset, VT" -->
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="84619"/>
-  </node>
-  <node id="-1325" visible="true" lat="43.2133461" lon="-73.06817423">
-    <!-- conflict: "69 Vermont Route 30, , VT" No match in OSM, but a different address exists <5m away: "69 VT Route 30, Dorset, VT" -->
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Vermont Route 30"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="85480"/>
-  </node>
 </osm>

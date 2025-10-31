@@ -1,35 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-257" visible="true" lat="44.75206424" lon="-72.66738978">
-    <!-- conflict: "1120 Bog Road, Belvidere, VT" No match in OSM, but a different address exists <5m away: "2020 Bog Road, Belvidere, VT" -->
-    <tag k="addr:city" v="Belvidere"/>
-    <tag k="addr:housenumber" v="1120"/>
-    <tag k="addr:street" v="Bog Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="15930"/>
-  </node>
-  <node id="-296" visible="true" lat="44.75107534" lon="-72.66259479">
-    <!-- conflict: "1350 Bog Road, Belvidere, VT" No match in OSM, but a different address exists <5m away: " Bog Road, Belvidere, VT" -->
-    <tag k="addr:city" v="Belvidere"/>
-    <tag k="addr:housenumber" v="1350"/>
-    <tag k="addr:street" v="Bog Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="316115"/>
-  </node>
-  <node id="-297" visible="true" lat="44.74498632" lon="-72.70964491">
-    <!-- conflict: "4960 Vermont Route 109, Belvidere, VT" No match in OSM, but a different address exists <5m away: "373 Lost Meadows Road, Belvidere, VT" -->
-    <tag k="addr:city" v="Belvidere"/>
-    <tag k="addr:housenumber" v="4960"/>
-    <tag k="addr:street" v="Vermont Route 109"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="329300"/>
-  </node>
-  <node id="-323" visible="true" lat="44.75041126" lon="-72.66706785">
-    <!-- conflict: "1122 Bog Road, Belvidere, VT" No match in OSM, but a different address exists <5m away: "2022 Bog Road, Belvidere, VT" -->
-    <tag k="addr:city" v="Belvidere"/>
-    <tag k="addr:housenumber" v="1122"/>
-    <tag k="addr:street" v="Bog Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452760"/>
-  </node>
 </osm>

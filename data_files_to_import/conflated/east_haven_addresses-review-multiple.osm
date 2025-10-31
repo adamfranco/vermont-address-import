@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-193" visible="true" lat="44.64492924" lon="-71.8906622">
+    <!-- multiple: "472 School Street, East Haven, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="East Haven"/>
+    <tag k="addr:housenumber" v="472"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="90643"/>
+  </node>
 </osm>

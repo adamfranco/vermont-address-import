@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-198" visible="true" lat="44.27723312" lon="-72.42253112">
-    <!-- multiple: "30 Creamery Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Creamery Street"/>
+  <node id="-149" visible="true" lat="44.27860769" lon="-72.42463591">
+    <!-- multiple: "61 School Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="School Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="188966"/>
+    <tag k="ref:vcgi:esiteid" v="188907"/>
+  </node>
+  <node id="-178" visible="true" lat="44.27781588" lon="-72.42440441">
+    <!-- multiple: "69 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="188941"/>
+  </node>
+  <node id="-672" visible="true" lat="44.21769548" lon="-72.40564151">
+    <!-- multiple: "415 Maxfield Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="415"/>
+    <tag k="addr:street" v="Maxfield Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341860"/>
+  </node>
+  <node id="-703" visible="true" lat="44.27782998" lon="-72.41861583">
+    <!-- multiple: "355 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753587"/>
+  </node>
+  <node id="-713" visible="true" lat="44.22832178" lon="-72.43401441">
+    <!-- multiple: "910 Gonyeau Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="910"/>
+    <tag k="addr:street" v="Gonyeau Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757296"/>
   </node>
 </osm>

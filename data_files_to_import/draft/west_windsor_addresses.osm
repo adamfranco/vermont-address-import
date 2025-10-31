@@ -962,7 +962,7 @@
   </node>
   <node id="-260" visible="true" lat="43.49123763" lon="-72.48717498">
     <tag k="addr:housenumber" v="663" />
-    <tag k="addr:street" v="South Knob Hill Road" />
+    <tag k="addr:street" v="Knob Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="280339" />
   </node>
@@ -984,7 +984,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="280342" />
   </node>
-  <node id="-264" visible="true" lat="43.49027633" lon="-72.4751892">
+  <node id="-264" visible="true" lat="43.49027461" lon="-72.4751871">
     <tag k="addr:housenumber" v="1585" />
     <tag k="addr:street" v="Brownsville-Hartland Road" />
     <tag k="addr:state" v="VT" />
@@ -1482,7 +1482,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="280427" />
   </node>
-  <node id="-348" visible="true" lat="43.48019027" lon="-72.47318267">
+  <node id="-348" visible="true" lat="43.48019903" lon="-72.47309271">
     <tag k="addr:housenumber" v="868" />
     <tag k="addr:street" v="Brownsville-Hartland Road" />
     <tag k="addr:state" v="VT" />
@@ -2076,7 +2076,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="280530" />
   </node>
-  <node id="-447" visible="true" lat="43.46856115" lon="-72.52883102">
+  <node id="-447" visible="true" lat="43.46843257" lon="-72.52878518">
     <tag k="addr:housenumber" v="4969" />
     <tag k="addr:street" v="Vermont Route 44" />
     <tag k="addr:state" v="VT" />
@@ -2550,7 +2550,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="280617" />
   </node>
-  <node id="-526" visible="true" lat="43.46445846" lon="-72.47482299">
+  <node id="-526" visible="true" lat="43.46444655" lon="-72.47478213">
     <tag k="addr:housenumber" v="1269" />
     <tag k="addr:street" v="Vermont Route 44" />
     <tag k="addr:state" v="VT" />
@@ -4326,7 +4326,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="317520" />
   </node>
-  <node id="-822" visible="true" lat="43.47001826" lon="-72.52921119">
+  <node id="-822" visible="true" lat="43.47006587" lon="-72.52927661">
     <tag k="addr:housenumber" v="5000" />
     <tag k="addr:street" v="Vermont Route 44" />
     <tag k="addr:state" v="VT" />
@@ -4530,6 +4530,12 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="617915" />
   </node>
+  <node id="-873" visible="true" lat="43.52746385" lon="-72.48817693">
+    <tag k="addr:housenumber" v="2292" />
+    <tag k="addr:street" v="Blood Hill Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="618256" />
+  </node>
   <node id="-891" visible="true" lat="43.49194671" lon="-72.49649483">
     <tag k="addr:housenumber" v="1410" />
     <tag k="addr:street" v="Sheddsville Road" />
@@ -4596,7 +4602,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="752100" />
   </node>
-  <node id="-907" visible="true" lat="43.45597566" lon="-72.52097469">
+  <node id="-907" visible="true" lat="43.45585662" lon="-72.52100118">
     <tag k="addr:housenumber" v="94" />
     <tag k="addr:street" v="Churchill Road" />
     <tag k="addr:state" v="VT" />
@@ -4668,7 +4674,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="758186" />
   </node>
-  <node id="-919" visible="true" lat="43.4607639" lon="-72.47528346">
+  <node id="-919" visible="true" lat="43.46076217" lon="-72.47528135">
     <tag k="addr:housenumber" v="102" />
     <tag k="addr:street" v="Mountainside Drive" />
     <tag k="addr:state" v="VT" />
@@ -4728,13 +4734,13 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="761944" />
   </node>
-  <node id="-929" visible="true" lat="43.46262331" lon="-72.47011574">
+  <node id="-929" visible="true" lat="43.46262159" lon="-72.47011363">
     <tag k="addr:housenumber" v="119" />
     <tag k="addr:street" v="Skyhawk Lane" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="762388" />
   </node>
-  <node id="-930" visible="true" lat="43.51344522" lon="-72.5005175">
+  <node id="-930" visible="true" lat="43.5133543" lon="-72.50026909">
     <tag k="addr:housenumber" v="904" />
     <tag k="addr:street" v="Bryant Road" />
     <tag k="addr:state" v="VT" />
@@ -4788,31 +4794,61 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="767280" />
   </node>
-  <node id="-939" visible="true" lat="43.47432444" lon="-72.52135669">
+  <node id="-939" visible="true" lat="43.4573572" lon="-72.47082687">
+    <tag k="addr:housenumber" v="992" />
+    <tag k="addr:street" v="Ski Tow Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="771309" />
+  </node>
+  <node id="-940" visible="true" lat="43.45210636" lon="-72.51815953">
+    <tag k="addr:housenumber" v="388" />
+    <tag k="addr:street" v="Churchill Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="771573" />
+  </node>
+  <node id="-941" visible="true" lat="43.48126727" lon="-72.47360656">
+    <tag k="addr:housenumber" v="894" />
+    <tag k="addr:street" v="Brownsville-Hartland Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="772086" />
+  </node>
+  <node id="-942" visible="true" lat="43.51445704" lon="-72.50251511">
+    <tag k="addr:housenumber" v="955" />
+    <tag k="addr:street" v="Bryant Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="772141" />
+  </node>
+  <node id="-943" visible="true" lat="43.48754766" lon="-72.5090887">
+    <tag k="addr:housenumber" v="733" />
+    <tag k="addr:street" v="Banister Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="772177" />
+  </node>
+  <node id="-944" visible="true" lat="43.47432444" lon="-72.52135669">
     <tag k="addr:housenumber" v="511" />
     <tag k="addr:street" v="Shattuck Hill Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="800011" />
   </node>
-  <node id="-940" visible="true" lat="43.45296634" lon="-72.49967841">
+  <node id="-945" visible="true" lat="43.45296634" lon="-72.49967841">
     <tag k="addr:housenumber" v="2883" />
     <tag k="addr:street" v="Vermont Route 44" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050370" />
   </node>
-  <node id="-941" visible="true" lat="43.4686395" lon="-72.52708817">
+  <node id="-946" visible="true" lat="43.4686395" lon="-72.52708817">
     <tag k="addr:housenumber" v="4898" />
     <tag k="addr:street" v="Vermont Route 44" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050371" />
   </node>
-  <node id="-942" visible="true" lat="43.46445206" lon="-72.46652">
+  <node id="-947" visible="true" lat="43.46445206" lon="-72.46652">
     <tag k="addr:housenumber" v="436" />
     <tag k="addr:street" v="Ski Tow Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050373" />
   </node>
-  <node id="-943" visible="true" lat="43.47000417" lon="-72.47100461">
+  <node id="-948" visible="true" lat="43.47000417" lon="-72.47100461">
     <tag k="addr:housenumber" v="144" />
     <tag k="addr:street" v="Brownsville-Hartland Road" />
     <tag k="addr:state" v="VT" />

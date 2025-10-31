@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-114" visible="true" lat="44.83507841" lon="-72.71525019">
+    <!-- multiple: "722 Enosburg Mountain Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="722"/>
+    <tag k="addr:street" v="Enosburg Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="5226"/>
+  </node>
   <node id="-319" visible="true" lat="44.78828811" lon="-72.79940796">
     <!-- multiple: "446 Main Street North, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="446"/>
@@ -13,5 +20,47 @@
     <tag k="addr:street" v="Academy Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="5497"/>
+  </node>
+  <node id="-397" visible="true" lat="44.78261749" lon="-72.80168391">
+    <!-- multiple: "31 Main Street North, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Main Street North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="5524"/>
+  </node>
+  <node id="-579" visible="true" lat="44.76239198" lon="-72.85356363">
+    <!-- multiple: "145 Lost Nation Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Lost Nation Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="5721"/>
+  </node>
+  <node id="-580" visible="true" lat="44.76036451" lon="-72.85431194">
+    <!-- multiple: "355 Lost Nation Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:street" v="Lost Nation Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="5722"/>
+  </node>
+  <node id="-641" visible="true" lat="44.76357662" lon="-72.85311626">
+    <!-- multiple: "95 Lost Nation Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Lost Nation Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="5791"/>
+  </node>
+  <node id="-725" visible="true" lat="44.83770017" lon="-72.70249799">
+    <!-- multiple: "1408 Enosburg Mountain Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1408"/>
+    <tag k="addr:street" v="Enosburg Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338535"/>
+  </node>
+  <node id="-1060" visible="true" lat="44.83722329" lon="-72.76376227">
+    <!-- multiple: "2850 Witchcat Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2850"/>
+    <tag k="addr:street" v="Witchcat Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="619715"/>
   </node>
 </osm>

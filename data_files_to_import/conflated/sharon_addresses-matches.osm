@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="43.78179401" lon="-72.46755761">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Shippee Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="271"/>
+  </node>
+  <node id="-102" visible="true" lat="43.75366567" lon="-72.51783532">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Leonard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="190214"/>
+  </node>
   <node id="-103" visible="true" lat="43.75517848" lon="-72.51914135">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="2826"/>
     <tag k="addr:street" v="Allen Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219108"/>
+  </node>
+  <node id="-104" visible="true" lat="43.82323826" lon="-72.4723944">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="397"/>
+    <tag k="addr:street" v="LDS Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219109"/>
+  </node>
+  <node id="-105" visible="true" lat="43.82271019" lon="-72.47206731">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="402"/>
+    <tag k="addr:street" v="LDS Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219110"/>
   </node>
   <node id="-106" visible="true" lat="43.82990115" lon="-72.43475521">
     <tag k="addr:city" v="Sharon"/>
@@ -55,6 +83,13 @@
     <tag k="addr:street" v="Clifford Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219117"/>
+  </node>
+  <node id="-113" visible="true" lat="43.82718063" lon="-72.45803011">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1706"/>
+    <tag k="addr:street" v="Clifford Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219118"/>
   </node>
   <node id="-114" visible="true" lat="43.8270914" lon="-72.41427837">
     <tag k="addr:city" v="Sharon"/>
@@ -189,6 +224,27 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219140"/>
   </node>
+  <node id="-133" visible="true" lat="43.81896039" lon="-72.40502604">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Aldrich Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219142"/>
+  </node>
+  <node id="-134" visible="true" lat="43.81881021" lon="-72.42189447">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="576"/>
+    <tag k="addr:street" v="High Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219143"/>
+  </node>
+  <node id="-136" visible="true" lat="43.81877956" lon="-72.42529049">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="197"/>
+    <tag k="addr:street" v="Standing Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219146"/>
+  </node>
   <node id="-137" visible="true" lat="43.81870026" lon="-72.42400039">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="89"/>
@@ -203,12 +259,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219148"/>
   </node>
+  <node id="-139" visible="true" lat="43.81822866" lon="-72.42259753">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="626"/>
+    <tag k="addr:street" v="High Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219150"/>
+  </node>
+  <node id="-140" visible="true" lat="43.81821758" lon="-72.42203123">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="619"/>
+    <tag k="addr:street" v="High Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219152"/>
+  </node>
   <node id="-141" visible="true" lat="43.81770492" lon="-72.42364443">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="Standing Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219153"/>
+  </node>
+  <node id="-142" visible="true" lat="43.8176725" lon="-72.42261574">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="663"/>
+    <tag k="addr:street" v="High Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219154"/>
   </node>
   <node id="-143" visible="true" lat="43.81732518" lon="-72.42326268">
     <tag k="addr:city" v="Sharon"/>
@@ -224,12 +301,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219156"/>
   </node>
+  <node id="-145" visible="true" lat="43.81666416" lon="-72.423806">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="756"/>
+    <tag k="addr:street" v="High Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219157"/>
+  </node>
   <node id="-146" visible="true" lat="43.81647875" lon="-72.41308899">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="3627"/>
     <tag k="addr:street" v="Route 132"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219158"/>
+  </node>
+  <node id="-147" visible="true" lat="43.81619379" lon="-72.42424978">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:street" v="High Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219159"/>
   </node>
   <node id="-148" visible="true" lat="43.81589626" lon="-72.41519689">
     <tag k="addr:city" v="Sharon"/>
@@ -244,6 +335,13 @@
     <tag k="addr:street" v="Downer Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219161"/>
+  </node>
+  <node id="-150" visible="true" lat="43.8157129" lon="-72.42496932">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="848"/>
+    <tag k="addr:street" v="High Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219162"/>
   </node>
   <node id="-151" visible="true" lat="43.81531632" lon="-72.45370702">
     <tag k="addr:city" v="Sharon"/>
@@ -266,6 +364,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219165"/>
   </node>
+  <node id="-154" visible="true" lat="43.81476833" lon="-72.40979864">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="Cowslip Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219166"/>
+  </node>
   <node id="-155" visible="true" lat="43.81466243" lon="-72.37076371">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="2900"/>
@@ -279,6 +384,13 @@
     <tag k="addr:street" v="Downer Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219168"/>
+  </node>
+  <node id="-157" visible="true" lat="43.81457425" lon="-72.39367668">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Treeline Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219169"/>
   </node>
   <node id="-158" visible="true" lat="43.81420911" lon="-72.4426139">
     <tag k="addr:city" v="Sharon"/>
@@ -300,6 +412,13 @@
     <tag k="addr:street" v="Route 132"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219173"/>
+  </node>
+  <node id="-161" visible="true" lat="43.81379894" lon="-72.449238">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2293"/>
+    <tag k="addr:street" v="Fay Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219174"/>
   </node>
   <node id="-162" visible="true" lat="43.81356616" lon="-72.44236249">
     <tag k="addr:city" v="Sharon"/>
@@ -328,6 +447,13 @@
     <tag k="addr:street" v="Keyes Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219178"/>
+  </node>
+  <node id="-166" visible="true" lat="43.81327709" lon="-72.41550055">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Muir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219179"/>
   </node>
   <node id="-167" visible="true" lat="43.81304717" lon="-72.44749392">
     <tag k="addr:city" v="Sharon"/>
@@ -412,6 +538,13 @@
     <tag k="addr:street" v="Krivak Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219191"/>
+  </node>
+  <node id="-179" visible="true" lat="43.81117477" lon="-72.41498541">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Muir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219192"/>
   </node>
   <node id="-180" visible="true" lat="43.81085592" lon="-72.4543097">
     <tag k="addr:city" v="Sharon"/>
@@ -510,6 +643,13 @@
     <tag k="addr:street" v="Krivak Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219206"/>
+  </node>
+  <node id="-194" visible="true" lat="43.80709552" lon="-72.47508067">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="257"/>
+    <tag k="addr:street" v="Town Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219207"/>
   </node>
   <node id="-195" visible="true" lat="43.80716095" lon="-72.42288635">
     <tag k="addr:city" v="Sharon"/>
@@ -784,13 +924,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219246"/>
   </node>
-  <node id="-234" visible="true" lat="43.79987502" lon="-72.45867861">
-    <tag k="addr:city" v="Sharon"/>
-    <tag k="addr:housenumber" v="1298"/>
-    <tag k="addr:street" v="Fay Brook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="219247"/>
-  </node>
   <node id="-235" visible="true" lat="43.79998844" lon="-72.42307822">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="240"/>
@@ -846,6 +979,13 @@
     <tag k="addr:street" v="Beaver Meadow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219255"/>
+  </node>
+  <node id="-243" visible="true" lat="43.79910965" lon="-72.47496719">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="870"/>
+    <tag k="addr:street" v="White Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219256"/>
   </node>
   <node id="-244" visible="true" lat="43.79910487" lon="-72.41159098">
     <tag k="addr:city" v="Sharon"/>
@@ -1057,6 +1197,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219287"/>
   </node>
+  <node id="-274" visible="true" lat="43.79673442" lon="-72.41641642">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Dyer Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219288"/>
+  </node>
   <node id="-275" visible="true" lat="43.79715851" lon="-72.39342884">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="104"/>
@@ -1141,6 +1288,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219300"/>
   </node>
+  <node id="-287" visible="true" lat="43.79586029" lon="-72.49254608">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Westland Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219302"/>
+  </node>
   <node id="-288" visible="true" lat="43.79561233" lon="-72.40081024">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="1227"/>
@@ -1218,6 +1372,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219313"/>
   </node>
+  <node id="-299" visible="true" lat="43.79445266" lon="-72.49316406">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Westland Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219314"/>
+  </node>
   <node id="-300" visible="true" lat="43.7945726" lon="-72.40310859">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="1160"/>
@@ -1231,6 +1392,20 @@
     <tag k="addr:street" v="Church Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219316"/>
+  </node>
+  <node id="-302" visible="true" lat="43.79432296" lon="-72.49058532">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="238"/>
+    <tag k="addr:street" v="Westland Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219317"/>
+  </node>
+  <node id="-303" visible="true" lat="43.79394149" lon="-72.42337036">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="678"/>
+    <tag k="addr:street" v="Carpenter Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219318"/>
   </node>
   <node id="-304" visible="true" lat="43.79378295" lon="-72.46401156">
     <tag k="addr:city" v="Sharon"/>
@@ -1280,6 +1455,13 @@
     <tag k="addr:street" v="Beaver Meadow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219325"/>
+  </node>
+  <node id="-311" visible="true" lat="43.79266263" lon="-72.47308536">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="763"/>
+    <tag k="addr:street" v="Eastman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219326"/>
   </node>
   <node id="-312" visible="true" lat="43.79264609" lon="-72.44808625">
     <tag k="addr:city" v="Sharon"/>
@@ -1435,6 +1617,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219348"/>
   </node>
+  <node id="-334" visible="true" lat="43.7895906" lon="-72.47508181">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="315"/>
+    <tag k="addr:street" v="Eastman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219349"/>
+  </node>
   <node id="-335" visible="true" lat="43.78953638" lon="-72.47623229">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="191"/>
@@ -1462,6 +1651,13 @@
     <tag k="addr:street" v="Eastman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219353"/>
+  </node>
+  <node id="-339" visible="true" lat="43.78916931" lon="-72.48677062">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Academy Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219354"/>
   </node>
   <node id="-340" visible="true" lat="43.78912521" lon="-72.46640719">
     <tag k="addr:city" v="Sharon"/>
@@ -1491,6 +1687,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219358"/>
   </node>
+  <node id="-344" visible="true" lat="43.78889465" lon="-72.47750854">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="270"/>
+    <tag k="addr:street" v="Daisy Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219359"/>
+  </node>
   <node id="-345" visible="true" lat="43.78885743" lon="-72.46733776">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="114"/>
@@ -1498,12 +1701,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219360"/>
   </node>
+  <node id="-346" visible="true" lat="43.78879867" lon="-72.45070051">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="377"/>
+    <tag k="addr:street" v="Route 132"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219361"/>
+  </node>
   <node id="-347" visible="true" lat="43.78854953" lon="-72.47617051">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="249"/>
     <tag k="addr:street" v="Daisy Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219362"/>
+  </node>
+  <node id="-348" visible="true" lat="43.78856948" lon="-72.4731576">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="494"/>
+    <tag k="addr:street" v="Eastman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219363"/>
   </node>
   <node id="-349" visible="true" lat="43.78819126" lon="-72.49220405">
     <tag k="addr:city" v="Sharon"/>
@@ -1561,6 +1778,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219371"/>
   </node>
+  <node id="-357" visible="true" lat="43.78759765" lon="-72.48130035">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6602"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219372"/>
+  </node>
   <node id="-358" visible="true" lat="43.78774194" lon="-72.45016594">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="310"/>
@@ -1588,6 +1812,20 @@
     <tag k="addr:street" v="Sugar House Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219377"/>
+  </node>
+  <node id="-362" visible="true" lat="43.78732681" lon="-72.47428131">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="394"/>
+    <tag k="addr:street" v="Eastman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219378"/>
+  </node>
+  <node id="-363" visible="true" lat="43.78738677" lon="-72.48044664">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6558"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219379"/>
   </node>
   <node id="-364" visible="true" lat="43.78740762" lon="-72.45115374">
     <tag k="addr:city" v="Sharon"/>
@@ -1617,6 +1855,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219383"/>
   </node>
+  <node id="-368" visible="true" lat="43.78689575" lon="-72.47919464">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6482"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219384"/>
+  </node>
+  <node id="-369" visible="true" lat="43.7868956" lon="-72.46365829">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="423"/>
+    <tag k="addr:street" v="Fay Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219385"/>
+  </node>
   <node id="-370" visible="true" lat="43.78693645" lon="-72.45185256">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="209"/>
@@ -1638,6 +1890,27 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219390"/>
   </node>
+  <node id="-373" visible="true" lat="43.78622604" lon="-72.46236361">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:street" v="Fay Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219391"/>
+  </node>
+  <node id="-374" visible="true" lat="43.78585815" lon="-72.47556304">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6316"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219392"/>
+  </node>
+  <node id="-375" visible="true" lat="43.78551677" lon="-72.47681428">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6336"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219393"/>
+  </node>
   <node id="-376" visible="true" lat="43.78558649" lon="-72.45376095">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="20"/>
@@ -1651,6 +1924,13 @@
     <tag k="addr:street" v="School Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219395"/>
+  </node>
+  <node id="-378" visible="true" lat="43.78492651" lon="-72.45618244">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219396"/>
   </node>
   <node id="-379" visible="true" lat="43.7850864" lon="-72.45377428">
     <tag k="addr:city" v="Sharon"/>
@@ -1694,6 +1974,48 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219402"/>
   </node>
+  <node id="-385" visible="true" lat="43.78436446" lon="-72.45130099">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4866"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219403"/>
+  </node>
+  <node id="-386" visible="true" lat="43.784373" lon="-72.45500368">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5056"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219404"/>
+  </node>
+  <node id="-387" visible="true" lat="43.78448557" lon="-72.45265">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4930"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219405"/>
+  </node>
+  <node id="-388" visible="true" lat="43.78428989" lon="-72.4501215">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4806"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219406"/>
+  </node>
+  <node id="-389" visible="true" lat="43.78433307" lon="-72.4508626">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4844"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219407"/>
+  </node>
+  <node id="-390" visible="true" lat="43.78417431" lon="-72.44980312">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4794"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219408"/>
+  </node>
   <node id="-391" visible="true" lat="43.78432261" lon="-72.42474094">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="1328"/>
@@ -1708,12 +2030,131 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219411"/>
   </node>
+  <node id="-393" visible="true" lat="43.78411432" lon="-72.45465321">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5038"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219412"/>
+  </node>
+  <node id="-394" visible="true" lat="43.78413216" lon="-72.45509908">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5054"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219413"/>
+  </node>
+  <node id="-395" visible="true" lat="43.78403015" lon="-72.45574467">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5094"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219414"/>
+  </node>
+  <node id="-396" visible="true" lat="43.78402585" lon="-72.45588693">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5100"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219415"/>
+  </node>
+  <node id="-397" visible="true" lat="43.78407889" lon="-72.45540795">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5076"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219417"/>
+  </node>
+  <node id="-398" visible="true" lat="43.78400598" lon="-72.45614088">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5114"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219418"/>
+  </node>
+  <node id="-399" visible="true" lat="43.78397834" lon="-72.4564639">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5126"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219419"/>
+  </node>
+  <node id="-400" visible="true" lat="43.78383856" lon="-72.44926538">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4762"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219420"/>
+  </node>
+  <node id="-401" visible="true" lat="43.78404025" lon="-72.45311441">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4959"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219421"/>
+  </node>
+  <node id="-402" visible="true" lat="43.78381555" lon="-72.45717453">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5168"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219422"/>
+  </node>
+  <node id="-403" visible="true" lat="43.78386915" lon="-72.45673774">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5144"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219423"/>
+  </node>
+  <node id="-404" visible="true" lat="43.78396395" lon="-72.4535798">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4983"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219424"/>
+  </node>
+  <node id="-405" visible="true" lat="43.78390673" lon="-72.45382394">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4995"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219425"/>
+  </node>
+  <node id="-406" visible="true" lat="43.78368759" lon="-72.45790863">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5198"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219426"/>
+  </node>
+  <node id="-407" visible="true" lat="43.78360029" lon="-72.47283165">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6094"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219427"/>
+  </node>
+  <node id="-408" visible="true" lat="43.78370797" lon="-72.44888344">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4742"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219428"/>
+  </node>
   <node id="-409" visible="true" lat="43.78360748" lon="-72.48343658">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="122"/>
     <tag k="addr:street" v="Broad Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219429"/>
+  </node>
+  <node id="-410" visible="true" lat="43.7836341" lon="-72.45823184">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5220"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219430"/>
   </node>
   <node id="-411" visible="true" lat="43.78348948" lon="-72.50558595">
     <tag k="addr:city" v="Sharon"/>
@@ -1722,12 +2163,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219431"/>
   </node>
+  <node id="-412" visible="true" lat="43.78375247" lon="-72.45452198">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5037"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219432"/>
+  </node>
+  <node id="-413" visible="true" lat="43.78361739" lon="-72.45854016">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5228"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219433"/>
+  </node>
+  <node id="-414" visible="true" lat="43.78339318" lon="-72.47123564">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6064"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219434"/>
+  </node>
   <node id="-415" visible="true" lat="43.78353726" lon="-72.45975686">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="36"/>
     <tag k="addr:street" v="Fay Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219435"/>
+  </node>
+  <node id="-416" visible="true" lat="43.78334057" lon="-72.4492731">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4735"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219439"/>
+  </node>
+  <node id="-417" visible="true" lat="43.78318723" lon="-72.47225948">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6052"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219440"/>
   </node>
   <node id="-418" visible="true" lat="43.78315012" lon="-72.4600825">
     <tag k="addr:city" v="Sharon"/>
@@ -1736,6 +2212,27 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219441"/>
   </node>
+  <node id="-419" visible="true" lat="43.78291463" lon="-72.46020355">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5326"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219442"/>
+  </node>
+  <node id="-420" visible="true" lat="43.78306127" lon="-72.44889768">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4707"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219443"/>
+  </node>
+  <node id="-421" visible="true" lat="43.78299028" lon="-72.44797657">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4674"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219445"/>
+  </node>
   <node id="-422" visible="true" lat="43.78281386" lon="-72.41027347">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="1041"/>
@@ -1743,12 +2240,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219446"/>
   </node>
+  <node id="-423" visible="true" lat="43.78259658" lon="-72.44783019">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4650"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219447"/>
+  </node>
   <node id="-424" visible="true" lat="43.78280068" lon="-72.50488369">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="721"/>
     <tag k="addr:street" v="Harlow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219448"/>
+  </node>
+  <node id="-425" visible="true" lat="43.78235011" lon="-72.46258078">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5442"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219449"/>
   </node>
   <node id="-426" visible="true" lat="43.78247256" lon="-72.39309187">
     <tag k="addr:city" v="Sharon"/>
@@ -1763,6 +2274,27 @@
     <tag k="addr:street" v="Harlow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219451"/>
+  </node>
+  <node id="-428" visible="true" lat="43.78227592" lon="-72.44758599">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4626"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219452"/>
+  </node>
+  <node id="-429" visible="true" lat="43.78219448" lon="-72.44806005">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4635"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219453"/>
+  </node>
+  <node id="-430" visible="true" lat="43.78184811" lon="-72.47010751">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5908"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219454"/>
   </node>
   <node id="-431" visible="true" lat="43.78180547" lon="-72.48280239">
     <tag k="addr:city" v="Sharon"/>
@@ -1792,6 +2324,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219459"/>
   </node>
+  <node id="-435" visible="true" lat="43.78149032" lon="-72.46952056">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5868"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219460"/>
+  </node>
   <node id="-436" visible="true" lat="43.78154649" lon="-72.47337079">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="886"/>
@@ -1799,12 +2338,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219461"/>
   </node>
+  <node id="-437" visible="true" lat="43.78134921" lon="-72.46523769">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5632"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219462"/>
+  </node>
   <node id="-438" visible="true" lat="43.78118133" lon="-72.50056457">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="470"/>
     <tag k="addr:street" v="Harlow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219464"/>
+  </node>
+  <node id="-439" visible="true" lat="43.7811222" lon="-72.46866076">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5808"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219465"/>
+  </node>
+  <node id="-440" visible="true" lat="43.78112028" lon="-72.46460114">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5592"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219466"/>
+  </node>
+  <node id="-441" visible="true" lat="43.78091803" lon="-72.46795591">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5772"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219467"/>
   </node>
   <node id="-442" visible="true" lat="43.78084564" lon="-72.47416686">
     <tag k="addr:city" v="Sharon"/>
@@ -1967,6 +2534,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219490"/>
   </node>
+  <node id="-465" visible="true" lat="43.77711868" lon="-72.43195343">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Robinson Hollow"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219492"/>
+  </node>
   <node id="-466" visible="true" lat="43.77716046" lon="-72.42858444">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="1171"/>
@@ -2085,6 +2659,13 @@
     <tag k="addr:street" v="Quimby Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219509"/>
+  </node>
+  <node id="-483" visible="true" lat="43.77485977" lon="-72.44596984">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Woodys Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219510"/>
   </node>
   <node id="-484" visible="true" lat="43.77454878" lon="-72.44370007">
     <tag k="addr:city" v="Sharon"/>
@@ -2205,6 +2786,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219529"/>
   </node>
+  <node id="-501" visible="true" lat="43.77020782" lon="-72.44738005">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3773"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219530"/>
+  </node>
   <node id="-502" visible="true" lat="43.7700938" lon="-72.41745773">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="2022"/>
@@ -2247,6 +2835,34 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219536"/>
   </node>
+  <node id="-508" visible="true" lat="43.76938906" lon="-72.44669357">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3702"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219537"/>
+  </node>
+  <node id="-509" visible="true" lat="43.76903897" lon="-72.44650074">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3668"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219538"/>
+  </node>
+  <node id="-510" visible="true" lat="43.76856461" lon="-72.44710343">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3649"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219539"/>
+  </node>
+  <node id="-511" visible="true" lat="43.76826858" lon="-72.44641294">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3620"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219540"/>
+  </node>
   <node id="-512" visible="true" lat="43.76792907" lon="-72.50789642">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="40"/>
@@ -2274,6 +2890,13 @@
     <tag k="addr:street" v="Moore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219544"/>
+  </node>
+  <node id="-516" visible="true" lat="43.76777654" lon="-72.44710669">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3579"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219545"/>
   </node>
   <node id="-517" visible="true" lat="43.76746506" lon="-72.41328665">
     <tag k="addr:city" v="Sharon"/>
@@ -2653,6 +3276,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219603"/>
   </node>
+  <node id="-571" visible="true" lat="43.75661036" lon="-72.45262902">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2889"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219604"/>
+  </node>
   <node id="-572" visible="true" lat="43.75772775" lon="-72.47706914">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="2872"/>
@@ -2694,6 +3324,13 @@
     <tag k="addr:street" v="Howe Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219610"/>
+  </node>
+  <node id="-578" visible="true" lat="43.75428234" lon="-72.39555165">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Bridge Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219611"/>
   </node>
   <node id="-579" visible="true" lat="43.75370927" lon="-72.44863915">
     <tag k="addr:city" v="Sharon"/>
@@ -2835,6 +3472,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219632"/>
   </node>
+  <node id="-599" visible="true" lat="43.74669525" lon="-72.44539137">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2019"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219633"/>
+  </node>
   <node id="-600" visible="true" lat="43.74535934" lon="-72.44281291">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="1884"/>
@@ -2904,6 +3548,13 @@
     <tag k="addr:street" v="Vermont Route 14"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219645"/>
+  </node>
+  <node id="-610" visible="true" lat="43.7430598" lon="-72.44129465">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1700"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219646"/>
   </node>
   <node id="-611" visible="true" lat="43.74246671" lon="-72.44134486">
     <tag k="addr:city" v="Sharon"/>
@@ -3038,12 +3689,54 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219673"/>
   </node>
+  <node id="-630" visible="true" lat="43.72366605" lon="-72.42980051">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219679"/>
+  </node>
+  <node id="-631" visible="true" lat="43.72350145" lon="-72.42933801">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219681"/>
+  </node>
+  <node id="-632" visible="true" lat="43.72338431" lon="-72.42702818">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219682"/>
+  </node>
+  <node id="-633" visible="true" lat="43.72331538" lon="-72.42731234">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219683"/>
+  </node>
   <node id="-634" visible="true" lat="43.72304532" lon="-72.42614699">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="Sharhart Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219684"/>
+  </node>
+  <node id="-635" visible="true" lat="43.72304051" lon="-72.42661412">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219685"/>
+  </node>
+  <node id="-636" visible="true" lat="43.72284724" lon="-72.42587637">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219686"/>
   </node>
   <node id="-637" visible="true" lat="43.79292465" lon="-72.47543276">
     <tag k="addr:city" v="Sharon"/>
@@ -3059,12 +3752,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219688"/>
   </node>
+  <node id="-639" visible="true" lat="43.81626003" lon="-72.39731968">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1533"/>
+    <tag k="addr:street" v="Downer Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219689"/>
+  </node>
+  <node id="-640" visible="true" lat="43.81605751" lon="-72.39788573">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1535"/>
+    <tag k="addr:street" v="Downer Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219690"/>
+  </node>
+  <node id="-641" visible="true" lat="43.81604226" lon="-72.39677895">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1531"/>
+    <tag k="addr:street" v="Downer Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219691"/>
+  </node>
   <node id="-642" visible="true" lat="43.81159759" lon="-72.45367373">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="Clifford Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219693"/>
+  </node>
+  <node id="-643" visible="true" lat="43.79881763" lon="-72.38609394">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2002"/>
+    <tag k="addr:street" v="SFH"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219694"/>
   </node>
   <node id="-644" visible="true" lat="43.7991751" lon="-72.41073502">
     <tag k="addr:city" v="Sharon"/>
@@ -3108,6 +3829,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219701"/>
   </node>
+  <node id="-650" visible="true" lat="43.77514648" lon="-72.48341369">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="446"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219702"/>
+  </node>
   <node id="-651" visible="true" lat="43.76886453" lon="-72.48528499">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="156"/>
@@ -3135,6 +3863,20 @@
     <tag k="addr:street" v="Standing Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219707"/>
+  </node>
+  <node id="-655" visible="true" lat="43.81435657" lon="-72.42036854">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="High Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219708"/>
+  </node>
+  <node id="-656" visible="true" lat="43.81554122" lon="-72.42660116">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="920"/>
+    <tag k="addr:street" v="High Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219709"/>
   </node>
   <node id="-657" visible="true" lat="43.81886827" lon="-72.38671572">
     <tag k="addr:city" v="Sharon"/>
@@ -3178,6 +3920,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219715"/>
   </node>
+  <node id="-663" visible="true" lat="43.78828126" lon="-72.48549225">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6800"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219716"/>
+  </node>
   <node id="-664" visible="true" lat="43.79547002" lon="-72.47206433">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="185"/>
@@ -3205,6 +3954,20 @@
     <tag k="addr:street" v="Chapel Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219720"/>
+  </node>
+  <node id="-668" visible="true" lat="43.79444333" lon="-72.35895905">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2891"/>
+    <tag k="addr:street" v="Chapel Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219721"/>
+  </node>
+  <node id="-669" visible="true" lat="43.79421009" lon="-72.36030497">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2899"/>
+    <tag k="addr:street" v="Chapel Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219722"/>
   </node>
   <node id="-670" visible="true" lat="43.76444288" lon="-72.48704024">
     <tag k="addr:city" v="Sharon"/>
@@ -3276,6 +4039,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219732"/>
   </node>
+  <node id="-680" visible="true" lat="43.72726042" lon="-72.42576556">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Interstate 89 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219733"/>
+  </node>
   <node id="-681" visible="true" lat="43.79691416" lon="-72.40840404">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="35"/>
@@ -3289,6 +4059,20 @@
     <tag k="addr:street" v="White Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219735"/>
+  </node>
+  <node id="-683" visible="true" lat="43.7865283" lon="-72.46037095">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Breezy Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219736"/>
+  </node>
+  <node id="-684" visible="true" lat="43.78781887" lon="-72.45797048">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Wendy Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219737"/>
   </node>
   <node id="-685" visible="true" lat="43.74594205" lon="-72.44464717">
     <tag k="addr:city" v="Sharon"/>
@@ -3345,6 +4129,13 @@
     <tag k="addr:street" v="Farm Field Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219745"/>
+  </node>
+  <node id="-693" visible="true" lat="43.7672148" lon="-72.46736344">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="973"/>
+    <tag k="addr:street" v="Honey Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219746"/>
   </node>
   <node id="-694" visible="true" lat="43.76563769" lon="-72.46869694">
     <tag k="addr:city" v="Sharon"/>
@@ -3437,6 +4228,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219760"/>
   </node>
+  <node id="-707" visible="true" lat="43.79580085" lon="-72.46813321">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1052"/>
+    <tag k="addr:street" v="Eastman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219761"/>
+  </node>
   <node id="-708" visible="true" lat="43.79931947" lon="-72.43931133">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="1321"/>
@@ -3450,6 +4248,13 @@
     <tag k="addr:street" v="Quimby Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219764"/>
+  </node>
+  <node id="-710" visible="true" lat="43.77132608" lon="-72.38411651">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3265"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219765"/>
   </node>
   <node id="-711" visible="true" lat="43.74901057" lon="-72.44487913">
     <tag k="addr:city" v="Sharon"/>
@@ -3478,6 +4283,13 @@
     <tag k="addr:street" v="Odonnell Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219769"/>
+  </node>
+  <node id="-715" visible="true" lat="43.78748427" lon="-72.46197694">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Baxter Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219770"/>
   </node>
   <node id="-716" visible="true" lat="43.74272292" lon="-72.44169805">
     <tag k="addr:city" v="Sharon"/>
@@ -3549,6 +4361,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219781"/>
   </node>
+  <node id="-726" visible="true" lat="43.75813996" lon="-72.45022968">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Clowns Alley"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219782"/>
+  </node>
+  <node id="-727" visible="true" lat="43.75759262" lon="-72.4501029">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Clowns Alley"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219783"/>
+  </node>
   <node id="-728" visible="true" lat="43.75491775" lon="-72.52159404">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="2938"/>
@@ -3563,12 +4389,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219785"/>
   </node>
+  <node id="-730" visible="true" lat="43.81548228" lon="-72.42583855">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="880"/>
+    <tag k="addr:street" v="High Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219786"/>
+  </node>
   <node id="-731" visible="true" lat="43.81742409" lon="-72.4067369">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Aldrich Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219787"/>
+  </node>
+  <node id="-732" visible="true" lat="43.81759879" lon="-72.40239636">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="225"/>
+    <tag k="addr:street" v="Aldrich Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219788"/>
   </node>
   <node id="-733" visible="true" lat="43.81550023" lon="-72.40405472">
     <tag k="addr:city" v="Sharon"/>
@@ -3626,12 +4466,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219796"/>
   </node>
+  <node id="-741" visible="true" lat="43.80647809" lon="-72.45600437">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1739"/>
+    <tag k="addr:street" v="Fay Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219797"/>
+  </node>
   <node id="-742" visible="true" lat="43.81773572" lon="-72.44027809">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="3231"/>
     <tag k="addr:street" v="Fay Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219798"/>
+  </node>
+  <node id="-743" visible="true" lat="43.78385364" lon="-72.50078318">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:street" v="Harlow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219799"/>
+  </node>
+  <node id="-744" visible="true" lat="43.79585637" lon="-72.45942653">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:street" v="Karilyn Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219800"/>
   </node>
   <node id="-745" visible="true" lat="43.79337021" lon="-72.46083983">
     <tag k="addr:city" v="Sharon"/>
@@ -3640,19 +4501,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219801"/>
   </node>
+  <node id="-746" visible="true" lat="43.79240249" lon="-72.45559615">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:street" v="Baxter Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219802"/>
+  </node>
   <node id="-747" visible="true" lat="43.79381481" lon="-72.40076645">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="1248"/>
     <tag k="addr:street" v="Beaver Meadow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219803"/>
-  </node>
-  <node id="-748" visible="true" lat="43.78889396" lon="-72.37796055">
-    <tag k="addr:city" v="Sharon"/>
-    <tag k="addr:housenumber" v="926"/>
-    <tag k="addr:street" v="Sugar House Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="219804"/>
   </node>
   <node id="-749" visible="true" lat="43.76676545" lon="-72.44725584">
     <tag k="addr:city" v="Sharon"/>
@@ -3681,6 +4542,13 @@
     <tag k="addr:street" v="Quimby Mountain Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219808"/>
+  </node>
+  <node id="-753" visible="true" lat="43.74785229" lon="-72.48732661">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1994"/>
+    <tag k="addr:street" v="Howe Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219809"/>
   </node>
   <node id="-754" visible="true" lat="43.7838423" lon="-72.46036428">
     <tag k="addr:city" v="Sharon"/>
@@ -3745,12 +4613,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219819"/>
   </node>
+  <node id="-764" visible="true" lat="43.78757832" lon="-72.46097056">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Breezy Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219820"/>
+  </node>
   <node id="-765" visible="true" lat="43.78847438" lon="-72.46334895">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="450"/>
     <tag k="addr:street" v="Fay Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219821"/>
+  </node>
+  <node id="-766" visible="true" lat="43.81610669" lon="-72.42746768">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1020"/>
+    <tag k="addr:street" v="High Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219822"/>
   </node>
   <node id="-767" visible="true" lat="43.79599146" lon="-72.40530053">
     <tag k="addr:city" v="Sharon"/>
@@ -3836,6 +4718,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="305722"/>
   </node>
+  <node id="-779" visible="true" lat="43.7813235" lon="-72.44757448">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4573"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="305723"/>
+  </node>
   <node id="-780" visible="true" lat="43.81104389" lon="-72.42341884">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="328"/>
@@ -3856,6 +4745,13 @@
     <tag k="addr:street" v="Mountain Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="305902"/>
+  </node>
+  <node id="-783" visible="true" lat="43.78246298" lon="-72.46038794">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5387"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306289"/>
   </node>
   <node id="-784" visible="true" lat="43.76754358" lon="-72.46570489">
     <tag k="addr:city" v="Sharon"/>
@@ -3884,6 +4780,27 @@
     <tag k="addr:street" v="Turnpike Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307036"/>
+  </node>
+  <node id="-788" visible="true" lat="43.78490937" lon="-72.45152909">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4932"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="307044"/>
+  </node>
+  <node id="-789" visible="true" lat="43.7803841" lon="-72.46644732">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5733"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="309250"/>
+  </node>
+  <node id="-790" visible="true" lat="43.78947938" lon="-72.47216797">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="630"/>
+    <tag k="addr:street" v="Eastman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="311924"/>
   </node>
   <node id="-791" visible="true" lat="43.81623215" lon="-72.37144718">
     <tag k="addr:city" v="Sharon"/>
@@ -3934,12 +4851,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315891"/>
   </node>
+  <node id="-798" visible="true" lat="43.77380816" lon="-72.38915862">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2985"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317639"/>
+  </node>
   <node id="-799" visible="true" lat="43.82100641" lon="-72.4082775">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="169"/>
     <tag k="addr:street" v="Cross Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="323980"/>
+  </node>
+  <node id="-800" visible="true" lat="43.81907037" lon="-72.41048697">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3803"/>
+    <tag k="addr:street" v="Route 132"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="323982"/>
   </node>
   <node id="-801" visible="true" lat="43.7727007" lon="-72.44341984">
     <tag k="addr:city" v="Sharon"/>
@@ -3955,6 +4886,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="325295"/>
   </node>
+  <node id="-803" visible="true" lat="43.79275917" lon="-72.4022319">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1378"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326369"/>
+  </node>
+  <node id="-804" visible="true" lat="43.79490395" lon="-72.45821931">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="765"/>
+    <tag k="addr:street" v="Baxter Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326407"/>
+  </node>
   <node id="-805" visible="true" lat="43.78673751" lon="-72.44918651">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="174"/>
@@ -3969,12 +4914,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="326893"/>
   </node>
+  <node id="-808" visible="true" lat="43.80323582" lon="-72.42016587">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2364"/>
+    <tag k="addr:street" v="Route 132"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327688"/>
+  </node>
   <node id="-809" visible="true" lat="43.79217554" lon="-72.49577719">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="2238"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="332425"/>
+  </node>
+  <node id="-810" visible="true" lat="43.761169" lon="-72.38950648">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Ruella Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="334705"/>
   </node>
   <node id="-811" visible="true" lat="43.82758051" lon="-72.42463246">
     <tag k="addr:city" v="Sharon"/>
@@ -3989,6 +4948,13 @@
     <tag k="addr:street" v="Sharon Meadows"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365039"/>
+  </node>
+  <node id="-813" visible="true" lat="43.77838346" lon="-72.49441195">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Harlow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365647"/>
   </node>
   <node id="-814" visible="true" lat="43.79072695" lon="-72.49724479">
     <tag k="addr:city" v="Sharon"/>
@@ -4010,6 +4976,20 @@
     <tag k="addr:street" v="Sharon Meadows"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="447115"/>
+  </node>
+  <node id="-817" visible="true" lat="43.82630526" lon="-72.41562887">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:street" v="Old Orchard Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449785"/>
+  </node>
+  <node id="-818" visible="true" lat="43.82968207" lon="-72.44704779">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="475"/>
+    <tag k="addr:street" v="Blake Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450737"/>
   </node>
   <node id="-819" visible="true" lat="43.82072374" lon="-72.46224747">
     <tag k="addr:city" v="Sharon"/>
@@ -4039,12 +5019,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450741"/>
   </node>
+  <node id="-823" visible="true" lat="43.81227881" lon="-72.35590084">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:street" v="Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450742"/>
+  </node>
   <node id="-824" visible="true" lat="43.8084704" lon="-72.35545621">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="222"/>
     <tag k="addr:street" v="Turnpike Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450743"/>
+  </node>
+  <node id="-825" visible="true" lat="43.80567636" lon="-72.35077726">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450744"/>
+  </node>
+  <node id="-826" visible="true" lat="43.80662956" lon="-72.34519087">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Turnpike Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450745"/>
   </node>
   <node id="-827" visible="true" lat="43.81318846" lon="-72.37400206">
     <tag k="addr:city" v="Sharon"/>
@@ -4059,6 +5060,13 @@
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450747"/>
+  </node>
+  <node id="-829" visible="true" lat="43.79794853" lon="-72.45973731">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1244"/>
+    <tag k="addr:street" v="Fay Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450748"/>
   </node>
   <node id="-830" visible="true" lat="43.79994711" lon="-72.47658675">
     <tag k="addr:city" v="Sharon"/>
@@ -4081,6 +5089,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450751"/>
   </node>
+  <node id="-833" visible="true" lat="43.79604487" lon="-72.38381474">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1850"/>
+    <tag k="addr:street" v="SFH"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450752"/>
+  </node>
+  <node id="-834" visible="true" lat="43.7986844" lon="-72.3856468">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1980"/>
+    <tag k="addr:street" v="SFH"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450753"/>
+  </node>
   <node id="-835" visible="true" lat="43.76272406" lon="-72.49332714">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="646"/>
@@ -4101,6 +5123,20 @@
     <tag k="addr:street" v="Old Stage Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450756"/>
+  </node>
+  <node id="-838" visible="true" lat="43.77426133" lon="-72.44612365">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Woodys Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450775"/>
+  </node>
+  <node id="-839" visible="true" lat="43.77397848" lon="-72.39091937">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Holt Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450780"/>
   </node>
   <node id="-840" visible="true" lat="43.77198325" lon="-72.3925081">
     <tag k="addr:city" v="Sharon"/>
@@ -4123,6 +5159,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450783"/>
   </node>
+  <node id="-843" visible="true" lat="43.77033641" lon="-72.39535864">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="509"/>
+    <tag k="addr:street" v="Holt Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450784"/>
+  </node>
   <node id="-844" visible="true" lat="43.74693795" lon="-72.4444119">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="2022"/>
@@ -4144,12 +5187,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450787"/>
   </node>
+  <node id="-847" visible="true" lat="43.74529043" lon="-72.43452794">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1868"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450788"/>
+  </node>
+  <node id="-848" visible="true" lat="43.74605235" lon="-72.43429717">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1847"/>
+    <tag k="addr:street" v="Quarry Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450789"/>
+  </node>
   <node id="-849" visible="true" lat="43.79824254" lon="-72.41468044">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="447"/>
     <tag k="addr:street" v="Beaver Meadow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450790"/>
+  </node>
+  <node id="-850" visible="true" lat="43.78235737" lon="-72.46420562">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="5450"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450791"/>
   </node>
   <node id="-851" visible="true" lat="43.74317665" lon="-72.43939632">
     <tag k="addr:city" v="Sharon"/>
@@ -4172,6 +5236,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450794"/>
   </node>
+  <node id="-854" visible="true" lat="43.81059152" lon="-72.48201133">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Bingham Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452118"/>
+  </node>
   <node id="-857" visible="true" lat="43.82312554" lon="-72.43481143">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="456"/>
@@ -4186,12 +5257,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452122"/>
   </node>
+  <node id="-859" visible="true" lat="43.82008267" lon="-72.38464384">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Star Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452224"/>
+  </node>
   <node id="-860" visible="true" lat="43.80229026" lon="-72.42998483">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Moose Meadow Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452833"/>
+  </node>
+  <node id="-862" visible="true" lat="43.72863154" lon="-72.43174754">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="732"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452837"/>
+  </node>
+  <node id="-864" visible="true" lat="43.82473984" lon="-72.43381712">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="475"/>
+    <tag k="addr:street" v="Powell Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454842"/>
   </node>
   <node id="-865" visible="true" lat="43.82221966" lon="-72.41293407">
     <tag k="addr:city" v="Sharon"/>
@@ -4200,12 +5292,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454843"/>
   </node>
-  <node id="-868" visible="true" lat="43.78951406" lon="-72.49327605">
+  <node id="-866" visible="true" lat="43.8063301" lon="-72.41613117">
     <tag k="addr:city" v="Sharon"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="Commerce Park"/>
+    <tag k="addr:housenumber" v="2548"/>
+    <tag k="addr:street" v="Route 132"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454846"/>
+    <tag k="ref:vcgi:esiteid" v="454844"/>
+  </node>
+  <node id="-867" visible="true" lat="43.7855932" lon="-72.48299773">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1460"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454845"/>
+  </node>
+  <node id="-869" visible="true" lat="43.78456686" lon="-72.47947628">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1328"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454847"/>
   </node>
   <node id="-870" visible="true" lat="43.79716651" lon="-72.41187915">
     <tag k="addr:city" v="Sharon"/>
@@ -4214,12 +5320,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454852"/>
   </node>
+  <node id="-871" visible="true" lat="43.78878199" lon="-72.42188482">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1119"/>
+    <tag k="addr:street" v="Carpenter Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454853"/>
+  </node>
   <node id="-872" visible="true" lat="43.75589868" lon="-72.4806007">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="2655"/>
     <tag k="addr:street" v="Howe Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454854"/>
+  </node>
+  <node id="-873" visible="true" lat="43.75533445" lon="-72.48156681">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2579"/>
+    <tag k="addr:street" v="Howe Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454855"/>
   </node>
   <node id="-874" visible="true" lat="43.75088663" lon="-72.48195259">
     <tag k="addr:city" v="Sharon"/>
@@ -4228,12 +5348,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454856"/>
   </node>
+  <node id="-875" visible="true" lat="43.74655513" lon="-72.49129898">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1787"/>
+    <tag k="addr:street" v="Howe Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454857"/>
+  </node>
   <node id="-876" visible="true" lat="43.72493975" lon="-72.43172564">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="345"/>
     <tag k="addr:street" v="Vermont Route 14"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454858"/>
+  </node>
+  <node id="-877" visible="true" lat="43.72398443" lon="-72.42865046">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454859"/>
   </node>
   <node id="-878" visible="true" lat="43.74140557" lon="-72.43906479">
     <tag k="addr:city" v="Sharon"/>
@@ -4256,12 +5390,26 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611898"/>
   </node>
+  <node id="-881" visible="true" lat="43.78172507" lon="-72.48219443">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Jersey Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612718"/>
+  </node>
   <node id="-882" visible="true" lat="43.78404616" lon="-72.48227975">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="91"/>
     <tag k="addr:street" v="Broad Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612719"/>
+  </node>
+  <node id="-883" visible="true" lat="43.78428392" lon="-72.47918173">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1294"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612781"/>
   </node>
   <node id="-885" visible="true" lat="43.79659238" lon="-72.39170641">
     <tag k="addr:city" v="Sharon"/>
@@ -4291,6 +5439,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="613052"/>
   </node>
+  <node id="-889" visible="true" lat="43.78993788" lon="-72.42448497">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1062"/>
+    <tag k="addr:street" v="Carpenter Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="616032"/>
+  </node>
   <node id="-890" visible="true" lat="43.8033243" lon="-72.42292529">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="2197"/>
@@ -4298,12 +5453,40 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617547"/>
   </node>
+  <node id="-891" visible="true" lat="43.77772823" lon="-72.48026209">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="207"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="619253"/>
+  </node>
   <node id="-892" visible="true" lat="43.77590644" lon="-72.4762112">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="175"/>
     <tag k="addr:street" v="Lukes Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="619254"/>
+  </node>
+  <node id="-893" visible="true" lat="43.82058288" lon="-72.40735833">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:street" v="Cross Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620734"/>
+  </node>
+  <node id="-896" visible="true" lat="43.74125306" lon="-72.4387425">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Erad Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751463"/>
+  </node>
+  <node id="-898" visible="true" lat="43.81641121" lon="-72.39245083">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1805"/>
+    <tag k="addr:street" v="Downer Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752048"/>
   </node>
   <node id="-900" visible="true" lat="43.78896973" lon="-72.46591328">
     <tag k="addr:city" v="Sharon"/>
@@ -4326,6 +5509,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752272"/>
   </node>
+  <node id="-903" visible="true" lat="43.79819688" lon="-72.38362448">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="550"/>
+    <tag k="addr:street" v="Drum Heller Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756297"/>
+  </node>
   <node id="-904" visible="true" lat="43.8012607" lon="-72.43222292">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="141"/>
@@ -4340,6 +5530,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757406"/>
   </node>
+  <node id="-906" visible="true" lat="43.78531756" lon="-72.47622218">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6326"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757407"/>
+  </node>
+  <node id="-907" visible="true" lat="43.73760256" lon="-72.4466013">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1031"/>
+    <tag k="addr:street" v="Kenyon Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757642"/>
+  </node>
   <node id="-908" visible="true" lat="43.77560652" lon="-72.47421122">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="15"/>
@@ -4347,12 +5551,201 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757643"/>
   </node>
+  <node id="-909" visible="true" lat="43.76909238" lon="-72.44807906">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3805"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757644"/>
+  </node>
   <node id="-910" visible="true" lat="43.81214806" lon="-72.42196631">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="148"/>
     <tag k="addr:street" v="Day Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759342"/>
+  </node>
+  <node id="-911" visible="true" lat="43.7798643" lon="-72.48059555">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="203"/>
+    <tag k="addr:street" v="Old Stage Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759354"/>
+  </node>
+  <node id="-912" visible="true" lat="43.77107319" lon="-72.38677593">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3208"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759412"/>
+  </node>
+  <node id="-913" visible="true" lat="43.79713777" lon="-72.43583556">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="Mosher Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759416"/>
+  </node>
+  <node id="-914" visible="true" lat="43.81469616" lon="-72.39469603">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Treeline Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763595"/>
+  </node>
+  <node id="-915" visible="true" lat="43.8152072" lon="-72.39366379">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Treeline Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763596"/>
+  </node>
+  <node id="-931" visible="true" lat="43.76598132" lon="-72.48612576">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="779"/>
+    <tag k="addr:street" v="Moore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763612"/>
+  </node>
+  <node id="-932" visible="true" lat="43.81309959" lon="-72.45354306">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:street" v="Clifford Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763652"/>
+  </node>
+  <node id="-933" visible="true" lat="43.76267021" lon="-72.49027017">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="484"/>
+    <tag k="addr:street" v="Leons Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763916"/>
+  </node>
+  <node id="-934" visible="true" lat="43.82289518" lon="-72.43778699">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="178"/>
+    <tag k="addr:street" v="Powell Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765590"/>
+  </node>
+  <node id="-935" visible="true" lat="43.80776427" lon="-72.40197725">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="933"/>
+    <tag k="addr:street" v="Downer Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765591"/>
+  </node>
+  <node id="-936" visible="true" lat="43.77465589" lon="-72.47033612">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="4160"/>
+    <tag k="addr:street" v="Howe Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765592"/>
+  </node>
+  <node id="-937" visible="true" lat="43.77622956" lon="-72.47713206">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:street" v="Lukes Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765593"/>
+  </node>
+  <node id="-938" visible="true" lat="43.72386439" lon="-72.42817364">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765594"/>
+  </node>
+  <node id="-939" visible="true" lat="43.72529075" lon="-72.42913295">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="291"/>
+    <tag k="addr:street" v="Wood Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765595"/>
+  </node>
+  <node id="-940" visible="true" lat="43.77424821" lon="-72.44654532">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Woodys Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768470"/>
+  </node>
+  <node id="-941" visible="true" lat="43.77904309" lon="-72.47509623">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="359"/>
+    <tag k="addr:street" v="Lukes Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768471"/>
+  </node>
+  <node id="-942" visible="true" lat="43.76235742" lon="-72.4496181">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="3103"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768477"/>
+  </node>
+  <node id="-943" visible="true" lat="43.78782278" lon="-72.4854955">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6795"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768478"/>
+  </node>
+  <node id="-944" visible="true" lat="43.7907523" lon="-72.488986">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6968"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768479"/>
+  </node>
+  <node id="-945" visible="true" lat="43.78992715" lon="-72.48907491">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="6989"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768480"/>
+  </node>
+  <node id="-946" visible="true" lat="43.77829794" lon="-72.37404726">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="323"/>
+    <tag k="addr:street" v="Sugar House Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769832"/>
+  </node>
+  <node id="-948" visible="true" lat="43.79249665" lon="-72.40700296">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="249"/>
+    <tag k="addr:street" v="Odonnell Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770209"/>
+  </node>
+  <node id="-949" visible="true" lat="43.80773372" lon="-72.36941484">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="550"/>
+    <tag k="addr:street" v="Krivak Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770210"/>
+  </node>
+  <node id="-950" visible="true" lat="43.80797696" lon="-72.36703358">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="485"/>
+    <tag k="addr:street" v="Krivak Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770211"/>
+  </node>
+  <node id="-963" visible="true" lat="43.78880937" lon="-72.3946534">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1836"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770949"/>
+  </node>
+  <node id="-964" visible="true" lat="43.81434014" lon="-72.39550723">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="1578"/>
+    <tag k="addr:street" v="Downer Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="800064"/>
   </node>
   <node id="-965" visible="true" lat="43.73952765" lon="-72.43835795">
     <tag k="addr:city" v="Sharon"/>
@@ -4368,11 +5761,109 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="800071"/>
   </node>
+  <node id="-967" visible="true" lat="43.78083747" lon="-72.48599058">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="548"/>
+    <tag k="addr:street" v="Broad Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="800125"/>
+  </node>
   <node id="-968" visible="true" lat="43.774701" lon="-72.398287">
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="2726"/>
     <tag k="addr:street" v="Beaver Meadow Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="900485"/>
+  </node>
+  <node id="-969" visible="true" lat="43.78961646" lon="-72.49886366">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="114694"/>
+    <tag k="addr:street" v="Interstate 89 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050500"/>
+  </node>
+  <node id="-970" visible="true" lat="43.78190154" lon="-72.47441209">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="114948"/>
+    <tag k="addr:street" v="Interstate 89 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050501"/>
+  </node>
+  <node id="-971" visible="true" lat="43.78248311" lon="-72.47232683">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="15337"/>
+    <tag k="addr:street" v="Interstate 89 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050502"/>
+  </node>
+  <node id="-972" visible="true" lat="43.78426985" lon="-72.46380111">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="14359"/>
+    <tag k="addr:street" v="Interstate 89 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050503"/>
+  </node>
+  <node id="-973" visible="true" lat="43.78475444" lon="-72.45705579">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050504"/>
+  </node>
+  <node id="-974" visible="true" lat="43.78624368" lon="-72.45593614">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="13610"/>
+    <tag k="addr:street" v="Interstate 89 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050505"/>
+  </node>
+  <node id="-975" visible="true" lat="43.7830111" lon="-72.44664702">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="11144"/>
+    <tag k="addr:street" v="Interstate 89 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050506"/>
+  </node>
+  <node id="-976" visible="true" lat="43.76880497" lon="-72.44573656">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="35806"/>
+    <tag k="addr:street" v="Interstate 89 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050507"/>
+  </node>
+  <node id="-977" visible="true" lat="43.75470213" lon="-72.44652499">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="11114"/>
+    <tag k="addr:street" v="Interstate 89 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050508"/>
+  </node>
+  <node id="-978" visible="true" lat="43.74189154" lon="-72.43632106">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="10021"/>
+    <tag k="addr:street" v="Interstate 89 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050509"/>
+  </node>
+  <node id="-979" visible="true" lat="43.72997823" lon="-72.43074203">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="9128"/>
+    <tag k="addr:street" v="Interstate 89 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050510"/>
+  </node>
+  <node id="-980" visible="true" lat="43.72704846" lon="-72.42744892">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="8851"/>
+    <tag k="addr:street" v="Interstate 89 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050511"/>
+  </node>
+  <node id="-981" visible="true" lat="43.80318332" lon="-72.42089892">
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2281"/>
+    <tag k="addr:street" v="Route 132"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050673"/>
   </node>
 </osm>

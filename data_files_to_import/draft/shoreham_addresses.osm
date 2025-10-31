@@ -12,7 +12,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="225511" />
   </node>
-  <node id="-102" visible="true" lat="43.94252879" lon="-73.25799226">
+  <node id="-102" visible="true" lat="43.94248001" lon="-73.25747947">
     <tag k="addr:housenumber" v="4601" />
     <tag k="addr:street" v="Vermont Route 74 East" />
     <tag k="addr:state" v="VT" />
@@ -3036,7 +3036,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="226031" />
   </node>
-  <node id="-606" visible="true" lat="43.86618497" lon="-73.25373976">
+  <node id="-606" visible="true" lat="43.86618326" lon="-73.25373762">
     <tag k="addr:housenumber" v="238" />
     <tag k="addr:street" v="Shoreham Depot Road" />
     <tag k="addr:state" v="VT" />
@@ -4764,6 +4764,12 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="769900" />
   </node>
+  <node id="-901" visible="true" lat="43.9126046" lon="-73.27566225">
+    <tag k="addr:housenumber" v="2115" />
+    <tag k="addr:street" v="Quiet Valley Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="770606" />
+  </node>
   <node id="-902" visible="true" lat="43.91134778" lon="-73.27813282">
     <tag k="addr:housenumber" v="961" />
     <tag k="addr:street" v="Palmer Road" />
@@ -4775,5 +4781,41 @@
     <tag k="addr:street" v="Palmer Road" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="770608" />
+  </node>
+  <node id="-904" visible="true" lat="43.92901743" lon="-73.29278015">
+    <tag k="addr:housenumber" v="138" />
+    <tag k="addr:street" v="Elmendorf Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="771434" />
+  </node>
+  <node id="-905" visible="true" lat="43.89332476" lon="-73.31490399">
+    <tag k="addr:housenumber" v="287" />
+    <tag k="addr:street" v="Main Street" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="771721" />
+  </node>
+  <node id="-906" visible="true" lat="43.89295881" lon="-73.31300676">
+    <tag k="addr:housenumber" v="85" />
+    <tag k="addr:street" v="Firehouse Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="771722" />
+  </node>
+  <node id="-907" visible="true" lat="43.89253645" lon="-73.31316703">
+    <tag k="addr:housenumber" v="87" />
+    <tag k="addr:street" v="Firehouse Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="771723" />
+  </node>
+  <node id="-908" visible="true" lat="43.91204785" lon="-73.27572307">
+    <tag k="addr:housenumber" v="2113" />
+    <tag k="addr:street" v="Quiet Valley Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="771776" />
+  </node>
+  <node id="-909" visible="true" lat="43.9123156" lon="-73.2759859">
+    <tag k="addr:housenumber" v="2111" />
+    <tag k="addr:street" v="Quiet Valley Road" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="771777" />
   </node>
 </osm>

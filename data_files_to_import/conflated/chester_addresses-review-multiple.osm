@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-593" visible="true" lat="43.27726364" lon="-72.5972824">
+    <!-- multiple: "527 North Street, Chester, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="527"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="66304"/>
+  </node>
 </osm>

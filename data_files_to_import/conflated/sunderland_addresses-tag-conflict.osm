@@ -1,66 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-102" visible="true" lat="43.11816532" lon="-73.11406486">
-    <!-- conflict: "6365 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6365 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6365"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
+  <node id="-553" visible="true" lat="43.05308532" lon="-73.13404846">
+    <!-- conflict: "115 Young's Road, , VT" Fuzzy match to "115 Youngs Road, , VT" -->
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Young's Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253812"/>
+    <tag k="ref:vcgi:esiteid" v="254278"/>
   </node>
-  <node id="-158" visible="true" lat="43.10955769" lon="-73.09771083">
-    <!-- conflict: "337 Hope Lane, , VT" No match in OSM, but a different address exists <5m away: "4148 North Road, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="337"/>
-    <tag k="addr:street" v="Hope Lane"/>
+  <node id="-554" visible="true" lat="43.05254364" lon="-73.13394165">
+    <!-- conflict: "77 Young's Road, , VT" Fuzzy match to "77 Youngs Road, , VT" -->
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Young's Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253869"/>
-  </node>
-  <node id="-166" visible="true" lat="43.11140468" lon="-73.12737115">
-    <!-- conflict: "6253 Vermont Route 7A, , VT" No match in OSM, but a different address exists <5m away: "6253 Vt Route 7A, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="6253"/>
-    <tag k="addr:street" v="Vermont Route 7A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="253877"/>
-  </node>
-  <node id="-660" visible="true" lat="43.07402023" lon="-73.10904326">
-    <!-- conflict: "287 Colebrook Road, , VT" No match in OSM, but a different address exists <5m away: "193 Colebrook Road, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="287"/>
-    <tag k="addr:street" v="Colebrook Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450923"/>
-  </node>
-  <node id="-686" visible="true" lat="43.10601101" lon="-73.12449852">
-    <!-- conflict: "950 Dunham Road, , VT" No match in OSM, but a different address exists <5m away: "856 Dunham Road, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="950"/>
-    <tag k="addr:street" v="Dunham Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610158"/>
-  </node>
-  <node id="-690" visible="true" lat="43.10795127" lon="-73.10344309">
-    <!-- conflict: "123 Mattison Road Extension, , VT" Fuzzy match to "123 Mattison Rd, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="123"/>
-    <tag k="addr:street" v="Mattison Road Extension"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="612218"/>
-  </node>
-  <node id="-691" visible="true" lat="43.11442254" lon="-73.09406594">
-    <!-- conflict: "95 Turkey Run Road, , VT" No match in OSM, but a different address exists <5m away: "95 Sunderland Hill Road, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Turkey Run Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="612220"/>
-  </node>
-  <node id="-771" visible="true" lat="43.10668658" lon="-73.12208157">
-    <!-- conflict: "1030 Dunham Road, , VT" No match in OSM, but a different address exists <5m away: "1258 Dunham Road, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="1030"/>
-    <tag k="addr:street" v="Dunham Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1050802"/>
-  </node>
-  <node id="-777" visible="true" lat="43.10852856" lon="-73.10338049">
-    <!-- conflict: "70 Mattison Road Extension, , VT" Fuzzy match to "70 Mattison Rd, Sunderland, VT" -->
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Mattison Road Extension"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1050999"/>
+    <tag k="ref:vcgi:esiteid" v="254280"/>
   </node>
 </osm>

@@ -1,19 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-213" visible="true" lat="44.74344361" lon="-73.27711723">
-    <!-- multiple: "29 Faywood Road, Grand Isle, VT" Multiple exact matches in OSM. -->
+  <node id="-112" visible="true" lat="44.76497268" lon="-73.28667449">
+    <!-- multiple: "412 U.S. Route 2, Grand Isle, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="412"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="113404"/>
+  </node>
+  <node id="-537" visible="true" lat="44.71697442" lon="-73.31033504">
+    <!-- multiple: "58 Reynolds Road, Grand Isle, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="113846"/>
+  </node>
+  <node id="-915" visible="true" lat="44.68302535" lon="-73.34815978">
+    <!-- multiple: "29 West Shore Road, Grand Isle, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Faywood Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="113510"/>
-  </node>
-  <node id="-871" visible="true" lat="44.68876647" lon="-73.347229">
-    <!-- multiple: "54 West Shore Road, Grand Isle, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="West Shore Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="114192"/>
+    <tag k="ref:vcgi:esiteid" v="114236"/>
+  </node>
+  <node id="-1216" visible="true" lat="44.70213687" lon="-73.30039707">
+    <!-- multiple: "4 Island Circle, Grand Isle, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Island Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337559"/>
+  </node>
+  <node id="-1217" visible="true" lat="44.70402295" lon="-73.30165114">
+    <!-- multiple: "10 Island Circle, Grand Isle, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Island Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337560"/>
+  </node>
+  <node id="-1243" visible="true" lat="44.68358291" lon="-73.34841776">
+    <!-- multiple: "29 West Shore Road, Grand Isle, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338288"/>
+  </node>
+  <node id="-1468" visible="true" lat="44.70248826" lon="-73.3357151">
+    <!-- multiple: "108 Allen Road, Grand Isle, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:street" v="Allen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762591"/>
+  </node>
+  <node id="-1477" visible="true" lat="44.70145632" lon="-73.3003249">
+    <!-- multiple: "4 Island Circle, Grand Isle, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Island Circle"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762601"/>
   </node>
 </osm>

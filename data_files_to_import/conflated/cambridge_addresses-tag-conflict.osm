@@ -1,143 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-480" visible="true" lat="44.64852905" lon="-72.82881173">
-    <!-- conflict: "16 Gw Tatro Drive, , VT" Fuzzy match to "16 G W Tatro Drive, Cambridge, VT" -->
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Gw Tatro Drive"/>
+  <node id="-371" visible="true" lat="44.65752627" lon="-72.86836075">
+    <!-- conflict: "101 Shambhala Way, , VT" No match in OSM, but a different address exists <5m away: "101 Palker Lane, , VT" -->
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Shambhala Way"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="57487"/>
+    <tag k="ref:vcgi:esiteid" v="57375"/>
   </node>
-  <node id="-509" visible="true" lat="44.64661615" lon="-72.82845801">
-    <!-- conflict: "205 Main Street, , VT" No match in OSM, but a different address exists <5m away: "205 School Street, , VT" -->
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="57519"/>
-  </node>
-  <node id="-522" visible="true" lat="44.6461778" lon="-72.8291031">
-    <!-- conflict: "32 Depot Street, , VT" No match in OSM, but a different address exists <5m away: "32 Maple Street, Jeffersonville, VT" -->
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="Depot Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="57533"/>
-  </node>
-  <node id="-525" visible="true" lat="44.64611917" lon="-72.82860449">
-    <!-- conflict: "171 Main Street, , VT" No match in OSM, but a different address exists <5m away: "171 School Street, , " -->
-    <tag k="addr:housenumber" v="171"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="57536"/>
-  </node>
-  <node id="-533" visible="true" lat="44.64583212" lon="-72.82926954">
-    <!-- conflict: "37 Depot Street, , VT" No match in OSM, but a different address exists <5m away: "37 Maple Street, Jeffersonville, VT" -->
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Depot Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="57545"/>
-  </node>
-  <node id="-545" visible="true" lat="44.64565909" lon="-72.82795399">
-    <!-- conflict: "39 School Street, , VT" No match in OSM, but a different address exists <5m away: " School Street, Jeffersonville, VT" -->
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="School Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="57559"/>
-  </node>
-  <node id="-551" visible="true" lat="44.6454764" lon="-72.82739046">
-    <!-- conflict: "65 School Street, , VT" No match in OSM, but a different address exists <5m away: " School Street, Jeffersonville, VT" -->
+  <node id="-380" visible="true" lat="44.65701626" lon="-72.86950889">
+    <!-- conflict: "65 Shambhala Way, , VT" No match in OSM, but a different address exists <5m away: "65 Palker Lane, , VT" -->
     <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:street" v="Shambhala Way"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="57565"/>
+    <tag k="ref:vcgi:esiteid" v="57384"/>
   </node>
-  <node id="-563" visible="true" lat="44.64523676" lon="-72.82789302">
-    <!-- conflict: "50 School Street, , VT" No match in OSM, but a different address exists <5m away: " School Street, Jeffersonville, VT" -->
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="School Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="57578"/>
-  </node>
-  <node id="-579" visible="true" lat="44.64527641" lon="-72.82668998">
-    <!-- conflict: "105 School Street, , VT" No match in OSM, but a different address exists <5m away: " School Street, Jeffersonville, VT" -->
-    <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="School Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="57596"/>
-  </node>
-  <node id="-585" visible="true" lat="44.64516169" lon="-72.82931055">
-    <!-- conflict: "95 Main Street, , VT" No match in OSM, but a different address exists <5m away: "95B Main Street, Cambridge, VT" -->
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="57605"/>
-  </node>
-  <node id="-684" visible="true" lat="44.64335351" lon="-72.8301773">
-    <!-- conflict: "27 Upper Pleasant Valley Road, , VT" No match in OSM, but a different address exists <5m away: "27 Church Street, Jeffersonville, VT" -->
+  <node id="-387" visible="true" lat="44.65616339" lon="-72.86824288">
+    <!-- conflict: "27 Shambhala Way, , VT" No match in OSM, but a different address exists <5m away: "27 Palker Lane, , VT" -->
     <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Upper Pleasant Valley Road"/>
+    <tag k="addr:street" v="Shambhala Way"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="57716"/>
+    <tag k="ref:vcgi:esiteid" v="57391"/>
   </node>
-  <node id="-1155" visible="true" lat="44.59155411" lon="-72.79473837">
-    <!-- conflict: "4008 Vermont Route 108 South, , VT" No match in OSM, but a different address exists <5m away: "4008 State Route 108, Jeffersonville, VT" -->
-    <tag k="addr:housenumber" v="4008"/>
-    <tag k="addr:street" v="Vermont Route 108 South"/>
+  <node id="-874" visible="true" lat="44.62992096" lon="-72.80872353">
+    <!-- conflict: "165 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "125 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="58205"/>
+    <tag k="ref:vcgi:esiteid" v="57917"/>
   </node>
-  <node id="-1306" visible="true" lat="44.643531" lon="-72.82997317">
-    <!-- conflict: "15 Church Street, , VT" No match in OSM, but a different address exists <5m away: "102 Church Street, , " -->
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Church Street"/>
+  <node id="-878" visible="true" lat="44.62896922" lon="-72.81023207">
+    <!-- conflict: "255 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "163 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="58372"/>
+    <tag k="ref:vcgi:esiteid" v="57921"/>
   </node>
-  <node id="-1335" visible="true" lat="44.64604568" lon="-72.82881173">
-    <!-- conflict: "18 Depot Street, , VT" No match in OSM, but a different address exists <5m away: "18 School Street, , " -->
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Depot Street"/>
+  <node id="-927" visible="true" lat="44.62392807" lon="-72.81085213">
+    <!-- conflict: "612 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "271 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="612"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="58401"/>
+    <tag k="ref:vcgi:esiteid" v="57972"/>
   </node>
-  <node id="-1564" visible="true" lat="44.64633849" lon="-72.82857593">
-    <!-- conflict: "189 Main Street, , VT" No match in OSM, but a different address exists <5m away: "189 School Street, , " -->
-    <tag k="addr:housenumber" v="189"/>
-    <tag k="addr:street" v="Main Street"/>
+  <node id="-949" visible="true" lat="44.61854704" lon="-72.80580155">
+    <!-- conflict: "1044 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "440 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1044"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="58649"/>
+    <tag k="ref:vcgi:esiteid" v="57996"/>
   </node>
-  <node id="-1622" visible="true" lat="44.5943208" lon="-72.78493021">
-    <!-- conflict: "24 North Hill Drive Extension, , VT" No match in OSM, but a different address exists <5m away: " North Hill Drive Extension, , " -->
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="North Hill Drive Extension"/>
+  <node id="-954" visible="true" lat="44.6168588" lon="-72.80278721">
+    <!-- conflict: "1229 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "470 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1229"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326242"/>
+    <tag k="ref:vcgi:esiteid" v="58001"/>
   </node>
-  <node id="-1758" visible="true" lat="44.64817316" lon="-72.82952137">
-    <!-- conflict: "17 Gw Tatro Drive, , VT" Fuzzy match to "17 G W Tatro Drive, Cambridge, VT" -->
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Gw Tatro Drive"/>
+  <node id="-961" visible="true" lat="44.61511231" lon="-72.80345674">
+    <!-- conflict: "1310 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "480 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1310"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="449935"/>
+    <tag k="ref:vcgi:esiteid" v="58008"/>
   </node>
-  <node id="-1797" visible="true" lat="44.59389895" lon="-72.78431477">
-    <!-- conflict: "66 North Hill Drive Extension, , VT" No match in OSM, but a different address exists <5m away: " North Hill Drive Extension, , " -->
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:street" v="North Hill Drive Extension"/>
+  <node id="-967" visible="true" lat="44.61458353" lon="-72.80343166">
+    <!-- conflict: "1346 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "596 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1346"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="612227"/>
+    <tag k="ref:vcgi:esiteid" v="58014"/>
   </node>
-  <node id="-1997" visible="true" lat="44.61648044" lon="-72.81933545">
-    <!-- conflict: "37 Rv Way, , VT" Fuzzy match to "37 RV Way, Jeffersonville, VT" -->
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Rv Way"/>
+  <node id="-991" visible="true" lat="44.6116876" lon="-72.80374867">
+    <!-- conflict: "1549 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "679 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1549"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="767849"/>
+    <tag k="ref:vcgi:esiteid" v="58040"/>
   </node>
-  <node id="-2029" visible="true" lat="44.61624131" lon="-72.82038223">
-    <!-- conflict: "228 Oxbow Drive, , VT" No match in OSM, but a different address exists <5m away: "37 RV Way, Jeffersonville, VT" -->
-    <tag k="addr:housenumber" v="228"/>
-    <tag k="addr:street" v="Oxbow Drive"/>
+  <node id="-999" visible="true" lat="44.61131693" lon="-72.8042238">
+    <!-- conflict: "1589 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "711 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1589"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="767881"/>
+    <tag k="ref:vcgi:esiteid" v="58048"/>
+  </node>
+  <node id="-1008" visible="true" lat="44.61112129" lon="-72.80455356">
+    <!-- conflict: "1601 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "737 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1601"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58057"/>
+  </node>
+  <node id="-1317" visible="true" lat="44.61142581" lon="-72.83371547">
+    <!-- conflict: "1126 Stebbins Road, , VT" No match in OSM, but a different address exists <5m away: "1100 Stebbins Road, , VT" -->
+    <tag k="addr:housenumber" v="1126"/>
+    <tag k="addr:street" v="Stebbins Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58384"/>
+  </node>
+  <node id="-1324" visible="true" lat="44.61984253" lon="-72.8089219">
+    <!-- conflict: "930 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "339 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="930"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58391"/>
+  </node>
+  <node id="-1371" visible="true" lat="44.63088029" lon="-72.8102976">
+    <!-- conflict: "117 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "48 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58440"/>
+  </node>
+  <node id="-1392" visible="true" lat="44.62445151" lon="-72.8136858">
+    <!-- conflict: "566 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "249 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="566"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58463"/>
+  </node>
+  <node id="-1393" visible="true" lat="44.621881" lon="-72.80964592">
+    <!-- conflict: "722 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "304 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="722"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58464"/>
+  </node>
+  <node id="-1489" visible="true" lat="44.61806478" lon="-72.80772265">
+    <!-- conflict: "1064 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "460 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1064"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58569"/>
+  </node>
+  <node id="-1490" visible="true" lat="44.63115236" lon="-72.80948194">
+    <!-- conflict: "81 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "27 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58570"/>
+  </node>
+  <node id="-1564" visible="true" lat="44.62516439" lon="-72.80966706">
+    <!-- conflict: "491 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "189 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="491"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58650"/>
+  </node>
+  <node id="-1565" visible="true" lat="44.6235944" lon="-72.8086141">
+    <!-- conflict: "659 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "289 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="659"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="58651"/>
+  </node>
+  <node id="-1638" visible="true" lat="44.63080598" lon="-72.79653667">
+    <!-- conflict: "269 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "175 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="269"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="330987"/>
+  </node>
+  <node id="-1675" visible="true" lat="44.61353405" lon="-72.8032957">
+    <!-- conflict: "1434 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "610 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1434"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338637"/>
+  </node>
+  <node id="-1679" visible="true" lat="44.62845238" lon="-72.80755086">
+    <!-- conflict: "267 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "173 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="267"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339323"/>
+  </node>
+  <node id="-1764" visible="true" lat="44.61269564" lon="-72.80325614">
+    <!-- conflict: "1477 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "643 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1477"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451636"/>
+  </node>
+  <node id="-1823" visible="true" lat="44.6134627" lon="-72.8021196">
+    <!-- conflict: "1445 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "611 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1445"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618191"/>
+  </node>
+  <node id="-1945" visible="true" lat="44.63856472" lon="-72.84111971">
+    <!-- conflict: "193 Williamson Road, , VT" No match in OSM, but a different address exists <5m away: "163 Williamson Road, , VT" -->
+    <tag k="addr:housenumber" v="193"/>
+    <tag k="addr:street" v="Williamson Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761816"/>
+  </node>
+  <node id="-2074" visible="true" lat="44.6142067" lon="-72.80386908">
+    <!-- conflict: "1386 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "598 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1386"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769987"/>
+  </node>
+  <node id="-2075" visible="true" lat="44.61374872" lon="-72.80349318">
+    <!-- conflict: "1416 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "600 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1416"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769988"/>
+  </node>
+  <node id="-2123" visible="true" lat="44.6103176" lon="-72.80771888">
+    <!-- conflict: "1766 Clif Reynolds Road, , VT" No match in OSM, but a different address exists <5m away: "936 Clif Reynolds Road, , VT" -->
+    <tag k="addr:housenumber" v="1766"/>
+    <tag k="addr:street" v="Clif Reynolds Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050825"/>
   </node>
 </osm>

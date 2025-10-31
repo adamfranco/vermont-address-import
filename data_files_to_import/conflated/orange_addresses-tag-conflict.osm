@@ -1,64 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-288" visible="true" lat="44.14467133" lon="-72.43542317">
-    <!-- conflict: "24 Bls Drive, , VT" Fuzzy match to "24 BLS Drive, Orange, VT" -->
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Bls Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183728"/>
-  </node>
-  <node id="-295" visible="true" lat="44.14401052" lon="-72.43629336">
-    <!-- conflict: "13 Bls Drive, , VT" Fuzzy match to "13 BLS Drive, Orange, VT" -->
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Bls Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183736"/>
-  </node>
-  <node id="-298" visible="true" lat="44.14354899" lon="-72.43502915">
-    <!-- conflict: "9 Bls Drive, , VT" Fuzzy match to "9 BLS Drive, Orange, VT" -->
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Bls Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183739"/>
-  </node>
-  <node id="-339" visible="true" lat="44.13993824" lon="-72.3203935">
-    <!-- conflict: "13 Vermont Route 25, , VT" No match in OSM, but a different address exists <5m away: "13 Vt Route 25, Orange, VT" -->
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Vermont Route 25"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183782"/>
-  </node>
-  <node id="-351" visible="true" lat="44.13801961" lon="-72.32015702">
-    <!-- conflict: "36 Vermont Route 25, , VT" No match in OSM, but a different address exists <5m away: "36 Vt Route 25, Orange, VT" -->
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Vermont Route 25"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183794"/>
-  </node>
-  <node id="-354" visible="true" lat="44.13767242" lon="-72.31985089">
-    <!-- conflict: "44 Vermont Route 25, , VT" No match in OSM, but a different address exists <5m away: "44 Vt Route 25, Orange, VT" -->
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Vermont Route 25"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183797"/>
-  </node>
-  <node id="-367" visible="true" lat="44.13634259" lon="-72.31866949">
-    <!-- conflict: "64 Vermont Route 25, , VT" No match in OSM, but a different address exists <5m away: "64 Vt Route 25, Orange, VT" -->
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Vermont Route 25"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183810"/>
-  </node>
-  <node id="-451" visible="true" lat="44.09613391" lon="-72.34703272">
-    <!-- conflict: "70 Notch End Road, , VT" No match in OSM, but a different address exists <5m away: "12 Notch End Road, Orange, VT" -->
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Notch End Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="183894"/>
-  </node>
   <node id="-587" visible="true" lat="44.14111039" lon="-72.33036454">
-    <!-- conflict: "1112B U.S. Route 302, , VT" Fuzzy match to "1112 B U.S. Route 302, Orange, VT" -->
-    <tag k="addr:housenumber" v="1112B"/>
+    <!-- conflict: "1114 U.S. Route 302, , VT" No match in OSM, but a different address exists <5m away: "1112B U.S. Route 302, Orange, VT" -->
+    <tag k="addr:housenumber" v="1114"/>
     <tag k="addr:street" v="U.S. Route 302"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307842"/>

@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-152" visible="true" lat="44.67069625" lon="-73.32324218">
-    <!-- conflict: "567 U.S. Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "567 US 2, South Hero, VT" -->
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-109" visible="true" lat="44.67955017" lon="-73.31765747">
+    <!-- conflict: "75 Crowley Lane, South Hero, VT" No match in OSM, but a different address exists <5m away: "639 U.S. Route 2, South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="567"/>
-    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Crowley Lane"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233297"/>
+    <tag k="ref:vcgi:esiteid" v="233253"/>
   </node>
-  <node id="-669" visible="true" lat="44.64060989" lon="-73.34960587">
-    <!-- conflict: "20 Remple Road, South Hero, VT" Fuzzy match to "20 Remple Road, South Hero, Vt" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Remple Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233841"/>
-  </node>
-  <node id="-717" visible="true" lat="44.63731765" lon="-73.27359771">
-    <!-- conflict: "117 U.S. Route 2, South Hero, VT" Fuzzy match to "117 US Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="117"/>
-    <tag k="addr:street" v="U.S. Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233889"/>
-  </node>
-  <node id="-1099" visible="true" lat="44.66101118" lon="-73.33250805">
-    <!-- conflict: "423 Swan Hill Farm Road, South Hero, VT" No match in OSM, but a different address exists <5m away: "19 Ferry Road, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="423"/>
-    <tag k="addr:street" v="Swan Hill Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234293"/>
-  </node>
-  <node id="-1184" visible="true" lat="44.67302469" lon="-73.25303123">
-    <!-- conflict: "183 Fish Bladder Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "183 , , " -->
+  <node id="-1183" visible="true" lat="44.67302469" lon="-73.25303123">
+    <!-- conflict: "183 Fish Bladder Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "183 , South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="183"/>
     <tag k="addr:street" v="Fish Bladder Island"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338402"/>
   </node>
-  <node id="-1185" visible="true" lat="44.65905955" lon="-73.25345702">
-    <!-- conflict: "105 Cedar Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "105 , South Hero, " -->
+  <node id="-1184" visible="true" lat="44.65905955" lon="-73.25345702">
+    <!-- conflict: "105 Cedar Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "105 , South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="Cedar Island"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338403"/>
   </node>
-  <node id="-1186" visible="true" lat="44.66773608" lon="-73.29708131">
-    <!-- conflict: "163 Kellogg Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "163 , , " -->
+  <node id="-1185" visible="true" lat="44.66773608" lon="-73.29708131">
+    <!-- conflict: "163 Kellogg Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "163 , South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="163"/>
     <tag k="addr:street" v="Kellogg Island"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338404"/>
   </node>
-  <node id="-1487" visible="true" lat="44.66700333" lon="-73.29773033">
-    <!-- conflict: "243 Kellogg Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "243 , , " -->
+  <node id="-1474" visible="true" lat="44.59532713" lon="-73.34137947">
+    <!-- conflict: "1071 Stave Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "1071 , South Hero, VT" -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="1071"/>
+    <tag k="addr:street" v="Stave Island"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451788"/>
+  </node>
+  <node id="-1485" visible="true" lat="44.65029171" lon="-73.35505068">
+    <!-- conflict: "2 Sawyer Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "2 , South Hero, VT" -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Sawyer Island"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451799"/>
+  </node>
+  <node id="-1486" visible="true" lat="44.66700333" lon="-73.29773033">
+    <!-- conflict: "243 Kellogg Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "243 , South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="243"/>
     <tag k="addr:street" v="Kellogg Island"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451800"/>
   </node>
-  <node id="-1488" visible="true" lat="44.66018912" lon="-73.25467792">
-    <!-- conflict: "219 Cedar Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "219 , South Hero, " -->
+  <node id="-1487" visible="true" lat="44.66018912" lon="-73.25467792">
+    <!-- conflict: "219 Cedar Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "219 , South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="219"/>
     <tag k="addr:street" v="Cedar Island"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451801"/>
   </node>
-  <node id="-1490" visible="true" lat="44.67184761" lon="-73.25257077">
-    <!-- conflict: "97 Fish Bladder Island, South Hero, VT" Fuzzy match to "97 Fish Bladder Island, , " -->
+  <node id="-1489" visible="true" lat="44.67184761" lon="-73.25257077">
+    <!-- conflict: "97 Fish Bladder Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "97 , South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="97"/>
     <tag k="addr:street" v="Fish Bladder Island"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452196"/>
   </node>
-  <node id="-1491" visible="true" lat="44.67345577" lon="-73.25296699">
-    <!-- conflict: "579 Fish Bladder Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "579 , , " -->
+  <node id="-1490" visible="true" lat="44.67345577" lon="-73.25296699">
+    <!-- conflict: "579 Fish Bladder Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "579 , South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="579"/>
     <tag k="addr:street" v="Fish Bladder Island"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452197"/>
   </node>
-  <node id="-1493" visible="true" lat="44.66041408" lon="-73.25434854">
-    <!-- conflict: "218 Cedar Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "218 , , " -->
+  <node id="-1492" visible="true" lat="44.66041237" lon="-73.25434637">
+    <!-- conflict: "218 Cedar Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "218 , South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="218"/>
     <tag k="addr:street" v="Cedar Island"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452199"/>
   </node>
-  <node id="-1504" visible="true" lat="44.66600392" lon="-73.29787192">
-    <!-- conflict: "33 Kellogg Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "33 , , " -->
+  <node id="-1494" visible="true" lat="44.59601461" lon="-73.34021134">
+    <!-- conflict: "1000 Stave Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "1000 , South Hero, VT" -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:street" v="Stave Island"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452201"/>
+  </node>
+  <node id="-1502" visible="true" lat="44.66612933" lon="-73.29771149">
+    <!-- conflict: "45 Kellogg Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "45 , South Hero, VT" -->
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Kellogg Island"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452419"/>
+  </node>
+  <node id="-1503" visible="true" lat="44.66600392" lon="-73.29787192">
+    <!-- conflict: "33 Kellogg Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "33 , South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Kellogg Island"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452456"/>
   </node>
-  <node id="-1571" visible="true" lat="44.67050688" lon="-73.34785328">
-    <!-- conflict: "547A West Shore Road, South Hero, VT" Fuzzy match to "547 A West Shore Road, South Hero, VT" -->
+  <node id="-1504" visible="true" lat="44.66614102" lon="-73.298084">
+    <!-- conflict: "339 Kellogg Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "339 , South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="547A"/>
-    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:housenumber" v="339"/>
+    <tag k="addr:street" v="Kellogg Island"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751581"/>
-  </node>
-  <node id="-1585" visible="true" lat="44.66198619" lon="-73.35016336">
-    <!-- conflict: "483A West Shore Road, South Hero, VT" Fuzzy match to "483 A West Shore Road, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="483A"/>
-    <tag k="addr:street" v="West Shore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751596"/>
+    <tag k="ref:vcgi:esiteid" v="452457"/>
   </node>
 </osm>

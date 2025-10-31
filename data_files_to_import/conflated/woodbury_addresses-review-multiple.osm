@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-156" visible="true" lat="44.47286092" lon="-72.40043701">
+    <!-- multiple: "6304 Vermont Route 14, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="6304"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301474"/>
+  </node>
   <node id="-396" visible="true" lat="44.44003486" lon="-72.41622359">
     <!-- multiple: "63 Valley Lake Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="63"/>
     <tag k="addr:street" v="Valley Lake Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="301717"/>
+  </node>
+  <node id="-638" visible="true" lat="44.40607371" lon="-72.37526224">
+    <!-- multiple: "281 Keene Farm Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Keene Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301962"/>
+  </node>
+  <node id="-841" visible="true" lat="44.4066322" lon="-72.40859941">
+    <!-- multiple: "187 East Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="East Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337391"/>
+  </node>
+  <node id="-885" visible="true" lat="44.39710859" lon="-72.41659245">
+    <!-- multiple: "102 Hemlock Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Hemlock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655246"/>
+  </node>
+  <node id="-914" visible="true" lat="44.47713663" lon="-72.35959874">
+    <!-- multiple: "1144 Mackville Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1144"/>
+    <tag k="addr:street" v="Mackville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754078"/>
+  </node>
+  <node id="-915" visible="true" lat="44.47324695" lon="-72.36223256">
+    <!-- multiple: "1150 Mackville Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1150"/>
+    <tag k="addr:street" v="Mackville Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754079"/>
   </node>
 </osm>

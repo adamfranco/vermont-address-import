@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-101" visible="true" lat="43.75498758" lon="-73.35090993">
+    <!-- offset: "1018 Turkey Farm Road, , VT" Significant offset - 102.5m -->
+    <tag k="addr:housenumber" v="1018"/>
+    <tag k="addr:street" v="Turkey Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="21993"/>
+  </node>
+  <node id="-791" visible="true" lat="43.83047318" lon="-73.2569918">
+    <!-- offset: "201 Fisher Road, , VT" Significant offset - 251.4m -->
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:street" v="Fisher Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="184742"/>
+  </node>
 </osm>

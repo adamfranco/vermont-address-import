@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="43.06724837" lon="-73.13775077">
+    <!-- multiple: "1500 East Arlington Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="1500"/>
+    <tag k="addr:street" v="East Arlington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4872"/>
+  </node>
+  <node id="-641" visible="true" lat="43.05721742" lon="-73.13843879">
+    <!-- multiple: "152 Prouty Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="addr:street" v="Prouty Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342649"/>
+  </node>
+  <node id="-746" visible="true" lat="43.07060482" lon="-73.13762489">
+    <!-- multiple: "100 Town Line Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767392"/>
+  </node>
+  <node id="-747" visible="true" lat="43.06997249" lon="-73.13764967">
+    <!-- multiple: "72 Town Line Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767393"/>
+  </node>
 </osm>

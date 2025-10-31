@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-263" visible="true" lat="44.38775596" lon="-72.4153409">
+    <!-- offset: "6304 Vermont Route 14, , VT" Significant offset - 9537m -->
+    <tag k="addr:housenumber" v="6304"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="56429"/>
+  </node>
+  <node id="-579" visible="true" lat="44.35754978" lon="-72.535774">
+    <!-- offset: "56 Kaeding Road, , VT" Significant offset - 461.1m -->
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Kaeding Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="56749"/>
+  </node>
   <node id="-664" visible="true" lat="44.34546192" lon="-72.41927965">
     <!-- offset: "187 East Hill Road, , VT" Significant offset - 6854m -->
     <tag k="addr:housenumber" v="187"/>
     <tag k="addr:street" v="East Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="56836"/>
+  </node>
+  <node id="-992" visible="true" lat="44.3161767" lon="-72.46372296">
+    <!-- offset: "888 Tucker Road, , VT" Significant offset - 363.5m -->
+    <tag k="addr:housenumber" v="888"/>
+    <tag k="addr:street" v="Tucker Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="453634"/>
   </node>
 </osm>

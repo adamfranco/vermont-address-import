@@ -59,7 +59,7 @@ Your `php.ini` probably needs the location of `mod_spatialite.so` added. Somethi
 
 1. (optional) Download/refresh the existing Vermont address center points from OSM via OverPass.
 
-    ./download_osm_addresses.php
+    php -d memory_limit=1G download_osm_addresses.php
 
 2. (optional) Rebuild the SQLite database holding these address points.
 

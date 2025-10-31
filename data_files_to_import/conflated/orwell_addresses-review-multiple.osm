@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-335" visible="true" lat="43.8045275" lon="-73.29908239">
-    <!-- multiple: "494 Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="494"/>
-    <tag k="addr:street" v="Main Street"/>
+  <node id="-343" visible="true" lat="43.80407183" lon="-73.29740948">
+    <!-- multiple: "7 North Orwell Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="North Orwell Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="184274"/>
+    <tag k="ref:vcgi:esiteid" v="184282"/>
   </node>
-  <node id="-378" visible="true" lat="43.80330684" lon="-73.30114877">
-    <!-- multiple: "441 Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="441"/>
-    <tag k="addr:street" v="Main Street"/>
+  <node id="-578" visible="true" lat="43.77797943" lon="-73.26518423">
+    <!-- multiple: "44 Sunset Lake Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Sunset Lake Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="184319"/>
+    <tag k="ref:vcgi:esiteid" v="184526"/>
+  </node>
+  <node id="-768" visible="true" lat="43.76169912" lon="-73.26447111">
+    <!-- multiple: "2386 Sunset Lake Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2386"/>
+    <tag k="addr:street" v="Sunset Lake Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="184719"/>
+  </node>
+  <node id="-861" visible="true" lat="43.76174938" lon="-73.26514687">
+    <!-- multiple: "20 North Shore Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="North Shore Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342306"/>
+  </node>
+  <node id="-862" visible="true" lat="43.76175066" lon="-73.26527587">
+    <!-- multiple: "26 North Shore Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="North Shore Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342307"/>
   </node>
 </osm>

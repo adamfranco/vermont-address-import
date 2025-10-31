@@ -1,99 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-367" visible="true" lat="43.00117347" lon="-72.53945645">
-    <!-- conflict: "159 Grammar School Lane, Putney, VT" No match in OSM, but a different address exists <5m away: "69 Hickory Ridge Road, Putney, VT" -->
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="159"/>
-    <tag k="addr:street" v="Grammar School Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195183"/>
-  </node>
-  <node id="-708" visible="true" lat="42.97669301" lon="-72.52580794">
-    <!-- conflict: "2 Phineas White Lane, Putney, VT" No match in OSM, but a different address exists <5m away: "49 Kimball Hill, Putney, VT" -->
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Phineas White Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195530"/>
-  </node>
-  <node id="-829" visible="true" lat="42.97075271" lon="-72.52552032">
-    <!-- conflict: "10 Shag Bark Hill, Putney, VT" Fuzzy match to "10 Shagbark Hill, Putney, VT" -->
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Shag Bark Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195655"/>
-  </node>
-  <node id="-856" visible="true" lat="42.96905424" lon="-72.52940037">
-    <!-- conflict: "20 Shag Bark Hill, Putney, VT" Fuzzy match to "20 Shagbark Hill, Putney, VT" -->
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Shag Bark Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195682"/>
-  </node>
-  <node id="-959" visible="true" lat="42.97617681" lon="-72.55253857">
-    <!-- conflict: "14 Greenwood Drive, Putney, VT" Fuzzy match to "14 Greenwood Lane, Putney, VT" -->
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Greenwood Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195792"/>
-  </node>
-  <node id="-1012" visible="true" lat="42.96956253" lon="-72.53926134">
-    <!-- conflict: "7 Sun Hill Road, Putney, VT" No match in OSM, but a different address exists <5m away: "51 Houghton Brook Road, Putney, VT" -->
+  <node id="-1345" visible="true" lat="42.97178281" lon="-72.51406758">
+    <!-- conflict: "7 Hi-Lo Biddy Road, Putney, VT" Fuzzy match to "7 Hi Lo Biddy Road, Putney, VT" -->
     <tag k="addr:city" v="Putney"/>
     <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Sun Hill Road"/>
+    <tag k="addr:street" v="Hi-Lo Biddy Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195850"/>
-  </node>
-  <node id="-1120" visible="true" lat="42.97515709" lon="-72.5195797">
-    <!-- conflict: "23 Water Street, Putney, VT" No match in OSM, but a different address exists <5m away: "23 Mill Street, Putney, VT" -->
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Water Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195968"/>
-  </node>
-  <node id="-1134" visible="true" lat="42.98888659" lon="-72.55203527">
-    <!-- conflict: "53 Elm Lea Road, Putney, VT" No match in OSM, but a different address exists <5m away: "31 Elm Lea Road, Putney, VT" -->
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Elm Lea Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="195984"/>
-  </node>
-  <node id="-1153" visible="true" lat="42.98806196" lon="-72.48291159">
-    <!-- conflict: "123 Old Haven Lane, Putney, VT" No match in OSM, but a different address exists <5m away: "108 Cemetery Road, Putney, VT" -->
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="123"/>
-    <tag k="addr:street" v="Old Haven Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="196008"/>
-  </node>
-  <node id="-1155" visible="true" lat="42.96911088" lon="-72.52705533">
-    <!-- conflict: "18 Shag Bark Hill, Putney, VT" Fuzzy match to "18 Shagbark Hill, Putney, VT" -->
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Shag Bark Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="196010"/>
-  </node>
-  <node id="-1272" visible="true" lat="42.97288245" lon="-72.5276395">
-    <!-- conflict: "69 Fred Houghton Road, Putney, VT" No match in OSM, but a different address exists <5m away: "69 Frost Road, Putney, VT" -->
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Fred Houghton Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="445956"/>
-  </node>
-  <node id="-1331" visible="true" lat="42.97012486" lon="-72.52972597">
-    <!-- conflict: "21 Shag Bark Hill, Putney, VT" Fuzzy match to "21 Shagbark Hill, Putney, VT" -->
-    <tag k="addr:city" v="Putney"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:street" v="Shag Bark Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454531"/>
+    <tag k="ref:vcgi:esiteid" v="612012"/>
   </node>
 </osm>

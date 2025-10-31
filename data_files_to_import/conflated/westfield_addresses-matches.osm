@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-100" visible="true" lat="44.83752825" lon="-72.40459477">
-    <tag k="addr:housenumber" v="255"/>
-    <tag k="addr:street" v="Mountain Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142064"/>
-  </node>
   <node id="-101" visible="true" lat="44.90603615" lon="-72.4110535">
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Kennison Road"/>
@@ -48,11 +42,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280918"/>
   </node>
+  <node id="-108" visible="true" lat="44.91978055" lon="-72.41386306">
+    <tag k="addr:housenumber" v="233"/>
+    <tag k="addr:street" v="Forest Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280919"/>
+  </node>
   <node id="-109" visible="true" lat="44.9198211" lon="-72.43206585">
     <tag k="addr:housenumber" v="2145"/>
     <tag k="addr:street" v="North Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280920"/>
+  </node>
+  <node id="-110" visible="true" lat="44.91943203" lon="-72.41509169">
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="addr:street" v="Forest Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280921"/>
   </node>
   <node id="-111" visible="true" lat="44.91941452" lon="-72.42092895">
     <tag k="addr:housenumber" v="1393"/>
@@ -84,6 +90,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280926"/>
   </node>
+  <node id="-116" visible="true" lat="44.91638183" lon="-72.42402648">
+    <tag k="addr:housenumber" v="1102"/>
+    <tag k="addr:street" v="Kennison Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280927"/>
+  </node>
   <node id="-117" visible="true" lat="44.91590499" lon="-72.42471313">
     <tag k="addr:housenumber" v="1067"/>
     <tag k="addr:street" v="Kennison Road"/>
@@ -95,6 +107,12 @@
     <tag k="addr:street" v="North Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280929"/>
+  </node>
+  <node id="-119" visible="true" lat="44.91569802" lon="-72.43101229">
+    <tag k="addr:housenumber" v="1867"/>
+    <tag k="addr:street" v="North Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280930"/>
   </node>
   <node id="-120" visible="true" lat="44.91458511" lon="-72.43029785">
     <tag k="addr:housenumber" v="1810"/>
@@ -174,6 +192,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280945"/>
   </node>
+  <node id="-133" visible="true" lat="44.90634261" lon="-72.43158226">
+    <tag k="addr:housenumber" v="1249"/>
+    <tag k="addr:street" v="North Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280946"/>
+  </node>
   <node id="-134" visible="true" lat="44.90637076" lon="-72.41360376">
     <tag k="addr:housenumber" v="143"/>
     <tag k="addr:street" v="Kennison Road"/>
@@ -192,6 +216,30 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280949"/>
   </node>
+  <node id="-137" visible="true" lat="44.90283322" lon="-72.43641231">
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Kingdom Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280950"/>
+  </node>
+  <node id="-138" visible="true" lat="44.90192223" lon="-72.42571705">
+    <tag k="addr:housenumber" v="397"/>
+    <tag k="addr:street" v="Deslandes Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280951"/>
+  </node>
+  <node id="-139" visible="true" lat="44.90133826" lon="-72.44521137">
+    <tag k="addr:housenumber" v="725"/>
+    <tag k="addr:street" v="Kingdom Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280952"/>
+  </node>
+  <node id="-140" visible="true" lat="44.90118596" lon="-72.42373767">
+    <tag k="addr:housenumber" v="352"/>
+    <tag k="addr:street" v="Deslandes Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280953"/>
+  </node>
   <node id="-141" visible="true" lat="44.89949983" lon="-72.43126799">
     <tag k="addr:housenumber" v="753"/>
     <tag k="addr:street" v="North Hill Road"/>
@@ -204,11 +252,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280955"/>
   </node>
+  <node id="-143" visible="true" lat="44.89724731" lon="-72.41377258">
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280956"/>
+  </node>
   <node id="-144" visible="true" lat="44.89712958" lon="-72.43162637">
     <tag k="addr:housenumber" v="581"/>
     <tag k="addr:street" v="North Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280957"/>
+  </node>
+  <node id="-145" visible="true" lat="44.89665222" lon="-72.41413116">
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280958"/>
   </node>
   <node id="-146" visible="true" lat="44.89589188" lon="-72.43095007">
     <tag k="addr:housenumber" v="492"/>
@@ -216,11 +276,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280959"/>
   </node>
+  <node id="-147" visible="true" lat="44.8957251" lon="-72.52125714">
+    <tag k="addr:housenumber" v="1074"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280960"/>
+  </node>
   <node id="-148" visible="true" lat="44.89546657" lon="-72.43401806">
     <tag k="addr:housenumber" v="122"/>
     <tag k="addr:street" v="Bessette Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280961"/>
+  </node>
+  <node id="-149" visible="true" lat="44.89516608" lon="-72.4173022">
+    <tag k="addr:housenumber" v="460"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280962"/>
   </node>
   <node id="-150" visible="true" lat="44.89483612" lon="-72.43095709">
     <tag k="addr:housenumber" v="452"/>
@@ -414,17 +486,35 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280996"/>
   </node>
+  <node id="-183" visible="true" lat="44.89257812" lon="-72.42273814">
+    <tag k="addr:housenumber" v="776"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280997"/>
+  </node>
   <node id="-184" visible="true" lat="44.89236104" lon="-72.53690663">
     <tag k="addr:housenumber" v="59"/>
     <tag k="addr:street" v="Van De Kamer Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="280999"/>
   </node>
+  <node id="-185" visible="true" lat="44.89240705" lon="-72.42296451">
+    <tag k="addr:housenumber" v="790"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281000"/>
+  </node>
   <node id="-186" visible="true" lat="44.89243679" lon="-72.5346815">
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Edelweiss Circle"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281001"/>
+  </node>
+  <node id="-187" visible="true" lat="44.89219158" lon="-72.42204623">
+    <tag k="addr:housenumber" v="757"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281002"/>
   </node>
   <node id="-188" visible="true" lat="44.89225387" lon="-72.4346466">
     <tag k="addr:housenumber" v="348"/>
@@ -480,6 +570,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281012"/>
   </node>
+  <node id="-197" visible="true" lat="44.89187177" lon="-72.42285961">
+    <tag k="addr:housenumber" v="803"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281013"/>
+  </node>
+  <node id="-198" visible="true" lat="44.89229546" lon="-72.42374463">
+    <tag k="addr:housenumber" v="836"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281014"/>
+  </node>
   <node id="-199" visible="true" lat="44.89196895" lon="-72.53567439">
     <tag k="addr:housenumber" v="150"/>
     <tag k="addr:street" v="Edelweiss Circle"/>
@@ -504,6 +606,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281018"/>
   </node>
+  <node id="-203" visible="true" lat="44.89190041" lon="-72.4243656">
+    <tag k="addr:housenumber" v="864"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281019"/>
+  </node>
+  <node id="-204" visible="true" lat="44.89157821" lon="-72.42495846">
+    <tag k="addr:housenumber" v="918"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281020"/>
+  </node>
   <node id="-205" visible="true" lat="44.89171307" lon="-72.5343366">
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Christmas Road"/>
@@ -527,6 +641,12 @@
     <tag k="addr:street" v="North Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281024"/>
+  </node>
+  <node id="-209" visible="true" lat="44.89145382" lon="-72.52618964">
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281025"/>
   </node>
   <node id="-210" visible="true" lat="44.89153305" lon="-72.53175283">
     <tag k="addr:housenumber" v="123"/>
@@ -576,11 +696,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281033"/>
   </node>
+  <node id="-218" visible="true" lat="44.89122685" lon="-72.42470482">
+    <tag k="addr:housenumber" v="903"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281034"/>
+  </node>
   <node id="-219" visible="true" lat="44.89139762" lon="-72.53345066">
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="Evergreen Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281035"/>
+  </node>
+  <node id="-220" visible="true" lat="44.89124679" lon="-72.42575836">
+    <tag k="addr:housenumber" v="948"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281036"/>
   </node>
   <node id="-221" visible="true" lat="44.89136792" lon="-72.53575234">
     <tag k="addr:housenumber" v="73"/>
@@ -594,6 +726,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281038"/>
   </node>
+  <node id="-223" visible="true" lat="44.89100767" lon="-72.42508194">
+    <tag k="addr:housenumber" v="929"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281039"/>
+  </node>
   <node id="-224" visible="true" lat="44.89111709" lon="-72.53160095">
     <tag k="addr:housenumber" v="92"/>
     <tag k="addr:street" v="Evergreen Lane"/>
@@ -606,11 +744,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281041"/>
   </node>
+  <node id="-226" visible="true" lat="44.89105606" lon="-72.42615508">
+    <tag k="addr:housenumber" v="976"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281042"/>
+  </node>
+  <node id="-227" visible="true" lat="44.89104748" lon="-72.52858584">
+    <tag k="addr:housenumber" v="593"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281043"/>
+  </node>
   <node id="-228" visible="true" lat="44.89091919" lon="-72.53261102">
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="Evergreen Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281044"/>
+  </node>
+  <node id="-229" visible="true" lat="44.89090169" lon="-72.42368142">
+    <tag k="addr:housenumber" v="855"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281045"/>
   </node>
   <node id="-230" visible="true" lat="44.89101886" lon="-72.5305001">
     <tag k="addr:housenumber" v="174"/>
@@ -623,6 +779,18 @@
     <tag k="addr:street" v="Evergreen Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281047"/>
+  </node>
+  <node id="-232" visible="true" lat="44.89084108" lon="-72.42554579">
+    <tag k="addr:housenumber" v="953"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281048"/>
+  </node>
+  <node id="-233" visible="true" lat="44.8908504" lon="-72.52810665">
+    <tag k="addr:housenumber" v="594"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281049"/>
   </node>
   <node id="-234" visible="true" lat="44.89086913" lon="-72.53720855">
     <tag k="addr:housenumber" v="167"/>
@@ -660,6 +828,30 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281055"/>
   </node>
+  <node id="-240" visible="true" lat="44.89038957" lon="-72.52784868">
+    <tag k="addr:housenumber" v="578"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281056"/>
+  </node>
+  <node id="-241" visible="true" lat="44.89064591" lon="-72.53455746">
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:street" v="Waldhof Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281057"/>
+  </node>
+  <node id="-242" visible="true" lat="44.89047866" lon="-72.42541925">
+    <tag k="addr:housenumber" v="979"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281058"/>
+  </node>
+  <node id="-243" visible="true" lat="44.89056396" lon="-72.42626953">
+    <tag k="addr:housenumber" v="999"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281059"/>
+  </node>
   <node id="-244" visible="true" lat="44.89045137" lon="-72.42904582">
     <tag k="addr:housenumber" v="107"/>
     <tag k="addr:street" v="North Hill Road"/>
@@ -671,6 +863,24 @@
     <tag k="addr:street" v="Karnten Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281061"/>
+  </node>
+  <node id="-246" visible="true" lat="44.89040562" lon="-72.4365386">
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Ballground Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281062"/>
+  </node>
+  <node id="-247" visible="true" lat="44.89048701" lon="-72.42733874">
+    <tag k="addr:housenumber" v="1036"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281063"/>
+  </node>
+  <node id="-248" visible="true" lat="44.89043873" lon="-72.42982257">
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281064"/>
   </node>
   <node id="-249" visible="true" lat="44.89042102" lon="-72.41842907">
     <tag k="addr:housenumber" v="266"/>
@@ -690,11 +900,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281067"/>
   </node>
+  <node id="-252" visible="true" lat="44.89028549" lon="-72.42762756">
+    <tag k="addr:housenumber" v="1060"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281068"/>
+  </node>
   <node id="-253" visible="true" lat="44.89035188" lon="-72.43038688">
     <tag k="addr:housenumber" v="84"/>
     <tag k="addr:street" v="School Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281069"/>
+  </node>
+  <node id="-254" visible="true" lat="44.89003098" lon="-72.42714192">
+    <tag k="addr:housenumber" v="1045"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281070"/>
   </node>
   <node id="-255" visible="true" lat="44.89012171" lon="-72.53270107">
     <tag k="addr:housenumber" v="50"/>
@@ -714,6 +936,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281073"/>
   </node>
+  <node id="-258" visible="true" lat="44.89016503" lon="-72.42800259">
+    <tag k="addr:housenumber" v="1074"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281074"/>
+  </node>
   <node id="-259" visible="true" lat="44.88989673" lon="-72.53334956">
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Karnten Road"/>
@@ -726,11 +954,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281076"/>
   </node>
+  <node id="-261" visible="true" lat="44.88981914" lon="-72.42761347">
+    <tag k="addr:housenumber" v="1079"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281077"/>
+  </node>
   <node id="-262" visible="true" lat="44.88972997" lon="-72.45176965">
     <tag k="addr:housenumber" v="987"/>
     <tag k="addr:street" v="Ballground Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281078"/>
+  </node>
+  <node id="-263" visible="true" lat="44.8895545" lon="-72.4279373">
+    <tag k="addr:housenumber" v="1107"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281079"/>
   </node>
   <node id="-264" visible="true" lat="44.88951492" lon="-72.42900848">
     <tag k="addr:housenumber" v="31"/>
@@ -738,11 +978,131 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281080"/>
   </node>
+  <node id="-265" visible="true" lat="44.8891759" lon="-72.43070121">
+    <tag k="addr:housenumber" v="1152"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281081"/>
+  </node>
+  <node id="-266" visible="true" lat="44.88921491" lon="-72.42830307">
+    <tag k="addr:housenumber" v="1133"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281082"/>
+  </node>
+  <node id="-267" visible="true" lat="44.88931768" lon="-72.42901435">
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="North Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281083"/>
+  </node>
+  <node id="-268" visible="true" lat="44.88893508" lon="-72.42837524">
+    <tag k="addr:housenumber" v="1167"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281085"/>
+  </node>
+  <node id="-269" visible="true" lat="44.88878063" lon="-72.42907739">
+    <tag k="addr:housenumber" v="1184"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281086"/>
+  </node>
+  <node id="-270" visible="true" lat="44.88860282" lon="-72.42840525">
+    <tag k="addr:housenumber" v="1187"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281087"/>
+  </node>
+  <node id="-271" visible="true" lat="44.88813967" lon="-72.42845435">
+    <tag k="addr:housenumber" v="1219"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281088"/>
+  </node>
+  <node id="-272" visible="true" lat="44.88803662" lon="-72.42912682">
+    <tag k="addr:housenumber" v="1226"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281089"/>
+  </node>
+  <node id="-273" visible="true" lat="44.88793282" lon="-72.42861403">
+    <tag k="addr:housenumber" v="1237"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281090"/>
+  </node>
+  <node id="-274" visible="true" lat="44.88777957" lon="-72.53183284">
+    <tag k="addr:housenumber" v="260"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281091"/>
+  </node>
+  <node id="-275" visible="true" lat="44.88773119" lon="-72.42925196">
+    <tag k="addr:housenumber" v="1252"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281092"/>
+  </node>
+  <node id="-276" visible="true" lat="44.88769141" lon="-72.42866285">
+    <tag k="addr:housenumber" v="1257"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281093"/>
+  </node>
+  <node id="-277" visible="true" lat="44.88790355" lon="-72.53477657">
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281094"/>
+  </node>
+  <node id="-278" visible="true" lat="44.88727747" lon="-72.42860791">
+    <tag k="addr:housenumber" v="1269"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281095"/>
+  </node>
+  <node id="-279" visible="true" lat="44.88738992" lon="-72.53423464">
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281096"/>
+  </node>
+  <node id="-280" visible="true" lat="44.88711048" lon="-72.42948839">
+    <tag k="addr:housenumber" v="1290"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281097"/>
+  </node>
   <node id="-281" visible="true" lat="44.8869154" lon="-72.4160845">
     <tag k="addr:housenumber" v="536"/>
     <tag k="addr:street" v="Loop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281098"/>
+  </node>
+  <node id="-282" visible="true" lat="44.88670593" lon="-72.42867793">
+    <tag k="addr:housenumber" v="1317"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281099"/>
+  </node>
+  <node id="-283" visible="true" lat="44.88659804" lon="-72.42950981">
+    <tag k="addr:housenumber" v="1342"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281100"/>
+  </node>
+  <node id="-284" visible="true" lat="44.88629208" lon="-72.42876854">
+    <tag k="addr:housenumber" v="1351"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281101"/>
+  </node>
+  <node id="-285" visible="true" lat="44.88585357" lon="-72.4288176">
+    <tag k="addr:housenumber" v="1365"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281102"/>
   </node>
   <node id="-286" visible="true" lat="44.88568593" lon="-72.41412737">
     <tag k="addr:housenumber" v="649"/>
@@ -750,11 +1110,53 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281103"/>
   </node>
+  <node id="-287" visible="true" lat="44.88545942" lon="-72.42890126">
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281104"/>
+  </node>
   <node id="-288" visible="true" lat="44.88503566" lon="-72.41504264">
     <tag k="addr:housenumber" v="668"/>
     <tag k="addr:street" v="Loop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281105"/>
+  </node>
+  <node id="-289" visible="true" lat="44.88509484" lon="-72.42897102">
+    <tag k="addr:housenumber" v="1439"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281106"/>
+  </node>
+  <node id="-290" visible="true" lat="44.88464649" lon="-72.42904782">
+    <tag k="addr:housenumber" v="1465"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281107"/>
+  </node>
+  <node id="-291" visible="true" lat="44.88226094" lon="-72.53105868">
+    <tag k="addr:housenumber" v="903"/>
+    <tag k="addr:street" v="Fisher Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281108"/>
+  </node>
+  <node id="-292" visible="true" lat="44.88197715" lon="-72.43516365">
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:street" v="Carmel Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281109"/>
+  </node>
+  <node id="-293" visible="true" lat="44.88331112" lon="-72.52506184">
+    <tag k="addr:housenumber" v="905"/>
+    <tag k="addr:street" v="Fisher Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281110"/>
+  </node>
+  <node id="-294" visible="true" lat="44.88066389" lon="-72.53124274">
+    <tag k="addr:housenumber" v="902"/>
+    <tag k="addr:street" v="Fisher Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281111"/>
   </node>
   <node id="-295" visible="true" lat="44.88046518" lon="-72.42226049">
     <tag k="addr:housenumber" v="399"/>
@@ -762,11 +1164,35 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281112"/>
   </node>
+  <node id="-296" visible="true" lat="44.8799583" lon="-72.53556949">
+    <tag k="addr:housenumber" v="650"/>
+    <tag k="addr:street" v="Fisher Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281113"/>
+  </node>
+  <node id="-297" visible="true" lat="44.88000488" lon="-72.43092346">
+    <tag k="addr:housenumber" v="1794"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281114"/>
+  </node>
   <node id="-298" visible="true" lat="44.87951895" lon="-72.42990891">
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Cemetery Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281115"/>
+  </node>
+  <node id="-299" visible="true" lat="44.87913131" lon="-72.41748046">
+    <tag k="addr:housenumber" v="659"/>
+    <tag k="addr:street" v="Cemetery Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281116"/>
+  </node>
+  <node id="-300" visible="true" lat="44.88185481" lon="-72.43506769">
+    <tag k="addr:housenumber" v="260"/>
+    <tag k="addr:street" v="Carmel Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281117"/>
   </node>
   <node id="-301" visible="true" lat="44.87864125" lon="-72.4200501">
     <tag k="addr:housenumber" v="548"/>
@@ -792,17 +1218,47 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281121"/>
   </node>
+  <node id="-305" visible="true" lat="44.87509536" lon="-72.43162536">
+    <tag k="addr:housenumber" v="2134"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281122"/>
+  </node>
+  <node id="-306" visible="true" lat="44.87493119" lon="-72.45881069">
+    <tag k="addr:housenumber" v="795"/>
+    <tag k="addr:street" v="Kettle Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281123"/>
+  </node>
   <node id="-307" visible="true" lat="44.87457609" lon="-72.41650642">
     <tag k="addr:housenumber" v="1334"/>
     <tag k="addr:street" v="Loop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281124"/>
   </node>
+  <node id="-308" visible="true" lat="44.87458419" lon="-72.43074798">
+    <tag k="addr:housenumber" v="2167"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281125"/>
+  </node>
+  <node id="-309" visible="true" lat="44.87405588" lon="-72.45189242">
+    <tag k="addr:housenumber" v="434"/>
+    <tag k="addr:street" v="Kettle Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281126"/>
+  </node>
   <node id="-310" visible="true" lat="44.87245178" lon="-72.45005035">
     <tag k="addr:housenumber" v="268"/>
     <tag k="addr:street" v="Kettle Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281127"/>
+  </node>
+  <node id="-311" visible="true" lat="44.87073766" lon="-72.44545596">
+    <tag k="addr:housenumber" v="272"/>
+    <tag k="addr:street" v="Balance Rock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281128"/>
   </node>
   <node id="-312" visible="true" lat="44.87076187" lon="-72.4506073">
     <tag k="addr:housenumber" v="179"/>
@@ -822,6 +1278,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281131"/>
   </node>
+  <node id="-315" visible="true" lat="44.87011267" lon="-72.43248809">
+    <tag k="addr:housenumber" v="2491"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281132"/>
+  </node>
+  <node id="-316" visible="true" lat="44.86969889" lon="-72.46054787">
+    <tag k="addr:housenumber" v="550"/>
+    <tag k="addr:street" v="Corrow Basin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281133"/>
+  </node>
   <node id="-317" visible="true" lat="44.86913626" lon="-72.41623535">
     <tag k="addr:housenumber" v="1784"/>
     <tag k="addr:street" v="Loop Road"/>
@@ -834,6 +1302,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281135"/>
   </node>
+  <node id="-319" visible="true" lat="44.86916351" lon="-72.43345642">
+    <tag k="addr:housenumber" v="2532"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281136"/>
+  </node>
   <node id="-320" visible="true" lat="44.86892318" lon="-72.4545288">
     <tag k="addr:housenumber" v="236"/>
     <tag k="addr:street" v="Corrow Basin Road"/>
@@ -845,6 +1319,12 @@
     <tag k="addr:street" v="Kettle Farm Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281138"/>
+  </node>
+  <node id="-322" visible="true" lat="44.86847685" lon="-72.41836477">
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281139"/>
   </node>
   <node id="-323" visible="true" lat="44.8680438" lon="-72.46248769">
     <tag k="addr:housenumber" v="599"/>
@@ -864,6 +1344,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281142"/>
   </node>
+  <node id="-326" visible="true" lat="44.86779403" lon="-72.43389129">
+    <tag k="addr:housenumber" v="2652"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281143"/>
+  </node>
   <node id="-327" visible="true" lat="44.86726379" lon="-72.45419311">
     <tag k="addr:housenumber" v="179"/>
     <tag k="addr:street" v="Corrow Basin Road"/>
@@ -875,6 +1361,12 @@
     <tag k="addr:street" v="Corrow Basin Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281145"/>
+  </node>
+  <node id="-329" visible="true" lat="44.86605982" lon="-72.43385227">
+    <tag k="addr:housenumber" v="2770"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281146"/>
   </node>
   <node id="-330" visible="true" lat="44.8658339" lon="-72.45099969">
     <tag k="addr:housenumber" v="721"/>
@@ -900,6 +1392,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281150"/>
   </node>
+  <node id="-334" visible="true" lat="44.86480219" lon="-72.45094159">
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:street" v="Taft Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281152"/>
+  </node>
   <node id="-335" visible="true" lat="44.86495924" lon="-72.45288359">
     <tag k="addr:housenumber" v="848"/>
     <tag k="addr:street" v="Balance Rock Road"/>
@@ -912,11 +1410,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281154"/>
   </node>
+  <node id="-337" visible="true" lat="44.86417297" lon="-72.44911777">
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="Taft Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281155"/>
+  </node>
   <node id="-338" visible="true" lat="44.86409847" lon="-72.41301801">
     <tag k="addr:housenumber" v="2191"/>
     <tag k="addr:street" v="Loop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281156"/>
+  </node>
+  <node id="-339" visible="true" lat="44.86388522" lon="-72.44842229">
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:street" v="Taft Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281158"/>
   </node>
   <node id="-340" visible="true" lat="44.86373688" lon="-72.44207513">
     <tag k="addr:housenumber" v="834"/>
@@ -924,11 +1434,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281159"/>
   </node>
-  <node id="-342" visible="true" lat="44.8629837" lon="-72.44548797">
+  <node id="-341" visible="true" lat="44.86411141" lon="-72.44637279">
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Taft Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281160"/>
+  </node>
+  <node id="-342" visible="true" lat="44.8629584" lon="-72.44559825">
     <tag k="addr:housenumber" v="981"/>
     <tag k="addr:street" v="Buck Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281161"/>
+  </node>
+  <node id="-343" visible="true" lat="44.86306669" lon="-72.43412869">
+    <tag k="addr:housenumber" v="2998"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281162"/>
+  </node>
+  <node id="-344" visible="true" lat="44.8627051" lon="-72.43309208">
+    <tag k="addr:housenumber" v="2987"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281163"/>
   </node>
   <node id="-345" visible="true" lat="44.86230468" lon="-72.44228362">
     <tag k="addr:housenumber" v="906"/>
@@ -936,17 +1464,71 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281164"/>
   </node>
+  <node id="-346" visible="true" lat="44.86218643" lon="-72.45742797">
+    <tag k="addr:housenumber" v="1137"/>
+    <tag k="addr:street" v="Balance Rock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281165"/>
+  </node>
+  <node id="-347" visible="true" lat="44.86191948" lon="-72.43504462">
+    <tag k="addr:housenumber" v="3004"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281166"/>
+  </node>
   <node id="-348" visible="true" lat="44.86201554" lon="-72.44749172">
     <tag k="addr:housenumber" v="1103"/>
     <tag k="addr:street" v="Buck Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281167"/>
   </node>
+  <node id="-349" visible="true" lat="44.86141649" lon="-72.43110667">
+    <tag k="addr:housenumber" v="178"/>
+    <tag k="addr:street" v="Peaceful Ridge Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281168"/>
+  </node>
+  <node id="-350" visible="true" lat="44.86120224" lon="-72.43549346">
+    <tag k="addr:housenumber" v="3102"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281169"/>
+  </node>
+  <node id="-351" visible="true" lat="44.85986709" lon="-72.45037078">
+    <tag k="addr:housenumber" v="1281"/>
+    <tag k="addr:street" v="Buck Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281170"/>
+  </node>
+  <node id="-352" visible="true" lat="44.85889053" lon="-72.41180419">
+    <tag k="addr:housenumber" v="2452"/>
+    <tag k="addr:street" v="Loop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281171"/>
+  </node>
+  <node id="-353" visible="true" lat="44.85816968" lon="-72.43453238">
+    <tag k="addr:housenumber" v="3322"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281172"/>
+  </node>
   <node id="-354" visible="true" lat="44.85635375" lon="-72.45223999">
     <tag k="addr:housenumber" v="1579"/>
     <tag k="addr:street" v="Buck Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281173"/>
+  </node>
+  <node id="-355" visible="true" lat="44.85500702" lon="-72.43443182">
+    <tag k="addr:housenumber" v="3528"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281174"/>
+  </node>
+  <node id="-356" visible="true" lat="44.85490727" lon="-72.43373936">
+    <tag k="addr:housenumber" v="3537"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281175"/>
   </node>
   <node id="-357" visible="true" lat="44.85448745" lon="-72.45422386">
     <tag k="addr:housenumber" v="1715"/>
@@ -960,11 +1542,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281177"/>
   </node>
+  <node id="-359" visible="true" lat="44.85383011" lon="-72.46060008">
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="Circle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281178"/>
+  </node>
   <node id="-360" visible="true" lat="44.85327911" lon="-72.46135711">
     <tag k="addr:housenumber" v="94"/>
     <tag k="addr:street" v="Circle Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281179"/>
+  </node>
+  <node id="-361" visible="true" lat="44.85325082" lon="-72.46008416">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Circle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281180"/>
   </node>
   <node id="-362" visible="true" lat="44.8529663" lon="-72.46025085">
     <tag k="addr:housenumber" v="2024"/>
@@ -978,11 +1572,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281182"/>
   </node>
+  <node id="-364" visible="true" lat="44.85141853" lon="-72.43467597">
+    <tag k="addr:housenumber" v="3786"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281183"/>
+  </node>
   <node id="-365" visible="true" lat="44.85126113" lon="-72.45644378">
     <tag k="addr:housenumber" v="1947"/>
     <tag k="addr:street" v="Buck Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281184"/>
+  </node>
+  <node id="-366" visible="true" lat="44.85121536" lon="-72.43378448">
+    <tag k="addr:housenumber" v="3809"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281185"/>
   </node>
   <node id="-367" visible="true" lat="44.85048796" lon="-72.44053096">
     <tag k="addr:housenumber" v="439"/>
@@ -996,11 +1602,35 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281187"/>
   </node>
+  <node id="-369" visible="true" lat="44.84583282" lon="-72.44191742">
+    <tag k="addr:housenumber" v="571"/>
+    <tag k="addr:street" v="Sniderbrook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281188"/>
+  </node>
+  <node id="-370" visible="true" lat="44.84573881" lon="-72.42910332">
+    <tag k="addr:housenumber" v="4103"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281189"/>
+  </node>
   <node id="-371" visible="true" lat="44.84498596" lon="-72.45639038">
     <tag k="addr:housenumber" v="377"/>
     <tag k="addr:street" v="Trumpass Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281190"/>
+  </node>
+  <node id="-372" visible="true" lat="44.84482574" lon="-72.4803009">
+    <tag k="addr:housenumber" v="2872"/>
+    <tag k="addr:street" v="Balance Rock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281191"/>
+  </node>
+  <node id="-373" visible="true" lat="44.84501604" lon="-72.43341732">
+    <tag k="addr:housenumber" v="4251"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281192"/>
   </node>
   <node id="-374" visible="true" lat="44.84454518" lon="-72.45421486">
     <tag k="addr:housenumber" v="421"/>
@@ -1014,6 +1644,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281194"/>
   </node>
+  <node id="-376" visible="true" lat="44.84370422" lon="-72.47994995">
+    <tag k="addr:housenumber" v="2849"/>
+    <tag k="addr:street" v="Balance Rock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281195"/>
+  </node>
   <node id="-377" visible="true" lat="44.84355188" lon="-72.46358911">
     <tag k="addr:housenumber" v="2704"/>
     <tag k="addr:street" v="Buck Hill Road"/>
@@ -1025,6 +1661,12 @@
     <tag k="addr:street" v="Buck Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281197"/>
+  </node>
+  <node id="-379" visible="true" lat="44.84307861" lon="-72.48207092">
+    <tag k="addr:housenumber" v="2948"/>
+    <tag k="addr:street" v="Balance Rock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281198"/>
   </node>
   <node id="-380" visible="true" lat="44.84281166" lon="-72.46433306">
     <tag k="addr:housenumber" v="2780"/>
@@ -1056,6 +1698,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281203"/>
   </node>
+  <node id="-385" visible="true" lat="44.84003532" lon="-72.52998952">
+    <tag k="addr:housenumber" v="1269"/>
+    <tag k="addr:street" v="Route 58"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281204"/>
+  </node>
   <node id="-386" visible="true" lat="44.83915635" lon="-72.48460231">
     <tag k="addr:housenumber" v="3248"/>
     <tag k="addr:street" v="Balance Rock Road"/>
@@ -1067,6 +1715,12 @@
     <tag k="addr:street" v="Buck Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281206"/>
+  </node>
+  <node id="-388" visible="true" lat="44.83924304" lon="-72.43567069">
+    <tag k="addr:housenumber" v="4656"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281207"/>
   </node>
   <node id="-389" visible="true" lat="44.83909031" lon="-72.46442917">
     <tag k="addr:housenumber" v="3032"/>
@@ -1092,6 +1746,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281211"/>
   </node>
+  <node id="-393" visible="true" lat="44.83721886" lon="-72.4340259">
+    <tag k="addr:housenumber" v="4770"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281212"/>
+  </node>
   <node id="-394" visible="true" lat="44.83732441" lon="-72.50353872">
     <tag k="addr:housenumber" v="1006"/>
     <tag k="addr:street" v="Monteith Road"/>
@@ -1110,6 +1770,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281215"/>
   </node>
+  <node id="-397" visible="true" lat="44.83695017" lon="-72.43479867">
+    <tag k="addr:housenumber" v="4744"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281216"/>
+  </node>
   <node id="-398" visible="true" lat="44.8360982" lon="-72.50463298">
     <tag k="addr:housenumber" v="1164"/>
     <tag k="addr:street" v="Monteith Road"/>
@@ -1121,6 +1787,12 @@
     <tag k="addr:street" v="Balance Rock Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281218"/>
+  </node>
+  <node id="-400" visible="true" lat="44.83523977" lon="-72.50776542">
+    <tag k="addr:housenumber" v="1302"/>
+    <tag k="addr:street" v="Monteith Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281219"/>
   </node>
   <node id="-401" visible="true" lat="44.91435243" lon="-72.42430778">
     <tag k="addr:housenumber" v="945"/>
@@ -1134,6 +1806,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281221"/>
   </node>
+  <node id="-403" visible="true" lat="44.90267535" lon="-72.43914623">
+    <tag k="addr:housenumber" v="387"/>
+    <tag k="addr:street" v="Kingdom Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281222"/>
+  </node>
   <node id="-404" visible="true" lat="44.87407023" lon="-72.45356486">
     <tag k="addr:housenumber" v="481"/>
     <tag k="addr:street" v="Kettle Farm Road"/>
@@ -1146,6 +1824,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281224"/>
   </node>
+  <node id="-406" visible="true" lat="44.83505106" lon="-72.43123025">
+    <tag k="addr:housenumber" v="4941"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281225"/>
+  </node>
   <node id="-407" visible="true" lat="44.89162129" lon="-72.43857308">
     <tag k="addr:housenumber" v="282"/>
     <tag k="addr:street" v="Ballground Road"/>
@@ -1157,6 +1841,12 @@
     <tag k="addr:street" v="North Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281227"/>
+  </node>
+  <node id="-409" visible="true" lat="44.89085347" lon="-72.43495232">
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="Ballground Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281228"/>
   </node>
   <node id="-410" visible="true" lat="44.87616682" lon="-72.41644334">
     <tag k="addr:housenumber" v="1264"/>
@@ -1182,6 +1872,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281233"/>
   </node>
+  <node id="-414" visible="true" lat="44.8830306" lon="-72.42813965">
+    <tag k="addr:housenumber" v="1571"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281234"/>
+  </node>
+  <node id="-415" visible="true" lat="44.87843336" lon="-72.43314488">
+    <tag k="addr:housenumber" v="1880"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281235"/>
+  </node>
   <node id="-416" visible="true" lat="44.90270345" lon="-72.43157608">
     <tag k="addr:housenumber" v="973"/>
     <tag k="addr:street" v="North Hill Road"/>
@@ -1193,6 +1895,18 @@
     <tag k="addr:street" v="Loop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281237"/>
+  </node>
+  <node id="-418" visible="true" lat="44.89281159" lon="-72.5254131">
+    <tag k="addr:housenumber" v="804"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281238"/>
+  </node>
+  <node id="-419" visible="true" lat="44.89358454" lon="-72.52638164">
+    <tag k="addr:housenumber" v="787"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281239"/>
   </node>
   <node id="-420" visible="true" lat="44.89221625" lon="-72.44338277">
     <tag k="addr:housenumber" v="534"/>
@@ -1218,17 +1932,41 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281243"/>
   </node>
+  <node id="-424" visible="true" lat="44.8585884" lon="-72.44821581">
+    <tag k="addr:housenumber" v="1348"/>
+    <tag k="addr:street" v="Buck Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281244"/>
+  </node>
+  <node id="-425" visible="true" lat="44.85727747" lon="-72.44960687">
+    <tag k="addr:housenumber" v="1462"/>
+    <tag k="addr:street" v="Buck Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281245"/>
+  </node>
   <node id="-426" visible="true" lat="44.88034977" lon="-72.41669253">
     <tag k="addr:housenumber" v="960"/>
     <tag k="addr:street" v="Loop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281246"/>
   </node>
+  <node id="-427" visible="true" lat="44.88285781" lon="-72.43035345">
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Freedom Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281247"/>
+  </node>
   <node id="-428" visible="true" lat="44.89538696" lon="-72.43106686">
     <tag k="addr:housenumber" v="474"/>
     <tag k="addr:street" v="North Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281248"/>
+  </node>
+  <node id="-429" visible="true" lat="44.89920197" lon="-72.42397936">
+    <tag k="addr:housenumber" v="272"/>
+    <tag k="addr:street" v="Deslandes Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281249"/>
   </node>
   <node id="-431" visible="true" lat="44.90132294" lon="-72.42973009">
     <tag k="addr:housenumber" v="850"/>
@@ -1241,6 +1979,12 @@
     <tag k="addr:street" v="Kennison Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="281253"/>
+  </node>
+  <node id="-433" visible="true" lat="44.91861238" lon="-72.42299255">
+    <tag k="addr:housenumber" v="1409"/>
+    <tag k="addr:street" v="Kennison Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="281254"/>
   </node>
   <node id="-434" visible="true" lat="44.85792068" lon="-72.40704004">
     <tag k="addr:housenumber" v="2770"/>
@@ -1260,17 +2004,53 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="318047"/>
   </node>
+  <node id="-437" visible="true" lat="44.88843887" lon="-72.44185657">
+    <tag k="addr:housenumber" v="237"/>
+    <tag k="addr:street" v="Crawford Trail"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326217"/>
+  </node>
+  <node id="-438" visible="true" lat="44.88769954" lon="-72.44562646">
+    <tag k="addr:housenumber" v="440"/>
+    <tag k="addr:street" v="Crawford Trail"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326218"/>
+  </node>
+  <node id="-439" visible="true" lat="44.88144472" lon="-72.44911054">
+    <tag k="addr:housenumber" v="922"/>
+    <tag k="addr:street" v="Crawford Trail"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326219"/>
+  </node>
+  <node id="-440" visible="true" lat="44.85873938" lon="-72.43289452">
+    <tag k="addr:housenumber" v="3281"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326304"/>
+  </node>
   <node id="-441" visible="true" lat="44.89141651" lon="-72.43702343">
     <tag k="addr:housenumber" v="212"/>
     <tag k="addr:street" v="Ballground Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="326305"/>
   </node>
+  <node id="-442" visible="true" lat="44.90311945" lon="-72.44056916">
+    <tag k="addr:housenumber" v="454"/>
+    <tag k="addr:street" v="Kingdom Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326573"/>
+  </node>
   <node id="-443" visible="true" lat="44.86877948" lon="-72.45849698">
     <tag k="addr:housenumber" v="421"/>
     <tag k="addr:street" v="Corrow Basin Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="326574"/>
+  </node>
+  <node id="-444" visible="true" lat="44.87953178" lon="-72.44971194">
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:street" v="Carmel Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326575"/>
   </node>
   <node id="-445" visible="true" lat="44.89187024" lon="-72.44150298">
     <tag k="addr:housenumber" v="400"/>
@@ -1290,6 +2070,48 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="335757"/>
   </node>
+  <node id="-448" visible="true" lat="44.91339216" lon="-72.4330356">
+    <tag k="addr:housenumber" v="1593"/>
+    <tag k="addr:street" v="North Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339696"/>
+  </node>
+  <node id="-449" visible="true" lat="44.92436591" lon="-72.52606876">
+    <tag k="addr:housenumber" v="1838"/>
+    <tag k="addr:street" v="Work Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340437"/>
+  </node>
+  <node id="-450" visible="true" lat="44.92580206" lon="-72.52778063">
+    <tag k="addr:housenumber" v="1378"/>
+    <tag k="addr:street" v="Work Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340438"/>
+  </node>
+  <node id="-451" visible="true" lat="44.92557635" lon="-72.51638846">
+    <tag k="addr:housenumber" v="446"/>
+    <tag k="addr:street" v="Work Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340442"/>
+  </node>
+  <node id="-452" visible="true" lat="44.92029299" lon="-72.51186788">
+    <tag k="addr:housenumber" v="823"/>
+    <tag k="addr:street" v="Work Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340443"/>
+  </node>
+  <node id="-453" visible="true" lat="44.92009264" lon="-72.51181879">
+    <tag k="addr:housenumber" v="825"/>
+    <tag k="addr:street" v="Work Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340444"/>
+  </node>
+  <node id="-454" visible="true" lat="44.8790733" lon="-72.44178852">
+    <tag k="addr:housenumber" v="790"/>
+    <tag k="addr:street" v="Carmel Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="340754"/>
+  </node>
   <node id="-455" visible="true" lat="44.8644463" lon="-72.45224273">
     <tag k="addr:housenumber" v="845"/>
     <tag k="addr:street" v="Balance Rock Road"/>
@@ -1302,11 +2124,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342414"/>
   </node>
+  <node id="-457" visible="true" lat="44.89021902" lon="-72.42677041">
+    <tag k="addr:housenumber" v="1027"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342415"/>
+  </node>
   <node id="-458" visible="true" lat="44.89286413" lon="-72.46025482">
     <tag k="addr:housenumber" v="1383"/>
     <tag k="addr:street" v="Ballground Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343427"/>
+  </node>
+  <node id="-459" visible="true" lat="44.91970534" lon="-72.42924623">
+    <tag k="addr:housenumber" v="2124"/>
+    <tag k="addr:street" v="North Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="343428"/>
   </node>
   <node id="-460" visible="true" lat="44.88949383" lon="-72.45367069">
     <tag k="addr:housenumber" v="989"/>
@@ -1326,11 +2160,41 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="343431"/>
   </node>
+  <node id="-463" visible="true" lat="44.862708" lon="-72.4294138">
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Peaceful Ridge Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="343432"/>
+  </node>
+  <node id="-465" visible="true" lat="44.84697249" lon="-72.464905">
+    <tag k="addr:housenumber" v="2482"/>
+    <tag k="addr:street" v="Buck Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344364"/>
+  </node>
+  <node id="-466" visible="true" lat="44.86458284" lon="-72.42032616">
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Mineral Spring Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344427"/>
+  </node>
   <node id="-467" visible="true" lat="44.84960545" lon="-72.45898636">
     <tag k="addr:housenumber" v="2227"/>
     <tag k="addr:street" v="Buck Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345586"/>
+  </node>
+  <node id="-468" visible="true" lat="44.87085796" lon="-72.43495403">
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:street" v="Buck Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345920"/>
+  </node>
+  <node id="-469" visible="true" lat="44.86376571" lon="-72.42992787">
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Peaceful Ridge Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345921"/>
   </node>
   <node id="-470" visible="true" lat="44.86674623" lon="-72.44264315">
     <tag k="addr:housenumber" v="709"/>
@@ -1344,11 +2208,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446627"/>
   </node>
+  <node id="-473" visible="true" lat="44.90570398" lon="-72.43081211">
+    <tag k="addr:housenumber" v="1202"/>
+    <tag k="addr:street" v="North Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="446628"/>
+  </node>
   <node id="-474" visible="true" lat="44.8846678" lon="-72.41385449">
     <tag k="addr:housenumber" v="715"/>
     <tag k="addr:street" v="Loop Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="447117"/>
+  </node>
+  <node id="-475" visible="true" lat="44.87910283" lon="-72.43719912">
+    <tag k="addr:housenumber" v="542"/>
+    <tag k="addr:street" v="Carmel Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448281"/>
+  </node>
+  <node id="-476" visible="true" lat="44.86857785" lon="-72.44386169">
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Balance Rock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448308"/>
   </node>
   <node id="-477" visible="true" lat="44.86865835" lon="-72.44207666">
     <tag k="addr:housenumber" v="123"/>
@@ -1380,11 +2262,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452838"/>
   </node>
-  <node id="-482" visible="true" lat="44.8939133" lon="-72.45820766">
+  <node id="-482" visible="true" lat="44.89435272" lon="-72.45865618">
     <tag k="addr:housenumber" v="1328"/>
     <tag k="addr:street" v="Ballground Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453021"/>
+  </node>
+  <node id="-483" visible="true" lat="44.90595529" lon="-72.42735655">
+    <tag k="addr:housenumber" v="1248"/>
+    <tag k="addr:street" v="North Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454920"/>
+  </node>
+  <node id="-484" visible="true" lat="44.88227242" lon="-72.43105023">
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Freedom Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454921"/>
+  </node>
+  <node id="-485" visible="true" lat="44.87081577" lon="-72.44333421">
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Balance Rock Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611415"/>
   </node>
   <node id="-486" visible="true" lat="44.92504305" lon="-72.43309978">
     <tag k="addr:housenumber" v="2583"/>
@@ -1398,6 +2298,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612732"/>
   </node>
+  <node id="-488" visible="true" lat="44.92176236" lon="-72.43099726">
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Bonnies Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612734"/>
+  </node>
+  <node id="-489" visible="true" lat="44.92027454" lon="-72.41708299">
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Forest Haven Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612736"/>
+  </node>
   <node id="-490" visible="true" lat="44.89653361" lon="-72.52870913">
     <tag k="addr:housenumber" v="279"/>
     <tag k="addr:street" v="Enzian Drive"/>
@@ -1410,16 +2322,220 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612738"/>
   </node>
+  <node id="-492" visible="true" lat="44.8977394" lon="-72.5293328">
+    <tag k="addr:housenumber" v="383"/>
+    <tag k="addr:street" v="Enzian Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612739"/>
+  </node>
+  <node id="-493" visible="true" lat="44.90142073" lon="-72.44317">
+    <tag k="addr:housenumber" v="633"/>
+    <tag k="addr:street" v="Kingdom Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612740"/>
+  </node>
   <node id="-500" visible="true" lat="44.84666025" lon="-72.4616244">
     <tag k="addr:housenumber" v="92"/>
     <tag k="addr:street" v="Trumpass Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612756"/>
   </node>
+  <node id="-502" visible="true" lat="44.84428144" lon="-72.47285885">
+    <tag k="addr:housenumber" v="254"/>
+    <tag k="addr:street" v="Legal Trail 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612758"/>
+  </node>
+  <node id="-503" visible="true" lat="44.91342093" lon="-72.42399103">
+    <tag k="addr:housenumber" v="919"/>
+    <tag k="addr:street" v="Kennison Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618199"/>
+  </node>
+  <node id="-504" visible="true" lat="44.85406871" lon="-72.44187957">
+    <tag k="addr:housenumber" v="372"/>
+    <tag k="addr:street" v="Sniderbrook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618210"/>
+  </node>
+  <node id="-505" visible="true" lat="44.90732805" lon="-72.41798965">
+    <tag k="addr:housenumber" v="377"/>
+    <tag k="addr:street" v="Kennison Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618403"/>
+  </node>
+  <node id="-506" visible="true" lat="44.89422428" lon="-72.43102077">
+    <tag k="addr:housenumber" v="392"/>
+    <tag k="addr:street" v="North Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618404"/>
+  </node>
+  <node id="-508" visible="true" lat="44.9003553" lon="-72.43001357">
+    <tag k="addr:housenumber" v="812"/>
+    <tag k="addr:street" v="North Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655663"/>
+  </node>
+  <node id="-509" visible="true" lat="44.88802805" lon="-72.4164789">
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:street" v="Loop Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753578"/>
+  </node>
+  <node id="-511" visible="true" lat="44.89252291" lon="-72.44497304">
+    <tag k="addr:housenumber" v="654"/>
+    <tag k="addr:street" v="Ballground Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754140"/>
+  </node>
+  <node id="-512" visible="true" lat="44.88277685" lon="-72.43096695">
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Freedom Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754141"/>
+  </node>
+  <node id="-513" visible="true" lat="44.86873695" lon="-72.46063546">
+    <tag k="addr:housenumber" v="589"/>
+    <tag k="addr:street" v="Corrow Basin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754958"/>
+  </node>
+  <node id="-514" visible="true" lat="44.87467624" lon="-72.45528638">
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:street" v="Kettle Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755586"/>
+  </node>
+  <node id="-515" visible="true" lat="44.89743286" lon="-72.52089785">
+    <tag k="addr:housenumber" v="1179"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756554"/>
+  </node>
+  <node id="-516" visible="true" lat="44.92367999" lon="-72.43040308">
+    <tag k="addr:housenumber" v="2107"/>
+    <tag k="addr:street" v="Kennison Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756743"/>
+  </node>
+  <node id="-517" visible="true" lat="44.87354034" lon="-72.43301836">
+    <tag k="addr:housenumber" v="2276"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758315"/>
+  </node>
+  <node id="-518" visible="true" lat="44.85583122" lon="-72.43655487">
+    <tag k="addr:housenumber" v="3520"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759198"/>
+  </node>
+  <node id="-519" visible="true" lat="44.85983967" lon="-72.4483036">
+    <tag k="addr:housenumber" v="1288"/>
+    <tag k="addr:street" v="Buck Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760480"/>
+  </node>
+  <node id="-520" visible="true" lat="44.87628204" lon="-72.43233276">
+    <tag k="addr:housenumber" v="2060"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760481"/>
+  </node>
+  <node id="-521" visible="true" lat="44.91130305" lon="-72.42787959">
+    <tag k="addr:housenumber" v="296"/>
+    <tag k="addr:street" v="Reservoir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761196"/>
+  </node>
+  <node id="-522" visible="true" lat="44.91100326" lon="-72.42947167">
+    <tag k="addr:housenumber" v="386"/>
+    <tag k="addr:street" v="Reservoir Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761197"/>
+  </node>
+  <node id="-523" visible="true" lat="44.85770093" lon="-72.43297281">
+    <tag k="addr:housenumber" v="3375"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761692"/>
+  </node>
+  <node id="-526" visible="true" lat="44.87069307" lon="-72.44780274">
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:street" v="Kettle Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763134"/>
+  </node>
+  <node id="-527" visible="true" lat="44.89251819" lon="-72.44905284">
+    <tag k="addr:housenumber" v="798"/>
+    <tag k="addr:street" v="Ballground Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763420"/>
+  </node>
+  <node id="-528" visible="true" lat="44.89225919" lon="-72.45023879">
+    <tag k="addr:housenumber" v="862"/>
+    <tag k="addr:street" v="Ballground Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763421"/>
+  </node>
+  <node id="-529" visible="true" lat="44.85710999" lon="-72.43786788">
+    <tag k="addr:housenumber" v="3518"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763958"/>
+  </node>
+  <node id="-530" visible="true" lat="44.89348506" lon="-72.42426303">
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Sugarhouse Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764939"/>
+  </node>
+  <node id="-531" visible="true" lat="44.89039873" lon="-72.5343744">
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Waldhof Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768251"/>
+  </node>
+  <node id="-532" visible="true" lat="44.91385652" lon="-72.51018646">
+    <tag k="addr:housenumber" v="2571"/>
+    <tag k="addr:street" v="Vermont Route 242"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="800152"/>
+  </node>
+  <node id="-535" visible="true" lat="44.8424805" lon="-72.47144993">
+    <tag k="addr:housenumber" v="322"/>
+    <tag k="addr:street" v="Legal Trail 4"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="900261"/>
+  </node>
+  <node id="-537" visible="true" lat="44.8436161" lon="-72.45701761">
+    <tag k="addr:housenumber" v="462"/>
+    <tag k="addr:street" v="Trumpass Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="900263"/>
+  </node>
   <node id="-545" visible="true" lat="44.86952222" lon="-72.43978651">
     <tag k="addr:housenumber" v="399"/>
     <tag k="addr:street" v="Buck Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="900280"/>
+  </node>
+  <node id="-546" visible="true" lat="44.8838684" lon="-72.4952508">
+    <tag k="addr:housenumber" v="2783"/>
+    <tag k="addr:street" v="Corrow Basin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="900282"/>
+  </node>
+  <node id="-550" visible="true" lat="44.92096648" lon="-72.42993253">
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Bonnies Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="900289"/>
+  </node>
+  <node id="-551" visible="true" lat="44.92077347" lon="-72.43131468">
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Bonnies Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="900291"/>
   </node>
 </osm>

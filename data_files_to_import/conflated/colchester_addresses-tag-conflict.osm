@@ -1,795 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-105" visible="true" lat="44.60604077" lon="-73.22489956">
-    <!-- conflict: "1402 Camp Kiniya Road, Colchester, VT" Fuzzy match to "1402 Camp Kiniya Road, , " -->
+  <node id="-5296" visible="true" lat="44.4992516" lon="-73.16058926">
+    <!-- conflict: "100 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "100 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1402"/>
-    <tag k="addr:street" v="Camp Kiniya Road"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69436"/>
+    <tag k="ref:vcgi:esiteid" v="75379"/>
   </node>
-  <node id="-107" visible="true" lat="44.60485839" lon="-73.22471618">
-    <!-- conflict: "1281 Camp Kiniya Road, Colchester, VT" Fuzzy match to "1281 Camp Kiniya Road, , " -->
+  <node id="-5302" visible="true" lat="44.49918643" lon="-73.16043925">
+    <!-- conflict: "94 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "94 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1281"/>
-    <tag k="addr:street" v="Camp Kiniya Road"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69441"/>
+    <tag k="ref:vcgi:esiteid" v="75385"/>
   </node>
-  <node id="-109" visible="true" lat="44.60553749" lon="-73.22799689">
-    <!-- conflict: "1317 Camp Kiniya Road, Colchester, VT" Fuzzy match to "1317 Camp Kiniya Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1317"/>
-    <tag k="addr:street" v="Camp Kiniya Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69443"/>
-  </node>
-  <node id="-117" visible="true" lat="44.60436759" lon="-73.19027433">
-    <!-- conflict: "551 North Harbor Road, Colchester, VT" Fuzzy match to "551 North Harbor Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="551"/>
-    <tag k="addr:street" v="North Harbor Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69452"/>
-  </node>
-  <node id="-189" visible="true" lat="44.60053729" lon="-73.17945818">
-    <!-- conflict: "395 Mayo Road, Colchester, VT" Fuzzy match to "395 Mayo Lane, Colchester, " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="395"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69538"/>
-  </node>
-  <node id="-201" visible="true" lat="44.59924217" lon="-73.17830975">
-    <!-- conflict: "354 Mayo Road, Colchester, VT" Fuzzy match to "354 Mayo Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="354"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69550"/>
-  </node>
-  <node id="-203" visible="true" lat="44.59900559" lon="-73.17944719">
-    <!-- conflict: "321 Mayo Road, Colchester, VT" Fuzzy match to "321 Mayo Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="321"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69552"/>
-  </node>
-  <node id="-208" visible="true" lat="44.59903228" lon="-73.17761774">
-    <!-- conflict: "50 Chimney Hill Drive, Colchester, VT" Fuzzy match to "50 Chimney Hill Drive, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Chimney Hill Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69558"/>
-  </node>
-  <node id="-211" visible="true" lat="44.59881588" lon="-73.17963898">
-    <!-- conflict: "303 Mayo Road, Colchester, VT" Fuzzy match to "303 Mayo Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="303"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69561"/>
-  </node>
-  <node id="-212" visible="true" lat="44.59881727" lon="-73.17868471">
-    <!-- conflict: "328 Mayo Road, Colchester, VT" Fuzzy match to "328 Mayo Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="328"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69562"/>
-  </node>
-  <node id="-223" visible="true" lat="44.59862536" lon="-73.17702025">
-    <!-- conflict: "104 Chimney Hill Drive, Colchester, VT" Fuzzy match to "104 Chimney Hill Drive, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="104"/>
-    <tag k="addr:street" v="Chimney Hill Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69573"/>
-  </node>
-  <node id="-228" visible="true" lat="44.59827873" lon="-73.17651149">
-    <!-- conflict: "134 Chimney Hill Drive, Colchester, VT" Fuzzy match to "134 Chimney Hill Drive, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="134"/>
-    <tag k="addr:street" v="Chimney Hill Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69578"/>
-  </node>
-  <node id="-233" visible="true" lat="44.59803419" lon="-73.17603923">
-    <!-- conflict: "156 Chimney Hill Drive, Colchester, VT" Fuzzy match to "156 Chimney Hill Drive, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="156"/>
-    <tag k="addr:street" v="Chimney Hill Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69584"/>
-  </node>
-  <node id="-238" visible="true" lat="44.59780351" lon="-73.18038221">
-    <!-- conflict: "243 Mayo Road, Colchester, VT" Fuzzy match to "243 Mayo Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="243"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69589"/>
-  </node>
-  <node id="-241" visible="true" lat="44.597785" lon="-73.17552175">
-    <!-- conflict: "184 Chimney Hill Drive, Colchester, VT" Fuzzy match to "184 Chimney Hill Drive, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="184"/>
-    <tag k="addr:street" v="Chimney Hill Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69592"/>
-  </node>
-  <node id="-249" visible="true" lat="44.59730722" lon="-73.18563667">
-    <!-- conflict: "628 Jasper Mine Road, Colchester, VT" Fuzzy match to "628 Jasper Mine Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="628"/>
-    <tag k="addr:street" v="Jasper Mine Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69600"/>
-  </node>
-  <node id="-250" visible="true" lat="44.59731595" lon="-73.17966632">
-    <!-- conflict: "200 Mayo Road, Colchester, VT" Fuzzy match to "200 Mayo Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="200"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69601"/>
-  </node>
-  <node id="-252" visible="true" lat="44.5973735" lon="-73.17508453">
-    <!-- conflict: "236 Chimney Hill Drive, Colchester, VT" Fuzzy match to "236 Chimney Hill Drive, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="236"/>
-    <tag k="addr:street" v="Chimney Hill Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69603"/>
-  </node>
-  <node id="-255" visible="true" lat="44.59698221" lon="-73.17984524">
-    <!-- conflict: "190 Mayo Road, Colchester, VT" Fuzzy match to "190 Mayo Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69606"/>
-  </node>
-  <node id="-256" visible="true" lat="44.59723714" lon="-73.18721">
-    <!-- conflict: "106 Bronson Lane, Colchester, VT" Fuzzy match to "106 Bronson Lane, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Bronson Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69607"/>
-  </node>
-  <node id="-259" visible="true" lat="44.59673332" lon="-73.17810955">
-    <!-- conflict: "258 Mayo Road, Colchester, VT" Fuzzy match to "258 Mayo Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="258"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69611"/>
-  </node>
-  <node id="-261" visible="true" lat="44.5966072" lon="-73.18405151">
-    <!-- conflict: "494 Jasper Mine Road, Colchester, VT" Fuzzy match to "494 Jasper Mine Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="494"/>
-    <tag k="addr:street" v="Jasper Mine Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69613"/>
-  </node>
-  <node id="-266" visible="true" lat="44.5964332" lon="-73.17484344">
-    <!-- conflict: "284 Chimney Hill Drive, Colchester, VT" Fuzzy match to "284 Chimney Hill Drive, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="284"/>
-    <tag k="addr:street" v="Chimney Hill Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69618"/>
-  </node>
-  <node id="-270" visible="true" lat="44.59629417" lon="-73.17941306">
-    <!-- conflict: "138 Mayo Road, Colchester, VT" Fuzzy match to "138 Mayo Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="138"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69622"/>
-  </node>
-  <node id="-273" visible="true" lat="44.59595514" lon="-73.18141592">
-    <!-- conflict: "93 Mayo Road, Colchester, VT" Fuzzy match to "93 Mayo Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69625"/>
-  </node>
-  <node id="-277" visible="true" lat="44.59575653" lon="-73.18028259">
-    <!-- conflict: "90 Mayo Road, Colchester, VT" Fuzzy match to "90 Mayo Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Mayo Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69629"/>
-  </node>
-  <node id="-279" visible="true" lat="44.59564445" lon="-73.18363836">
-    <!-- conflict: "468 Jasper Mine Road, Colchester, VT" Fuzzy match to "468 Jasper Mine Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="468"/>
-    <tag k="addr:street" v="Jasper Mine Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69631"/>
-  </node>
-  <node id="-281" visible="true" lat="44.59553866" lon="-73.18308841">
-    <!-- conflict: "414 Jasper Mine Road, Colchester, VT" Fuzzy match to "414 Jasper Mine Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="414"/>
-    <tag k="addr:street" v="Jasper Mine Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69634"/>
-  </node>
-  <node id="-285" visible="true" lat="44.59524031" lon="-73.18456065">
-    <!-- conflict: "529 Jasper Mine Road, Colchester, VT" Fuzzy match to "529 Jasper Mine Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="529"/>
-    <tag k="addr:street" v="Jasper Mine Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69639"/>
-  </node>
-  <node id="-298" visible="true" lat="44.59410858" lon="-73.17921447">
-    <!-- conflict: "204 Jasper Mine Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "204 Cortland Lane, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="204"/>
-    <tag k="addr:street" v="Jasper Mine Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69653"/>
-  </node>
-  <node id="-299" visible="true" lat="44.59405991" lon="-73.17870184">
-    <!-- conflict: "63 Cortland Lane, Colchester, VT" Fuzzy match to "63 Cortland Lane, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="Cortland Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69654"/>
-  </node>
-  <node id="-306" visible="true" lat="44.5937245" lon="-73.17944577">
-    <!-- conflict: "214 Jasper Mine Road, Colchester, VT" Fuzzy match to "214 Jasper Mine Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="214"/>
-    <tag k="addr:street" v="Jasper Mine Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69662"/>
-  </node>
-  <node id="-311" visible="true" lat="44.59349886" lon="-73.18077809">
-    <!-- conflict: "271 Jasper Mine Road, Colchester, VT" Fuzzy match to "271 Jasper Mine Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="271"/>
-    <tag k="addr:street" v="Jasper Mine Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69667"/>
-  </node>
-  <node id="-312" visible="true" lat="44.59351312" lon="-73.1789335">
-    <!-- conflict: "29 Cortland Lane, Colchester, VT" Fuzzy match to "29 Cortland Lane, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Cortland Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69668"/>
-  </node>
-  <node id="-319" visible="true" lat="44.59288787" lon="-73.17815399">
-    <!-- conflict: "124 Jasper Mine Road, Colchester, VT" Fuzzy match to "124 Jasper Mine Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="124"/>
-    <tag k="addr:street" v="Jasper Mine Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69675"/>
-  </node>
-  <node id="-334" visible="true" lat="44.59206266" lon="-73.17636334">
-    <!-- conflict: "34 Jasper Mine Road, Colchester, VT" Fuzzy match to "34 Jasper Mine Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Jasper Mine Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69690"/>
-  </node>
-  <node id="-435" visible="true" lat="44.58079036" lon="-73.12720922">
-    <!-- conflict: "2872 East Road, Colchester, VT" Fuzzy match to "2872 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="2872"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69801"/>
-  </node>
-  <node id="-467" visible="true" lat="44.57834446" lon="-73.12194334">
-    <!-- conflict: "683 Farnsworth Road, Colchester, VT" Fuzzy match to "683 Farnsworth Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="683"/>
-    <tag k="addr:street" v="Farnsworth Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69834"/>
-  </node>
-  <node id="-475" visible="true" lat="44.57744674" lon="-73.12613534">
-    <!-- conflict: "2642 East Road, Colchester, VT" Fuzzy match to "2642 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="2642"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69842"/>
-  </node>
-  <node id="-481" visible="true" lat="44.57697357" lon="-73.12871067">
-    <!-- conflict: "2627 East Road, Colchester, VT" Fuzzy match to "2627 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="2627"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69848"/>
-  </node>
-  <node id="-486" visible="true" lat="44.57642957" lon="-73.12198206">
-    <!-- conflict: "534 Farnsworth Road, Colchester, VT" Fuzzy match to "534 Farnsworth Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="534"/>
-    <tag k="addr:street" v="Farnsworth Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69853"/>
-  </node>
-  <node id="-492" visible="true" lat="44.57575702" lon="-73.12940496">
-    <!-- conflict: "2621 East Road, Colchester, VT" Fuzzy match to "2621 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="2621"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69860"/>
-  </node>
-  <node id="-501" visible="true" lat="44.57409575" lon="-73.12375106">
-    <!-- conflict: "350 Farnsworth Road, Colchester, VT" Fuzzy match to "350 Farnsworth Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="350"/>
-    <tag k="addr:street" v="Farnsworth Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69870"/>
-  </node>
-  <node id="-520" visible="true" lat="44.5716218" lon="-73.12563591">
-    <!-- conflict: "156 Farnsworth Road, Colchester, VT" Fuzzy match to "156 Farnsworth Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="156"/>
-    <tag k="addr:street" v="Farnsworth Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69890"/>
-  </node>
-  <node id="-522" visible="true" lat="44.57155597" lon="-73.12729467">
-    <!-- conflict: "2202 East Road, Colchester, VT" Fuzzy match to "2202 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="2202"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69892"/>
-  </node>
-  <node id="-525" visible="true" lat="44.57061165" lon="-73.12622349">
-    <!-- conflict: "82 Farnsworth Road, Colchester, VT" Fuzzy match to "82 Farnsworth Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Farnsworth Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69895"/>
-  </node>
-  <node id="-528" visible="true" lat="44.57032012" lon="-73.12171935">
-    <!-- conflict: "248 Farnsworth Road, Colchester, VT" Fuzzy match to "248 Farnsworth Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="248"/>
-    <tag k="addr:street" v="Farnsworth Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69900"/>
-  </node>
-  <node id="-535" visible="true" lat="44.5697974" lon="-73.12751972">
-    <!-- conflict: "2127 East Road, Colchester, VT" Fuzzy match to "2127 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="2127"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69908"/>
-  </node>
-  <node id="-541" visible="true" lat="44.56948617" lon="-73.12786402">
-    <!-- conflict: "2069 East Road, Colchester, VT" Fuzzy match to "2069 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="2069"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69914"/>
-  </node>
-  <node id="-554" visible="true" lat="44.56850079" lon="-73.12787854">
-    <!-- conflict: "2010 East Road, Colchester, VT" Fuzzy match to "2010 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="2010"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69927"/>
-  </node>
-  <node id="-558" visible="true" lat="44.56816901" lon="-73.1280276">
-    <!-- conflict: "1980 East Road, Colchester, VT" Fuzzy match to "1980 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1980"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69931"/>
-  </node>
-  <node id="-586" visible="true" lat="44.56445146" lon="-73.13077655">
-    <!-- conflict: "1705 East Road, Colchester, VT" Fuzzy match to "1705 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1705"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69961"/>
-  </node>
-  <node id="-588" visible="true" lat="44.56437683" lon="-73.13026428">
-    <!-- conflict: "1702 East Road, Colchester, VT" Fuzzy match to "1702 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1702"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69963"/>
-  </node>
-  <node id="-589" visible="true" lat="44.56431089" lon="-73.13095796">
-    <!-- conflict: "1669 East Road, Colchester, VT" Fuzzy match to "1669 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1669"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69965"/>
-  </node>
-  <node id="-590" visible="true" lat="44.56408808" lon="-73.13180551">
-    <!-- conflict: "1643 East Road, Colchester, VT" Fuzzy match to "1643 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1643"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69966"/>
-  </node>
-  <node id="-593" visible="true" lat="44.5631218" lon="-73.13290969">
-    <!-- conflict: "1529 East Road, Colchester, VT" Fuzzy match to "1529 East Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1529"/>
-    <tag k="addr:street" v="East Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69969"/>
-  </node>
-  <node id="-914" visible="true" lat="44.55551125" lon="-73.18520395">
-    <!-- conflict: "52 Sunset View Road, Colchester, VT" Fuzzy match to "52 Sunset View Road, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Sunset View Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="70326"/>
-  </node>
-  <node id="-1683" visible="true" lat="44.55067084" lon="-73.22879059">
-    <!-- conflict: "760 West Lakeshore Drive, Colchester, VT" Fuzzy match to "760 West Lakeshore Drive, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="760"/>
-    <tag k="addr:street" v="West Lakeshore Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="71173"/>
-  </node>
-  <node id="-1762" visible="true" lat="44.55025186" lon="-73.22936088">
-    <!-- conflict: "777 West Lakeshore Drive, Colchester, VT" Fuzzy match to "777 West Lakeshore Drive, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="777"/>
-    <tag k="addr:street" v="West Lakeshore Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="71264"/>
-  </node>
-  <node id="-1794" visible="true" lat="44.5500506" lon="-73.22885027">
-    <!-- conflict: "23 Broadacres Drive, Colchester, VT" Fuzzy match to "23 Broad Acres Drive, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Broadacres Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="71299"/>
-  </node>
-  <node id="-2879" visible="true" lat="44.54432525" lon="-73.14857928">
-    <!-- conflict: "899 Main Street, Colchester, VT" Fuzzy match to "899 Main Street, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="899"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="72528"/>
-  </node>
-  <node id="-3929" visible="true" lat="44.53524454" lon="-73.24812884">
-    <!-- conflict: "79 Heineberg Drive, Colchester, VT" Fuzzy match to "79 Heineberg Road, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Heineberg Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="73727"/>
-  </node>
-  <node id="-4413" visible="true" lat="44.52247156" lon="-73.16227971">
-    <!-- conflict: "345 Eagle Park Drive, Colchester, VT" No match in OSM, but a different address exists <5m away: " Eagle Park Drive, Winooski, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="345"/>
-    <tag k="addr:street" v="Eagle Park Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74289"/>
-  </node>
-  <node id="-4419" visible="true" lat="44.52241314" lon="-73.16302563">
-    <!-- conflict: "197 Eagle Park Drive, Colchester, VT" No match in OSM, but a different address exists <5m away: " Eagle Park Drive, Winooski, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="197"/>
-    <tag k="addr:street" v="Eagle Park Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74295"/>
-  </node>
-  <node id="-4420" visible="true" lat="44.52220623" lon="-73.16246758">
-    <!-- conflict: "321 Eagle Park Drive, Colchester, VT" No match in OSM, but a different address exists <5m away: " Eagle Park Drive, Winooski, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="321"/>
-    <tag k="addr:street" v="Eagle Park Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74296"/>
-  </node>
-  <node id="-4426" visible="true" lat="44.52192629" lon="-73.16268154">
-    <!-- conflict: "297 Eagle Park Drive, Colchester, VT" No match in OSM, but a different address exists <5m away: " Eagle Park Drive, Winooski, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="297"/>
-    <tag k="addr:street" v="Eagle Park Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74303"/>
-  </node>
-  <node id="-4525" visible="true" lat="44.5188848" lon="-73.14727167">
-    <!-- conflict: "104 Autumn Woods, Colchester, VT" Fuzzy match to "104 Autumn Woods Lane, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="104"/>
-    <tag k="addr:street" v="Autumn Woods"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74421"/>
-  </node>
-  <node id="-4526" visible="true" lat="44.51886867" lon="-73.1468099">
-    <!-- conflict: "90 Autumn Woods, Colchester, VT" Fuzzy match to "90 Autumn Woods Lane, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Autumn Woods"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74422"/>
-  </node>
-  <node id="-4541" visible="true" lat="44.51851798" lon="-73.14758446">
-    <!-- conflict: "122 Autumn Woods, Colchester, VT" Fuzzy match to "122 Autumn Woods Lane, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="122"/>
-    <tag k="addr:street" v="Autumn Woods"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74441"/>
-  </node>
-  <node id="-4542" visible="true" lat="44.51841914" lon="-73.14659785">
-    <!-- conflict: "72 Autumn Woods, Colchester, VT" Fuzzy match to "72 Autumn Woods Lane, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="Autumn Woods"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74443"/>
-  </node>
-  <node id="-4551" visible="true" lat="44.51821574" lon="-73.14689499">
-    <!-- conflict: "66 Autumn Woods, Colchester, VT" Fuzzy match to "66 Autumn Woods Lane, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:street" v="Autumn Woods"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74453"/>
-  </node>
-  <node id="-4708" visible="true" lat="44.51370044" lon="-73.18015027">
-    <!-- conflict: "59 Rathe Road, Colchester, VT" Fuzzy match to "59 Rathe Road, , VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Rathe Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74641"/>
-  </node>
-  <node id="-4800" visible="true" lat="44.51226672" lon="-73.15035817">
-    <!-- conflict: "288 Coventry Road, Colchester, VT" No match in OSM, but a different address exists <5m away: " Coventry Road, Winooski, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="288"/>
-    <tag k="addr:street" v="Coventry Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74751"/>
-  </node>
-  <node id="-4824" visible="true" lat="44.51179777" lon="-73.14989395">
-    <!-- conflict: "289 Coventry Road, Colchester, VT" No match in OSM, but a different address exists <5m away: " Coventry Road, Winooski, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="289"/>
-    <tag k="addr:street" v="Coventry Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74778"/>
-  </node>
-  <node id="-4905" visible="true" lat="44.50903509" lon="-73.18088228">
-    <!-- conflict: "66 Mountain View Drive, Colchester, VT" Fuzzy match to "66 Mountain View Boulevard, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:street" v="Mountain View Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="74881"/>
-  </node>
-  <node id="-5246" visible="true" lat="44.49972591" lon="-73.20082881">
-    <!-- conflict: "54 Evergreen Circle, Colchester, VT" Fuzzy match to "54 Evergreen Circle, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Evergreen Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="75326"/>
-  </node>
-  <node id="-5257" visible="true" lat="44.49953079" lon="-73.20078277">
-    <!-- conflict: "60 Evergreen Circle, Colchester, VT" Fuzzy match to "60 Evergreen Circle, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Evergreen Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="75338"/>
-  </node>
-  <node id="-5258" visible="true" lat="44.49947476" lon="-73.20054934">
-    <!-- conflict: "64 Evergreen Circle, Colchester, VT" Fuzzy match to "64 Evergreen Circle, , " -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Evergreen Circle"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="75339"/>
-  </node>
-  <node id="-5393" visible="true" lat="44.49595149" lon="-73.16536975">
-    <!-- conflict: "27 Alumni Corner, Colchester, VT" No match in OSM, but a different address exists <5m away: " , Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Alumni Corner"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="75495"/>
-  </node>
-  <node id="-5395" visible="true" lat="44.49585005" lon="-73.16452255">
-    <!-- conflict: "86 Place Saint Michel, Colchester, VT" No match in OSM, but a different address exists <5m away: " , Colchester, VT" -->
+  <node id="-5306" visible="true" lat="44.49916767" lon="-73.16032986">
+    <!-- conflict: "86 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "86 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
     <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:street" v="Place Saint Michel"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="75497"/>
+    <tag k="ref:vcgi:esiteid" v="75389"/>
   </node>
-  <node id="-5398" visible="true" lat="44.49501365" lon="-73.16463286">
-    <!-- conflict: "102 Place Saint Michel, Colchester, VT" No match in OSM, but a different address exists <5m away: " , Colchester, VT" -->
+  <node id="-5312" visible="true" lat="44.49910254" lon="-73.16018486">
+    <!-- conflict: "78 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "78 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="102"/>
-    <tag k="addr:street" v="Place Saint Michel"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="75503"/>
+    <tag k="ref:vcgi:esiteid" v="75395"/>
   </node>
-  <node id="-5568" visible="true" lat="44.54618706" lon="-73.2635738">
-    <!-- conflict: "106 Thibault Drive, Colchester, VT" Fuzzy match to "106 Thibault Drive, , " -->
+  <node id="-5316" visible="true" lat="44.49903908" lon="-73.16003956">
+    <!-- conflict: "70 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "70 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Thibault Drive"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="75705"/>
+    <tag k="ref:vcgi:esiteid" v="75400"/>
   </node>
-  <node id="-5604" visible="true" lat="44.59938666" lon="-73.17954873">
-    <!-- conflict: "335 Mayo Road, Colchester, VT" Fuzzy match to "335 Mayo Road, , " -->
+  <node id="-5317" visible="true" lat="44.49911005" lon="-73.16078808">
+    <!-- conflict: "101 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "101 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="335"/>
-    <tag k="addr:street" v="Mayo Road"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="75741"/>
+    <tag k="ref:vcgi:esiteid" v="75401"/>
   </node>
-  <node id="-6018" visible="true" lat="44.51837114" lon="-73.14590864">
-    <!-- conflict: "80 Autumn Woods, Colchester, VT" Fuzzy match to "80 Autumn Woods Lane, Colchester, VT" -->
+  <node id="-5321" visible="true" lat="44.49904683" lon="-73.16065608">
+    <!-- conflict: "99 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "99 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Autumn Woods"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="76174"/>
+    <tag k="ref:vcgi:esiteid" v="75405"/>
   </node>
-  <node id="-6019" visible="true" lat="44.51801656" lon="-73.14594223">
-    <!-- conflict: "82 Autumn Woods, Colchester, VT" Fuzzy match to "82 Autumn Woods Lane, Colchester, VT" -->
+  <node id="-5325" visible="true" lat="44.49895904" lon="-73.15990603">
+    <!-- conflict: "62 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "62 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Autumn Woods"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="76175"/>
+    <tag k="ref:vcgi:esiteid" v="75409"/>
   </node>
-  <node id="-6169" visible="true" lat="44.56245003" lon="-73.12692649">
-    <!-- conflict: "313 Thelma Drive, Colchester, VT" Fuzzy match to "313 Thelma Drive, , " -->
+  <node id="-5329" visible="true" lat="44.49898856" lon="-73.16050896">
+    <!-- conflict: "89 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "89 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="313"/>
-    <tag k="addr:street" v="Thelma Drive"/>
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333288"/>
+    <tag k="ref:vcgi:esiteid" v="75413"/>
   </node>
-  <node id="-6303" visible="true" lat="44.59508881" lon="-73.18381163">
-    <!-- conflict: "447 Jasper Mine Road, Colchester, VT" Fuzzy match to "447 Jasper Mine Road, , " -->
+  <node id="-5330" visible="true" lat="44.4989222" lon="-73.15977076">
+    <!-- conflict: "56 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "56 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="447"/>
-    <tag k="addr:street" v="Jasper Mine Road"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="446458"/>
+    <tag k="ref:vcgi:esiteid" v="75414"/>
   </node>
-  <node id="-6350" visible="true" lat="44.5292192" lon="-73.17341166">
-    <!-- conflict: "47 Commerce Drive, Colchester, VT" Fuzzy match to "47 Commerce Street, Colchester, VT" -->
+  <node id="-5335" visible="true" lat="44.4989142" lon="-73.16041398">
+    <!-- conflict: "83 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "83 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Commerce Drive"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="449666"/>
+    <tag k="ref:vcgi:esiteid" v="75419"/>
   </node>
-  <node id="-6569" visible="true" lat="44.56157351" lon="-73.12695542">
-    <!-- conflict: "356 Thelma Drive, Colchester, VT" Fuzzy match to "356 Thelma Drive, , " -->
+  <node id="-5336" visible="true" lat="44.49886843" lon="-73.15964305">
+    <!-- conflict: "46 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "46 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="356"/>
-    <tag k="addr:street" v="Thelma Drive"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620272"/>
+    <tag k="ref:vcgi:esiteid" v="75420"/>
   </node>
-  <node id="-6570" visible="true" lat="44.56052173" lon="-73.12658919">
-    <!-- conflict: "430 Thelma Drive, Colchester, VT" Fuzzy match to "430 Thelma Drive, , " -->
+  <node id="-5339" visible="true" lat="44.4987731" lon="-73.15935221">
+    <!-- conflict: "14 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "14 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="430"/>
-    <tag k="addr:street" v="Thelma Drive"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620273"/>
+    <tag k="ref:vcgi:esiteid" v="75423"/>
   </node>
-  <node id="-6571" visible="true" lat="44.5611405" lon="-73.12678725">
-    <!-- conflict: "384 Thelma Drive, Colchester, VT" Fuzzy match to "384 Thelma Drive, , " -->
+  <node id="-5340" visible="true" lat="44.49885559" lon="-73.16025543">
+    <!-- conflict: "75 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "75 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="384"/>
-    <tag k="addr:street" v="Thelma Drive"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620274"/>
+    <tag k="ref:vcgi:esiteid" v="75424"/>
   </node>
-  <node id="-6683" visible="true" lat="44.56557635" lon="-73.13088285">
-    <!-- conflict: "1753 East Road, Colchester, VT" Fuzzy match to "1753 East Road, , " -->
+  <node id="-5342" visible="true" lat="44.49880474" lon="-73.15950421">
+    <!-- conflict: "16 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "16 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1753"/>
-    <tag k="addr:street" v="East Road"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750946"/>
+    <tag k="ref:vcgi:esiteid" v="75426"/>
   </node>
-  <node id="-6684" visible="true" lat="44.56680636" lon="-73.13168661">
-    <!-- conflict: "1827 East Road, Colchester, VT" Fuzzy match to "1827 East Road, , " -->
+  <node id="-5343" visible="true" lat="44.49880319" lon="-73.16015646">
+    <!-- conflict: "69 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "69 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1827"/>
-    <tag k="addr:street" v="East Road"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750947"/>
+    <tag k="ref:vcgi:esiteid" v="75427"/>
   </node>
-  <node id="-6685" visible="true" lat="44.56841406" lon="-73.1298091">
-    <!-- conflict: "1985 East Road, Colchester, VT" Fuzzy match to "1985 East Road, , " -->
+  <node id="-5347" visible="true" lat="44.49873071" lon="-73.16002676">
+    <!-- conflict: "61 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "61 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1985"/>
-    <tag k="addr:street" v="East Road"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750948"/>
+    <tag k="ref:vcgi:esiteid" v="75431"/>
   </node>
-  <node id="-6686" visible="true" lat="44.56962108" lon="-73.1298505">
-    <!-- conflict: "1987 East Road, Colchester, VT" Fuzzy match to "1987 East Road, , " -->
+  <node id="-5350" visible="true" lat="44.49867349" lon="-73.15988943">
+    <!-- conflict: "53 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "53 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="1987"/>
-    <tag k="addr:street" v="East Road"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750949"/>
+    <tag k="ref:vcgi:esiteid" v="75434"/>
   </node>
-  <node id="-6687" visible="true" lat="44.57124465" lon="-73.12919132">
-    <!-- conflict: "2207 East Road, Colchester, VT" Fuzzy match to "2207 East Road, , " -->
+  <node id="-5351" visible="true" lat="44.49861947" lon="-73.15974831">
+    <!-- conflict: "43 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "43 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="2207"/>
-    <tag k="addr:street" v="East Road"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750950"/>
+    <tag k="ref:vcgi:esiteid" v="75435"/>
   </node>
-  <node id="-6757" visible="true" lat="44.57540979" lon="-73.1305479">
-    <!-- conflict: "2619 East Road, Colchester, VT" Fuzzy match to "2619 East Road, , " -->
+  <node id="-5354" visible="true" lat="44.49854642" lon="-73.15963378">
+    <!-- conflict: "35 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "35 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="2619"/>
-    <tag k="addr:street" v="East Road"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="753967"/>
+    <tag k="ref:vcgi:esiteid" v="75439"/>
   </node>
-  <node id="-6889" visible="true" lat="44.59595114" lon="-73.18776515">
-    <!-- conflict: "7 Bronson Lane, Colchester, VT" Fuzzy match to "7 Bronson Lane, , " -->
+  <node id="-5356" visible="true" lat="44.49848492" lon="-73.15953304">
+    <!-- conflict: "33 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "33 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Bronson Lane"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="760722"/>
+    <tag k="ref:vcgi:esiteid" v="75441"/>
   </node>
-  <node id="-6890" visible="true" lat="44.59636003" lon="-73.18712314">
-    <!-- conflict: "54 Bronson Lane, Colchester, VT" Fuzzy match to "54 Bronson Lane, , " -->
+  <node id="-5358" visible="true" lat="44.49848145" lon="-73.15913074">
+    <!-- conflict: "25 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "25 Camel Hump Road, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Bronson Lane"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="760723"/>
+    <tag k="ref:vcgi:esiteid" v="75443"/>
+  </node>
+  <node id="-5361" visible="true" lat="44.49839158" lon="-73.15919911">
+    <!-- conflict: "27 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "27 Camel Hump Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="75446"/>
+  </node>
+  <node id="-5362" visible="true" lat="44.49831771" lon="-73.15929412">
+    <!-- conflict: "29 Camels Hump Road, Colchester, VT" No match in OSM, but a different address exists <5m away: "29 Camel Hump Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Camels Hump Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="75447"/>
+  </node>
+  <node id="-6897" visible="true" lat="44.49652585" lon="-73.16867874">
+    <!-- conflict: "419 Campus Road, Colchester, VT" Fuzzy match to "419 Campus Road, Winooski, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="419"/>
+    <tag k="addr:street" v="Campus Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761508"/>
   </node>
 </osm>

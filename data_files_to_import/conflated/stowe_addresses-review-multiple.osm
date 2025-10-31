@@ -8,7 +8,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249570"/>
   </node>
-  <node id="-1094" visible="true" lat="44.47707655" lon="-72.71540534">
+  <node id="-579" visible="true" lat="44.49392792" lon="-72.71139742">
+    <!-- multiple: "2295 Weeks Hill Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="2295"/>
+    <tag k="addr:street" v="Weeks Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="249877"/>
+  </node>
+  <node id="-1083" visible="true" lat="44.47695055" lon="-72.69267593">
+    <!-- multiple: "269 Weeks Hill Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="269"/>
+    <tag k="addr:street" v="Weeks Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250415"/>
+  </node>
+  <node id="-1091" visible="true" lat="44.47707655" lon="-72.71540534">
     <!-- multiple: "140 Cottage Club Road, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="140"/>
@@ -16,7 +32,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250423"/>
   </node>
-  <node id="-1188" visible="true" lat="44.47437212" lon="-72.71058479">
+  <node id="-1185" visible="true" lat="44.47437212" lon="-72.71058479">
     <!-- multiple: "1746 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="1746"/>
@@ -24,7 +40,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250527"/>
   </node>
-  <node id="-1191" visible="true" lat="44.47382376" lon="-72.71397672">
+  <node id="-1186" visible="true" lat="44.47390737" lon="-72.714746">
+    <!-- multiple: "1899 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="1899"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250528"/>
+  </node>
+  <node id="-1188" visible="true" lat="44.47382376" lon="-72.71397672">
     <!-- multiple: "1859 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="1859"/>
@@ -32,15 +56,63 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250530"/>
   </node>
-  <node id="-1368" visible="true" lat="44.46924181" lon="-72.68851136">
-    <!-- multiple: "287 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
+  <node id="-1191" visible="true" lat="44.47386406" lon="-72.69980461">
+    <!-- multiple: "1069 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="287"/>
+    <tag k="addr:housenumber" v="1069"/>
     <tag k="addr:street" v="Mountain Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="250719"/>
+    <tag k="ref:vcgi:esiteid" v="250533"/>
   </node>
-  <node id="-1502" visible="true" lat="44.46561015" lon="-72.68788099">
+  <node id="-1193" visible="true" lat="44.47399142" lon="-72.69722534">
+    <!-- multiple: "968 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="968"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250535"/>
+  </node>
+  <node id="-1289" visible="true" lat="44.47147726" lon="-72.68687374">
+    <!-- multiple: "454 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="454"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250637"/>
+  </node>
+  <node id="-1291" visible="true" lat="44.47143516" lon="-72.68783567">
+    <!-- multiple: "430 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250639"/>
+  </node>
+  <node id="-1362" visible="true" lat="44.46949103" lon="-72.68728938">
+    <!-- multiple: "294 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="294"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250716"/>
+  </node>
+  <node id="-1485" visible="true" lat="44.46583309" lon="-72.6881742">
+    <!-- multiple: "57 Mountain Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250863"/>
+  </node>
+  <node id="-1493" visible="true" lat="44.46562826" lon="-72.68695672">
+    <!-- multiple: "25 Main Street, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250872"/>
+  </node>
+  <node id="-1499" visible="true" lat="44.46561015" lon="-72.68788099">
     <!-- multiple: "14 South Main Street, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="14"/>
@@ -48,52 +120,116 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250878"/>
   </node>
-  <node id="-1576" visible="true" lat="44.46429031" lon="-72.77511755">
-    <!-- multiple: "449 Beech Hill Road, Stowe, VT" Multiple exact matches in OSM. -->
+  <node id="-1521" visible="true" lat="44.46517563" lon="-72.6874772">
+    <!-- multiple: "1 South Main Street, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="449"/>
-    <tag k="addr:street" v="Beech Hill Road"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="250964"/>
+    <tag k="ref:vcgi:esiteid" v="250907"/>
   </node>
-  <node id="-1733" visible="true" lat="44.4582921" lon="-72.76710695">
-    <!-- multiple: "256 Falls Brook Lane, Stowe, VT" Multiple exact matches in OSM. -->
+  <node id="-1596" visible="true" lat="44.463785" lon="-72.6846101">
+    <!-- multiple: "90 Pond Street, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="256"/>
-    <tag k="addr:street" v="Falls Brook Lane"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Pond Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="251138"/>
+    <tag k="ref:vcgi:esiteid" v="250992"/>
   </node>
-  <node id="-2176" visible="true" lat="44.44112771" lon="-72.71618441">
-    <!-- multiple: "435 Moscow Road, Stowe, VT" Multiple exact matches in OSM. -->
+  <node id="-1659" visible="true" lat="44.46155844" lon="-72.69320709">
+    <!-- multiple: "56 River Road, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="435"/>
-    <tag k="addr:street" v="Moscow Road"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="River Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="251605"/>
+    <tag k="ref:vcgi:esiteid" v="251064"/>
   </node>
-  <node id="-2511" visible="true" lat="44.44256162" lon="-72.72744681">
-    <!-- multiple: "989 Moscow Road, Stowe, VT" Multiple exact matches in OSM. -->
+  <node id="-1660" visible="true" lat="44.46146377" lon="-72.69393072">
+    <!-- multiple: "56 River Road, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="989"/>
-    <tag k="addr:street" v="Moscow Road"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="River Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="251959"/>
+    <tag k="ref:vcgi:esiteid" v="251065"/>
   </node>
-  <node id="-2795" visible="true" lat="44.45832582" lon="-72.6895924">
-    <!-- multiple: "80 Burt Mill Lane, Stowe, VT" Multiple exact matches in OSM. -->
+  <node id="-1730" visible="true" lat="44.45829451" lon="-72.69418852">
+    <!-- multiple: "618 South Main Street, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Burt Mill Lane"/>
+    <tag k="addr:housenumber" v="618"/>
+    <tag k="addr:street" v="South Main Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="331633"/>
+    <tag k="ref:vcgi:esiteid" v="251140"/>
   </node>
-  <node id="-3507" visible="true" lat="44.4760051" lon="-72.71572713">
+  <node id="-1828" visible="true" lat="44.45415182" lon="-72.69569802">
+    <!-- multiple: "911 South Main Street, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="911"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251245"/>
+  </node>
+  <node id="-2331" visible="true" lat="44.43278716" lon="-72.71389943">
+    <!-- multiple: "5 North Marshall Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="North Marshall Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251770"/>
+  </node>
+  <node id="-2336" visible="true" lat="44.43256661" lon="-72.71403772">
+    <!-- multiple: "5 North Marshall Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="North Marshall Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="251775"/>
+  </node>
+  <node id="-3110" visible="true" lat="44.43008896" lon="-72.71624584">
+    <!-- multiple: "167 Fly Rod Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="Fly Rod Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345576"/>
+  </node>
+  <node id="-3124" visible="true" lat="44.46389569" lon="-72.68426124">
+    <!-- multiple: "90 School Street, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="346135"/>
+  </node>
+  <node id="-3497" visible="true" lat="44.46183768" lon="-72.69366623">
+    <!-- multiple: "56 River Road, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454727"/>
+  </node>
+  <node id="-3502" visible="true" lat="44.4760051" lon="-72.71572713">
     <!-- multiple: "100 Cottage Club Road, Stowe, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="Cottage Club Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455416"/>
+  </node>
+  <node id="-3742" visible="true" lat="44.4911419" lon="-72.73501525">
+    <!-- multiple: "65 Academy Way, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Academy Way"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757368"/>
+  </node>
+  <node id="-3987" visible="true" lat="44.46540466" lon="-72.71487006">
+    <!-- multiple: "304 Meadow Lane, Stowe, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050977"/>
   </node>
 </osm>

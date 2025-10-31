@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-603" visible="true" lat="44.50913614" lon="-72.3728657">
+    <!-- multiple: "439 Wolcott Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="439"/>
+    <tag k="addr:street" v="Wolcott Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119150"/>
+  </node>
+  <node id="-618" visible="true" lat="44.50892113" lon="-72.36469996">
+    <!-- multiple: "126 Hazen Union Drive, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="Hazen Union Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119166"/>
+  </node>
+  <node id="-867" visible="true" lat="44.50429125" lon="-72.36629497">
+    <!-- multiple: "9 South Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119442"/>
+  </node>
+  <node id="-892" visible="true" lat="44.5043741" lon="-72.36470617">
+    <!-- multiple: "75 Mill Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Mill Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119470"/>
+  </node>
   <node id="-907" visible="true" lat="44.50394043" lon="-72.36402866">
     <!-- multiple: "117 Mill Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="Mill Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119488"/>
+  </node>
+  <node id="-927" visible="true" lat="44.5033417" lon="-72.3681882">
+    <!-- multiple: "135 South Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119510"/>
+  </node>
+  <node id="-1314" visible="true" lat="44.50400562" lon="-72.36698512">
+    <!-- multiple: "41 South Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119917"/>
   </node>
 </osm>

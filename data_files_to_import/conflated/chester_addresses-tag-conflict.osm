@@ -1,83 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-750" visible="true" lat="43.26949693" lon="-72.60486916">
-    <!-- conflict: "228 Meadow Road, Chester, VT" Fuzzy match to "228 Meadow Road, , VT" -->
+  <node id="-1431" visible="true" lat="43.32984161" lon="-72.56858062">
+    <!-- conflict: "358 Maple Ridge Road, Chester, VT" No match in OSM, but a different address exists <5m away: "356 Maple Ridge Road, Chester, VT" -->
     <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="228"/>
-    <tag k="addr:street" v="Meadow Road"/>
+    <tag k="addr:housenumber" v="358"/>
+    <tag k="addr:street" v="Maple Ridge Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66475"/>
-  </node>
-  <node id="-799" visible="true" lat="43.26791763" lon="-72.58991241">
-    <!-- conflict: "563 Depot Street, Chester, VT" No match in OSM, but a different address exists <5m away: " Railroad Avenue, , VT" -->
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="563"/>
-    <tag k="addr:street" v="Depot Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66531"/>
-  </node>
-  <node id="-874" visible="true" lat="43.26605605" lon="-72.58846282">
-    <!-- conflict: "144 Town Garage Road, Chester, VT" No match in OSM, but a different address exists <5m away: " Depot Street, Chester, VT" -->
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:street" v="Town Garage Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66616"/>
-  </node>
-  <node id="-887" visible="true" lat="43.26595075" lon="-72.60223122">
-    <!-- conflict: "418 Main Street, Chester, VT" No match in OSM, but a different address exists <5m away: " , Chester, VT" -->
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="418"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66631"/>
-  </node>
-  <node id="-1058" visible="true" lat="43.26202774" lon="-72.59305572">
-    <!-- conflict: "117 South Main Street, Chester, VT" Fuzzy match to "117 Main Street, Chester, VT" -->
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="117"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66823"/>
-  </node>
-  <node id="-1145" visible="true" lat="43.25869205" lon="-72.58924986">
-    <!-- conflict: "60 Vermont Route 103 South, Chester, VT" No match in OSM, but a different address exists <5m away: "60 VT Route 103 South, Chester, VT" -->
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Vermont Route 103 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="66918"/>
-  </node>
-  <node id="-1358" visible="true" lat="43.24111544" lon="-72.56132296">
-    <!-- conflict: "29 Peck Road, Chester, VT" No match in OSM, but a different address exists <5m away: " Peck Road, Chester, VT" -->
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Peck Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67147"/>
-  </node>
-  <node id="-1423" visible="true" lat="43.33464184" lon="-72.54960254">
-    <!-- conflict: "3361 Vermont Route 10, Chester, VT" No match in OSM, but a different address exists <5m away: "3361 VT Route 10, Chester, VT" -->
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="3361"/>
-    <tag k="addr:street" v="Vermont Route 10"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67212"/>
-  </node>
-  <node id="-1470" visible="true" lat="43.26671709" lon="-72.60909604">
-    <!-- conflict: "55 Vermont Route 11 West, Chester, VT" Fuzzy match to "55 Vermont Route 11 West, chestyer, VT" -->
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Vermont Route 11 West"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67264"/>
-  </node>
-  <node id="-1691" visible="true" lat="43.23960104" lon="-72.68262273">
-    <!-- conflict: "674 Williams Road, Chester, VT" Fuzzy match to "674 Williams Road, , " -->
-    <tag k="addr:city" v="Chester"/>
-    <tag k="addr:housenumber" v="674"/>
-    <tag k="addr:street" v="Williams Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67495"/>
+    <tag k="ref:vcgi:esiteid" v="67220"/>
   </node>
 </osm>

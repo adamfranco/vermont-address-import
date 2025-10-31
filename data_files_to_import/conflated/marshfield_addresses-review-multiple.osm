@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-209" visible="true" lat="44.3516058" lon="-72.35456655">
+    <!-- multiple: "30 Creamery Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Creamery Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152622"/>
+  </node>
+  <node id="-272" visible="true" lat="44.35020065" lon="-72.35389709">
+    <!-- multiple: "72 School Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152686"/>
+  </node>
+  <node id="-284" visible="true" lat="44.34911296" lon="-72.35368354">
+    <!-- multiple: "143 School Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="143"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152698"/>
+  </node>
+  <node id="-285" visible="true" lat="44.34861121" lon="-72.35373794">
+    <!-- multiple: "171 School Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152699"/>
+  </node>
   <node id="-652" visible="true" lat="44.28035002" lon="-72.42149706">
     <!-- multiple: "8132 U.S. Route 2, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="8132"/>
     <tag k="addr:street" v="U.S. Route 2"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153076"/>
+  </node>
+  <node id="-744" visible="true" lat="44.34935637" lon="-72.35511113">
+    <!-- multiple: "122 School Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153171"/>
+  </node>
+  <node id="-810" visible="true" lat="44.27809284" lon="-72.41823643">
+    <!-- multiple: "355 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="153239"/>
+  </node>
+  <node id="-860" visible="true" lat="44.32784308" lon="-72.42191717">
+    <!-- multiple: "3613 Hollister Hill Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3613"/>
+    <tag k="addr:street" v="Hollister Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="346162"/>
+  </node>
+  <node id="-873" visible="true" lat="44.3823379" lon="-72.37859731">
+    <!-- multiple: "2509 Ducharme Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2509"/>
+    <tag k="addr:street" v="Ducharme Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452465"/>
   </node>
 </osm>

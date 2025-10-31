@@ -1,38 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-305" visible="true" lat="44.96952021" lon="-72.03680155">
-    <!-- conflict: "693 Gore Road, , VT" No match in OSM, but a different address exists <5m away: " Gore Road, , VT" -->
-    <tag k="addr:housenumber" v="693"/>
-    <tag k="addr:street" v="Gore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="130083"/>
-  </node>
-  <node id="-555" visible="true" lat="44.95370011" lon="-71.93808354">
-    <!-- conflict: "3659 Trucott Road, , VT" No match in OSM, but a different address exists <5m away: " Trucott Road, Holland, VT" -->
-    <tag k="addr:housenumber" v="3659"/>
-    <tag k="addr:street" v="Trucott Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="447996"/>
-  </node>
-  <node id="-559" visible="true" lat="44.95978091" lon="-71.95425132">
-    <!-- conflict: "2611 Trucott Road, , VT" No match in OSM, but a different address exists <5m away: " Trucott Road, Holland, VT" -->
-    <tag k="addr:housenumber" v="2611"/>
-    <tag k="addr:street" v="Trucott Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="455480"/>
-  </node>
-  <node id="-560" visible="true" lat="44.9588296" lon="-71.95322917">
-    <!-- conflict: "2560 Trucott Road, , VT" No match in OSM, but a different address exists <5m away: " Trucott Road, Holland, VT" -->
-    <tag k="addr:housenumber" v="2560"/>
-    <tag k="addr:street" v="Trucott Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="455481"/>
-  </node>
-  <node id="-576" visible="true" lat="44.94271336" lon="-71.96028594">
-    <!-- conflict: "942 Hunting Camp Road, , VT" No match in OSM, but a different address exists <5m away: " Hunting Camp Road, Holland, VT" -->
-    <tag k="addr:housenumber" v="942"/>
-    <tag k="addr:street" v="Hunting Camp Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755783"/>
-  </node>
 </osm>

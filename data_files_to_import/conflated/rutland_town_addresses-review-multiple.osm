@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-602" visible="true" lat="43.63706375" lon="-72.97157705">
-    <!-- multiple: "2152 Post Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2152"/>
-    <tag k="addr:street" v="Post Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="214224"/>
-  </node>
   <node id="-882" visible="true" lat="43.62480859" lon="-72.95143488">
     <!-- multiple: "351 U.S. Route 4 East, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="351"/>
     <tag k="addr:street" v="U.S. Route 4 East"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="214510"/>
+  </node>
+  <node id="-903" visible="true" lat="43.62345693" lon="-73.02443703">
+    <!-- multiple: "245 Vermont Route 3, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Vermont Route 3"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214531"/>
+  </node>
+  <node id="-929" visible="true" lat="43.62287769" lon="-72.95338237">
+    <!-- multiple: "205 U.S. Route 4 East, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="U.S. Route 4 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214557"/>
   </node>
   <node id="-1284" visible="true" lat="43.60394341" lon="-73.00719663">
     <!-- multiple: "151 Business Route 4, , VT" Multiple exact matches in OSM. -->
@@ -21,11 +28,95 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="214932"/>
   </node>
+  <node id="-1302" visible="true" lat="43.60335716" lon="-73.00531658">
+    <!-- multiple: "46 Ripley Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Ripley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214952"/>
+  </node>
+  <node id="-1480" visible="true" lat="43.58937921" lon="-72.94908278">
+    <!-- multiple: "224 Stratton Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Stratton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215150"/>
+  </node>
+  <node id="-1484" visible="true" lat="43.58903846" lon="-72.95065527">
+    <!-- multiple: "210 Stratton Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:street" v="Stratton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215154"/>
+  </node>
+  <node id="-1487" visible="true" lat="43.58869454" lon="-72.95090608">
+    <!-- multiple: "188 Stratton Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="188"/>
+    <tag k="addr:street" v="Stratton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215158"/>
+  </node>
   <node id="-1489" visible="true" lat="43.58866415" lon="-72.96805516">
     <!-- multiple: "117 U.S. Route 7 South, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="U.S. Route 7 South"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="215160"/>
+  </node>
+  <node id="-1491" visible="true" lat="43.58869177" lon="-72.95050127">
+    <!-- multiple: "180 Stratton Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="180"/>
+    <tag k="addr:street" v="Stratton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215162"/>
+  </node>
+  <node id="-1552" visible="true" lat="43.58569158" lon="-72.96876012">
+    <!-- multiple: "286 U.S. Route 7 South, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="286"/>
+    <tag k="addr:street" v="U.S. Route 7 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215228"/>
+  </node>
+  <node id="-1643" visible="true" lat="43.58813327" lon="-72.9508974">
+    <!-- multiple: "163 Stratton Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Stratton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215340"/>
+  </node>
+  <node id="-1672" visible="true" lat="43.60816321" lon="-72.94709068">
+    <!-- multiple: "262 Killington Avenue, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="262"/>
+    <tag k="addr:street" v="Killington Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215371"/>
+  </node>
+  <node id="-1865" visible="true" lat="43.63702265" lon="-72.97448647">
+    <!-- multiple: "668 U.S. Route 7 North, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="668"/>
+    <tag k="addr:street" v="U.S. Route 7 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338692"/>
+  </node>
+  <node id="-1888" visible="true" lat="43.66891547" lon="-72.94407881">
+    <!-- multiple: "3177 East Pittsford Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="3177"/>
+    <tag k="addr:street" v="East Pittsford Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449781"/>
+  </node>
+  <node id="-1906" visible="true" lat="43.63594867" lon="-72.93798458">
+    <!-- multiple: "82 Best Western Place, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Best Western Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610899"/>
+  </node>
+  <node id="-1950" visible="true" lat="43.59022323" lon="-72.940481">
+    <!-- multiple: "240 Stratton Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:street" v="Stratton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758851"/>
   </node>
 </osm>

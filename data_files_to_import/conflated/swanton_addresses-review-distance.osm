@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-3817" visible="true" lat="44.96644685" lon="-73.19890324">
+  <node id="-607" visible="true" lat="44.9290116" lon="-73.21412283">
+    <!-- offset: "74 Champlain Street, , VT" Significant offset - 8561.3m -->
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Champlain Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="255305"/>
+  </node>
+  <node id="-619" visible="true" lat="44.92792011" lon="-73.21492152">
+    <!-- offset: "80 Champlain Street, , VT" Significant offset - 8577.3m -->
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Champlain Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="255317"/>
+  </node>
+  <node id="-1973" visible="true" lat="44.9078281" lon="-73.12229426">
+    <!-- offset: "65 Demers Drive, , VT" Significant offset - 961.6m -->
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Demers Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="256692"/>
+  </node>
+  <node id="-3382" visible="true" lat="44.91316437" lon="-73.11038919">
+    <!-- offset: "27 Meadow Lane, , VT" Significant offset - 6850.9m -->
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="258224"/>
+  </node>
+  <node id="-3389" visible="true" lat="44.91344173" lon="-73.10953907">
+    <!-- offset: "20 Meadow Lane, , VT" Significant offset - 6822.8m -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="258231"/>
+  </node>
+  <node id="-3815" visible="true" lat="44.96644685" lon="-73.19890324">
     <!-- offset: "29 Tabor Road, , VT" Significant offset - 2436.3m -->
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="Tabor Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336910"/>
+  </node>
+  <node id="-3876" visible="true" lat="44.92108745" lon="-73.15083589">
+    <!-- offset: "2 Anna Drive, , VT" Significant offset - 133.2m -->
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Anna Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341614"/>
+  </node>
+  <node id="-3877" visible="true" lat="44.92187005" lon="-73.15083288">
+    <!-- offset: "4 Anna Drive, , VT" Significant offset - 133.2m -->
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Anna Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341615"/>
+  </node>
+  <node id="-4111" visible="true" lat="44.92269913" lon="-73.09007081">
+    <!-- offset: "10 Endeavors Lane, , VT" Significant offset - 144m -->
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Endeavors Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757133"/>
   </node>
 </osm>

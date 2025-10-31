@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-684" visible="true" lat="44.70597973" lon="-71.95038024">
-    <!-- offset: "2640 Newark Street, , VT" Significant offset - 219.6m -->
-    <tag k="addr:housenumber" v="2640"/>
-    <tag k="addr:street" v="Newark Street"/>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-677" visible="true" lat="44.67660606" lon="-71.96284363">
+    <!-- offset: "226 Beagle Run, , VT" Significant offset - 113.9m -->
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Beagle Run"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453745"/>
+    <tag k="ref:vcgi:esiteid" v="453722"/>
+  </node>
+  <node id="-749" visible="true" lat="44.71481654" lon="-71.86915171">
+    <!-- offset: "3375 Island Pond Road, , VT" Significant offset - 203.6m -->
+    <tag k="addr:housenumber" v="3375"/>
+    <tag k="addr:street" v="Island Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760251"/>
   </node>
 </osm>

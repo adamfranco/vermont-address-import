@@ -1,3 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-101" visible="true" lat="44.23526132" lon="-72.48700733">
+    <!-- offset: "575 East Montpelier Road, , VT" Significant offset - 123.8m -->
+    <tag k="addr:housenumber" v="575"/>
+    <tag k="addr:street" v="East Montpelier Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="10912"/>
+  </node>
+  <node id="-594" visible="true" lat="44.27795401" lon="-72.541094">
+    <!-- offset: "765 Center Road, , VT" Significant offset - 9798.1m -->
+    <tag k="addr:housenumber" v="765"/>
+    <tag k="addr:street" v="Center Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91263"/>
+  </node>
+  <node id="-1060" visible="true" lat="44.28538671" lon="-72.44162412">
+    <!-- offset: "190 Northwood Drive, , VT" Significant offset - 253.3m -->
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Northwood Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91743"/>
+  </node>
 </osm>

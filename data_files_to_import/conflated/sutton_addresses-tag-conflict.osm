@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-124" visible="true" lat="44.68983539" lon="-72.05501554">
-    <!-- conflict: "5150 U.S. Route 5, , VT" No match in OSM, but a different address exists <5m away: "5156 U.S. Route 5, Sutton, VT" -->
-    <tag k="addr:housenumber" v="5150"/>
-    <tag k="addr:street" v="U.S. Route 5"/>
+  <node id="-684" visible="true" lat="44.70886516" lon="-72.04711055">
+    <!-- conflict: "1730 CCC Road, , VT" Fuzzy match to "1730 Ccc Road, , VT" -->
+    <tag k="addr:housenumber" v="1730"/>
+    <tag k="addr:street" v="CCC Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="254349"/>
-  </node>
-  <node id="-247" visible="true" lat="44.66317571" lon="-72.06937269">
-    <!-- conflict: "94 Queen Elizabeth Farm Lane, , VT" No match in OSM, but a different address exists <5m away: "2534 Queen Elizabeth Farm Lane, Sutton, VT" -->
-    <tag k="addr:housenumber" v="94"/>
-    <tag k="addr:street" v="Queen Elizabeth Farm Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="254473"/>
-  </node>
-  <node id="-248" visible="true" lat="44.66301735" lon="-72.06971688">
-    <!-- conflict: "92 Queen Elizabeth Farm Lane, , VT" No match in OSM, but a different address exists <5m away: "2532 Queen Elizabeth Farm Lane, Sutton, VT" -->
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Queen Elizabeth Farm Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="254474"/>
-  </node>
-  <node id="-367" visible="true" lat="44.63336944" lon="-72.02615356">
-    <!-- conflict: "14 Burke Road, , VT" No match in OSM, but a different address exists <5m away: "14 Station Road, Sutton, VT" -->
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Burke Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="254598"/>
-  </node>
-  <node id="-686" visible="true" lat="44.63009" lon="-72.00732745">
-    <!-- conflict: "960 Burke Road, , VT" No match in OSM, but a different address exists <5m away: "870 Burke Road, Sutton, VT" -->
-    <tag k="addr:housenumber" v="960"/>
-    <tag k="addr:street" v="Burke Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1050947"/>
+    <tag k="ref:vcgi:esiteid" v="800146"/>
   </node>
 </osm>

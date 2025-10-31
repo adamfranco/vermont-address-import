@@ -1,59 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="JOSM">
-  <node id="-508" visible="true" lat="43.10421752" lon="-72.45858001">
-    <!-- conflict: "49 Birchview Extension, , VT" Fuzzy match to "49 Birchview, Westminster, VT" -->
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Birchview Extension"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="282838"/>
-  </node>
-  <node id="-618" visible="true" lat="43.09132479" lon="-72.44403375">
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-615" visible="true" lat="43.09132479" lon="-72.44403375">
     <!-- conflict: "98 Lewis Pa, , VT" No match in OSM, but a different address exists <5m away: "98 Lewis Path, Westminster, VT" -->
     <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Lewis Path"/>
+    <tag k="addr:street" v="Lewis Pa"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="282950"/>
   </node>
-  <node id="-624" visible="true" lat="43.09093494" lon="-72.44420369">
+  <node id="-621" visible="true" lat="43.09093494" lon="-72.44420369">
     <!-- conflict: "110 Lewis Pa, , VT" No match in OSM, but a different address exists <5m away: "110 Lewis Path, Westminster, VT" -->
     <tag k="addr:housenumber" v="110"/>
-    <tag k="addr:street" v="Lewis Path"/>
+    <tag k="addr:street" v="Lewis Pa"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="282956"/>
   </node>
-  <node id="-1135" visible="true" lat="43.05794906" lon="-72.48657989">
-    <!-- conflict: "38 Jefferson Hill, , VT" Fuzzy match to "38 Jefferson Hollow, Westminster, VT" -->
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="Jefferson Hill"/>
+  <node id="-1415" visible="true" lat="43.03099815" lon="-72.49004499">
+    <!-- conflict: "555 Old Ledge Road, , VT" No match in OSM, but a different address exists <5m away: "407 Old Ledge Road, , VT" -->
+    <tag k="addr:housenumber" v="555"/>
+    <tag k="addr:street" v="Old Ledge Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="283484"/>
-  </node>
-  <node id="-1157" visible="true" lat="43.05582909" lon="-72.48682239">
-    <!-- conflict: "183 Jefferson Hill, , VT" Fuzzy match to "183 Jefferson Hollow, Westminster, VT" -->
-    <tag k="addr:housenumber" v="183"/>
-    <tag k="addr:street" v="Jefferson Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="283506"/>
-  </node>
-  <node id="-1653" visible="true" lat="43.08635588" lon="-72.437619">
-    <!-- conflict: "77 Vermont Route 123, , VT" No match in OSM, but a different address exists <5m away: "77 Vt Route 123, Westminster, VT" -->
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:street" v="Vermont Route 123"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="311828"/>
-  </node>
-  <node id="-1673" visible="true" lat="43.06983198" lon="-72.45280655">
-    <!-- conflict: "3850 U.S. Route 5, , VT" Fuzzy match to "3850 US Route 5, Westminster, VT" -->
-    <tag k="addr:housenumber" v="3850"/>
-    <tag k="addr:street" v="U.S. Route 5"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="329254"/>
-  </node>
-  <node id="-1711" visible="true" lat="43.09541878" lon="-72.44188926">
-    <!-- conflict: "5980 U.S. Route 5, , VT" Fuzzy match to "5980 US Route 5, Westminster, VT" -->
-    <tag k="addr:housenumber" v="5980"/>
-    <tag k="addr:street" v="U.S. Route 5"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="448644"/>
+    <tag k="ref:vcgi:esiteid" v="283770"/>
   </node>
 </osm>

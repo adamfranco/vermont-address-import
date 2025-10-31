@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-550" visible="true" lat="44.74904421" lon="-72.17810198">
-    <!-- multiple: "25 School Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="School Street"/>
+  <node id="-207" visible="true" lat="44.78260258" lon="-72.2206491">
+    <!-- multiple: "317 Lake Region Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="317"/>
+    <tag k="addr:street" v="Lake Region Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="15000"/>
+    <tag k="ref:vcgi:esiteid" v="14625"/>
+  </node>
+  <node id="-521" visible="true" lat="44.74940771" lon="-72.18010714">
+    <!-- multiple: "103 Church Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="14966"/>
   </node>
   <node id="-554" visible="true" lat="44.74882244" lon="-72.17973713">
     <!-- multiple: "137 Church Street, , VT" Multiple exact matches in OSM. -->
@@ -21,18 +28,25 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="15044"/>
   </node>
-  <node id="-621" visible="true" lat="44.74764316" lon="-72.17459866">
-    <!-- multiple: "54 Eastern Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:street" v="Eastern Avenue"/>
+  <node id="-606" visible="true" lat="44.74817069" lon="-72.17563555">
+    <!-- multiple: "16 High Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="High Street"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="15077"/>
+    <tag k="ref:vcgi:esiteid" v="15059"/>
   </node>
-  <node id="-1208" visible="true" lat="44.72125436" lon="-72.18416052">
-    <!-- multiple: "1859 Glover Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1859"/>
-    <tag k="addr:street" v="Glover Road"/>
+  <node id="-946" visible="true" lat="44.76380157" lon="-72.12926483">
+    <!-- multiple: "2142 Willoughby Lake Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="2142"/>
+    <tag k="addr:street" v="Willoughby Lake Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326223"/>
+    <tag k="ref:vcgi:esiteid" v="15426"/>
+  </node>
+  <node id="-1058" visible="true" lat="44.74584343" lon="-72.17485268">
+    <!-- multiple: "17 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="15604"/>
   </node>
 </osm>

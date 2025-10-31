@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-105" visible="true" lat="43.970467" lon="-72.24599721">
+    <!-- offset: "2524 Beaver Meadow Road, , VT" Significant offset - 189.4m -->
+    <tag k="addr:housenumber" v="2524"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="267008"/>
+  </node>
+  <node id="-506" visible="true" lat="43.95073663" lon="-72.25622875">
+    <!-- offset: "1097 Beaver Meadow Road, , VT" Significant offset - 244.1m -->
+    <tag k="addr:housenumber" v="1097"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454378"/>
+  </node>
   <node id="-507" visible="true" lat="43.95084623" lon="-72.25636839">
     <!-- offset: "1099 Beaver Meadow Road, , VT" Significant offset - 167m -->
     <tag k="addr:housenumber" v="1099"/>
@@ -7,11 +21,11 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454379"/>
   </node>
-  <node id="-585" visible="true" lat="43.89564505" lon="-72.25626427">
-    <!-- offset: "1067 West Fairlee Road, , VT" Significant offset - 241.2m -->
-    <tag k="addr:housenumber" v="1067"/>
-    <tag k="addr:street" v="West Fairlee Road"/>
+  <node id="-598" visible="true" lat="43.97425056" lon="-72.24395554">
+    <!-- offset: "2830 Beaver Meadow Road, , VT" Significant offset - 137.9m -->
+    <tag k="addr:housenumber" v="2830"/>
+    <tag k="addr:street" v="Beaver Meadow Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750858"/>
+    <tag k="ref:vcgi:esiteid" v="754457"/>
   </node>
 </osm>

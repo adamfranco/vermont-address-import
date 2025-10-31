@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-791" visible="true" lat="43.52763337" lon="-72.94534875">
+    <!-- multiple: "1002 Airport Road, Clarendon, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Clarendon"/>
+    <tag k="addr:housenumber" v="1002"/>
+    <tag k="addr:street" v="Airport Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="68939"/>
+  </node>
 </osm>

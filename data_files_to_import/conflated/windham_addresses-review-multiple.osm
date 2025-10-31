@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-111" visible="true" lat="43.22586441" lon="-72.72737884">
+    <!-- multiple: "7452 Vermont Route 11, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="7452"/>
+    <tag k="addr:street" v="Vermont Route 11"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294953"/>
+  </node>
+  <node id="-271" visible="true" lat="43.18071829" lon="-72.72583641">
+    <!-- multiple: "26 Harrington Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Harrington Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295116"/>
+  </node>
 </osm>

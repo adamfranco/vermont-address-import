@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-378" visible="true" lat="44.99820529" lon="-72.67145027">
-    <!-- offset: "12 Hamilton Place, Richford, VT" Significant offset - 465.7m -->
+  <node id="-1124" visible="true" lat="44.9860794" lon="-72.57986308">
+    <!-- offset: "298 Stevens Mills Slide Road, Richford, VT" Significant offset - 2603.5m -->
     <tag k="addr:city" v="Richford"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Hamilton Place"/>
+    <tag k="addr:housenumber" v="298"/>
+    <tag k="addr:street" v="Stevens Mills Slide Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="199365"/>
+    <tag k="ref:vcgi:esiteid" v="343906"/>
+  </node>
+  <node id="-1249" visible="true" lat="44.95657351" lon="-72.65113979">
+    <!-- offset: "285 Wightman Hill Road, Richford, VT" Significant offset - 149m -->
+    <tag k="addr:city" v="Richford"/>
+    <tag k="addr:housenumber" v="285"/>
+    <tag k="addr:street" v="Wightman Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="750586"/>
   </node>
 </osm>
