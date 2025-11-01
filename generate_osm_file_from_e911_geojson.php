@@ -1079,6 +1079,7 @@ function expand_street_name_suffix($street_name_suffix) {
                             "ldge" => "Lodge",
                             "lf" => "Loaf",
                             "lgt" => "Light",
+                            "lgts" => "Lights",
                             "light" => "Light",
                             "lights" => "Lights",
                             "lk" => "Lake",
