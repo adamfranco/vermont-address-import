@@ -1,5 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-810" visible="true" lat="44.39968148" lon="-72.94118065">
+    <!-- conflict: "449 O'Neil Drive, Richmond, VT" Fuzzy match to "449 Oneil Drive, Richmond, VT" -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="449"/>
+    <tag k="addr:street" v="O'Neil Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="200927"/>
+  </node>
+  <node id="-826" visible="true" lat="44.39914782" lon="-72.93923603">
+    <!-- conflict: "546 O'Neil Drive, Richmond, VT" Fuzzy match to "546 Oneil Drive, Richmond, VT" -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="546"/>
+    <tag k="addr:street" v="O'Neil Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="200944"/>
+  </node>
+  <node id="-841" visible="true" lat="44.39848677" lon="-72.94328148">
+    <!-- conflict: "369 O'Neil Drive, Richmond, VT" Fuzzy match to "369 Oneil Drive, Richmond, VT" -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="369"/>
+    <tag k="addr:street" v="O'Neil Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="200960"/>
+  </node>
+  <node id="-854" visible="true" lat="44.39783859" lon="-72.94229125">
+    <!-- conflict: "328 O'Neil Drive, Richmond, VT" Fuzzy match to "328 Oneil Drive, Richmond, VT" -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="328"/>
+    <tag k="addr:street" v="O'Neil Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="200974"/>
+  </node>
+  <node id="-858" visible="true" lat="44.39776611" lon="-72.94083404">
+    <!-- conflict: "524 O'Neil Drive, Richmond, VT" Fuzzy match to "524 Oneil Drive, Richmond, VT" -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="524"/>
+    <tag k="addr:street" v="O'Neil Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="200978"/>
+  </node>
+  <node id="-878" visible="true" lat="44.39713912" lon="-72.94272557">
+    <!-- conflict: "300 O'Neil Drive, Richmond, VT" Fuzzy match to "300 Oneil Drive, Richmond, VT" -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="O'Neil Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="200999"/>
+  </node>
+  <node id="-889" visible="true" lat="44.39663579" lon="-72.94331247">
+    <!-- conflict: "284 O'Neil Drive, Richmond, VT" Fuzzy match to "284 Oneil Drive, Richmond, VT" -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="O'Neil Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="201010"/>
+  </node>
+  <node id="-893" visible="true" lat="44.39644812" lon="-72.9465562">
+    <!-- conflict: "91 O'Neil Drive, Richmond, VT" Fuzzy match to "91 Oneil Drive, Richmond, VT" -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="O'Neil Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="201014"/>
+  </node>
+  <node id="-902" visible="true" lat="44.39562051" lon="-72.94515716">
+    <!-- conflict: "86 O'Neil Drive, Richmond, VT" Fuzzy match to "86 Oneil Drive, Richmond, VT" -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:street" v="O'Neil Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="201023"/>
+  </node>
   <node id="-1209" visible="true" lat="44.37886326" lon="-72.94730272">
     <!-- conflict: "244 Dugway Road, Richmond, VT" No match in OSM, but a different address exists <5m away: "243 Dugway Road, Richmond, VT" -->
     <tag k="addr:city" v="Richmond"/>

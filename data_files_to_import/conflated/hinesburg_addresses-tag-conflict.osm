@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-703" visible="true" lat="44.34450374" lon="-73.14826177">
+    <!-- conflict: "432 O'Neil Road, Hinesburg, VT" Fuzzy match to "432 Oneil Road, Hinesburg, VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="432"/>
+    <tag k="addr:street" v="O'Neil Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="128794"/>
+  </node>
+  <node id="-820" visible="true" lat="44.34217393" lon="-73.15055545">
+    <!-- conflict: "588 O'Neil Road, Hinesburg, VT" Fuzzy match to "588 Oneil Road, Hinesburg, VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="588"/>
+    <tag k="addr:street" v="O'Neil Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="128912"/>
+  </node>
+  <node id="-840" visible="true" lat="44.34187227" lon="-73.153836">
+    <!-- conflict: "770 O'Neil Road, Hinesburg, VT" Fuzzy match to "770 Oneil Road, Hinesburg, VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="770"/>
+    <tag k="addr:street" v="O'Neil Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="128932"/>
+  </node>
   <node id="-994" visible="true" lat="44.33249094" lon="-73.12582784">
     <!-- conflict: "283 Lagoon Road, Hinesburg, VT" No match in OSM, but a different address exists <5m away: "290 Lagoon Road, Hinesburg, VT" -->
     <tag k="addr:city" v="Hinesburg"/>
@@ -15,6 +39,14 @@
     <tag k="addr:street" v="Sparrows Way"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129651"/>
+  </node>
+  <node id="-1827" visible="true" lat="44.3416755" lon="-73.15213366">
+    <!-- conflict: "686 O'Neil Road, Hinesburg, VT" Fuzzy match to "686 Oneil Road, Hinesburg, VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="686"/>
+    <tag k="addr:street" v="O'Neil Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="310092"/>
   </node>
   <node id="-1829" visible="true" lat="44.3116463" lon="-73.07871598">
     <!-- conflict: "127 O'Brien Meadows, Hinesburg, VT" Fuzzy match to "127 Obrien Meadows, Hinesburg, VT" -->
@@ -71,6 +103,14 @@
     <tag k="addr:street" v="Lagoon Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="646598"/>
+  </node>
+  <node id="-2079" visible="true" lat="44.34269002" lon="-73.15583448">
+    <!-- conflict: "780 O'Neil Road, Hinesburg, VT" Fuzzy match to "780 Oneil Road, Hinesburg, VT" -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="780"/>
+    <tag k="addr:street" v="O'Neil Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755440"/>
   </node>
   <node id="-2247" visible="true" lat="44.31177453" lon="-73.07915397">
     <!-- conflict: "129 O'Brien Meadows, Hinesburg, VT" Fuzzy match to "129 Obrien Meadows, Hinesburg, VT" -->

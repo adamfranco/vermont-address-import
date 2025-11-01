@@ -747,6 +747,11 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "O'Donnell" . $matches[1];
     }
 
+    // Vernon has a road called "O'Neil Drive".
+    if(preg_match('/^Oneil(.*)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "O'Neil" . $matches[1];
+    }
+
     // Putney has a road called "Hi-Lo Biddy".
     // (esiteid: 612012)
     if ($street_name_title_cased == "Hi Lo Biddy") {
