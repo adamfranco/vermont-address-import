@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-617" visible="true" lat="44.18687387" lon="-72.84276176">
-    <!-- conflict: "228 Top Of The Valley Road, , VT" Fuzzy match to "228 Top of the Valley Road, Waitsfield, VT" -->
-    <tag k="addr:housenumber" v="228"/>
-    <tag k="addr:street" v="Top Of The Valley Road"/>
+  <node id="-613" visible="true" lat="44.18781349" lon="-72.84250127">
+    <!-- conflict: "279 Top of the Valley Road, , VT" Fuzzy match to "279 Top Of The Valley Road, , VT" -->
+    <tag k="addr:housenumber" v="279"/>
+    <tag k="addr:street" v="Top of the Valley Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="106446"/>
+    <tag k="ref:vcgi:esiteid" v="106442"/>
+  </node>
+  <node id="-629" visible="true" lat="44.18623069" lon="-72.84401813">
+    <!-- conflict: "121 Top of the Valley Road, , VT" Fuzzy match to "121 Top Of The Valley Road, , VT" -->
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Top of the Valley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="106458"/>
+  </node>
+  <node id="-632" visible="true" lat="44.18583275" lon="-72.84522016">
+    <!-- conflict: "106 Top of the Valley Road, , VT" Fuzzy match to "106 Top Of The Valley Road, , VT" -->
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:street" v="Top of the Valley Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="106461"/>
   </node>
 </osm>

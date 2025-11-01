@@ -8,6 +8,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="145147"/>
   </node>
+  <node id="-301" visible="true" lat="44.48381159" lon="-71.76027236">
+    <!-- conflict: "149 Horn of the Moon Road, Lunenburg, VT" Fuzzy match to "149 Horn Of The Moon Road, Lunenburg, VT" -->
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:street" v="Horn of the Moon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="145304"/>
+  </node>
+  <node id="-302" visible="true" lat="44.4833858" lon="-71.75982274">
+    <!-- conflict: "147 Horn of the Moon Road, Lunenburg, VT" Fuzzy match to "147 Horn Of The Moon Road, Lunenburg, VT" -->
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:street" v="Horn of the Moon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="145305"/>
+  </node>
   <node id="-1101" visible="true" lat="44.41247719" lon="-71.72433505">
     <!-- conflict: "118 Riverside Avenue, Lunenburg, VT" No match in OSM, but a different address exists <5m away: "114 Riverside Avenue, Lunenburg, VT" -->
     <tag k="addr:city" v="Lunenburg"/>

@@ -595,8 +595,8 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
     }
 
     // Brighton has a Road named "Head of the Pond Road" that gets UC-first.
-    if ($street_name_title_cased == "Head Of The Pond Road") {
-        $street_name_title_cased = "Head of the Pond Road";
+    if(preg_match('/^(.*) Of The (.*)$/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = $matches[1] . " of the " . $matches[2];
     }
 
     // Peacham has a Road named "Bayley-Hazen" that is missing the dash in E911.
