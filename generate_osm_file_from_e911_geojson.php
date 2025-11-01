@@ -590,7 +590,7 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
     }
 
     // Brighton has a Road named "RLW" that gets UC-first.
-    if ($street_name_title_cased == "Rwl") {
+    if ($street_name_title_cased == "Rlw") {
         $street_name_title_cased = "RLW";
     }
 
