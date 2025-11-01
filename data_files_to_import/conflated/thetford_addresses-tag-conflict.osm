@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-823" visible="true" lat="43.82136205" lon="-72.2082838">
+    <!-- conflict: "38 O'Donnell Drive, , VT" Fuzzy match to "38 Odonnell Drive, , VT" -->
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="O'Donnell Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259215"/>
+  </node>
+  <node id="-854" visible="true" lat="43.81947991" lon="-72.20764394">
+    <!-- conflict: "138 O'Donnell Drive, , VT" Fuzzy match to "138 Odonnell Drive, Thetford, VT" -->
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="O'Donnell Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259248"/>
+  </node>
+  <node id="-867" visible="true" lat="43.81888342" lon="-72.20627468">
+    <!-- conflict: "290 O'Donnell Drive, , VT" Fuzzy match to "290 Odonnell Drive, Thetford, VT" -->
+    <tag k="addr:housenumber" v="290"/>
+    <tag k="addr:street" v="O'Donnell Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259262"/>
+  </node>
   <node id="-999" visible="true" lat="43.8124675" lon="-72.18645128">
     <!-- conflict: "104 Vermont Route 113, , VT" No match in OSM, but a different address exists <5m away: "43 Wilson Road, Thetford, VT" -->
     <tag k="addr:housenumber" v="104"/>

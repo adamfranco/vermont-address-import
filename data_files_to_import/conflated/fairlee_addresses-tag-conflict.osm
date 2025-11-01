@@ -24,22 +24,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105760"/>
   </node>
-  <node id="-620" visible="true" lat="43.92244934" lon="-72.1388034">
-    <!-- conflict: "284 Odonnell Drive, Fairlee, VT" Fuzzy match to "284 O'Donnell Drive, Fairlee, VT" -->
-    <tag k="addr:city" v="Fairlee"/>
-    <tag k="addr:housenumber" v="284"/>
-    <tag k="addr:street" v="Odonnell Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="105823"/>
-  </node>
-  <node id="-708" visible="true" lat="43.92227566" lon="-72.14029979">
-    <!-- conflict: "210 Odonnell Drive, Fairlee, VT" Fuzzy match to "210 O'Donnell Drive, Fairlee, VT" -->
-    <tag k="addr:city" v="Fairlee"/>
-    <tag k="addr:housenumber" v="210"/>
-    <tag k="addr:street" v="Odonnell Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="105915"/>
-  </node>
   <node id="-767" visible="true" lat="43.90689057" lon="-72.20981387">
     <!-- conflict: "363 Blood Brook Road, Fairlee, VT" Fuzzy match to "363 Blood Brook Road, , VT" -->
     <tag k="addr:city" v="Fairlee"/>
@@ -47,29 +31,5 @@
     <tag k="addr:street" v="Blood Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446370"/>
-  </node>
-  <node id="-777" visible="true" lat="43.92349051" lon="-72.14292698">
-    <!-- conflict: "36 Odonnell Drive, Fairlee, VT" Fuzzy match to "36 O'Donnell Drive, Fairlee, VT" -->
-    <tag k="addr:city" v="Fairlee"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:street" v="Odonnell Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="449673"/>
-  </node>
-  <node id="-778" visible="true" lat="43.92366021" lon="-72.14221882">
-    <!-- conflict: "52 Odonnell Drive, Fairlee, VT" Fuzzy match to "52 O'Donnell Drive, Fairlee, VT" -->
-    <tag k="addr:city" v="Fairlee"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="Odonnell Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="449674"/>
-  </node>
-  <node id="-792" visible="true" lat="43.92256511" lon="-72.1357315">
-    <!-- conflict: "445 Odonnell Drive, Fairlee, VT" Fuzzy match to "445 O'Donnell Drive, Fairlee, VT" -->
-    <tag k="addr:city" v="Fairlee"/>
-    <tag k="addr:housenumber" v="445"/>
-    <tag k="addr:street" v="Odonnell Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="612114"/>
   </node>
 </osm>
