@@ -714,8 +714,8 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
 
     // Alburgh has a road called "Truck Route".
     // (esiteid: 2042)
-    if ($street_name_title_cased == "Truck rte") {
-        $street_name_title_cased = "Truck Route";
+    if ($street_name_title_cased == "Truck") {
+        $street_name_title_cased = "Truck";
     }
 
     // Hartford has a road called "V.A. Cutoff Road".
@@ -1200,6 +1200,7 @@ function expand_street_name_suffix($street_name_suffix) {
                             "rpd" => "Rapid",
                             "rpds" => "Rapids",
                             "rst" => "Rest",
+                            "rte" => "Route",
                             "rue" => "Rue",
                             "run" => "Run",
                             "rvr" => "River",
