@@ -806,6 +806,12 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "Brownsville-Hartland";
     }
 
+    // Westminster has a road called "Lewis Path" that has the suffix in the primary name field.
+    // (esiteid: 282950)
+    if ($street_name_title_cased == "Lewis Pa") {
+        $street_name_title_cased = "Lewis Path";
+    }
+
     // Andover has a road called "Willie's Lane".
     // (esiteid: 3415)
     if ($street_name_title_cased == "Willies") {
