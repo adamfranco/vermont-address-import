@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1620" visible="true" lat="44.47789956" lon="-72.35882564">
+  <node id="-1618" visible="true" lat="44.47789956" lon="-72.35882564">
     <!-- offset: "1144 Mackville Road, , VT" Significant offset - 104.7m -->
     <tag k="addr:housenumber" v="1144"/>
     <tag k="addr:street" v="Mackville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754077"/>
   </node>
-  <node id="-1621" visible="true" lat="44.47744611" lon="-72.35871161">
+  <node id="-1619" visible="true" lat="44.47744611" lon="-72.35871161">
     <!-- offset: "1150 Mackville Road, , VT" Significant offset - 544.1m -->
     <tag k="addr:housenumber" v="1150"/>
     <tag k="addr:street" v="Mackville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754080"/>
+  </node>
+  <node id="-1660" visible="true" lat="44.52545858" lon="-72.39734343">
+    <!-- offset: "640 Bunker Hill Road, , VT" Significant offset - 175m -->
+    <tag k="addr:housenumber" v="640"/>
+    <tag k="addr:street" v="Bunker Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764860"/>
   </node>
 </osm>

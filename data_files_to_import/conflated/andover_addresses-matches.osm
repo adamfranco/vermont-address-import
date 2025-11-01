@@ -54,7 +54,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3279"/>
   </node>
-  <node id="-109" visible="true" lat="43.32589053" lon="-72.72094386">
+  <node id="-109" visible="true" lat="43.3258869" lon="-72.72094174">
     <tag k="addr:housenumber" v="4106"/>
     <tag k="addr:street" v="East Hill Road"/>
     <tag k="addr:state" v="VT"/>
@@ -533,12 +533,6 @@
     <tag k="addr:street" v="Cobb Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3359"/>
-  </node>
-  <node id="-189" visible="true" lat="43.29891905" lon="-72.71577594">
-    <tag k="addr:housenumber" v="946"/>
-    <tag k="addr:street" v="Old Gulf Road South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3360"/>
   </node>
   <node id="-190" visible="true" lat="43.29855391" lon="-72.73848852">
     <tag k="addr:housenumber" v="331"/>
@@ -1716,12 +1710,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3562"/>
   </node>
-  <node id="-387" visible="true" lat="43.24975402" lon="-72.71006027">
-    <tag k="addr:housenumber" v="762"/>
-    <tag k="addr:street" v="Howard Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3563"/>
-  </node>
   <node id="-388" visible="true" lat="43.24950619" lon="-72.73588024">
     <tag k="addr:housenumber" v="627"/>
     <tag k="addr:street" v="Little Pond Road"/>
@@ -1956,7 +1944,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3603"/>
   </node>
-  <node id="-428" visible="true" lat="43.22472642" lon="-72.68975665">
+  <node id="-428" visible="true" lat="43.22474222" lon="-72.68983928">
     <tag k="addr:housenumber" v="5540"/>
     <tag k="addr:street" v="Popple Dungeon Road"/>
     <tag k="addr:state" v="VT"/>
@@ -1997,12 +1985,6 @@
     <tag k="addr:street" v="Simonsville Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3612"/>
-  </node>
-  <node id="-436" visible="true" lat="43.28343363" lon="-72.70446897">
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Cemetery Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3613"/>
   </node>
   <node id="-437" visible="true" lat="43.30196031" lon="-72.76045157">
     <tag k="addr:housenumber" v="918"/>
@@ -2315,12 +2297,6 @@
     <tag k="addr:street" v="Thomson Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3668"/>
-  </node>
-  <node id="-489" visible="true" lat="43.28869465" lon="-72.74721007">
-    <tag k="addr:housenumber" v="3800"/>
-    <tag k="addr:street" v="Weston Andover Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3669"/>
   </node>
   <node id="-490" visible="true" lat="43.31792917" lon="-72.70850947">
     <tag k="addr:housenumber" v="3126"/>
@@ -2862,13 +2838,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656168"/>
   </node>
-  <node id="-698" visible="true" lat="43.25056616" lon="-72.73164287">
+  <node id="-698" visible="true" lat="43.25027453" lon="-72.73169911">
     <tag k="addr:housenumber" v="371"/>
     <tag k="addr:street" v="Little Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656254"/>
   </node>
-  <node id="-699" visible="true" lat="43.31692312" lon="-72.70860265">
+  <node id="-699" visible="true" lat="43.3166214" lon="-72.70871904">
     <tag k="addr:housenumber" v="3117"/>
     <tag k="addr:street" v="East Hill Road"/>
     <tag k="addr:state" v="VT"/>
@@ -3108,25 +3084,25 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764172"/>
   </node>
-  <node id="-745" visible="true" lat="43.30882762" lon="-72.7233671">
+  <node id="-745" visible="true" lat="43.30881877" lon="-72.72336511">
     <tag k="addr:housenumber" v="1996"/>
     <tag k="addr:street" v="North Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764441"/>
   </node>
-  <node id="-746" visible="true" lat="43.30249848" lon="-72.73492408">
+  <node id="-746" visible="true" lat="43.30241633" lon="-72.73506455">
     <tag k="addr:housenumber" v="125"/>
     <tag k="addr:street" v="Sherman Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="766336"/>
   </node>
-  <node id="-747" visible="true" lat="43.25074287" lon="-72.75361558">
+  <node id="-747" visible="true" lat="43.25067775" lon="-72.75343467">
     <tag k="addr:housenumber" v="1212"/>
     <tag k="addr:street" v="Little Pond Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="766347"/>
   </node>
-  <node id="-748" visible="true" lat="43.26074943" lon="-72.69162818">
+  <node id="-748" visible="true" lat="43.26074565" lon="-72.6916205">
     <tag k="addr:housenumber" v="447"/>
     <tag k="addr:street" v="Simonsville Road"/>
     <tag k="addr:state" v="VT"/>
@@ -3144,7 +3120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="766983"/>
   </node>
-  <node id="-756" visible="true" lat="43.28989816" lon="-72.76085206">
+  <node id="-756" visible="true" lat="43.28990368" lon="-72.76081425">
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Andover Ridge Road"/>
     <tag k="addr:state" v="VT"/>
@@ -3162,7 +3138,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767438"/>
   </node>
-  <node id="-759" visible="true" lat="43.27739039" lon="-72.69491954">
+  <node id="-759" visible="true" lat="43.27748872" lon="-72.69478672">
     <tag k="addr:housenumber" v="736"/>
     <tag k="addr:street" v="Weston Andover Road"/>
     <tag k="addr:state" v="VT"/>
@@ -4272,13 +4248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769321"/>
   </node>
-  <node id="-958" visible="true" lat="43.25389971" lon="-72.71597132">
-    <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:street" v="Hillcrest Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="769989"/>
-  </node>
-  <node id="-959" visible="true" lat="43.28915016" lon="-72.75828102">
+  <node id="-965" visible="true" lat="43.28915016" lon="-72.75828102">
     <tag k="addr:housenumber" v="4518"/>
     <tag k="addr:street" v="Weston Andover Road"/>
     <tag k="addr:state" v="VT"/>

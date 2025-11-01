@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-2414" visible="true" lat="43.12629332" lon="-73.08526781">
+    <!-- conflict: "184 Battenkill Farm Road, , VT" No match in OSM, but a different address exists <5m away: "489 River Road, , VT" -->
+    <tag k="addr:housenumber" v="184"/>
+    <tag k="addr:street" v="Battenkill Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151555"/>
+  </node>
+  <node id="-2418" visible="true" lat="43.12523893" lon="-73.08689962">
+    <!-- conflict: "141 Battenkill Farm Road, , VT" No match in OSM, but a different address exists <5m away: "487 River Road, , VT" -->
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="Battenkill Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151559"/>
+  </node>
+  <node id="-2419" visible="true" lat="43.12431242" lon="-73.08632004">
+    <!-- conflict: "51 Battenkill Farm Road, , VT" No match in OSM, but a different address exists <5m away: "437 River Road, , VT" -->
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Battenkill Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="151560"/>
+  </node>
+  <node id="-3154" visible="true" lat="43.12659458" lon="-73.08617747">
+    <!-- conflict: "185 Battenkill Farm Road, , VT" No match in OSM, but a different address exists <5m away: "488 River Road, , VT" -->
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:street" v="Battenkill Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769706"/>
+  </node>
 </osm>

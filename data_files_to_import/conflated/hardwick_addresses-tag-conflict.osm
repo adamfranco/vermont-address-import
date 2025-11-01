@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-200" visible="true" lat="44.54073968" lon="-72.29324816">
-    <!-- conflict: "3961 Bayley Hazen Road, , VT" Fuzzy match to "3961 Bayley-Hazen Road, , VT" -->
-    <tag k="addr:housenumber" v="3961"/>
-    <tag k="addr:street" v="Bayley Hazen Road"/>
+  <node id="-164" visible="true" lat="44.54649702" lon="-72.29621592">
+    <!-- conflict: "4364 Bayley-Hazen Road, , VT" Fuzzy match to "4364 Bayley Hazen Road, , VT" -->
+    <tag k="addr:housenumber" v="4364"/>
+    <tag k="addr:street" v="Bayley-Hazen Road"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="118724"/>
+    <tag k="ref:vcgi:esiteid" v="118689"/>
+  </node>
+  <node id="-168" visible="true" lat="44.54570456" lon="-72.29642078">
+    <!-- conflict: "4305 Bayley-Hazen Road, , VT" Fuzzy match to "4305 Bayley Hazen Road, , VT" -->
+    <tag k="addr:housenumber" v="4305"/>
+    <tag k="addr:street" v="Bayley-Hazen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="118693"/>
+  </node>
+  <node id="-1374" visible="true" lat="44.52829781" lon="-72.29414322">
+    <!-- conflict: "3545 Bayley-Hazen Road, , VT" Fuzzy match to "3545 Bayley Hazen Road, , VT" -->
+    <tag k="addr:housenumber" v="3545"/>
+    <tag k="addr:street" v="Bayley-Hazen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119979"/>
+  </node>
+  <node id="-1445" visible="true" lat="44.53619275" lon="-72.28875026">
+    <!-- conflict: "3534 Bayley-Hazen Road, , VT" Fuzzy match to "3534 Bayley Hazen Road, , VT" -->
+    <tag k="addr:housenumber" v="3534"/>
+    <tag k="addr:street" v="Bayley-Hazen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120056"/>
+  </node>
+  <node id="-1446" visible="true" lat="44.53040592" lon="-72.2875915">
+    <!-- conflict: "3231 Bayley-Hazen Road, , VT" Fuzzy match to "3231 Bayley Hazen Road, , VT" -->
+    <tag k="addr:housenumber" v="3231"/>
+    <tag k="addr:street" v="Bayley-Hazen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="120057"/>
+  </node>
+  <node id="-1483" visible="true" lat="44.53241151" lon="-72.2871858">
+    <!-- conflict: "3271 Bayley-Hazen Road, , VT" Fuzzy match to "3271 Bayley Hazen Road, , VT" -->
+    <tag k="addr:housenumber" v="3271"/>
+    <tag k="addr:street" v="Bayley-Hazen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="316855"/>
+  </node>
+  <node id="-1484" visible="true" lat="44.53402526" lon="-72.28690857">
+    <!-- conflict: "3356 Bayley-Hazen Road, , VT" Fuzzy match to "3356 Bayley Hazen Road, , VT" -->
+    <tag k="addr:housenumber" v="3356"/>
+    <tag k="addr:street" v="Bayley-Hazen Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="316901"/>
+  </node>
+  <node id="-1604" visible="true" lat="44.53265447" lon="-72.27451235">
+    <!-- conflict: "59 Petes Pond Road, , VT" No match in OSM, but a different address exists <5m away: "70 Petes Pond Road, , VT" -->
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Petes Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753097"/>
   </node>
 </osm>

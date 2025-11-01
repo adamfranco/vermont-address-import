@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-101" visible="true" lat="43.7835641" lon="-72.36542411">
+  <node id="-101" visible="true" lat="43.79163122" lon="-72.35668382">
+    <!-- conflict: "2844 Chapel Hill Road, Sharon, VT" Fuzzy match to "2844 Chapel Hill Road, Norwich, VT" -->
+    <tag k="addr:city" v="Sharon"/>
+    <tag k="addr:housenumber" v="2844"/>
+    <tag k="addr:street" v="Chapel Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="182124"/>
+  </node>
+  <node id="-102" visible="true" lat="43.7835641" lon="-72.36542411">
     <!-- conflict: "687 Chapel Hill Road, Sharon, VT" Fuzzy match to "687 Chapel Hill Road, Norwich, VT" -->
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="687"/>
@@ -8,7 +16,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="182193"/>
   </node>
-  <node id="-748" visible="true" lat="43.78889396" lon="-72.37796055">
+  <node id="-749" visible="true" lat="43.78889396" lon="-72.37796055">
     <!-- conflict: "926 Sugar House Road, Sharon, VT" Fuzzy match to "926 Sugarhouse Road, Sharon, VT" -->
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="926"/>
@@ -16,20 +24,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219804"/>
   </node>
-  <node id="-863" visible="true" lat="43.80810936" lon="-72.34131154">
+  <node id="-864" visible="true" lat="43.80810936" lon="-72.34131154">
     <!-- conflict: "119 Copperas Road, Sharon, VT" Fuzzy match to "119 Copperas Road, Norwich, VT" -->
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="119"/>
     <tag k="addr:street" v="Copperas Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454382"/>
-  </node>
-  <node id="-897" visible="true" lat="43.79262311" lon="-72.35980472">
-    <!-- conflict: "2844 Chapel Hill Road, Sharon, VT" Fuzzy match to "2844 Chapel Hill Road, Norwich, VT" -->
-    <tag k="addr:city" v="Sharon"/>
-    <tag k="addr:housenumber" v="2844"/>
-    <tag k="addr:street" v="Chapel Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751504"/>
   </node>
 </osm>

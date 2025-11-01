@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-637" visible="true" lat="43.47072913" lon="-72.68287839">
+    <!-- conflict: "16 Gilmore Road, , VT" No match in OSM, but a different address exists <5m away: "1372 Kingdom Road, , VT" -->
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Gilmore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="189985"/>
+  </node>
 </osm>

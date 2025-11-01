@@ -1,3 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-458" visible="true" lat="44.63791066" lon="-72.38580552">
+    <!-- conflict: "74 Prescott Drive, , VT" No match in OSM, but a different address exists <5m away: "624 Prescott Drive, , VT" -->
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Prescott Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="79254"/>
+  </node>
+  <node id="-829" visible="true" lat="44.70078227" lon="-72.42396782">
+    <!-- conflict: "3355 Coburn Hill Road, , VT" No match in OSM, but a different address exists <5m away: "3545 Coburn Hill Road, , VT" -->
+    <tag k="addr:housenumber" v="3355"/>
+    <tag k="addr:street" v="Coburn Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610313"/>
+  </node>
+  <node id="-878" visible="true" lat="44.69073749" lon="-72.41653508">
+    <!-- conflict: "2543 Coburn Hill Road, , VT" No match in OSM, but a different address exists <5m away: "2723 Coburn Hill Road, , VT" -->
+    <tag k="addr:housenumber" v="2543"/>
+    <tag k="addr:street" v="Coburn Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758629"/>
+  </node>
+  <node id="-910" visible="true" lat="44.63271123" lon="-72.37045838">
+    <!-- conflict: "41 Pete's Greens Road, , VT" Fuzzy match to "41 Petes Greens Road, , VT" -->
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Pete's Greens Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768189"/>
+  </node>
+  <node id="-911" visible="true" lat="44.63266355" lon="-72.37040514">
+    <!-- conflict: "43 Pete's Greens Road, , VT" Fuzzy match to "43 Petes Greens Road, , VT" -->
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Pete's Greens Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768190"/>
+  </node>
+  <node id="-912" visible="true" lat="44.63260321" lon="-72.37033176">
+    <!-- conflict: "45 Pete's Greens Road, , VT" Fuzzy match to "45 Petes Greens Road, , VT" -->
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Pete's Greens Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768191"/>
+  </node>
+  <node id="-914" visible="true" lat="44.63252799" lon="-72.37027153">
+    <!-- conflict: "15 Pete's Greens Road, , VT" Fuzzy match to "15 Petes Greens Road, , VT" -->
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Pete's Greens Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768678"/>
+  </node>
+  <node id="-915" visible="true" lat="44.63236728" lon="-72.37028023">
+    <!-- conflict: "17 Pete's Greens Road, , VT" Fuzzy match to "17 Petes Greens Road, , VT" -->
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Pete's Greens Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768679"/>
+  </node>
 </osm>

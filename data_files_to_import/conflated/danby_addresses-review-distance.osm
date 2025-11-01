@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-940" visible="true" lat="43.35982493" lon="-72.9944128">
+  <node id="-217" visible="true" lat="43.39238683" lon="-73.10658041">
+    <!-- offset: "3174 Green Hill Road, , VT" Significant offset - 173.7m -->
+    <tag k="addr:housenumber" v="3174"/>
+    <tag k="addr:street" v="Green Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="79667"/>
+  </node>
+  <node id="-941" visible="true" lat="43.35982493" lon="-72.9944128">
     <!-- offset: "141 Holland Heights Road, , VT" Significant offset - 121.1m -->
     <tag k="addr:housenumber" v="141"/>
     <tag k="addr:street" v="Holland Heights Road"/>

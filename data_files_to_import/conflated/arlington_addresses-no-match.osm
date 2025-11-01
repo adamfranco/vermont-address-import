@@ -14,14 +14,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3711"/>
   </node>
-  <node id="-140" visible="true" lat="43.11080352" lon="-73.26612279">
+  <node id="-140" visible="true" lat="43.11079991" lon="-73.26612065">
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="Chunks Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3724"/>
   </node>
-  <node id="-159" visible="true" lat="43.10914611" lon="-73.26622009">
+  <node id="-159" visible="true" lat="43.10907764" lon="-73.2661807">
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Chunks Brook Road"/>
@@ -42,12 +42,19 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3753"/>
   </node>
-  <node id="-1268" visible="true" lat="43.11156304" lon="-73.26604447">
+  <node id="-1268" visible="true" lat="43.11158107" lon="-73.26594326">
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:street" v="Chunks Brook Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4893"/>
+  </node>
+  <node id="-1314" visible="true" lat="43.08646364" lon="-73.14523077">
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Limerick Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4943"/>
   </node>
   <node id="-1455" visible="true" lat="43.11720315" lon="-73.26471973">
     <tag k="addr:city" v="Arlington"/>
@@ -90,5 +97,19 @@
     <tag k="addr:street" v="Youri Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="618388"/>
+  </node>
+  <node id="-1789" visible="true" lat="43.08601816" lon="-73.14471781">
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Limerick Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771311"/>
+  </node>
+  <node id="-1790" visible="true" lat="43.07858707" lon="-73.14940819">
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="657"/>
+    <tag k="addr:street" v="Chittenden Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772499"/>
   </node>
 </osm>

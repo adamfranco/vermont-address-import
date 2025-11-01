@@ -1,3 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-101" visible="true" lat="44.87190551" lon="-73.28608616">
+    <!-- conflict: "200 Northern lgts, Alburgh, VT" No match in OSM, but a different address exists <5m away: "200 northern lights, , " -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Northern lgts"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160"/>
+  </node>
+  <node id="-183" visible="true" lat="44.95654816" lon="-73.27952642">
+    <!-- conflict: "245 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "245 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1782"/>
+  </node>
+  <node id="-184" visible="true" lat="44.95356648" lon="-73.28184664">
+    <!-- conflict: "495 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "495 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="495"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1783"/>
+  </node>
+  <node id="-185" visible="true" lat="44.9526325" lon="-73.28327995">
+    <!-- conflict: "580 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "580 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="580"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1784"/>
+  </node>
+  <node id="-253" visible="true" lat="44.87110484" lon="-73.28418531">
+    <!-- conflict: "24 Northern lgts, Alburgh, VT" No match in OSM, but a different address exists <5m away: "124 Poor Farm Road, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Northern lgts"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1854"/>
+  </node>
+  <node id="-254" visible="true" lat="44.87057177" lon="-73.2867065">
+    <!-- conflict: "133 Northern lgts, Alburgh, VT" No match in OSM, but a different address exists <5m away: "133 northern lights, , " -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="133"/>
+    <tag k="addr:street" v="Northern lgts"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1855"/>
+  </node>
+  <node id="-436" visible="true" lat="44.95053092" lon="-73.28914669">
+    <!-- conflict: "961 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "961 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="961"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2041"/>
+  </node>
+  <node id="-437" visible="true" lat="44.950516" lon="-73.28972269">
+    <!-- conflict: "963 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "963 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="963"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2042"/>
+  </node>
+  <node id="-438" visible="true" lat="44.95050835" lon="-73.29063704">
+    <!-- conflict: "1027 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1027 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="1027"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2043"/>
+  </node>
+  <node id="-439" visible="true" lat="44.95227796" lon="-73.28442579">
+    <!-- conflict: "556 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "556 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="556"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2044"/>
+  </node>
+  <node id="-440" visible="true" lat="44.95120322" lon="-73.2837058">
+    <!-- conflict: "669 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "669 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="669"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2045"/>
+  </node>
+  <node id="-441" visible="true" lat="44.9502983" lon="-73.28447723">
+    <!-- conflict: "713 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "713 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="713"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2046"/>
+  </node>
+  <node id="-442" visible="true" lat="44.95081744" lon="-73.28386059">
+    <!-- conflict: "707 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "707 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2047"/>
+  </node>
+  <node id="-443" visible="true" lat="44.95121036" lon="-73.28637688">
+    <!-- conflict: "816 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "816 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="816"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2048"/>
+  </node>
+  <node id="-444" visible="true" lat="44.95116249" lon="-73.28792046">
+    <!-- conflict: "886 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "886 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="886"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2049"/>
+  </node>
+  <node id="-445" visible="true" lat="44.9521048" lon="-73.28370482">
+    <!-- conflict: "612 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "612 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="612"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2050"/>
+  </node>
+  <node id="-446" visible="true" lat="44.95648416" lon="-73.28033902">
+    <!-- conflict: "276 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "276 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="276"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2051"/>
+  </node>
+  <node id="-447" visible="true" lat="44.95398315" lon="-73.28272175">
+    <!-- conflict: "478 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "478 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="478"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2052"/>
+  </node>
+  <node id="-448" visible="true" lat="44.95365611" lon="-73.28008996">
+    <!-- conflict: "459 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "459 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="459"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2053"/>
+  </node>
+  <node id="-449" visible="true" lat="44.9545288" lon="-73.28181457">
+    <!-- conflict: "412 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "412 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="412"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2054"/>
+  </node>
+  <node id="-450" visible="true" lat="44.95056354" lon="-73.30011861">
+    <!-- conflict: "1493 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1493 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="1493"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2056"/>
+  </node>
+  <node id="-1169" visible="true" lat="44.95487307" lon="-73.2820336">
+    <!-- conflict: "42 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "42 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2810"/>
+  </node>
+  <node id="-1218" visible="true" lat="44.95164997" lon="-73.28266859">
+    <!-- conflict: "639 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "639 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="639"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2871"/>
+  </node>
+  <node id="-1219" visible="true" lat="44.95711334" lon="-73.27842521">
+    <!-- conflict: "187 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "187 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2872"/>
+  </node>
+  <node id="-1230" visible="true" lat="44.95727108" lon="-73.28107774">
+    <!-- conflict: "234 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "234 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="234"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="2890"/>
+  </node>
+  <node id="-1381" visible="true" lat="44.95123902" lon="-73.28581464">
+    <!-- conflict: "764 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "764 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="764"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3048"/>
+  </node>
+  <node id="-1543" visible="true" lat="44.94908923" lon="-73.28665336">
+    <!-- conflict: "861 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "861 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="861"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3215"/>
+  </node>
+  <node id="-1545" visible="true" lat="44.95033063" lon="-73.3066448">
+    <!-- conflict: "1799 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1799 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="1799"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3217"/>
+  </node>
+  <node id="-1587" visible="true" lat="44.95030722" lon="-73.28535091">
+    <!-- conflict: "757 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "757 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="757"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3268"/>
+  </node>
+  <node id="-1636" visible="true" lat="44.87001588" lon="-73.28619851">
+    <!-- conflict: "115 Northern lgts, Alburgh, VT" No match in OSM, but a different address exists <5m away: "132 Poor Farm Road, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Northern lgts"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306759"/>
+  </node>
+  <node id="-1666" visible="true" lat="44.95247914" lon="-73.2918104">
+    <!-- conflict: "1092 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1092 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="1092"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313355"/>
+  </node>
+  <node id="-1667" visible="true" lat="44.95187372" lon="-73.2894547">
+    <!-- conflict: "954 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "954 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="954"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313356"/>
+  </node>
+  <node id="-1668" visible="true" lat="44.95042696" lon="-73.29354225">
+    <!-- conflict: "1175 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1175 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="1175"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313357"/>
+  </node>
+  <node id="-2019" visible="true" lat="44.9590951" lon="-73.27681502">
+    <!-- conflict: "35 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "35 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613255"/>
+  </node>
+  <node id="-2362" visible="true" lat="44.95326182" lon="-73.28293332">
+    <!-- conflict: "514 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "514 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="514"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752096"/>
+  </node>
+  <node id="-2398" visible="true" lat="44.94615085" lon="-73.29540271">
+    <!-- conflict: "1237 Truck rte, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1237 Truck Route, Alburgh, VT" -->
+    <tag k="addr:city" v="Alburgh"/>
+    <tag k="addr:housenumber" v="1237"/>
+    <tag k="addr:street" v="Truck rte"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758903"/>
+  </node>
 </osm>

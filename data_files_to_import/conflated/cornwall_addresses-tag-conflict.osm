@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-342" visible="true" lat="43.96002247" lon="-73.20890968">
+    <!-- conflict: "2713 Vermont Route 30, Cornwall, VT" No match in OSM, but a different address exists <5m away: "2713B Vermont Route 30, Cornwall, VT" -->
+    <tag k="addr:city" v="Cornwall"/>
+    <tag k="addr:housenumber" v="2713"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="78181"/>
+  </node>
 </osm>
