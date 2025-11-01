@@ -780,6 +780,11 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "LaPointe";
     }
 
+    // Milton has a road signed "La Casse Drive"
+    if ($street_name_title_cased == "Lacasse") {
+        $street_name_title_cased = "La Casse";
+    }
+
     // Fairfield has 3 roads like "Napoli Road 1", "Napoli Road 2", and "Napoli Road 3" in E911.
     // The first first should probably be "Napoli Camp Road" and the later two "Napoli Road".
     // (esiteid: 104494, 104507, 104520)
@@ -1335,7 +1340,8 @@ function expand_street_name_suffix($street_name_suffix) {
                             "wls" => "Wells",
                             "wy" => "Way",
                             "xing" => "Crossing",
-                            "xrd" => "Crossroad"
+                            "xrd" => "Crossroad",
+                            "ytbd" => "(Yet to be Determined)"
                             );
 
     if(array_key_exists($street_name_suffix, $street_suffixes)) {

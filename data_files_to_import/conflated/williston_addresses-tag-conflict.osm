@@ -112,6 +112,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="289414"/>
   </node>
+  <node id="-1905" visible="true" lat="44.43225123" lon="-73.12716659">
+    <!-- conflict: "74 La Casse Lane, Williston, VT" Fuzzy match to "74 Lacasse Lane, Williston, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="La Casse Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="290686"/>
+  </node>
+  <node id="-2688" visible="true" lat="44.43069779" lon="-73.12675839">
+    <!-- conflict: "136 La Casse Lane, Williston, VT" Fuzzy match to "136 Lacasse Lane, Williston, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="La Casse Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="291503"/>
+  </node>
   <node id="-2917" visible="true" lat="44.45727961" lon="-73.11277786">
     <!-- conflict: "54 O'Brien Court, Williston, VT" Fuzzy match to "54 Obrien Court, Williston, VT" -->
     <tag k="addr:city" v="Williston"/>
@@ -127,5 +143,13 @@
     <tag k="addr:street" v="Oak Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450937"/>
+  </node>
+  <node id="-4593" visible="true" lat="44.42931936" lon="-73.12646122">
+    <!-- conflict: "222 La Casse Lane, Williston, VT" Fuzzy match to "222 Lacasse Lane, Williston, VT" -->
+    <tag k="addr:city" v="Williston"/>
+    <tag k="addr:housenumber" v="222"/>
+    <tag k="addr:street" v="La Casse Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762293"/>
   </node>
 </osm>
