@@ -813,6 +813,10 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "T-Bird";
     }
 
+    if ($street_name_title_cased == "Nameless Ytbd") {
+        $street_name_title_cased = "Nameless (Yet to be Determined)";
+    }
+
     return $street_name_title_cased;
 }
 
