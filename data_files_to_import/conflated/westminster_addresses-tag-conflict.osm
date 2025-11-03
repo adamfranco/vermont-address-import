@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1130" visible="true" lat="43.05798721" lon="-72.47973632">
-    <!-- conflict: "256 O'Neill Hill, , VT" Fuzzy match to "256 Oneill Hill, , VT" -->
-    <tag k="addr:housenumber" v="256"/>
-    <tag k="addr:street" v="O'Neill Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="283482"/>
-  </node>
-  <node id="-1141" visible="true" lat="43.05730438" lon="-72.4780426">
-    <!-- conflict: "119 O'Neill Hill, , VT" Fuzzy match to "119 Oneill Hill, , VT" -->
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="O'Neill Hill"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="283493"/>
-  </node>
   <node id="-1415" visible="true" lat="43.03099815" lon="-72.49004499">
     <!-- conflict: "555 Old Ledge Road, , VT" No match in OSM, but a different address exists <5m away: "407 Old Ledge Road, , VT" -->
     <tag k="addr:housenumber" v="555"/>

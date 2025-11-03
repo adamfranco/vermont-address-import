@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-120" visible="true" lat="43.76783985" lon="-72.97834919">
-    <!-- conflict: "208 Middle Road, Chittenden, VT" No match in OSM, but a different address exists <5m away: "204 Middle Road, Chittenden, VT" -->
-    <tag k="addr:city" v="Chittenden"/>
-    <tag k="addr:housenumber" v="208"/>
-    <tag k="addr:street" v="Middle Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="67582"/>
-  </node>
   <node id="-798" visible="true" lat="43.67397711" lon="-72.94317741">
     <!-- conflict: "11 Chittenden Road, Chittenden, VT" Fuzzy match to "11 Chittenden Road, , VT" -->
     <tag k="addr:city" v="Chittenden"/>
