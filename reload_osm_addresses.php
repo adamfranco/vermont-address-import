@@ -62,6 +62,7 @@ $db->query("CREATE TABLE addresses (
   id INT NOT NULL,
   housenumber VARCHAR(255),
   street VARCHAR(255),
+  place VARCHAR(255),
   unit VARCHAR(255),
   city VARCHAR(255),
   state VARCHAR(255),
@@ -89,13 +90,14 @@ foreach ($inputDoc->documentElement->childNodes as $inputNode) {
 
       }
       $query = "INSERT INTO
-        addresses (osm_type, id, geom, housenumber, street, unit, city, state, postcode)
+        addresses (osm_type, id, geom, housenumber, street, place, unit, city, state, postcode)
       VALUES (
         '" . SQLite3::escapeString($inputNode->nodeName) . "',
         " . $inputNode->getAttribute('id') . ",
         MakePoint($lon, $lat, 4326),
         '" . SQLite3::escapeString($address['addr:housenumber']) ."',
         '" . SQLite3::escapeString($address['addr:street']) ."',
+        '" . SQLite3::escapeString($address['addr:place']) ."',
         '" . SQLite3::escapeString($address['addr:unit']) ."',
         '" . SQLite3::escapeString($address['addr:city']) ."',
         '" . SQLite3::escapeString($address['addr:state']) ."',
@@ -132,6 +134,7 @@ function extractAddress(DOMElement $inputNode) {
   $result = [
     'addr:housenumber' => '',
     'addr:street' => '',
+    'addr:place' => '',
     'addr:unit' => '',
     'addr:city' => '',
     'addr:state' => '',

@@ -66,15 +66,16 @@ END;
     }
     // For E911 that includes units, try to match them to OSM exactly.
     if (!empty($address['addr:unit'])) {
-        $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND unit=:unit AND street=:street ".$cityWhere." AND state=:state");
+        $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND unit=:unit AND street=:street AND place=:place ".$cityWhere." AND state=:state");
     }
     // If there is no unit in E911, just match the basic address. If extra
     // units are mapped in OSM they will fall into the "multiple" bucket.
     else {
-        $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND street=:street ".$cityWhere." AND state=:state");
+        $exactMatchStmt = $this->db->prepare("SELECT osm_type, id, st_distance(geom,st_point($lon,$lat),0) AS distance FROM addresses WHERE housenumber=:housenumber AND street=:street AND place=:place ".$cityWhere." AND state=:state");
     }
     $exactMatchStmt->bindValue('housenumber', $address['addr:housenumber']);
-    $exactMatchStmt->bindValue('street', $address['addr:street']);
+    $exactMatchStmt->bindValue('street', empty($address['addr:street']) ? '' : $address['addr:street']);
+    $exactMatchStmt->bindValue('place', empty($address['addr:place']) ? '' : $address['addr:place']);
     if (!empty($address['addr:city'])) {
       $exactMatchStmt->bindValue('city', $address['addr:city']);
     }
@@ -215,7 +216,11 @@ END;
 
   protected function log($category, DOMElement $inputNode, $message) {
     $address = $this->extractAddress($inputNode);
-    $entry = $category . ": \"" .  $address['addr:housenumber'] . ' ' . $address['addr:street'] . ', ' . (empty($address['addr:city']) ? '' : $address['addr:city']) . ', ' . $address['addr:state'] . '" ' . $message . "\n";
+    $entry = $category . ": \"" .  $address['addr:housenumber'] . ' '
+      . (empty($address['addr:street']) ? '' : $address['addr:street'])
+      . (empty($address['addr:place']) ? '' : $address['addr:place']) . ', '
+      . (empty($address['addr:city']) ? '' : $address['addr:city']) . ', '
+      . $address['addr:state'] . '" ' . $message . "\n";
     if ($this->verbose) {
       print $entry;
       // fwrite(STDERR, $entry);

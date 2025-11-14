@@ -8,7 +8,9 @@ $stateQuery = <<<END
   area["ISO3166-2"="US-VT"]["admin_level"="4"]["boundary"="administrative"]->.state;
   nwr["addr:housenumber"](area.state);
   nwr["addr:street"](area.state);
+  nwr["addr:place"](area.state);
   nwr["addr:city"](area.state);
+  nwr["ref:vcgi:esiteid"](area.state);
 );
 (._;);
 out center;

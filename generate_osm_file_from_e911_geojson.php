@@ -176,9 +176,18 @@ foreach($data['features'] as $feature) {
     }
 
     if(!empty($feature['properties']['SN'])) {
-        $street = build_street_name($feature['properties']);
+        // Addresses on small islands often don't have any streets and are
+        // only accessed by boat. Use an empty street and fill in place.
+        if ($feature['properties']['ST'] == "IS") {
+          $street = NULL;
+          $place = build_street_name($feature['properties']);
+        } else {
+          $street = build_street_name($feature['properties']);
+          $place = NULL;
+        }
     } else {
         $street = NULL;
+        $place = NULL;
         $feature_errors[] = "SN (street name) value is empty: (esiteid: " . $esiteid . ")";
     }
 
@@ -209,6 +218,11 @@ foreach($data['features'] as $feature) {
                 $output .= "    <tag k=\"addr:unit\" v=\"" . $unit . "\" />\n";
             }
             $output .= "    <tag k=\"addr:street\" v=\"" . $street . "\" />\n";
+            // Addresses on small islands often don't have any streets and are
+            // only accessed by boat. Use an empty street and fill in place.
+            if (!empty($place)) {
+                $output .= "    <tag k=\"addr:place\" v=\"" . $place . "\" />\n";
+            }
             // ZIP codes in E911 may not be correct.
             // $output .= "    <tag k=\"addr:postcode\" v=\"" . $zip_code . "\" />\n";
             $output .= "    <tag k=\"addr:state\" v=\"VT\" />\n";
