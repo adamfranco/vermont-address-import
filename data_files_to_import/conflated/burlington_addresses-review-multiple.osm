@@ -1864,6 +1864,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="52825"/>
   </node>
+  <node id="-9792" visible="true" lat="44.48721376" lon="-73.1845112">
+    <!-- multiple: "67 Chase Street, Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Chase Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="52836"/>
+  </node>
   <node id="-9870" visible="true" lat="44.48801875" lon="-73.203316">
     <!-- multiple: "253 Archibald Street, Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Burlington"/>
@@ -2463,5 +2471,13 @@
     <tag k="addr:street" v="Bank Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771440"/>
+  </node>
+  <node id="-12888" visible="true" lat="44.48710089" lon="-73.18456469">
+    <!-- multiple: "67 Chase Street, Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Chase Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771735"/>
   </node>
 </osm>

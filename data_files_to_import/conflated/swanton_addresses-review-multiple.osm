@@ -35,6 +35,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="254977"/>
   </node>
+  <node id="-607" visible="true" lat="44.9290116" lon="-73.21412283">
+    <!-- multiple: "74 Champlain Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Champlain Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="255305"/>
+  </node>
+  <node id="-638" visible="true" lat="44.92913071" lon="-73.21449955">
+    <!-- multiple: "91 Lakewood Campground Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Lakewood Campground Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="255336"/>
+  </node>
   <node id="-1666" visible="true" lat="44.91558355" lon="-73.12438493">
     <!-- multiple: "32 Church Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="32"/>
@@ -307,5 +321,12 @@
     <tag k="addr:street" v="Sunset Terrace"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="258273"/>
+  </node>
+  <node id="-4230" visible="true" lat="44.92925581" lon="-73.21440149">
+    <!-- multiple: "91 Lakewood Campground Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Lakewood Campground Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771924"/>
   </node>
 </osm>

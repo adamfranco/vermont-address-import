@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-673" visible="true" lat="43.81073774" lon="-73.10458496">
-    <!-- conflict: "908 Grove Street, Brandon, VT" No match in OSM, but a different address exists <5m away: "908 New Road, Brandon, VT" -->
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="908"/>
-    <tag k="addr:street" v="Grove Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="28345"/>
-  </node>
   <node id="-1934" visible="true" lat="43.84483687" lon="-73.08426548">
     <!-- conflict: "2559 Town Farm Road, Brandon, VT" Fuzzy match to "2559 Town Farm Road, , VT" -->
     <tag k="addr:city" v="Brandon"/>

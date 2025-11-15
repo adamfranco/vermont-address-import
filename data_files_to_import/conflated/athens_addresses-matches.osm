@@ -833,13 +833,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="5117"/>
   </node>
-  <node id="-219" visible="true" lat="43.11040255" lon="-72.57059627">
-    <tag k="addr:city" v="Athens"/>
-    <tag k="addr:housenumber" v="157"/>
-    <tag k="addr:street" v="Brookline Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="5118"/>
-  </node>
   <node id="-220" visible="true" lat="43.11037235" lon="-72.60152303">
     <tag k="addr:city" v="Athens"/>
     <tag k="addr:housenumber" v="131"/>
@@ -1701,6 +1694,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="613690"/>
   </node>
+  <node id="-357" visible="true" lat="43.11829868" lon="-72.61803184">
+    <tag k="addr:city" v="Athens"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Herring Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613694"/>
+  </node>
   <node id="-382" visible="true" lat="43.12259593" lon="-72.59120226">
     <tag k="addr:city" v="Athens"/>
     <tag k="addr:housenumber" v="51"/>
@@ -1931,6 +1931,34 @@
     <tag k="addr:street" v="Walker Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768730"/>
+  </node>
+  <node id="-499" visible="true" lat="43.11049541" lon="-72.57148356">
+    <tag k="addr:city" v="Athens"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="Lake Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772512"/>
+  </node>
+  <node id="-501" visible="true" lat="43.11244221" lon="-72.57019874">
+    <tag k="addr:city" v="Athens"/>
+    <tag k="addr:housenumber" v="159A"/>
+    <tag k="addr:street" v="Brookline Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772514"/>
+  </node>
+  <node id="-502" visible="true" lat="43.11220409" lon="-72.57023824">
+    <tag k="addr:city" v="Athens"/>
+    <tag k="addr:housenumber" v="159B"/>
+    <tag k="addr:street" v="Brookline Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772515"/>
+  </node>
+  <node id="-503" visible="true" lat="43.1119469" lon="-72.57027128">
+    <tag k="addr:city" v="Athens"/>
+    <tag k="addr:housenumber" v="159C"/>
+    <tag k="addr:street" v="Brookline Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772516"/>
   </node>
   <node id="-505" visible="true" lat="43.1242573" lon="-72.60466143">
     <tag k="addr:city" v="Athens"/>

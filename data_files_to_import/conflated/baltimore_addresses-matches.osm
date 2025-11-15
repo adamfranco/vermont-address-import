@@ -623,6 +623,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="5921"/>
   </node>
+  <node id="-189" visible="true" lat="43.34686637" lon="-72.55586472">
+    <tag k="addr:city" v="Baltimore"/>
+    <tag k="addr:housenumber" v="180"/>
+    <tag k="addr:street" v="Gould Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="5922"/>
+  </node>
   <node id="-190" visible="true" lat="43.3467426" lon="-72.54998892">
     <tag k="addr:city" v="Baltimore"/>
     <tag k="addr:housenumber" v="163"/>
@@ -818,5 +825,33 @@
     <tag k="addr:street" v="Baltimore Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765185"/>
+  </node>
+  <node id="-242" visible="true" lat="43.35820604" lon="-72.55159898">
+    <tag k="addr:city" v="Baltimore"/>
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:street" v="Old Piper Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771526"/>
+  </node>
+  <node id="-243" visible="true" lat="43.35174172" lon="-72.56358692">
+    <tag k="addr:city" v="Baltimore"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Bemis Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771829"/>
+  </node>
+  <node id="-244" visible="true" lat="43.36755513" lon="-72.54966004">
+    <tag k="addr:city" v="Baltimore"/>
+    <tag k="addr:housenumber" v="3676"/>
+    <tag k="addr:street" v="Baltimore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771830"/>
+  </node>
+  <node id="-245" visible="true" lat="43.34892919" lon="-72.55585229">
+    <tag k="addr:city" v="Baltimore"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Baltimore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772628"/>
   </node>
 </osm>

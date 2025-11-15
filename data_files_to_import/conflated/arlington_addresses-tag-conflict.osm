@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-152" visible="true" lat="43.11067201" lon="-73.1454717">
-    <!-- conflict: "102 Kelly Lane, Arlington, VT" No match in OSM, but a different address exists <5m away: "102 Glebe Lot Road, Arlington, VT" -->
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="102"/>
-    <tag k="addr:street" v="Kelly Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3736"/>
-  </node>
-  <node id="-155" visible="true" lat="43.11009913" lon="-73.14583061">
-    <!-- conflict: "122 Kelly Lane, Arlington, VT" No match in OSM, but a different address exists <5m away: "122 Glebe Lot Road, Arlington, VT" -->
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="122"/>
-    <tag k="addr:street" v="Kelly Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3739"/>
-  </node>
-  <node id="-163" visible="true" lat="43.10952396" lon="-73.14454773">
-    <!-- conflict: "25 Kelly Lane, Arlington, VT" No match in OSM, but a different address exists <5m away: "25 Glebe Lot Road, Arlington, VT" -->
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Kelly Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3747"/>
-  </node>
   <node id="-1452" visible="true" lat="43.12114882" lon="-73.21005514">
     <!-- conflict: "219 Shamrock Hill, Arlington, VT" Fuzzy match to "219 Shamrock Hill, Sandgate, VT" -->
     <tag k="addr:city" v="Arlington"/>

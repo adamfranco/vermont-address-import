@@ -1,24 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-189" visible="true" lat="43.29891905" lon="-72.71577594">
-    <!-- conflict: "1702 North Hill Road, , VT" No match in OSM, but a different address exists <5m away: "946 Old Gulf Road South, , VT" -->
-    <tag k="addr:housenumber" v="1702"/>
-    <tag k="addr:street" v="North Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3360"/>
-  </node>
-  <node id="-387" visible="true" lat="43.24975402" lon="-72.71006027">
-    <!-- conflict: "662 Howard Hill Road, , VT" No match in OSM, but a different address exists <5m away: "762 Howard Hill Road, , VT" -->
-    <tag k="addr:housenumber" v="662"/>
-    <tag k="addr:street" v="Howard Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3563"/>
-  </node>
-  <node id="-489" visible="true" lat="43.28869465" lon="-72.74721007">
-    <!-- conflict: "316 Moosewalk Lane, , VT" No match in OSM, but a different address exists <5m away: "3800 Weston Andover Road, , VT" -->
-    <tag k="addr:housenumber" v="316"/>
-    <tag k="addr:street" v="Moosewalk Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3669"/>
-  </node>
 </osm>

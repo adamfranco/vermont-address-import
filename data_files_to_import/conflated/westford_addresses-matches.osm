@@ -3613,6 +3613,7 @@
     <tag k="ref:vcgi:esiteid" v="282183"/>
   </node>
   <node id="-1010" visible="true" lat="44.58414464" lon="-72.97728639">
+    <!-- match: "162 Machia Hill Road, , VT"  ignoring missing state when matching to "162 Machia Hill Road, Westford, " -->
     <tag k="addr:housenumber" v="162"/>
     <tag k="addr:street" v="Machia Hill Road"/>
     <tag k="addr:state" v="VT"/>
