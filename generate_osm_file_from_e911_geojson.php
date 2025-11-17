@@ -509,6 +509,11 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "SFH";
     }
 
+    // Colchester has a road called "EOC".
+    if ($street_name_title_cased == "Eoc") {
+        $street_name_title_cased = "EOC";
+    }
+
     // Middlebury has a street name HMKL that should be capitalized. (esiteid: 155140)
     if(preg_match('/^hmkl/i', $street_name_title_cased)) {
         $street_name_title_cased = "HMKL";
