@@ -65,3 +65,4 @@ $conflator->conflictsDoc->save("data_files_to_import/conflated/".basename($file,
 $conflator->reviewMultiplesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-review-multiple.osm");
 $conflator->reviewDistancesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-review-distance.osm");
 $conflator->matchesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-matches.osm");
+  $conflator->duplicatesInDifferentTownsDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-duplicates-in-different-towns.osm");

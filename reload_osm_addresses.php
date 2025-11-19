@@ -67,6 +67,7 @@ $db->query("CREATE TABLE addresses (
   city VARCHAR(255),
   state VARCHAR(255),
   postcode VARCHAR(255),
+  esiteid INT,
   PRIMARY KEY(osm_type,id)
 );");
 $db->query("SELECT AddGeometryColumn('addresses', 'geom', 4326, 'POINT', 'XY');");
@@ -90,7 +91,7 @@ foreach ($inputDoc->documentElement->childNodes as $inputNode) {
 
       }
       $query = "INSERT INTO
-        addresses (osm_type, id, geom, housenumber, street, place, unit, city, state, postcode)
+        addresses (osm_type, id, geom, housenumber, street, place, unit, city, state, postcode, esiteid)
       VALUES (
         '" . SQLite3::escapeString($inputNode->nodeName) . "',
         " . $inputNode->getAttribute('id') . ",
@@ -101,7 +102,8 @@ foreach ($inputDoc->documentElement->childNodes as $inputNode) {
         '" . SQLite3::escapeString($address['addr:unit']) ."',
         '" . SQLite3::escapeString($address['addr:city']) ."',
         '" . SQLite3::escapeString($address['addr:state']) ."',
-        '" . SQLite3::escapeString($address['addr:postcode']) . "'
+        '" . SQLite3::escapeString($address['addr:postcode']) . "',
+        '" . SQLite3::escapeString($address['ref:vcgi:esiteid']) . "'
       )";
       if (!$db->exec($query)) {
           print "ERROR RUNNING: \n$query\n";
@@ -139,9 +141,13 @@ function extractAddress(DOMElement $inputNode) {
     'addr:city' => '',
     'addr:state' => '',
     'addr:postcode' => '',
+    'ref:vcgi:esiteid' => '',
   ];
   foreach ($inputNode->childNodes as $child) {
     if ($child->nodeName == 'tag' && preg_match('/^addr:.+/', $child->getAttribute('k'))) {
+      $result[$child->getAttribute('k')] = $child->getAttribute('v');
+    }
+    if ($child->nodeName == 'tag' && $child->getAttribute('k') == 'ref:vcgi:esiteid') {
       $result[$child->getAttribute('k')] = $child->getAttribute('v');
     }
   }

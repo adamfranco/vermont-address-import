@@ -5,6 +5,7 @@ class AddressConflator {
   public $nonMatchesDoc;
   public $conflictsDoc;
   public $matchesDoc;
+  public $duplicatesInDifferentTownsDoc;
   public $reviewMultiplesDoc;
   public $reviewDistancesDoc;
 
@@ -27,6 +28,8 @@ END;
     $this->matchesDoc->loadXML($osmXmlWrapper);
     $this->conflictsDoc = new DOMDocument();
     $this->conflictsDoc->loadXML($osmXmlWrapper);
+    $this->duplicatesInDifferentTownsDoc = new DOMDocument();
+    $this->duplicatesInDifferentTownsDoc->loadXML($osmXmlWrapper);
     $this->reviewMultiplesDoc = new DOMDocument();
     $this->reviewMultiplesDoc->loadXML($osmXmlWrapper);
     $this->reviewDistancesDoc = new DOMDocument();
@@ -145,6 +148,21 @@ END;
         return;
       }
 
+      // If the address is identical except for a difference in addr:city and the
+      // existing object as a ref:vcgi:esiteid, then it is likely that this is
+      // a duplicate address point on the other side of a town boundary.
+      if ($address['addr:housenumber'] == $nearby['housenumber']
+        && $address['addr:street'] == $nearby['street']
+        && $address['addr:state'] == $nearby['state']
+        && !empty($nearby['esiteid'])
+        && $nearby['esiteid'] != $address['ref:vcgi:esiteid']
+      ) {
+        $res->finalize();
+        $message = $this->log('duplicates-in-different-towns', $inputNode, " ignoring town mismatch for duplicate housenumber/street when matching to esiteid " . $nearby['esiteid'] . ": \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
+        $this->append($this->duplicatesInDifferentTownsDoc, $inputNode, $message);
+        return;
+      }
+
       // We didn't get a precise match on all fields previously, so if these
       // are a fuzzy match, we have a conflict.
       // var_dump($this->simplifyHouseNumber($nearby['housenumber']), $this->simplifyStreet($nearby['street']));
@@ -232,6 +250,9 @@ END;
     $result = [];
     foreach ($inputNode->childNodes as $child) {
       if ($child->nodeName == 'tag' && preg_match('/^addr:.+/', $child->getAttribute('k'))) {
+        $result[$child->getAttribute('k')] = $child->getAttribute('v');
+      }
+      if ($child->nodeName == 'tag' && $child->getAttribute('k') == 'ref:vcgi:esiteid') {
         $result[$child->getAttribute('k')] = $child->getAttribute('v');
       }
     }
