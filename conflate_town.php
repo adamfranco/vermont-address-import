@@ -60,33 +60,44 @@ require_once("src/AddressConflator.php");
 $conflator = new AddressConflator($db, $verbose);
 $conflator->conflate($inputDoc);
 
+$outputFile = "data_files_to_import/conflated-changes/".basename($file, '.osm')."-no-match.osm";
 if ($conflator->nonMatchesDoc->documentElement->childElementCount) {
-  $conflator->nonMatchesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-no-match.osm");
-} else {
-  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-no-match.osm");
+  $conflator->nonMatchesDoc->save($outputFile);
+} elseif (file_exists($outputFile)) {
+  unlink($outputFile);
 }
+
+$outputFile = "data_files_to_import/conflated-changes/".basename($file, '.osm')."-tag-conflict.osm";
 if ($conflator->conflictsDoc->documentElement->childElementCount) {
-  $conflator->conflictsDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-tag-conflict.osm");
-} else {
-  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-tag-conflict.osm");
+  $conflator->conflictsDoc->save($outputFile);
+} elseif (file_exists($outputFile)) {
+  unlink($outputFile);
 }
+
+$outputFile = "data_files_to_import/conflated-existing/".basename($file, '.osm')."-review-multiple.osm";
 if ($conflator->reviewMultiplesDoc->documentElement->childElementCount) {
-  $conflator->reviewMultiplesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-review-multiple.osm");
-} else {
-  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-review-multiple.osm");
+  $conflator->reviewMultiplesDoc->save($outputFile);
+} elseif (file_exists($outputFile)) {
+  unlink($outputFile);
 }
+
+$outputFile = "data_files_to_import/conflated-existing/".basename($file, '.osm')."-review-distance.osm";
 if ($conflator->reviewDistancesDoc->documentElement->childElementCount) {
-  $conflator->reviewDistancesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-review-distance.osm");
-} else {
-  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-review-distance.osm");
+  $conflator->reviewDistancesDoc->save($outputFile);
+} elseif (file_exists($outputFile)) {
+  unlink($outputFile);
 }
+
+$outputFile = "data_files_to_import/conflated-existing/".basename($file, '.osm')."-matches.osm";
 if ($conflator->matchesDoc->documentElement->childElementCount) {
-  $conflator->matchesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-matches.osm");
-} else {
-  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-matches.osm");
+  $conflator->matchesDoc->save($outputFile);
+} elseif (file_exists($outputFile)) {
+  unlink($outputFile);
 }
+
+$outputFile = "data_files_to_import/conflated-existing/".basename($file, '.osm')."-duplicates-in-different-towns.osm";
 if ($conflator->duplicatesInDifferentTownsDoc->documentElement->childElementCount) {
-  $conflator->duplicatesInDifferentTownsDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-duplicates-in-different-towns.osm");
-} else {
-  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-duplicates-in-different-towns.osm");
+  $conflator->duplicatesInDifferentTownsDoc->save($outputFile);
+} elseif (file_exists($outputFile)) {
+  unlink($outputFile);
 }

@@ -3,7 +3,7 @@
 
 $help = "
 
-Conflate all town files in data_files_to_import/draft/ and write to data_files_to_import/conflated/
+Conflate all town files in data_files_to_import/all-points/ and write to data_files_to_import/conflated/
 
 ". $argv[0] . " [-hv] [--help] [--verbose]
 
@@ -49,13 +49,13 @@ if (isset($options['name-range'])) {
 
 $skip_existing = isset($options['skip-existing']);
 
-$input_files = scandir(__DIR__ . '/data_files_to_import/draft');
+$input_files = scandir(__DIR__ . '/data_files_to_import/all-points');
 foreach ($input_files as $input_file) {
   if (preg_match('/(.+)_addresses\.osm$/i', $input_file, $file_matches)
     && name_in_range($input_file, $options['name-range'])
     && should_overwrite_output($file_matches[1], $skip_existing)
   ) {
-    $input_path = __DIR__ . '/data_files_to_import/draft/' . $input_file;
+    $input_path = __DIR__ . '/data_files_to_import/all-points/' . $input_file;
     if ($verbose) {
       fwrite(STDERR, "\n---------------------------\nConflating $input_file\n");
     }
@@ -105,17 +105,24 @@ function should_overwrite_output($town, $skip_existing) {
   if (!$skip_existing) {
     return TRUE;
   }
-  $outputBase = __DIR__ . '/data_files_to_import/conflated/' . $town . '_addresses';
-  if (!file_exists($outputBase . '-matches.osm')) {
+  $outputBase = __DIR__ . '/data_files_to_import';
+  $fileBase = $town . '_addresses';
+  if (!file_exists($outputBase . '/conflated-changes/' . $fileBase . '-tag-conflict.osm')) {
     return TRUE;
   }
-  if (!file_exists($outputBase . '-no-match.osm')) {
+  if (!file_exists($outputBase . '/conflated-changes/' . $fileBase . '-no-match.osm')) {
     return TRUE;
   }
-  if (!file_exists($outputBase . '-review-distance.osm')) {
+  if (!file_exists($outputBase . '/conflated-existing/' . $fileBase . '-matches.osm')) {
     return TRUE;
   }
-  if (!file_exists($outputBase . '-tag-conflict.osm')) {
+  if (!file_exists($outputBase . '/conflated-existing/' . $fileBase . '-review-distance.osm')) {
+    return TRUE;
+  }
+  if (!file_exists($outputBase . '/conflated-existing/' . $fileBase . '-review-multiple.osm')) {
+    return TRUE;
+  }
+  if (!file_exists($outputBase . '/conflated-existing/' . $fileBase . '-duplicates-in-different-towns.osm')) {
     return TRUE;
   }
   // If we are skipping existing and all files exist, no need to conflate.
