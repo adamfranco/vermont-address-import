@@ -11,6 +11,13 @@ $stateQuery = <<<END
   nwr["addr:place"](area.state);
   nwr["addr:city"](area.state);
   nwr["ref:vcgi:esiteid"](area.state);
+
+  // Some objects just over the border into NY that have Vermont addresses in Arlington, VT.
+  nwr["addr:housenumber"](43.107886,-73.267879,43.122276,-73.264110);
+  nwr["addr:street"](43.107886,-73.267879,43.122276,-73.264110);
+  nwr["addr:place"](43.107886,-73.267879,43.122276,-73.264110);
+  nwr["addr:city"](43.107886,-73.267879,43.122276,-73.264110);
+  nwr["ref:vcgi:esiteid"](43.107886,-73.267879,43.122276,-73.264110);
 );
 (._;);
 out center;
