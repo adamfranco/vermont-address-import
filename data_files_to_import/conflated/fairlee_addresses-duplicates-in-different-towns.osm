@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-767" visible="true" lat="43.90689057" lon="-72.20981387">
+    <!-- duplicates-in-different-towns: "363 Blood Brook Road, Fairlee, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 279011: "363 Blood Brook Road, , VT" -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="363"/>
+    <tag k="addr:street" v="Blood Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="446370"/>
+  </node>
+</osm>

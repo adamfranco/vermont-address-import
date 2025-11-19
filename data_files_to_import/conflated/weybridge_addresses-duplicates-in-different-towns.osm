@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-528" visible="true" lat="44.01668041" lon="-73.21185227">
+    <!-- duplicates-in-different-towns: "655 James Road, Weybridge, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 285555: "655 James Road, Cornwall, VT" -->
+    <tag k="addr:city" v="Weybridge"/>
+    <tag k="addr:housenumber" v="655"/>
+    <tag k="addr:street" v="James Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="453176"/>
+  </node>
+  <node id="-573" visible="true" lat="44.07636767" lon="-73.23780432">
+    <!-- duplicates-in-different-towns: "3500 Quaker Village Road, Weybridge, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 172890: "3500 Quaker Village Road, New Haven, VT" -->
+    <tag k="addr:city" v="Weybridge"/>
+    <tag k="addr:housenumber" v="3500"/>
+    <tag k="addr:street" v="Quaker Village Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771206"/>
+  </node>
+</osm>

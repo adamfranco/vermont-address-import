@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1527" visible="true" lat="43.70590703" lon="-72.82738938">
+    <!-- duplicates-in-different-towns: "445 Coffeehouse Road, Killington, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 153250: "445 Coffeehouse Road, Mendon, VT" -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="445"/>
+    <tag k="addr:street" v="Coffeehouse Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452870"/>
+  </node>
+  <node id="-1581" visible="true" lat="43.70446101" lon="-72.83377913">
+    <!-- duplicates-in-different-towns: "337 Elbow Road, Killington, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 153794: "337 Elbow Road, Mendon, VT" -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="337"/>
+    <tag k="addr:street" v="Elbow Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759826"/>
+  </node>
+</osm>

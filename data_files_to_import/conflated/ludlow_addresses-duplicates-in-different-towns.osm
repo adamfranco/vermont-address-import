@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-2755" visible="true" lat="43.41661466" lon="-72.74012861">
+    <!-- duplicates-in-different-towns: "1380 Mountain Road, Ludlow, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 752855: "1380 Mountain Road, Mount Holly, VT" -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="1380"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753372"/>
+  </node>
+</osm>

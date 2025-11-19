@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1527" visible="true" lat="43.70590703" lon="-72.82738938">
-    <!-- conflict: "445 Coffeehouse Road, Killington, VT" Fuzzy match to "445 Coffeehouse Road, Mendon, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="445"/>
-    <tag k="addr:street" v="Coffeehouse Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452870"/>
-  </node>
-  <node id="-1581" visible="true" lat="43.70446101" lon="-72.83377913">
-    <!-- conflict: "337 Elbow Road, Killington, VT" Fuzzy match to "337 Elbow Road, Mendon, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="337"/>
-    <tag k="addr:street" v="Elbow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="759826"/>
-  </node>
   <node id="-1597" visible="true" lat="43.66976651" lon="-72.80483587">
     <!-- conflict: "166 Base Camp Road, Killington, VT" No match in OSM, but a different address exists <5m away: "166 U.S. Route 4, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>

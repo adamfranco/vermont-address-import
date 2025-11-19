@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-756" visible="true" lat="43.67308318" lon="-72.84293002">
-    <!-- conflict: "58 Windrift Ridge Road, Mendon, VT" Fuzzy match to "58 Windrift Ridge Road, Killington, VT" -->
-    <tag k="addr:city" v="Mendon"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Windrift Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341012"/>
-  </node>
-  <node id="-760" visible="true" lat="43.67282775" lon="-72.84303805">
-    <!-- conflict: "42 Windrift Ridge Road, Mendon, VT" Fuzzy match to "42 Windrift Ridge Road, Killington, VT" -->
-    <tag k="addr:city" v="Mendon"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Windrift Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="342535"/>
-  </node>
-  <node id="-761" visible="true" lat="43.67283431" lon="-72.84301353">
-    <!-- conflict: "44 Windrift Ridge Road, Mendon, VT" Fuzzy match to "44 Windrift Ridge Road, Killington, VT" -->
-    <tag k="addr:city" v="Mendon"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Windrift Ridge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="342536"/>
-  </node>
   <node id="-767" visible="true" lat="43.67114557" lon="-72.87180037">
     <!-- conflict: "18 Cascade Lane, Mendon, VT" No match in OSM, but a different address exists <5m away: "230 Heather Lane, Mendon, VT" -->
     <tag k="addr:city" v="Mendon"/>

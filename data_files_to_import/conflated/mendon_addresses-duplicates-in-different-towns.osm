@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-756" visible="true" lat="43.67308318" lon="-72.84293002">
+    <!-- duplicates-in-different-towns: "58 Windrift Ridge Road, Mendon, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 306824: "58 Windrift Ridge Road, Killington, VT" -->
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Windrift Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341012"/>
+  </node>
+  <node id="-760" visible="true" lat="43.67282775" lon="-72.84303805">
+    <!-- duplicates-in-different-towns: "42 Windrift Ridge Road, Mendon, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 342537: "42 Windrift Ridge Road, Killington, VT" -->
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Windrift Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342535"/>
+  </node>
+  <node id="-761" visible="true" lat="43.67283431" lon="-72.84301353">
+    <!-- duplicates-in-different-towns: "44 Windrift Ridge Road, Mendon, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 342538: "44 Windrift Ridge Road, Killington, VT" -->
+    <tag k="addr:city" v="Mendon"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Windrift Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342536"/>
+  </node>
+</osm>

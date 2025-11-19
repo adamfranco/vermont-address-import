@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1452" visible="true" lat="43.12114882" lon="-73.21005514">
+    <!-- duplicates-in-different-towns: "219 Shamrock Hill, Arlington, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 217225: "219 Shamrock Hill, Sandgate, VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="219"/>
+    <tag k="addr:street" v="Shamrock Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613099"/>
+  </node>
+</osm>

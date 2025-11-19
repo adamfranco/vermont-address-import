@@ -17,20 +17,4 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223143"/>
   </node>
-  <node id="-3404" visible="true" lat="44.38118322" lon="-73.13779283">
-    <!-- conflict: "6707 Vermont Route 116, Shelburne, VT" Fuzzy match to "6707 Vermont Route 116, Saint George, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="6707"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="754206"/>
-  </node>
-  <node id="-3405" visible="true" lat="44.38303412" lon="-73.13893852">
-    <!-- conflict: "6583 Vermont Route 116, Shelburne, VT" Fuzzy match to "6583 Vermont Route 116, Saint George, VT" -->
-    <tag k="addr:city" v="Shelburne"/>
-    <tag k="addr:housenumber" v="6583"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="754207"/>
-  </node>
 </osm>
