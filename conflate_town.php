@@ -60,9 +60,33 @@ require_once("src/AddressConflator.php");
 $conflator = new AddressConflator($db, $verbose);
 $conflator->conflate($inputDoc);
 
-$conflator->nonMatchesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-no-match.osm");
-$conflator->conflictsDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-tag-conflict.osm");
-$conflator->reviewMultiplesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-review-multiple.osm");
-$conflator->reviewDistancesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-review-distance.osm");
-$conflator->matchesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-matches.osm");
+if ($conflator->nonMatchesDoc->documentElement->childElementCount) {
+  $conflator->nonMatchesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-no-match.osm");
+} else {
+  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-no-match.osm");
+}
+if ($conflator->conflictsDoc->documentElement->childElementCount) {
+  $conflator->conflictsDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-tag-conflict.osm");
+} else {
+  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-tag-conflict.osm");
+}
+if ($conflator->reviewMultiplesDoc->documentElement->childElementCount) {
+  $conflator->reviewMultiplesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-review-multiple.osm");
+} else {
+  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-review-multiple.osm");
+}
+if ($conflator->reviewDistancesDoc->documentElement->childElementCount) {
+  $conflator->reviewDistancesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-review-distance.osm");
+} else {
+  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-review-distance.osm");
+}
+if ($conflator->matchesDoc->documentElement->childElementCount) {
+  $conflator->matchesDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-matches.osm");
+} else {
+  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-matches.osm");
+}
+if ($conflator->duplicatesInDifferentTownsDoc->documentElement->childElementCount) {
   $conflator->duplicatesInDifferentTownsDoc->save("data_files_to_import/conflated/".basename($file, '.osm')."-duplicates-in-different-towns.osm");
+} else {
+  unlink("data_files_to_import/conflated/".basename($file, '.osm')."-duplicates-in-different-towns.osm");
+}
