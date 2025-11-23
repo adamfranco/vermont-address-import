@@ -200,6 +200,14 @@ foreach($data['features'] as $feature) {
 
     $all_errors[] = $feature_errors;
 
+    // Exceptions for Post Offices that have different postal communities than
+    // the rest of their Town.
+    //
+    // Beecher Falls Post Office in Canaan
+    if ($esiteid == 764537 && $postal_community == 'Canaan') {
+      $postal_community = 'Beecher Falls';
+    }
+
     // search the esiteid in the exclude list.
     // if it is found in the exclude list, don't output it
     $key = array_search($esiteid, array_column($exclude_addresses, 'esiteid'));
