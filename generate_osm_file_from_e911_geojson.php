@@ -57,17 +57,6 @@ if (!is_readable($file)) {
   exit(3);
 }
 
-// Post processing steps
-// 1. search the output for the string "error" to deal with any issues
-// 2. look for streets that have non-trivial capitalization or punctuation
-//  a. streets that start with Mc
-//  b. streets that have apostrophes (eg. O'Niel)
-
-// keep track of the exclude list in a Google sheet and expose it as a JSON feed
-$exclude_addresses_url = 'https://opensheet.elk.sh/1KBFFDpwLjOhRtCZCuxOd4D4ozBBaxOWhnw0Koe_25Tc/e911+Address+Point+do+not+import+list';
-$exclude_addresses = json_decode(file_get_contents($exclude_addresses_url), true);
-$excluded_output = array(); // store the records we skipped for logging at the end
-
 ///////////////////////////////////////////////////////
 
 $data = json_decode(file_get_contents($file), true);
@@ -212,75 +201,66 @@ foreach($data['features'] as $feature) {
       $postal_community = 'East Middlebury';
     }
 
-    // search the esiteid in the exclude list.
-    // if it is found in the exclude list, don't output it
-    $key = array_search($esiteid, array_column($exclude_addresses, 'esiteid'));
-    if($key === false) {    // the esiteid was NOT found in the exclude list
+    // if we don't have any errors in our data
+    if(count($feature_errors) == 0 && $output_type == "osm") {
 
-        // if we don't have any errors in our data
-        if(count($feature_errors) == 0 && $output_type == "osm") {
-
-            // leaving out timestamp from node: timestamp='2022-09-12T01:50:00Z'
-            $output .= "  <node id=\"" . $node_id . "\" visible=\"true\" lat=\"" . $lat . "\" lon=\"" . $long . "\">\n";
-            if (!empty($postal_community)) {
-              $output .= "    <tag k=\"addr:city\" v=\"" . $postal_community . "\" />\n";
-            }
-            $output .= "    <tag k=\"addr:housenumber\" v=\"" . $house_number . "\" />\n";
-            if (!empty($unit)) {
-                $output .= "    <tag k=\"addr:unit\" v=\"" . $unit . "\" />\n";
-            }
-            $output .= "    <tag k=\"addr:street\" v=\"" . $street . "\" />\n";
-            // Addresses on small islands often don't have any streets and are
-            // only accessed by boat. Use an empty street and fill in place.
-            if (!empty($place)) {
-                $output .= "    <tag k=\"addr:place\" v=\"" . $place . "\" />\n";
-            }
-            // ZIP codes in E911 may not be correct.
-            // $output .= "    <tag k=\"addr:postcode\" v=\"" . $zip_code . "\" />\n";
-            $output .= "    <tag k=\"addr:state\" v=\"VT\" />\n";
-            $output .= "    <tag k=\"ref:vcgi:esiteid\" v=\"" . $esiteid . "\" />\n";
-            // use this tag in the changeset tags instead of node tag
-            // $output .= "    <tag k=\"source\" v=\"VCGI/E911_address_points\" />\n";
-            $output .= "  </node>\n";
-
-
-        } elseif($output_type == "tab") {
-            $output .= $node_id . "\t" . $lat . "\t" . $long . "\t";
-            if (!empty($postal_community)) {
-              $output .= $postal_community . "\t";
-            }
-            $output .= $house_number . "\t";
-            $output .= $unit . "\t";
-            $output .= $street . "\t";
-            // $output .= $zip_code . "\t";
-            $output .= $esiteid . "\n";
-
-        } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
-
-            $coordinates = array($long, $lat);
-            $properties = [
-              "house_number" => strval($house_number),
-              "unit" => strval($unit),
-              "street" => $street,
-            ];
-            if (!empty($postal_community)) {
-              $properties["city"] = $postal_community;
-            }
-            $properties["state"] = "VT";
-            $properties["esiteid"] = strval($esiteid);
-            $geometry = array("type" => "Point", "coordinates" => $coordinates);
-            $feature = array("type" => "Feature", "properties" => $properties, "geometry" => $geometry);
-
-
-            // todo: geojson output is a hack
-            // this adds an extraneous comma to the last feature that needs to be removed
-            // but not sure it is worth reworking
-            $output .= json_encode($feature) . ",\n";
-
+        // leaving out timestamp from node: timestamp='2022-09-12T01:50:00Z'
+        $output .= "  <node id=\"" . $node_id . "\" visible=\"true\" lat=\"" . $lat . "\" lon=\"" . $long . "\">\n";
+        if (!empty($postal_community)) {
+          $output .= "    <tag k=\"addr:city\" v=\"" . $postal_community . "\" />\n";
         }
-    } else {
-        // print "address on exclude list.  esiteid: " . $esiteid . "\n";
-        $excluded_output[] = $esiteid;
+        $output .= "    <tag k=\"addr:housenumber\" v=\"" . $house_number . "\" />\n";
+        if (!empty($unit)) {
+            $output .= "    <tag k=\"addr:unit\" v=\"" . $unit . "\" />\n";
+        }
+        $output .= "    <tag k=\"addr:street\" v=\"" . $street . "\" />\n";
+        // Addresses on small islands often don't have any streets and are
+        // only accessed by boat. Use an empty street and fill in place.
+        if (!empty($place)) {
+            $output .= "    <tag k=\"addr:place\" v=\"" . $place . "\" />\n";
+        }
+        // ZIP codes in E911 may not be correct.
+        // $output .= "    <tag k=\"addr:postcode\" v=\"" . $zip_code . "\" />\n";
+        $output .= "    <tag k=\"addr:state\" v=\"VT\" />\n";
+        $output .= "    <tag k=\"ref:vcgi:esiteid\" v=\"" . $esiteid . "\" />\n";
+        // use this tag in the changeset tags instead of node tag
+        // $output .= "    <tag k=\"source\" v=\"VCGI/E911_address_points\" />\n";
+        $output .= "  </node>\n";
+
+
+    } elseif($output_type == "tab") {
+        $output .= $node_id . "\t" . $lat . "\t" . $long . "\t";
+        if (!empty($postal_community)) {
+          $output .= $postal_community . "\t";
+        }
+        $output .= $house_number . "\t";
+        $output .= $unit . "\t";
+        $output .= $street . "\t";
+        // $output .= $zip_code . "\t";
+        $output .= $esiteid . "\n";
+
+    } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
+
+        $coordinates = array($long, $lat);
+        $properties = [
+          "house_number" => strval($house_number),
+          "unit" => strval($unit),
+          "street" => $street,
+        ];
+        if (!empty($postal_community)) {
+          $properties["city"] = $postal_community;
+        }
+        $properties["state"] = "VT";
+        $properties["esiteid"] = strval($esiteid);
+        $geometry = array("type" => "Point", "coordinates" => $coordinates);
+        $feature = array("type" => "Feature", "properties" => $properties, "geometry" => $geometry);
+
+
+        // todo: geojson output is a hack
+        // this adds an extraneous comma to the last feature that needs to be removed
+        // but not sure it is worth reworking
+        $output .= json_encode($feature) . ",\n";
+
     }
     $node_id--;
     unset($feature_errors);
