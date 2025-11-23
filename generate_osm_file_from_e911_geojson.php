@@ -202,10 +202,14 @@ foreach($data['features'] as $feature) {
 
     // Exceptions for Post Offices that have different postal communities than
     // the rest of their Town.
-    //
+
     // Beecher Falls Post Office in Canaan
     if ($esiteid == 764537 && $postal_community == 'Canaan') {
       $postal_community = 'Beecher Falls';
+    }
+    // East Middlebury Post office
+    if ($esiteid == 156175 && $postal_community == 'Middlebury') {
+      $postal_community = 'East Middlebury';
     }
 
     // search the esiteid in the exclude list.
