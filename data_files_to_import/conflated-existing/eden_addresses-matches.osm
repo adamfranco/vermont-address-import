@@ -2514,12 +2514,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="92302"/>
   </node>
-  <node id="-522" visible="true" lat="44.70297623" lon="-72.52257546">
-    <tag k="addr:housenumber" v="444"/>
-    <tag k="addr:street" v="South Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="92303"/>
-  </node>
   <node id="-523" visible="true" lat="44.70296074" lon="-72.58379378">
     <tag k="addr:housenumber" v="632"/>
     <tag k="addr:street" v="White Road"/>
@@ -2663,12 +2657,6 @@
     <tag k="addr:street" v="White Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="92329"/>
-  </node>
-  <node id="-547" visible="true" lat="44.70078816" lon="-72.51977249">
-    <tag k="addr:housenumber" v="606"/>
-    <tag k="addr:street" v="South Pond Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="92330"/>
   </node>
   <node id="-548" visible="true" lat="44.70451263" lon="-72.49108865">
     <tag k="addr:housenumber" v="1629"/>
@@ -4992,6 +4980,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="621016"/>
   </node>
+  <node id="-941" visible="true" lat="44.68531613" lon="-72.61307826">
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Tree Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646538"/>
+  </node>
   <node id="-950" visible="true" lat="44.69066059" lon="-72.47589668">
     <tag k="addr:housenumber" v="359"/>
     <tag k="addr:street" v="Square Road"/>
@@ -5490,10 +5484,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770073"/>
   </node>
-  <node id="-1043" visible="true" lat="44.71427703" lon="-72.57499486">
-    <tag k="addr:housenumber" v="971"/>
-    <tag k="addr:street" v="Knowles Flat Road"/>
+  <node id="-1040" visible="true" lat="44.69685878" lon="-72.54733749">
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Bournes Hollow Drive"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="772633"/>
+    <tag k="ref:vcgi:esiteid" v="772068"/>
+  </node>
+  <node id="-1041" visible="true" lat="44.69639625" lon="-72.54874903">
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:street" v="Bournes Hollow Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772069"/>
+  </node>
+  <node id="-1042" visible="true" lat="44.73891833" lon="-72.56054484">
+    <tag k="addr:housenumber" v="2065"/>
+    <tag k="addr:street" v="Warren Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772604"/>
   </node>
 </osm>

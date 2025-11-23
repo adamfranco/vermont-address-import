@@ -4764,11 +4764,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="81120"/>
   </node>
+  <node id="-899" visible="true" lat="44.40882211" lon="-72.17280691">
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Kingdom Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="81121"/>
+  </node>
   <node id="-900" visible="true" lat="44.40891547" lon="-72.2133175">
     <tag k="addr:housenumber" v="253"/>
     <tag k="addr:street" v="Old Homestead Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="81122"/>
+  </node>
+  <node id="-901" visible="true" lat="44.40891731" lon="-72.17251797">
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Kingdom Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="81123"/>
   </node>
   <node id="-902" visible="true" lat="44.40888672" lon="-72.19451718">
     <tag k="addr:housenumber" v="2748"/>
@@ -8976,6 +8988,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365547"/>
   </node>
+  <node id="-1629" visible="true" lat="44.41884554" lon="-72.07757067">
+    <tag k="addr:housenumber" v="1015"/>
+    <tag k="addr:street" v="Trestle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365563"/>
+  </node>
   <node id="-1630" visible="true" lat="44.41435415" lon="-72.14980937">
     <tag k="addr:housenumber" v="403"/>
     <tag k="addr:street" v="Walden Hill Road"/>
@@ -9047,6 +9065,54 @@
     <tag k="addr:street" v="Bruce Badger Memorial Highway"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365657"/>
+  </node>
+  <node id="-1643" visible="true" lat="44.41198786" lon="-72.14706538">
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Windswept Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365659"/>
+  </node>
+  <node id="-1644" visible="true" lat="44.42274638" lon="-72.1637299">
+    <tag k="addr:housenumber" v="1277"/>
+    <tag k="addr:street" v="Walden Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365660"/>
+  </node>
+  <node id="-1645" visible="true" lat="44.46364553" lon="-72.08278417">
+    <tag k="addr:housenumber" v="883"/>
+    <tag k="addr:street" v="Stanton Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365664"/>
+  </node>
+  <node id="-1646" visible="true" lat="44.40917313" lon="-72.17343235">
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Kingdom Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365665"/>
+  </node>
+  <node id="-1647" visible="true" lat="44.41182564" lon="-72.20268108">
+    <tag k="addr:housenumber" v="420"/>
+    <tag k="addr:street" v="Vermont Route 15"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365675"/>
+  </node>
+  <node id="-1648" visible="true" lat="44.39474818" lon="-72.15339336">
+    <tag k="addr:housenumber" v="742"/>
+    <tag k="addr:street" v="Oneida Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365676"/>
+  </node>
+  <node id="-1649" visible="true" lat="44.40542584" lon="-72.13935635">
+    <tag k="addr:housenumber" v="453"/>
+    <tag k="addr:street" v="Peacham Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365678"/>
+  </node>
+  <node id="-1650" visible="true" lat="44.41242181" lon="-72.11763418">
+    <tag k="addr:housenumber" v="604"/>
+    <tag k="addr:street" v="Penny Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365691"/>
   </node>
   <node id="-1651" visible="true" lat="44.39450499" lon="-72.17715031">
     <tag k="addr:housenumber" v="2170"/>
@@ -9720,6 +9786,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="700112"/>
   </node>
+  <node id="-1771" visible="true" lat="44.41334369" lon="-72.14897684">
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Upper Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="700113"/>
+  </node>
   <node id="-1772" visible="true" lat="44.41274735" lon="-72.14885585">
     <tag k="addr:housenumber" v="129"/>
     <tag k="addr:street" v="Upper Drive"/>
@@ -9785,6 +9857,12 @@
     <tag k="addr:street" v="Morses Mill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769687"/>
+  </node>
+  <node id="-1783" visible="true" lat="44.43302794" lon="-72.10028825">
+    <tag k="addr:housenumber" v="2319"/>
+    <tag k="addr:street" v="U.S. Route 2 East"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="800181"/>
   </node>
   <node id="-1784" visible="true" lat="44.42821684" lon="-72.11016732">
     <tag k="addr:housenumber" v="125"/>

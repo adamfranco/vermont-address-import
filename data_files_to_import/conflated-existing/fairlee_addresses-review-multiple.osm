@@ -16,14 +16,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105367"/>
   </node>
-  <node id="-217" visible="true" lat="43.90845108" lon="-72.14166268">
-    <!-- multiple: "491 U.S. Route 5 North, Fairlee, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Fairlee"/>
-    <tag k="addr:housenumber" v="491"/>
-    <tag k="addr:street" v="U.S. Route 5 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="105381"/>
-  </node>
   <node id="-232" visible="true" lat="43.90798993" lon="-72.14602287">
     <!-- multiple: "214 School Street, Fairlee, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Fairlee"/>
@@ -87,5 +79,13 @@
     <tag k="addr:street" v="U.S. Route 5 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306066"/>
+  </node>
+  <node id="-887" visible="true" lat="43.91983122" lon="-72.12089554">
+    <!-- multiple: "1854 U.S. Route 5 North, Fairlee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="1854"/>
+    <tag k="addr:street" v="U.S. Route 5 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771922"/>
   </node>
 </osm>
