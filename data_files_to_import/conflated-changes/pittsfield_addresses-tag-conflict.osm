@@ -8,4 +8,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="187124"/>
   </node>
+  <node id="-233" visible="true" lat="43.7329724" lon="-72.81833348">
+    <!-- conflict: "145 Johnson Brook Road, Pittsfield, VT" No match in OSM, but a different address exists <5m away: "130 Johnson Brook Road, Pittsfield, VT" -->
+    <tag k="addr:city" v="Pittsfield"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Johnson Brook Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="187162"/>
+  </node>
 </osm>

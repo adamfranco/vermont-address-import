@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1312" visible="true" lat="43.04057325" lon="-73.18133572">
+    <!-- conflict: "73 Lois Lane, Arlington, VT" No match in OSM, but a different address exists <5m away: "49 Lois Lane, Arlington, VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Lois Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4941"/>
+  </node>
+  <node id="-1313" visible="true" lat="43.04056212" lon="-73.1804037">
+    <!-- conflict: "119 Lois Lane, Arlington, VT" No match in OSM, but a different address exists <5m away: "103 Lois Lane, Arlington, VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:street" v="Lois Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4942"/>
+  </node>
+</osm>

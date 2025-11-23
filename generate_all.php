@@ -30,7 +30,7 @@ $input_files = scandir(__DIR__ . '/town_e911_address_points');
 foreach ($input_files as $input_file) {
   if (preg_match('/(.*\/)?e911_address_points_(.+)\.geojson$/i', $input_file, $file_matches)) {
     $input_path = __DIR__ . '/town_e911_address_points/' . $input_file;
-    $output_path = __DIR__ . '/data_files_to_import/draft/'.$file_matches[2].'_addresses.osm';
+    $output_path = __DIR__ . '/data_files_to_import/all-points/'.$file_matches[2].'_addresses.osm';
     if ($verbose) {
       fwrite(STDERR, "Processing $input_file\n");
     }
