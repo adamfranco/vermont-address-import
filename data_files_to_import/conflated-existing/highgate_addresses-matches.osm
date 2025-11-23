@@ -1260,6 +1260,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126700"/>
   </node>
+  <node id="-311" visible="true" lat="44.97885133" lon="-73.10764044">
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Woodduck Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126701"/>
+  </node>
   <node id="-312" visible="true" lat="44.9788649" lon="-73.10927921">
     <tag k="addr:housenumber" v="590"/>
     <tag k="addr:street" v="Shipyard Road"/>
@@ -3654,6 +3660,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="127109"/>
   </node>
+  <node id="-711" visible="true" lat="44.94764327" lon="-73.03810119">
+    <tag k="addr:housenumber" v="679"/>
+    <tag k="addr:street" v="Gore Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="127110"/>
+  </node>
   <node id="-712" visible="true" lat="44.94770049" lon="-73.01389312">
     <tag k="addr:housenumber" v="107"/>
     <tag k="addr:street" v="Franklin Road"/>
@@ -4776,6 +4788,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="127301"/>
   </node>
+  <node id="-899" visible="true" lat="44.94025802" lon="-73.03739929">
+    <tag k="addr:housenumber" v="3478"/>
+    <tag k="addr:street" v="Vermont Route 78"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="127302"/>
+  </node>
   <node id="-900" visible="true" lat="44.9402275" lon="-73.04274749">
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:street" v="Gore Road"/>
@@ -5687,6 +5705,12 @@
     <tag k="addr:street" v="Hilltop Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="127466"/>
+  </node>
+  <node id="-1056" visible="true" lat="44.93747711" lon="-73.0446701">
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Lamkin Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="127467"/>
   </node>
   <node id="-1057" visible="true" lat="44.93738036" lon="-73.04160835">
     <tag k="addr:housenumber" v="222"/>
@@ -10980,6 +11004,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620651"/>
   </node>
+  <node id="-1962" visible="true" lat="44.98092609" lon="-73.05826469">
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Rollo Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646699"/>
+  </node>
   <node id="-1963" visible="true" lat="44.93218632" lon="-72.98775468">
     <tag k="addr:housenumber" v="97"/>
     <tag k="addr:street" v="Fox Den Road"/>
@@ -11316,6 +11346,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760427"/>
   </node>
+  <node id="-2026" visible="true" lat="44.94022595" lon="-73.02925089">
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Woods Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760429"/>
+  </node>
+  <node id="-2027" visible="true" lat="44.94016752" lon="-73.02852536">
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Woods Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760430"/>
+  </node>
   <node id="-2028" visible="true" lat="44.93442715" lon="-73.01839205">
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="Palmer Avenue"/>
@@ -11538,11 +11580,65 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770145"/>
   </node>
+  <node id="-2070" visible="true" lat="44.94669312" lon="-73.0494661">
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:street" v="Saint Armand Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771266"/>
+  </node>
   <node id="-2095" visible="true" lat="44.94048854" lon="-73.05105771">
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Dufresne Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771487"/>
+  </node>
+  <node id="-2096" visible="true" lat="44.97848848" lon="-73.02366106">
+    <tag k="addr:housenumber" v="1634"/>
+    <tag k="addr:street" v="Tarte Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771843"/>
+  </node>
+  <node id="-2097" visible="true" lat="44.93974701" lon="-73.03203025">
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Easy Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771864"/>
+  </node>
+  <node id="-2098" visible="true" lat="44.98088512" lon="-73.10346922">
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Tyler Place"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771973"/>
+  </node>
+  <node id="-2099" visible="true" lat="45.00839775" lon="-73.04591375">
+    <tag k="addr:housenumber" v="4217"/>
+    <tag k="addr:street" v="Rollo Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772053"/>
+  </node>
+  <node id="-2100" visible="true" lat="44.93109841" lon="-73.00203464">
+    <tag k="addr:housenumber" v="2557"/>
+    <tag k="addr:street" v="Machia Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772110"/>
+  </node>
+  <node id="-2101" visible="true" lat="44.93166531" lon="-73.07243206">
+    <tag k="addr:housenumber" v="1326"/>
+    <tag k="addr:street" v="Vermont Route 78"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772136"/>
+  </node>
+  <node id="-2102" visible="true" lat="44.95056668" lon="-73.0747605">
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:street" v="Campagna Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772279"/>
+  </node>
+  <node id="-2103" visible="true" lat="44.96887251" lon="-73.08705333">
+    <tag k="addr:housenumber" v="640"/>
+    <tag k="addr:street" v="Fortin Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772493"/>
   </node>
   <node id="-2104" visible="true" lat="45.00241994" lon="-73.08244515">
     <tag k="addr:housenumber" v="106"/>
@@ -11561,5 +11657,11 @@
     <tag k="addr:street" v="U.S. Route 7"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="900478"/>
+  </node>
+  <node id="-2107" visible="true" lat="45.00678314" lon="-73.08604331">
+    <tag k="addr:housenumber" v="5710"/>
+    <tag k="addr:street" v="Interstate 89 North"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050466"/>
   </node>
 </osm>
