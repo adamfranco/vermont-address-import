@@ -24,4 +24,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365357"/>
   </node>
+  <node id="-761" visible="true" lat="44.38516677" lon="-71.95850839">
+    <!-- conflict: "160 Blodgett Farm Road, Waterford, VT" No match in OSM, but a different address exists <5m away: "17 Green Mountain Drive, Jay, VT" -->
+    <tag k="addr:city" v="Waterford"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Blodgett Farm Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="446831"/>
+  </node>
 </osm>

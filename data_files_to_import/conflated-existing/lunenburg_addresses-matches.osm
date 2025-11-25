@@ -210,6 +210,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="145146"/>
   </node>
+  <node id="-146" visible="true" lat="44.50726679" lon="-71.73159421">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="2214"/>
+    <tag k="addr:street" v="Pond Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="145147"/>
+  </node>
   <node id="-147" visible="true" lat="44.50384066" lon="-71.73584772">
     <tag k="addr:city" v="Lunenburg"/>
     <tag k="addr:housenumber" v="2362"/>
@@ -993,6 +1000,20 @@
     <tag k="addr:street" v="Pond Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="145302"/>
+  </node>
+  <node id="-301" visible="true" lat="44.48381159" lon="-71.76027236">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:street" v="Horn of the Moon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="145304"/>
+  </node>
+  <node id="-302" visible="true" lat="44.4833858" lon="-71.75982274">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:street" v="Horn of the Moon Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="145305"/>
   </node>
   <node id="-303" visible="true" lat="44.48506107" lon="-71.70060184">
     <tag k="addr:city" v="Lunenburg"/>
@@ -4522,6 +4543,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="146127"/>
   </node>
+  <node id="-1101" visible="true" lat="44.41247719" lon="-71.72433505">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Riverside Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="146128"/>
+  </node>
   <node id="-1102" visible="true" lat="44.41243621" lon="-71.72377084">
     <tag k="addr:city" v="Lunenburg"/>
     <tag k="addr:housenumber" v="108"/>
@@ -5523,6 +5551,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="445916"/>
   </node>
+  <node id="-1355" visible="true" lat="44.45941102" lon="-71.66000765">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:street" v="Sunrise Acres"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="445917"/>
+  </node>
   <node id="-1356" visible="true" lat="44.45510216" lon="-71.72141581">
     <tag k="addr:city" v="Lunenburg"/>
     <tag k="addr:housenumber" v="397"/>
@@ -5957,6 +5992,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455271"/>
   </node>
+  <node id="-1421" visible="true" lat="44.47369938" lon="-71.68476248">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Pond Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455375"/>
+  </node>
   <node id="-1422" visible="true" lat="44.43729989" lon="-71.72360664">
     <tag k="addr:city" v="Lunenburg"/>
     <tag k="addr:housenumber" v="1167"/>
@@ -6055,6 +6097,48 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620924"/>
   </node>
+  <node id="-1442" visible="true" lat="44.47277501" lon="-71.70112467">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="434"/>
+    <tag k="addr:street" v="Kimball Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646496"/>
+  </node>
+  <node id="-1443" visible="true" lat="44.4700118" lon="-71.7257409">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="Fournier Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646499"/>
+  </node>
+  <node id="-1444" visible="true" lat="44.50672295" lon="-71.73349547">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="2260"/>
+    <tag k="addr:street" v="Pond Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646527"/>
+  </node>
+  <node id="-1445" visible="true" lat="44.41741091" lon="-71.71535541">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="1955"/>
+    <tag k="addr:street" v="Baptist Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646554"/>
+  </node>
+  <node id="-1446" visible="true" lat="44.47585283" lon="-71.70406206">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="570"/>
+    <tag k="addr:street" v="Kimball Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646599"/>
+  </node>
+  <node id="-1447" visible="true" lat="44.47100556" lon="-71.76193194">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Wilderness Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646676"/>
+  </node>
   <node id="-1451" visible="true" lat="44.45058218" lon="-71.67671727">
     <tag k="addr:city" v="Lunenburg"/>
     <tag k="addr:housenumber" v="485"/>
@@ -6124,6 +6208,13 @@
     <tag k="addr:street" v="Pond Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656222"/>
+  </node>
+  <node id="-1463" visible="true" lat="44.42198876" lon="-71.7248652">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:street" v="Dodge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656450"/>
   </node>
   <node id="-1464" visible="true" lat="44.49204749" lon="-71.65638346">
     <tag k="addr:city" v="Lunenburg"/>
@@ -6384,6 +6475,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767679"/>
   </node>
+  <node id="-1506" visible="true" lat="44.41241487" lon="-71.72813666">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:street" v="Riverside Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767760"/>
+  </node>
   <node id="-1507" visible="true" lat="44.44235834" lon="-71.70675731">
     <tag k="addr:city" v="Lunenburg"/>
     <tag k="addr:housenumber" v="223"/>
@@ -6425,6 +6523,13 @@
     <tag k="addr:street" v="Baptist Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769564"/>
+  </node>
+  <node id="-1514" visible="true" lat="44.48650826" lon="-71.70049847">
+    <tag k="addr:city" v="Lunenburg"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="West Side Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772534"/>
   </node>
   <node id="-1515" visible="true" lat="44.48535623" lon="-71.62969641">
     <tag k="addr:city" v="Lunenburg"/>

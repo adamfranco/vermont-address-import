@@ -8490,11 +8490,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="613619"/>
   </node>
+  <node id="-1531" visible="true" lat="43.23005746" lon="-72.791369">
+    <tag k="addr:housenumber" v="455"/>
+    <tag k="addr:street" v="Wolf Pack Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620289"/>
+  </node>
   <node id="-1532" visible="true" lat="43.21610965" lon="-72.75021281">
     <tag k="addr:housenumber" v="6063"/>
     <tag k="addr:street" v="Vermont Route 11"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620561"/>
+  </node>
+  <node id="-1534" visible="true" lat="43.14818586" lon="-72.7832397">
+    <tag k="addr:housenumber" v="3932"/>
+    <tag k="addr:street" v="Under The Mountain Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655708"/>
   </node>
   <node id="-1535" visible="true" lat="43.25368798" lon="-72.83627944">
     <tag k="addr:housenumber" v="1878"/>
@@ -8579,6 +8591,12 @@
     <tag k="addr:street" v="Flying Squirrel Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756068"/>
+  </node>
+  <node id="-1549" visible="true" lat="43.2254678" lon="-72.79005149">
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Wolf Pack Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756183"/>
   </node>
   <node id="-1550" visible="true" lat="43.19995987" lon="-72.82635143">
     <tag k="addr:housenumber" v="2792"/>
@@ -9096,6 +9114,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769739"/>
   </node>
+  <node id="-1647" visible="true" lat="43.22928617" lon="-72.79166325">
+    <tag k="addr:housenumber" v="454"/>
+    <tag k="addr:street" v="Wolf Pack Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769822"/>
+  </node>
   <node id="-1649" visible="true" lat="43.21245378" lon="-72.7599219">
     <tag k="addr:housenumber" v="349"/>
     <tag k="addr:street" v="Old Sawmill Road"/>
@@ -9107,6 +9131,12 @@
     <tag k="addr:street" v="Roberts Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769924"/>
+  </node>
+  <node id="-1651" visible="true" lat="43.24131641" lon="-72.81329909">
+    <tag k="addr:housenumber" v="626"/>
+    <tag k="addr:street" v="Barker Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771298"/>
   </node>
   <node id="-1652" visible="true" lat="43.22714156" lon="-72.80789834">
     <!-- match: "2309 North Main Street, , VT"  ignoring missing state when matching to "2309 North Main Street, , " -->

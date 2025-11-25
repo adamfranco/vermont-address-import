@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-2532" visible="true" lat="42.88012445" lon="-72.80495625">
+    <!-- duplicates-in-different-towns: "27 Old Stage Road Extension, Wilmington, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 610990: "27 Old Stage Road Extension, , VT" -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Old Stage Road Extension"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656439"/>
+  </node>
+</osm>
