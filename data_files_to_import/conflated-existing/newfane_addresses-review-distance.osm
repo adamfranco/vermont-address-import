@@ -1,27 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-102" visible="true" lat="42.93477832" lon="-72.76969237">
+    <!-- offset: "29 Carroll Trail, , VT" Significant offset - 123.2m -->
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Carroll Trail"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="88884"/>
+  </node>
+  <node id="-262" visible="true" lat="42.99497977" lon="-72.6481287">
+    <!-- offset: "734 Vermont Route 30, , VT" Significant offset - 3957.4m -->
+    <tag k="addr:housenumber" v="734"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="174952"/>
+  </node>
+  <node id="-270" visible="true" lat="42.99369826" lon="-72.64925996">
+    <!-- offset: "712 Vermont Route 30, , VT" Significant offset - 4029m -->
+    <tag k="addr:housenumber" v="712"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="174960"/>
+  </node>
   <node id="-395" visible="true" lat="42.9841768" lon="-72.63719426">
-    <!-- offset: "20 Kenolie Campground, Newfane, VT" Significant offset - 229.4m -->
-    <tag k="addr:city" v="Newfane"/>
+    <!-- offset: "20 Kenolie Campground, , VT" Significant offset - 229.4m -->
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Kenolie Campground"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175088"/>
   </node>
   <node id="-397" visible="true" lat="42.9840664" lon="-72.63750304">
-    <!-- offset: "18 Kenolie Campground, Newfane, VT" Significant offset - 226.1m -->
-    <tag k="addr:city" v="Newfane"/>
+    <!-- offset: "18 Kenolie Campground, , VT" Significant offset - 226.1m -->
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Kenolie Campground"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175090"/>
   </node>
   <node id="-398" visible="true" lat="42.98398574" lon="-72.6375331">
-    <!-- offset: "16 Kenolie Campground, Newfane, VT" Significant offset - 218.4m -->
-    <tag k="addr:city" v="Newfane"/>
+    <!-- offset: "16 Kenolie Campground, , VT" Significant offset - 218.4m -->
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Kenolie Campground"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="175091"/>
+  </node>
+  <node id="-923" visible="true" lat="42.93935079" lon="-72.7245118">
+    <!-- offset: "12 Beech Tree Lane, , VT" Significant offset - 5721.5m -->
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Beech Tree Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="175628"/>
   </node>
 </osm>
