@@ -1,35 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-527" visible="true" lat="43.94166564" lon="-72.60684204">
-    <!-- conflict: "2964 Vermont Route 66, Randolph, VT" Fuzzy match to "2964 Vermont Route 66, Randolph Center, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="2964"/>
-    <tag k="addr:street" v="Vermont Route 66"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="196455"/>
-  </node>
-  <node id="-529" visible="true" lat="43.94154183" lon="-72.60684291">
-    <!-- conflict: "2952 Vermont Route 66, Randolph, VT" Fuzzy match to "2952 Vermont Route 66, Randolph Center, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="2952"/>
-    <tag k="addr:street" v="Vermont Route 66"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="196458"/>
-  </node>
   <node id="-2001" visible="true" lat="43.9386272" lon="-72.63608686">
-    <!-- conflict: "1251 Vermont Route 66, Randolph, VT" No match in OSM, but a different address exists <5m away: "1249 Vermont Route 66, Randolph, VT" -->
-    <tag k="addr:city" v="Randolph"/>
+    <!-- conflict: "1251 Vermont Route 66, , VT" No match in OSM, but a different address exists <5m away: "1249 Vermont Route 66, Randolph, VT" -->
     <tag k="addr:housenumber" v="1251"/>
     <tag k="addr:street" v="Vermont Route 66"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310781"/>
-  </node>
-  <node id="-2145" visible="true" lat="43.94182241" lon="-72.60352658">
-    <!-- conflict: "163 Admin Drive, Randolph, VT" Fuzzy match to "163 Admin Drive, Randolph Center, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="163"/>
-    <tag k="addr:street" v="Admin Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="611629"/>
   </node>
 </osm>

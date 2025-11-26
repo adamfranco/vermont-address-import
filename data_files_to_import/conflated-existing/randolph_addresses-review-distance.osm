@@ -1,19 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-302" visible="true" lat="43.95946953" lon="-72.61019807">
+    <!-- offset: "646 Ridge Road, , VT" Significant offset - 7977.5m -->
+    <tag k="addr:housenumber" v="646"/>
+    <tag k="addr:street" v="Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="196221"/>
+  </node>
+  <node id="-564" visible="true" lat="43.93959526" lon="-72.60441402">
+    <!-- offset: "124 Admin Drive, , VT" Significant offset - 336.7m -->
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Admin Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="196495"/>
+  </node>
   <node id="-1617" visible="true" lat="43.90192413" lon="-72.5848236">
-    <!-- offset: "3071 South Randolph Road, Randolph, VT" Significant offset - 120.8m -->
-    <tag k="addr:city" v="Randolph"/>
+    <!-- offset: "3071 South Randolph Road, , VT" Significant offset - 120.8m -->
     <tag k="addr:housenumber" v="3071"/>
     <tag k="addr:street" v="South Randolph Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197674"/>
   </node>
   <node id="-1741" visible="true" lat="43.92793558" lon="-72.67068995">
-    <!-- offset: "26 Park Street, Randolph, VT" Significant offset - 109.1m -->
-    <tag k="addr:city" v="Randolph"/>
+    <!-- offset: "26 Park Street, , VT" Significant offset - 109.1m -->
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:street" v="Park Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="197806"/>
+  </node>
+  <node id="-2056" visible="true" lat="43.94692483" lon="-72.67584221">
+    <!-- offset: "468 Hollyhock Hill, , VT" Significant offset - 166.2m -->
+    <tag k="addr:housenumber" v="468"/>
+    <tag k="addr:street" v="Hollyhock Hill"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341660"/>
+  </node>
+  <node id="-2061" visible="true" lat="43.98899054" lon="-72.59606352">
+    <!-- offset: "246 Neighbor Road, , VT" Significant offset - 162.4m -->
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:street" v="Neighbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344949"/>
+  </node>
+  <node id="-2062" visible="true" lat="43.9889268" lon="-72.59689824">
+    <!-- offset: "360 Neighbor Road, , VT" Significant offset - 276.7m -->
+    <tag k="addr:housenumber" v="360"/>
+    <tag k="addr:street" v="Neighbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344950"/>
+  </node>
+  <node id="-2063" visible="true" lat="43.98851892" lon="-72.60036702">
+    <!-- offset: "432 Neighbor Road, , VT" Significant offset - 299m -->
+    <tag k="addr:housenumber" v="432"/>
+    <tag k="addr:street" v="Neighbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344951"/>
+  </node>
+  <node id="-2142" visible="true" lat="43.99130681" lon="-72.60424741">
+    <!-- offset: "708 Neighbor Road, , VT" Significant offset - 157.4m -->
+    <tag k="addr:housenumber" v="708"/>
+    <tag k="addr:street" v="Neighbor Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454804"/>
   </node>
 </osm>
