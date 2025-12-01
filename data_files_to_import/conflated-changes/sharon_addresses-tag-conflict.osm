@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-101" visible="true" lat="43.79163122" lon="-72.35668382">
-    <!-- conflict: "2844 Chapel Hill Road, Sharon, VT" Fuzzy match to "2844 Chapel Hill Road, Norwich, VT" -->
-    <tag k="addr:city" v="Sharon"/>
-    <tag k="addr:housenumber" v="2844"/>
-    <tag k="addr:street" v="Chapel Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="182124"/>
-  </node>
-  <node id="-102" visible="true" lat="43.7835641" lon="-72.36542411">
-    <!-- conflict: "687 Chapel Hill Road, Sharon, VT" Fuzzy match to "687 Chapel Hill Road, Norwich, VT" -->
-    <tag k="addr:city" v="Sharon"/>
-    <tag k="addr:housenumber" v="687"/>
-    <tag k="addr:street" v="Chapel Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="182193"/>
-  </node>
   <node id="-176" visible="true" lat="43.81210068" lon="-72.4485695">
-    <!-- conflict: "45 Sugar Shack Lane, Sharon, VT" No match in OSM, but a different address exists <5m away: "2458 Fay Brook Road, Sharon, VT" -->
-    <tag k="addr:city" v="Sharon"/>
+    <!-- conflict: "45 Sugar Shack Lane, , VT" No match in OSM, but a different address exists <5m away: "2458 Fay Brook Road, Sharon, VT" -->
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Sugar Shack Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219188"/>
   </node>
   <node id="-749" visible="true" lat="43.78889396" lon="-72.37796055">
-    <!-- conflict: "926 Sugar House Road, Sharon, VT" Fuzzy match to "926 Sugarhouse Road, Sharon, VT" -->
-    <tag k="addr:city" v="Sharon"/>
+    <!-- conflict: "926 Sugar House Road, , VT" Fuzzy match to "926 Sugarhouse Road, Sharon, VT" -->
     <tag k="addr:housenumber" v="926"/>
     <tag k="addr:street" v="Sugar House Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219804"/>
-  </node>
-  <node id="-864" visible="true" lat="43.80810936" lon="-72.34131154">
-    <!-- conflict: "119 Copperas Road, Sharon, VT" Fuzzy match to "119 Copperas Road, Norwich, VT" -->
-    <tag k="addr:city" v="Sharon"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:street" v="Copperas Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454382"/>
   </node>
 </osm>

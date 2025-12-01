@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
   <node id="-304" visible="true" lat="43.79224502" lon="-72.42421422">
-    <!-- offset: "678 Carpenter Road, Sharon, VT" Significant offset - 200.4m -->
-    <tag k="addr:city" v="Sharon"/>
+    <!-- offset: "678 Carpenter Road, , VT" Significant offset - 200.4m -->
     <tag k="addr:housenumber" v="678"/>
     <tag k="addr:street" v="Carpenter Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="219318"/>
   </node>
+  <node id="-373" visible="true" lat="43.78667806" lon="-72.45105091">
+    <!-- offset: "236 Route 132, , VT" Significant offset - 8892m -->
+    <tag k="addr:housenumber" v="236"/>
+    <tag k="addr:street" v="Route 132"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="219390"/>
+  </node>
   <node id="-763" visible="true" lat="43.789461" lon="-72.4832166">
-    <!-- offset: "205 Academy Drive, Sharon, VT" Significant offset - 103.9m -->
-    <tag k="addr:city" v="Sharon"/>
+    <!-- offset: "205 Academy Drive, , VT" Significant offset - 103.9m -->
     <tag k="addr:housenumber" v="205"/>
     <tag k="addr:street" v="Academy Drive"/>
     <tag k="addr:state" v="VT"/>
