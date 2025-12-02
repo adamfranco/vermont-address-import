@@ -201,6 +201,16 @@ foreach($data['features'] as $feature) {
       $postal_community = 'East Middlebury';
     }
 
+    // Houses on Church Street in Waltham use Vergennes as the Postal community.
+    if ($postal_community == 'Waltham' && $street == 'Church Street') {
+      $postal_community = 'Vergennes';
+    }
+
+    // Houses on Maplewood Road in Montpelier use East Montpelier as the Postal community.
+    if ($postal_community == 'Montpelier' && $street == 'Maplewood Road') {
+      $postal_community = 'East Montpelier';
+    }
+
     // if we don't have any errors in our data
     if(count($feature_errors) == 0 && $output_type == "osm") {
 
