@@ -15252,6 +15252,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="243871"/>
   </node>
+  <node id="-2696" visible="true" lat="44.77495446" lon="-73.20029692">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v=""/>
+    <tag k="addr:place" v="Burton Island"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="243872"/>
+  </node>
   <node id="-2698" visible="true" lat="44.8245055" lon="-73.05512332">
     <tag k="addr:housenumber" v="1550"/>
     <tag k="addr:street" v="Fisher Pond Road"/>
@@ -15755,6 +15762,24 @@
     <tag k="addr:street" v="Franklin Park West"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306399"/>
+  </node>
+  <node id="-2806" visible="true" lat="44.83297955" lon="-73.06501255">
+    <tag k="addr:housenumber" v="209"/>
+    <tag k="addr:street" v="Sunrise Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306400"/>
+  </node>
+  <node id="-2807" visible="true" lat="44.83268729" lon="-73.06501622">
+    <tag k="addr:housenumber" v="229"/>
+    <tag k="addr:street" v="Sunrise Drive"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306401"/>
+  </node>
+  <node id="-2810" visible="true" lat="44.83267968" lon="-73.06446899">
+    <tag k="addr:housenumber" v="1120"/>
+    <tag k="addr:street" v="Franklin Park West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306406"/>
   </node>
   <node id="-2818" visible="true" lat="44.83495197" lon="-73.06606103">
     <tag k="addr:housenumber" v="187"/>
@@ -17591,6 +17616,13 @@
     <tag k="addr:street" v="Brigham Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338887"/>
+  </node>
+  <node id="-3133" visible="true" lat="44.80406094" lon="-73.20593268">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v=""/>
+    <tag k="addr:place" v="Woods Island"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339032"/>
   </node>
   <node id="-3134" visible="true" lat="44.87550924" lon="-73.17683154">
     <tag k="addr:housenumber" v="43"/>
@@ -20364,11 +20396,77 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770609"/>
   </node>
+  <node id="-3697" visible="true" lat="44.78697879" lon="-73.17492342">
+    <tag k="addr:housenumber" v="2161"/>
+    <tag k="addr:street" v="Hathaway Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771276"/>
+  </node>
+  <node id="-3698" visible="true" lat="44.78730513" lon="-73.17488603">
+    <tag k="addr:housenumber" v="2159"/>
+    <tag k="addr:street" v="Hathaway Point Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771277"/>
+  </node>
   <node id="-3699" visible="true" lat="44.79393226" lon="-73.09098478">
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="Parsons Avenue"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="772321"/>
+  </node>
+  <node id="-3700" visible="true" lat="44.83501842" lon="-73.09596374">
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Jean Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772400"/>
+  </node>
+  <node id="-3701" visible="true" lat="44.836767" lon="-73.07571871">
+    <tag k="addr:housenumber" v="237"/>
+    <tag k="addr:street" v="Franklin Park West"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772541"/>
+  </node>
+  <node id="-3702" visible="true" lat="44.77568708" lon="-73.08192831">
+    <tag k="addr:housenumber" v="2136"/>
+    <tag k="addr:street" v="Fairfax Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772542"/>
+  </node>
+  <node id="-3703" visible="true" lat="44.77526629" lon="-73.0820311">
+    <tag k="addr:housenumber" v="2138"/>
+    <tag k="addr:street" v="Fairfax Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772543"/>
+  </node>
+  <node id="-3704" visible="true" lat="44.8105849" lon="-73.16714836">
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="Sand Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772573"/>
+  </node>
+  <node id="-3705" visible="true" lat="44.81235703" lon="-73.11806187">
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Maple Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772583"/>
+  </node>
+  <node id="-3706" visible="true" lat="44.81272146" lon="-73.11805221">
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Maple Ridge Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772584"/>
+  </node>
+  <node id="-3707" visible="true" lat="44.7970287" lon="-73.03727184">
+    <tag k="addr:housenumber" v="498"/>
+    <tag k="addr:street" v="Kyle Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772588"/>
+  </node>
+  <node id="-3708" visible="true" lat="44.81646748" lon="-73.10260751">
+    <tag k="addr:housenumber" v="222"/>
+    <tag k="addr:street" v="Pearl Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772715"/>
   </node>
   <node id="-3709" visible="true" lat="44.83343596" lon="-73.09434336">
     <tag k="addr:housenumber" v="76"/>

@@ -1194,12 +1194,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="196217"/>
   </node>
-  <node id="-299" visible="true" lat="43.95963736" lon="-72.54864956">
-    <tag k="addr:housenumber" v="1334"/>
-    <tag k="addr:street" v="Vermont Route 14 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="196218"/>
-  </node>
   <node id="-300" visible="true" lat="43.95965679" lon="-72.59978435">
     <tag k="addr:housenumber" v="434"/>
     <tag k="addr:street" v="Rand Road"/>
@@ -11238,6 +11232,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310780"/>
   </node>
+  <node id="-2001" visible="true" lat="43.9386272" lon="-72.63608686">
+    <tag k="addr:housenumber" v="1251"/>
+    <tag k="addr:street" v="Vermont Route 66"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="310781"/>
+  </node>
   <node id="-2002" visible="true" lat="43.95916902" lon="-72.59972228">
     <tag k="addr:housenumber" v="396"/>
     <tag k="addr:street" v="Rand Road"/>
@@ -11646,6 +11646,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365133"/>
   </node>
+  <node id="-2084" visible="true" lat="43.92379737" lon="-72.67088413">
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:street" v="Salisbury Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365143"/>
+  </node>
+  <node id="-2085" visible="true" lat="43.92383696" lon="-72.67053528">
+    <tag k="addr:housenumber" v="288"/>
+    <tag k="addr:street" v="Salisbury Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365146"/>
+  </node>
+  <node id="-2086" visible="true" lat="43.92372285" lon="-72.67029371">
+    <tag k="addr:housenumber" v="282"/>
+    <tag k="addr:street" v="Salisbury Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365147"/>
+  </node>
   <node id="-2087" visible="true" lat="43.92361871" lon="-72.66921747">
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="Salisbury Street"/>
@@ -11657,6 +11675,12 @@
     <tag k="addr:street" v="West Village Lane"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365149"/>
+  </node>
+  <node id="-2090" visible="true" lat="43.89549542" lon="-72.57840308">
+    <tag k="addr:housenumber" v="3578"/>
+    <tag k="addr:street" v="Vermont Route 14 South"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365540"/>
   </node>
   <node id="-2091" visible="true" lat="43.91431489" lon="-72.6678785">
     <tag k="addr:housenumber" v="162"/>
@@ -12054,6 +12078,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620662"/>
   </node>
+  <node id="-2161" visible="true" lat="43.95006818" lon="-72.56393031">
+    <tag k="addr:housenumber" v="6284"/>
+    <tag k="addr:street" v="Vermont Route 66"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646675"/>
+  </node>
   <node id="-2162" visible="true" lat="43.89793467" lon="-72.62859344">
     <tag k="addr:housenumber" v="2973"/>
     <tag k="addr:street" v="Fish Hill Road"/>
@@ -12119,6 +12149,12 @@
     <tag k="addr:street" v="Hebard Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656070"/>
+  </node>
+  <node id="-2173" visible="true" lat="43.91968791" lon="-72.65813342">
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Pearl Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656477"/>
   </node>
   <node id="-2174" visible="true" lat="43.96479671" lon="-72.59335871">
     <tag k="addr:housenumber" v="665"/>
@@ -12546,6 +12582,12 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769979"/>
   </node>
+  <node id="-2258" visible="true" lat="43.91586198" lon="-72.65809514">
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Sherman Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769982"/>
+  </node>
   <node id="-2269" visible="true" lat="43.89197324" lon="-72.62241764">
     <tag k="addr:housenumber" v="305"/>
     <tag k="addr:street" v="Lewis Road"/>
@@ -12599,6 +12641,18 @@
     <tag k="addr:street" v="Community Drive Extension"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770062"/>
+  </node>
+  <node id="-2278" visible="true" lat="43.93783934" lon="-72.60717259">
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Water Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771499"/>
+  </node>
+  <node id="-2280" visible="true" lat="43.92015059" lon="-72.62369646">
+    <tag k="addr:housenumber" v="521"/>
+    <tag k="addr:street" v="Sarum Hill Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772626"/>
   </node>
   <node id="-2281" visible="true" lat="43.96221182" lon="-72.58872925">
     <tag k="addr:housenumber" v="367"/>
