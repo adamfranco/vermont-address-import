@@ -130,7 +130,6 @@ END;
       ) {
         $res->finalize();
         $message = $this->log('match', $inputNode, " ignoring street punctuation to \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
-        $this->log('match', $inputNode, $message);
         $this->append($this->matchesDoc, $inputNode, $message);
         return;
       }
@@ -143,7 +142,6 @@ END;
       ) {
         $res->finalize();
         $message = $this->log('match', $inputNode, " ignoring missing state when matching to \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
-        $this->log('match', $inputNode, $message);
         $this->append($this->matchesDoc, $inputNode, $message);
         return;
       }
