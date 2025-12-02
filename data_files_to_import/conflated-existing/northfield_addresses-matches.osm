@@ -858,6 +858,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180045"/>
   </node>
+  <node id="-245" visible="true" lat="44.17139982" lon="-72.6481639">
+    <!-- match: "127 Gould Road, , VT"  matched semicolon housenumber list to "123;127 Gould Road, Northfield, VT" -->
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Gould Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="180046"/>
+  </node>
   <node id="-246" visible="true" lat="44.17135418" lon="-72.64791337">
     <tag k="addr:housenumber" v="139"/>
     <tag k="addr:street" v="Gould Road"/>
@@ -959,6 +966,13 @@
     <tag k="addr:street" v="Vermont Route 12 North"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180066"/>
+  </node>
+  <node id="-263" visible="true" lat="44.17045678" lon="-72.64964018">
+    <!-- match: "81 Davis Avenue, , VT"  matched semicolon housenumber list to "91;81 Davis Avenue, Northfield, VT" -->
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Davis Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="180067"/>
   </node>
   <node id="-264" visible="true" lat="44.17042923" lon="-72.64733886">
     <tag k="addr:housenumber" v="70"/>
@@ -2537,6 +2551,13 @@
     <tag k="addr:street" v="Pine Ridge Drive"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="180363"/>
+  </node>
+  <node id="-536" visible="true" lat="44.15697849" lon="-72.66334965">
+    <!-- match: "271 Garvey Hill Road, , VT"  matched semicolon housenumber list to "271;349 Garvey Hill Road, Northfield, VT" -->
+    <tag k="addr:housenumber" v="271"/>
+    <tag k="addr:street" v="Garvey Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="180364"/>
   </node>
   <node id="-537" visible="true" lat="44.15708291" lon="-72.6571959">
     <tag k="addr:housenumber" v="587"/>

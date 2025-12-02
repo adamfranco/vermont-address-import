@@ -163,6 +163,25 @@ END;
         return;
       }
 
+      // If it matches exactly, but has the address in a semicolon-delimited
+      // list of housenumbers, then it is a match.
+      if (strpos($nearby['housenumber'], ';')) {
+        $nearbyHousenumbers = explode(';', $nearby['housenumber']);
+        foreach ($nearbyHousenumbers as $nearbyHousenumber) {
+          $nearbyHousenumber = trim($nearbyHousenumber);
+          if ($address['addr:housenumber'] == $nearbyHousenumber
+            && $address['addr:street'] == $nearby['street']
+            && (empty($address['addr:city']) || $address['addr:city'] == $nearby['city'])
+            && $address['addr:state'] == $nearby['state']
+          ) {
+            $res->finalize();
+            $message = $this->log('match', $inputNode, " matched semicolon housenumber list to \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
+            $this->append($this->matchesDoc, $inputNode, $message);
+            return;
+          }
+        }
+      }
+
       // We didn't get a precise match on all fields previously, so if these
       // are a fuzzy match, we have a conflict.
       // var_dump($this->simplifyHouseNumber($nearby['housenumber']), $this->simplifyStreet($nearby['street']));

@@ -19659,6 +19659,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754004"/>
   </node>
+  <node id="-2989" visible="true" lat="44.2600501" lon="-72.5793266">
+    <!-- match: "61 Taylor Street, Montpelier, VT"  matched semicolon housenumber list to "1;61 Taylor Street, Montpelier, VT" -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Taylor Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754277"/>
+  </node>
   <node id="-2990" visible="true" lat="44.25805406" lon="-72.5633517">
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="86"/>
