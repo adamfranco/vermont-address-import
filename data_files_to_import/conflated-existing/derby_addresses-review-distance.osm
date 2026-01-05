@@ -49,11 +49,25 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="646582"/>
   </node>
+  <node id="-2858" visible="true" lat="44.98757641" lon="-72.08822926">
+    <!-- offset: "1418 Herrick Road, , VT" Significant offset - 129.3m -->
+    <tag k="addr:housenumber" v="1418"/>
+    <tag k="addr:street" v="Herrick Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769890"/>
+  </node>
   <node id="-2859" visible="true" lat="44.9901536" lon="-72.09299436">
     <!-- offset: "1420 Herrick Road, , VT" Significant offset - 167.7m -->
     <tag k="addr:housenumber" v="1420"/>
     <tag k="addr:street" v="Herrick Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769891"/>
+  </node>
+  <node id="-2866" visible="true" lat="44.93120065" lon="-72.14425595">
+    <!-- offset: "1005 Hinman Settler Road, , VT" Significant offset - 119.7m -->
+    <tag k="addr:housenumber" v="1005"/>
+    <tag k="addr:street" v="Hinman Settler Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771685"/>
   </node>
 </osm>

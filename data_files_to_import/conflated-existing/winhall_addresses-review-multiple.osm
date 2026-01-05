@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-844" visible="true" lat="43.14379969" lon="-72.88841368">
+    <!-- multiple: "113 Vermont Route 30, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="297681"/>
+  </node>
   <node id="-1638" visible="true" lat="43.15516553" lon="-72.86570516">
     <!-- multiple: "1 Greentree Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="1"/>
@@ -13,5 +20,12 @@
     <tag k="addr:street" v="Upper Taylor Hill Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307432"/>
+  </node>
+  <node id="-1841" visible="true" lat="43.14387873" lon="-72.88862789">
+    <!-- multiple: "115 Vermont Route 30, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344414"/>
   </node>
 </osm>

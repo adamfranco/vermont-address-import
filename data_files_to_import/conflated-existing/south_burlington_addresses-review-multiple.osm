@@ -88,14 +88,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="227829"/>
   </node>
-  <node id="-866" visible="true" lat="44.46737531" lon="-73.17490851">
-    <!-- multiple: "1241 Williston Road, South Burlington, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="1241"/>
-    <tag k="addr:street" v="Williston Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="227839"/>
-  </node>
   <node id="-963" visible="true" lat="44.46647938" lon="-73.17068023">
     <!-- multiple: "1333 Williston Road, South Burlington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="South Burlington"/>
@@ -103,6 +95,14 @@
     <tag k="addr:street" v="Williston Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="227955"/>
+  </node>
+  <node id="-1033" visible="true" lat="44.46583175" lon="-73.16699981">
+    <!-- multiple: "1437 Williston Road, South Burlington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="1437"/>
+    <tag k="addr:street" v="Williston Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="228034"/>
   </node>
   <node id="-1181" visible="true" lat="44.46431809" lon="-73.1603223">
     <!-- multiple: "1625 Williston Road, South Burlington, VT" Multiple exact matches in OSM. -->
@@ -495,14 +495,6 @@
     <tag k="addr:street" v="Hinesburg Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229187"/>
-  </node>
-  <node id="-1999" visible="true" lat="44.4535302" lon="-73.20822565">
-    <!-- multiple: "434 Shelburne Road, South Burlington, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="South Burlington"/>
-    <tag k="addr:housenumber" v="434"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229190"/>
   </node>
   <node id="-2001" visible="true" lat="44.45360734" lon="-73.16179757">
     <!-- multiple: "630 Hinesburg Road, South Burlington, VT" Multiple exact matches in OSM. -->

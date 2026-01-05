@@ -32,12 +32,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455730"/>
   </node>
-  <node id="-1940" visible="true" lat="43.33052285" lon="-72.6623039">
+  <node id="-1942" visible="true" lat="43.33052285" lon="-72.6623039">
     <!-- offset: "441 Pleines Road, Chester, VT" Significant offset - 385.3m -->
     <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="441"/>
     <tag k="addr:street" v="Pleines Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="700102"/>
+  </node>
+  <node id="-2010" visible="true" lat="43.28220337" lon="-72.67297437">
+    <!-- offset: "127 Farrar Road, Chester, VT" Significant offset - 117.6m -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Farrar Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767404"/>
   </node>
 </osm>

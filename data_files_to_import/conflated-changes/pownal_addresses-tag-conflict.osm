@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1782" visible="true" lat="42.82469492" lon="-73.16675272">
+    <!-- conflict: "136 Harvest Trail, , VT" No match in OSM, but a different address exists <5m away: "2356 South Stream Road, , VT" -->
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Harvest Trail"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338107"/>
+  </node>
+  <node id="-1793" visible="true" lat="42.82455282" lon="-73.16535847">
+    <!-- conflict: "190 Harvest Trail, , VT" No match in OSM, but a different address exists <5m away: "2360 South Stream Road, , VT" -->
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:street" v="Harvest Trail"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="345003"/>
+  </node>
+</osm>

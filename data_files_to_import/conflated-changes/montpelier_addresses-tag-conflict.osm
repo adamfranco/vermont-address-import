@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-2848" visible="true" lat="44.25968462" lon="-72.57547528">
+    <!-- conflict: "69 Main Street, Montpelier, VT" No match in OSM, but a different address exists <5m away: "67 Main Street, Montpelier, VT" -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338708"/>
+  </node>
+  <node id="-2864" visible="true" lat="44.26598963" lon="-72.58420505">
+    <!-- conflict: "7 Clarendon Avenue, Montpelier, VT" No match in OSM, but a different address exists <5m away: "7 Dwinell Street, Montpelier, VT" -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Clarendon Avenue"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341085"/>
+  </node>
+  <node id="-2877" visible="true" lat="44.25403448" lon="-72.57002982">
+    <!-- conflict: "192 Barre Street, Montpelier, VT" No match in OSM, but a different address exists <5m away: "192 Charles Street, Montpelier, VT" -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="192"/>
+    <tag k="addr:street" v="Barre Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341879"/>
+  </node>
+</osm>

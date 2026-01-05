@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-416" visible="true" lat="43.84700082" lon="-72.42067776">
+    <!-- conflict: "160 Kumari Lane, , VT" No match in OSM, but a different address exists <5m away: "28 Durkee Road, Strafford, VT" -->
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Kumari Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="252462"/>
+  </node>
+  <node id="-777" visible="true" lat="43.90370431" lon="-72.29419443">
+    <!-- conflict: "5875 Millers Pond Road, , VT" No match in OSM, but a different address exists <5m away: "6 Ayers Road, , VT" -->
+    <tag k="addr:housenumber" v="5875"/>
+    <tag k="addr:street" v="Millers Pond Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646508"/>
+  </node>
+</osm>

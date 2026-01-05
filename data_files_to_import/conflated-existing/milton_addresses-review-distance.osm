@@ -16,7 +16,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="159577"/>
   </node>
-  <node id="-2780" visible="true" lat="44.60901364" lon="-73.07828621">
+  <node id="-2777" visible="true" lat="44.60901364" lon="-73.07828621">
     <!-- offset: "313 Hardscrabble Road, Milton, VT" Significant offset - 638.7m -->
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="313"/>
@@ -24,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="160954"/>
   </node>
-  <node id="-3708" visible="true" lat="44.64193578" lon="-73.10699792">
+  <node id="-3705" visible="true" lat="44.64193578" lon="-73.10699792">
     <!-- offset: "36 Maplewood Avenue, Milton, VT" Significant offset - 122.9m -->
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="36"/>
@@ -32,7 +32,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162045"/>
   </node>
-  <node id="-4014" visible="true" lat="44.67810299" lon="-73.20933536">
+  <node id="-4010" visible="true" lat="44.67810299" lon="-73.20933536">
     <!-- offset: "365 Eagle Mountain Harbor Road, Milton, VT" Significant offset - 144.9m -->
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
@@ -40,7 +40,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162418"/>
   </node>
-  <node id="-4018" visible="true" lat="44.67758425" lon="-73.21002851">
+  <node id="-4014" visible="true" lat="44.67758425" lon="-73.21002851">
     <!-- offset: "365 Eagle Mountain Harbor Road, Milton, VT" Significant offset - 108.2m -->
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
@@ -48,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162422"/>
   </node>
-  <node id="-4019" visible="true" lat="44.67775426" lon="-73.21010226">
+  <node id="-4015" visible="true" lat="44.67775426" lon="-73.21010226">
     <!-- offset: "365 Eagle Mountain Harbor Road, Milton, VT" Significant offset - 127m -->
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
@@ -56,7 +56,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162423"/>
   </node>
-  <node id="-4020" visible="true" lat="44.67794709" lon="-73.21016168">
+  <node id="-4016" visible="true" lat="44.67794709" lon="-73.21016168">
     <!-- offset: "365 Eagle Mountain Harbor Road, Milton, VT" Significant offset - 147.7m -->
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
@@ -64,7 +64,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162424"/>
   </node>
-  <node id="-4099" visible="true" lat="44.67781317" lon="-73.20972213">
+  <node id="-4095" visible="true" lat="44.67781317" lon="-73.20972213">
     <!-- offset: "365 Eagle Mountain Harbor Road, Milton, VT" Significant offset - 119.3m -->
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
@@ -72,12 +72,28 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162511"/>
   </node>
-  <node id="-4319" visible="true" lat="44.69420508" lon="-73.16089616">
+  <node id="-4314" visible="true" lat="44.69420508" lon="-73.16089616">
     <!-- offset: "413 Hibbard Road, Milton, VT" Significant offset - 108.4m -->
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="413"/>
     <tag k="addr:street" v="Hibbard Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341978"/>
+  </node>
+  <node id="-4432" visible="true" lat="44.69320576" lon="-73.1810368">
+    <!-- offset: "13 Paddock Lane, Milton, VT" Significant offset - 130.9m -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Paddock Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342361"/>
+  </node>
+  <node id="-4526" visible="true" lat="44.69328674" lon="-73.17938981">
+    <!-- offset: "11 Paddock Lane, Milton, VT" Significant offset - 128.9m -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Paddock Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342970"/>
   </node>
 </osm>

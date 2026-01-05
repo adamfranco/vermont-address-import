@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-614" visible="true" lat="42.78303474" lon="-72.59834531">
+    <!-- conflict: "69 Fairground Road, Guilford, VT" No match in OSM, but a different address exists <5m away: "163 Fairground Road, Guilford, VT" -->
+    <tag k="addr:city" v="Guilford"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Fairground Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="117304"/>
+  </node>
+  <node id="-1269" visible="true" lat="42.78117221" lon="-72.59936776">
+    <!-- conflict: "189 Fairground Road, Guilford, VT" No match in OSM, but a different address exists <5m away: "15 Fairground Road, Guilford, VT" -->
+    <tag k="addr:city" v="Guilford"/>
+    <tag k="addr:housenumber" v="189"/>
+    <tag k="addr:street" v="Fairground Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="447249"/>
+  </node>
+  <node id="-1894" visible="true" lat="42.7826787" lon="-72.59983112">
+    <!-- conflict: "71 Fairground Road, Guilford, VT" No match in OSM, but a different address exists <5m away: "114 Fairground Road, Guilford, VT" -->
+    <tag k="addr:city" v="Guilford"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Fairground Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050176"/>
+  </node>
+</osm>

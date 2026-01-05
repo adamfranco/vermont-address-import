@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-318" visible="true" lat="43.96404372" lon="-73.20650849">
+  <node id="-317" visible="true" lat="43.96404372" lon="-73.20650849">
     <!-- multiple: "112 School Road, Cornwall, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Cornwall"/>
     <tag k="addr:housenumber" v="112"/>
@@ -8,12 +8,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="78155"/>
   </node>
-  <node id="-332" visible="true" lat="43.96131754" lon="-73.2093886">
+  <node id="-331" visible="true" lat="43.96131754" lon="-73.2093886">
     <!-- multiple: "2629 Vermont Route 30, Cornwall, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Cornwall"/>
     <tag k="addr:housenumber" v="2629"/>
     <tag k="addr:street" v="Vermont Route 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="78170"/>
+  </node>
+  <node id="-747" visible="true" lat="43.97307961" lon="-73.20749243">
+    <!-- multiple: "1780 Vermont Route 30, Cornwall, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Cornwall"/>
+    <tag k="addr:housenumber" v="1780"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765654"/>
   </node>
 </osm>

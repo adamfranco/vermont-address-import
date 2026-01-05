@@ -63,8 +63,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306995"/>
   </node>
-  <node id="-1157" visible="true" lat="43.41046543" lon="-72.60677519">
-    <!-- offset: "61 Town Farm Road, , VT" Significant offset - 8095.7m -->
+  <node id="-1123" visible="true" lat="43.38920678" lon="-72.55585406">
+    <!-- offset: "4283 Vermont Route 131, , VT" Significant offset - 247.5m -->
+    <tag k="addr:housenumber" v="4283"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763082"/>
+  </node>
+  <node id="-1157" visible="true" lat="43.41047425" lon="-72.60677636">
+    <!-- offset: "61 Town Farm Road, , VT" Significant offset - 8095.9m -->
     <tag k="addr:housenumber" v="61"/>
     <tag k="addr:street" v="Town Farm Road"/>
     <tag k="addr:state" v="VT"/>

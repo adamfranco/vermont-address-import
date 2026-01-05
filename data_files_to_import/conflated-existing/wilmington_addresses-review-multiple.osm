@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-195" visible="true" lat="42.9165802" lon="-72.82956695">
-    <!-- multiple: "106 Smith Road, Wilmington, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Wilmington"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:street" v="Smith Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="292768"/>
-  </node>
   <node id="-196" visible="true" lat="42.91647338" lon="-72.83029937">
     <!-- multiple: "106 Smith Road, Wilmington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Wilmington"/>
@@ -39,6 +31,22 @@
     <tag k="addr:street" v="North Main Street"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="294213"/>
+  </node>
+  <node id="-1611" visible="true" lat="42.86845395" lon="-72.8706802">
+    <!-- multiple: "3 North Main Street, Wilmington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294221"/>
+  </node>
+  <node id="-1613" visible="true" lat="42.86833173" lon="-72.87068548">
+    <!-- multiple: "2 East Main Street, Wilmington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="East Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294223"/>
   </node>
   <node id="-1750" visible="true" lat="42.86635971" lon="-72.86764526">
     <!-- multiple: "43 East Main Street, Wilmington, VT" Multiple exact matches in OSM. -->

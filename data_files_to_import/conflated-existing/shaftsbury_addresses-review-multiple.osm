@@ -35,6 +35,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218180"/>
   </node>
+  <node id="-1195" visible="true" lat="42.94250488" lon="-73.21112823">
+    <!-- multiple: "677 Vermont Route 7A, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="677"/>
+    <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="218523"/>
+  </node>
   <node id="-1329" visible="true" lat="42.93719663" lon="-73.24768033">
     <!-- multiple: "335 Elm Street, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="335"/>
@@ -84,13 +91,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218796"/>
   </node>
-  <node id="-1530" visible="true" lat="42.93377644" lon="-73.24793483">
-    <!-- multiple: "19 Bank Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Bank Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="218894"/>
-  </node>
   <node id="-1537" visible="true" lat="42.93396759" lon="-73.20078277">
     <!-- multiple: "498 Town Line Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="498"/>
@@ -98,7 +98,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="218903"/>
   </node>
-  <node id="-1916" visible="true" lat="42.93324353" lon="-73.22376308">
+  <node id="-1917" visible="true" lat="42.93324353" lon="-73.22376308">
     <!-- multiple: "720 Lake Drive, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="720"/>
     <tag k="addr:street" v="Lake Drive"/>

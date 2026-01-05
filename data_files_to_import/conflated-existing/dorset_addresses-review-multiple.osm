@@ -91,11 +91,18 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454566"/>
   </node>
-  <node id="-1615" visible="true" lat="43.21509305" lon="-72.98099132">
+  <node id="-1616" visible="true" lat="43.21509305" lon="-72.98099132">
     <!-- multiple: "187 Vermont Route 11 30, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="187"/>
     <tag k="addr:street" v="Vermont Route 11 30"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750191"/>
+  </node>
+  <node id="-1688" visible="true" lat="43.23368333" lon="-73.07677564">
+    <!-- multiple: "200 Raptor Lane, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Raptor Lane"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767009"/>
   </node>
 </osm>
