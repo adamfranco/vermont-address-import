@@ -936,12 +936,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189590"/>
   </node>
-  <node id="-256" visible="true" lat="43.53418901" lon="-72.74291171">
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:street" v="Town Office Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="189591"/>
-  </node>
   <node id="-257" visible="true" lat="43.53407475" lon="-72.74528185">
     <tag k="addr:housenumber" v="504"/>
     <tag k="addr:street" v="Dead End Road"/>
@@ -5429,6 +5423,12 @@
     <tag k="addr:street" v="Chapman Road"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767420"/>
+  </node>
+  <node id="-1024" visible="true" lat="43.46259735" lon="-72.66518172">
+    <tag k="addr:housenumber" v="711"/>
+    <tag k="addr:street" v="Chapman Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767421"/>
   </node>
   <node id="-1025" visible="true" lat="43.55103924" lon="-72.71067428">
     <tag k="addr:housenumber" v="88"/>

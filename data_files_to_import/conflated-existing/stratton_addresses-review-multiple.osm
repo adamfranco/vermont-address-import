@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-416" visible="true" lat="43.04319" lon="-72.90897369">
+    <!-- multiple: "9 West Jamaica Road, Stratton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stratton"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="West Jamaica Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="253110"/>
+  </node>
   <node id="-540" visible="true" lat="43.10540073" lon="-72.88762054">
     <!-- multiple: "7 World Cup Circle, Stratton, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stratton"/>

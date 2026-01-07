@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-445" visible="true" lat="43.70743101" lon="-72.95075328">
+    <!-- multiple: "339 Holden Road, Chittenden, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Chittenden"/>
+    <tag k="addr:housenumber" v="339"/>
+    <tag k="addr:street" v="Holden Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="67910"/>
+  </node>
   <node id="-496" visible="true" lat="43.70094717" lon="-72.95213951">
     <!-- multiple: "223 Chittenden Road, Chittenden, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Chittenden"/>

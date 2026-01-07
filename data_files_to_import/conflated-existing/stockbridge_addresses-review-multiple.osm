@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-602" visible="true" lat="43.77518423" lon="-72.76552082">
+    <!-- multiple: "1722 Vermont Route 100, Stockbridge, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Stockbridge"/>
+    <tag k="addr:housenumber" v="1722"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="249328"/>
+  </node>
   <node id="-750" visible="true" lat="43.78499909" lon="-72.69471049">
     <!-- multiple: "634 River Road, Stockbridge, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Stockbridge"/>

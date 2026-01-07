@@ -7,6 +7,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270482"/>
   </node>
+  <node id="-320" visible="true" lat="43.04211425" lon="-72.79016876">
+    <!-- multiple: "99 Main Street, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="270512"/>
+  </node>
   <node id="-540" visible="true" lat="43.02933883" lon="-72.85447692">
     <!-- multiple: "47 Cross Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="47"/>

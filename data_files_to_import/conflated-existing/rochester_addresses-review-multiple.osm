@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-354" visible="true" lat="43.87590397" lon="-72.80719126">
+    <!-- multiple: "67 School Street, Rochester, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Rochester"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="School Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="202435"/>
+  </node>
   <node id="-387" visible="true" lat="43.87475137" lon="-72.80803365">
     <!-- multiple: "12 North Main Street, Rochester, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Rochester"/>

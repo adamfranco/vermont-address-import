@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-408" visible="true" lat="43.71749496" lon="-73.15869903">
+    <!-- multiple: "1831 Monument Hill Road, Hubbardton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Hubbardton"/>
+    <tag k="addr:housenumber" v="1831"/>
+    <tag k="addr:street" v="Monument Hill Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="130630"/>
+  </node>
   <node id="-523" visible="true" lat="43.69866298" lon="-73.22247628">
     <!-- multiple: "1621 Black Pond Road, Hubbardton, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Hubbardton"/>

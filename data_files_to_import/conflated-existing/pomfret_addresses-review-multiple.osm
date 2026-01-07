@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-351" visible="true" lat="43.70579853" lon="-72.51511743">
+    <!-- multiple: "5233 Pomfret Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="5233"/>
+    <tag k="addr:street" v="Pomfret Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="190461"/>
+  </node>
+  <node id="-353" visible="true" lat="43.70544319" lon="-72.51471656">
+    <!-- multiple: "5218 Pomfret Road, , VT" Multiple exact matches in OSM. -->
+    <tag k="addr:housenumber" v="5218"/>
+    <tag k="addr:street" v="Pomfret Road"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="190463"/>
+  </node>
   <node id="-518" visible="true" lat="43.66485495" lon="-72.5387793">
     <!-- multiple: "2035 Pomfret Road, , VT" Multiple exact matches in OSM. -->
     <tag k="addr:housenumber" v="2035"/>
