@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-591" visible="true" lat="44.54433607" lon="-72.45804731">
+    <!-- multiple: "28 Railroad Street, Wolcott, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Wolcott"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Railroad Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301173"/>
+  </node>
   <node id="-639" visible="true" lat="44.53822594" lon="-72.45290843">
     <!-- multiple: "320 School Hill Drive, Wolcott, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Wolcott"/>

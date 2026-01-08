@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-214" visible="true" lat="44.14774468" lon="-73.34179476">
+    <!-- multiple: "3176 Jersey Street, Panton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Panton"/>
+    <tag k="addr:housenumber" v="3176"/>
+    <tag k="addr:street" v="Jersey Street"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="184907"/>
+  </node>
   <node id="-379" visible="true" lat="44.12565757" lon="-73.37510813">
     <!-- multiple: "490 Shadow Glen Drive, Panton, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Panton"/>
