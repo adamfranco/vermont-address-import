@@ -4,6 +4,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="575"/>
     <tag k="addr:street" v="East Montpelier Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="10912"/>
   </node>
@@ -11,6 +12,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="2290"/>
     <tag k="addr:street" v="Vermont Route 14 North"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91059"/>
   </node>
@@ -18,6 +20,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="665"/>
     <tag k="addr:street" v="Vincent Flats Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91150"/>
   </node>
@@ -25,6 +28,7 @@
     <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="1168"/>
     <tag k="addr:street" v="County Road"/>
+    <tag k="addr:postcode" v="05602"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91158"/>
   </node>
@@ -32,6 +36,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1005"/>
     <tag k="addr:street" v="Vermont Route 14 North"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91240"/>
   </node>
@@ -39,6 +44,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1711"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91269"/>
   </node>
@@ -46,6 +52,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Kelton Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91324"/>
   </node>
@@ -53,27 +60,63 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1312"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91325"/>
+  </node>
+  <node id="-665" visible="true" lat="44.272286810769" lon="-72.453591566344">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4723"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91334"/>
   </node>
   <node id="-674" visible="true" lat="44.271797444066" lon="-72.529155941847">
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1226"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91343"/>
+  </node>
+  <node id="-685" visible="true" lat="44.270932701262" lon="-72.455768883867">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4583"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91358"/>
   </node>
   <node id="-686" visible="true" lat="44.27093262862" lon="-72.531154192971">
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1095"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91359"/>
+  </node>
+  <node id="-687" visible="true" lat="44.270955483171" lon="-72.45852015706">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4473"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91360"/>
+  </node>
+  <node id="-689" visible="true" lat="44.270816792297" lon="-72.459472125632">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4379"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91362"/>
   </node>
   <node id="-692" visible="true" lat="44.270759659432" lon="-72.454184281942">
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="Tay-Con Drive"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91366"/>
   </node>
@@ -81,20 +124,119 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="92"/>
     <tag k="addr:street" v="Tay-Con Drive"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91370"/>
+  </node>
+  <node id="-702" visible="true" lat="44.270143504812" lon="-72.456443263303">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4518"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91376"/>
+  </node>
+  <node id="-706" visible="true" lat="44.270085730601" lon="-72.470963701273">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="3773"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91380"/>
+  </node>
+  <node id="-707" visible="true" lat="44.270179032797" lon="-72.458837451443">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4423"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91381"/>
+  </node>
+  <node id="-711" visible="true" lat="44.269963017491" lon="-72.461482082242">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4233"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91385"/>
+  </node>
+  <node id="-712" visible="true" lat="44.269967815705" lon="-72.459831683793">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4331"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91386"/>
+  </node>
+  <node id="-717" visible="true" lat="44.269330420063" lon="-72.46234248323">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4213"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91392"/>
   </node>
   <node id="-718" visible="true" lat="44.269360941657" lon="-72.466081971516">
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Cote Drive"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91393"/>
+  </node>
+  <node id="-719" visible="true" lat="44.26927359132" lon="-72.46076620453">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4243"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91394"/>
+  </node>
+  <node id="-720" visible="true" lat="44.269132055413" lon="-72.460084183437">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4323"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91395"/>
+  </node>
+  <node id="-721" visible="true" lat="44.2690452428" lon="-72.469265506037">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="3828"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91396"/>
+  </node>
+  <node id="-725" visible="true" lat="44.268819250947" lon="-72.466004594172">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4038"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91400"/>
+  </node>
+  <node id="-727" visible="true" lat="44.268685737523" lon="-72.466737016363">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="3998"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91403"/>
+  </node>
+  <node id="-729" visible="true" lat="44.268456229395" lon="-72.466262794306">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4028"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91405"/>
   </node>
   <node id="-730" visible="true" lat="44.268300407288" lon="-72.530143783378">
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="964"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91407"/>
   </node>
@@ -102,6 +244,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="825"/>
     <tag k="addr:street" v="Murray Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91408"/>
   </node>
@@ -109,6 +252,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="705"/>
     <tag k="addr:street" v="Murray Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91416"/>
   </node>
@@ -116,6 +260,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="885"/>
     <tag k="addr:street" v="Murray Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91419"/>
   </node>
@@ -123,6 +268,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="940"/>
     <tag k="addr:street" v="Murray Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91427"/>
   </node>
@@ -130,6 +276,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1105"/>
     <tag k="addr:street" v="Murray Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91434"/>
   </node>
@@ -137,6 +284,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1100"/>
     <tag k="addr:street" v="Murray Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91438"/>
   </node>
@@ -144,6 +292,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1140"/>
     <tag k="addr:street" v="Murray Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91441"/>
   </node>
@@ -151,6 +300,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1225"/>
     <tag k="addr:street" v="Murray Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91445"/>
   </node>
@@ -158,6 +308,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="734"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91451"/>
   </node>
@@ -165,6 +316,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="513"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91470"/>
   </node>
@@ -172,6 +324,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="610"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91473"/>
   </node>
@@ -179,6 +332,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="579"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91479"/>
   </node>
@@ -186,6 +340,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="580"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91483"/>
   </node>
@@ -193,6 +348,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="543"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91484"/>
   </node>
@@ -200,6 +356,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="433"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91493"/>
   </node>
@@ -207,6 +364,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="205"/>
     <tag k="addr:street" v="Green Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91494"/>
   </node>
@@ -214,6 +372,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="595"/>
     <tag k="addr:street" v="Brazier Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91495"/>
   </node>
@@ -221,6 +380,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="265"/>
     <tag k="addr:street" v="Green Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91502"/>
   </node>
@@ -228,6 +388,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="515"/>
     <tag k="addr:street" v="Brazier Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91507"/>
   </node>
@@ -235,6 +396,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="268"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91522"/>
   </node>
@@ -242,6 +404,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="254"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91525"/>
   </node>
@@ -249,6 +412,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="2530"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91529"/>
   </node>
@@ -256,6 +420,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="2395"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91534"/>
   </node>
@@ -263,6 +428,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1245"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91551"/>
   </node>
@@ -270,6 +436,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1205"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91553"/>
   </node>
@@ -277,6 +444,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="Brazier Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91561"/>
   </node>
@@ -284,6 +452,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1325"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91566"/>
   </node>
@@ -291,6 +460,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1500"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91574"/>
   </node>
@@ -298,6 +468,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1920"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91578"/>
   </node>
@@ -305,6 +476,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="331"/>
     <tag k="addr:street" v="Wheeler Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91580"/>
   </node>
@@ -312,6 +484,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1555"/>
     <tag k="addr:street" v="Gallison Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91584"/>
   </node>
@@ -319,6 +492,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="Maplewood Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91589"/>
   </node>
@@ -326,6 +500,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="333"/>
     <tag k="addr:street" v="Wheeler Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91590"/>
   </node>
@@ -333,6 +508,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="303"/>
     <tag k="addr:street" v="Wheeler Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91591"/>
   </node>
@@ -340,6 +516,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Maplewood Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91592"/>
   </node>
@@ -347,6 +524,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Maplewood Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91597"/>
   </node>
@@ -354,6 +532,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="235"/>
     <tag k="addr:street" v="Wheeler Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91598"/>
   </node>
@@ -361,6 +540,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:street" v="Maplewood Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91599"/>
   </node>
@@ -368,6 +548,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="Maplewood Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91602"/>
   </node>
@@ -375,6 +556,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:street" v="Schoolhouse Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91603"/>
   </node>
@@ -382,6 +564,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="135"/>
     <tag k="addr:street" v="Maplewood Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91604"/>
   </node>
@@ -389,6 +572,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="140"/>
     <tag k="addr:street" v="Maplewood Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91605"/>
   </node>
@@ -396,6 +580,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1410"/>
     <tag k="addr:street" v="Gallison Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91611"/>
   </node>
@@ -403,6 +588,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="355"/>
     <tag k="addr:street" v="Vermont Route 14 South"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91640"/>
   </node>
@@ -410,6 +596,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="225"/>
     <tag k="addr:street" v="Vermont Route 14 South"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91645"/>
   </node>
@@ -417,6 +604,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="150"/>
     <tag k="addr:street" v="Vermont Route 14 South"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91648"/>
   </node>
@@ -424,6 +612,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:street" v="Tay-Con Drive"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91693"/>
   </node>
@@ -431,6 +620,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="84"/>
     <tag k="addr:street" v="Tay-Con Drive"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91694"/>
   </node>
@@ -438,6 +628,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1316"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91696"/>
   </node>
@@ -445,6 +636,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1561"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91697"/>
   </node>
@@ -452,6 +644,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1754"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91725"/>
   </node>
@@ -459,6 +652,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1539"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91727"/>
   </node>
@@ -466,13 +660,23 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="219"/>
     <tag k="addr:street" v="Brazier Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91728"/>
+  </node>
+  <node id="-1062" visible="true" lat="44.268060482376" lon="-72.466607918454">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4014"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="91745"/>
   </node>
   <node id="-1121" visible="true" lat="44.269255308439" lon="-72.455471514685">
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:street" v="Cookson Drive"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91804"/>
   </node>
@@ -480,6 +684,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1186"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91809"/>
   </node>
@@ -487,6 +692,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="317"/>
     <tag k="addr:street" v="Wheeler Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91811"/>
   </node>
@@ -494,6 +700,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="699"/>
     <tag k="addr:street" v="Clark Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91815"/>
   </node>
@@ -501,6 +708,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1626"/>
     <tag k="addr:street" v="Bliss Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91821"/>
   </node>
@@ -508,6 +716,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1685"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91841"/>
   </node>
@@ -515,6 +724,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="159"/>
     <tag k="addr:street" v="Boulder Ridge Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91849"/>
   </node>
@@ -522,6 +732,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="172"/>
     <tag k="addr:street" v="Boulder Ridge Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91856"/>
   </node>
@@ -529,6 +740,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="2021"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91859"/>
   </node>
@@ -536,6 +748,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Cookson Drive"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91862"/>
   </node>
@@ -543,6 +756,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="189"/>
     <tag k="addr:street" v="Boulder Ridge Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="91864"/>
   </node>
@@ -550,6 +764,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1771"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="308867"/>
   </node>
@@ -557,6 +772,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Cookson Drive"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310613"/>
   </node>
@@ -564,13 +780,23 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1309"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315936"/>
+  </node>
+  <node id="-1207" visible="true" lat="44.269869013292" lon="-72.460691071705">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4239"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="316826"/>
   </node>
   <node id="-1210" visible="true" lat="44.25296674288" lon="-72.532186324641">
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1468"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="325340"/>
   </node>
@@ -578,14 +804,24 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="Boulder Ridge Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="326477"/>
+  </node>
+  <node id="-1245" visible="true" lat="44.269867342777" lon="-72.46762074236">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="3947"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338353"/>
   </node>
   <node id="-1250" visible="true" lat="44.253735321089" lon="-72.534561669837">
     <!-- match: "1332 Towne Hill Road, East Montpelier, VT"  ignoring missing state when matching to "1332 Towne Hill Road, East Montpelier, " -->
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1332"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="340248"/>
   </node>
@@ -593,6 +829,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Old Farm Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345167"/>
   </node>
@@ -600,6 +837,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="150"/>
     <tag k="addr:street" v="Old Farm Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345176"/>
   </node>
@@ -607,6 +845,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="72"/>
     <tag k="addr:street" v="Old Farm Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345177"/>
   </node>
@@ -614,6 +853,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="2418"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345178"/>
   </node>
@@ -621,6 +861,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1980"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345906"/>
   </node>
@@ -628,6 +869,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="1440"/>
     <tag k="addr:street" v="Kelton Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446787"/>
   </node>
@@ -635,6 +877,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="2422"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="448109"/>
   </node>
@@ -642,6 +885,7 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="2368"/>
     <tag k="addr:street" v="Towne Hill Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450513"/>
   </node>
@@ -649,7 +893,24 @@
     <tag k="addr:city" v="East Montpelier"/>
     <tag k="addr:housenumber" v="325"/>
     <tag k="addr:street" v="Brazier Road"/>
+    <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454936"/>
+  </node>
+  <node id="-1291" visible="true" lat="44.267708924687" lon="-72.492616703087">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="2541"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620033"/>
+  </node>
+  <node id="-1294" visible="true" lat="44.274204370937" lon="-72.451632294652">
+    <tag k="addr:city" v="East Montpelier"/>
+    <tag k="addr:housenumber" v="4769"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620036"/>
   </node>
 </osm>

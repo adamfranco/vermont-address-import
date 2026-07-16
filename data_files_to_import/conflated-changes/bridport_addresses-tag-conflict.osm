@@ -1,107 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-114" visible="true" lat="44.027897199783" lon="-73.322900461224">
-    <!-- conflict: "1423 Town Line Road, Vergennes, VT" Fuzzy match to "1423 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="1423"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37099"/>
-  </node>
-  <node id="-116" visible="true" lat="44.027728151105" lon="-73.321637998449">
-    <!-- conflict: "1369 Town Line Road, Vergennes, VT" Fuzzy match to "1369 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="1369"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37101"/>
-  </node>
-  <node id="-117" visible="true" lat="44.02759583882" lon="-73.327485730313">
-    <!-- conflict: "1671 Town Line Road, Vergennes, VT" Fuzzy match to "1671 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="1671"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37102"/>
-  </node>
-  <node id="-120" visible="true" lat="44.027089780309" lon="-73.320383120106">
-    <!-- conflict: "1367 Town Line Road, Vergennes, VT" Fuzzy match to "1367 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="1367"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37106"/>
-  </node>
-  <node id="-122" visible="true" lat="44.026218323197" lon="-73.34303528231">
-    <!-- conflict: "2475 Town Line Road, Vergennes, VT" Fuzzy match to "2475 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="2475"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37109"/>
-  </node>
-  <node id="-131" visible="true" lat="44.02429999629" lon="-73.362337621159">
-    <!-- conflict: "3423 Town Line Road, Vergennes, VT" Fuzzy match to "3423 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="3423"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37118"/>
-  </node>
-  <node id="-134" visible="true" lat="44.023645870076" lon="-73.367922309878">
-    <!-- conflict: "3715 Town Line Road, Vergennes, VT" Fuzzy match to "3715 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="3715"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37122"/>
-  </node>
-  <node id="-136" visible="true" lat="44.023716348129" lon="-73.363016638404">
-    <!-- conflict: "3425 Town Line Road, Vergennes, VT" Fuzzy match to "3425 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="3425"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37124"/>
-  </node>
-  <node id="-137" visible="true" lat="44.023655258508" lon="-73.370057762026">
-    <!-- conflict: "3809 Town Line Road, Vergennes, VT" Fuzzy match to "3809 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="3809"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37125"/>
-  </node>
-  <node id="-773" visible="true" lat="44.024368152985" lon="-73.361156027882">
-    <!-- conflict: "3363 Town Line Road, Vergennes, VT" Fuzzy match to "3363 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="3363"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37783"/>
-  </node>
-  <node id="-841" visible="true" lat="44.023688363211" lon="-73.369487527591">
-    <!-- conflict: "3751 Town Line Road, Vergennes, VT" Fuzzy match to "3751 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="3751"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620388"/>
-  </node>
   <node id="-853" visible="true" lat="44.028875437342" lon="-73.310141308997">
     <!-- conflict: "797 Town Line Road, Vergennes, VT" Fuzzy match to "797 Town Line Road, Bridport, VT" -->
     <tag k="addr:city" v="Vergennes"/>
     <tag k="addr:housenumber" v="797"/>
     <tag k="addr:street" v="Town Line Road"/>
+    <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755083"/>
-  </node>
-  <node id="-854" visible="true" lat="44.029679706328" lon="-73.308713530877">
-    <!-- conflict: "721 Town Line Road, Vergennes, VT" Fuzzy match to "721 Town Line Road, Bridport, VT" -->
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="721"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755493"/>
   </node>
 </osm>

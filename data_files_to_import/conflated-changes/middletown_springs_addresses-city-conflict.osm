@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="43.466961868458" lon="-73.178988402589">
+    <!-- city-conflict: "4002 Saw Mill Hill Road, Wells, VT" City conflict match to "4002 Saw Mill Hill Road, Middletown Springs, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="4002"/>
+    <tag k="addr:street" v="Saw Mill Hill Road"/>
+    <tag k="addr:postcode" v="05774"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="157647"/>
+  </node>
+  <node id="-665" visible="true" lat="43.469952262563" lon="-73.177118461945">
+    <!-- city-conflict: "4000 Saw Mill Hill Road, Wells, VT" City conflict match to "4000 Saw Mill Hill Road, Middletown Springs, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="4000"/>
+    <tag k="addr:street" v="Saw Mill Hill Road"/>
+    <tag k="addr:postcode" v="05774"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338312"/>
+  </node>
+  <node id="-698" visible="true" lat="43.495575400777" lon="-73.172421333413">
+    <!-- city-conflict: "4906 Vermont Route 140, Poultney, VT" City conflict match to "4906 Vermont Route 140, Middletown Springs, VT" -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4906"/>
+    <tag k="addr:street" v="Vermont Route 140"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755045"/>
+  </node>
+</osm>

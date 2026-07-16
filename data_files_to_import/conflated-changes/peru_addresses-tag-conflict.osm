@@ -1,82 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-104" visible="true" lat="43.29841390241" lon="-72.86225039162">
-    <!-- conflict: "81 Russet Hill Road, Londonderry, VT" Fuzzy match to "81 Russet Hill Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:street" v="Russet Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186491"/>
-  </node>
-  <node id="-105" visible="true" lat="43.283931237002" lon="-72.878323117566">
-    <!-- conflict: "1092 Little Michigan Road, Londonderry, VT" Fuzzy match to "1092 Little Michigan Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="1092"/>
-    <tag k="addr:street" v="Little Michigan Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186492"/>
-  </node>
-  <node id="-108" visible="true" lat="43.280996055112" lon="-72.874082192964">
-    <!-- conflict: "803 Little Michigan Road, Londonderry, VT" Fuzzy match to "803 Little Michigan Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="803"/>
-    <tag k="addr:street" v="Little Michigan Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186495"/>
-  </node>
-  <node id="-111" visible="true" lat="43.280020821502" lon="-72.870569140555">
-    <!-- conflict: "558 Little Michigan Road, Londonderry, VT" Fuzzy match to "558 Little Michigan Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="558"/>
-    <tag k="addr:street" v="Little Michigan Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186498"/>
-  </node>
-  <node id="-113" visible="true" lat="43.279277197308" lon="-72.868634503335">
-    <!-- conflict: "452 Little Michigan Road, Londonderry, VT" Fuzzy match to "452 Little Michigan Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="452"/>
-    <tag k="addr:street" v="Little Michigan Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186500"/>
-  </node>
-  <node id="-114" visible="true" lat="43.278817584631" lon="-72.868504493284">
-    <!-- conflict: "454 Little Michigan Road, Londonderry, VT" Fuzzy match to "454 Little Michigan Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="454"/>
-    <tag k="addr:street" v="Little Michigan Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186501"/>
-  </node>
-  <node id="-117" visible="true" lat="43.277924688117" lon="-72.867250108911">
-    <!-- conflict: "27 Danby Mount Tabor Road, Londonderry, VT" Fuzzy match to "27 Danby Mount Tabor Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Danby Mount Tabor Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186504"/>
-  </node>
-  <node id="-119" visible="true" lat="43.276921334647" lon="-72.866609886484">
-    <!-- conflict: "323 Little Michigan Road, Londonderry, VT" Fuzzy match to "323 Little Michigan Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="323"/>
-    <tag k="addr:street" v="Little Michigan Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186506"/>
-  </node>
-  <node id="-120" visible="true" lat="43.276208161672" lon="-72.862668033489">
-    <!-- conflict: "168 Little Michigan Road, Londonderry, VT" Fuzzy match to "168 Little Michigan Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="168"/>
-    <tag k="addr:street" v="Little Michigan Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186507"/>
-  </node>
   <node id="-406" visible="true" lat="43.216529588962" lon="-72.896514014592">
     <!-- conflict: "1022 South Road, Peru, VT" No match in OSM, but a different address exists <5m away: "996 South Road, Peru, VT" -->
     <tag k="addr:city" v="Peru"/>
     <tag k="addr:housenumber" v="1022"/>
     <tag k="addr:street" v="South Road"/>
+    <tag k="addr:postcode" v="05152"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="186802"/>
   </node>
@@ -85,6 +14,7 @@
     <tag k="addr:city" v="Peru"/>
     <tag k="addr:housenumber" v="1144"/>
     <tag k="addr:street" v="South Road"/>
+    <tag k="addr:postcode" v="05152"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="186819"/>
   </node>
@@ -93,62 +23,16 @@
     <tag k="addr:city" v="Peru"/>
     <tag k="addr:housenumber" v="1024"/>
     <tag k="addr:street" v="South Road"/>
+    <tag k="addr:postcode" v="05152"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="186980"/>
-  </node>
-  <node id="-564" visible="true" lat="43.250993027453" lon="-72.86722489832">
-    <!-- conflict: "143 Nichols Road, Londonderry, VT" Fuzzy match to "143 Nichols Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="143"/>
-    <tag k="addr:street" v="Nichols Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186988"/>
-  </node>
-  <node id="-565" visible="true" lat="43.2498892827" lon="-72.864992183859">
-    <!-- conflict: "123 Nichols Road, Londonderry, VT" Fuzzy match to "123 Nichols Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="123"/>
-    <tag k="addr:street" v="Nichols Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186989"/>
-  </node>
-  <node id="-570" visible="true" lat="43.284467123063" lon="-72.878437515179">
-    <!-- conflict: "1140 Little Michigan Road, Londonderry, VT" Fuzzy match to "1140 Little Michigan Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="1140"/>
-    <tag k="addr:street" v="Little Michigan Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="186994"/>
-  </node>
-  <node id="-692" visible="true" lat="43.297550438144" lon="-72.860727718726">
-    <!-- conflict: "70 Russet Hill Road, Londonderry, VT" Fuzzy match to "70 Russet Hill Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:street" v="Russet Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750891"/>
-  </node>
-  <node id="-718" visible="true" lat="43.297243914735" lon="-72.860889289141">
-    <!-- conflict: "69 Russet Hill Road, Londonderry, VT" Fuzzy match to "69 Russet Hill Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Russet Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="769954"/>
-  </node>
-  <node id="-719" visible="true" lat="43.297651787982" lon="-72.862245469288">
-    <!-- conflict: "75 Russet Hill Road, Londonderry, VT" Fuzzy match to "75 Russet Hill Road, Peru, VT" -->
-    <tag k="addr:city" v="Londonderry"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="Russet Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="769955"/>
   </node>
   <node id="-730" visible="true" lat="43.235382972846" lon="-72.960866659752">
     <!-- conflict: "8676 National Forest Highway, Peru, VT" No match in OSM, but a different address exists <5m away: "8676 Nfh, Peru, VT" -->
     <tag k="addr:city" v="Peru"/>
     <tag k="addr:housenumber" v="8676"/>
     <tag k="addr:street" v="National Forest Highway"/>
+    <tag k="addr:postcode" v="05152"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050340"/>
   </node>

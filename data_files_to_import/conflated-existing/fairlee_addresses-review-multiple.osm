@@ -1,18 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-162" visible="true" lat="43.922394866474" lon="-72.125188522036">
+    <!-- multiple: "1809 U.S. Route 5 North, Fairlee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="1809"/>
+    <tag k="addr:street" v="U.S. Route 5 North"/>
+    <tag k="addr:postcode" v="05045"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105317"/>
+  </node>
+  <node id="-206" visible="true" lat="43.908795446841" lon="-72.141184434321">
+    <!-- multiple: "535 U.S. Route 5 North, Fairlee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="535"/>
+    <tag k="addr:street" v="U.S. Route 5 North"/>
+    <tag k="addr:postcode" v="05045"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105367"/>
+  </node>
   <node id="-232" visible="true" lat="43.907998861566" lon="-72.146023920398">
     <!-- multiple: "214 School Street, Fairlee, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="214"/>
     <tag k="addr:street" v="School Street"/>
+    <tag k="addr:postcode" v="05045"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105398"/>
+  </node>
+  <node id="-258" visible="true" lat="43.905452314094" lon="-72.146306689537">
+    <!-- multiple: "192 U.S. Route 5 North, Fairlee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="192"/>
+    <tag k="addr:street" v="U.S. Route 5 North"/>
+    <tag k="addr:postcode" v="05045"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105428"/>
   </node>
   <node id="-259" visible="true" lat="43.905627041266" lon="-72.149084567045">
     <!-- multiple: "50 Lake Morey Road, Fairlee, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Lake Morey Road"/>
+    <tag k="addr:postcode" v="05045"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105429"/>
   </node>
@@ -21,7 +50,44 @@
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="51"/>
     <tag k="addr:street" v="Lake Morey Road"/>
+    <tag k="addr:postcode" v="05045"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="105447"/>
+  </node>
+  <node id="-279" visible="true" lat="43.903714262164" lon="-72.149781817859">
+    <!-- multiple: "9 U.S. Route 5 South, Fairlee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="U.S. Route 5 South"/>
+    <tag k="addr:postcode" v="05045"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105455"/>
+  </node>
+  <node id="-313" visible="true" lat="43.900521047629" lon="-72.157492565088">
+    <!-- multiple: "456 U.S. Route 5 South, Fairlee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="456"/>
+    <tag k="addr:street" v="U.S. Route 5 South"/>
+    <tag k="addr:postcode" v="05045"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="105495"/>
+  </node>
+  <node id="-721" visible="true" lat="43.922002865307" lon="-72.124548595544">
+    <!-- multiple: "1776 U.S. Route 5 North, Fairlee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="1776"/>
+    <tag k="addr:street" v="U.S. Route 5 North"/>
+    <tag k="addr:postcode" v="05045"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306066"/>
+  </node>
+  <node id="-887" visible="true" lat="43.919840149419" lon="-72.120896581476">
+    <!-- multiple: "1854 U.S. Route 5 North, Fairlee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="1854"/>
+    <tag k="addr:street" v="U.S. Route 5 North"/>
+    <tag k="addr:postcode" v="05045"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771922"/>
   </node>
 </osm>

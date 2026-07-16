@@ -5,6 +5,7 @@
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="88"/>
     <tag k="addr:street" v="Seymour Street"/>
+    <tag k="addr:postcode" v="05753"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="154289"/>
   </node>
@@ -13,14 +14,25 @@
     <tag k="addr:city" v="Middlebury"/>
     <tag k="addr:housenumber" v="1967"/>
     <tag k="addr:street" v="Munger Street"/>
+    <tag k="addr:postcode" v="05753"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156612"/>
+  </node>
+  <node id="-3025" visible="true" lat="43.981063946373" lon="-73.127674217222">
+    <!-- offset: "2340 U.S. Route 7 South, Middlebury, VT" Significant offset - 108.1m -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="2340"/>
+    <tag k="addr:street" v="U.S. Route 7 South"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454339"/>
   </node>
   <node id="-3149" visible="true" lat="43.955982653107" lon="-73.137704838809">
     <!-- offset: "2189 Middle Road, Salisbury, VT" Significant offset - 327.9m -->
     <tag k="addr:city" v="Salisbury"/>
     <tag k="addr:housenumber" v="2189"/>
     <tag k="addr:street" v="Middle Road"/>
+    <tag k="addr:postcode" v="05769"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760752"/>
   </node>

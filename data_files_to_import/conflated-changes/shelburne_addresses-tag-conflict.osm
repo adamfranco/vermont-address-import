@@ -5,23 +5,8 @@
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Queneska Island"/>
+    <tag k="addr:postcode" v="05482"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223143"/>
-  </node>
-  <node id="-3608" visible="true" lat="44.373679149029" lon="-73.137852031478">
-    <!-- conflict: "220 Scout Farm Road, Williston, VT" Fuzzy match to "220 Scout Farm Road, Shelburne, VT" -->
-    <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="220"/>
-    <tag k="addr:street" v="Scout Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="767666"/>
-  </node>
-  <node id="-3609" visible="true" lat="44.374894651474" lon="-73.137652753079">
-    <!-- conflict: "176 Scout Farm Road, Williston, VT" Fuzzy match to "176 Scout Farm Road, Shelburne, VT" -->
-    <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="176"/>
-    <tag k="addr:street" v="Scout Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="767667"/>
   </node>
 </osm>

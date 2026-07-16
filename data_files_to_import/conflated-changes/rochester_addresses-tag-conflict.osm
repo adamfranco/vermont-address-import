@@ -1,90 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-155" visible="true" lat="43.916888284281" lon="-72.748420515303">
-    <!-- conflict: "142 Little Hollow Road, Randolph, VT" Fuzzy match to "142 Little Hollow Road, Rochester, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="Little Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202219"/>
-  </node>
-  <node id="-162" visible="true" lat="43.914766465162" lon="-72.746369384445">
-    <!-- conflict: "258 Little Hollow Road, Randolph, VT" Fuzzy match to "258 Little Hollow Road, Rochester, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="258"/>
-    <tag k="addr:street" v="Little Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202226"/>
-  </node>
-  <node id="-189" visible="true" lat="43.905983285991" lon="-72.743148421875">
-    <!-- conflict: "1050 Little Hollow Road, Randolph, VT" Fuzzy match to "1050 Little Hollow Road, Rochester, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="1050"/>
-    <tag k="addr:street" v="Little Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202257"/>
-  </node>
-  <node id="-235" visible="true" lat="43.895736217381" lon="-72.741930410126">
-    <!-- conflict: "1744 Little Hollow Road, Randolph, VT" Fuzzy match to "1744 Little Hollow Road, Rochester, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="1744"/>
-    <tag k="addr:street" v="Little Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202304"/>
-  </node>
-  <node id="-242" visible="true" lat="43.893616994428" lon="-72.741753866801">
-    <!-- conflict: "1892 Little Hollow Road, Randolph, VT" Fuzzy match to "1892 Little Hollow Road, Rochester, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="1892"/>
-    <tag k="addr:street" v="Little Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202311"/>
-  </node>
-  <node id="-807" visible="true" lat="43.884455937914" lon="-72.742956217313">
-    <!-- conflict: "2475 Little Hollow Road, Randolph, VT" Fuzzy match to "2475 Little Hollow Road, Rochester, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="2475"/>
-    <tag k="addr:street" v="Little Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="202910"/>
-  </node>
-  <node id="-883" visible="true" lat="43.900502376482" lon="-72.743743483477">
-    <!-- conflict: "1300 Little Hollow Road, Randolph, VT" Fuzzy match to "1300 Little Hollow Road, Rochester, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="1300"/>
-    <tag k="addr:street" v="Little Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="323939"/>
-  </node>
-  <node id="-898" visible="true" lat="43.90427894341" lon="-72.743263191756">
-    <!-- conflict: "1070 Little Hollow Road, Randolph, VT" Fuzzy match to "1070 Little Hollow Road, Rochester, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="1070"/>
-    <tag k="addr:street" v="Little Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="336242"/>
-  </node>
-  <node id="-899" visible="true" lat="43.914941600533" lon="-72.748157960215">
-    <!-- conflict: "178 Little Hollow Road, Randolph, VT" Fuzzy match to "178 Little Hollow Road, Rochester, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="178"/>
-    <tag k="addr:street" v="Little Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="336243"/>
-  </node>
-  <node id="-933" visible="true" lat="43.886634093736" lon="-72.738341973516">
-    <!-- conflict: "45 Town Highway 67, Randolph, VT" Fuzzy match to "45 Town Highway 67, Rochester, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Town Highway 67"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344878"/>
-  </node>
   <node id="-972" visible="true" lat="43.877539251738" lon="-72.915624791069">
     <!-- conflict: "62 National Forest Road 42D, Rochester, VT" Fuzzy match to "62 National Forest Road 42d, Rochester, VT" -->
     <tag k="addr:city" v="Rochester"/>
     <tag k="addr:housenumber" v="62"/>
     <tag k="addr:street" v="National Forest Road 42D"/>
+    <tag k="addr:postcode" v="05767"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451284"/>
   </node>
@@ -93,6 +14,7 @@
     <tag k="addr:city" v="Rochester"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="National Forest Road 42I"/>
+    <tag k="addr:postcode" v="05767"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451285"/>
   </node>
@@ -101,15 +23,8 @@
     <tag k="addr:city" v="Rochester"/>
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:street" v="National Forest Road 62C"/>
+    <tag k="addr:postcode" v="05767"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451287"/>
-  </node>
-  <node id="-979" visible="true" lat="43.907874260405" lon="-72.714082873653">
-    <!-- conflict: "672 Albin Hill Road, Randolph, VT" Fuzzy match to "672 Albin Hill Road, Rochester, VT" -->
-    <tag k="addr:city" v="Randolph"/>
-    <tag k="addr:housenumber" v="672"/>
-    <tag k="addr:street" v="Albin Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="615122"/>
   </node>
 </osm>

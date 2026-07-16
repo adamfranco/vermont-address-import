@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1452" visible="true" lat="44.97419121015" lon="-73.104775915375">
-    <tag k="addr:city" v="Swanton"/>
-    <tag k="addr:housenumber" v="2934"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="127874"/>
-  </node>
   <node id="-1776" visible="true" lat="44.947439480523" lon="-73.111920493269">
     <tag k="addr:city" v="Swanton"/>
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:street" v="Terricel Boulevard"/>
+    <tag k="addr:postcode" v="05488"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315290"/>
   </node>
@@ -18,6 +12,7 @@
     <tag k="addr:city" v="Highgate Center"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Woods Lane"/>
+    <tag k="addr:postcode" v="05459"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760428"/>
   </node>
@@ -25,6 +20,7 @@
     <tag k="addr:city" v="Highgate Center"/>
     <tag k="addr:housenumber" v="2461"/>
     <tag k="addr:street" v="78"/>
+    <tag k="addr:postcode" v="05459"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773827"/>
   </node>
@@ -32,6 +28,7 @@
     <tag k="addr:city" v="Highgate Center"/>
     <tag k="addr:housenumber" v="205"/>
     <tag k="addr:street" v="Luke Street"/>
+    <tag k="addr:postcode" v="05459"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773849"/>
   </node>
@@ -39,6 +36,7 @@
     <tag k="addr:city" v="Highgate Center"/>
     <tag k="addr:housenumber" v="253"/>
     <tag k="addr:street" v="Ladimi Circle"/>
+    <tag k="addr:postcode" v="05459"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773859"/>
   </node>
@@ -46,6 +44,7 @@
     <tag k="addr:city" v="Highgate Center"/>
     <tag k="addr:housenumber" v="219"/>
     <tag k="addr:street" v="Ladimi Circle"/>
+    <tag k="addr:postcode" v="05459"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773860"/>
   </node>
@@ -53,6 +52,7 @@
     <tag k="addr:city" v="Highgate Center"/>
     <tag k="addr:housenumber" v="203"/>
     <tag k="addr:street" v="Ladimi Circle"/>
+    <tag k="addr:postcode" v="05459"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773861"/>
   </node>
@@ -60,6 +60,7 @@
     <tag k="addr:city" v="Highgate Center"/>
     <tag k="addr:housenumber" v="165"/>
     <tag k="addr:street" v="Ladimi Circle"/>
+    <tag k="addr:postcode" v="05459"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773862"/>
   </node>
@@ -67,14 +68,8 @@
     <tag k="addr:city" v="Highgate Center"/>
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:street" v="Woods Lane"/>
+    <tag k="addr:postcode" v="05459"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773906"/>
-  </node>
-  <node id="-2113" visible="true" lat="44.963009077863" lon="-73.109336439746">
-    <tag k="addr:city" v="Swanton"/>
-    <tag k="addr:housenumber" v="2155"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="900478"/>
   </node>
 </osm>

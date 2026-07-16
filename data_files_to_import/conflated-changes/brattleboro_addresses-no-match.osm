@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-6285" visible="true" lat="42.850959958452" lon="-72.556697133173">
-    <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Bridge Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36436"/>
-  </node>
   <node id="-6487" visible="true" lat="42.889080431542" lon="-72.590362559151">
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="1040"/>
     <tag k="addr:street" v="West River Road"/>
+    <tag k="addr:postcode" v="05301"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500041"/>
   </node>
@@ -18,6 +12,7 @@
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="807"/>
     <tag k="addr:street" v="Orchard Street"/>
+    <tag k="addr:postcode" v="05301"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656825"/>
   </node>

@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-310" visible="true" lat="44.14857515313" lon="-73.138351202633">
-    <!-- conflict: "5367 Plank Road, New Haven, VT" Fuzzy match to "5367 Plank Road, Bristol, VT" -->
-    <tag k="addr:city" v="New Haven"/>
-    <tag k="addr:housenumber" v="5367"/>
-    <tag k="addr:street" v="Plank Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="38991"/>
-  </node>
   <node id="-365" visible="true" lat="44.143081779373" lon="-73.082970830845">
     <!-- conflict: "117 North Street, Bristol, VT" No match in OSM, but a different address exists <5m away: "8168 Plank Road, Bristol, VT" -->
     <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="North Street"/>
+    <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="39056"/>
   </node>
   <node id="-1308" visible="true" lat="44.057048792563" lon="-73.054482894076">
-    <!-- conflict: "454 United States Route 2, Bristol, VT" No match in OSM, but a different address exists <5m away: "454 Beaver Meadow Trail, Bristol, VT" -->
+    <!-- conflict: "454 U.S. Route 2, Bristol, VT" No match in OSM, but a different address exists <5m away: "454 Beaver Meadow Trail, Bristol, VT" -->
     <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="454"/>
-    <tag k="addr:street" v="United States Route 2"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="40129"/>
   </node>
@@ -29,38 +23,16 @@
     <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:street" v="Green Mountain Drive"/>
+    <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="40160"/>
-  </node>
-  <node id="-1509" visible="true" lat="44.148864985228" lon="-73.139600261254">
-    <!-- conflict: "5305 Plank Road, New Haven, VT" Fuzzy match to "5305 Plank Road, Bristol, VT" -->
-    <tag k="addr:city" v="New Haven"/>
-    <tag k="addr:housenumber" v="5305"/>
-    <tag k="addr:street" v="Plank Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="316781"/>
-  </node>
-  <node id="-1563" visible="true" lat="44.146559686913" lon="-73.125004565263">
-    <!-- conflict: "5971 Plank Road, New Haven, VT" Fuzzy match to "5971 Plank Road, Bristol, VT" -->
-    <tag k="addr:city" v="New Haven"/>
-    <tag k="addr:housenumber" v="5971"/>
-    <tag k="addr:street" v="Plank Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333912"/>
-  </node>
-  <node id="-1564" visible="true" lat="44.147114854855" lon="-73.127087764316">
-    <!-- conflict: "5953 Plank Road, New Haven, VT" Fuzzy match to "5953 Plank Road, Bristol, VT" -->
-    <tag k="addr:city" v="New Haven"/>
-    <tag k="addr:housenumber" v="5953"/>
-    <tag k="addr:street" v="Plank Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333913"/>
   </node>
   <node id="-1584" visible="true" lat="44.156867381597" lon="-73.119434778752">
     <!-- conflict: "150 Jenne Drive, Bristol, VT" No match in OSM, but a different address exists <5m away: "150 Jeannes Way, Bristol, VT" -->
     <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="150"/>
     <tag k="addr:street" v="Jenne Drive"/>
+    <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336695"/>
   </node>
@@ -69,6 +41,7 @@
     <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="110"/>
     <tag k="addr:street" v="Jenne Drive"/>
+    <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345224"/>
   </node>
@@ -77,31 +50,8 @@
     <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:street" v="Jenne Drive"/>
+    <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345225"/>
-  </node>
-  <node id="-1630" visible="true" lat="44.152814252752" lon="-73.144073389139">
-    <!-- conflict: "4783 Plank Road, New Haven, VT" Fuzzy match to "4783 Plank Road, Bristol, VT" -->
-    <tag k="addr:city" v="New Haven"/>
-    <tag k="addr:housenumber" v="4783"/>
-    <tag k="addr:street" v="Plank Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="447766"/>
-  </node>
-  <node id="-1633" visible="true" lat="44.14911427327" lon="-73.143079187209">
-    <!-- conflict: "5295 Plank Road, New Haven, VT" Fuzzy match to "5295 Plank Road, Bristol, VT" -->
-    <tag k="addr:city" v="New Haven"/>
-    <tag k="addr:housenumber" v="5295"/>
-    <tag k="addr:street" v="Plank Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="448161"/>
-  </node>
-  <node id="-1845" visible="true" lat="44.169709355957" lon="-73.021223200495">
-    <!-- conflict: "687 Dan Sargent Road, Starksboro, VT" Fuzzy match to "687 Dan Sargent Road, Bristol, VT" -->
-    <tag k="addr:city" v="Starksboro"/>
-    <tag k="addr:housenumber" v="687"/>
-    <tag k="addr:street" v="Dan Sargent Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="764382"/>
   </node>
 </osm>

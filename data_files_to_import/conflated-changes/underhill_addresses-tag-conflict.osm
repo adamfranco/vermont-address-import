@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-294" visible="true" lat="44.580817904549" lon="-72.862563896342">
-    <!-- conflict: "1 Westman Road, Cambridge, VT" Fuzzy match to "1 Westman Road, Underhill, VT" -->
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Westman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="263519"/>
-  </node>
   <node id="-308" visible="true" lat="44.57782764408" lon="-72.938268891333">
     <!-- conflict: "169 Warner Creek, Underhill, VT" No match in OSM, but a different address exists <5m away: "17 Warner Creek, Underhill, VT" -->
     <tag k="addr:city" v="Underhill"/>
     <tag k="addr:housenumber" v="169"/>
     <tag k="addr:street" v="Warner Creek"/>
+    <tag k="addr:postcode" v="05489"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263533"/>
   </node>
@@ -21,6 +14,7 @@
     <tag k="addr:city" v="Underhill"/>
     <tag k="addr:housenumber" v="129"/>
     <tag k="addr:street" v="Warner Creek"/>
+    <tag k="addr:postcode" v="05489"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263539"/>
   </node>
@@ -29,6 +23,7 @@
     <tag k="addr:city" v="Underhill"/>
     <tag k="addr:housenumber" v="182"/>
     <tag k="addr:street" v="Warner Creek"/>
+    <tag k="addr:postcode" v="05489"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263541"/>
   </node>
@@ -37,39 +32,8 @@
     <tag k="addr:city" v="Underhill"/>
     <tag k="addr:housenumber" v="130"/>
     <tag k="addr:street" v="Warner Creek"/>
+    <tag k="addr:postcode" v="05489"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="263543"/>
-  </node>
-  <node id="-1397" visible="true" lat="44.578737093769" lon="-72.859420835791">
-    <!-- conflict: "24 Westman Road, Cambridge, VT" Fuzzy match to "24 Westman Road, Underhill, VT" -->
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Westman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="656003"/>
-  </node>
-  <node id="-1430" visible="true" lat="44.490667781189" lon="-72.906218500117">
-    <!-- conflict: "555 Poor Farm Road, Jericho, VT" Fuzzy match to "555 Poor Farm Road, Underhill, VT" -->
-    <tag k="addr:city" v="Jericho"/>
-    <tag k="addr:housenumber" v="555"/>
-    <tag k="addr:street" v="Poor Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755600"/>
-  </node>
-  <node id="-1431" visible="true" lat="44.486123855996" lon="-72.870284259789">
-    <!-- conflict: "1070 Feigel Hill Road, Jericho, VT" Fuzzy match to "1070 Feigel Hill Road, Underhill, VT" -->
-    <tag k="addr:city" v="Jericho"/>
-    <tag k="addr:housenumber" v="1070"/>
-    <tag k="addr:street" v="Feigel Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755638"/>
-  </node>
-  <node id="-1434" visible="true" lat="44.578412372515" lon="-72.858945797481">
-    <!-- conflict: "26 Westman Road, Cambridge, VT" Fuzzy match to "26 Westman Road, Underhill, VT" -->
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Westman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755768"/>
   </node>
 </osm>

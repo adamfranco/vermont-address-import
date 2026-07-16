@@ -5,6 +5,7 @@
     <tag k="addr:city" v="Worcester"/>
     <tag k="addr:housenumber" v="206"/>
     <tag k="addr:street" v="Wildlife Way"/>
+    <tag k="addr:postcode" v="05682"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="304443"/>
   </node>
@@ -13,30 +14,16 @@
     <tag k="addr:city" v="Worcester"/>
     <tag k="addr:housenumber" v="411"/>
     <tag k="addr:street" v="Wildlife Way"/>
+    <tag k="addr:postcode" v="05682"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="304465"/>
-  </node>
-  <node id="-486" visible="true" lat="44.355758116869" lon="-72.565037492652">
-    <!-- conflict: "355 Worcester Village Road, Montpelier, VT" Fuzzy match to "355 Worcester Village Road, Worcester, VT" -->
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Worcester Village Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="304654"/>
-  </node>
-  <node id="-487" visible="true" lat="44.353790855887" lon="-72.56497210963">
-    <!-- conflict: "383 Worcester Village Road, Montpelier, VT" Fuzzy match to "383 Worcester Village Road, Worcester, VT" -->
-    <tag k="addr:city" v="Montpelier"/>
-    <tag k="addr:housenumber" v="383"/>
-    <tag k="addr:street" v="Worcester Village Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="304655"/>
   </node>
   <node id="-503" visible="true" lat="44.396078051343" lon="-72.568025924195">
     <!-- conflict: "65 Trail 18, Worcester, VT" No match in OSM, but a different address exists <5m away: "65 Trl 18, Worcester, VT" -->
     <tag k="addr:city" v="Worcester"/>
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Trail 18"/>
+    <tag k="addr:postcode" v="05682"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="304671"/>
   </node>
@@ -45,6 +32,7 @@
     <tag k="addr:city" v="Worcester"/>
     <tag k="addr:housenumber" v="66"/>
     <tag k="addr:street" v="Trail 18"/>
+    <tag k="addr:postcode" v="05682"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758085"/>
   </node>
@@ -53,6 +41,7 @@
     <tag k="addr:city" v="Worcester"/>
     <tag k="addr:housenumber" v="410"/>
     <tag k="addr:street" v="Wildlife Way"/>
+    <tag k="addr:postcode" v="05682"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771806"/>
   </node>

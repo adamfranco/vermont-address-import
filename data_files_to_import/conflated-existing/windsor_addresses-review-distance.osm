@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-109" visible="true" lat="43.519002221301" lon="-72.401841315015">
+    <!-- offset: "89 U.S. Route 5 North, Windsor, VT" Significant offset - 622.9m -->
+    <tag k="addr:city" v="Windsor"/>
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="U.S. Route 5 North"/>
+    <tag k="addr:postcode" v="05089"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295371"/>
+  </node>
+  <node id="-321" visible="true" lat="43.49089964925" lon="-72.38579381837">
+    <!-- offset: "2419 U.S. Route 5 North, Windsor, VT" Significant offset - 330m -->
+    <tag k="addr:city" v="Windsor"/>
+    <tag k="addr:housenumber" v="2419"/>
+    <tag k="addr:street" v="U.S. Route 5 North"/>
+    <tag k="addr:postcode" v="05089"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="295599"/>
+  </node>
   <node id="-663" visible="true" lat="43.477941126904" lon="-72.384501050625">
     <!-- offset: "26 River Street, Windsor, VT" Significant offset - 210.9m -->
     <tag k="addr:city" v="Windsor"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:street" v="River Street"/>
+    <tag k="addr:postcode" v="05089"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="295994"/>
   </node>

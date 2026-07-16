@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-112" visible="true" lat="44.7649817233" lon="-73.286675984208">
+    <!-- multiple: "412 U.S. Route 2, Grand Isle, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="412"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05458"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="113404"/>
+  </node>
   <node id="-537" visible="true" lat="44.716983445427" lon="-73.310336528209">
     <!-- multiple: "58 Reynolds Road, Grand Isle, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:housenumber" v="58"/>
     <tag k="addr:street" v="Reynolds Road"/>
+    <tag k="addr:postcode" v="05458"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="113846"/>
   </node>
@@ -13,6 +23,7 @@
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:postcode" v="05458"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="114236"/>
   </node>
@@ -21,6 +32,7 @@
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Island Circle"/>
+    <tag k="addr:postcode" v="05458"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337559"/>
   </node>
@@ -29,6 +41,7 @@
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Island Circle"/>
+    <tag k="addr:postcode" v="05458"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="337560"/>
   </node>
@@ -37,6 +50,7 @@
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:postcode" v="05458"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338288"/>
   </node>
@@ -45,6 +59,7 @@
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:housenumber" v="108"/>
     <tag k="addr:street" v="Allen Road"/>
+    <tag k="addr:postcode" v="05458"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762591"/>
   </node>
@@ -53,6 +68,7 @@
     <tag k="addr:city" v="Grand Isle"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Island Circle"/>
+    <tag k="addr:postcode" v="05458"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762601"/>
   </node>

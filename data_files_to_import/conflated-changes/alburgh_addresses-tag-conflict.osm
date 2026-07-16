@@ -1,154 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-112" visible="true" lat="44.965726387446" lon="-73.298440530157">
-    <!-- conflict: "969 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "969 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="969"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1711"/>
-  </node>
   <node id="-114" visible="true" lat="44.900884708279" lon="-73.302548442172">
     <!-- conflict: "236 Hilltop Road, Alburgh, VT" No match in OSM, but a different address exists <5m away: "28 Hilltop Road, Alburgh, VT" -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="236"/>
     <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1713"/>
-  </node>
-  <node id="-118" visible="true" lat="44.892507842519" lon="-73.279376674716">
-    <!-- conflict: "7250 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7250 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7250"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1717"/>
-  </node>
-  <node id="-119" visible="true" lat="44.891686258064" lon="-73.278879785872">
-    <!-- conflict: "7320 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7320 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7320"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1718"/>
-  </node>
-  <node id="-126" visible="true" lat="44.950958788763" lon="-73.270795357942">
-    <!-- conflict: "2911 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2911 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2911"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1725"/>
   </node>
   <node id="-187" visible="true" lat="44.907415861722" lon="-73.285700569318">
     <!-- conflict: "1000 Summit Road, Alburgh, VT" No match in OSM, but a different address exists <5m away: "106 Summit Road, Alburgh, VT" -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="1000"/>
     <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1786"/>
-  </node>
-  <node id="-189" visible="true" lat="44.888774049399" lon="-73.277705065558">
-    <!-- conflict: "7519 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7519 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7519"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1788"/>
-  </node>
-  <node id="-190" visible="true" lat="44.889034733123" lon="-73.27772190712">
-    <!-- conflict: "7509 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7509 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7509"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1789"/>
-  </node>
-  <node id="-191" visible="true" lat="44.889830585135" lon="-73.277741859909">
-    <!-- conflict: "7453 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7453 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7453"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1790"/>
-  </node>
-  <node id="-192" visible="true" lat="44.889435900307" lon="-73.277805972435">
-    <!-- conflict: "7459 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7459 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7459"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1791"/>
-  </node>
-  <node id="-193" visible="true" lat="44.88920664925" lon="-73.277871872249">
-    <!-- conflict: "7481 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7481 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7481"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1792"/>
   </node>
   <node id="-242" visible="true" lat="44.911069310246" lon="-73.280695153373">
     <!-- conflict: "1388 Summit Road, Alburgh, VT" No match in OSM, but a different address exists <5m away: "148 Summit Road, Alburgh, VT" -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="1388"/>
     <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1842"/>
-  </node>
-  <node id="-243" visible="true" lat="44.937188084635" lon="-73.274509378723">
-    <!-- conflict: "3888 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3888 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3888"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1843"/>
-  </node>
-  <node id="-348" visible="true" lat="44.931439965266" lon="-73.27385344055">
-    <!-- conflict: "4309 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4309 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4309"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1951"/>
-  </node>
-  <node id="-369" visible="true" lat="44.963935050715" lon="-73.297185968932">
-    <!-- conflict: "1000 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1000 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1000"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1974"/>
-  </node>
-  <node id="-416" visible="true" lat="44.918418562408" lon="-73.276018796585">
-    <!-- conflict: "5248 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5248 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5248"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2021"/>
-  </node>
-  <node id="-417" visible="true" lat="44.91673326339" lon="-73.281757321912">
-    <!-- conflict: "5366 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5366 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5366"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2022"/>
-  </node>
-  <node id="-418" visible="true" lat="44.917123467671" lon="-73.281792650656">
-    <!-- conflict: "5362 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5362 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5362"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2023"/>
   </node>
   <node id="-431" visible="true" lat="44.911216152181" lon="-73.269204129815">
     <!-- conflict: "476 Wagner Point Road, Alburgh, VT" No match in OSM, but a different address exists <5m away: "50 Wagner Point Road, Alburgh, VT" -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="476"/>
     <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2036"/>
   </node>
@@ -157,6 +41,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="230"/>
     <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2037"/>
   </node>
@@ -165,6 +50,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="190"/>
     <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2038"/>
   </node>
@@ -173,6 +59,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="92"/>
     <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2040"/>
   </node>
@@ -181,6 +68,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="568"/>
     <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2073"/>
   </node>
@@ -189,6 +77,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="1500"/>
     <tag k="addr:street" v="Vermont Route 129"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2086"/>
   </node>
@@ -197,6 +86,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="44"/>
     <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2096"/>
   </node>
@@ -205,6 +95,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="46"/>
     <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2097"/>
   </node>
@@ -213,6 +104,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="136"/>
     <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2099"/>
   </node>
@@ -221,6 +113,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="170"/>
     <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2100"/>
   </node>
@@ -229,6 +122,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="200"/>
     <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2101"/>
   </node>
@@ -237,6 +131,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="216"/>
     <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2102"/>
   </node>
@@ -245,6 +140,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="750"/>
     <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2103"/>
   </node>
@@ -253,6 +149,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="114"/>
     <tag k="addr:street" v="Macomber Point"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2112"/>
   </node>
@@ -261,6 +158,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="138"/>
     <tag k="addr:street" v="Macomber Point"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2113"/>
   </node>
@@ -269,6 +167,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:street" v="Macomber Point"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2114"/>
   </node>
@@ -277,694 +176,16 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Macomber Point"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2116"/>
-  </node>
-  <node id="-638" visible="true" lat="44.956670639403" lon="-73.273123302113">
-    <!-- conflict: "2497 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2497 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2497"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2250"/>
-  </node>
-  <node id="-639" visible="true" lat="44.956797182276" lon="-73.274474689698">
-    <!-- conflict: "2460 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2460 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2460"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2251"/>
-  </node>
-  <node id="-641" visible="true" lat="44.957768349732" lon="-73.273998837313">
-    <!-- conflict: "2407 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2407 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2407"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2253"/>
-  </node>
-  <node id="-642" visible="true" lat="44.955142722004" lon="-73.271642225649">
-    <!-- conflict: "2631 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2631 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2631"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2254"/>
-  </node>
-  <node id="-643" visible="true" lat="44.955403018696" lon="-73.272130858635">
-    <!-- conflict: "2599 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2599 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2599"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2255"/>
-  </node>
-  <node id="-644" visible="true" lat="44.955233619755" lon="-73.272612750176">
-    <!-- conflict: "2584 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2584 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2584"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2256"/>
-  </node>
-  <node id="-645" visible="true" lat="44.955656788491" lon="-73.272283148907">
-    <!-- conflict: "2561 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2561 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2561"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2257"/>
-  </node>
-  <node id="-646" visible="true" lat="44.956064272282" lon="-73.272450082636">
-    <!-- conflict: "2547 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2547 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2547"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2258"/>
-  </node>
-  <node id="-647" visible="true" lat="44.955716297299" lon="-73.272996008307">
-    <!-- conflict: "2544 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2544 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2544"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2259"/>
-  </node>
-  <node id="-649" visible="true" lat="44.95428398637" lon="-73.271562395719">
-    <!-- conflict: "2672 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2672 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2672"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2261"/>
-  </node>
-  <node id="-650" visible="true" lat="44.95404634045" lon="-73.271355471396">
-    <!-- conflict: "2692 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2692 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2692"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2262"/>
-  </node>
-  <node id="-651" visible="true" lat="44.951655846336" lon="-73.270651586955">
-    <!-- conflict: "2855 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2855 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2855"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2263"/>
-  </node>
-  <node id="-652" visible="true" lat="44.952286451999" lon="-73.270533109108">
-    <!-- conflict: "2835 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2835 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2835"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2264"/>
-  </node>
-  <node id="-654" visible="true" lat="44.949739581392" lon="-73.272579785394">
-    <!-- conflict: "3022 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3022 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3022"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2266"/>
-  </node>
-  <node id="-655" visible="true" lat="44.948480505633" lon="-73.272173446878">
-    <!-- conflict: "3125 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3125 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3125"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2267"/>
-  </node>
-  <node id="-656" visible="true" lat="44.948809673852" lon="-73.271954734655">
-    <!-- conflict: "3071 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3071 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3071"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2268"/>
-  </node>
-  <node id="-660" visible="true" lat="44.965062631396" lon="-73.284448215883">
-    <!-- conflict: "1677 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1677 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1677"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2272"/>
-  </node>
-  <node id="-662" visible="true" lat="44.962315474168" lon="-73.280281302522">
-    <!-- conflict: "1983 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1983 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1983"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2274"/>
-  </node>
-  <node id="-663" visible="true" lat="44.961621772955" lon="-73.28025204778">
-    <!-- conflict: "1996 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1996 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1996"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2275"/>
-  </node>
-  <node id="-664" visible="true" lat="44.959737672659" lon="-73.277500472129">
-    <!-- conflict: "2154 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2154 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2154"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2276"/>
-  </node>
-  <node id="-665" visible="true" lat="44.948499266237" lon="-73.273295458749">
-    <!-- conflict: "3102 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3102 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3102"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2277"/>
-  </node>
-  <node id="-666" visible="true" lat="44.948997541742" lon="-73.272937268601">
-    <!-- conflict: "3082 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3082 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3082"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2278"/>
-  </node>
-  <node id="-667" visible="true" lat="44.957294051585" lon="-73.274882221287">
-    <!-- conflict: "2406 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2406 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2406"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2279"/>
-  </node>
-  <node id="-695" visible="true" lat="44.965472468072" lon="-73.297619139882">
-    <!-- conflict: "1061 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1061 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1061"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2307"/>
-  </node>
-  <node id="-696" visible="true" lat="44.965596760946" lon="-73.297208797407">
-    <!-- conflict: "1081 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1081 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1081"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2308"/>
-  </node>
-  <node id="-697" visible="true" lat="44.964588547679" lon="-73.296886798528">
-    <!-- conflict: "1092 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1092 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1092"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2309"/>
-  </node>
-  <node id="-698" visible="true" lat="44.965865800685" lon="-73.296253532927">
-    <!-- conflict: "1099 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1099 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1099"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2310"/>
-  </node>
-  <node id="-699" visible="true" lat="44.965050940659" lon="-73.295394913264">
-    <!-- conflict: "1158 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1158 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1158"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2311"/>
-  </node>
-  <node id="-700" visible="true" lat="44.964978706386" lon="-73.296113563004">
-    <!-- conflict: "1130 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1130 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1130"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2312"/>
-  </node>
-  <node id="-701" visible="true" lat="44.965098879226" lon="-73.294410746875">
-    <!-- conflict: "1212 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1212 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1212"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2313"/>
-  </node>
-  <node id="-702" visible="true" lat="44.965067677677" lon="-73.294174682453">
-    <!-- conflict: "1226 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1226 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1226"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2314"/>
-  </node>
-  <node id="-703" visible="true" lat="44.965060418143" lon="-73.293764945964">
-    <!-- conflict: "1246 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1246 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1246"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2315"/>
-  </node>
-  <node id="-704" visible="true" lat="44.965811104026" lon="-73.293712021867">
-    <!-- conflict: "1255 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1255 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1255"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2316"/>
-  </node>
-  <node id="-705" visible="true" lat="44.965617570972" lon="-73.293238110037">
-    <!-- conflict: "1269 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1269 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1269"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2317"/>
-  </node>
-  <node id="-706" visible="true" lat="44.965494877694" lon="-73.292724218291">
-    <!-- conflict: "1295 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1295 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1295"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2318"/>
-  </node>
-  <node id="-707" visible="true" lat="44.965648847574" lon="-73.292415326822">
-    <!-- conflict: "1311 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1311 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1311"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2319"/>
-  </node>
-  <node id="-708" visible="true" lat="44.965008246925" lon="-73.289682076274">
-    <!-- conflict: "1442 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1442 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1442"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2320"/>
-  </node>
-  <node id="-709" visible="true" lat="44.965898413597" lon="-73.288807773206">
-    <!-- conflict: "1463 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1463 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1463"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2321"/>
-  </node>
-  <node id="-710" visible="true" lat="44.965101646453" lon="-73.289229965049">
-    <!-- conflict: "1466 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1466 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1466"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2322"/>
-  </node>
-  <node id="-711" visible="true" lat="44.964998903625" lon="-73.288824675006">
-    <!-- conflict: "1484 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1484 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1484"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2323"/>
-  </node>
-  <node id="-712" visible="true" lat="44.965098373755" lon="-73.288422113317">
-    <!-- conflict: "1500 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1500 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1500"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2324"/>
-  </node>
-  <node id="-742" visible="true" lat="44.967076789868" lon="-73.291421484784">
-    <!-- conflict: "1409 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1409 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1409"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2355"/>
-  </node>
-  <node id="-743" visible="true" lat="44.964774508545" lon="-73.292666479431">
-    <!-- conflict: "1288 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1288 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1288"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2356"/>
-  </node>
-  <node id="-746" visible="true" lat="44.98865653653" lon="-73.293946816155">
-    <!-- conflict: "834 United States Route 2 North, Alburgh, VT" No match in OSM, but a different address exists <5m away: "834 U.S. Route 2 North, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="834"/>
-    <tag k="addr:street" v="United States Route 2 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2360"/>
-  </node>
-  <node id="-816" visible="true" lat="44.965093032698" lon="-73.302269613793">
-    <!-- conflict: "830 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "830 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="830"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2435"/>
-  </node>
-  <node id="-817" visible="true" lat="44.965661537938" lon="-73.300279214283">
-    <!-- conflict: "937 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "937 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="937"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2436"/>
-  </node>
-  <node id="-818" visible="true" lat="44.965737830392" lon="-73.299600198829">
-    <!-- conflict: "939 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "939 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="939"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2437"/>
-  </node>
-  <node id="-961" visible="true" lat="44.965762023105" lon="-73.298875707996">
-    <!-- conflict: "967 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "967 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="967"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2587"/>
-  </node>
-  <node id="-969" visible="true" lat="44.999608938366" lon="-73.330080487573">
-    <!-- conflict: "3030 United States Route 2 North, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3030 U.S. Route 2 North, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3030"/>
-    <tag k="addr:street" v="United States Route 2 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2595"/>
-  </node>
-  <node id="-1005" visible="true" lat="44.994862664517" lon="-73.320919137398">
-    <!-- conflict: "2361 United States Route 2 North, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2361 U.S. Route 2 North, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2361"/>
-    <tag k="addr:street" v="United States Route 2 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2635"/>
-  </node>
-  <node id="-1006" visible="true" lat="44.993090820381" lon="-73.320061388672">
-    <!-- conflict: "2226 United States Route 2 North, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2226 U.S. Route 2 North, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2226"/>
-    <tag k="addr:street" v="United States Route 2 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2636"/>
-  </node>
-  <node id="-1010" visible="true" lat="44.935465632426" lon="-73.273374673914">
-    <!-- conflict: "4036 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4036 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4036"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2640"/>
-  </node>
-  <node id="-1011" visible="true" lat="44.936049887708" lon="-73.272762545019">
-    <!-- conflict: "4003 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4003 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4003"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2641"/>
-  </node>
-  <node id="-1012" visible="true" lat="44.930971232388" lon="-73.273997029263">
-    <!-- conflict: "4353 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4353 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4353"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2642"/>
-  </node>
-  <node id="-1013" visible="true" lat="44.925764225875" lon="-73.272284972386">
-    <!-- conflict: "4695 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4695 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4695"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2643"/>
-  </node>
-  <node id="-1014" visible="true" lat="44.92010046288" lon="-73.274113098436">
-    <!-- conflict: "5091 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5091 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5091"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2644"/>
-  </node>
-  <node id="-1016" visible="true" lat="44.945915116201" lon="-73.274307303769">
-    <!-- conflict: "3286 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3286 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3286"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2646"/>
-  </node>
-  <node id="-1017" visible="true" lat="44.943185789093" lon="-73.275103239581">
-    <!-- conflict: "3470 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3470 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3470"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2647"/>
-  </node>
-  <node id="-1018" visible="true" lat="44.931211125012" lon="-73.275177894995">
-    <!-- conflict: "4338 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4338 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4338"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2650"/>
-  </node>
-  <node id="-1019" visible="true" lat="44.929818870917" lon="-73.274823570835">
-    <!-- conflict: "4422 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4422 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4422"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2651"/>
-  </node>
-  <node id="-1020" visible="true" lat="44.929065706233" lon="-73.275214622343">
-    <!-- conflict: "4490 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4490 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4490"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2652"/>
-  </node>
-  <node id="-1021" visible="true" lat="44.927877117206" lon="-73.277851002093">
-    <!-- conflict: "4550 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4550 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4550"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2653"/>
-  </node>
-  <node id="-1022" visible="true" lat="44.926798383073" lon="-73.274791514672">
-    <!-- conflict: "4642 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4642 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4642"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2654"/>
-  </node>
-  <node id="-1023" visible="true" lat="44.923873846765" lon="-73.2744077218">
-    <!-- conflict: "4840 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4840 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4840"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2655"/>
-  </node>
-  <node id="-1025" visible="true" lat="44.921918157163" lon="-73.274229749542">
-    <!-- conflict: "4980 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4980 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4980"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2657"/>
-  </node>
-  <node id="-1026" visible="true" lat="44.919479536876" lon="-73.275757457559">
-    <!-- conflict: "5176 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5176 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5176"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2658"/>
-  </node>
-  <node id="-1027" visible="true" lat="44.919781621284" lon="-73.275708294239">
-    <!-- conflict: "5138 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5138 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5138"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2659"/>
-  </node>
-  <node id="-1029" visible="true" lat="44.916217489743" lon="-73.277395310904">
-    <!-- conflict: "5410 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5410 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5410"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2662"/>
-  </node>
-  <node id="-1030" visible="true" lat="44.909815398334" lon="-73.280448205003">
-    <!-- conflict: "5882 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5882 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5882"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2663"/>
-  </node>
-  <node id="-1031" visible="true" lat="44.910597141552" lon="-73.27973412264">
-    <!-- conflict: "5821 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5821 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5821"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2664"/>
-  </node>
-  <node id="-1033" visible="true" lat="44.906570440262" lon="-73.278613611218">
-    <!-- conflict: "6111 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "6111 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="6111"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2666"/>
-  </node>
-  <node id="-1034" visible="true" lat="44.906284712592" lon="-73.279044390134">
-    <!-- conflict: "6104 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "6104 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="6104"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2667"/>
-  </node>
-  <node id="-1035" visible="true" lat="44.906538286354" lon="-73.279557567437">
-    <!-- conflict: "6100 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "6100 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="6100"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2668"/>
-  </node>
-  <node id="-1036" visible="true" lat="44.906726233505" lon="-73.277969943941">
-    <!-- conflict: "6153 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "6153 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="6153"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2669"/>
-  </node>
-  <node id="-1038" visible="true" lat="44.900798227921" lon="-73.274235413567">
-    <!-- conflict: "6670 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "6670 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="6670"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2671"/>
-  </node>
-  <node id="-1039" visible="true" lat="44.894062185191" lon="-73.277638318048">
-    <!-- conflict: "7146 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7146 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7146"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2672"/>
-  </node>
-  <node id="-1040" visible="true" lat="44.893439274414" lon="-73.278436543442">
-    <!-- conflict: "7200 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7200 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7200"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2673"/>
-  </node>
-  <node id="-1041" visible="true" lat="44.893173952294" lon="-73.278122313631">
-    <!-- conflict: "7222 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7222 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7222"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2674"/>
-  </node>
-  <node id="-1042" visible="true" lat="44.891938684566" lon="-73.279473843293">
-    <!-- conflict: "7290 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7290 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7290"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2675"/>
-  </node>
-  <node id="-1043" visible="true" lat="44.887431830595" lon="-73.278121125621">
-    <!-- conflict: "7609 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7609 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7609"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2676"/>
-  </node>
-  <node id="-1044" visible="true" lat="44.887844295516" lon="-73.278028365021">
-    <!-- conflict: "7605 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7605 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7605"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2677"/>
-  </node>
-  <node id="-1045" visible="true" lat="44.88836286698" lon="-73.278111183101">
-    <!-- conflict: "7549 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7549 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7549"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2679"/>
-  </node>
-  <node id="-1046" visible="true" lat="44.888854559791" lon="-73.279350609244">
-    <!-- conflict: "7532 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7532 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7532"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2680"/>
-  </node>
-  <node id="-1047" visible="true" lat="44.891477106495" lon="-73.278550684676">
-    <!-- conflict: "7348 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7348 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7348"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2681"/>
-  </node>
-  <node id="-1048" visible="true" lat="44.890410488947" lon="-73.27959952284">
-    <!-- conflict: "7418 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7418 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7418"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2682"/>
   </node>
   <node id="-1109" visible="true" lat="44.885903076075" lon="-73.283640388692">
     <!-- conflict: "120 Railroad Extension, Alburgh, VT" No match in OSM, but a different address exists <5m away: "10 Railroad Extension, Alburgh, VT" -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="120"/>
     <tag k="addr:street" v="Railroad Extension"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2745"/>
   </node>
@@ -973,6 +194,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="146"/>
     <tag k="addr:street" v="Railroad Extension"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2746"/>
   </node>
@@ -981,6 +203,7 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="240"/>
     <tag k="addr:street" v="Railroad Extension"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2747"/>
   </node>
@@ -989,471 +212,35 @@
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="278"/>
     <tag k="addr:street" v="Railroad Extension"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="2748"/>
-  </node>
-  <node id="-1147" visible="true" lat="44.925638730199" lon="-73.278871690587">
-    <!-- conflict: "4552 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4552 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4552"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2784"/>
-  </node>
-  <node id="-1155" visible="true" lat="44.891187190326" lon="-73.279695094425">
-    <!-- conflict: "7360 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7360 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7360"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2794"/>
-  </node>
-  <node id="-1164" visible="true" lat="44.920522602334" lon="-73.27465972862">
-    <!-- conflict: "5066 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5066 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5066"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2805"/>
-  </node>
-  <node id="-1182" visible="true" lat="44.905904221733" lon="-73.279022794367">
-    <!-- conflict: "6130 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "6130 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="6130"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2826"/>
-  </node>
-  <node id="-1204" visible="true" lat="44.887986762978" lon="-73.27932555299">
-    <!-- conflict: "7586 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7586 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7586"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2854"/>
-  </node>
-  <node id="-1205" visible="true" lat="44.887919526485" lon="-73.278860723396">
-    <!-- conflict: "7584 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7584 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7584"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2855"/>
-  </node>
-  <node id="-1208" visible="true" lat="44.888627482516" lon="-73.278113325574">
-    <!-- conflict: "7521 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7521 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7521"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2858"/>
-  </node>
-  <node id="-1209" visible="true" lat="44.889012655103" lon="-73.2781145631">
-    <!-- conflict: "7507 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7507 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7507"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2859"/>
-  </node>
-  <node id="-1247" visible="true" lat="44.950588804914" lon="-73.272003838027">
-    <!-- conflict: "2946 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2946 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2946"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="2910"/>
-  </node>
-  <node id="-1505" visible="true" lat="44.957021247795" lon="-73.27349240106">
-    <!-- conflict: "2465 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2465 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2465"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3173"/>
-  </node>
-  <node id="-1508" visible="true" lat="44.951385897729" lon="-73.270803381514">
-    <!-- conflict: "2905 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2905 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2905"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3176"/>
-  </node>
-  <node id="-1509" visible="true" lat="44.950097571011" lon="-73.271585051259">
-    <!-- conflict: "2983 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2983 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2983"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3177"/>
-  </node>
-  <node id="-1510" visible="true" lat="44.949385489241" lon="-73.271856167299">
-    <!-- conflict: "3025 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3025 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3025"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3178"/>
-  </node>
-  <node id="-1512" visible="true" lat="44.961751320881" lon="-73.279138490214">
-    <!-- conflict: "2045 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2045 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2045"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3180"/>
-  </node>
-  <node id="-1516" visible="true" lat="44.996784023574" lon="-73.331600572441">
-    <!-- conflict: "3071 United States Route 2 North, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3071 U.S. Route 2 North, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3071"/>
-    <tag k="addr:street" v="United States Route 2 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3185"/>
-  </node>
-  <node id="-1518" visible="true" lat="44.925382775668" lon="-73.273717135536">
-    <!-- conflict: "4737 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4737 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4737"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3187"/>
-  </node>
-  <node id="-1519" visible="true" lat="44.942313079045" lon="-73.275234210875">
-    <!-- conflict: "3560 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3560 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3560"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3188"/>
-  </node>
-  <node id="-1520" visible="true" lat="44.928353608189" lon="-73.275259717521">
-    <!-- conflict: "4516 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4516 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4516"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3189"/>
-  </node>
-  <node id="-1521" visible="true" lat="44.912852293636" lon="-73.280536492604">
-    <!-- conflict: "5700 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5700 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5700"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3190"/>
-  </node>
-  <node id="-1522" visible="true" lat="44.900288573184" lon="-73.274446745572">
-    <!-- conflict: "6700 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "6700 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="6700"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3191"/>
-  </node>
-  <node id="-1547" visible="true" lat="44.950477113668" lon="-73.271508358241">
-    <!-- conflict: "2943 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2943 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2943"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="3219"/>
-  </node>
-  <node id="-1593" visible="true" lat="44.994352886419" lon="-73.32100121385">
-    <!-- conflict: "2319 United States Route 2 North, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2319 U.S. Route 2 North, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2319"/>
-    <tag k="addr:street" v="United States Route 2 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306696"/>
-  </node>
-  <node id="-1621" visible="true" lat="44.933424951553" lon="-73.269056593625">
-    <!-- conflict: "4185 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4185 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4185"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306736"/>
-  </node>
-  <node id="-1622" visible="true" lat="44.932864802832" lon="-73.270437936454">
-    <!-- conflict: "4183 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4183 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4183"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306737"/>
-  </node>
-  <node id="-1623" visible="true" lat="44.932636373266" lon="-73.274275702506">
-    <!-- conflict: "4236 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4236 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4236"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306738"/>
-  </node>
-  <node id="-1632" visible="true" lat="44.930130394891" lon="-73.271092255948">
-    <!-- conflict: "4391 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4391 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4391"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="306755"/>
   </node>
   <node id="-1635" visible="true" lat="44.909737071716" lon="-73.269252924772">
     <!-- conflict: "390 Wagner Point Road, Alburgh, VT" No match in OSM, but a different address exists <5m away: "34 Wagner Point Road, Alburgh, VT" -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="390"/>
     <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306758"/>
-  </node>
-  <node id="-1669" visible="true" lat="44.930446397315" lon="-73.276043215266">
-    <!-- conflict: "4360 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4360 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4360"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="313358"/>
-  </node>
-  <node id="-1672" visible="true" lat="44.91790532128" lon="-73.280653565134">
-    <!-- conflict: "5310 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5310 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5310"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="313361"/>
   </node>
   <node id="-1692" visible="true" lat="44.910144443367" lon="-73.269199201482">
     <!-- conflict: "410 Wagner Point Road, Alburgh, VT" No match in OSM, but a different address exists <5m away: "36 Wagner Point Road, Alburgh, VT" -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="410"/>
     <tag k="addr:street" v="Wagner Point Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="327145"/>
-  </node>
-  <node id="-1704" visible="true" lat="44.915687699861" lon="-73.276975798231">
-    <!-- conflict: "5423 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5423 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5423"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="328106"/>
-  </node>
-  <node id="-1705" visible="true" lat="44.966358814496" lon="-73.29325600922">
-    <!-- conflict: "1257 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1257 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1257"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="328113"/>
-  </node>
-  <node id="-1715" visible="true" lat="44.949609901327" lon="-73.269927757116">
-    <!-- conflict: "3023 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3023 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3023"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="332382"/>
-  </node>
-  <node id="-1812" visible="true" lat="44.916299107086" lon="-73.276029335512">
-    <!-- conflict: "5401 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5401 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5401"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333994"/>
-  </node>
-  <node id="-2006" visible="true" lat="44.965696085804" lon="-73.297037737946">
-    <!-- conflict: "1083 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1083 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1083"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613227"/>
-  </node>
-  <node id="-2011" visible="true" lat="44.965710416023" lon="-73.28811182888">
-    <!-- conflict: "1501 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1501 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1501"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613234"/>
-  </node>
-  <node id="-2022" visible="true" lat="44.954474304284" lon="-73.271751175493">
-    <!-- conflict: "2650 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2650 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2650"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613259"/>
-  </node>
-  <node id="-2023" visible="true" lat="44.95059840566" lon="-73.273476269613">
-    <!-- conflict: "2982 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2982 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2982"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613263"/>
-  </node>
-  <node id="-2032" visible="true" lat="44.944255800938" lon="-73.275558506872">
-    <!-- conflict: "3432 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3432 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3432"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613274"/>
-  </node>
-  <node id="-2034" visible="true" lat="44.935776112035" lon="-73.272453101153">
-    <!-- conflict: "4005 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4005 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4005"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613276"/>
-  </node>
-  <node id="-2036" visible="true" lat="44.934546689232" lon="-73.273899755661">
-    <!-- conflict: "4150 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4150 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4150"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613280"/>
-  </node>
-  <node id="-2037" visible="true" lat="44.92629705815" lon="-73.274824582579">
-    <!-- conflict: "4668 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4668 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4668"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613284"/>
-  </node>
-  <node id="-2044" visible="true" lat="44.914794584519" lon="-73.279088724459">
-    <!-- conflict: "5512 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5512 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5512"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613292"/>
   </node>
   <node id="-2045" visible="true" lat="44.911817558189" lon="-73.282140481227">
     <!-- conflict: "1309 Summit Road, Alburgh, VT" No match in OSM, but a different address exists <5m away: "145 Summit Road, Alburgh, VT" -->
     <tag k="addr:city" v="Alburgh"/>
     <tag k="addr:housenumber" v="1309"/>
     <tag k="addr:street" v="Summit Road"/>
+    <tag k="addr:postcode" v="05440"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="613293"/>
-  </node>
-  <node id="-2046" visible="true" lat="44.924361755129" lon="-73.275292895563">
-    <!-- conflict: "4752 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4752 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4752"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613294"/>
-  </node>
-  <node id="-2047" visible="true" lat="44.906991272753" lon="-73.277627406925">
-    <!-- conflict: "6155 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "6155 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="6155"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613295"/>
-  </node>
-  <node id="-2050" visible="true" lat="44.900585584854" lon="-73.274511646981">
-    <!-- conflict: "6672 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "6672 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="6672"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613303"/>
-  </node>
-  <node id="-2052" visible="true" lat="44.893985062848" lon="-73.279771708118">
-    <!-- conflict: "7174 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "7174 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="7174"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613307"/>
-  </node>
-  <node id="-2129" visible="true" lat="44.957650555419" lon="-73.274929700461">
-    <!-- conflict: "2380 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2380 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2380"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="656500"/>
-  </node>
-  <node id="-2197" visible="true" lat="44.998848942311" lon="-73.331691509007">
-    <!-- conflict: "3081 United States Route 2 North, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3081 U.S. Route 2 North, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3081"/>
-    <tag k="addr:street" v="United States Route 2 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750447"/>
-  </node>
-  <node id="-2198" visible="true" lat="44.998725350717" lon="-73.339544123547">
-    <!-- conflict: "3410 United States Route 2 North, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3410 U.S. Route 2 North, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3410"/>
-    <tag k="addr:street" v="United States Route 2 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750448"/>
-  </node>
-  <node id="-2362" visible="true" lat="44.9480201712" lon="-73.273142491265">
-    <!-- conflict: "3140 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "3140 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="3140"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751186"/>
-  </node>
-  <node id="-2363" visible="true" lat="44.928307629098" lon="-73.266873576518">
-    <!-- conflict: "4469 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "4469 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="4469"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751187"/>
-  </node>
-  <node id="-2365" visible="true" lat="44.918269564213" lon="-73.277116767475">
-    <!-- conflict: "5270 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5270 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5270"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751189"/>
-  </node>
-  <node id="-2367" visible="true" lat="44.918536176105" lon="-73.279591799739">
-    <!-- conflict: "5280 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5280 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5280"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="752071"/>
-  </node>
-  <node id="-2369" visible="true" lat="44.964304872275" lon="-73.284420436764">
-    <!-- conflict: "1720 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "1720 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="1720"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="752095"/>
-  </node>
-  <node id="-2401" visible="true" lat="44.996873909386" lon="-73.321183259546">
-    <!-- conflict: "2499 United States Route 2 North, Alburgh, VT" No match in OSM, but a different address exists <5m away: "2499 U.S. Route 2 North, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="2499"/>
-    <tag k="addr:street" v="United States Route 2 North"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="754914"/>
-  </node>
-  <node id="-2470" visible="true" lat="44.917962465681" lon="-73.277173235921">
-    <!-- conflict: "5272 United States Route 2 South, Alburgh, VT" No match in OSM, but a different address exists <5m away: "5272 U.S. Route 2 South, Alburgh, VT" -->
-    <tag k="addr:city" v="Alburgh"/>
-    <tag k="addr:housenumber" v="5272"/>
-    <tag k="addr:street" v="United States Route 2 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="771359"/>
   </node>
 </osm>

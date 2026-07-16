@@ -5,6 +5,7 @@
     <tag k="addr:city" v="Saint Johnsbury"/>
     <tag k="addr:housenumber" v="2000"/>
     <tag k="addr:street" v="Memorial Drive"/>
+    <tag k="addr:postcode" v="05819"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="244580"/>
   </node>
@@ -13,6 +14,7 @@
     <tag k="addr:city" v="Saint Johnsbury"/>
     <tag k="addr:housenumber" v="2176"/>
     <tag k="addr:street" v="Portland Street"/>
+    <tag k="addr:postcode" v="05819"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="245376"/>
   </node>
@@ -21,7 +23,17 @@
     <tag k="addr:city" v="Saint Johnsbury"/>
     <tag k="addr:housenumber" v="257"/>
     <tag k="addr:street" v="Western Avenue"/>
+    <tag k="addr:postcode" v="05819"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246658"/>
+  </node>
+  <node id="-3082" visible="true" lat="44.431546788931" lon="-71.961453515608">
+    <!-- offset: "100 U.S. Route 2 East, Saint Johnsbury, VT" Significant offset - 117.4m -->
+    <tag k="addr:city" v="Saint Johnsbury"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="U.S. Route 2 East"/>
+    <tag k="addr:postcode" v="05819"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617688"/>
   </node>
 </osm>

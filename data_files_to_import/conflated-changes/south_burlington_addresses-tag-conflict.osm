@@ -5,350 +5,34 @@
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="227915"/>
-  </node>
-  <node id="-1894" visible="true" lat="44.454698473046" lon="-73.201581694741">
-    <!-- conflict: "85 South Street, Burlington, VT" Fuzzy match to "85 South Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229062"/>
-  </node>
-  <node id="-1904" visible="true" lat="44.45459763363" lon="-73.200456208392">
-    <!-- conflict: "1 Holt Street, Burlington, VT" Fuzzy match to "1 Holt Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Holt Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229076"/>
-  </node>
-  <node id="-1908" visible="true" lat="44.454592170359" lon="-73.199365154209">
-    <!-- conflict: "935 South Prospect Street, Burlington, VT" Fuzzy match to "935 South Prospect Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="935"/>
-    <tag k="addr:street" v="South Prospect Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229082"/>
-  </node>
-  <node id="-1909" visible="true" lat="44.454618364776" lon="-73.199830380795">
-    <!-- conflict: "120 Fairmont Street, Burlington, VT" Fuzzy match to "120 Fairmont Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="120"/>
-    <tag k="addr:street" v="Fairmont Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229083"/>
-  </node>
-  <node id="-1912" visible="true" lat="44.454598829362" lon="-73.200982572462">
-    <!-- conflict: "90 South Street, Burlington, VT" Fuzzy match to "90 South Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229086"/>
-  </node>
-  <node id="-1918" visible="true" lat="44.454564883206" lon="-73.198746092658">
-    <!-- conflict: "936 South Prospect Street, Burlington, VT" Fuzzy match to "936 South Prospect Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="936"/>
-    <tag k="addr:street" v="South Prospect Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229093"/>
-  </node>
-  <node id="-1926" visible="true" lat="44.454502009545" lon="-73.20824193656">
-    <!-- conflict: "388 Shelburne Road, Burlington, VT" Fuzzy match to "388 Shelburne Road, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="388"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229101"/>
-  </node>
-  <node id="-1928" visible="true" lat="44.454472942805" lon="-73.201425079276">
-    <!-- conflict: "97 South Street, Burlington, VT" Fuzzy match to "97 South Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229104"/>
-  </node>
-  <node id="-1940" visible="true" lat="44.454351218476" lon="-73.208236707676">
-    <!-- conflict: "400 Shelburne Road, Burlington, VT" Fuzzy match to "400 Shelburne Road, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="400"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229116"/>
-  </node>
-  <node id="-1941" visible="true" lat="44.454354687922" lon="-73.200364593247">
-    <!-- conflict: "123 Fairmont Street, Burlington, VT" Fuzzy match to "123 Fairmont Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="123"/>
-    <tag k="addr:street" v="Fairmont Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229117"/>
-  </node>
-  <node id="-1942" visible="true" lat="44.454354687903" lon="-73.199891569714">
-    <!-- conflict: "122 Fairmont Street, Burlington, VT" Fuzzy match to "122 Fairmont Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="122"/>
-    <tag k="addr:street" v="Fairmont Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229118"/>
-  </node>
-  <node id="-1943" visible="true" lat="44.454288458867" lon="-73.199299603546">
-    <!-- conflict: "955 South Prospect Street, Burlington, VT" Fuzzy match to "955 South Prospect Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="955"/>
-    <tag k="addr:street" v="South Prospect Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229119"/>
-  </node>
-  <node id="-1944" visible="true" lat="44.454373228275" lon="-73.200883272048">
-    <!-- conflict: "100 South Street, Burlington, VT" Fuzzy match to "100 South Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229120"/>
-  </node>
-  <node id="-1949" visible="true" lat="44.454296716326" lon="-73.198858733736">
-    <!-- conflict: "944 South Prospect Street, Burlington, VT" Fuzzy match to "944 South Prospect Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="944"/>
-    <tag k="addr:street" v="South Prospect Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229127"/>
-  </node>
-  <node id="-1967" visible="true" lat="44.454036226634" lon="-73.20810643112">
-    <!-- conflict: "408 Shelburne Road, Burlington, VT" Fuzzy match to "408 Shelburne Road, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="408"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229148"/>
-  </node>
-  <node id="-1976" visible="true" lat="44.453715738027" lon="-73.208229117216">
-    <!-- conflict: "410 Shelburne Road, Burlington, VT" Fuzzy match to "410 Shelburne Road, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="410"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229160"/>
-  </node>
-  <node id="-1998" visible="true" lat="44.453539180439" lon="-73.208227086272">
-    <!-- conflict: "428 Shelburne Road, Burlington, VT" Fuzzy match to "428 Shelburne Road, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="428"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229190"/>
-  </node>
-  <node id="-2004" visible="true" lat="44.453325293116" lon="-73.208273931815">
-    <!-- conflict: "434 Shelburne Road, Burlington, VT" Fuzzy match to "434 Shelburne Road, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="434"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229198"/>
-  </node>
-  <node id="-2007" visible="true" lat="44.453299446191" lon="-73.207773138739">
-    <!-- conflict: "6 White Place, Burlington, VT" Fuzzy match to "6 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229204"/>
-  </node>
-  <node id="-2008" visible="true" lat="44.453345388395" lon="-73.207227645453">
-    <!-- conflict: "12 White Place, Burlington, VT" Fuzzy match to "12 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229206"/>
-  </node>
-  <node id="-2009" visible="true" lat="44.453293096365" lon="-73.20760549262">
-    <!-- conflict: "8 White Place, Burlington, VT" Fuzzy match to "8 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229207"/>
-  </node>
-  <node id="-2013" visible="true" lat="44.453196281133" lon="-73.206877576565">
-    <!-- conflict: "14 White Place, Burlington, VT" Fuzzy match to "14 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229212"/>
-  </node>
-  <node id="-2014" visible="true" lat="44.453186610755" lon="-73.206453356216">
-    <!-- conflict: "18 White Place, Burlington, VT" Fuzzy match to "18 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229213"/>
-  </node>
-  <node id="-2015" visible="true" lat="44.453191281969" lon="-73.206640073153">
-    <!-- conflict: "16 White Place, Burlington, VT" Fuzzy match to "16 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229214"/>
-  </node>
-  <node id="-2017" visible="true" lat="44.453168827713" lon="-73.206099423573">
-    <!-- conflict: "22 White Place, Burlington, VT" Fuzzy match to "22 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229216"/>
-  </node>
-  <node id="-2018" visible="true" lat="44.453185149423" lon="-73.206276816148">
-    <!-- conflict: "20 White Place, Burlington, VT" Fuzzy match to "20 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229217"/>
-  </node>
-  <node id="-2019" visible="true" lat="44.453133888073" lon="-73.205623100349">
-    <!-- conflict: "24 White Place, Burlington, VT" Fuzzy match to "24 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229219"/>
-  </node>
-  <node id="-2026" visible="true" lat="44.452909621763" lon="-73.207847533583">
-    <!-- conflict: "5 White Place, Burlington, VT" Fuzzy match to "5 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229226"/>
-  </node>
-  <node id="-2027" visible="true" lat="44.45291047237" lon="-73.207680496948">
-    <!-- conflict: "7 White Place, Burlington, VT" Fuzzy match to "7 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229229"/>
-  </node>
-  <node id="-2028" visible="true" lat="44.452880064664" lon="-73.20746829383">
-    <!-- conflict: "9 White Place, Burlington, VT" Fuzzy match to "9 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229232"/>
-  </node>
-  <node id="-2030" visible="true" lat="44.452884756867" lon="-73.20725979636">
-    <!-- conflict: "11 White Place, Burlington, VT" Fuzzy match to "11 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229235"/>
-  </node>
-  <node id="-2032" visible="true" lat="44.452911010558" lon="-73.205834349478">
-    <!-- conflict: "26 White Place, Burlington, VT" Fuzzy match to "26 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229237"/>
-  </node>
-  <node id="-2033" visible="true" lat="44.452856047328" lon="-73.206899902415">
-    <!-- conflict: "15 White Place, Burlington, VT" Fuzzy match to "15 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229238"/>
-  </node>
-  <node id="-2034" visible="true" lat="44.452880546139" lon="-73.207084046965">
-    <!-- conflict: "13 White Place, Burlington, VT" Fuzzy match to "13 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229239"/>
   </node>
   <node id="-2035" visible="true" lat="44.45297500577" lon="-73.208443236916">
     <!-- conflict: "430 Shelburne Road, Burlington, VT" Fuzzy match to "430 Shelburne Road, South Burlington, VT" -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="430"/>
     <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:postcode" v="05401"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229240"/>
-  </node>
-  <node id="-2036" visible="true" lat="44.452850008443" lon="-73.206549133686">
-    <!-- conflict: "17 White Place, Burlington, VT" Fuzzy match to "17 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229241"/>
-  </node>
-  <node id="-2038" visible="true" lat="44.452822843597" lon="-73.206335662525">
-    <!-- conflict: "19 White Place, Burlington, VT" Fuzzy match to "19 White Place, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="White Place"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229243"/>
-  </node>
-  <node id="-2090" visible="true" lat="44.452035490006" lon="-73.208217334343">
-    <!-- conflict: "462 Shelburne Road, Burlington, VT" Fuzzy match to "462 Shelburne Road, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="462"/>
-    <tag k="addr:street" v="Shelburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229309"/>
   </node>
   <node id="-2121" visible="true" lat="44.451723642162" lon="-73.208594840435">
     <!-- conflict: "490 Shelburne Street, Burlington, VT" Fuzzy match to "490 Shelburne Road, South Burlington, VT" -->
     <tag k="addr:city" v="Burlington"/>
     <tag k="addr:housenumber" v="490"/>
     <tag k="addr:street" v="Shelburne Street"/>
+    <tag k="addr:postcode" v="05401"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="229348"/>
-  </node>
-  <node id="-2126" visible="true" lat="44.451501663301" lon="-73.207364527835">
-    <!-- conflict: "20 Bacon Street, Burlington, VT" Fuzzy match to "20 Bacon Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Bacon Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229355"/>
-  </node>
-  <node id="-2130" visible="true" lat="44.451652122232" lon="-73.207990270693">
-    <!-- conflict: "14 Bacon Street, Burlington, VT" Fuzzy match to "14 Bacon Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Bacon Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="229361"/>
-  </node>
-  <node id="-3591" visible="true" lat="44.43069688661" lon="-73.20435579351">
-    <!-- conflict: "65 Green Mountain Drive, Univeristy of Vermont, VT" Fuzzy match to "65 Green Mountain Drive, South Burlington, VT" -->
-    <tag k="addr:city" v="Univeristy of Vermont"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="Green Mountain Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="231104"/>
   </node>
   <node id="-4802" visible="true" lat="44.467124207478" lon="-73.168750416647">
     <!-- conflict: "52 Stone House Common, South Burlington, VT" Fuzzy match to "52 Stonehouse Common, South Burlington, VT" -->
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232468"/>
   </node>
@@ -357,6 +41,7 @@
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232469"/>
   </node>
@@ -365,6 +50,7 @@
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232470"/>
   </node>
@@ -373,6 +59,7 @@
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="53"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232471"/>
   </node>
@@ -381,71 +68,17 @@
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232472"/>
-  </node>
-  <node id="-5298" visible="true" lat="44.45144184451" lon="-73.207219202258">
-    <!-- conflict: "30 Bacon Street, Burlington, VT" Fuzzy match to "30 Bacon Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Bacon Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="232969"/>
   </node>
   <node id="-5566" visible="true" lat="44.466797580316" lon="-73.168922695229">
     <!-- conflict: "13 Stone House Common, South Burlington, VT" Fuzzy match to "13 Stonehouse Common, South Burlington, VT" -->
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233239"/>
-  </node>
-  <node id="-5759" visible="true" lat="44.451691223038" lon="-73.208598791799">
-    <!-- conflict: "12 Bacon Street, Burlington, VT" Fuzzy match to "12 Bacon Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Burlington"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Bacon Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="309610"/>
-  </node>
-  <node id="-6943" visible="true" lat="44.472400545356" lon="-73.192183245822">
-    <!-- conflict: "31 Spear Street, Univeristy of Vermont, VT" Fuzzy match to "31 Spear Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Univeristy of Vermont"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610674"/>
-  </node>
-  <node id="-6944" visible="true" lat="44.471180464468" lon="-73.192536274062">
-    <!-- conflict: "67 Spear Street, Univeristy of Vermont, VT" Fuzzy match to "67 Spear Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Univeristy of Vermont"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610675"/>
-  </node>
-  <node id="-6946" visible="true" lat="44.457917155192" lon="-73.190149507095">
-    <!-- conflict: "655 Spear Street, Univeristy of Vermont, VT" Fuzzy match to "655 Spear Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Univeristy of Vermont"/>
-    <tag k="addr:housenumber" v="655"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="610677"/>
-  </node>
-  <node id="-7835" visible="true" lat="44.475003474001" lon="-73.184884923411">
-    <!-- conflict: "320 Centennial Woods Way, Univeristy of Vermont, VT" Fuzzy match to "320 Centennial Woods Way, South Burlington, VT" -->
-    <tag k="addr:city" v="Univeristy of Vermont"/>
-    <tag k="addr:housenumber" v="320"/>
-    <tag k="addr:street" v="Centennial Woods Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768638"/>
-  </node>
-  <node id="-7836" visible="true" lat="44.470381246921" lon="-73.192893346178">
-    <!-- conflict: "9 Catamount Way, Univeristy of Vermont, VT" Fuzzy match to "9 Catamount Way, South Burlington, VT" -->
-    <tag k="addr:city" v="Univeristy of Vermont"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Catamount Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768685"/>
   </node>
 </osm>

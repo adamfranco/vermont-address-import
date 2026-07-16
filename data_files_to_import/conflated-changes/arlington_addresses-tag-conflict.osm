@@ -5,6 +5,7 @@
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="121"/>
     <tag k="addr:street" v="Walker Meadow"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4307"/>
   </node>
@@ -13,6 +14,7 @@
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="101"/>
     <tag k="addr:street" v="Walker Meadow"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4308"/>
   </node>
@@ -21,6 +23,7 @@
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="Walker Meadow"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4312"/>
   </node>
@@ -29,6 +32,7 @@
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Walker Meadow"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4313"/>
   </node>
@@ -37,6 +41,7 @@
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="58"/>
     <tag k="addr:street" v="Walker Meadow"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4324"/>
   </node>
@@ -45,6 +50,7 @@
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Walker Meadow"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4325"/>
   </node>
@@ -53,6 +59,7 @@
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Walker Meadow"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4329"/>
   </node>
@@ -61,6 +68,7 @@
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Walker Meadow"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4333"/>
   </node>
@@ -69,6 +77,7 @@
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="63"/>
     <tag k="addr:street" v="Peaceful Meadow"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4349"/>
   </node>
@@ -77,6 +86,7 @@
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Peaceful Meadow"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4351"/>
   </node>
@@ -85,319 +95,8 @@
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="87"/>
     <tag k="addr:street" v="Peaceful Meadow"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4352"/>
-  </node>
-  <node id="-895" visible="true" lat="43.06176955229" lon="-73.142525955349">
-    <!-- conflict: "79 Old Mill Road, East Arlington, VT" Fuzzy match to "79 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4506"/>
-  </node>
-  <node id="-904" visible="true" lat="43.061508977014" lon="-73.143073264162">
-    <!-- conflict: "102 Old Mill Road, East Arlington, VT" Fuzzy match to "102 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="102"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4515"/>
-  </node>
-  <node id="-909" visible="true" lat="43.061291634415" lon="-73.142868323201">
-    <!-- conflict: "112 Old Mill Road, East Arlington, VT" Fuzzy match to "112 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4520"/>
-  </node>
-  <node id="-911" visible="true" lat="43.061391668916" lon="-73.142403339447">
-    <!-- conflict: "123 Old Mill Road, East Arlington, VT" Fuzzy match to "123 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="123"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4522"/>
-  </node>
-  <node id="-912" visible="true" lat="43.061189644942" lon="-73.142316147694">
-    <!-- conflict: "131 Old Mill Road, East Arlington, VT" Fuzzy match to "131 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="131"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4523"/>
-  </node>
-  <node id="-913" visible="true" lat="43.061108200515" lon="-73.142725614274">
-    <!-- conflict: "130 Old Mill Road, East Arlington, VT" Fuzzy match to "130 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="130"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4524"/>
-  </node>
-  <node id="-916" visible="true" lat="43.060859302688" lon="-73.140640842394">
-    <!-- conflict: "273 Old Mill Road, East Arlington, VT" Fuzzy match to "273 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="273"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4528"/>
-  </node>
-  <node id="-921" visible="true" lat="43.060942608279" lon="-73.14220885811">
-    <!-- conflict: "151 Old Mill Road, East Arlington, VT" Fuzzy match to "151 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4533"/>
-  </node>
-  <node id="-926" visible="true" lat="43.060794181756" lon="-73.14203489974">
-    <!-- conflict: "165 Old Mill Road, East Arlington, VT" Fuzzy match to "165 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="165"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4539"/>
-  </node>
-  <node id="-927" visible="true" lat="43.06068950445" lon="-73.141913341863">
-    <!-- conflict: "177 Old Mill Road, East Arlington, VT" Fuzzy match to "177 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="177"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4540"/>
-  </node>
-  <node id="-932" visible="true" lat="43.060610741532" lon="-73.141789770096">
-    <!-- conflict: "189 Old Mill Road, East Arlington, VT" Fuzzy match to "189 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="189"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4545"/>
-  </node>
-  <node id="-935" visible="true" lat="43.060374777144" lon="-73.141963065816">
-    <!-- conflict: "184 Old Mill Road, East Arlington, VT" Fuzzy match to "184 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="184"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4548"/>
-  </node>
-  <node id="-936" visible="true" lat="43.060494531448" lon="-73.141475618928">
-    <!-- conflict: "205 Old Mill Road, East Arlington, VT" Fuzzy match to "205 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4549"/>
-  </node>
-  <node id="-937" visible="true" lat="43.060453511679" lon="-73.14123357228">
-    <!-- conflict: "219 Old Mill Road, East Arlington, VT" Fuzzy match to "219 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="219"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4550"/>
-  </node>
-  <node id="-940" visible="true" lat="43.060256481344" lon="-73.141579965577">
-    <!-- conflict: "208 Old Mill Road, East Arlington, VT" Fuzzy match to "208 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="208"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4553"/>
-  </node>
-  <node id="-941" visible="true" lat="43.06039195338" lon="-73.140950988391">
-    <!-- conflict: "235 Old Mill Road, East Arlington, VT" Fuzzy match to "235 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="235"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4554"/>
-  </node>
-  <node id="-942" visible="true" lat="43.060181663273" lon="-73.141310116821">
-    <!-- conflict: "218 Old Mill Road, East Arlington, VT" Fuzzy match to "218 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="218"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4555"/>
-  </node>
-  <node id="-943" visible="true" lat="43.060329124166" lon="-73.140729194518">
-    <!-- conflict: "243 Old Mill Road, East Arlington, VT" Fuzzy match to "243 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="243"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4556"/>
-  </node>
-  <node id="-945" visible="true" lat="43.060571209545" lon="-73.139524721723">
-    <!-- conflict: "283 Old Mill Road, East Arlington, VT" Fuzzy match to "283 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="283"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4558"/>
-  </node>
-  <node id="-946" visible="true" lat="43.060257577068" lon="-73.140466428266">
-    <!-- conflict: "261 Old Mill Road, East Arlington, VT" Fuzzy match to "261 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="261"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4559"/>
-  </node>
-  <node id="-950" visible="true" lat="43.060159986626" lon="-73.139859387074">
-    <!-- conflict: "291 Old Mill Road, East Arlington, VT" Fuzzy match to "291 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="291"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4565"/>
-  </node>
-  <node id="-951" visible="true" lat="43.059882562914" lon="-73.140072363688">
-    <!-- conflict: "288 Old Mill Road, East Arlington, VT" Fuzzy match to "288 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="288"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4566"/>
-  </node>
-  <node id="-953" visible="true" lat="43.06001982911" lon="-73.139660455966">
-    <!-- conflict: "303 Old Mill Road, East Arlington, VT" Fuzzy match to "303 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="303"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4568"/>
-  </node>
-  <node id="-960" visible="true" lat="43.059729141702" lon="-73.13970647939">
-    <!-- conflict: "316 Old Mill Road, East Arlington, VT" Fuzzy match to "316 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="316"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4575"/>
-  </node>
-  <node id="-966" visible="true" lat="43.059837851537" lon="-73.138919162352">
-    <!-- conflict: "355 Old Mill Road, East Arlington, VT" Fuzzy match to "355 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4581"/>
-  </node>
-  <node id="-973" visible="true" lat="43.059346954434" lon="-73.13917699949">
-    <!-- conflict: "348 Old Mill Road, East Arlington, VT" Fuzzy match to "348 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="348"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4589"/>
-  </node>
-  <node id="-975" visible="true" lat="43.059581807038" lon="-73.138632242418">
-    <!-- conflict: "379 Old Mill Road, East Arlington, VT" Fuzzy match to "379 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="379"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4591"/>
-  </node>
-  <node id="-977" visible="true" lat="43.058874465182" lon="-73.251056907909">
-    <!-- conflict: "156 Bear Run, North Bennington, VT" Fuzzy match to "156 Bear Run, Arlington, VT" -->
-    <tag k="addr:city" v="North Bennington"/>
-    <tag k="addr:housenumber" v="156"/>
-    <tag k="addr:street" v="Bear Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4593"/>
-  </node>
-  <node id="-983" visible="true" lat="43.057517983257" lon="-73.25245339304">
-    <!-- conflict: "157 Bear Run, North Bennington, VT" Fuzzy match to "157 Bear Run, Arlington, VT" -->
-    <tag k="addr:city" v="North Bennington"/>
-    <tag k="addr:housenumber" v="157"/>
-    <tag k="addr:street" v="Bear Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4599"/>
-  </node>
-  <node id="-993" visible="true" lat="43.056613580549" lon="-73.251831564805">
-    <!-- conflict: "22 Bear Run, North Bennington, VT" Fuzzy match to "22 Bear Run, Arlington, VT" -->
-    <tag k="addr:city" v="North Bennington"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Bear Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4609"/>
-  </node>
-  <node id="-1000" visible="true" lat="43.055815974794" lon="-73.252465856414">
-    <!-- conflict: "45 Bear Run, North Bennington, VT" Fuzzy match to "45 Bear Run, Arlington, VT" -->
-    <tag k="addr:city" v="North Bennington"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Bear Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4616"/>
-  </node>
-  <node id="-1021" visible="true" lat="43.054483571316" lon="-73.251819211136">
-    <!-- conflict: "2062 Black Hole Hollow Road, North Bennington, VT" Fuzzy match to "2062 Black Hole Hollow Road, Arlington, VT" -->
-    <tag k="addr:city" v="North Bennington"/>
-    <tag k="addr:housenumber" v="2062"/>
-    <tag k="addr:street" v="Black Hole Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4638"/>
-  </node>
-  <node id="-1038" visible="true" lat="43.051978701975" lon="-73.255388942189">
-    <!-- conflict: "1843 Black Hole Hollow Road, North Bennington, VT" Fuzzy match to "1843 Black Hole Hollow Road, Arlington, VT" -->
-    <tag k="addr:city" v="North Bennington"/>
-    <tag k="addr:housenumber" v="1843"/>
-    <tag k="addr:street" v="Black Hole Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4655"/>
-  </node>
-  <node id="-1067" visible="true" lat="43.047532859392" lon="-73.267271996">
-    <!-- conflict: "1050 Black Hole Hollow Road, North Bennington, VT" Fuzzy match to "1050 Black Hole Hollow Road, Arlington, VT" -->
-    <tag k="addr:city" v="North Bennington"/>
-    <tag k="addr:housenumber" v="1050"/>
-    <tag k="addr:street" v="Black Hole Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4684"/>
-  </node>
-  <node id="-1239" visible="true" lat="43.055137761388" lon="-73.251082254129">
-    <!-- conflict: "71 Sprague Camp Road, North Bennington, VT" Fuzzy match to "71 Sprague Camp Road, Arlington, VT" -->
-    <tag k="addr:city" v="North Bennington"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Sprague Camp Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4861"/>
-  </node>
-  <node id="-1240" visible="true" lat="43.047589311353" lon="-73.26804753656">
-    <!-- conflict: "1048 Black Hole Hollow Road, North Bennington, VT" Fuzzy match to "1048 Black Hole Hollow Road, Arlington, VT" -->
-    <tag k="addr:city" v="North Bennington"/>
-    <tag k="addr:housenumber" v="1048"/>
-    <tag k="addr:street" v="Black Hole Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4862"/>
-  </node>
-  <node id="-1255" visible="true" lat="43.048596993971" lon="-73.259607033663">
-    <!-- conflict: "1471 Black Hole Hollow Road, North Bennington, VT" Fuzzy match to "1471 Black Hole Hollow Road, Arlington, VT" -->
-    <tag k="addr:city" v="North Bennington"/>
-    <tag k="addr:housenumber" v="1471"/>
-    <tag k="addr:street" v="Black Hole Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4880"/>
-  </node>
-  <node id="-1256" visible="true" lat="43.047950566437" lon="-73.261287178367">
-    <!-- conflict: "1392 Black Hole Hollow Road, North Bennington, VT" Fuzzy match to "1392 Black Hole Hollow Road, Arlington, VT" -->
-    <tag k="addr:city" v="North Bennington"/>
-    <tag k="addr:housenumber" v="1392"/>
-    <tag k="addr:street" v="Black Hole Hollow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="4881"/>
-  </node>
-  <node id="-1429" visible="true" lat="43.062430841845" lon="-73.138510024001">
-    <!-- conflict: "277 Old Mill Road, East Arlington, VT" Fuzzy match to "277 Old Mill Road, Arlington, VT" -->
-    <tag k="addr:city" v="East Arlington"/>
-    <tag k="addr:housenumber" v="277"/>
-    <tag k="addr:street" v="Old Mill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454078"/>
   </node>
 </osm>

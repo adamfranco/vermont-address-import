@@ -1,44 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-119" visible="true" lat="44.324620655969" lon="-72.743082405848">
-    <tag k="addr:city" v="Waterbury"/>
-    <tag k="addr:housenumber" v="253"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167135"/>
-  </node>
-  <node id="-120" visible="true" lat="44.324331799359" lon="-72.742975772208">
-    <tag k="addr:city" v="Waterbury"/>
-    <tag k="addr:housenumber" v="299"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167136"/>
-  </node>
-  <node id="-124" visible="true" lat="44.323920570078" lon="-72.743365469859">
-    <tag k="addr:city" v="Waterbury"/>
-    <tag k="addr:housenumber" v="312"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167140"/>
-  </node>
-  <node id="-160" visible="true" lat="44.320135631663" lon="-72.733904417751">
-    <tag k="addr:city" v="Waterbury"/>
-    <tag k="addr:housenumber" v="838"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167177"/>
-  </node>
-  <node id="-162" visible="true" lat="44.319566181897" lon="-72.732027410341">
-    <tag k="addr:city" v="Waterbury"/>
-    <tag k="addr:housenumber" v="964"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="167179"/>
-  </node>
   <node id="-908" visible="true" lat="44.245805352446" lon="-72.773317514903">
     <tag k="addr:city" v="Moretown"/>
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="Freeman Hill Road"/>
+    <tag k="addr:postcode" v="05660"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="600010"/>
   </node>
@@ -46,14 +12,8 @@
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="1557"/>
     <tag k="addr:street" v="2"/>
+    <tag k="addr:postcode" v="05676"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656712"/>
-  </node>
-  <node id="-1018" visible="true" lat="44.319084399093" lon="-72.730294163901">
-    <tag k="addr:city" v="Waterbury"/>
-    <tag k="addr:housenumber" v="1057"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="772139"/>
   </node>
 </osm>

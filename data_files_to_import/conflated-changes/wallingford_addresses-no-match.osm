@@ -1,93 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-789" visible="true" lat="43.448498954006" lon="-72.989869458323">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="1780"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269709"/>
-  </node>
-  <node id="-790" visible="true" lat="43.44843028906" lon="-72.989266735273">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="1774"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269710"/>
-  </node>
-  <node id="-817" visible="true" lat="43.444844474227" lon="-72.990342480942">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="2024"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269737"/>
-  </node>
-  <node id="-823" visible="true" lat="43.442849386983" lon="-72.990571360879">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="2162"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269743"/>
-  </node>
-  <node id="-839" visible="true" lat="43.442055929986" lon="-72.990479809391">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="2216"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269759"/>
-  </node>
-  <node id="-880" visible="true" lat="43.435903986109" lon="-72.99044811421">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="2664"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269800"/>
-  </node>
-  <node id="-889" visible="true" lat="43.434113727072" lon="-72.990220409793">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="2780"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269809"/>
-  </node>
-  <node id="-891" visible="true" lat="43.433968768745" lon="-72.990174632334">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="2788"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269811"/>
-  </node>
-  <node id="-913" visible="true" lat="43.430428729901" lon="-72.989373545967">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="3036"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269833"/>
-  </node>
-  <node id="-965" visible="true" lat="43.413007003591" lon="-72.992562632709">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="4298"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269887"/>
-  </node>
-  <node id="-969" visible="true" lat="43.412324172059" lon="-72.992104868674">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="4343"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269891"/>
-  </node>
-  <node id="-976" visible="true" lat="43.410310012643" lon="-72.993142466842">
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="4394"/>
-    <tag k="addr:street" v="United States Route 7 South"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="269898"/>
-  </node>
   <node id="-1072" visible="true" lat="43.469850410603" lon="-72.977237521874">
     <tag k="addr:city" v="Wallingford"/>
     <tag k="addr:housenumber" v="123"/>
     <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:postcode" v="05773"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270000"/>
   </node>
@@ -95,6 +12,7 @@
     <tag k="addr:city" v="Cuttingsville"/>
     <tag k="addr:housenumber" v="1934"/>
     <tag k="addr:street" v="103"/>
+    <tag k="addr:postcode" v="05738"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656745"/>
   </node>
@@ -102,6 +20,7 @@
     <tag k="addr:city" v="Wallingford"/>
     <tag k="addr:housenumber" v="860"/>
     <tag k="addr:street" v="Green Hill Lane"/>
+    <tag k="addr:postcode" v="05773"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773901"/>
   </node>
@@ -109,6 +28,7 @@
     <tag k="addr:city" v="Wallingford"/>
     <tag k="addr:housenumber" v="861"/>
     <tag k="addr:street" v="Green Hill Lane"/>
+    <tag k="addr:postcode" v="05773"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773902"/>
   </node>

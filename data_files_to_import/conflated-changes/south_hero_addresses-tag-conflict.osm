@@ -1,1034 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-101" visible="true" lat="44.68137898064" lon="-73.296394683213">
-    <!-- conflict: "112 Town Line Road, Grand Isle, VT" Fuzzy match to "112 Town Line Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233244"/>
-  </node>
-  <node id="-102" visible="true" lat="44.677989100843" lon="-73.296324602492">
-    <!-- conflict: "25 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "25 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233245"/>
-  </node>
-  <node id="-103" visible="true" lat="44.679426782031" lon="-73.30006969218">
-    <!-- conflict: "16 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "16 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233246"/>
-  </node>
-  <node id="-104" visible="true" lat="44.680623492704" lon="-73.307954366848">
-    <!-- conflict: "42 Town Line Road, Grand Isle, VT" Fuzzy match to "42 Town Line Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233248"/>
-  </node>
-  <node id="-105" visible="true" lat="44.680435219365" lon="-73.306603203672">
-    <!-- conflict: "48 Town Line Road, Grand Isle, VT" Fuzzy match to "48 Town Line Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233249"/>
-  </node>
-  <node id="-106" visible="true" lat="44.680103254816" lon="-73.314768103982">
-    <!-- conflict: "6 Town Line Road, Grand Isle, VT" Fuzzy match to "6 Town Line Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233250"/>
-  </node>
-  <node id="-107" visible="true" lat="44.680097064474" lon="-73.309365804365">
-    <!-- conflict: "34 Town Line Road, Grand Isle, VT" Fuzzy match to "34 Town Line Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233251"/>
-  </node>
-  <node id="-108" visible="true" lat="44.679910144027" lon="-73.315530359284">
-    <!-- conflict: "2 Town Line Road, Grand Isle, VT" Fuzzy match to "2 Town Line Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233252"/>
-  </node>
-  <node id="-110" visible="true" lat="44.679364641837" lon="-73.316140708589">
-    <!-- conflict: "634 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "634 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="634"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233254"/>
-  </node>
-  <node id="-111" visible="true" lat="44.679017251693" lon="-73.303124511316">
-    <!-- conflict: "78 Town Line Road, Grand Isle, VT" Fuzzy match to "78 Town Line Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233255"/>
-  </node>
-  <node id="-112" visible="true" lat="44.678149089907" lon="-73.309610543042">
-    <!-- conflict: "19 Ministry Lane, Grand Isle, VT" Fuzzy match to "19 Ministry Lane, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Ministry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233256"/>
-  </node>
-  <node id="-113" visible="true" lat="44.677148034068" lon="-73.296604490767">
-    <!-- conflict: "29 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "29 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233258"/>
-  </node>
-  <node id="-134" visible="true" lat="44.674970109062" lon="-73.320153772027">
-    <!-- conflict: "595 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "595 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="595"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233279"/>
-  </node>
-  <node id="-139" visible="true" lat="44.673880520307" lon="-73.320769953494">
-    <!-- conflict: "589 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "589 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="589"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233284"/>
-  </node>
-  <node id="-142" visible="true" lat="44.672922693072" lon="-73.320253349624">
-    <!-- conflict: "584 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "584 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="584"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233287"/>
-  </node>
-  <node id="-145" visible="true" lat="44.672433335152" lon="-73.320466578321">
-    <!-- conflict: "580 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "580 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="580"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233290"/>
-  </node>
-  <node id="-178" visible="true" lat="44.668074790901" lon="-73.323743179306">
-    <!-- conflict: "549 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "549 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="549"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233323"/>
-  </node>
-  <node id="-185" visible="true" lat="44.667470299666" lon="-73.323678477789">
-    <!-- conflict: "541 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "541 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="541"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233331"/>
-  </node>
-  <node id="-206" visible="true" lat="44.665876615664" lon="-73.321489115461">
-    <!-- conflict: "530 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "530 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="530"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233352"/>
-  </node>
-  <node id="-229" visible="true" lat="44.664821209634" lon="-73.322202274866">
-    <!-- conflict: "522 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "522 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="522"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233375"/>
-  </node>
-  <node id="-251" visible="true" lat="44.663899856743" lon="-73.322801173187">
-    <!-- conflict: "513 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "513 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="513"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233399"/>
-  </node>
-  <node id="-263" visible="true" lat="44.663264050364" lon="-73.320603121143">
-    <!-- conflict: "510 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "510 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="510"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233411"/>
-  </node>
-  <node id="-264" visible="true" lat="44.662915663953" lon="-73.322648582898">
-    <!-- conflict: "509 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "509 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="509"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233413"/>
-  </node>
-  <node id="-270" visible="true" lat="44.662602392119" lon="-73.321994059753">
-    <!-- conflict: "508 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "508 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="508"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233419"/>
-  </node>
-  <node id="-275" visible="true" lat="44.662157136759" lon="-73.321250400515">
-    <!-- conflict: "504 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "504 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="504"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233424"/>
-  </node>
-  <node id="-276" visible="true" lat="44.662031846165" lon="-73.322819496597">
-    <!-- conflict: "503 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "503 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="503"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233425"/>
-  </node>
-  <node id="-277" visible="true" lat="44.662057357234" lon="-73.3219619385">
-    <!-- conflict: "502 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "502 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="502"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233426"/>
-  </node>
-  <node id="-285" visible="true" lat="44.661753099856" lon="-73.321833127543">
-    <!-- conflict: "500 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "500 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="500"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233434"/>
-  </node>
-  <node id="-288" visible="true" lat="44.66150804077" lon="-73.322503625109">
-    <!-- conflict: "499 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "499 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="499"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233438"/>
-  </node>
-  <node id="-295" visible="true" lat="44.660977796703" lon="-73.322648583379">
-    <!-- conflict: "495 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "495 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="495"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233446"/>
-  </node>
-  <node id="-297" visible="true" lat="44.660783247436" lon="-73.321626245752">
-    <!-- conflict: "494 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "494 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="494"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233448"/>
-  </node>
-  <node id="-302" visible="true" lat="44.660433243369" lon="-73.322523747415">
-    <!-- conflict: "493 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "493 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="493"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233453"/>
-  </node>
-  <node id="-304" visible="true" lat="44.660413222139" lon="-73.321717797345">
-    <!-- conflict: "492 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "492 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="492"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233455"/>
-  </node>
-  <node id="-308" visible="true" lat="44.660275893054" lon="-73.322976648293">
-    <!-- conflict: "493A United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "493A U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="493A"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233460"/>
-  </node>
-  <node id="-311" visible="true" lat="44.660024122869" lon="-73.322198449133">
-    <!-- conflict: "489 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "489 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="489"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233464"/>
-  </node>
-  <node id="-318" visible="true" lat="44.659814315359" lon="-73.32166439203">
-    <!-- conflict: "488 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "488 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="488"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233472"/>
-  </node>
-  <node id="-322" visible="true" lat="44.659690828551" lon="-73.322321558119">
-    <!-- conflict: "487 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "487 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="487"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233476"/>
-  </node>
-  <node id="-328" visible="true" lat="44.659413771324" lon="-73.32209163697">
-    <!-- conflict: "483 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "483 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="483"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233482"/>
-  </node>
-  <node id="-330" visible="true" lat="44.659356550668" lon="-73.323342858821">
-    <!-- conflict: "485 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "485 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="485"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233484"/>
-  </node>
-  <node id="-333" visible="true" lat="44.659192519966" lon="-73.322358666339">
-    <!-- conflict: "481 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "481 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="481"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233487"/>
-  </node>
-  <node id="-334" visible="true" lat="44.65918489008" lon="-73.322022974598">
-    <!-- conflict: "479 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "479 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="479"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233488"/>
-  </node>
-  <node id="-336" visible="true" lat="44.658802144956" lon="-73.322352256642">
-    <!-- conflict: "477 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "477 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="477"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233490"/>
-  </node>
-  <node id="-339" visible="true" lat="44.658583339386" lon="-73.322499779734">
-    <!-- conflict: "475 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "475 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="475"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233493"/>
-  </node>
-  <node id="-343" visible="true" lat="44.658570722391" lon="-73.321153222539">
-    <!-- conflict: "476 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "476 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="476"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233497"/>
-  </node>
-  <node id="-347" visible="true" lat="44.658307509406" lon="-73.321855125385">
-    <!-- conflict: "473 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "473 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="473"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233502"/>
-  </node>
-  <node id="-350" visible="true" lat="44.658218976076" lon="-73.320894855437">
-    <!-- conflict: "472 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "472 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="472"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233505"/>
-  </node>
-  <node id="-351" visible="true" lat="44.658132031754" lon="-73.321847495875">
-    <!-- conflict: "471 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "471 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="471"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233506"/>
-  </node>
-  <node id="-352" visible="true" lat="44.65804609206" lon="-73.320539962229">
-    <!-- conflict: "472 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "472 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="472"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233507"/>
-  </node>
-  <node id="-359" visible="true" lat="44.657777265371" lon="-73.321069297791">
-    <!-- conflict: "470 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "470 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="470"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233514"/>
-  </node>
-  <node id="-360" visible="true" lat="44.657665700196" lon="-73.321838304624">
-    <!-- conflict: "467 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "467 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="467"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233515"/>
-  </node>
-  <node id="-364" visible="true" lat="44.657237975771" lon="-73.322157091664">
-    <!-- conflict: "465B United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "465B U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="465B"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233519"/>
-  </node>
-  <node id="-366" visible="true" lat="44.657316275585" lon="-73.321603673918">
-    <!-- conflict: "465 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "465 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="465"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233521"/>
-  </node>
-  <node id="-373" visible="true" lat="44.656408211382" lon="-73.32041688494">
-    <!-- conflict: "460 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "460 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="460"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233529"/>
-  </node>
-  <node id="-388" visible="true" lat="44.655393079017" lon="-73.320184287497">
-    <!-- conflict: "452 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "452 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="452"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233544"/>
-  </node>
-  <node id="-407" visible="true" lat="44.654073194624" lon="-73.320375022885">
-    <!-- conflict: "441 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "441 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="441"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233564"/>
-  </node>
-  <node id="-435" visible="true" lat="44.652243240746" lon="-73.317294371067">
-    <!-- conflict: "420 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "420 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="420"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233592"/>
-  </node>
-  <node id="-438" visible="true" lat="44.652162031036" lon="-73.317063863711">
-    <!-- conflict: "418 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "418 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="418"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233595"/>
-  </node>
-  <node id="-477" visible="true" lat="44.650307531484" lon="-73.315521168219">
-    <!-- conflict: "400 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "400 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="400"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233636"/>
-  </node>
-  <node id="-511" visible="true" lat="44.649286145225" lon="-73.31521496323">
-    <!-- conflict: "394 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "394 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="394"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233671"/>
-  </node>
-  <node id="-527" visible="true" lat="44.648382048042" lon="-73.274817664412">
-    <!-- conflict: "154 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "154 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="154"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233689"/>
-  </node>
-  <node id="-543" visible="true" lat="44.646890118665" lon="-73.293595838361">
-    <!-- conflict: "238 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "238 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="238"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233705"/>
-  </node>
-  <node id="-550" visible="true" lat="44.64669938495" lon="-73.294717359823">
-    <!-- conflict: "250 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "250 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="250"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233712"/>
-  </node>
-  <node id="-556" visible="true" lat="44.646504473792" lon="-73.297772675586">
-    <!-- conflict: "266 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "266 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="266"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233718"/>
-  </node>
-  <node id="-557" visible="true" lat="44.64658296887" lon="-73.299172997452">
-    <!-- conflict: "274 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "274 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="274"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233719"/>
-  </node>
-  <node id="-560" visible="true" lat="44.646371489621" lon="-73.292037799247">
-    <!-- conflict: "225 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "225 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="225"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233722"/>
-  </node>
-  <node id="-561" visible="true" lat="44.646348787404" lon="-73.304126972078">
-    <!-- conflict: "312 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "312 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="312"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233723"/>
-  </node>
-  <node id="-562" visible="true" lat="44.646281074311" lon="-73.309562836387">
-    <!-- conflict: "356 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "356 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="356"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233724"/>
-  </node>
-  <node id="-570" visible="true" lat="44.646255431837" lon="-73.300830796043">
-    <!-- conflict: "286 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "286 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="286"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233733"/>
-  </node>
-  <node id="-572" visible="true" lat="44.646195844148" lon="-73.295159866213">
-    <!-- conflict: "255 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "255 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="255"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233735"/>
-  </node>
-  <node id="-575" visible="true" lat="44.646108731735" lon="-73.301303906413">
-    <!-- conflict: "288 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "288 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="288"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233738"/>
-  </node>
-  <node id="-576" visible="true" lat="44.646134808125" lon="-73.295503187373">
-    <!-- conflict: "257 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "257 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="257"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233739"/>
-  </node>
-  <node id="-577" visible="true" lat="44.646065944052" lon="-73.30169667778">
-    <!-- conflict: "290 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "290 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="290"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233740"/>
-  </node>
-  <node id="-578" visible="true" lat="44.645902111605" lon="-73.311761433825">
-    <!-- conflict: "366 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "366 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="366"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233742"/>
-  </node>
-  <node id="-579" visible="true" lat="44.645883961802" lon="-73.310911119137">
-    <!-- conflict: "362 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "362 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="362"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233743"/>
-  </node>
-  <node id="-580" visible="true" lat="44.645875408082" lon="-73.311463886106">
-    <!-- conflict: "364 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "364 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="364"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233744"/>
-  </node>
-  <node id="-581" visible="true" lat="44.645962494001" lon="-73.303179130932">
-    <!-- conflict: "304 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "304 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="304"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233745"/>
-  </node>
-  <node id="-582" visible="true" lat="44.645907180002" lon="-73.303482524181">
-    <!-- conflict: "308 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "308 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="308"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233746"/>
-  </node>
-  <node id="-583" visible="true" lat="44.645886545021" lon="-73.304819834679">
-    <!-- conflict: "320 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "320 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="320"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233747"/>
-  </node>
-  <node id="-584" visible="true" lat="44.645872229199" lon="-73.304392942681">
-    <!-- conflict: "316 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "316 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="316"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233748"/>
-  </node>
-  <node id="-586" visible="true" lat="44.645830464052" lon="-73.310035425299">
-    <!-- conflict: "358 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "358 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="358"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233751"/>
-  </node>
-  <node id="-588" visible="true" lat="44.645892001041" lon="-73.303922543723">
-    <!-- conflict: "310 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "310 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="310"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233753"/>
-  </node>
-  <node id="-589" visible="true" lat="44.645768597938" lon="-73.308335833697">
-    <!-- conflict: "348 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "348 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="348"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233754"/>
-  </node>
-  <node id="-590" visible="true" lat="44.645770334009" lon="-73.305271100789">
-    <!-- conflict: "324 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "324 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="324"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233755"/>
-  </node>
-  <node id="-593" visible="true" lat="44.645721312326" lon="-73.30565495785">
-    <!-- conflict: "328 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "328 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="328"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233758"/>
-  </node>
-  <node id="-594" visible="true" lat="44.6457873926" lon="-73.306066240159">
-    <!-- conflict: "334 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "334 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="334"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233759"/>
-  </node>
-  <node id="-596" visible="true" lat="44.645654109383" lon="-73.307604672935">
-    <!-- conflict: "342 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "342 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="342"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233763"/>
-  </node>
-  <node id="-597" visible="true" lat="44.645630726449" lon="-73.307966428486">
-    <!-- conflict: "344 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "344 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="344"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233764"/>
-  </node>
-  <node id="-598" visible="true" lat="44.645536474864" lon="-73.30881889528">
-    <!-- conflict: "350 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "350 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="350"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233765"/>
-  </node>
   <node id="-599" visible="true" lat="44.645590151118" lon="-73.302885184085">
-    <!-- conflict: "301 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "2 South Street, South Hero, VT" -->
+    <!-- conflict: "301 U.S. Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "2 South Street, South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="301"/>
-    <tag k="addr:street" v="United States Route 2"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233766"/>
-  </node>
-  <node id="-602" visible="true" lat="44.645510216016" lon="-73.309377931495">
-    <!-- conflict: "354 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "354 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="354"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233769"/>
-  </node>
-  <node id="-603" visible="true" lat="44.645537539713" lon="-73.300913190057">
-    <!-- conflict: "291 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "291 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="291"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233770"/>
-  </node>
-  <node id="-604" visible="true" lat="44.645501569136" lon="-73.303607345297">
-    <!-- conflict: "307 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "307 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="307"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233771"/>
-  </node>
-  <node id="-605" visible="true" lat="44.645506201738" lon="-73.29500548563">
-    <!-- conflict: "251 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "251 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="251"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233772"/>
-  </node>
-  <node id="-606" visible="true" lat="44.645504131863" lon="-73.303990447245">
-    <!-- conflict: "315 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "315 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="315"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233774"/>
-  </node>
-  <node id="-608" visible="true" lat="44.645471494908" lon="-73.304185684446">
-    <!-- conflict: "317 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "317 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="317"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233777"/>
-  </node>
-  <node id="-609" visible="true" lat="44.645403440323" lon="-73.304726464693">
-    <!-- conflict: "321 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "321 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="321"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233778"/>
-  </node>
-  <node id="-610" visible="true" lat="44.64539837069" lon="-73.304995563788">
-    <!-- conflict: "323 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "323 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="323"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233779"/>
-  </node>
-  <node id="-614" visible="true" lat="44.645160472905" lon="-73.306723684251">
-    <!-- conflict: "337 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "337 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="337"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233785"/>
-  </node>
-  <node id="-618" visible="true" lat="44.645108383946" lon="-73.306159731629">
-    <!-- conflict: "333 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "333 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="333"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233789"/>
-  </node>
-  <node id="-622" visible="true" lat="44.644938840195" lon="-73.309449619628">
-    <!-- conflict: "353 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "353 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="353"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233793"/>
-  </node>
-  <node id="-623" visible="true" lat="44.645001999443" lon="-73.308848945912">
-    <!-- conflict: "347 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "347 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="347"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233794"/>
-  </node>
-  <node id="-626" visible="true" lat="44.644711886944" lon="-73.309220758951">
-    <!-- conflict: "351 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "351 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="351"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233797"/>
-  </node>
-  <node id="-676" visible="true" lat="44.6398795347" lon="-73.279414299003">
-    <!-- conflict: "147 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "147 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="147"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233850"/>
-  </node>
-  <node id="-716" visible="true" lat="44.637162640188" lon="-73.270677130364">
-    <!-- conflict: "95 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "95 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233892"/>
-  </node>
-  <node id="-723" visible="true" lat="44.636224224499" lon="-73.267495669955">
-    <!-- conflict: "79 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "79 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233899"/>
-  </node>
-  <node id="-729" visible="true" lat="44.635808421631" lon="-73.267037907442">
-    <!-- conflict: "75 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "75 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233906"/>
-  </node>
-  <node id="-730" visible="true" lat="44.635055447588" lon="-73.267721996143">
-    <!-- conflict: "71 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "14 Apple Boulevard, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233907"/>
-  </node>
-  <node id="-736" visible="true" lat="44.635667302558" lon="-73.266782303064">
-    <!-- conflict: "73 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "73 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233915"/>
-  </node>
-  <node id="-746" visible="true" lat="44.633922571222" lon="-73.263878913161">
-    <!-- conflict: "53 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "53 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233929"/>
-  </node>
-  <node id="-749" visible="true" lat="44.633674010998" lon="-73.263551371815">
-    <!-- conflict: "51 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "51 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="233932"/>
-  </node>
-  <node id="-1075" visible="true" lat="44.677859042302" lon="-73.30559725392">
-    <!-- conflict: "13 Ministry Lane, Grand Isle, VT" Fuzzy match to "13 Ministry Lane, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Ministry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234271"/>
-  </node>
-  <node id="-1076" visible="true" lat="44.678103693107" lon="-73.31162506586">
-    <!-- conflict: "25 Ministry Lane, Grand Isle, VT" Fuzzy match to "25 Ministry Lane, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Ministry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234272"/>
-  </node>
-  <node id="-1077" visible="true" lat="44.679705886159" lon="-73.301812429547">
-    <!-- conflict: "82 Town Line Road, Grand Isle, VT" Fuzzy match to "82 Town Line Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234273"/>
-  </node>
-  <node id="-1108" visible="true" lat="44.677647511319" lon="-73.30701291369">
-    <!-- conflict: "17 Ministry Lane, Grand Isle, VT" Fuzzy match to "17 Ministry Lane, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Ministry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234304"/>
-  </node>
-  <node id="-1109" visible="true" lat="44.678458677591" lon="-73.304927403444">
-    <!-- conflict: "11 Ministry Lane, Grand Isle, VT" Fuzzy match to "11 Ministry Lane, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Ministry Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234305"/>
-  </node>
-  <node id="-1110" visible="true" lat="44.678659411501" lon="-73.304148849291">
-    <!-- conflict: "74 Town Line Road, Grand Isle, VT" Fuzzy match to "74 Town Line Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234306"/>
-  </node>
-  <node id="-1112" visible="true" lat="44.678985568633" lon="-73.299182954617">
-    <!-- conflict: "18 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "18 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234308"/>
-  </node>
-  <node id="-1113" visible="true" lat="44.678038591927" lon="-73.297643861217">
-    <!-- conflict: "23 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "23 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234309"/>
-  </node>
-  <node id="-1114" visible="true" lat="44.675898669111" lon="-73.296884065836">
-    <!-- conflict: "33 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "33 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234310"/>
-  </node>
-  <node id="-1115" visible="true" lat="44.67502101078" lon="-73.297021257753">
-    <!-- conflict: "37 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "37 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234311"/>
-  </node>
-  <node id="-1116" visible="true" lat="44.674288099001" lon="-73.297124805047">
-    <!-- conflict: "41 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "41 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234312"/>
-  </node>
-  <node id="-1117" visible="true" lat="44.671920563294" lon="-73.304013880006">
-    <!-- conflict: "42 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "42 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234313"/>
-  </node>
-  <node id="-1118" visible="true" lat="44.674075880986" lon="-73.297844413472">
-    <!-- conflict: "43 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "43 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234314"/>
-  </node>
-  <node id="-1126" visible="true" lat="44.645674549899" lon="-73.297731570387">
-    <!-- conflict: "269 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "269 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="269"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234322"/>
-  </node>
-  <node id="-1130" visible="true" lat="44.680901010004" lon="-73.297203273605">
-    <!-- conflict: "3 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "3 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234326"/>
-  </node>
-  <node id="-1134" visible="true" lat="44.668001031869" lon="-73.321754829804">
-    <!-- conflict: "542 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "542 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="542"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234331"/>
-  </node>
-  <node id="-1141" visible="true" lat="44.677918347866" lon="-73.318535262945">
-    <!-- conflict: "617 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "617 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="617"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234339"/>
-  </node>
-  <node id="-1142" visible="true" lat="44.678292412295" lon="-73.318396694918">
-    <!-- conflict: "619 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "619 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="619"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234340"/>
   </node>
   <node id="-1182" visible="true" lat="44.673033716077" lon="-73.253032694483">
     <!-- conflict: "183 Fish Bladder Island, South Hero, VT" No match in OSM, but a different address exists <5m away: "183 , South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="183"/>
     <tag k="addr:street" v="Fish Bladder Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338402"/>
   </node>
@@ -1037,6 +23,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="Cedar Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338403"/>
   </node>
@@ -1045,6 +32,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="163"/>
     <tag k="addr:street" v="Kellogg Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338404"/>
   </node>
@@ -1053,6 +41,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="1071"/>
     <tag k="addr:street" v="Stave Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451788"/>
   </node>
@@ -1061,6 +50,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="315"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451791"/>
   </node>
@@ -1069,6 +59,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="423"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451792"/>
   </node>
@@ -1077,6 +68,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="519"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451793"/>
   </node>
@@ -1085,6 +77,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="579"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451794"/>
   </node>
@@ -1093,6 +86,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="517"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451795"/>
   </node>
@@ -1101,6 +95,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="777"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451796"/>
   </node>
@@ -1109,6 +104,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="885"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451797"/>
   </node>
@@ -1117,6 +113,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="775"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451798"/>
   </node>
@@ -1125,6 +122,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Sawyer Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451799"/>
   </node>
@@ -1133,6 +131,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="243"/>
     <tag k="addr:street" v="Kellogg Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451800"/>
   </node>
@@ -1141,6 +140,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="219"/>
     <tag k="addr:street" v="Cedar Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451801"/>
   </node>
@@ -1149,6 +149,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="97"/>
     <tag k="addr:street" v="Fish Bladder Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452196"/>
   </node>
@@ -1157,6 +158,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="579"/>
     <tag k="addr:street" v="Fish Bladder Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452197"/>
   </node>
@@ -1165,6 +167,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="218"/>
     <tag k="addr:street" v="Cedar Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452199"/>
   </node>
@@ -1173,6 +176,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="1000"/>
     <tag k="addr:street" v="Stave Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452201"/>
   </node>
@@ -1181,6 +185,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="245"/>
     <tag k="addr:street" v="Cedar Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452415"/>
   </node>
@@ -1189,6 +194,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="317"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452416"/>
   </node>
@@ -1197,6 +203,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="421"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452417"/>
   </node>
@@ -1205,6 +212,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="513"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452418"/>
   </node>
@@ -1213,6 +221,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Kellogg Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452419"/>
   </node>
@@ -1221,6 +230,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Kellogg Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452456"/>
   </node>
@@ -1229,6 +239,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="339"/>
     <tag k="addr:street" v="Kellogg Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452457"/>
   </node>
@@ -1237,6 +248,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="363"/>
     <tag k="addr:street" v="Cedar Island"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452458"/>
   </node>
@@ -1245,6 +257,7 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="887"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452459"/>
   </node>
@@ -1253,135 +266,26 @@
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="515"/>
     <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452460"/>
-  </node>
-  <node id="-1507" visible="true" lat="44.646875587872" lon="-73.291832082068">
-    <!-- conflict: "226 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "226 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="226"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454227"/>
-  </node>
-  <node id="-1543" visible="true" lat="44.646859141142" lon="-73.295167948932">
-    <!-- conflict: "252 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "252 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="252"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620565"/>
-  </node>
-  <node id="-1556" visible="true" lat="44.634430558684" lon="-73.26518681">
-    <!-- conflict: "59 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "59 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="656271"/>
   </node>
   <node id="-1558" visible="true" lat="44.644834725304" lon="-73.299288219497">
     <!-- conflict: "127 Lavin Lane, South Hero, VT" No match in OSM, but a different address exists <5m away: "113 Lavin Lane, South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="127"/>
     <tag k="addr:street" v="Lavin Lane"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656557"/>
   </node>
-  <node id="-1560" visible="true" lat="44.680696747488" lon="-73.301546071502">
-    <!-- conflict: "86 Town Line Road, Grand Isle, VT" Fuzzy match to "86 Town Line Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:street" v="Town Line Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751571"/>
-  </node>
-  <node id="-1561" visible="true" lat="44.677381628773" lon="-73.317658169467">
-    <!-- conflict: "618 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "618 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="618"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751572"/>
-  </node>
-  <node id="-1571" visible="true" lat="44.677708610331" lon="-73.296260023838">
-    <!-- conflict: "27 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "27 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751582"/>
-  </node>
-  <node id="-1595" visible="true" lat="44.657591728662" lon="-73.321603560744">
-    <!-- conflict: "467A United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "467A U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="467A"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751608"/>
-  </node>
-  <node id="-1596" visible="true" lat="44.656876899955" lon="-73.322006565835">
-    <!-- conflict: "465A United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "465A U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="465A"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751609"/>
-  </node>
-  <node id="-1598" visible="true" lat="44.64810106946" lon="-73.275885280175">
-    <!-- conflict: "156 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "156 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="156"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751611"/>
-  </node>
-  <node id="-1613" visible="true" lat="44.637380256166" lon="-73.268944795673">
-    <!-- conflict: "90 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "90 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="751630"/>
-  </node>
   <node id="-1672" visible="true" lat="44.635533545314" lon="-73.267751976062">
-    <!-- conflict: "69 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "12 Apple Boulevard, South Hero, VT" -->
+    <!-- conflict: "69 U.S. Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "12 Apple Boulevard, South Hero, VT" -->
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="United States Route 2"/>
+    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="755023"/>
-  </node>
-  <node id="-1726" visible="true" lat="44.645688088789" lon="-73.308833896675">
-    <!-- conflict: "352 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "352 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="352"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="764197"/>
-  </node>
-  <node id="-1751" visible="true" lat="44.681483721317" lon="-73.29729225922">
-    <!-- conflict: "1 Sweeney Farm Road, Grand Isle, VT" Fuzzy match to "1 Sweeney Farm Road, South Hero, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Sweeney Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768570"/>
-  </node>
-  <node id="-1774" visible="true" lat="44.646205217378" lon="-73.304688679783">
-    <!-- conflict: "318 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "318 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="318"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="773053"/>
-  </node>
-  <node id="-1784" visible="true" lat="44.646332827308" lon="-73.283691746638">
-    <!-- conflict: "184 United States Route 2, South Hero, VT" No match in OSM, but a different address exists <5m away: "184 U.S. Route 2, South Hero, VT" -->
-    <tag k="addr:city" v="South Hero"/>
-    <tag k="addr:housenumber" v="184"/>
-    <tag k="addr:street" v="United States Route 2"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1050460"/>
   </node>
 </osm>

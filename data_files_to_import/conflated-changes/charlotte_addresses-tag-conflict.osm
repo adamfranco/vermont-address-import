@@ -5,6 +5,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="86"/>
     <tag k="addr:street" v="Olde South Carriage Road"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63533"/>
   </node>
@@ -13,6 +14,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="83"/>
     <tag k="addr:street" v="Olde South Carriage Road"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="63546"/>
   </node>
@@ -21,22 +23,16 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="70"/>
     <tag k="addr:street" v="Old Higbee Road"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64238"/>
-  </node>
-  <node id="-1639" visible="true" lat="44.269116467409" lon="-73.181257948421">
-    <!-- conflict: "309 Bullfrog Run, North Ferrisburg, VT" Fuzzy match to "309 Bullfrog Run, Charlotte, VT" -->
-    <tag k="addr:city" v="North Ferrisburg"/>
-    <tag k="addr:housenumber" v="309"/>
-    <tag k="addr:street" v="Bullfrog Run"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="64721"/>
   </node>
   <node id="-1711" visible="true" lat="44.283532529247" lon="-73.293806783046">
     <!-- conflict: "9 Garden Island, Charlotte, VT" No match in OSM, but a different address exists <5m away: "9 , Charlotte, VT" -->
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Garden Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64798"/>
   </node>
@@ -45,6 +41,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Garden Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64799"/>
   </node>
@@ -53,6 +50,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Garden Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64800"/>
   </node>
@@ -61,6 +59,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Garden Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64801"/>
   </node>
@@ -69,6 +68,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Garden Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64802"/>
   </node>
@@ -77,6 +77,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Garden Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64803"/>
   </node>
@@ -85,6 +86,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Dean Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64804"/>
   </node>
@@ -93,6 +95,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="93"/>
     <tag k="addr:street" v="Olde North Carriage Road"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64840"/>
   </node>
@@ -101,6 +104,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Cedar Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64868"/>
   </node>
@@ -109,6 +113,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Cedar Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64869"/>
   </node>
@@ -117,6 +122,7 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Cedar Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64870"/>
   </node>
@@ -125,22 +131,16 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Cedar Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64871"/>
-  </node>
-  <node id="-1833" visible="true" lat="44.313608697658" lon="-73.156629451935">
-    <!-- conflict: "451 Red Truck Lane, Hinesburg, VT" Fuzzy match to "451 Red Truck Lane, Charlotte, VT" -->
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="451"/>
-    <tag k="addr:street" v="Red Truck Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="64945"/>
   </node>
   <node id="-1837" visible="true" lat="44.329365365786" lon="-73.170800360517">
     <!-- conflict: "34 Olde North Carriage Road, Charlotte, VT" No match in OSM, but a different address exists <5m away: "34 North Olde Carriage Road, Charlotte, VT" -->
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:street" v="Olde North Carriage Road"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64949"/>
   </node>
@@ -149,23 +149,8 @@
     <tag k="addr:city" v="Charlotte"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Garden Island"/>
+    <tag k="addr:postcode" v="05445"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="64975"/>
-  </node>
-  <node id="-1989" visible="true" lat="44.3144487746" lon="-73.157602364691">
-    <!-- conflict: "450 Red Truck Lane, Hinesburg, VT" Fuzzy match to "450 Red Truck Lane, Charlotte, VT" -->
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="450"/>
-    <tag k="addr:street" v="Red Truck Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="307310"/>
-  </node>
-  <node id="-2151" visible="true" lat="44.314761992638" lon="-73.155868803437">
-    <!-- conflict: "438 Red Truck Lane, Hinesburg, VT" Fuzzy match to "438 Red Truck Lane, Charlotte, VT" -->
-    <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="438"/>
-    <tag k="addr:street" v="Red Truck Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451535"/>
   </node>
 </osm>

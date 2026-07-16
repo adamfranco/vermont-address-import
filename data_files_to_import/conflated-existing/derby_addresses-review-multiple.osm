@@ -5,7 +5,17 @@
     <tag k="addr:city" v="Derby Line"/>
     <tag k="addr:housenumber" v="907"/>
     <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:postcode" v="05830"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="82037"/>
+  </node>
+  <node id="-1199" visible="true" lat="44.9522883202" lon="-72.146397498523">
+    <!-- multiple: "3923 U.S. Route 5, Derby, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Derby"/>
+    <tag k="addr:housenumber" v="3923"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:postcode" v="05829"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="82903"/>
   </node>
 </osm>

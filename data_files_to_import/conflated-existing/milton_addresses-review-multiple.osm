@@ -5,6 +5,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="350"/>
     <tag k="addr:street" v="Murray Avenue"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="158397"/>
   </node>
@@ -13,6 +14,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="524"/>
     <tag k="addr:street" v="Lake Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="158590"/>
   </node>
@@ -21,6 +23,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Sanderson Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="158822"/>
   </node>
@@ -29,6 +32,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Sanderson Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="158823"/>
   </node>
@@ -37,6 +41,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="215"/>
     <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="158947"/>
   </node>
@@ -45,6 +50,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="215"/>
     <tag k="addr:street" v="Poor Farm Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="158950"/>
   </node>
@@ -53,6 +59,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="River Street"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="159033"/>
   </node>
@@ -61,6 +68,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="308"/>
     <tag k="addr:street" v="West Milton Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="159238"/>
   </node>
@@ -69,6 +77,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="River Street"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="159453"/>
   </node>
@@ -77,6 +86,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Lamoille Terrace"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="159503"/>
   </node>
@@ -85,6 +95,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Landfill Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="159858"/>
   </node>
@@ -93,14 +104,25 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Haydenberry Drive"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="159922"/>
+  </node>
+  <node id="-1834" visible="true" lat="44.622274816121" lon="-73.121254223126">
+    <!-- multiple: "250 U.S. Route 7 South, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="250"/>
+    <tag k="addr:street" v="U.S. Route 7 South"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="159988"/>
   </node>
   <node id="-1914" visible="true" lat="44.618862030616" lon="-73.120425727173">
     <!-- multiple: "69 Middle Road, Milton, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:street" v="Middle Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="160075"/>
   </node>
@@ -109,6 +131,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:street" v="Bombardier Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="160079"/>
   </node>
@@ -117,6 +140,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Precast Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="160359"/>
   </node>
@@ -125,6 +149,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="Gravelle Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="160605"/>
   </node>
@@ -133,6 +158,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="262"/>
     <tag k="addr:street" v="Middle Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="160669"/>
   </node>
@@ -141,6 +167,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="262"/>
     <tag k="addr:street" v="Middle Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="160670"/>
   </node>
@@ -149,6 +176,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:street" v="Gravelle Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="160881"/>
   </node>
@@ -157,6 +185,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="313"/>
     <tag k="addr:street" v="Hardscrabble Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="161011"/>
   </node>
@@ -165,6 +194,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Herrick Avenue"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="161166"/>
   </node>
@@ -173,6 +203,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Herrick Avenue"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="161179"/>
   </node>
@@ -181,6 +212,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="36"/>
     <tag k="addr:street" v="Maplewood Avenue"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="161290"/>
   </node>
@@ -189,6 +221,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Precast Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="161653"/>
   </node>
@@ -197,6 +230,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:street" v="Lamoille Terrace"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="161724"/>
   </node>
@@ -205,6 +239,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
     <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162414"/>
   </node>
@@ -213,6 +248,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
     <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162415"/>
   </node>
@@ -221,6 +257,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
     <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162416"/>
   </node>
@@ -229,6 +266,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
     <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162417"/>
   </node>
@@ -237,6 +275,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
     <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162419"/>
   </node>
@@ -245,6 +284,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
     <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162420"/>
   </node>
@@ -253,6 +293,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="365"/>
     <tag k="addr:street" v="Eagle Mountain Harbor Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162421"/>
   </node>
@@ -261,14 +302,25 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="67"/>
     <tag k="addr:street" v="West Milton Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="162564"/>
+  </node>
+  <node id="-4236" visible="true" lat="44.624919349874" lon="-73.119538289341">
+    <!-- multiple: "199 U.S. Route 7 South, Milton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="U.S. Route 7 South"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339171"/>
   </node>
   <node id="-4562" visible="true" lat="44.623222733716" lon="-73.132989692427">
     <!-- multiple: "7 Southerberry Drive, Milton, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Southerberry Drive"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365108"/>
   </node>
@@ -277,6 +329,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Southerberry Drive"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365110"/>
   </node>
@@ -285,6 +338,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Southerberry Drive"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451299"/>
   </node>
@@ -293,6 +347,7 @@
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="Beebe Hill Road"/>
+    <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759930"/>
   </node>

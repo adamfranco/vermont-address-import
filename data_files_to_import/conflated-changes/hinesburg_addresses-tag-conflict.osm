@@ -5,6 +5,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="227"/>
     <tag k="addr:street" v="Maple Tree Lane"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="128445"/>
   </node>
@@ -13,6 +14,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="175"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129181"/>
   </node>
@@ -21,6 +23,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="185"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129186"/>
   </node>
@@ -29,6 +32,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="133"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129197"/>
   </node>
@@ -37,6 +41,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="160"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129209"/>
   </node>
@@ -45,6 +50,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="203"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129212"/>
   </node>
@@ -53,6 +59,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="121"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129215"/>
   </node>
@@ -61,6 +68,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="144"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129218"/>
   </node>
@@ -69,6 +77,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="221"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129222"/>
   </node>
@@ -77,6 +86,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="114"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129227"/>
   </node>
@@ -85,6 +95,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="226"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129231"/>
   </node>
@@ -93,6 +104,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="85"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129236"/>
   </node>
@@ -101,6 +113,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="242"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129239"/>
   </node>
@@ -109,30 +122,16 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="78"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129240"/>
-  </node>
-  <node id="-1389" visible="true" lat="44.308083001715" lon="-73.151427619927">
-    <!-- conflict: "1068 Burritt Road, Charlotte, VT" Fuzzy match to "1068 Burritt Road, Hinesburg, VT" -->
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:housenumber" v="1068"/>
-    <tag k="addr:street" v="Burritt Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129485"/>
-  </node>
-  <node id="-1580" visible="true" lat="44.280352580728" lon="-73.069079210236">
-    <!-- conflict: "15196 Vermont Route 116, Starksboro, VT" Fuzzy match to "15196 Vermont Route 116, Hinesburg, VT" -->
-    <tag k="addr:city" v="Starksboro"/>
-    <tag k="addr:housenumber" v="15196"/>
-    <tag k="addr:street" v="Vermont Route 116"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="129679"/>
   </node>
   <node id="-1642" visible="true" lat="44.32783277909" lon="-73.106593267819">
     <!-- conflict: "62 Lyman Meadow, Hinesburg, VT" Fuzzy match to "62 Lyman Meadows, Hinesburg, VT" -->
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="62"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129743"/>
   </node>
@@ -141,6 +140,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="101"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129744"/>
   </node>
@@ -149,6 +149,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="151"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129745"/>
   </node>
@@ -157,6 +158,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="163"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129746"/>
   </node>
@@ -165,6 +167,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="189"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129747"/>
   </node>
@@ -173,6 +176,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="249"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129748"/>
   </node>
@@ -181,6 +185,7 @@
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="245"/>
     <tag k="addr:street" v="Lyman Meadow"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="129749"/>
   </node>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-101" visible="true" lat="44.514159963999" lon="-72.683897668254">
+    <!-- city-conflict: "61 Bedell Farm Road, Morrisville, VT" City conflict match to "61 Bedell Farm Road, Stowe, VT" -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Bedell Farm Road"/>
+    <tag k="addr:postcode" v="05661"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="170689"/>
+  </node>
+  <node id="-3864" visible="true" lat="44.530446797697" lon="-72.816751740513">
+    <!-- city-conflict: "4410 Toll Road, Underhill, VT" City conflict match to "4410 Toll Road, Stowe, VT" -->
+    <tag k="addr:city" v="Underhill"/>
+    <tag k="addr:housenumber" v="4410"/>
+    <tag k="addr:street" v="Toll Road"/>
+    <tag k="addr:postcode" v="05489"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767475"/>
+  </node>
+</osm>

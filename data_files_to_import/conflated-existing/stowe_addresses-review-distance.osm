@@ -5,6 +5,7 @@
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="195"/>
     <tag k="addr:street" v="Elmore Mountain Road"/>
+    <tag k="addr:postcode" v="05672"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249960"/>
   </node>
@@ -13,14 +14,25 @@
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:postcode" v="05672"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="250397"/>
+  </node>
+  <node id="-1082" visible="true" lat="44.476959556027" lon="-72.692677196001">
+    <!-- offset: "269 Weeks Hill Road, Stowe, VT" Significant offset - 137.4m -->
+    <tag k="addr:city" v="Stowe"/>
+    <tag k="addr:housenumber" v="269"/>
+    <tag k="addr:street" v="Weeks Hill Road"/>
+    <tag k="addr:postcode" v="05672"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="250415"/>
   </node>
   <node id="-3954" visible="true" lat="44.47820812268" lon="-72.721986521432">
     <!-- offset: "57 Mountain Road, Stowe, VT" Significant offset - 3016.2m -->
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:postcode" v="05672"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773320"/>
   </node>
@@ -29,6 +41,7 @@
     <tag k="addr:city" v="Stowe"/>
     <tag k="addr:housenumber" v="304"/>
     <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:postcode" v="05672"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050975"/>
   </node>

@@ -5,6 +5,7 @@
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="4260"/>
     <tag k="addr:street" v="East Orange Road"/>
+    <tag k="addr:postcode" v="05086"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="78"/>
   </node>
@@ -13,6 +14,7 @@
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="4606"/>
     <tag k="addr:street" v="East Orange Road"/>
+    <tag k="addr:postcode" v="05086"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="79"/>
   </node>
@@ -21,14 +23,25 @@
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="415"/>
     <tag k="addr:street" v="Maxfield Road"/>
+    <tag k="addr:postcode" v="05641"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="183977"/>
+  </node>
+  <node id="-589" visible="true" lat="44.142641103953" lon="-72.317563127892">
+    <!-- duplicates-in-different-towns: "7 U.S. Route 302, West Topsham, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 341859: "7 U.S. Route 302, Orange, VT" -->
+    <tag k="addr:city" v="West Topsham"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="U.S. Route 302"/>
+    <tag k="addr:postcode" v="05086"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="309130"/>
   </node>
   <node id="-678" visible="true" lat="44.0952724402" lon="-72.344907449701">
     <!-- duplicates-in-different-towns: "4150 East Orange Road, West Topsham, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 77079: "4150 East Orange Road, Corinth, VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="4150"/>
     <tag k="addr:street" v="East Orange Road"/>
+    <tag k="addr:postcode" v="05086"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751201"/>
   </node>

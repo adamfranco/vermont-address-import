@@ -1,51 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-313" visible="true" lat="44.2546923703" lon="-73.227297368907">
-    <tag k="addr:city" v="North Ferrisburg"/>
-    <tag k="addr:housenumber" v="6656"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="107052"/>
-  </node>
-  <node id="-797" visible="true" lat="44.206391690223" lon="-73.246247767829">
-    <tag k="addr:city" v="Ferrisburgh"/>
-    <tag k="addr:housenumber" v="3177"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="107551"/>
-  </node>
-  <node id="-1125" visible="true" lat="44.188802118073" lon="-73.247766017342">
-    <tag k="addr:city" v="Ferrisburgh"/>
-    <tag k="addr:housenumber" v="1945"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="107896"/>
-  </node>
-  <node id="-1131" visible="true" lat="44.188355798404" lon="-73.246713161362">
-    <tag k="addr:city" v="Ferrisburgh"/>
-    <tag k="addr:housenumber" v="1906"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="107902"/>
-  </node>
-  <node id="-1135" visible="true" lat="44.188157434899" lon="-73.246621607103">
-    <tag k="addr:city" v="Ferrisburgh"/>
-    <tag k="addr:housenumber" v="1908"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="107906"/>
-  </node>
-  <node id="-1782" visible="true" lat="44.175967200926" lon="-73.240443674779">
-    <tag k="addr:city" v="Vergennes"/>
-    <tag k="addr:housenumber" v="855"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454669"/>
-  </node>
   <node id="-1788" visible="true" lat="44.205858107205" lon="-73.249899269328">
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="162"/>
     <tag k="addr:street" v="Little Chicago Road"/>
+    <tag k="addr:postcode" v="05456"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500079"/>
   </node>
@@ -53,6 +12,7 @@
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="763"/>
     <tag k="addr:street" v="Botsford Road"/>
+    <tag k="addr:postcode" v="05456"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="600003"/>
   </node>
@@ -60,6 +20,7 @@
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="324"/>
     <tag k="addr:street" v="Tuppers Crossing"/>
+    <tag k="addr:postcode" v="05456"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="600008"/>
   </node>
@@ -67,20 +28,15 @@
     <tag k="addr:city" v="Vergennes"/>
     <tag k="addr:housenumber" v="540"/>
     <tag k="addr:street" v="Woods Road"/>
+    <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="600009"/>
-  </node>
-  <node id="-1807" visible="true" lat="44.186359418809" lon="-73.24608453567">
-    <tag k="addr:city" v="Ferrisburgh"/>
-    <tag k="addr:housenumber" v="1758"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620716"/>
   </node>
   <node id="-1818" visible="true" lat="44.258575597847" lon="-73.227525254168">
     <tag k="addr:city" v="North Ferrisburg"/>
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:street" v="Old Hollow Road"/>
+    <tag k="addr:postcode" v="05473"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656702"/>
   </node>
@@ -88,6 +44,7 @@
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="4628"/>
     <tag k="addr:street" v="Sand Road"/>
+    <tag k="addr:postcode" v="05456"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761001"/>
   </node>
@@ -95,6 +52,7 @@
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="433"/>
     <tag k="addr:street" v="Botsford Road"/>
+    <tag k="addr:postcode" v="05456"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773617"/>
   </node>

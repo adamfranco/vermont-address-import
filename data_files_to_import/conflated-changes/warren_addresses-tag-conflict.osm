@@ -1,75 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-109" visible="true" lat="44.157852225527" lon="-72.882560789209">
-    <!-- conflict: "158 Sugar Ledge Road, Waitsfield, VT" Fuzzy match to "158 Sugar Ledge Road, Warren, VT" -->
-    <tag k="addr:city" v="Waitsfield"/>
-    <tag k="addr:housenumber" v="158"/>
-    <tag k="addr:street" v="Sugar Ledge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271122"/>
-  </node>
-  <node id="-110" visible="true" lat="44.157494885923" lon="-72.881396101993">
-    <!-- conflict: "133 Sugar Ledge Road, Waitsfield, VT" Fuzzy match to "133 Sugar Ledge Road, Warren, VT" -->
-    <tag k="addr:city" v="Waitsfield"/>
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Sugar Ledge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271123"/>
-  </node>
-  <node id="-111" visible="true" lat="44.157177869186" lon="-72.882784284296">
-    <!-- conflict: "185 Sugar Ledge Road, Waitsfield, VT" Fuzzy match to "185 Sugar Ledge Road, Warren, VT" -->
-    <tag k="addr:city" v="Waitsfield"/>
-    <tag k="addr:housenumber" v="185"/>
-    <tag k="addr:street" v="Sugar Ledge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271124"/>
-  </node>
-  <node id="-112" visible="true" lat="44.157100480455" lon="-72.881951966225">
-    <!-- conflict: "141 Sugar Ledge Road, Waitsfield, VT" Fuzzy match to "141 Sugar Ledge Road, Warren, VT" -->
-    <tag k="addr:city" v="Waitsfield"/>
-    <tag k="addr:housenumber" v="141"/>
-    <tag k="addr:street" v="Sugar Ledge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="271125"/>
-  </node>
-  <node id="-1679" visible="true" lat="44.158042276717" lon="-72.885405386666">
-    <!-- conflict: "295 Sugar Ledge Road, Waitsfield, VT" Fuzzy match to "295 Sugar Ledge Road, Warren, VT" -->
-    <tag k="addr:city" v="Waitsfield"/>
-    <tag k="addr:housenumber" v="295"/>
-    <tag k="addr:street" v="Sugar Ledge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620326"/>
-  </node>
   <node id="-1694" visible="true" lat="44.094722019054" lon="-72.819539723086">
     <!-- conflict: "83 Lenord Lane, Warren, VT" No match in OSM, but a different address exists <5m away: "93 Lenord Lane, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
     <tag k="addr:housenumber" v="83"/>
     <tag k="addr:street" v="Lenord Lane"/>
+    <tag k="addr:postcode" v="05674"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656032"/>
-  </node>
-  <node id="-1734" visible="true" lat="44.157496187883" lon="-72.88407828533">
-    <!-- conflict: "197 Sugar Ledge Road, Waitsfield, VT" Fuzzy match to "197 Sugar Ledge Road, Warren, VT" -->
-    <tag k="addr:city" v="Waitsfield"/>
-    <tag k="addr:housenumber" v="197"/>
-    <tag k="addr:street" v="Sugar Ledge Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="756778"/>
   </node>
   <node id="-1783" visible="true" lat="44.065734859651" lon="-72.834307330537">
     <!-- conflict: "83 Willow Street, Warren, VT" No match in OSM, but a different address exists <5m away: "98 Chestnut Street, Warren, VT" -->
     <tag k="addr:city" v="Warren"/>
     <tag k="addr:housenumber" v="83"/>
     <tag k="addr:street" v="Willow Street"/>
+    <tag k="addr:postcode" v="05674"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764004"/>
-  </node>
-  <node id="-1870" visible="true" lat="44.160489139019" lon="-72.929220139566">
-    <!-- conflict: "792 Mount Ellen Road, Bristol, VT" Fuzzy match to "792 Mount Ellen Road, Warren, VT" -->
-    <tag k="addr:city" v="Bristol"/>
-    <tag k="addr:housenumber" v="792"/>
-    <tag k="addr:street" v="Mount Ellen Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1050446"/>
   </node>
 </osm>

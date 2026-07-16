@@ -4,6 +4,7 @@
     <tag k="addr:city" v="North Ferrisburg"/>
     <tag k="addr:housenumber" v="227"/>
     <tag k="addr:street" v="Old Hollow Road"/>
+    <tag k="addr:postcode" v="05473"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106902"/>
   </node>
@@ -11,6 +12,7 @@
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="1044"/>
     <tag k="addr:street" v="Grosse Point Road"/>
+    <tag k="addr:postcode" v="05456"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="107271"/>
   </node>
@@ -18,13 +20,23 @@
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Little Chicago Road"/>
+    <tag k="addr:postcode" v="05456"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="107546"/>
+  </node>
+  <node id="-797" visible="true" lat="44.206391690223" lon="-73.246247767829">
+    <tag k="addr:city" v="Ferrisburgh"/>
+    <tag k="addr:housenumber" v="3177"/>
+    <tag k="addr:street" v="U.S. Route 7"/>
+    <tag k="addr:postcode" v="05456"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="107551"/>
   </node>
   <node id="-1307" visible="true" lat="44.17202889102" lon="-73.240212913206">
     <tag k="addr:city" v="Vergennes"/>
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:street" v="Monkton Road"/>
+    <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108084"/>
   </node>
@@ -32,6 +44,7 @@
     <tag k="addr:city" v="Vergennes"/>
     <tag k="addr:housenumber" v="154"/>
     <tag k="addr:street" v="Monkton Road"/>
+    <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108091"/>
   </node>
@@ -39,6 +52,7 @@
     <tag k="addr:city" v="Vergennes"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108165"/>
   </node>
@@ -46,6 +60,7 @@
     <tag k="addr:city" v="Vergennes"/>
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108167"/>
   </node>
@@ -53,6 +68,7 @@
     <tag k="addr:city" v="Vergennes"/>
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108170"/>
   </node>
@@ -60,13 +76,23 @@
     <tag k="addr:city" v="Vergennes"/>
     <tag k="addr:housenumber" v="133"/>
     <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108171"/>
+  </node>
+  <node id="-1612" visible="true" lat="44.243446079719" lon="-73.230400092593">
+    <tag k="addr:city" v="Ferrisburgh"/>
+    <tag k="addr:housenumber" v="5801"/>
+    <tag k="addr:street" v="U.S. Route 7"/>
+    <tag k="addr:postcode" v="05456"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="108401"/>
   </node>
   <node id="-1769" visible="true" lat="44.165053464003" lon="-73.240087561921">
     <tag k="addr:city" v="Vergennes"/>
     <tag k="addr:housenumber" v="67"/>
     <tag k="addr:street" v="New Haven Road"/>
+    <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452670"/>
   </node>
@@ -74,6 +100,7 @@
     <tag k="addr:city" v="Vergennes"/>
     <tag k="addr:housenumber" v="186"/>
     <tag k="addr:street" v="Monkton Road"/>
+    <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454481"/>
   </node>
@@ -81,6 +108,7 @@
     <tag k="addr:city" v="Ferrisburgh"/>
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:street" v="Walker Road"/>
+    <tag k="addr:postcode" v="05456"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611450"/>
   </node>

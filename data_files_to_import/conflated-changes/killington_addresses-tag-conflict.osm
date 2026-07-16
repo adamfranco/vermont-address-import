@@ -1,154 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-100" visible="true" lat="43.631005119459" lon="-72.730773947481">
-    <!-- conflict: "657 Little Sherburne Road, Bridgewater Corners, VT" Fuzzy match to "657 Little Sherburne Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="657"/>
-    <tag k="addr:street" v="Little Sherburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36523"/>
-  </node>
-  <node id="-336" visible="true" lat="43.670884408143" lon="-72.790696432198">
-    <!-- conflict: "3069 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "3069 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="3069"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224392"/>
-  </node>
-  <node id="-366" visible="true" lat="43.667687691174" lon="-72.786866475905">
-    <!-- conflict: "3311 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "3311 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="3311"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224423"/>
-  </node>
-  <node id="-374" visible="true" lat="43.666806495817" lon="-72.809808073924">
-    <!-- conflict: "2025 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "2025 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="2025"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224432"/>
-  </node>
-  <node id="-379" visible="true" lat="43.666508949527" lon="-72.810212430718">
-    <!-- conflict: "1995 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "1995 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="1995"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224437"/>
-  </node>
-  <node id="-382" visible="true" lat="43.666329658433" lon="-72.813401518182">
-    <!-- conflict: "1837 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "1837 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="1837"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224440"/>
-  </node>
-  <node id="-384" visible="true" lat="43.666431053863" lon="-72.785404411418">
-    <!-- conflict: "3429 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "3429 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="3429"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224442"/>
-  </node>
-  <node id="-386" visible="true" lat="43.666051185138" lon="-72.811242400485">
-    <!-- conflict: "1937 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "1937 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="1937"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224444"/>
-  </node>
-  <node id="-396" visible="true" lat="43.665795602397" lon="-72.7849743844">
-    <!-- conflict: "3471 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "3471 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="3471"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224455"/>
-  </node>
-  <node id="-424" visible="true" lat="43.66459778552" lon="-72.784013081615">
-    <!-- conflict: "3573 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "3573 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="3573"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224483"/>
-  </node>
-  <node id="-467" visible="true" lat="43.662799098212" lon="-72.781452320779">
-    <!-- conflict: "3748 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "3748 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="3748"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224527"/>
-  </node>
-  <node id="-580" visible="true" lat="43.659800988735" lon="-72.774130889719">
-    <!-- conflict: "4173 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "4173 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="4173"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224646"/>
-  </node>
-  <node id="-597" visible="true" lat="43.659508979231" lon="-72.774529740416">
-    <!-- conflict: "4180 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "4180 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="4180"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224664"/>
-  </node>
-  <node id="-620" visible="true" lat="43.658766464143" lon="-72.772104895173">
-    <!-- conflict: "4311 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "4311 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="4311"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224692"/>
-  </node>
-  <node id="-631" visible="true" lat="43.65845740297" lon="-72.771607988625">
-    <!-- conflict: "4307 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "4307 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="4307"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224703"/>
-  </node>
-  <node id="-632" visible="true" lat="43.658335663245" lon="-72.772288565835">
-    <!-- conflict: "4309 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "4309 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="4309"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224704"/>
-  </node>
-  <node id="-643" visible="true" lat="43.657947112364" lon="-72.772749709263">
-    <!-- conflict: "4305 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "4305 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="4305"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224716"/>
-  </node>
-  <node id="-655" visible="true" lat="43.657670295563" lon="-72.772492691099">
-    <!-- conflict: "4337 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "4337 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="4337"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224729"/>
-  </node>
   <node id="-698" visible="true" lat="43.655003821286" lon="-72.786851216958">
     <!-- conflict: "13 Summit Drive, Killington, VT" No match in OSM, but a different address exists <5m away: "21 January Way, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Summit Drive"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224775"/>
   </node>
@@ -157,6 +14,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Summit Drive"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224777"/>
   </node>
@@ -165,126 +23,16 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Summit Drive"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224781"/>
-  </node>
-  <node id="-732" visible="true" lat="43.652844701849" lon="-72.771561904726">
-    <!-- conflict: "4672 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "4672 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="4672"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224809"/>
-  </node>
-  <node id="-741" visible="true" lat="43.652167723253" lon="-72.771416597702">
-    <!-- conflict: "4718 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "4718 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="4718"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224818"/>
-  </node>
-  <node id="-772" visible="true" lat="43.649606023732" lon="-72.770798964596">
-    <!-- conflict: "4900 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "4900 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="4900"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224850"/>
-  </node>
-  <node id="-786" visible="true" lat="43.648373876389" lon="-72.770249647991">
-    <!-- conflict: "4988 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "4988 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="4988"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224864"/>
-  </node>
-  <node id="-842" visible="true" lat="43.645386968988" lon="-72.725587157028">
-    <!-- conflict: "375 Richardson Road, Bridgewater Corners, VT" Fuzzy match to "375 Richardson Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="375"/>
-    <tag k="addr:street" v="Richardson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224921"/>
-  </node>
-  <node id="-920" visible="true" lat="43.641883870154" lon="-72.768557321681">
-    <!-- conflict: "5448 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "5448 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="5448"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="224999"/>
-  </node>
-  <node id="-921" visible="true" lat="43.641721042159" lon="-72.76753358212">
-    <!-- conflict: "5465 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "5465 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="5465"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225000"/>
-  </node>
-  <node id="-926" visible="true" lat="43.641236575918" lon="-72.76738099433">
-    <!-- conflict: "5501 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "5501 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="5501"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225005"/>
-  </node>
-  <node id="-931" visible="true" lat="43.640832218376" lon="-72.768014235107">
-    <!-- conflict: "5520 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "5520 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="5520"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225010"/>
-  </node>
-  <node id="-963" visible="true" lat="43.63862350952" lon="-72.767594616929">
-    <!-- conflict: "5672 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "5672 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="5672"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225042"/>
-  </node>
-  <node id="-1217" visible="true" lat="43.603524474367" lon="-72.751107487737">
-    <!-- conflict: "8284 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "8284 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="8284"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225304"/>
-  </node>
-  <node id="-1221" visible="true" lat="43.601854315235" lon="-72.750829101758">
-    <!-- conflict: "8394 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "8394 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="8394"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225308"/>
-  </node>
-  <node id="-1223" visible="true" lat="43.601645174063" lon="-72.750756052498">
-    <!-- conflict: "8412 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "8412 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="8412"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225310"/>
-  </node>
-  <node id="-1227" visible="true" lat="43.600468899117" lon="-72.750352177039">
-    <!-- conflict: "8490 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "8490 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="8490"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225317"/>
   </node>
   <node id="-1228" visible="true" lat="43.600299765852" lon="-72.778668559035">
     <!-- conflict: "70 Highlander Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "70 Highlander At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="70"/>
     <tag k="addr:street" v="Highlander Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225318"/>
   </node>
@@ -293,6 +41,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="64"/>
     <tag k="addr:street" v="Highlander Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225320"/>
   </node>
@@ -301,6 +50,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="Northstar Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225323"/>
   </node>
@@ -309,6 +59,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="Northstar Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225324"/>
   </node>
@@ -317,6 +68,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Northstar Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225325"/>
   </node>
@@ -325,6 +77,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:street" v="Northstar Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225327"/>
   </node>
@@ -333,6 +86,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:street" v="Timberline North Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225328"/>
   </node>
@@ -341,6 +95,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Timberline North Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225330"/>
   </node>
@@ -349,6 +104,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="77"/>
     <tag k="addr:street" v="Timberline North Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225333"/>
   </node>
@@ -357,6 +113,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Timberline North Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225334"/>
   </node>
@@ -365,6 +122,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Timberline South Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225336"/>
   </node>
@@ -373,6 +131,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="145"/>
     <tag k="addr:street" v="Timberline North Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225338"/>
   </node>
@@ -381,6 +140,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:street" v="Timberline South Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225345"/>
   </node>
@@ -389,6 +149,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="31"/>
     <tag k="addr:street" v="East Glade Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225347"/>
   </node>
@@ -397,6 +158,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="105"/>
     <tag k="addr:street" v="Timberline South Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225348"/>
   </node>
@@ -405,6 +167,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="51"/>
     <tag k="addr:street" v="East Glade Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225349"/>
   </node>
@@ -413,6 +176,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="111"/>
     <tag k="addr:street" v="Timberline South Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225353"/>
   </node>
@@ -421,6 +185,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="141"/>
     <tag k="addr:street" v="West Glade Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225354"/>
   </node>
@@ -429,6 +194,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="85"/>
     <tag k="addr:street" v="East Glade Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225355"/>
   </node>
@@ -437,6 +203,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="161"/>
     <tag k="addr:street" v="West Glade Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225356"/>
   </node>
@@ -445,6 +212,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="91"/>
     <tag k="addr:street" v="East Glade Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225357"/>
   </node>
@@ -453,6 +221,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="120"/>
     <tag k="addr:street" v="West Glade Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225360"/>
   </node>
@@ -461,6 +230,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="212"/>
     <tag k="addr:street" v="West Glade Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225361"/>
   </node>
@@ -469,6 +239,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="198"/>
     <tag k="addr:street" v="West Glade Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225362"/>
   </node>
@@ -477,6 +248,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="180"/>
     <tag k="addr:street" v="West Glade Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225363"/>
   </node>
@@ -485,375 +257,8 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:street" v="West Glade Sunrise"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225365"/>
-  </node>
-  <node id="-1266" visible="true" lat="43.666271468077" lon="-72.809211233279">
-    <!-- conflict: "2046 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "2046 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="2046"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225366"/>
-  </node>
-  <node id="-1278" visible="true" lat="43.607484129364" lon="-72.75212219782">
-    <!-- conflict: "8006 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "8006 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="8006"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225378"/>
-  </node>
-  <node id="-1288" visible="true" lat="43.664892620103" lon="-72.836495389447">
-    <!-- conflict: "595 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "595 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="595"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225389"/>
-  </node>
-  <node id="-1294" visible="true" lat="43.667996370273" lon="-72.802320891606">
-    <!-- conflict: "2423 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "2423 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="2423"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225395"/>
-  </node>
-  <node id="-1305" visible="true" lat="43.647835664816" lon="-72.770107156481">
-    <!-- conflict: "5016 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "5016 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="5016"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225407"/>
-  </node>
-  <node id="-1307" visible="true" lat="43.671897580444" lon="-72.788751516412">
-    <!-- conflict: "3139 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "3139 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="3139"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225409"/>
-  </node>
-  <node id="-1367" visible="true" lat="43.597223800585" lon="-72.752250878596">
-    <!-- conflict: "226 Vermont Route 100, Bridgewater Corners, VT" Fuzzy match to "226 Vermont Route 100, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="226"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225475"/>
-  </node>
-  <node id="-1393" visible="true" lat="43.664992444186" lon="-72.810802526335">
-    <!-- conflict: "1894 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "1894 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="1894"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225502"/>
-  </node>
-  <node id="-1394" visible="true" lat="43.671774263721" lon="-72.790580843851">
-    <!-- conflict: "3073 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "3073 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="3073"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225503"/>
-  </node>
-  <node id="-1397" visible="true" lat="43.668609691731" lon="-72.803031505159">
-    <!-- conflict: "2363 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "2363 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="2363"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225506"/>
-  </node>
-  <node id="-1455" visible="true" lat="43.663247960542" lon="-72.832634729203">
-    <!-- conflict: "722 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "722 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="722"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="332673"/>
-  </node>
-  <node id="-1458" visible="true" lat="43.648496396027" lon="-72.731745746352">
-    <!-- conflict: "575 Richardson Road, Bridgewater Corners, VT" Fuzzy match to "575 Richardson Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="575"/>
-    <tag k="addr:street" v="Richardson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333744"/>
-  </node>
-  <node id="-1459" visible="true" lat="43.649892804422" lon="-72.731631621354">
-    <!-- conflict: "584 Richardson Road, Bridgewater Corners, VT" Fuzzy match to "584 Richardson Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="584"/>
-    <tag k="addr:street" v="Richardson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333745"/>
-  </node>
-  <node id="-1460" visible="true" lat="43.647514064227" lon="-72.72992789316">
-    <!-- conflict: "539 Richardson Road, Bridgewater Corners, VT" Fuzzy match to "539 Richardson Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="539"/>
-    <tag k="addr:street" v="Richardson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333746"/>
-  </node>
-  <node id="-1461" visible="true" lat="43.647209331777" lon="-72.728481992802">
-    <!-- conflict: "445 Richardson Road, Bridgewater Corners, VT" Fuzzy match to "445 Richardson Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="445"/>
-    <tag k="addr:street" v="Richardson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333747"/>
-  </node>
-  <node id="-1462" visible="true" lat="43.647182316376" lon="-72.726200727237">
-    <!-- conflict: "416 Richardson Road, Bridgewater Corners, VT" Fuzzy match to "416 Richardson Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="416"/>
-    <tag k="addr:street" v="Richardson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333748"/>
-  </node>
-  <node id="-1463" visible="true" lat="43.653420550592" lon="-72.737596430748">
-    <!-- conflict: "642 Richardson Road, Bridgewater Corners, VT" Fuzzy match to "642 Richardson Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="642"/>
-    <tag k="addr:street" v="Richardson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333749"/>
-  </node>
-  <node id="-1464" visible="true" lat="43.652057988524" lon="-72.733606247385">
-    <!-- conflict: "620 Richardson Road, Bridgewater Corners, VT" Fuzzy match to "620 Richardson Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="620"/>
-    <tag k="addr:street" v="Richardson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333750"/>
-  </node>
-  <node id="-1465" visible="true" lat="43.651952017484" lon="-72.71994424628">
-    <!-- conflict: "1509 Stevens Road, Bridgewater Corners, VT" Fuzzy match to "1509 Stevens Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="1509"/>
-    <tag k="addr:street" v="Stevens Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333753"/>
-  </node>
-  <node id="-1474" visible="true" lat="43.66759615971" lon="-72.808209833556">
-    <!-- conflict: "2079 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "2079 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="2079"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="336351"/>
-  </node>
-  <node id="-1475" visible="true" lat="43.663378366171" lon="-72.72983487885">
-    <!-- conflict: "2005 Oxbow Road, Bridgewater Corners, VT" Fuzzy match to "2005 Oxbow Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="2005"/>
-    <tag k="addr:street" v="Oxbow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="336512"/>
-  </node>
-  <node id="-1480" visible="true" lat="43.638116726213" lon="-72.733446581431">
-    <!-- conflict: "682 Little Sherburne Road, Bridgewater Corners, VT" Fuzzy match to "682 Little Sherburne Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="682"/>
-    <tag k="addr:street" v="Little Sherburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338427"/>
-  </node>
-  <node id="-1481" visible="true" lat="43.641347036235" lon="-72.738810055464">
-    <!-- conflict: "693 Little Sherburne Road, Bridgewater Corners, VT" Fuzzy match to "693 Little Sherburne Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="693"/>
-    <tag k="addr:street" v="Little Sherburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338428"/>
-  </node>
-  <node id="-1482" visible="true" lat="43.644171600903" lon="-72.740972686937">
-    <!-- conflict: "709 Little Sherburne Road, Bridgewater Corners, VT" Fuzzy match to "709 Little Sherburne Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="709"/>
-    <tag k="addr:street" v="Little Sherburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338429"/>
-  </node>
-  <node id="-1483" visible="true" lat="43.639812311437" lon="-72.735158627754">
-    <!-- conflict: "686 Little Sherburne Road, Bridgewater Corners, VT" Fuzzy match to "686 Little Sherburne Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="686"/>
-    <tag k="addr:street" v="Little Sherburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338430"/>
-  </node>
-  <node id="-1498" visible="true" lat="43.660826794101" lon="-72.720294992334">
-    <!-- conflict: "1518 Oxbow Road, Bridgewater Corners, VT" Fuzzy match to "1518 Oxbow Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="1518"/>
-    <tag k="addr:street" v="Oxbow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344811"/>
-  </node>
-  <node id="-1499" visible="true" lat="43.662380806786" lon="-72.729982829881">
-    <!-- conflict: "1935 Oxbow Road, Bridgewater Corners, VT" Fuzzy match to "1935 Oxbow Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="1935"/>
-    <tag k="addr:street" v="Oxbow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344812"/>
-  </node>
-  <node id="-1500" visible="true" lat="43.658116300325" lon="-72.720825030072">
-    <!-- conflict: "2020 Stevens Road, Bridgewater Corners, VT" Fuzzy match to "2020 Stevens Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="2020"/>
-    <tag k="addr:street" v="Stevens Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344813"/>
-  </node>
-  <node id="-1501" visible="true" lat="43.645304755939" lon="-72.722652552453">
-    <!-- conflict: "335 Richardson Road, Bridgewater Corners, VT" Fuzzy match to "335 Richardson Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="335"/>
-    <tag k="addr:street" v="Richardson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344815"/>
-  </node>
-  <node id="-1502" visible="true" lat="43.657903939481" lon="-72.743153717168">
-    <!-- conflict: "694 Richardson Road, Bridgewater Corners, VT" Fuzzy match to "694 Richardson Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="694"/>
-    <tag k="addr:street" v="Richardson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344816"/>
-  </node>
-  <node id="-1503" visible="true" lat="43.627723031174" lon="-72.734864662416">
-    <!-- conflict: "389 Little Sherburne Road, Bridgewater Corners, VT" Fuzzy match to "389 Little Sherburne Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="389"/>
-    <tag k="addr:street" v="Little Sherburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344817"/>
-  </node>
-  <node id="-1504" visible="true" lat="43.638166783916" lon="-72.734796364287">
-    <!-- conflict: "679 Little Sherburne Road, Bridgewater Corners, VT" Fuzzy match to "679 Little Sherburne Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="679"/>
-    <tag k="addr:street" v="Little Sherburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344818"/>
-  </node>
-  <node id="-1505" visible="true" lat="43.646190694037" lon="-72.740278151441">
-    <!-- conflict: "723 Little Sherburne Road, Bridgewater Corners, VT" Fuzzy match to "723 Little Sherburne Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="723"/>
-    <tag k="addr:street" v="Little Sherburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344890"/>
-  </node>
-  <node id="-1516" visible="true" lat="43.644934337731" lon="-72.853347603092">
-    <!-- conflict: "7150 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "7150 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="7150"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450356"/>
-  </node>
-  <node id="-1535" visible="true" lat="43.601220054659" lon="-72.750206350568">
-    <!-- conflict: "8463 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "8463 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="8463"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617585"/>
-  </node>
-  <node id="-1558" visible="true" lat="43.665357814763" lon="-72.784456142655">
-    <!-- conflict: "3559 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "3559 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="3559"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="754498"/>
-  </node>
-  <node id="-1568" visible="true" lat="43.628555515105" lon="-72.736673928194">
-    <!-- conflict: "667 Little Sherburne Road, Bridgewater Corners, VT" Fuzzy match to "667 Little Sherburne Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="667"/>
-    <tag k="addr:street" v="Little Sherburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="756182"/>
-  </node>
-  <node id="-1570" visible="true" lat="43.658368509154" lon="-72.717352099145">
-    <!-- conflict: "1071 Oxbow Road, Bridgewater Corners, VT" Fuzzy match to "1071 Oxbow Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="1071"/>
-    <tag k="addr:street" v="Oxbow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="756872"/>
-  </node>
-  <node id="-1571" visible="true" lat="43.65576103442" lon="-72.719045464429">
-    <!-- conflict: "1838 Stevens Road, Bridgewater Corners, VT" Fuzzy match to "1838 Stevens Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="1838"/>
-    <tag k="addr:street" v="Stevens Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="757192"/>
-  </node>
-  <node id="-1572" visible="true" lat="43.659295893355" lon="-72.714806043533">
-    <!-- conflict: "1082 Oxbow Road, Bridgewater Corners, VT" Fuzzy match to "1082 Oxbow Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="1082"/>
-    <tag k="addr:street" v="Oxbow Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="757292"/>
-  </node>
-  <node id="-1594" visible="true" lat="43.668885080143" lon="-72.795263475925">
-    <!-- conflict: "2827 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "2827 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="2827"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="766700"/>
-  </node>
-  <node id="-1603" visible="true" lat="43.648377940316" lon="-72.743011080567">
-    <!-- conflict: "1945 Little Sherburne Road, Bridgewater Corners, VT" Fuzzy match to "1945 Little Sherburne Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="1945"/>
-    <tag k="addr:street" v="Little Sherburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768154"/>
-  </node>
-  <node id="-1606" visible="true" lat="43.633623380746" lon="-72.731458825367">
-    <!-- conflict: "870 Little Sherburne Road, Bridgewater Corners, VT" Fuzzy match to "870 Little Sherburne Road, Killington, VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="870"/>
-    <tag k="addr:street" v="Little Sherburne Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768157"/>
-  </node>
-  <node id="-1609" visible="true" lat="43.668012531295" lon="-72.797324726345">
-    <!-- conflict: "2721 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "2721 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="2721"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768639"/>
-  </node>
-  <node id="-1625" visible="true" lat="43.63297826234" lon="-72.765421990088">
-    <!-- conflict: "6100 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "6100 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="6100"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="770273"/>
-  </node>
-  <node id="-1648" visible="true" lat="43.615234775881" lon="-72.757213069674">
-    <!-- conflict: "7364 United States Route 4, Killington, VT" No match in OSM, but a different address exists <5m away: "7364 U.S. Route 4, Killington, VT" -->
-    <tag k="addr:city" v="Killington"/>
-    <tag k="addr:housenumber" v="7364"/>
-    <tag k="addr:street" v="United States Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1050395"/>
   </node>
 </osm>

@@ -1,37 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-236" visible="true" lat="43.884666674523" lon="-73.103145140113">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="2829"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="139468"/>
-  </node>
-  <node id="-265" visible="true" lat="43.882693487142" lon="-73.104069557723">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="2668"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="139497"/>
-  </node>
-  <node id="-404" visible="true" lat="43.872114344632" lon="-73.107312770837">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="1912"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="139637"/>
-  </node>
-  <node id="-441" visible="true" lat="43.868225656022" lon="-73.108007999826">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="1652"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="139674"/>
-  </node>
   <node id="-802" visible="true" lat="43.846836049642" lon="-73.087078606257">
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="176"/>
     <tag k="addr:street" v="Delorm Road"/>
+    <tag k="addr:postcode" v="05733"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500009"/>
   </node>
@@ -39,14 +12,8 @@
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="133"/>
     <tag k="addr:street" v="Hooker Road"/>
+    <tag k="addr:postcode" v="05733"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500029"/>
-  </node>
-  <node id="-855" visible="true" lat="43.879355667113" lon="-73.106720448929">
-    <tag k="addr:city" v="Brandon"/>
-    <tag k="addr:housenumber" v="2290"/>
-    <tag k="addr:street" v="United States Route 7"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="772404"/>
   </node>
 </osm>

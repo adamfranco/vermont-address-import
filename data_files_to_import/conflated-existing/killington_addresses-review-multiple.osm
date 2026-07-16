@@ -5,14 +5,25 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="115"/>
     <tag k="addr:street" v="Coffeehouse Road"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224272"/>
+  </node>
+  <node id="-772" visible="true" lat="43.649606023732" lon="-72.770798964596">
+    <!-- multiple: "4900 U.S. Route 4, Killington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="4900"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:postcode" v="05751"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="224850"/>
   </node>
   <node id="-890" visible="true" lat="43.643326624429" lon="-72.78811777617">
     <!-- multiple: "2089 Killington Road, Killington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="2089"/>
     <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224969"/>
   </node>
@@ -21,14 +32,25 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="2708"/>
     <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225078"/>
+  </node>
+  <node id="-1266" visible="true" lat="43.666271468077" lon="-72.809211233279">
+    <!-- multiple: "2046 U.S. Route 4, Killington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="2046"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:postcode" v="05751"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225366"/>
   </node>
   <node id="-1314" visible="true" lat="43.604924407381" lon="-72.817783410983">
     <!-- multiple: "4559 Killington Road, Killington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="4559"/>
     <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225416"/>
   </node>
@@ -37,6 +59,7 @@
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="2822"/>
     <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225445"/>
   </node>

@@ -5,14 +5,25 @@
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="2287"/>
     <tag k="addr:street" v="Berlin State Highway"/>
+    <tag k="addr:postcode" v="05641"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="23045"/>
+  </node>
+  <node id="-547" visible="true" lat="44.223911501113" lon="-72.551008180471">
+    <!-- multiple: "1097 U.S. Route 302, Barre, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="1097"/>
+    <tag k="addr:street" v="U.S. Route 302"/>
+    <tag k="addr:postcode" v="05641"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="23176"/>
   </node>
   <node id="-551" visible="true" lat="44.22381763426" lon="-72.547018522219">
     <!-- multiple: "168 Ames Drive, Barre, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="168"/>
     <tag k="addr:street" v="Ames Drive"/>
+    <tag k="addr:postcode" v="05641"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="23182"/>
   </node>

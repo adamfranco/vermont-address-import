@@ -5,6 +5,7 @@
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="897"/>
     <tag k="addr:street" v="North Bennington Road"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="16519"/>
   </node>
@@ -13,6 +14,7 @@
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="344"/>
     <tag k="addr:street" v="North Street"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="17459"/>
   </node>
@@ -21,6 +23,7 @@
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="251"/>
     <tag k="addr:street" v="North Street"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="17805"/>
   </node>
@@ -29,6 +32,7 @@
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="135"/>
     <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="18321"/>
   </node>
@@ -37,6 +41,7 @@
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="900"/>
     <tag k="addr:street" v="West Road"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="18357"/>
   </node>
@@ -45,6 +50,7 @@
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="107"/>
     <tag k="addr:street" v="Depot Street"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="18864"/>
   </node>
@@ -53,6 +59,7 @@
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="301"/>
     <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="19064"/>
   </node>
@@ -61,6 +68,7 @@
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="636"/>
     <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="19277"/>
   </node>
@@ -69,6 +77,7 @@
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="201"/>
     <tag k="addr:street" v="South Street"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="19480"/>
   </node>
@@ -77,14 +86,25 @@
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="510"/>
     <tag k="addr:street" v="South Street"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="20539"/>
+  </node>
+  <node id="-4655" visible="true" lat="42.85878198521" lon="-73.200779126966">
+    <!-- multiple: "604 U.S. Route 7 South, Bennington, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Bennington"/>
+    <tag k="addr:housenumber" v="604"/>
+    <tag k="addr:street" v="U.S. Route 7 South"/>
+    <tag k="addr:postcode" v="05201"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="21031"/>
   </node>
   <node id="-4859" visible="true" lat="42.891068841442" lon="-73.201225958507">
     <!-- multiple: "261 Benmont Avenue, Bennington, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="261"/>
     <tag k="addr:street" v="Benmont Avenue"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="21243"/>
   </node>
@@ -93,6 +113,7 @@
     <tag k="addr:city" v="Bennington"/>
     <tag k="addr:housenumber" v="435"/>
     <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342245"/>
   </node>
