@@ -8,21 +8,21 @@ Project proposal here: https://wiki.openstreetmap.org/wiki/VCGI_E911_address_poi
 
 ### Basic usage
 
-1. Download the latest [VT Data - E911 Site Locations (address points)](https://geodata.vermont.gov/datasets/VCGI::vt-data-e911-site-locations-address-points-1/about) file as GeoJSON.
+1. Download the latest [VT E911 Site/Structure Address Points (SSAP)](https://geodata.vermont.gov/datasets/13bf900a1da249aeb35b01fd86cb74e1_0/explore?location=43.870101%2C-72.457621%2C8) file as GeoJSON.
 
 2. Update all data files
    ```
-   time ./update_all_data -v -p 8 ~/Downloads/FS_VCGI_OPENDATA_Emergency_ESITE_point_SP_v1_-3337785522220600112.geojson
+   time ./update_all_data -v -p 8 ~/Downloads/FS_VCGI_OPENDATA_Emergency_SiteStructureAddressPoint_point_SP_v1_VIEW_5282602460236465195
    ```
 
 ### Manual step-by-step usage
 
 #### Download fresh E911 data
-1. Download the latest [VT Data - E911 Site Locations (address points)](https://geodata.vermont.gov/datasets/VCGI::vt-data-e911-site-locations-address-points-1/about) file as GeoJSON.
+1. Download the latest [VT E911 Site/Structure Address Points (SSAP)](https://geodata.vermont.gov/datasets/13bf900a1da249aeb35b01fd86cb74e1_0/explore?location=43.870101%2C-72.457621%2C8) file as GeoJSON.
 
 2. Extract the full-state GeoJSON file into per-town files
    ```
-   ./extract_town_points.php -v VT_Data_-_E911_Site_Locations_\(address_points\).geojson
+   ./extract_town_points.php -v FS_VCGI_OPENDATA_Emergency_SiteStructureAddressPoint_point_SP_v1_VIEW_5282602460236465195
    ```
 
 #### Regenerate all draft data files:
