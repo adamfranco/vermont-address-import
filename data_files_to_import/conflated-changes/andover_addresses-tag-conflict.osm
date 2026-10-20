@@ -9,4 +9,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3428"/>
   </node>
+  <node id="-512" visible="true" lat="43.297403592745" lon="-72.755762093395">
+    <!-- conflict: "2018 Andover Ridge Road, Chester, VT" No match in OSM, but a different address exists <5m away: "1992 Andover Ridge Road, , VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="2018"/>
+    <tag k="addr:street" v="Andover Ridge Road"/>
+    <tag k="addr:postcode" v="05143"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="306134"/>
+  </node>
 </osm>

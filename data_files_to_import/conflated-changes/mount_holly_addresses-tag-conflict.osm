@@ -18,4 +18,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315559"/>
   </node>
+  <node id="-1318" visible="true" lat="43.397434918894" lon="-72.825699428741">
+    <!-- conflict: "4605 Vermont Route 155, Mount Holly, VT" No match in OSM, but a different address exists <5m away: "1 Jack Frost Lane, , VT" -->
+    <tag k="addr:city" v="Mount Holly"/>
+    <tag k="addr:housenumber" v="4605"/>
+    <tag k="addr:street" v="Vermont Route 155"/>
+    <tag k="addr:postcode" v="05758"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762974"/>
+  </node>
 </osm>

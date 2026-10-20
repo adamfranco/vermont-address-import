@@ -72,15 +72,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451809"/>
   </node>
-  <node id="-1359" visible="true" lat="44.705245566926" lon="-73.243051008605">
-    <!-- conflict: "239 Savage Island, Grand Isle, VT" No match in OSM, but a different address exists <5m away: "239 , Grand Isle, VT" -->
-    <tag k="addr:city" v="Grand Isle"/>
-    <tag k="addr:housenumber" v="239"/>
-    <tag k="addr:street" v="Savage Island"/>
-    <tag k="addr:postcode" v="05458"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452192"/>
-  </node>
   <node id="-1361" visible="true" lat="44.747384716811" lon="-73.327465845959">
     <!-- conflict: "51 Long Point Island, Grand Isle, VT" No match in OSM, but a different address exists <5m away: "51 , Grand Isle, VT" -->
     <tag k="addr:city" v="Grand Isle"/>
@@ -89,5 +80,32 @@
     <tag k="addr:postcode" v="05458"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452194"/>
+  </node>
+  <node id="-1496" visible="true" lat="44.751377581968" lon="-73.306988267638">
+    <!-- conflict: "27 Passage View Lane, Grand Isle, VT" No match in OSM, but a different address exists <5m away: "23 Passage View Lane, Grand Isle, VT" -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Passage View Lane"/>
+    <tag k="addr:postcode" v="05458"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765934"/>
+  </node>
+  <node id="-1515" visible="true" lat="44.736825763335" lon="-73.311054036934">
+    <!-- conflict: "4A Moccasin Road, Grand Isle, VT" No match in OSM, but a different address exists <5m away: "4A Simms Point Road, Grand Isle, VT" -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="4A"/>
+    <tag k="addr:street" v="Moccasin Road"/>
+    <tag k="addr:postcode" v="05458"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770577"/>
+  </node>
+  <node id="-1534" visible="true" lat="44.74462767736" lon="-73.287046480103">
+    <!-- conflict: "95 Canamak Drive, Grand Isle, VT" No match in OSM, but a different address exists <5m away: "5 Canamak Drive, Grand Isle, VT" -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Canamak Drive"/>
+    <tag k="addr:postcode" v="05458"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773025"/>
   </node>
 </osm>

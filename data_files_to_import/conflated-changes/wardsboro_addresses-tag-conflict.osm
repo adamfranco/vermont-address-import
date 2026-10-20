@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-540" visible="true" lat="43.029347574601" lon="-72.854478149481">
-    <!-- conflict: "47 Cross Road, Stratton, VT" Fuzzy match to "47 Cross Road, West Wardsboro, VT" -->
-    <tag k="addr:city" v="Stratton"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Cross Road"/>
-    <tag k="addr:postcode" v="05360"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="270742"/>
-  </node>
-  <node id="-877" visible="true" lat="43.047384777555" lon="-72.842577120039">
-    <!-- conflict: "27 Old Rd Nine, Stratton, VT" No match in OSM, but a different address exists <5m away: "27 Old Road Nine, Wardsboro, VT" -->
-    <tag k="addr:city" v="Stratton"/>
+  <node id="-875" visible="true" lat="43.047384777555" lon="-72.842577120039">
+    <!-- conflict: "27 Old Rd Nine, West Wardsboro, VT" No match in OSM, but a different address exists <5m away: "27 Old Road Nine, Wardsboro, VT" -->
+    <tag k="addr:city" v="West Wardsboro"/>
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:street" v="Old Rd Nine"/>
     <tag k="addr:postcode" v="05360"/>

@@ -9,11 +9,29 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="199165"/>
   </node>
+  <node id="-341" visible="true" lat="44.999053679951" lon="-72.675568050712">
+    <!-- conflict: "45 Parkview Lane, Richford, VT" No match in OSM, but a different address exists <5m away: "140 River Street, Richford, VT" -->
+    <tag k="addr:city" v="Richford"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Parkview Lane"/>
+    <tag k="addr:postcode" v="05476"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="199323"/>
+  </node>
+  <node id="-342" visible="true" lat="44.999050611528" lon="-72.674956977712">
+    <!-- conflict: "57 Parkview Lane, Richford, VT" No match in OSM, but a different address exists <5m away: "130 River Street, Richford, VT" -->
+    <tag k="addr:city" v="Richford"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Parkview Lane"/>
+    <tag k="addr:postcode" v="05476"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="199324"/>
+  </node>
   <node id="-349" visible="true" lat="44.998711008773" lon="-72.675862720784">
-    <!-- conflict: "19 River Street, Richford, VT" No match in OSM, but a different address exists <5m away: "150 River Street, Richford, VT" -->
+    <!-- conflict: "19 Parkview Lane, Richford, VT" No match in OSM, but a different address exists <5m away: "150 River Street, Richford, VT" -->
     <tag k="addr:city" v="Richford"/>
     <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:street" v="Parkview Lane"/>
     <tag k="addr:postcode" v="05476"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="199332"/>

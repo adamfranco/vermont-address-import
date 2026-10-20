@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-859" visible="true" lat="43.880195117679" lon="-73.238991995209">
+    <tag k="addr:city" v="Whiting"/>
+    <tag k="addr:housenumber" v="742"/>
+    <tag k="addr:street" v="Webster Road"/>
+    <tag k="addr:postcode" v="05778"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455625"/>
+  </node>
   <node id="-913" visible="true" lat="43.883720163222" lon="-73.290149257417">
     <tag k="addr:city" v="Shoreham"/>
     <tag k="addr:housenumber" v="236"/>
@@ -23,5 +31,37 @@
     <tag k="addr:postcode" v="05770"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773946"/>
+  </node>
+  <node id="-916" visible="true" lat="43.894058787572" lon="-73.328367519457">
+    <tag k="addr:city" v="Shoreham"/>
+    <tag k="addr:housenumber" v="562"/>
+    <tag k="addr:street" v="Watch Point Road"/>
+    <tag k="addr:postcode" v="05770"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774029"/>
+  </node>
+  <node id="-917" visible="true" lat="43.885950484169" lon="-73.370349691387">
+    <tag k="addr:city" v="Shoreham"/>
+    <tag k="addr:housenumber" v="2903"/>
+    <tag k="addr:street" v="Watch Point Road"/>
+    <tag k="addr:postcode" v="05770"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774269"/>
+  </node>
+  <node id="-918" visible="true" lat="43.886977765624" lon="-73.334972214229">
+    <tag k="addr:city" v="Shoreham"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Basin Harbor Road"/>
+    <tag k="addr:postcode" v="05770"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774315"/>
+  </node>
+  <node id="-919" visible="true" lat="43.889378951396" lon="-73.335463821647">
+    <tag k="addr:city" v="Shoreham"/>
+    <tag k="addr:housenumber" v="290"/>
+    <tag k="addr:street" v="Basin Harbor Road"/>
+    <tag k="addr:postcode" v="05770"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774316"/>
   </node>
 </osm>

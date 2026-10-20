@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-106" visible="true" lat="43.792686946661" lon="-72.654465224279">
-    <!-- conflict: "50 Old Route 12, Bethel, VT" No match in OSM, but a different address exists <5m away: "50 Lichtenberger Road, , VT" -->
-    <tag k="addr:city" v="Bethel"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:street" v="Old Route 12"/>
-    <tag k="addr:postcode" v="05032"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="5944"/>
-  </node>
-  <node id="-112" visible="true" lat="43.788551190607" lon="-72.649466224379">
-    <!-- conflict: "145 Old Route 12, Bethel, VT" No match in OSM, but a different address exists <5m away: "145 Lichtenberger Road, , VT" -->
-    <tag k="addr:city" v="Bethel"/>
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="Old Route 12"/>
-    <tag k="addr:postcode" v="05032"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="5950"/>
-  </node>
   <node id="-273" visible="true" lat="43.759004105832" lon="-72.668713235325">
     <!-- conflict: "487 Cowdrey Outlook, Bethel, VT" No match in OSM, but a different address exists <5m away: "196 Cowdrey Outlook, , VT" -->
     <tag k="addr:city" v="Bethel"/>
@@ -28,19 +10,19 @@
     <tag k="ref:vcgi:esiteid" v="6112"/>
   </node>
   <node id="-724" visible="true" lat="43.673171254149" lon="-72.585473672245">
-    <!-- conflict: "143 Midsomer Meadows Lane, Woodstock, VT" No match in OSM, but a different address exists <5m away: "143 Starry Hill Drive, Barnard, VT" -->
+    <!-- conflict: "143 Starry Hill Lane, Woodstock, VT" Fuzzy match to "143 Starry Hill Drive, Barnard, VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="143"/>
-    <tag k="addr:street" v="Midsomer Meadows Lane"/>
+    <tag k="addr:street" v="Starry Hill Lane"/>
     <tag k="addr:postcode" v="05091"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="6579"/>
   </node>
   <node id="-766" visible="true" lat="43.789318524818" lon="-72.650904488954">
-    <!-- conflict: "98 Old Route 12, Bethel, VT" No match in OSM, but a different address exists <5m away: "313 Old Route 12, , VT" -->
+    <!-- conflict: "98 Lichtenberger Road, Bethel, VT" No match in OSM, but a different address exists <5m away: "313 Old Route 12, , VT" -->
     <tag k="addr:city" v="Bethel"/>
     <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Old Route 12"/>
+    <tag k="addr:street" v="Lichtenberger Road"/>
     <tag k="addr:postcode" v="05032"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="6623"/>
@@ -53,23 +35,5 @@
     <tag k="addr:postcode" v="05032"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="447103"/>
-  </node>
-  <node id="-883" visible="true" lat="43.785688301155" lon="-72.648679548423">
-    <!-- conflict: "381 Old Route 12, Bethel, VT" No match in OSM, but a different address exists <5m away: "381 Lichtenberger Road, , VT" -->
-    <tag k="addr:city" v="Bethel"/>
-    <tag k="addr:housenumber" v="381"/>
-    <tag k="addr:street" v="Old Route 12"/>
-    <tag k="addr:postcode" v="05032"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="617595"/>
-  </node>
-  <node id="-973" visible="true" lat="43.674761175395" lon="-72.584308192845">
-    <!-- conflict: "42 Midsomer Meadows Lane, Woodstock, VT" No match in OSM, but a different address exists <5m away: "42 Starry Hill Drive, , VT" -->
-    <tag k="addr:city" v="Woodstock"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Midsomer Meadows Lane"/>
-    <tag k="addr:postcode" v="05091"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="765571"/>
   </node>
 </osm>

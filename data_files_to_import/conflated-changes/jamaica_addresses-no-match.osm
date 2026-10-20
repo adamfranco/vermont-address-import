@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1732" visible="true" lat="43.140987199724" lon="-72.825550285455">
+  <node id="-1219" visible="true" lat="43.118881943234" lon="-72.817710246034">
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="Barbara Jane Drive"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="500111"/>
+  </node>
+  <node id="-1307" visible="true" lat="43.069101402865" lon="-72.762079792263">
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="536"/>
+    <tag k="addr:street" v="Craven Road"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="616515"/>
+  </node>
+  <node id="-1733" visible="true" lat="43.140987199724" lon="-72.825550285455">
     <tag k="addr:city" v="Jamaica"/>
     <tag k="addr:housenumber" v="7880"/>
     <tag k="addr:street" v="30"/>
@@ -8,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773438"/>
   </node>
-  <node id="-1733" visible="true" lat="43.084862874124" lon="-72.757857796661">
+  <node id="-1734" visible="true" lat="43.084862874124" lon="-72.757857796661">
     <tag k="addr:city" v="Jamaica"/>
     <tag k="addr:housenumber" v="2074"/>
     <tag k="addr:street" v="30"/>
@@ -16,7 +32,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773439"/>
   </node>
-  <node id="-1734" visible="true" lat="43.098720412127" lon="-72.781306062269">
+  <node id="-1735" visible="true" lat="43.098720412127" lon="-72.781306062269">
     <tag k="addr:city" v="Jamaica"/>
     <tag k="addr:housenumber" v="128"/>
     <tag k="addr:street" v="Pikes Falls Road"/>
@@ -24,7 +40,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773440"/>
   </node>
-  <node id="-1735" visible="true" lat="43.143831595313" lon="-72.83032237298">
+  <node id="-1736" visible="true" lat="43.143831595313" lon="-72.83032237298">
     <tag k="addr:city" v="Jamaica"/>
     <tag k="addr:housenumber" v="8215"/>
     <tag k="addr:street" v="30"/>
@@ -32,12 +48,68 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773502"/>
   </node>
-  <node id="-1737" visible="true" lat="43.069696265536" lon="-72.74552922702">
+  <node id="-1738" visible="true" lat="43.069696265536" lon="-72.74552922702">
     <tag k="addr:city" v="Jamaica"/>
     <tag k="addr:housenumber" v="308"/>
     <tag k="addr:street" v="Old 8"/>
     <tag k="addr:postcode" v="05343"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773843"/>
+  </node>
+  <node id="-1739" visible="true" lat="43.108036236856" lon="-72.852790898555">
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="599"/>
+    <tag k="addr:street" v="Dalewood Road"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774139"/>
+  </node>
+  <node id="-1740" visible="true" lat="43.139846094017" lon="-72.817918269288">
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="Timber Landing"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774140"/>
+  </node>
+  <node id="-1741" visible="true" lat="43.134373831137" lon="-72.821343936764">
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="7401"/>
+    <tag k="addr:street" v="30"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774141"/>
+  </node>
+  <node id="-1742" visible="true" lat="43.087121413344" lon="-72.739298863552">
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="193"/>
+    <tag k="addr:street" v="Sugar Lot Lane"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774142"/>
+  </node>
+  <node id="-1743" visible="true" lat="43.07238950089" lon="-72.737568467299">
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="3291"/>
+    <tag k="addr:street" v="100 South"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774143"/>
+  </node>
+  <node id="-1744" visible="true" lat="43.131417040732" lon="-72.815249197953">
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Lucy Lane"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774218"/>
+  </node>
+  <node id="-1745" visible="true" lat="43.100663100744" lon="-72.777948005294">
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="3730"/>
+    <tag k="addr:street" v="30"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774595"/>
   </node>
 </osm>

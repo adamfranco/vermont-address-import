@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-411" visible="true" lat="44.519600566552" lon="-72.302715377778">
+  <node id="-407" visible="true" lat="44.519600566552" lon="-72.302715377778">
     <!-- conflict: "29 Molleur Drive, East Hardwick, VT" No match in OSM, but a different address exists <5m away: "40 Molleur Drive, , VT" -->
     <tag k="addr:city" v="East Hardwick"/>
     <tag k="addr:housenumber" v="29"/>
@@ -9,7 +9,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="118947"/>
   </node>
-  <node id="-416" visible="true" lat="44.519492205049" lon="-72.302615585213">
+  <node id="-412" visible="true" lat="44.519492205049" lon="-72.302615585213">
     <!-- conflict: "21 Molleur Drive, East Hardwick, VT" No match in OSM, but a different address exists <5m away: "52 Molleur Drive, , VT" -->
     <tag k="addr:city" v="East Hardwick"/>
     <tag k="addr:housenumber" v="21"/>
@@ -18,7 +18,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="118952"/>
   </node>
-  <node id="-419" visible="true" lat="44.51941215363" lon="-72.302519859639">
+  <node id="-415" visible="true" lat="44.51941215363" lon="-72.302519859639">
     <!-- conflict: "15 Molleur Drive, East Hardwick, VT" No match in OSM, but a different address exists <5m away: "56 Molleur Drive, , VT" -->
     <tag k="addr:city" v="East Hardwick"/>
     <tag k="addr:housenumber" v="15"/>
@@ -27,7 +27,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="118955"/>
   </node>
-  <node id="-750" visible="true" lat="44.50596567558" lon="-72.365786208692">
+  <node id="-743" visible="true" lat="44.50596567558" lon="-72.365786208692">
     <!-- conflict: "39 West Church Street, Hardwick, VT" Fuzzy match to "39 Church Street, , VT" -->
     <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="39"/>
@@ -36,7 +36,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119314"/>
   </node>
-  <node id="-797" visible="true" lat="44.505326176165" lon="-72.365789407657">
+  <node id="-789" visible="true" lat="44.505326176165" lon="-72.365789407657">
     <!-- conflict: "51 North Main Street, Hardwick, VT" Fuzzy match to "51 Main Street, Hardwick, VT" -->
     <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="51"/>
@@ -45,7 +45,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119370"/>
   </node>
-  <node id="-814" visible="true" lat="44.50518764195" lon="-72.365906160867">
+  <node id="-806" visible="true" lat="44.50518764195" lon="-72.365906160867">
     <!-- conflict: "39 North Main Street, Hardwick, VT" Fuzzy match to "39 South Main Street, , VT" -->
     <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="39"/>
@@ -54,7 +54,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119391"/>
   </node>
-  <node id="-848" visible="true" lat="44.504663747227" lon="-72.366305388134">
+  <node id="-839" visible="true" lat="44.504663747227" lon="-72.366305388134">
     <!-- conflict: "4 South Main Street, Hardwick, VT" Fuzzy match to "4 Main Street, Hardwick, VT" -->
     <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="4"/>
@@ -63,7 +63,25 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119427"/>
   </node>
-  <node id="-1141" visible="true" lat="44.495616163743" lon="-72.373656854261">
+  <node id="-980" visible="true" lat="44.502028120438" lon="-72.350379847255">
+    <!-- conflict: "609 Vermont Route 15 East, Hardwick, VT" No match in OSM, but a different address exists <5m away: "609 Vermont Route 14, Hardwick, VT" -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="609"/>
+    <tag k="addr:street" v="Vermont Route 15 East"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119583"/>
+  </node>
+  <node id="-995" visible="true" lat="44.501511133964" lon="-72.349079252514">
+    <!-- conflict: "662 Vermont Route 15 East, Hardwick, VT" No match in OSM, but a different address exists <5m away: "662 Vermont Route 15, Hardwick, VT" -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="662"/>
+    <tag k="addr:street" v="Vermont Route 15 East"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119599"/>
+  </node>
+  <node id="-1129" visible="true" lat="44.495623974345" lon="-72.373656837396">
     <!-- conflict: "206 Vermont Route 14 South, Hardwick, VT" No match in OSM, but a different address exists <5m away: "206 Vermont Route 14, Hardwick, VT" -->
     <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="206"/>
@@ -72,7 +90,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119746"/>
   </node>
-  <node id="-1143" visible="true" lat="44.495529049177" lon="-72.372471390475">
+  <node id="-1131" visible="true" lat="44.495529049177" lon="-72.372471390475">
     <!-- conflict: "181 Vermont Route 14 South, Hardwick, VT" No match in OSM, but a different address exists <5m away: "181 Vermont Route 14, Hardwick, VT" -->
     <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="181"/>
@@ -81,7 +99,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119748"/>
   </node>
-  <node id="-1152" visible="true" lat="44.494555676886" lon="-72.372422138883">
+  <node id="-1140" visible="true" lat="44.494555676886" lon="-72.372422138883">
     <!-- conflict: "223 Vermont Route 14 South, Hardwick, VT" No match in OSM, but a different address exists <5m away: "223 Vermont Route 14, Hardwick, VT" -->
     <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="223"/>
@@ -90,7 +108,16 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119757"/>
   </node>
-  <node id="-1164" visible="true" lat="44.493962744948" lon="-72.375716895737">
+  <node id="-1150" visible="true" lat="44.49387170888" lon="-72.374798614668">
+    <!-- conflict: "333 Vermont Route 14 South, Hardwick, VT" No match in OSM, but a different address exists <5m away: "333 Vermont Route 14, Hardwick, VT" -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="333"/>
+    <tag k="addr:street" v="Vermont Route 14 South"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119768"/>
+  </node>
+  <node id="-1152" visible="true" lat="44.493962744948" lon="-72.375716895737">
     <!-- conflict: "368 Vermont Route 14 South, Hardwick, VT" No match in OSM, but a different address exists <5m away: "368 Vermont Route 14, Hardwick, VT" -->
     <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="368"/>
@@ -99,7 +126,16 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119770"/>
   </node>
-  <node id="-1381" visible="true" lat="44.541523720982" lon="-72.322263352364">
+  <node id="-1285" visible="true" lat="44.501429815652" lon="-72.348605054125">
+    <!-- conflict: "690 Vermont Route 15 East, Hardwick, VT" No match in OSM, but a different address exists <5m away: "690 Vermont Route 15, Hardwick, VT" -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="690"/>
+    <tag k="addr:street" v="Vermont Route 15 East"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119907"/>
+  </node>
+  <node id="-1368" visible="true" lat="44.541523720982" lon="-72.322263352364">
     <!-- conflict: "220 Clover Lane, Hardwick, VT" No match in OSM, but a different address exists <5m away: "3042 Center Road, , VT" -->
     <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="220"/>
@@ -108,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="119996"/>
   </node>
-  <node id="-1448" visible="true" lat="44.542185931747" lon="-72.323440631315">
+  <node id="-1435" visible="true" lat="44.542185931747" lon="-72.323440631315">
     <!-- conflict: "140 Clover Lane, Hardwick, VT" No match in OSM, but a different address exists <5m away: "3040 Center Road, , VT" -->
     <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="140"/>
@@ -117,7 +153,25 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="120068"/>
   </node>
-  <node id="-1543" visible="true" lat="44.542520815554" lon="-72.323970652134">
+  <node id="-1466" visible="true" lat="44.501652927304" lon="-72.353237394396">
+    <!-- conflict: "464 Vermont Route 15 East, Hardwick, VT" No match in OSM, but a different address exists <5m away: "464 Vermont Route 15, Hardwick, VT" -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="464"/>
+    <tag k="addr:street" v="Vermont Route 15 East"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="326404"/>
+  </node>
+  <node id="-1478" visible="true" lat="44.500988830235" lon="-72.356373113139">
+    <!-- conflict: "182 Lamoille Avenue, Hardwick, VT" No match in OSM, but a different address exists <5m away: "182 Robin Lane, Hardwick, VT" -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="182"/>
+    <tag k="addr:street" v="Lamoille Avenue"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365003"/>
+  </node>
+  <node id="-1530" visible="true" lat="44.542520815554" lon="-72.323970652134">
     <!-- conflict: "80 Clover Lane, Hardwick, VT" No match in OSM, but a different address exists <5m away: "3038 Center Road, , VT" -->
     <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="80"/>
@@ -126,7 +180,16 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612100"/>
   </node>
-  <node id="-1692" visible="true" lat="44.52004793414" lon="-72.302618381977">
+  <node id="-1535" visible="true" lat="44.501459043909" lon="-72.354711086686">
+    <!-- conflict: "362 Vermont Route 15 East, Hardwick, VT" No match in OSM, but a different address exists <5m away: "362 Vermont Route 15, Hardwick, VT" -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="362"/>
+    <tag k="addr:street" v="Vermont Route 15 East"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="613059"/>
+  </node>
+  <node id="-1679" visible="true" lat="44.52004793414" lon="-72.302618381977">
     <!-- conflict: "178 School Street, East Hardwick, VT" No match in OSM, but a different address exists <5m away: "176 School Street, , VT" -->
     <tag k="addr:city" v="East Hardwick"/>
     <tag k="addr:housenumber" v="178"/>

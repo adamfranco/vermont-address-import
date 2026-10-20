@@ -36,6 +36,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4313"/>
   </node>
+  <node id="-718" visible="true" lat="43.06843371869" lon="-73.147136971079">
+    <!-- conflict: "35 Salter Hill Road Extension, Arlington, VT" No match in OSM, but a different address exists <5m away: "180 Salter Hill Road, Arlington, VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Salter Hill Road Extension"/>
+    <tag k="addr:postcode" v="05250"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4316"/>
+  </node>
   <node id="-726" visible="true" lat="43.068145217278" lon="-73.139691620729">
     <!-- conflict: "58 Walker Meadow, Arlington, VT" Fuzzy match to "58 Walker Meadows, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
@@ -72,6 +81,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4333"/>
   </node>
+  <node id="-741" visible="true" lat="43.067395363303" lon="-73.147103675282">
+    <!-- conflict: "94 Salter Hill Road Extension, Arlington, VT" No match in OSM, but a different address exists <5m away: "182 Salter Hill Road, Arlington, VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Salter Hill Road Extension"/>
+    <tag k="addr:postcode" v="05250"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4340"/>
+  </node>
   <node id="-750" visible="true" lat="43.066757861495" lon="-73.154040417753">
     <!-- conflict: "63 Peaceful Meadow, Arlington, VT" Fuzzy match to "63 Peaceful Meadows, Arlington, VT" -->
     <tag k="addr:city" v="Arlington"/>
@@ -98,5 +116,32 @@
     <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4352"/>
+  </node>
+  <node id="-813" visible="true" lat="43.064017645264" lon="-73.159275051071">
+    <!-- conflict: "148 Brookside Lane, Arlington, VT" Fuzzy match to "148 Brookside Ln, Arlington, VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Brookside Lane"/>
+    <tag k="addr:postcode" v="05250"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4421"/>
+  </node>
+  <node id="-831" visible="true" lat="43.063346153309" lon="-73.159821508647">
+    <!-- conflict: "107 Brookside Drive, Arlington, VT" Fuzzy match to "107 Brookside Ln, Arlington, VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Brookside Drive"/>
+    <tag k="addr:postcode" v="05250"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4439"/>
+  </node>
+  <node id="-842" visible="true" lat="43.063010461213" lon="-73.159821508024">
+    <!-- conflict: "85 Brookside Drive, Arlington, VT" Fuzzy match to "85 Brookside Ln, Arlington, VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Brookside Drive"/>
+    <tag k="addr:postcode" v="05250"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="4451"/>
   </node>
 </osm>

@@ -9,4 +9,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="78155"/>
   </node>
+  <node id="-633" visible="true" lat="43.947980823106" lon="-73.240816110151">
+    <!-- conflict: "290 Mountain View, Middlebury, VT" No match in OSM, but a different address exists <5m away: "323 North Bingham Street, Cornwall, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="290"/>
+    <tag k="addr:street" v="Mountain View"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336980"/>
+  </node>
 </osm>

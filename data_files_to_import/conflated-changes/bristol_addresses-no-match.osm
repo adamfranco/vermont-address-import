@@ -8,7 +8,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656754"/>
   </node>
-  <node id="-1913" visible="true" lat="44.085347455619" lon="-73.089804803599">
+  <node id="-1728" visible="true" lat="44.152792804568" lon="-73.089621131911">
+    <tag k="addr:city" v="Bristol"/>
+    <tag k="addr:housenumber" v="434"/>
+    <tag k="addr:street" v="Monkton Road"/>
+    <tag k="addr:postcode" v="05443"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656873"/>
+  </node>
+  <node id="-1914" visible="true" lat="44.085347455619" lon="-73.089804803599">
     <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="3282"/>
     <tag k="addr:street" v="South 116 Road"/>
@@ -16,12 +24,44 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773386"/>
   </node>
-  <node id="-1914" visible="true" lat="44.106646296148" lon="-73.096129683863">
+  <node id="-1915" visible="true" lat="44.106646296148" lon="-73.096129683863">
     <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="1569"/>
     <tag k="addr:street" v="South 116 Road"/>
     <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773921"/>
+  </node>
+  <node id="-1916" visible="true" lat="44.128459064556" lon="-73.055230507035">
+    <tag k="addr:city" v="Bristol"/>
+    <tag k="addr:housenumber" v="636"/>
+    <tag k="addr:street" v="Rockydale Road"/>
+    <tag k="addr:postcode" v="05443"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774051"/>
+  </node>
+  <node id="-1917" visible="true" lat="44.145497499631" lon="-73.096302918296">
+    <tag k="addr:city" v="Bristol"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Kilbourn Lane"/>
+    <tag k="addr:postcode" v="05443"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774214"/>
+  </node>
+  <node id="-1918" visible="true" lat="44.145191202712" lon="-73.095749080939">
+    <tag k="addr:city" v="Bristol"/>
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="Kilbourn Lane"/>
+    <tag k="addr:postcode" v="05443"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774215"/>
+  </node>
+  <node id="-1920" visible="true" lat="44.080631325737" lon="-73.085344495881">
+    <tag k="addr:city" v="Bristol"/>
+    <tag k="addr:housenumber" v="3647"/>
+    <tag k="addr:street" v="South 116 Road"/>
+    <tag k="addr:postcode" v="05443"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774314"/>
   </node>
 </osm>

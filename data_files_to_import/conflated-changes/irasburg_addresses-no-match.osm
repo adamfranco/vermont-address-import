@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-703" visible="true" lat="44.824102498368" lon="-72.34832213474">
+  <node id="-702" visible="true" lat="44.824102498368" lon="-72.34832213474">
     <tag k="addr:city" v="Irasburg"/>
     <tag k="addr:housenumber" v="409"/>
     <tag k="addr:street" v="Kidder Hill Ridge"/>
@@ -8,7 +8,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="446934"/>
   </node>
-  <node id="-722" visible="true" lat="44.82433070799" lon="-72.352544334155">
+  <node id="-721" visible="true" lat="44.82433070799" lon="-72.352544334155">
     <tag k="addr:city" v="Irasburg"/>
     <tag k="addr:housenumber" v="295"/>
     <tag k="addr:street" v="Kidder Hill Ridge"/>
@@ -16,12 +16,28 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500059"/>
   </node>
-  <node id="-798" visible="true" lat="44.838041987046" lon="-72.209265852235">
+  <node id="-797" visible="true" lat="44.838041987046" lon="-72.209265852235">
     <tag k="addr:city" v="Orleans"/>
     <tag k="addr:housenumber" v="1381"/>
     <tag k="addr:street" v="River Road"/>
     <tag k="addr:postcode" v="05860"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="772998"/>
+  </node>
+  <node id="-803" visible="true" lat="44.815527175537" lon="-72.332198707768">
+    <tag k="addr:city" v="Irasburg"/>
+    <tag k="addr:housenumber" v="1930"/>
+    <tag k="addr:street" v="58 West"/>
+    <tag k="addr:postcode" v="05845"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774107"/>
+  </node>
+  <node id="-804" visible="true" lat="44.817834059067" lon="-72.337991159466">
+    <tag k="addr:city" v="Irasburg"/>
+    <tag k="addr:housenumber" v="2238"/>
+    <tag k="addr:street" v="58 West"/>
+    <tag k="addr:postcode" v="05845"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774108"/>
   </node>
 </osm>

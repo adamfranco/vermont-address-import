@@ -81,7 +81,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260259"/>
   </node>
-  <node id="-109" visible="true" lat="44.180161378818" lon="-72.228814230648">
+  <node id="-109" visible="true" lat="44.180080207799" lon="-72.22876131255">
     <!-- city-conflict: "16 Keenan Pond Road, Topsham, VT" City conflict match to "16 Keenan Pond Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="16"/>
@@ -90,7 +90,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260260"/>
   </node>
-  <node id="-110" visible="true" lat="44.179810426014" lon="-72.228425131206">
+  <node id="-110" visible="true" lat="44.179842476486" lon="-72.228395169436">
     <!-- city-conflict: "12 Keenan Pond Road, Topsham, VT" City conflict match to "12 Keenan Pond Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="12"/>
@@ -117,7 +117,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260264"/>
   </node>
-  <node id="-113" visible="true" lat="44.178810564431" lon="-72.228177212153">
+  <node id="-113" visible="true" lat="44.178800276826" lon="-72.228206436992">
     <!-- city-conflict: "7 Keenan Pond Road, Topsham, VT" City conflict match to "7 Keenan Pond Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="7"/>
@@ -171,7 +171,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260270"/>
   </node>
-  <node id="-119" visible="true" lat="44.17546167104" lon="-72.225876912002">
+  <node id="-119" visible="true" lat="44.175655945453" lon="-72.226186770271">
     <!-- city-conflict: "435 Powder Spring Road, Topsham, VT" City conflict match to "435 Powder Spring Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="435"/>
@@ -188,6 +188,15 @@
     <tag k="addr:postcode" v="05086"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260272"/>
+  </node>
+  <node id="-121" visible="true" lat="44.169430634896" lon="-72.210633373443">
+    <!-- city-conflict: "375 Galusha Hill Road, Groton, VT" City conflict match to "375 Galusha Hill Road, , VT" -->
+    <tag k="addr:city" v="Groton"/>
+    <tag k="addr:housenumber" v="375"/>
+    <tag k="addr:street" v="Galusha Hill Road"/>
+    <tag k="addr:postcode" v="05046"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260273"/>
   </node>
   <node id="-122" visible="true" lat="44.168706323103" lon="-72.303002520216">
     <!-- city-conflict: "230 U.S. Route 302, West Topsham, VT" City conflict match to "230 U.S. Route 302, , VT" -->
@@ -216,7 +225,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260276"/>
   </node>
-  <node id="-125" visible="true" lat="44.167669435518" lon="-72.268526610631">
+  <node id="-125" visible="true" lat="44.167696102889" lon="-72.268504193703">
     <!-- city-conflict: "19 Fuller Hill Road, Topsham, VT" City conflict match to "19 Fuller Hill Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="19"/>
@@ -242,6 +251,15 @@
     <tag k="addr:postcode" v="05076"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260279"/>
+  </node>
+  <node id="-128" visible="true" lat="44.161967883074" lon="-72.193172833294">
+    <!-- city-conflict: "336 Galusha Hill Road, Groton, VT" City conflict match to "336 Galusha Hill Road, , VT" -->
+    <tag k="addr:city" v="Groton"/>
+    <tag k="addr:housenumber" v="336"/>
+    <tag k="addr:street" v="Galusha Hill Road"/>
+    <tag k="addr:postcode" v="05046"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260280"/>
   </node>
   <node id="-129" visible="true" lat="44.164619481777" lon="-72.212808246764">
     <!-- city-conflict: "47 Clarks Crossroad, Topsham, VT" City conflict match to "47 Clarks Crossroad, , VT" -->
@@ -4428,21 +4446,21 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260847"/>
   </node>
-  <node id="-680" visible="true" lat="44.184008600715" lon="-72.270807940477">
+  <node id="-680" visible="true" lat="44.184006246295" lon="-72.270820035141">
     <!-- city-conflict: "142 Fuller Hill Road, Groton, VT" City conflict match to "142 Fuller Hill Road, , VT" -->
     <tag k="addr:city" v="Groton"/>
     <tag k="addr:housenumber" v="142"/>
     <tag k="addr:street" v="Fuller Hill Road"/>
-    <tag k="addr:postcode" v="05076"/>
+    <tag k="addr:postcode" v="05046"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260848"/>
   </node>
-  <node id="-681" visible="true" lat="44.181093897309" lon="-72.271820120396">
+  <node id="-681" visible="true" lat="44.181101473998" lon="-72.271832104835">
     <!-- city-conflict: "133 Fuller Hill Road, Groton, VT" City conflict match to "133 Fuller Hill Road, , VT" -->
     <tag k="addr:city" v="Groton"/>
     <tag k="addr:housenumber" v="133"/>
     <tag k="addr:street" v="Fuller Hill Road"/>
-    <tag k="addr:postcode" v="05076"/>
+    <tag k="addr:postcode" v="05046"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260849"/>
   </node>
@@ -5751,7 +5769,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454927"/>
   </node>
-  <node id="-842" visible="true" lat="44.113354672521" lon="-72.23292360831">
+  <node id="-841" visible="true" lat="44.113354672521" lon="-72.23292360831">
     <!-- city-conflict: "2 Lime Kiln Road, Topsham, VT" City conflict match to "2 Lime Kiln Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="2"/>
@@ -5760,7 +5778,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="610273"/>
   </node>
-  <node id="-843" visible="true" lat="44.084798593791" lon="-72.289370138267">
+  <node id="-842" visible="true" lat="44.084798593791" lon="-72.289370138267">
     <!-- city-conflict: "17 Pike Hill Road East, West Topsham, VT" City conflict match to "17 Pike Hill Road East, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="17"/>
@@ -5769,7 +5787,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="610274"/>
   </node>
-  <node id="-844" visible="true" lat="44.1808963373" lon="-72.288358390423">
+  <node id="-843" visible="true" lat="44.1808963373" lon="-72.288358390423">
     <!-- city-conflict: "326 U.S. Route 302, West Topsham, VT" City conflict match to "326 U.S. Route 302, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="326"/>
@@ -5778,7 +5796,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="610976"/>
   </node>
-  <node id="-846" visible="true" lat="44.141342440112" lon="-72.19791632153">
+  <node id="-845" visible="true" lat="44.141342440112" lon="-72.19791632153">
     <!-- city-conflict: "26 Meadow Lane, Topsham, VT" City conflict match to "26 Meadow Lane, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="26"/>
@@ -5787,7 +5805,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611284"/>
   </node>
-  <node id="-847" visible="true" lat="44.082306831213" lon="-72.208981827826">
+  <node id="-846" visible="true" lat="44.082306831213" lon="-72.208981827826">
     <!-- city-conflict: "58 Currier Hill Road, East Corinth, VT" City conflict match to "58 Currier Hill Road, , VT" -->
     <tag k="addr:city" v="East Corinth"/>
     <tag k="addr:housenumber" v="58"/>
@@ -5796,7 +5814,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611466"/>
   </node>
-  <node id="-848" visible="true" lat="44.101459801108" lon="-72.305823636864">
+  <node id="-847" visible="true" lat="44.101459801108" lon="-72.305823636864">
     <!-- city-conflict: "8 Perry Road, West Topsham, VT" City conflict match to "8 Perry Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="8"/>
@@ -5805,7 +5823,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611503"/>
   </node>
-  <node id="-849" visible="true" lat="44.146357724774" lon="-72.259722813764">
+  <node id="-848" visible="true" lat="44.146357724774" lon="-72.259722813764">
     <!-- city-conflict: "126 Downing Road, Topsham, VT" City conflict match to "126 Downing Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="126"/>
@@ -5814,7 +5832,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="613426"/>
   </node>
-  <node id="-851" visible="true" lat="44.117780441861" lon="-72.308369803012">
+  <node id="-850" visible="true" lat="44.117780441861" lon="-72.308369803012">
     <!-- city-conflict: "499 Vermont Route 25, West Topsham, VT" City conflict match to "499 Vermont Route 25, Topsham, VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="499"/>
@@ -5823,7 +5841,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="618176"/>
   </node>
-  <node id="-852" visible="true" lat="44.117672237963" lon="-72.307746248383">
+  <node id="-851" visible="true" lat="44.117672237963" lon="-72.307746248383">
     <!-- city-conflict: "500 Vermont Route 25, West Topsham, VT" City conflict match to "500 Vermont Route 25, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="500"/>
@@ -5832,7 +5850,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="618177"/>
   </node>
-  <node id="-853" visible="true" lat="44.08528703266" lon="-72.221876105861">
+  <node id="-852" visible="true" lat="44.08528703266" lon="-72.221876105861">
     <!-- city-conflict: "108 Topsham Corinth Road, Topsham, VT" City conflict match to "108 Topsham Corinth Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="108"/>
@@ -5841,7 +5859,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620674"/>
   </node>
-  <node id="-854" visible="true" lat="44.11125213538" lon="-72.24816576743">
+  <node id="-853" visible="true" lat="44.11125213538" lon="-72.24816576743">
     <!-- city-conflict: "125 Welch Road, Topsham, VT" City conflict match to "125 Welch Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="125"/>
@@ -5850,7 +5868,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="654898"/>
   </node>
-  <node id="-855" visible="true" lat="44.133380213642" lon="-72.20434287352">
+  <node id="-854" visible="true" lat="44.133380213642" lon="-72.20434287352">
     <!-- city-conflict: "232 Skyline Drive, Topsham, VT" City conflict match to "232 Skyline Drive, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="232"/>
@@ -5859,7 +5877,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="655936"/>
   </node>
-  <node id="-856" visible="true" lat="44.136778225243" lon="-72.309371130222">
+  <node id="-855" visible="true" lat="44.136778225243" lon="-72.309371130222">
     <!-- city-conflict: "57 Crossroad, West Topsham, VT" City conflict match to "57 Crossroad, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="57"/>
@@ -5868,7 +5886,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750134"/>
   </node>
-  <node id="-857" visible="true" lat="44.165216301154" lon="-72.222278211333">
+  <node id="-856" visible="true" lat="44.165216301154" lon="-72.222278211333">
     <!-- city-conflict: "2 Clarks Crossroad, Topsham, VT" City conflict match to "2 Clarks Crossroad, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="2"/>
@@ -5877,7 +5895,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753439"/>
   </node>
-  <node id="-859" visible="true" lat="44.124465641591" lon="-72.304946475662">
+  <node id="-858" visible="true" lat="44.124465641591" lon="-72.304946475662">
     <!-- city-conflict: "8 Kimball Hill Road, West Topsham, VT" City conflict match to "8 Kimball Hill Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="8"/>
@@ -5886,7 +5904,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756639"/>
   </node>
-  <node id="-860" visible="true" lat="44.106913491705" lon="-72.246180162109">
+  <node id="-859" visible="true" lat="44.106913491705" lon="-72.246180162109">
     <!-- city-conflict: "123 Welch Road, Topsham, VT" City conflict match to "123 Welch Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="123"/>
@@ -5895,7 +5913,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756640"/>
   </node>
-  <node id="-861" visible="true" lat="44.087252457534" lon="-72.271833718295">
+  <node id="-860" visible="true" lat="44.087252457534" lon="-72.271833718295">
     <!-- city-conflict: "49 Jungles Way, West Topsham, VT" City conflict match to "49 Jungles Way, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="49"/>
@@ -5904,7 +5922,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758261"/>
   </node>
-  <node id="-862" visible="true" lat="44.131056858256" lon="-72.25699109243">
+  <node id="-861" visible="true" lat="44.131056858256" lon="-72.25699109243">
     <!-- city-conflict: "25 Downing Road, Topsham, VT" City conflict match to "25 Downing Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="25"/>
@@ -5913,7 +5931,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758325"/>
   </node>
-  <node id="-863" visible="true" lat="44.071436387647" lon="-72.219085764018">
+  <node id="-862" visible="true" lat="44.071436387647" lon="-72.219085764018">
     <!-- city-conflict: "14 Thompson Road, East Corinth, VT" City conflict match to "14 Thompson Road, , VT" -->
     <tag k="addr:city" v="East Corinth"/>
     <tag k="addr:housenumber" v="14"/>
@@ -5922,7 +5940,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758605"/>
   </node>
-  <node id="-864" visible="true" lat="44.130108622329" lon="-72.206149651798">
+  <node id="-863" visible="true" lat="44.130108622329" lon="-72.206149651798">
     <!-- city-conflict: "162 Harts Road, Topsham, VT" City conflict match to "162 Harts Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="162"/>
@@ -5931,7 +5949,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759225"/>
   </node>
-  <node id="-865" visible="true" lat="44.157837741634" lon="-72.201379444005">
+  <node id="-864" visible="true" lat="44.157837741634" lon="-72.201379444005">
     <!-- city-conflict: "59 Fiske Road, Topsham, VT" City conflict match to "59 Fiske Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="59"/>
@@ -5940,7 +5958,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759262"/>
   </node>
-  <node id="-866" visible="true" lat="44.148852412535" lon="-72.262335265183">
+  <node id="-865" visible="true" lat="44.148852412535" lon="-72.262335265183">
     <!-- city-conflict: "9 Downing Road Extension, Topsham, VT" City conflict match to "9 Downing Road Extension, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="9"/>
@@ -5949,7 +5967,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759263"/>
   </node>
-  <node id="-867" visible="true" lat="44.148267321527" lon="-72.235445590533">
+  <node id="-866" visible="true" lat="44.148267321527" lon="-72.235445590533">
     <!-- city-conflict: "225 Powder Spring Road, Topsham, VT" City conflict match to "225 Powder Spring Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="225"/>
@@ -5958,7 +5976,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759349"/>
   </node>
-  <node id="-868" visible="true" lat="44.131087167638" lon="-72.204741814417">
+  <node id="-867" visible="true" lat="44.131087167638" lon="-72.204741814417">
     <!-- city-conflict: "4 Skyline Drive, Topsham, VT" City conflict match to "4 Skyline Drive, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="4"/>
@@ -5967,7 +5985,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759350"/>
   </node>
-  <node id="-869" visible="true" lat="44.124130157007" lon="-72.280970111518">
+  <node id="-868" visible="true" lat="44.124130157007" lon="-72.280970111518">
     <!-- city-conflict: "115 Zion Hill Road, West Topsham, VT" City conflict match to "115 Zion Hill Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="115"/>
@@ -5976,7 +5994,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759645"/>
   </node>
-  <node id="-870" visible="true" lat="44.176619083283" lon="-72.225348469009">
+  <node id="-869" visible="true" lat="44.176619083283" lon="-72.225348469009">
     <!-- city-conflict: "442 Powder Spring Road, Topsham, VT" City conflict match to "442 Powder Spring Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="442"/>
@@ -5985,7 +6003,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760663"/>
   </node>
-  <node id="-871" visible="true" lat="44.102676890827" lon="-72.289539757614">
+  <node id="-870" visible="true" lat="44.102676890827" lon="-72.289539757614">
     <!-- city-conflict: "58 Honey Corners Road, West Topsham, VT" City conflict match to "58 Honey Corners Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="58"/>
@@ -5994,7 +6012,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760809"/>
   </node>
-  <node id="-872" visible="true" lat="44.10109891991" lon="-72.289981553689">
+  <node id="-871" visible="true" lat="44.10109891991" lon="-72.289981553689">
     <!-- city-conflict: "48 Honey Corners Road, West Topsham, VT" City conflict match to "48 Honey Corners Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="48"/>
@@ -6003,7 +6021,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760810"/>
   </node>
-  <node id="-873" visible="true" lat="44.090498936392" lon="-72.283680454941">
+  <node id="-872" visible="true" lat="44.090498936392" lon="-72.283680454941">
     <!-- city-conflict: "150 Vermont Route 25, West Topsham, VT" City conflict match to "150 Vermont Route 25, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="150"/>
@@ -6012,7 +6030,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760985"/>
   </node>
-  <node id="-874" visible="true" lat="44.12366248991" lon="-72.266578029119">
+  <node id="-873" visible="true" lat="44.12366248991" lon="-72.266578029119">
     <!-- city-conflict: "61 Peterson Road, West Topsham, VT" City conflict match to "61 Peterson Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="61"/>
@@ -6021,7 +6039,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760986"/>
   </node>
-  <node id="-875" visible="true" lat="44.099488879789" lon="-72.328230955639">
+  <node id="-874" visible="true" lat="44.099488879789" lon="-72.328230955639">
     <!-- city-conflict: "82 East Orange Road, West Topsham, VT" City conflict match to "82 East Orange Road, Topsham, VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="82"/>
@@ -6030,7 +6048,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761064"/>
   </node>
-  <node id="-876" visible="true" lat="44.172081883507" lon="-72.225807568173">
+  <node id="-875" visible="true" lat="44.172081883507" lon="-72.225807568173">
     <!-- city-conflict: "411 Powder Spring Road, Topsham, VT" City conflict match to "411 Powder Spring Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="411"/>
@@ -6039,7 +6057,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761065"/>
   </node>
-  <node id="-877" visible="true" lat="44.149156616288" lon="-72.200064948068">
+  <node id="-876" visible="true" lat="44.149156616288" lon="-72.200064948068">
     <!-- city-conflict: "128 Emerson Road, Topsham, VT" City conflict match to "128 Emerson Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="128"/>
@@ -6048,7 +6066,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762069"/>
   </node>
-  <node id="-878" visible="true" lat="44.088154620725" lon="-72.266562875755">
+  <node id="-877" visible="true" lat="44.088154620725" lon="-72.266562875755">
     <!-- city-conflict: "11 Felch Road, West Topsham, VT" City conflict match to "11 Felch Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="11"/>
@@ -6057,7 +6075,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762072"/>
   </node>
-  <node id="-879" visible="true" lat="44.164903232328" lon="-72.240584816398">
+  <node id="-878" visible="true" lat="44.164903232328" lon="-72.240584816398">
     <!-- city-conflict: "112 Frost Road, Topsham, VT" City conflict match to "112 Frost Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="112"/>
@@ -6066,7 +6084,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762277"/>
   </node>
-  <node id="-880" visible="true" lat="44.137689971375" lon="-72.282002077197">
+  <node id="-879" visible="true" lat="44.137689971375" lon="-72.282002077197">
     <!-- city-conflict: "174 Kimball Hill Road, Topsham, VT" City conflict match to "174 Kimball Hill Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="174"/>
@@ -6075,7 +6093,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763397"/>
   </node>
-  <node id="-881" visible="true" lat="44.129989602413" lon="-72.204273078444">
+  <node id="-880" visible="true" lat="44.129989602413" lon="-72.204273078444">
     <!-- city-conflict: "176 Harts Road, Topsham, VT" City conflict match to "176 Harts Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="176"/>
@@ -6084,7 +6102,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763398"/>
   </node>
-  <node id="-882" visible="true" lat="44.142371058316" lon="-72.19443585554">
+  <node id="-881" visible="true" lat="44.142371058316" lon="-72.19443585554">
     <!-- city-conflict: "45 Emerson Road, Topsham, VT" City conflict match to "45 Emerson Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="45"/>
@@ -6093,7 +6111,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763399"/>
   </node>
-  <node id="-883" visible="true" lat="44.113513295355" lon="-72.248228152622">
+  <node id="-882" visible="true" lat="44.113513295355" lon="-72.248228152622">
     <!-- city-conflict: "130 Welch Road, Topsham, VT" City conflict match to "130 Welch Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="130"/>
@@ -6102,7 +6120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763400"/>
   </node>
-  <node id="-884" visible="true" lat="44.122774521511" lon="-72.241872148587">
+  <node id="-883" visible="true" lat="44.122774521511" lon="-72.241872148587">
     <!-- city-conflict: "275 Old County Road, Topsham, VT" City conflict match to "275 Old County Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="275"/>
@@ -6111,7 +6129,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765389"/>
   </node>
-  <node id="-885" visible="true" lat="44.092984010793" lon="-72.28916519996">
+  <node id="-884" visible="true" lat="44.092984010793" lon="-72.28916519996">
     <!-- city-conflict: "189 Vermont Route 25, West Topsham, VT" City conflict match to "189 Vermont Route 25, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="189"/>
@@ -6120,7 +6138,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765721"/>
   </node>
-  <node id="-886" visible="true" lat="44.099985916786" lon="-72.271525533512">
+  <node id="-885" visible="true" lat="44.099985916786" lon="-72.271525533512">
     <!-- city-conflict: "21 Phelps Road, West Topsham, VT" City conflict match to "21 Phelps Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="21"/>
@@ -6129,7 +6147,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768302"/>
   </node>
-  <node id="-887" visible="true" lat="44.170929803131" lon="-72.269283070365">
+  <node id="-886" visible="true" lat="44.170913079661" lon="-72.269315285264">
     <!-- city-conflict: "54 Fuller Hill Road, Topsham, VT" City conflict match to "54 Fuller Hill Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="54"/>
@@ -6138,7 +6156,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768304"/>
   </node>
-  <node id="-888" visible="true" lat="44.176053376733" lon="-72.267724610198">
+  <node id="-887" visible="true" lat="44.176077810129" lon="-72.267736281823">
     <!-- city-conflict: "86 Fuller Hill Road, Topsham, VT" City conflict match to "86 Fuller Hill Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="86"/>
@@ -6147,7 +6165,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768305"/>
   </node>
-  <node id="-889" visible="true" lat="44.169503495703" lon="-72.270304057217">
+  <node id="-888" visible="true" lat="44.169603283696" lon="-72.270291536083">
     <!-- city-conflict: "41 Fuller Hill Road, Topsham, VT" City conflict match to "41 Fuller Hill Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="41"/>
@@ -6156,16 +6174,16 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768306"/>
   </node>
-  <node id="-890" visible="true" lat="44.182848837815" lon="-72.269640418004">
+  <node id="-889" visible="true" lat="44.182855036662" lon="-72.269674187198">
     <!-- city-conflict: "132 Fuller Hill Road, Groton, VT" City conflict match to "132 Fuller Hill Road, , VT" -->
     <tag k="addr:city" v="Groton"/>
     <tag k="addr:housenumber" v="132"/>
     <tag k="addr:street" v="Fuller Hill Road"/>
-    <tag k="addr:postcode" v="05076"/>
+    <tag k="addr:postcode" v="05046"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768307"/>
   </node>
-  <node id="-891" visible="true" lat="44.103009618642" lon="-72.26786532275">
+  <node id="-890" visible="true" lat="44.103009618642" lon="-72.26786532275">
     <!-- city-conflict: "123 Watson Hill Road, West Topsham, VT" City conflict match to "123 Watson Hill Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="123"/>
@@ -6174,7 +6192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768308"/>
   </node>
-  <node id="-892" visible="true" lat="44.105222155136" lon="-72.309119264542">
+  <node id="-891" visible="true" lat="44.105222155136" lon="-72.309119264542">
     <!-- city-conflict: "10 Perry Road, West Topsham, VT" City conflict match to "10 Perry Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="10"/>
@@ -6183,7 +6201,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768819"/>
   </node>
-  <node id="-893" visible="true" lat="44.113366153345" lon="-72.197989768768">
+  <node id="-892" visible="true" lat="44.113366153345" lon="-72.197989768768">
     <!-- city-conflict: "175 Swamp Road, Topsham, VT" City conflict match to "175 Swamp Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="175"/>
@@ -6192,7 +6210,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769939"/>
   </node>
-  <node id="-894" visible="true" lat="44.177525895951" lon="-72.226728613518">
+  <node id="-893" visible="true" lat="44.177525895951" lon="-72.226728613518">
     <!-- city-conflict: "449 Powder Spring Road, Topsham, VT" City conflict match to "449 Powder Spring Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="449"/>
@@ -6201,7 +6219,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769941"/>
   </node>
-  <node id="-895" visible="true" lat="44.12026319252" lon="-72.29371039439">
+  <node id="-894" visible="true" lat="44.12026319252" lon="-72.29371039439">
     <!-- city-conflict: "84 Zion Hill Road, West Topsham, VT" City conflict match to "84 Zion Hill Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="84"/>
@@ -6210,7 +6228,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770690"/>
   </node>
-  <node id="-896" visible="true" lat="44.081583068129" lon="-72.226663733721">
+  <node id="-895" visible="true" lat="44.081583068129" lon="-72.226663733721">
     <!-- city-conflict: "36 Stryker Road, Topsham, VT" City conflict match to "36 Stryker Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="36"/>
@@ -6219,7 +6237,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771192"/>
   </node>
-  <node id="-897" visible="true" lat="44.118315981922" lon="-72.302327432591">
+  <node id="-896" visible="true" lat="44.118315981922" lon="-72.302327432591">
     <!-- city-conflict: "38 Zion Hill Road, West Topsham, VT" City conflict match to "38 Zion Hill Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="38"/>
@@ -6228,7 +6246,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771193"/>
   </node>
-  <node id="-898" visible="true" lat="44.124961320064" lon="-72.210505095349">
+  <node id="-897" visible="true" lat="44.124961320064" lon="-72.210505095349">
     <!-- city-conflict: "29 Clayton Mickels Drive, Topsham, VT" City conflict match to "29 Clayton Mickels Drive, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="29"/>
@@ -6237,7 +6255,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771209"/>
   </node>
-  <node id="-899" visible="true" lat="44.102281865637" lon="-72.260816937018">
+  <node id="-898" visible="true" lat="44.102281865637" lon="-72.260816937018">
     <!-- city-conflict: "13 Spooner Road, West Topsham, VT" City conflict match to "13 Spooner Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="13"/>
@@ -6246,7 +6264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771255"/>
   </node>
-  <node id="-901" visible="true" lat="44.132065972804" lon="-72.308766349877">
+  <node id="-900" visible="true" lat="44.132065972804" lon="-72.308766349877">
     <!-- city-conflict: "97 Crossroad, West Topsham, VT" City conflict match to "97 Crossroad, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="97"/>
@@ -6255,7 +6273,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771738"/>
   </node>
-  <node id="-902" visible="true" lat="44.130564863358" lon="-72.21392992949">
+  <node id="-901" visible="true" lat="44.137334549648" lon="-72.207816719436">
     <!-- city-conflict: "18 Johnny Road, Topsham, VT" City conflict match to "18 Johnny Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="18"/>
@@ -6264,7 +6282,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771739"/>
   </node>
-  <node id="-903" visible="true" lat="44.145944550134" lon="-72.288726568317">
+  <node id="-902" visible="true" lat="44.145944550134" lon="-72.288726568317">
     <!-- city-conflict: "142 Willey Hill Road, Topsham, VT" City conflict match to "142 Willey Hill Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="142"/>
@@ -6273,7 +6291,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771780"/>
   </node>
-  <node id="-904" visible="true" lat="44.085479510223" lon="-72.270732121224">
+  <node id="-903" visible="true" lat="44.085479510223" lon="-72.270732121224">
     <!-- city-conflict: "18 Watson Hill Road, West Topsham, VT" City conflict match to "18 Watson Hill Road, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="18"/>
@@ -6282,7 +6300,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771881"/>
   </node>
-  <node id="-905" visible="true" lat="44.084464021428" lon="-72.272148403712">
+  <node id="-904" visible="true" lat="44.084464021428" lon="-72.272148403712">
     <!-- city-conflict: "80 Vermont Route 25, West Topsham, VT" City conflict match to "80 Vermont Route 25, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="80"/>
@@ -6291,7 +6309,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771882"/>
   </node>
-  <node id="-906" visible="true" lat="44.117480260826" lon="-72.310199243101">
+  <node id="-905" visible="true" lat="44.117480260826" lon="-72.310199243101">
     <!-- city-conflict: "15 Halls Hill, West Topsham, VT" City conflict match to "15 Halls Hill, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="15"/>
@@ -6300,7 +6318,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771883"/>
   </node>
-  <node id="-907" visible="true" lat="44.145954345029" lon="-72.254242399095">
+  <node id="-906" visible="true" lat="44.145954345029" lon="-72.254242399095">
     <!-- city-conflict: "140 Downing Road, Topsham, VT" City conflict match to "140 Downing Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="140"/>
@@ -6309,7 +6327,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771884"/>
   </node>
-  <node id="-908" visible="true" lat="44.078319020196" lon="-72.226645298685">
+  <node id="-907" visible="true" lat="44.078319020196" lon="-72.226645298685">
     <!-- city-conflict: "15 Stryker Road, Topsham, VT" City conflict match to "15 Stryker Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="15"/>
@@ -6318,7 +6336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="772365"/>
   </node>
-  <node id="-909" visible="true" lat="44.145235708181" lon="-72.277989621182">
+  <node id="-908" visible="true" lat="44.145235708181" lon="-72.277989621182">
     <!-- city-conflict: "24 Territory Road, Topsham, VT" City conflict match to "24 Territory Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="24"/>
@@ -6327,7 +6345,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="772366"/>
   </node>
-  <node id="-910" visible="true" lat="44.125285363598" lon="-72.255372418237">
+  <node id="-909" visible="true" lat="44.125285363598" lon="-72.255372418237">
     <!-- city-conflict: "197 Ben Dexter Road, Topsham, VT" City conflict match to "197 Ben Dexter Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="197"/>
@@ -6336,7 +6354,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="772367"/>
   </node>
-  <node id="-913" visible="true" lat="44.080632558089" lon="-72.261831491745">
+  <node id="-914" visible="true" lat="44.080632558089" lon="-72.261831491745">
     <!-- city-conflict: "5 Waits River Valley School Road, East Corinth, VT" City conflict match to "5 Waits River Valley School Road, , VT" -->
     <tag k="addr:city" v="East Corinth"/>
     <tag k="addr:housenumber" v="5"/>
@@ -6345,7 +6363,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050850"/>
   </node>
-  <node id="-915" visible="true" lat="44.131951822014" lon="-72.313598909929">
+  <node id="-916" visible="true" lat="44.131951822014" lon="-72.313598909929">
     <!-- city-conflict: "612 Vermont Route 25, West Topsham, VT" City conflict match to "612 Vermont Route 25, , VT" -->
     <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="612"/>
@@ -6354,7 +6372,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050852"/>
   </node>
-  <node id="-916" visible="true" lat="44.118036620616" lon="-72.233210347595">
+  <node id="-917" visible="true" lat="44.118036620616" lon="-72.233210347595">
     <!-- city-conflict: "349 Topsham Corinth Road, Topsham, VT" City conflict match to "349 Topsham Corinth Road, , VT" -->
     <tag k="addr:city" v="Topsham"/>
     <tag k="addr:housenumber" v="349"/>

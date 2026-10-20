@@ -99,7 +99,16 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287379"/>
   </node>
-  <node id="-1723" visible="true" lat="44.137532651588" lon="-72.4921028662">
+  <node id="-1521" visible="true" lat="44.136264937883" lon="-72.538482918821">
+    <!-- conflict: "344 Old Town Road, Williamstown, VT" No match in OSM, but a different address exists <5m away: "228 Old Town Road, , VT" -->
+    <tag k="addr:city" v="Williamstown"/>
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:street" v="Old Town Road"/>
+    <tag k="addr:postcode" v="05679"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="451304"/>
+  </node>
+  <node id="-1721" visible="true" lat="44.137532651588" lon="-72.4921028662">
     <!-- conflict: "344 Pirie Road, Granitville, VT" No match in OSM, but a different address exists <5m away: "352 Pirie Road, , VT" -->
     <tag k="addr:city" v="Granitville"/>
     <tag k="addr:housenumber" v="344"/>

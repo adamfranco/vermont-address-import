@@ -418,7 +418,7 @@
   </node>
   <node id="-152" visible="true" lat="44.105448670979" lon="-72.745847045955">
     <tag k="addr:city" v="Roxbury" />
-    <tag k="addr:housenumber" v="160" />
+    <tag k="addr:housenumber" v="116" />
     <tag k="addr:street" v="Dunbars Way" />
     <tag k="addr:postcode" v="05669" />
     <tag k="addr:state" v="VT" />
@@ -1144,7 +1144,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="205442" />
   </node>
-  <node id="-243" visible="true" lat="44.091180204034" lon="-72.670434276236">
+  <node id="-243" visible="true" lat="44.09118963599" lon="-72.670532075082">
     <tag k="addr:city" v="Northfield" />
     <tag k="addr:housenumber" v="2521" />
     <tag k="addr:street" v="Winch Hill Road" />
@@ -4248,7 +4248,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="759092" />
   </node>
-  <node id="-632" visible="true" lat="44.106383817819" lon="-72.746835055072">
+  <node id="-632" visible="true" lat="44.106295157447" lon="-72.74676750402">
     <tag k="addr:city" v="Roxbury" />
     <tag k="addr:housenumber" v="115" />
     <tag k="addr:street" v="Dunbars Way" />
@@ -4592,7 +4592,15 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="773905" />
   </node>
-  <node id="-684" visible="true" lat="44.090188510116" lon="-72.649266080951">
+  <node id="-685" visible="true" lat="44.107151395346" lon="-72.744794908825">
+    <tag k="addr:city" v="Roxbury" />
+    <tag k="addr:housenumber" v="280" />
+    <tag k="addr:street" v="Dunbars Way" />
+    <tag k="addr:postcode" v="05669" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="774631" />
+  </node>
+  <node id="-686" visible="true" lat="44.090188510116" lon="-72.649266080951">
     <tag k="addr:city" v="Northfield" />
     <tag k="addr:housenumber" v="235" />
     <tag k="addr:street" v="East Roxbury Road" />

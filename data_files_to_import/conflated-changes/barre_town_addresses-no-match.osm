@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-2899" visible="true" lat="44.156197115168" lon="-72.446565231141">
-    <tag k="addr:city" v="East Barre"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="East Allen Street"/>
-    <tag k="addr:postcode" v="05649"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="13868"/>
-  </node>
   <node id="-3533" visible="true" lat="44.196672019886" lon="-72.478272855122">
     <tag k="addr:city" v="Barre"/>
     <tag k="addr:housenumber" v="71"/>
@@ -55,5 +47,21 @@
     <tag k="addr:postcode" v="05641"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773799"/>
+  </node>
+  <node id="-3826" visible="true" lat="44.171040890936" lon="-72.501754653977">
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Silver Circle"/>
+    <tag k="addr:postcode" v="05641"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774090"/>
+  </node>
+  <node id="-3827" visible="true" lat="44.202351925605" lon="-72.429393671734">
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="548"/>
+    <tag k="addr:street" v="Cutler Corner Road"/>
+    <tag k="addr:postcode" v="05641"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774129"/>
   </node>
 </osm>

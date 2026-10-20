@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1471" visible="true" lat="44.592773003349" lon="-73.336345582777">
+  <node id="-507" visible="true" lat="44.649326370097" lon="-73.298095566802">
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Carter Lane"/>
+    <tag k="addr:postcode" v="05486"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="233667"/>
+  </node>
+  <node id="-1470" visible="true" lat="44.592773003349" lon="-73.336345582777">
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="343"/>
     <tag k="addr:street" v="Stave Island"/>
@@ -8,7 +16,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451787"/>
   </node>
-  <node id="-1489" visible="true" lat="44.673798194577" lon="-73.252743546609">
+  <node id="-1488" visible="true" lat="44.673798194577" lon="-73.252743546609">
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="568"/>
     <tag k="addr:street" v="Fish Bladder Island"/>
@@ -16,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452198"/>
   </node>
-  <node id="-1491" visible="true" lat="44.667622840307" lon="-73.297612197237">
+  <node id="-1490" visible="true" lat="44.667622840307" lon="-73.297612197237">
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="216"/>
     <tag k="addr:street" v="Kellogg Island"/>
@@ -24,7 +32,55 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452200"/>
   </node>
-  <node id="-1782" visible="true" lat="44.63319079306" lon="-73.302101534678">
+  <node id="-1775" visible="true" lat="44.637554064573" lon="-73.270148848046">
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Sandy Side Lane"/>
+    <tag k="addr:postcode" v="05486"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773229"/>
+  </node>
+  <node id="-1776" visible="true" lat="44.637687543502" lon="-73.270335795356">
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Sandy Side Lane"/>
+    <tag k="addr:postcode" v="05486"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773230"/>
+  </node>
+  <node id="-1777" visible="true" lat="44.63783090866" lon="-73.270522742027">
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Sandy Side Lane"/>
+    <tag k="addr:postcode" v="05486"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773231"/>
+  </node>
+  <node id="-1778" visible="true" lat="44.637966858986" lon="-73.270702765065">
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Sandy Side Lane"/>
+    <tag k="addr:postcode" v="05486"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773232"/>
+  </node>
+  <node id="-1779" visible="true" lat="44.637952028556" lon="-73.270931255603">
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Sandy Side Lane"/>
+    <tag k="addr:postcode" v="05486"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773233"/>
+  </node>
+  <node id="-1780" visible="true" lat="44.637833380951" lon="-73.271021267182">
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Sandy Side Lane"/>
+    <tag k="addr:postcode" v="05486"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773234"/>
+  </node>
+  <node id="-1781" visible="true" lat="44.63319079306" lon="-73.302101534678">
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="93"/>
     <tag k="addr:street" v="South Street"/>
@@ -32,12 +88,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773631"/>
   </node>
-  <node id="-1783" visible="true" lat="44.671057510623" lon="-73.323819604424">
+  <node id="-1782" visible="true" lat="44.671057510623" lon="-73.323819604424">
     <tag k="addr:city" v="South Hero"/>
     <tag k="addr:housenumber" v="569"/>
     <tag k="addr:street" v="2"/>
     <tag k="addr:postcode" v="05486"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773817"/>
+  </node>
+  <node id="-1783" visible="true" lat="44.599017548486" lon="-73.303779562362">
+    <tag k="addr:city" v="South Hero"/>
+    <tag k="addr:housenumber" v="363"/>
+    <tag k="addr:street" v="South Street"/>
+    <tag k="addr:postcode" v="05486"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774345"/>
   </node>
 </osm>

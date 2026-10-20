@@ -9,14 +9,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="39056"/>
   </node>
-  <node id="-1308" visible="true" lat="44.057048792563" lon="-73.054482894076">
-    <!-- conflict: "454 U.S. Route 2, Bristol, VT" No match in OSM, but a different address exists <5m away: "454 Beaver Meadow Trail, Bristol, VT" -->
+  <node id="-829" visible="true" lat="44.132557721688" lon="-73.088800035284">
+    <!-- conflict: "62 Firehouse Drive, Bristol, VT" No match in OSM, but a different address exists <5m away: "79 West Street, Bristol, VT" -->
     <tag k="addr:city" v="Bristol"/>
-    <tag k="addr:housenumber" v="454"/>
-    <tag k="addr:street" v="U.S. Route 2"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Firehouse Drive"/>
     <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="40129"/>
+    <tag k="ref:vcgi:esiteid" v="39596"/>
   </node>
   <node id="-1336" visible="true" lat="44.062362294368" lon="-73.086013225626">
     <!-- conflict: "300 Green Mountain Drive, Bristol, VT" No match in OSM, but a different address exists <5m away: "500 Green Mountain Drive, Bristol, VT" -->
@@ -27,31 +27,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="40160"/>
   </node>
-  <node id="-1584" visible="true" lat="44.156867381597" lon="-73.119434778752">
-    <!-- conflict: "150 Jenne Drive, Bristol, VT" No match in OSM, but a different address exists <5m away: "150 Jeannes Way, Bristol, VT" -->
+  <node id="-1647" visible="true" lat="44.147972984224" lon="-73.092221588227">
+    <!-- conflict: "500 Kilbourn Lane, Bristol, VT" No match in OSM, but a different address exists <5m away: "76 Kilbourn Lane, Bristol, VT" -->
     <tag k="addr:city" v="Bristol"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Jenne Drive"/>
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:street" v="Kilbourn Lane"/>
     <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="336695"/>
-  </node>
-  <node id="-1623" visible="true" lat="44.157667589569" lon="-73.120157660502">
-    <!-- conflict: "110 Jenne Drive, Bristol, VT" No match in OSM, but a different address exists <5m away: "110 Jeannes Way, Bristol, VT" -->
-    <tag k="addr:city" v="Bristol"/>
-    <tag k="addr:housenumber" v="110"/>
-    <tag k="addr:street" v="Jenne Drive"/>
-    <tag k="addr:postcode" v="05443"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345224"/>
-  </node>
-  <node id="-1624" visible="true" lat="44.158267454777" lon="-73.120415330313">
-    <!-- conflict: "60 Jenne Drive, Bristol, VT" No match in OSM, but a different address exists <5m away: "60 Jeannes Way, Bristol, VT" -->
-    <tag k="addr:city" v="Bristol"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Jenne Drive"/>
-    <tag k="addr:postcode" v="05443"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345225"/>
+    <tag k="ref:vcgi:esiteid" v="451300"/>
   </node>
 </osm>

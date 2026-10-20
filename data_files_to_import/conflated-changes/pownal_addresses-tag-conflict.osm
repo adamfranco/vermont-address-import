@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-909" visible="true" lat="42.793739879081" lon="-73.270256202856">
+    <!-- conflict: "280 Furlong Road, Pownal, VT" No match in OSM, but a different address exists <5m away: "238 Furlong Road, Pownal, VT" -->
+    <tag k="addr:city" v="Pownal"/>
+    <tag k="addr:housenumber" v="280"/>
+    <tag k="addr:street" v="Furlong Road"/>
+    <tag k="addr:postcode" v="05261"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="193330"/>
+  </node>
+  <node id="-936" visible="true" lat="42.79215822656" lon="-73.270446713929">
+    <!-- conflict: "279 Furlong Road, Pownal, VT" No match in OSM, but a different address exists <5m away: "239 Furlong Road, Pownal, VT" -->
+    <tag k="addr:city" v="Pownal"/>
+    <tag k="addr:housenumber" v="279"/>
+    <tag k="addr:street" v="Furlong Road"/>
+    <tag k="addr:postcode" v="05261"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="193358"/>
+  </node>
+</osm>

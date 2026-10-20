@@ -10,10 +10,10 @@
     <tag k="ref:vcgi:esiteid" v="252488"/>
   </node>
   <node id="-524" visible="true" lat="43.834720056033" lon="-72.437311789942">
-    <!-- conflict: "7 Brook Road, Sharon, VT" No match in OSM, but a different address exists <5m away: "500 Brook Road, Strafford, VT" -->
+    <!-- conflict: "7 Nutting Road, Sharon, VT" No match in OSM, but a different address exists <5m away: "500 Brook Road, Strafford, VT" -->
     <tag k="addr:city" v="Sharon"/>
     <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Brook Road"/>
+    <tag k="addr:street" v="Nutting Road"/>
     <tag k="addr:postcode" v="05065"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252576"/>
@@ -27,7 +27,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252680"/>
   </node>
-  <node id="-831" visible="true" lat="43.853680741356" lon="-72.35325220789">
+  <node id="-831" visible="true" lat="43.85364411563" lon="-72.353282236675">
     <!-- conflict: "66 Alger Brook Road, South Strafford, VT" Fuzzy match to "66 Alger Brook Road, Strafford, VT" -->
     <tag k="addr:city" v="South Strafford"/>
     <tag k="addr:housenumber" v="66"/>

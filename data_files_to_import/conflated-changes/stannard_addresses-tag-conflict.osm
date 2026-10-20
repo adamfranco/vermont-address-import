@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-100" visible="true" lat="44.518482004753" lon="-72.142188079209">
-    <!-- conflict: "501 Scott Road, Danville, VT" No match in OSM, but a different address exists <5m away: "501 Horne Road, Stannard, VT" -->
-    <tag k="addr:city" v="Danville"/>
-    <tag k="addr:housenumber" v="501"/>
-    <tag k="addr:street" v="Scott Road"/>
-    <tag k="addr:postcode" v="05828"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="13"/>
-  </node>
-  <node id="-276" visible="true" lat="44.52290443555" lon="-72.145396906022">
-    <!-- conflict: "478 Scott Road, Danville, VT" No match in OSM, but a different address exists <5m away: "478 Horne Road, Wheelock, VT" -->
-    <tag k="addr:city" v="Danville"/>
-    <tag k="addr:housenumber" v="478"/>
-    <tag k="addr:street" v="Scott Road"/>
-    <tag k="addr:postcode" v="05828"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="285856"/>
-  </node>
-  <node id="-277" visible="true" lat="44.521078875913" lon="-72.142555642454">
-    <!-- conflict: "502 Scott Road, Danville, VT" No match in OSM, but a different address exists <5m away: "502 Horne Road, Wheelock, VT" -->
-    <tag k="addr:city" v="Danville"/>
-    <tag k="addr:housenumber" v="502"/>
-    <tag k="addr:street" v="Scott Road"/>
-    <tag k="addr:postcode" v="05828"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="285858"/>
-  </node>
   <node id="-280" visible="true" lat="44.553080701231" lon="-72.249065048682">
     <!-- conflict: "218 Tousant Hill Road, Greensboro Bend, VT" Fuzzy match to "218 Tousant Hill Road, Stannard, VT" -->
     <tag k="addr:city" v="Greensboro Bend"/>

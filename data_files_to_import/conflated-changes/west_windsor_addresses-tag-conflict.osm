@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-386" visible="true" lat="43.474209550451" lon="-72.524308396297">
+    <!-- conflict: "515 Shattuck Hill Road, Reading, VT" No match in OSM, but a different address exists <5m away: "279 Rock Haven Lane, , VT" -->
+    <tag k="addr:city" v="Reading"/>
+    <tag k="addr:housenumber" v="515"/>
+    <tag k="addr:street" v="Shattuck Hill Road"/>
+    <tag k="addr:postcode" v="05062"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280469"/>
+  </node>
+  <node id="-387" visible="true" lat="43.474098924944" lon="-72.522713851278">
+    <!-- conflict: "513 Shattuck Hill Road, Reading, VT" No match in OSM, but a different address exists <5m away: "189 Rock Haven Lane, , VT" -->
+    <tag k="addr:city" v="Reading"/>
+    <tag k="addr:housenumber" v="513"/>
+    <tag k="addr:street" v="Shattuck Hill Road"/>
+    <tag k="addr:postcode" v="05062"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="280470"/>
+  </node>
+  <node id="-951" visible="true" lat="43.474333274231" lon="-72.521357832554">
+    <!-- conflict: "511 Shattuck Hill Road, Reading, VT" No match in OSM, but a different address exists <5m away: "110 Rock Haven Lane, , VT" -->
+    <tag k="addr:city" v="Reading"/>
+    <tag k="addr:housenumber" v="511"/>
+    <tag k="addr:street" v="Shattuck Hill Road"/>
+    <tag k="addr:postcode" v="05062"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="800011"/>
+  </node>
+</osm>

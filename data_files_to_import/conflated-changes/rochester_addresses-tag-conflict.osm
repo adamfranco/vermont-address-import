@@ -27,4 +27,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451287"/>
   </node>
+  <node id="-1007" visible="true" lat="43.914552739838" lon="-72.786504680276">
+    <!-- conflict: "2675 North Hollow Road, Rochester, VT" No match in OSM, but a different address exists <5m away: "2600 North Hollow Road, Rochester, VT" -->
+    <tag k="addr:city" v="Rochester"/>
+    <tag k="addr:housenumber" v="2675"/>
+    <tag k="addr:street" v="North Hollow Road"/>
+    <tag k="addr:postcode" v="05767"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770693"/>
+  </node>
 </osm>

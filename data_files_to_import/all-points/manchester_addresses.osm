@@ -2107,7 +2107,7 @@
   <node id="-363" visible="true" lat="43.196083760477" lon="-73.055895566231">
     <tag k="addr:city" v="Manchester Center" />
     <tag k="addr:housenumber" v="1319" />
-    <tag k="addr:street" v="Hospital Drive" />
+    <tag k="addr:street" v="Bonnet Street" />
     <tag k="addr:postcode" v="05255" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="149284" />
@@ -2339,7 +2339,7 @@
   <node id="-392" visible="true" lat="43.193713952026" lon="-73.05525840378">
     <tag k="addr:city" v="Manchester Center" />
     <tag k="addr:housenumber" v="1183" />
-    <tag k="addr:street" v="Hospital Drive" />
+    <tag k="addr:street" v="Bonnet Street" />
     <tag k="addr:postcode" v="05255" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="149315" />
@@ -2363,7 +2363,7 @@
   <node id="-395" visible="true" lat="43.19375962387" lon="-73.053205913149">
     <tag k="addr:city" v="Manchester Center" />
     <tag k="addr:housenumber" v="1222" />
-    <tag k="addr:street" v="Hospital Drive" />
+    <tag k="addr:street" v="Bonnet Street" />
     <tag k="addr:postcode" v="05255" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="149318" />
@@ -24232,7 +24232,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="771411" />
   </node>
-  <node id="-3174" visible="true" lat="43.186729604815" lon="-73.007912669132">
+  <node id="-3174" visible="true" lat="43.186536103316" lon="-73.007621824209">
     <tag k="addr:city" v="Manchester Center" />
     <tag k="addr:housenumber" v="16" />
     <tag k="addr:street" v="Donald Lane" />
@@ -24272,15 +24272,31 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="773826" />
   </node>
-  <node id="-3179" visible="true" lat="43.147400403869" lon="-73.093305372283">
+  <node id="-3179" visible="true" lat="43.146936295404" lon="-73.094496649368">
     <tag k="addr:city" v="Manchester Center" />
-    <tag k="addr:housenumber" v="283" />
-    <tag k="addr:street" v="Rocking Stone Lane" />
+    <tag k="addr:housenumber" v="118" />
+    <tag k="addr:street" v="Summit View" />
     <tag k="addr:postcode" v="05255" />
     <tag k="addr:state" v="VT" />
-    <tag k="ref:vcgi:esiteid" v="773988" />
+    <tag k="ref:vcgi:esiteid" v="774035" />
   </node>
-  <node id="-3180" visible="true" lat="43.146956985216" lon="-73.094830442846">
+  <node id="-3180" visible="true" lat="43.147430197513" lon="-73.093666963317">
+    <tag k="addr:city" v="Manchester Center" />
+    <tag k="addr:housenumber" v="55" />
+    <tag k="addr:street" v="Summit View" />
+    <tag k="addr:postcode" v="05255" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="774036" />
+  </node>
+  <node id="-3181" visible="true" lat="43.180818976667" lon="-73.04136025445">
+    <tag k="addr:city" v="Manchester Center" />
+    <tag k="addr:housenumber" v="375" />
+    <tag k="addr:street" v="Barnumville Road" />
+    <tag k="addr:postcode" v="05255" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="774421" />
+  </node>
+  <node id="-3182" visible="true" lat="43.146956985216" lon="-73.094830442846">
     <tag k="addr:city" v="Manchester Center" />
     <tag k="addr:housenumber" v="120" />
     <tag k="addr:street" v="Summit View" />
@@ -24288,7 +24304,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="900230" />
   </node>
-  <node id="-3181" visible="true" lat="43.125411116005" lon="-73.099050214722">
+  <node id="-3183" visible="true" lat="43.125411116005" lon="-73.099050214722">
     <tag k="addr:city" v="Manchester Center" />
     <tag k="addr:housenumber" v="501" />
     <tag k="addr:street" v="Main Street" />
@@ -24296,7 +24312,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="900346" />
   </node>
-  <node id="-3183" visible="true" lat="43.118869590329" lon="-73.0810476569">
+  <node id="-3185" visible="true" lat="43.118869590329" lon="-73.0810476569">
     <tag k="addr:city" v="Arlington" />
     <tag k="addr:housenumber" v="4" />
     <tag k="addr:street" v="U.S. Route 7" />
@@ -24304,7 +24320,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050304" />
   </node>
-  <node id="-3184" visible="true" lat="43.174440518887" lon="-73.02926305426">
+  <node id="-3186" visible="true" lat="43.174440518887" lon="-73.02926305426">
     <tag k="addr:city" v="Manchester Center" />
     <tag k="addr:housenumber" v="1513" />
     <tag k="addr:street" v="Depot Street" />
@@ -24312,7 +24328,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="1050331" />
   </node>
-  <node id="-3185" visible="true" lat="43.178876104829" lon="-73.052587615138">
+  <node id="-3187" visible="true" lat="43.178876104829" lon="-73.052587615138">
     <tag k="addr:city" v="Manchester Center" />
     <tag k="addr:housenumber" v="86" />
     <tag k="addr:street" v="Memorial Avenue" />

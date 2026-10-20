@@ -18,6 +18,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="258899"/>
   </node>
+  <node id="-1244" visible="true" lat="43.789377650512" lon="-72.254651659766">
+    <!-- conflict: "61 Main Street, East Thetford, VT" Fuzzy match to "61 Main Street, Thetford, VT" -->
+    <tag k="addr:city" v="East Thetford"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:postcode" v="05043"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259650"/>
+  </node>
   <node id="-1604" visible="true" lat="43.833676171792" lon="-72.200734317551">
     <!-- conflict: "1660 Latham Road, East Thetford, VT" No match in OSM, but a different address exists <5m away: "1662 Latham Road, Thetford, VT" -->
     <tag k="addr:city" v="East Thetford"/>

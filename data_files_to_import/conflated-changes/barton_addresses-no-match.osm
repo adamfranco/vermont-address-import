@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-971" visible="true" lat="44.742649168886" lon="-72.157496600957">
+  <node id="-970" visible="true" lat="44.742649168886" lon="-72.157496600957">
     <tag k="addr:city" v="Barton"/>
     <tag k="addr:housenumber" v="274"/>
-    <tag k="addr:street" v="Pageant Park Road"/>
+    <tag k="addr:street" v="Camp Road"/>
     <tag k="addr:postcode" v="05822"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="15509"/>
   </node>
-  <node id="-1249" visible="true" lat="44.740957876784" lon="-72.151054738745">
+  <node id="-1011" visible="true" lat="44.743521578736" lon="-72.184334622992">
+    <tag k="addr:city" v="Barton"/>
+    <tag k="addr:housenumber" v="360"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="addr:postcode" v="05822"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="15554"/>
+  </node>
+  <node id="-1246" visible="true" lat="44.740957876784" lon="-72.151054738745">
     <tag k="addr:city" v="Barton"/>
     <tag k="addr:housenumber" v="1141"/>
     <tag k="addr:street" v="Pageant Park Road"/>
@@ -16,7 +24,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500001"/>
   </node>
-  <node id="-1250" visible="true" lat="44.740853597669" lon="-72.155112608488">
+  <node id="-1247" visible="true" lat="44.785494129888" lon="-72.191197765341">
+    <tag k="addr:city" v="Barton"/>
+    <tag k="addr:housenumber" v="2321"/>
+    <tag k="addr:street" v="Maple Hill Road"/>
+    <tag k="addr:postcode" v="05822"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="500096"/>
+  </node>
+  <node id="-1248" visible="true" lat="44.740853597669" lon="-72.155112608488">
     <tag k="addr:city" v="Barton"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="Camp Road"/>
@@ -24,7 +40,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="600001"/>
   </node>
-  <node id="-1251" visible="true" lat="44.739968019867" lon="-72.155281228299">
+  <node id="-1249" visible="true" lat="44.739968019867" lon="-72.155281228299">
     <tag k="addr:city" v="Barton"/>
     <tag k="addr:housenumber" v="73"/>
     <tag k="addr:street" v="Camp Road"/>
@@ -32,7 +48,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="600014"/>
   </node>
-  <node id="-1304" visible="true" lat="44.752478647703" lon="-72.169748197708">
+  <node id="-1267" visible="true" lat="44.735968855411" lon="-72.148643981188">
+    <tag k="addr:city" v="Barton"/>
+    <tag k="addr:housenumber" v="1716"/>
+    <tag k="addr:street" v="Pageant Park Road"/>
+    <tag k="addr:postcode" v="05822"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656910"/>
+  </node>
+  <node id="-1303" visible="true" lat="44.752478647703" lon="-72.169748197708">
     <tag k="addr:city" v="Barton"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Sunrise Extension"/>
@@ -40,12 +64,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773417"/>
   </node>
-  <node id="-1306" visible="true" lat="44.780258581577" lon="-72.217170997369">
+  <node id="-1305" visible="true" lat="44.780258581577" lon="-72.217170997369">
     <tag k="addr:city" v="Barton"/>
     <tag k="addr:housenumber" v="246"/>
     <tag k="addr:street" v="Leblanc Road"/>
     <tag k="addr:postcode" v="05822"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773853"/>
+  </node>
+  <node id="-1306" visible="true" lat="44.743416051152" lon="-72.176337244587">
+    <tag k="addr:city" v="Barton"/>
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:street" v="West Street"/>
+    <tag k="addr:postcode" v="05822"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774273"/>
   </node>
 </osm>

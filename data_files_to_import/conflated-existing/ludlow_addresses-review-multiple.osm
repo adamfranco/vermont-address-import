@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-603" visible="true" lat="43.400954046777" lon="-72.70243202242">
+    <!-- multiple: "6 Orion Avenue, Ludlow, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Orion Avenue"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="143091"/>
+  </node>
   <node id="-623" visible="true" lat="43.399835233804" lon="-72.705912901267">
     <!-- multiple: "57 Pond Street, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
@@ -26,15 +35,6 @@
     <tag k="addr:postcode" v="05149"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143288"/>
-  </node>
-  <node id="-789" visible="true" lat="43.399297582446" lon="-72.706695909525">
-    <!-- multiple: "44 Pond Street, Ludlow, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Pond Street"/>
-    <tag k="addr:postcode" v="05149"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="143289"/>
   </node>
   <node id="-802" visible="true" lat="43.396538031507" lon="-72.705257983968">
     <!-- multiple: "16 Pond Street, Ludlow, VT" Multiple exact matches in OSM. -->
@@ -135,7 +135,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143476"/>
   </node>
-  <node id="-1033" visible="true" lat="43.388452779692" lon="-72.664118410622">
+  <node id="-1032" visible="true" lat="43.388452779692" lon="-72.664118410622">
     <!-- multiple: "611 Vermont Route 103 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="611"/>
@@ -144,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143542"/>
   </node>
-  <node id="-1034" visible="true" lat="43.388704260885" lon="-72.664126926505">
+  <node id="-1033" visible="true" lat="43.388704260885" lon="-72.664126926505">
     <!-- multiple: "611 Vermont Route 103 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="611"/>
@@ -153,7 +153,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143543"/>
   </node>
-  <node id="-1036" visible="true" lat="43.388421703999" lon="-72.663200050529">
+  <node id="-1035" visible="true" lat="43.388421703999" lon="-72.663200050529">
     <!-- multiple: "611 Vermont Route 103 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="611"/>
@@ -162,7 +162,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143545"/>
   </node>
-  <node id="-1037" visible="true" lat="43.388945423338" lon="-72.663359510537">
+  <node id="-1036" visible="true" lat="43.388945423338" lon="-72.663359510537">
     <!-- multiple: "611 Vermont Route 103 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="611"/>
@@ -171,7 +171,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143546"/>
   </node>
-  <node id="-1043" visible="true" lat="43.389703718437" lon="-72.664686084994">
+  <node id="-1042" visible="true" lat="43.389703718437" lon="-72.664686084994">
     <!-- multiple: "609 Vermont Route 103 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="609"/>
@@ -180,7 +180,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143553"/>
   </node>
-  <node id="-1081" visible="true" lat="43.394527017576" lon="-72.683866031907">
+  <node id="-1080" visible="true" lat="43.394527017576" lon="-72.683866031907">
     <!-- multiple: "32 Vermont Route 103 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="32"/>
@@ -189,7 +189,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143597"/>
   </node>
-  <node id="-1082" visible="true" lat="43.394385965998" lon="-72.683446957605">
+  <node id="-1081" visible="true" lat="43.394385965998" lon="-72.683446957605">
     <!-- multiple: "32 Vermont Route 103 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="32"/>
@@ -198,7 +198,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143598"/>
   </node>
-  <node id="-1083" visible="true" lat="43.394444781272" lon="-72.682935777493">
+  <node id="-1082" visible="true" lat="43.394444781272" lon="-72.682935777493">
     <!-- multiple: "32 Vermont Route 103 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="32"/>
@@ -207,7 +207,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143599"/>
   </node>
-  <node id="-1084" visible="true" lat="43.394206070925" lon="-72.682992468653">
+  <node id="-1083" visible="true" lat="43.394206070925" lon="-72.682992468653">
     <!-- multiple: "32 Vermont Route 103 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="32"/>
@@ -216,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143600"/>
   </node>
-  <node id="-1318" visible="true" lat="43.396211890613" lon="-72.701644451981">
+  <node id="-1317" visible="true" lat="43.396211890613" lon="-72.701644451981">
     <!-- multiple: "195 Main Street, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="195"/>
@@ -225,7 +225,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143839"/>
   </node>
-  <node id="-1659" visible="true" lat="43.378903629397" lon="-72.71468137789">
+  <node id="-1658" visible="true" lat="43.378903629397" lon="-72.71468137789">
     <!-- multiple: "352 Vermont Route 100 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="352"/>
@@ -234,7 +234,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144193"/>
   </node>
-  <node id="-1660" visible="true" lat="43.379069247131" lon="-72.714285422638">
+  <node id="-1659" visible="true" lat="43.379069247131" lon="-72.714285422638">
     <!-- multiple: "352 Vermont Route 100 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="352"/>
@@ -243,7 +243,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144194"/>
   </node>
-  <node id="-1757" visible="true" lat="43.368787040655" lon="-72.693228465968">
+  <node id="-1756" visible="true" lat="43.368787040655" lon="-72.693228465968">
     <!-- multiple: "886 South Hill Road, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="886"/>
@@ -252,7 +252,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144293"/>
   </node>
-  <node id="-1903" visible="true" lat="43.39854094614" lon="-72.695886020533">
+  <node id="-1902" visible="true" lat="43.39854094614" lon="-72.695886020533">
     <!-- multiple: "7 Gill Terrace, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="7"/>
@@ -261,16 +261,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144451"/>
   </node>
-  <node id="-2149" visible="true" lat="43.399490914545" lon="-72.706948083146">
-    <!-- multiple: "44 Pond Street, Ludlow, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Ludlow"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Pond Street"/>
-    <tag k="addr:postcode" v="05149"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="144779"/>
-  </node>
-  <node id="-2299" visible="true" lat="43.368866723458" lon="-72.692830407377">
+  <node id="-2298" visible="true" lat="43.368866723458" lon="-72.692830407377">
     <!-- multiple: "886 South Hill Road, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="886"/>
@@ -279,7 +270,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144932"/>
   </node>
-  <node id="-2302" visible="true" lat="43.389423781836" lon="-72.664443626222">
+  <node id="-2301" visible="true" lat="43.389423781836" lon="-72.664443626222">
     <!-- multiple: "609 Vermont Route 103 South, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="609"/>
@@ -288,7 +279,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144936"/>
   </node>
-  <node id="-2337" visible="true" lat="43.39530953078" lon="-72.703426504034">
+  <node id="-2336" visible="true" lat="43.39530953078" lon="-72.703426504034">
     <!-- multiple: "5 Lamere Square, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="5"/>
@@ -297,7 +288,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144989"/>
   </node>
-  <node id="-2385" visible="true" lat="43.39619944199" lon="-72.701257624598">
+  <node id="-2384" visible="true" lat="43.39619944199" lon="-72.701257624598">
     <!-- multiple: "185 Main Street, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="185"/>
@@ -306,7 +297,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="145039"/>
   </node>
-  <node id="-2746" visible="true" lat="43.39617218215" lon="-72.707474683901">
+  <node id="-2749" visible="true" lat="43.39617218215" lon="-72.707474683901">
     <!-- multiple: "19 West Hill Street, Ludlow, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="19"/>

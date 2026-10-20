@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-717" visible="true" lat="44.419059104072" lon="-72.224198282485">
+    <tag k="addr:city" v="West Danville"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Joes Pond Priest Island"/>
+    <tag k="addr:postcode" v="05873"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="56154"/>
+  </node>
   <node id="-884" visible="true" lat="44.37389787657" lon="-72.299881230742">
     <tag k="addr:city" v="Cabot"/>
     <tag k="addr:housenumber" v="975"/>
@@ -35,7 +43,7 @@
   <node id="-1011" visible="true" lat="44.446036675062" lon="-72.312054997265">
     <tag k="addr:city" v="Cabot"/>
     <tag k="addr:housenumber" v="260"/>
-    <tag k="addr:street" v="Slim Payne Way"/>
+    <tag k="addr:street" v="Brooks Way"/>
     <tag k="addr:postcode" v="05647"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656707"/>
@@ -135,5 +143,21 @@
     <tag k="addr:postcode" v="05658"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773918"/>
+  </node>
+  <node id="-1082" visible="true" lat="44.415186394731" lon="-72.230871895746">
+    <tag k="addr:city" v="Cabot"/>
+    <tag k="addr:housenumber" v="903"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:postcode" v="05647"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774037"/>
+  </node>
+  <node id="-1083" visible="true" lat="44.410607951829" lon="-72.35691259805">
+    <tag k="addr:city" v="Marshfield"/>
+    <tag k="addr:housenumber" v="846"/>
+    <tag k="addr:street" v="Jug Brook Road"/>
+    <tag k="addr:postcode" v="05658"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774633"/>
   </node>
 </osm>

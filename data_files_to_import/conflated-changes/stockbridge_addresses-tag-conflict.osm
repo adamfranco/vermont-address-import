@@ -36,6 +36,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249111"/>
   </node>
+  <node id="-406" visible="true" lat="43.769682567219" lon="-72.710385455691">
+    <!-- conflict: "655 Childrens Camp Road, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "564 Childrens Camp Road, Stockbridge, VT" -->
+    <tag k="addr:city" v="Stockbridge"/>
+    <tag k="addr:housenumber" v="655"/>
+    <tag k="addr:street" v="Childrens Camp Road"/>
+    <tag k="addr:postcode" v="05772"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="249124"/>
+  </node>
   <node id="-418" visible="true" lat="43.766359038271" lon="-72.772262373446">
     <!-- conflict: "979 South South Hill Road, Stockbridge, VT" Fuzzy match to "979 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
@@ -216,7 +225,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341542"/>
   </node>
-  <node id="-710" visible="true" lat="43.738012423452" lon="-72.793141505098">
+  <node id="-713" visible="true" lat="43.738012423452" lon="-72.793141505098">
     <!-- conflict: "5581 Fletcher Brook Road, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "5749 Fletcher Brook Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="5581"/>
@@ -225,7 +234,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756378"/>
   </node>
-  <node id="-718" visible="true" lat="43.752217884656" lon="-72.793338144201">
+  <node id="-721" visible="true" lat="43.752217884656" lon="-72.793338144201">
     <!-- conflict: "2272 South South Hill Road, Stockbridge, VT" Fuzzy match to "2272 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="2272"/>
@@ -234,7 +243,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760546"/>
   </node>
-  <node id="-725" visible="true" lat="43.735719113827" lon="-72.807195116451">
+  <node id="-728" visible="true" lat="43.735719113827" lon="-72.807195116451">
     <!-- conflict: "4034 South South Hill Road, Stockbridge, VT" Fuzzy match to "4034 South Hill Road, Pittsfield, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="4034"/>
@@ -243,7 +252,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764373"/>
   </node>
-  <node id="-756" visible="true" lat="43.743397899391" lon="-72.785219993844">
+  <node id="-759" visible="true" lat="43.743397899391" lon="-72.785219993844">
     <!-- conflict: "2729 South South Hill Road, Stockbridge, VT" Fuzzy match to "2729 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="2729"/>

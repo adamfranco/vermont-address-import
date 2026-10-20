@@ -765,6 +765,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167983"/>
   </node>
+  <node id="-255" visible="true" lat="44.910904731781" lon="-71.980532298047">
+    <!-- city-conflict: "6437 Vermont Route 111, Morgan, VT" City conflict match to "6437 Vermont Route 111, , VT" -->
+    <tag k="addr:city" v="Morgan"/>
+    <tag k="addr:housenumber" v="6437"/>
+    <tag k="addr:street" v="Vermont Route 111"/>
+    <tag k="addr:postcode" v="05853"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="167984"/>
+  </node>
   <node id="-257" visible="true" lat="44.910595725177" lon="-71.97402334627">
     <!-- city-conflict: "256 Toad Pond Road, Morgan, VT" City conflict match to "256 Toad Pond Road, , VT" -->
     <tag k="addr:city" v="Morgan"/>
@@ -3447,7 +3456,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168373"/>
   </node>
-  <node id="-642" visible="true" lat="44.871799228202" lon="-71.97047449999">
+  <node id="-642" visible="true" lat="44.871836893112" lon="-71.970399056783">
     <!-- city-conflict: "27 Birch Point South, West Charleston, VT" City conflict match to "27 Birch Point South, , VT" -->
     <tag k="addr:city" v="West Charleston"/>
     <tag k="addr:housenumber" v="27"/>

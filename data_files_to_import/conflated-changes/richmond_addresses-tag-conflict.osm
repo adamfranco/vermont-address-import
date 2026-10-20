@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1936" visible="true" lat="44.37601575962" lon="-73.050457281521">
+    <!-- conflict: "134 Beatty Lane, Richmond, VT" No match in OSM, but a different address exists <5m away: "90 Beatty Lane, Richmond, VT" -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Beatty Lane"/>
+    <tag k="addr:postcode" v="05477"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="759205"/>
+  </node>
+  <node id="-1984" visible="true" lat="44.402985259814" lon="-72.981286661184">
+    <!-- conflict: "617 East Main Street, Richmond, VT" No match in OSM, but a different address exists <5m away: "633 East Main Street, Richmond, VT" -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="617"/>
+    <tag k="addr:street" v="East Main Street"/>
+    <tag k="addr:postcode" v="05477"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765799"/>
+  </node>
+</osm>

@@ -2313,6 +2313,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="40555"/>
   </node>
+  <node id="-362" visible="true" lat="44.029409131029" lon="-72.662902068138">
+    <!-- city-conflict: "751 Witts Bridge Road, Randolph, VT" City conflict match to "751 Witts Bridge Road, , VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="751"/>
+    <tag k="addr:street" v="Witts Bridge Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="40556"/>
+  </node>
   <node id="-363" visible="true" lat="44.029620215939" lon="-72.545699605815">
     <!-- city-conflict: "526 Cemetery Street, Brookfield, VT" City conflict match to "526 Cemetery Street, , VT" -->
     <tag k="addr:city" v="Brookfield"/>
@@ -2429,6 +2438,15 @@
     <tag k="addr:postcode" v="05060"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="40569"/>
+  </node>
+  <node id="-376" visible="true" lat="44.027624827501" lon="-72.66050502803">
+    <!-- city-conflict: "773 Witts Bridge Road, Randolph, VT" City conflict match to "773 Witts Bridge Road, , VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="773"/>
+    <tag k="addr:street" v="Witts Bridge Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="40570"/>
   </node>
   <node id="-377" visible="true" lat="44.027763271852" lon="-72.565397253946">
     <!-- city-conflict: "312 Rowley Street, Brookfield, VT" City conflict match to "312 Rowley Street, , VT" -->
@@ -5319,7 +5337,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="40924"/>
   </node>
-  <node id="-717" visible="true" lat="44.044424501329" lon="-72.604731986074">
+  <node id="-717" visible="true" lat="44.044483660609" lon="-72.6047139578">
     <!-- city-conflict: "246 Wilder Drive, Brookfield, VT" City conflict match to "246 Wilder Drive, , VT" -->
     <tag k="addr:city" v="Brookfield"/>
     <tag k="addr:housenumber" v="246"/>
@@ -6912,7 +6930,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="772937"/>
   </node>
-  <node id="-952" visible="true" lat="44.069986059296" lon="-72.634617014967">
+  <node id="-954" visible="true" lat="44.069986059296" lon="-72.634617014967">
     <!-- city-conflict: "10129 Vermont Route 12, Randolph, VT" City conflict match to "10129 Vermont Route 12, , VT" -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="10129"/>
@@ -6921,7 +6939,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050477"/>
   </node>
-  <node id="-953" visible="true" lat="44.065561717251" lon="-72.630477558886">
+  <node id="-955" visible="true" lat="44.065561717251" lon="-72.630477558886">
     <!-- city-conflict: "5009 Vermont Route 65, Randolph, VT" City conflict match to "5009 Vermont Route 65, , VT" -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="5009"/>
@@ -6930,7 +6948,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050478"/>
   </node>
-  <node id="-954" visible="true" lat="44.055365730819" lon="-72.625603395137">
+  <node id="-956" visible="true" lat="44.055365730819" lon="-72.625603395137">
     <!-- city-conflict: "4 Lamson Pond Road, Randolph, VT" City conflict match to "4 Lamson Pond Road, , VT" -->
     <tag k="addr:city" v="Randolph"/>
     <tag k="addr:housenumber" v="4"/>
@@ -6939,7 +6957,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050479"/>
   </node>
-  <node id="-955" visible="true" lat="44.059161248508" lon="-72.605592074022">
+  <node id="-957" visible="true" lat="44.059161248508" lon="-72.605592074022">
     <!-- city-conflict: "4445 Interstate 89 North, Brookfield, VT" City conflict match to "4445 Interstate 89 North, , VT" -->
     <tag k="addr:city" v="Brookfield"/>
     <tag k="addr:housenumber" v="4445"/>
@@ -6948,7 +6966,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050480"/>
   </node>
-  <node id="-956" visible="true" lat="44.073177212689" lon="-72.608829077443">
+  <node id="-958" visible="true" lat="44.073177212689" lon="-72.608829077443">
     <!-- city-conflict: "5429 Interstate 89 North, Brookfield, VT" City conflict match to "5429 Interstate 89 North, , VT" -->
     <tag k="addr:city" v="Brookfield"/>
     <tag k="addr:housenumber" v="5429"/>
@@ -6957,7 +6975,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050691"/>
   </node>
-  <node id="-957" visible="true" lat="44.045711679198" lon="-72.608169695771">
+  <node id="-959" visible="true" lat="44.045711679198" lon="-72.608169695771">
     <!-- city-conflict: "2762 Interstate 89 South, Brookfield, VT" City conflict match to "2762 Interstate 89 South, , VT" -->
     <tag k="addr:city" v="Brookfield"/>
     <tag k="addr:housenumber" v="2762"/>
@@ -6966,7 +6984,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050692"/>
   </node>
-  <node id="-958" visible="true" lat="44.003821782148" lon="-72.620875352529">
+  <node id="-960" visible="true" lat="44.003821782148" lon="-72.620875352529">
     <!-- city-conflict: "500 Interstate 89 North, Brookfield, VT" City conflict match to "500 Interstate 89 North, , VT" -->
     <tag k="addr:city" v="Brookfield"/>
     <tag k="addr:housenumber" v="500"/>
@@ -6975,7 +6993,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050694"/>
   </node>
-  <node id="-959" visible="true" lat="44.017674230869" lon="-72.617074734088">
+  <node id="-961" visible="true" lat="44.017674230869" lon="-72.617074734088">
     <!-- city-conflict: "1476 Interstate 89 North, Brookfield, VT" City conflict match to "1476 Interstate 89 North, , VT" -->
     <tag k="addr:city" v="Brookfield"/>
     <tag k="addr:housenumber" v="1476"/>
@@ -6984,7 +7002,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050712"/>
   </node>
-  <node id="-960" visible="true" lat="44.017008927873" lon="-72.606501205853">
+  <node id="-962" visible="true" lat="44.017008927873" lon="-72.606501205853">
     <!-- city-conflict: "1682 Ridge Road, Brookfield, VT" City conflict match to "1682 Ridge Road, , VT" -->
     <tag k="addr:city" v="Brookfield"/>
     <tag k="addr:housenumber" v="1682"/>
@@ -6993,7 +7011,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050713"/>
   </node>
-  <node id="-961" visible="true" lat="44.060811845405" lon="-72.602596120513">
+  <node id="-963" visible="true" lat="44.060811845405" lon="-72.602596120513">
     <!-- city-conflict: "1378 Stone Road, Brookfield, VT" City conflict match to "1378 Stone Road, , VT" -->
     <tag k="addr:city" v="Brookfield"/>
     <tag k="addr:housenumber" v="1378"/>
@@ -7002,7 +7020,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1051031"/>
   </node>
-  <node id="-963" visible="true" lat="44.027664320527" lon="-72.599619553414">
+  <node id="-965" visible="true" lat="44.027664320527" lon="-72.599619553414">
     <!-- city-conflict: "859 Ridge Road, Brookfield, VT" City conflict match to "859 Ridge Road, , VT" -->
     <tag k="addr:city" v="Brookfield"/>
     <tag k="addr:housenumber" v="859"/>
@@ -7011,7 +7029,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1052561"/>
   </node>
-  <node id="-964" visible="true" lat="44.028949743931" lon="-72.600169592361">
+  <node id="-966" visible="true" lat="44.028949743931" lon="-72.600169592361">
     <!-- city-conflict: "776 Ridge Road, Brookfield, VT" City conflict match to "776 Ridge Road, , VT" -->
     <tag k="addr:city" v="Brookfield"/>
     <tag k="addr:housenumber" v="776"/>

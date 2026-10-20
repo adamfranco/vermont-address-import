@@ -8,7 +8,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270000"/>
   </node>
-  <node id="-1234" visible="true" lat="43.476661298925" lon="-72.875742887932">
+  <node id="-1232" visible="true" lat="43.476661298925" lon="-72.875742887932">
     <tag k="addr:city" v="Cuttingsville"/>
     <tag k="addr:housenumber" v="1934"/>
     <tag k="addr:street" v="103"/>
@@ -31,5 +31,29 @@
     <tag k="addr:postcode" v="05773"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773902"/>
+  </node>
+  <node id="-1282" visible="true" lat="43.451319229244" lon="-72.977042059661">
+    <tag k="addr:city" v="Wallingford"/>
+    <tag k="addr:housenumber" v="274"/>
+    <tag k="addr:street" v="Green Hill Lane"/>
+    <tag k="addr:postcode" v="05773"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774274"/>
+  </node>
+  <node id="-1283" visible="true" lat="43.484226065436" lon="-72.965244263093">
+    <tag k="addr:city" v="Wallingford"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:street" v="Countryside Drive"/>
+    <tag k="addr:postcode" v="05773"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774275"/>
+  </node>
+  <node id="-1284" visible="true" lat="43.468609636028" lon="-72.960715138663">
+    <tag k="addr:city" v="Wallingford"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="Star Lane"/>
+    <tag k="addr:postcode" v="05773"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774439"/>
   </node>
 </osm>

@@ -27,6 +27,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="297437"/>
   </node>
+  <node id="-772" visible="true" lat="43.146422545947" lon="-72.913999173954">
+    <!-- conflict: "85 Blackcherry Ridge Road, Winhall, VT" No match in OSM, but a different address exists <5m away: "29 Blackcherry Ridge Road, Winhall, VT" -->
+    <tag k="addr:city" v="Winhall"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Blackcherry Ridge Road"/>
+    <tag k="addr:postcode" v="05340"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="297604"/>
+  </node>
+  <node id="-783" visible="true" lat="43.146216524266" lon="-72.913492641115">
+    <!-- conflict: "84 Blackcherry Ridge Road, Winhall, VT" No match in OSM, but a different address exists <5m away: "28 Blackcherry Ridge Road, Winhall, VT" -->
+    <tag k="addr:city" v="Winhall"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:street" v="Blackcherry Ridge Road"/>
+    <tag k="addr:postcode" v="05340"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="297616"/>
+  </node>
   <node id="-1205" visible="true" lat="43.120415858145" lon="-72.912972742802">
     <!-- conflict: "20 West Branch Road, Winhall, VT" Fuzzy match to "20 West Ridge Road, Stratton, VT" -->
     <tag k="addr:city" v="Winhall"/>
@@ -44,5 +62,14 @@
     <tag k="addr:postcode" v="05340"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="298109"/>
+  </node>
+  <node id="-1848" visible="true" lat="43.146323050546" lon="-72.914743904479">
+    <!-- conflict: "83 Blackcherry Ridge Road, Winhall, VT" No match in OSM, but a different address exists <5m away: "25 Blackcherry Ridge Road, , VT" -->
+    <tag k="addr:city" v="Winhall"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Blackcherry Ridge Road"/>
+    <tag k="addr:postcode" v="05340"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448451"/>
   </node>
 </osm>

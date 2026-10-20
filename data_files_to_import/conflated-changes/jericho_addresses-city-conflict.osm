@@ -99,22 +99,4 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="135949"/>
   </node>
-  <node id="-2360" visible="true" lat="44.520850035799" lon="-72.941934227181">
-    <!-- city-conflict: "24 Morin Lane, Underhill, VT" City conflict match to "24 Morin Lane, Jericho, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Morin Lane"/>
-    <tag k="addr:postcode" v="05489"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="771436"/>
-  </node>
-  <node id="-2361" visible="true" lat="44.521244736886" lon="-72.94218885421">
-    <!-- city-conflict: "44 Morin Lane, Underhill, VT" City conflict match to "44 Morin Lane, Jericho, VT" -->
-    <tag k="addr:city" v="Underhill"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Morin Lane"/>
-    <tag k="addr:postcode" v="05489"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="771437"/>
-  </node>
 </osm>

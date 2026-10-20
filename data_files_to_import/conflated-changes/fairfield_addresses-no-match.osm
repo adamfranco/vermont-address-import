@@ -48,7 +48,23 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104950"/>
   </node>
-  <node id="-1241" visible="true" lat="44.745324748023" lon="-72.903440308918">
+  <node id="-1097" visible="true" lat="44.850140172032" lon="-72.946519938964">
+    <tag k="addr:city" v="Fairfield"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="Menard Road"/>
+    <tag k="addr:postcode" v="05455"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="500123"/>
+  </node>
+  <node id="-1098" visible="true" lat="44.806679796175" lon="-72.877510516562">
+    <tag k="addr:city" v="Enosburg Falls"/>
+    <tag k="addr:housenumber" v="965"/>
+    <tag k="addr:street" v="Shenang Road"/>
+    <tag k="addr:postcode" v="05450"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="500158"/>
+  </node>
+  <node id="-1243" visible="true" lat="44.745324748023" lon="-72.903440308918">
     <tag k="addr:city" v="East Fairfield"/>
     <tag k="addr:housenumber" v="3215"/>
     <tag k="addr:street" v="Lapland Road"/>
@@ -56,7 +72,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773163"/>
   </node>
-  <node id="-1242" visible="true" lat="44.809677225014" lon="-72.847629782839">
+  <node id="-1244" visible="true" lat="44.809677225014" lon="-72.847629782839">
     <tag k="addr:city" v="East Fairfield"/>
     <tag k="addr:housenumber" v="1718"/>
     <tag k="addr:street" v="Egypt Road"/>
@@ -64,7 +80,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773425"/>
   </node>
-  <node id="-1243" visible="true" lat="44.811231949588" lon="-72.847536728463">
+  <node id="-1245" visible="true" lat="44.811231949588" lon="-72.847536728463">
     <tag k="addr:city" v="East Fairfield"/>
     <tag k="addr:housenumber" v="1759"/>
     <tag k="addr:street" v="Egypt Road"/>
@@ -72,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773426"/>
   </node>
-  <node id="-1247" visible="true" lat="44.850213392233" lon="-72.896238029751">
+  <node id="-1249" visible="true" lat="44.850213392233" lon="-72.896238029751">
     <tag k="addr:city" v="Enosburg Falls"/>
     <tag k="addr:housenumber" v="2434"/>
     <tag k="addr:street" v="Pumpkin Village Road"/>
@@ -80,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773432"/>
   </node>
-  <node id="-1248" visible="true" lat="44.842312457168" lon="-73.000933839919">
+  <node id="-1250" visible="true" lat="44.842312457168" lon="-73.000933839919">
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="1371"/>
     <tag k="addr:street" v="McKenzie Road"/>
@@ -88,12 +104,20 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773756"/>
   </node>
-  <node id="-1249" visible="true" lat="44.842043443101" lon="-72.98657324052">
+  <node id="-1251" visible="true" lat="44.842043443101" lon="-72.98657324052">
     <tag k="addr:city" v="Fairfield"/>
     <tag k="addr:housenumber" v="1359"/>
     <tag k="addr:street" v="Reynolds Road"/>
     <tag k="addr:postcode" v="05455"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773964"/>
+  </node>
+  <node id="-1252" visible="true" lat="44.78961657955" lon="-72.861325587955">
+    <tag k="addr:city" v="East Fairfield"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Egypt Road"/>
+    <tag k="addr:postcode" v="05448"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774181"/>
   </node>
 </osm>

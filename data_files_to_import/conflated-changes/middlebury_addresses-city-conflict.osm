@@ -180,7 +180,16 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="156605"/>
   </node>
-  <node id="-3184" visible="true" lat="43.966869240699" lon="-73.107728110395">
+  <node id="-3011" visible="true" lat="44.017916863616" lon="-73.062227155801">
+    <!-- city-conflict: "1726 Dragon Brook Road, East Middlebury, VT" City conflict match to "1726 Dragon Brook Road, Middlebury, VT" -->
+    <tag k="addr:city" v="East Middlebury"/>
+    <tag k="addr:housenumber" v="1726"/>
+    <tag k="addr:street" v="Dragon Brook Road"/>
+    <tag k="addr:postcode" v="05740"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450403"/>
+  </node>
+  <node id="-3187" visible="true" lat="43.966869240699" lon="-73.107728110395">
     <!-- city-conflict: "3671 U.S. Route 7 South, East Middlebury, VT" City conflict match to "3671 U.S. Route 7 South, Middlebury, VT" -->
     <tag k="addr:city" v="East Middlebury"/>
     <tag k="addr:housenumber" v="3671"/>

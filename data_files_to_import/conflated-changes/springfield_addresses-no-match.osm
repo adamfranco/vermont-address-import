@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-942" visible="true" lat="43.316201280554" lon="-72.404372901262">
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="268"/>
-    <tag k="addr:street" v="Quarry Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="235275"/>
-  </node>
   <node id="-3957" visible="true" lat="43.289600371727" lon="-72.506020327043">
     <tag k="addr:city" v="Springfield"/>
     <tag k="addr:housenumber" v="221"/>
@@ -39,5 +31,13 @@
     <tag k="addr:postcode" v="05156"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773895"/>
+  </node>
+  <node id="-4264" visible="true" lat="43.33254741643" lon="-72.526202537185">
+    <tag k="addr:city" v="North Springfield"/>
+    <tag k="addr:housenumber" v="484"/>
+    <tag k="addr:street" v="Giddings Street"/>
+    <tag k="addr:postcode" v="05150"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774624"/>
   </node>
 </osm>

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-615" visible="true" lat="43.40128694638" lon="-72.703445910919">
+    <!-- conflict: "11 Thompson Avenue, Ludlow, VT" No match in OSM, but a different address exists <5m away: "9 Thompson Avenue, Lunlow, VT" -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Thompson Avenue"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="143103"/>
+  </node>
   <node id="-745" visible="true" lat="43.398342807626" lon="-72.729815488759">
     <!-- conflict: "55 Lower IV, Ludlow, VT" Fuzzy match to "55 Lower Iv, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
@@ -72,7 +81,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143252"/>
   </node>
-  <node id="-1732" visible="true" lat="43.371136480083" lon="-72.720581989114">
+  <node id="-1731" visible="true" lat="43.371136480083" lon="-72.720581989114">
     <!-- conflict: "32 Brooks Road, Ludlow, VT" No match in OSM, but a different address exists <5m away: "32 Oconnor Hill Road, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="32"/>
@@ -80,5 +89,23 @@
     <tag k="addr:postcode" v="05149"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144267"/>
+  </node>
+  <node id="-2334" visible="true" lat="43.412199898586" lon="-72.726438681075">
+    <!-- conflict: "681 Okemo Ridge Road, Ludlow, VT" No match in OSM, but a different address exists <5m away: "630 Okemo Ridge Road, Ludlow, VT" -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="681"/>
+    <tag k="addr:street" v="Okemo Ridge Road"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="144986"/>
+  </node>
+  <node id="-2980" visible="true" lat="43.432630334578" lon="-72.716878679596">
+    <!-- conflict: "160 Burdock Lane, Ludlow, VT" No match in OSM, but a different address exists <5m away: " Rod And Gun Club Road, Ludlow, VT" -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Burdock Lane"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774286"/>
   </node>
 </osm>

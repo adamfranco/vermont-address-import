@@ -2331,6 +2331,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149283"/>
   </node>
+  <node id="-363" visible="true" lat="43.196083760477" lon="-73.055895566231">
+    <!-- city-conflict: "1319 Bonnet Street, Manchester Center, VT" City conflict match to "1319 Bonnet Street, , VT" -->
+    <tag k="addr:city" v="Manchester Center"/>
+    <tag k="addr:housenumber" v="1319"/>
+    <tag k="addr:street" v="Bonnet Street"/>
+    <tag k="addr:postcode" v="05255"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149284"/>
+  </node>
   <node id="-364" visible="true" lat="43.195739279175" lon="-73.087158324139">
     <!-- city-conflict: "312 Beartown Road, Manchester Center, VT" City conflict match to "312 Beartown Road, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
@@ -2583,6 +2592,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149314"/>
   </node>
+  <node id="-392" visible="true" lat="43.193713952026" lon="-73.05525840378">
+    <!-- city-conflict: "1183 Bonnet Street, Manchester Center, VT" City conflict match to "1183 Bonnet Street, , VT" -->
+    <tag k="addr:city" v="Manchester Center"/>
+    <tag k="addr:housenumber" v="1183"/>
+    <tag k="addr:street" v="Bonnet Street"/>
+    <tag k="addr:postcode" v="05255"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149315"/>
+  </node>
   <node id="-393" visible="true" lat="43.19386078854" lon="-73.036092158056">
     <!-- city-conflict: "131 North Ridge Run, Manchester Center, VT" City conflict match to "131 North Ridge Run, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
@@ -2600,6 +2618,15 @@
     <tag k="addr:postcode" v="05255"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149317"/>
+  </node>
+  <node id="-395" visible="true" lat="43.19375962387" lon="-73.053205913149">
+    <!-- city-conflict: "1222 Bonnet Street, Manchester Center, VT" City conflict match to "1222 Bonnet Street, , VT" -->
+    <tag k="addr:city" v="Manchester Center"/>
+    <tag k="addr:housenumber" v="1222"/>
+    <tag k="addr:street" v="Bonnet Street"/>
+    <tag k="addr:postcode" v="05255"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="149318"/>
   </node>
   <node id="-396" visible="true" lat="43.193538320237" lon="-73.072236200358">
     <!-- city-conflict: "118 Three Maple Drive, Manchester Center, VT" City conflict match to "118 Three Maple Drive, , VT" -->
@@ -24255,7 +24282,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771411"/>
   </node>
-  <node id="-3174" visible="true" lat="43.186729604815" lon="-73.007912669132">
+  <node id="-3174" visible="true" lat="43.186536103316" lon="-73.007621824209">
     <!-- city-conflict: "16 Donald Lane, Manchester Center, VT" City conflict match to "16 Donald Lane, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="16"/>
@@ -24273,7 +24300,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="772623"/>
   </node>
-  <node id="-3180" visible="true" lat="43.146956985216" lon="-73.094830442846">
+  <node id="-3182" visible="true" lat="43.146956985216" lon="-73.094830442846">
     <!-- city-conflict: "120 Summit View, Manchester Center, VT" City conflict match to "120 Summit View, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="120"/>
@@ -24282,7 +24309,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="900230"/>
   </node>
-  <node id="-3181" visible="true" lat="43.125411116005" lon="-73.099050214722">
+  <node id="-3183" visible="true" lat="43.125411116005" lon="-73.099050214722">
     <!-- city-conflict: "501 Main Street, Manchester Center, VT" City conflict match to "501 Main Street, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="501"/>
@@ -24291,7 +24318,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="900346"/>
   </node>
-  <node id="-3183" visible="true" lat="43.118869590329" lon="-73.0810476569">
+  <node id="-3185" visible="true" lat="43.118869590329" lon="-73.0810476569">
     <!-- city-conflict: "4 U.S. Route 7, Arlington, VT" City conflict match to "4 U.S. Route 7, , VT" -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="4"/>
@@ -24300,7 +24327,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050304"/>
   </node>
-  <node id="-3184" visible="true" lat="43.174440518887" lon="-73.02926305426">
+  <node id="-3186" visible="true" lat="43.174440518887" lon="-73.02926305426">
     <!-- city-conflict: "1513 Depot Street, Manchester Center, VT" City conflict match to "1513 Depot Street, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="1513"/>
@@ -24309,7 +24336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050331"/>
   </node>
-  <node id="-3185" visible="true" lat="43.178876104829" lon="-73.052587615138">
+  <node id="-3187" visible="true" lat="43.178876104829" lon="-73.052587615138">
     <!-- city-conflict: "86 Memorial Avenue, Manchester Center, VT" City conflict match to "86 Memorial Avenue, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="86"/>

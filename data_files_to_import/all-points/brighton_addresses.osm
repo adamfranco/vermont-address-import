@@ -83,7 +83,7 @@
   <node id="-110" visible="true" lat="44.832573308914" lon="-71.848809176434">
     <tag k="addr:city" v="Island Pond" />
     <tag k="addr:housenumber" v="1564" />
-    <tag k="addr:street" v="South Shore Trail" />
+    <tag k="addr:street" v="Henshaw Road" />
     <tag k="addr:postcode" v="05846" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="37815" />
@@ -99,7 +99,7 @@
   <node id="-112" visible="true" lat="44.831117893025" lon="-71.850012629168">
     <tag k="addr:city" v="Island Pond" />
     <tag k="addr:housenumber" v="1445" />
-    <tag k="addr:street" v="South Shore Trail" />
+    <tag k="addr:street" v="Henshaw Road" />
     <tag k="addr:postcode" v="05846" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="37817" />
@@ -139,7 +139,7 @@
   <node id="-117" visible="true" lat="44.82931665691" lon="-71.849053438523">
     <tag k="addr:city" v="Island Pond" />
     <tag k="addr:housenumber" v="1342" />
-    <tag k="addr:street" v="South Shore Trail" />
+    <tag k="addr:street" v="Henshaw Road" />
     <tag k="addr:postcode" v="05846" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="37822" />
@@ -211,7 +211,7 @@
   <node id="-126" visible="true" lat="44.826882879446" lon="-71.850831088774">
     <tag k="addr:city" v="Island Pond" />
     <tag k="addr:housenumber" v="1142" />
-    <tag k="addr:street" v="South Shore Trail" />
+    <tag k="addr:street" v="Henshaw Road" />
     <tag k="addr:postcode" v="05846" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="37831" />
@@ -251,7 +251,7 @@
   <node id="-131" visible="true" lat="44.826188604603" lon="-71.849610383942">
     <tag k="addr:city" v="Island Pond" />
     <tag k="addr:housenumber" v="958" />
-    <tag k="addr:street" v="South Shore Trail" />
+    <tag k="addr:street" v="Henshaw Road" />
     <tag k="addr:postcode" v="05846" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="37836" />
@@ -2184,7 +2184,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="38115" />
   </node>
-  <node id="-373" visible="true" lat="44.814338496359" lon="-71.881377997279">
+  <node id="-373" visible="true" lat="44.814320141489" lon="-71.881370404473">
     <tag k="addr:city" v="Island Pond" />
     <tag k="addr:housenumber" v="48" />
     <tag k="addr:street" v="Cross Street" />
@@ -5336,7 +5336,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="38554" />
   </node>
-  <node id="-767" visible="true" lat="44.777589352503" lon="-71.838280725899">
+  <node id="-767" visible="true" lat="44.777657605533" lon="-71.838240372576">
     <tag k="addr:city" v="Island Pond" />
     <tag k="addr:housenumber" v="70" />
     <tag k="addr:street" v="Atwood Drive" />
@@ -5352,7 +5352,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="38556" />
   </node>
-  <node id="-769" visible="true" lat="44.777139217227" lon="-71.837281274475">
+  <node id="-769" visible="true" lat="44.777169055825" lon="-71.837471220958">
     <tag k="addr:city" v="Island Pond" />
     <tag k="addr:housenumber" v="4" />
     <tag k="addr:street" v="Atwood Drive" />
@@ -7800,10 +7800,10 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="755680" />
   </node>
-  <node id="-1093" visible="true" lat="44.81958942436" lon="-71.841782091564">
+  <node id="-1093" visible="true" lat="44.819650430198" lon="-71.841947664163">
     <tag k="addr:city" v="Island Pond" />
     <tag k="addr:housenumber" v="650" />
-    <tag k="addr:street" v="Bonnyvale Road" />
+    <tag k="addr:street" v="Beecher Pond Road" />
     <tag k="addr:postcode" v="05846" />
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="755683" />
@@ -8192,7 +8192,31 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="773820" />
   </node>
-  <node id="-1155" visible="true" lat="44.795033528442" lon="-71.867941445992">
+  <node id="-1155" visible="true" lat="44.784897394744" lon="-71.910548351968">
+    <tag k="addr:city" v="Island Pond" />
+    <tag k="addr:housenumber" v="929" />
+    <tag k="addr:street" v="East Haven Road" />
+    <tag k="addr:postcode" v="05846" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="774043" />
+  </node>
+  <node id="-1156" visible="true" lat="44.780499653666" lon="-71.845346592401">
+    <tag k="addr:city" v="Island Pond" />
+    <tag k="addr:housenumber" v="455" />
+    <tag k="addr:street" v="Atwood Drive" />
+    <tag k="addr:postcode" v="05846" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="774211" />
+  </node>
+  <node id="-1157" visible="true" lat="44.78289687446" lon="-71.92336807216">
+    <tag k="addr:city" v="Island Pond" />
+    <tag k="addr:housenumber" v="678" />
+    <tag k="addr:street" v="Newark Road" />
+    <tag k="addr:postcode" v="05846" />
+    <tag k="addr:state" v="VT" />
+    <tag k="ref:vcgi:esiteid" v="774606" />
+  </node>
+  <node id="-1158" visible="true" lat="44.795033528442" lon="-71.867941445992">
     <tag k="addr:city" v="Island Pond" />
     <tag k="addr:housenumber" v="420" />
     <tag k="addr:street" v="Blueberry Lane" />
@@ -8200,7 +8224,7 @@
     <tag k="addr:state" v="VT" />
     <tag k="ref:vcgi:esiteid" v="800010" />
   </node>
-  <node id="-1156" visible="true" lat="44.803614429952" lon="-71.877562773466">
+  <node id="-1159" visible="true" lat="44.803614429952" lon="-71.877562773466">
     <tag k="addr:city" v="Island Pond" />
     <tag k="addr:housenumber" v="595" />
     <tag k="addr:street" v="Pleasant Street" />

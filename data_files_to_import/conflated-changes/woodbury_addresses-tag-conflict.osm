@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-174" visible="true" lat="44.464385074605" lon="-72.420498446905">
+    <!-- conflict: "68 Poplar Road, Woodbury, VT" Fuzzy match to "68 Poplar Road, Hardwick, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Poplar Road"/>
+    <tag k="addr:postcode" v="05681"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301492"/>
+  </node>
+  <node id="-249" visible="true" lat="44.457767466559" lon="-72.420817445697">
+    <!-- conflict: "48 Meadow Lane, Woodbury, VT" Fuzzy match to "48 Meadow Lane, Hardwick, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:postcode" v="05681"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301567"/>
+  </node>
+  <node id="-376" visible="true" lat="44.440788924178" lon="-72.415467616856">
+    <!-- conflict: "3675 Vermont Route 14, East Calais, VT" Fuzzy match to "3675 Vermont Route 14, Woodbury, VT" -->
+    <tag k="addr:city" v="East Calais"/>
+    <tag k="addr:housenumber" v="3675"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:postcode" v="05650"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="301696"/>
+  </node>
   <node id="-396" visible="true" lat="44.440043874158" lon="-72.416224764279">
     <!-- conflict: "63 Valley Lake Road, East Calais, VT" Fuzzy match to "63 Valley Lake Road, Woodbury, VT" -->
     <tag k="addr:city" v="East Calais"/>
@@ -17,5 +44,23 @@
     <tag k="addr:postcode" v="05658"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302108"/>
+  </node>
+  <node id="-809" visible="true" lat="44.458324789835" lon="-72.420899310319">
+    <!-- conflict: "88 Meadow Lane, Woodbury, VT" Fuzzy match to "88 Meadow Lane, Hardwick, VT" -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Meadow Lane"/>
+    <tag k="addr:postcode" v="05681"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="302137"/>
+  </node>
+  <node id="-836" visible="true" lat="44.4537947677" lon="-72.412343041032">
+    <!-- conflict: "712 Town Farm Road, Woodbury, VT" Fuzzy match to "712 Town Farm Road, , " -->
+    <tag k="addr:city" v="Woodbury"/>
+    <tag k="addr:housenumber" v="712"/>
+    <tag k="addr:street" v="Town Farm Road"/>
+    <tag k="addr:postcode" v="05681"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336168"/>
   </node>
 </osm>

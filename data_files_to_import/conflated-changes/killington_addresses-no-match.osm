@@ -56,12 +56,36 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500018"/>
   </node>
-  <node id="-1640" visible="true" lat="43.618797337232" lon="-72.78354093946">
+  <node id="-1533" visible="true" lat="43.665358106738" lon="-72.806848360963">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="370"/>
+    <tag k="addr:street" v="Anthony Way"/>
+    <tag k="addr:postcode" v="05751"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="500098"/>
+  </node>
+  <node id="-1552" visible="true" lat="43.649489264331" lon="-72.789022538393">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="1678"/>
+    <tag k="addr:street" v="Killington Road"/>
+    <tag k="addr:postcode" v="05751"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656858"/>
+  </node>
+  <node id="-1642" visible="true" lat="43.618797337232" lon="-72.78354093946">
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="1955"/>
     <tag k="addr:street" v="East Mountain Road"/>
     <tag k="addr:postcode" v="05751"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773185"/>
+  </node>
+  <node id="-1643" visible="true" lat="43.666457775444" lon="-72.845488468733">
+    <tag k="addr:city" v="Killington"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Old Coach Road"/>
+    <tag k="addr:postcode" v="05751"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774225"/>
   </node>
 </osm>

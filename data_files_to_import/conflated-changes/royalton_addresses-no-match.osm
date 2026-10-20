@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1642" visible="true" lat="43.836321516788" lon="-72.476539179782">
+  <node id="-1451" visible="true" lat="43.822609585979" lon="-72.525255782511">
+    <tag k="addr:city" v="South Royalton"/>
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:street" v="Carpenter Rec Field"/>
+    <tag k="addr:postcode" v="05068"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656911"/>
+  </node>
+  <node id="-1503" visible="true" lat="43.801861066847" lon="-72.626363821405">
+    <tag k="addr:city" v="Bethel"/>
+    <tag k="addr:housenumber" v="5325"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="addr:postcode" v="05032"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754608"/>
+  </node>
+  <node id="-1645" visible="true" lat="43.83632390445" lon="-72.476455200874">
     <tag k="addr:city" v="South Royalton"/>
     <tag k="addr:housenumber" v="2519"/>
     <tag k="addr:street" v="Dairy Hill Road"/>
@@ -8,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773385"/>
   </node>
-  <node id="-1644" visible="true" lat="43.816791182465" lon="-72.522465825252">
+  <node id="-1647" visible="true" lat="43.816791182465" lon="-72.522465825252">
     <tag k="addr:city" v="South Royalton"/>
     <tag k="addr:housenumber" v="265"/>
     <tag k="addr:street" v="Pluck Hill Road"/>
@@ -16,7 +32,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773650"/>
   </node>
-  <node id="-1645" visible="true" lat="43.816626914944" lon="-72.528048480232">
+  <node id="-1648" visible="true" lat="43.816626914944" lon="-72.528048480232">
     <tag k="addr:city" v="South Royalton"/>
     <tag k="addr:housenumber" v="575"/>
     <tag k="addr:street" v="Pluck Hill Road"/>
@@ -24,7 +40,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773653"/>
   </node>
-  <node id="-1646" visible="true" lat="43.815945790139" lon="-72.521972123698">
+  <node id="-1649" visible="true" lat="43.815945790139" lon="-72.521972123698">
     <tag k="addr:city" v="South Royalton"/>
     <tag k="addr:housenumber" v="261"/>
     <tag k="addr:street" v="Pluck Hill Road"/>
@@ -32,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773654"/>
   </node>
-  <node id="-1649" visible="true" lat="43.815835529689" lon="-72.525646190058">
+  <node id="-1652" visible="true" lat="43.815835529689" lon="-72.525646190058">
     <tag k="addr:city" v="South Royalton"/>
     <tag k="addr:housenumber" v="445"/>
     <tag k="addr:street" v="Pluck Hill Road"/>
@@ -40,12 +56,36 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773657"/>
   </node>
-  <node id="-1650" visible="true" lat="43.789693276372" lon="-72.51809663037">
+  <node id="-1653" visible="true" lat="43.789693276372" lon="-72.51809663037">
     <tag k="addr:city" v="South Royalton"/>
     <tag k="addr:housenumber" v="2144"/>
     <tag k="addr:street" v="Oxbow Road"/>
     <tag k="addr:postcode" v="05068"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773766"/>
+  </node>
+  <node id="-1654" visible="true" lat="43.805526209294" lon="-72.627188404858">
+    <tag k="addr:city" v="Bethel"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:street" v="David Road"/>
+    <tag k="addr:postcode" v="05032"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774569"/>
+  </node>
+  <node id="-1655" visible="true" lat="43.807214968562" lon="-72.628551701275">
+    <tag k="addr:city" v="Bethel"/>
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="David Road"/>
+    <tag k="addr:postcode" v="05032"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774570"/>
+  </node>
+  <node id="-1656" visible="true" lat="43.801875123433" lon="-72.623448083836">
+    <tag k="addr:city" v="Bethel"/>
+    <tag k="addr:housenumber" v="5323"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="addr:postcode" v="05032"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774571"/>
   </node>
 </osm>

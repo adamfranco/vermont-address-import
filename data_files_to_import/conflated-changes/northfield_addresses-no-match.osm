@@ -3,12 +3,12 @@
   <node id="-2122" visible="true" lat="44.094584872895" lon="-72.648683008443">
     <tag k="addr:city" v="Northfield"/>
     <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="East 12"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
     <tag k="addr:postcode" v="05663"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656785"/>
   </node>
-  <node id="-2123" visible="true" lat="44.125462651597" lon="-72.668683337935">
+  <node id="-2123" visible="true" lat="44.125577533385" lon="-72.668115507347">
     <tag k="addr:city" v="Northfield"/>
     <tag k="addr:housenumber" v="530"/>
     <tag k="addr:street" v="Fairground Road"/>
@@ -18,10 +18,26 @@
   </node>
   <node id="-2124" visible="true" lat="44.126306867677" lon="-72.668384009794">
     <tag k="addr:city" v="Northfield"/>
-    <tag k="addr:housenumber" v="560"/>
+    <tag k="addr:housenumber" v="550"/>
     <tag k="addr:street" v="Fairground Road"/>
     <tag k="addr:postcode" v="05663"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656795"/>
+  </node>
+  <node id="-2125" visible="true" lat="44.123448591209" lon="-72.710301414958">
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="732"/>
+    <tag k="addr:street" v="Little Northfield Road"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656915"/>
+  </node>
+  <node id="-2197" visible="true" lat="44.13333336405" lon="-72.689842428545">
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1484"/>
+    <tag k="addr:street" v="Dole Hill Road"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774235"/>
   </node>
 </osm>

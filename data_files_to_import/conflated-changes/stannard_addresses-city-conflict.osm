@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="44.518482004753" lon="-72.142188079209">
+    <!-- city-conflict: "501 Horne Road, Danville, VT" City conflict match to "501 Horne Road, Stannard, VT" -->
+    <tag k="addr:city" v="Danville"/>
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:street" v="Horne Road"/>
+    <tag k="addr:postcode" v="05828"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="13"/>
+  </node>
   <node id="-101" visible="true" lat="44.542258288554" lon="-72.259832041276">
     <!-- city-conflict: "40 Pine Woods Drive, Greensboro Bend, VT" City conflict match to "40 Pine Woods Drive, , VT" -->
     <tag k="addr:city" v="Greensboro Bend"/>
@@ -1106,6 +1115,24 @@
     <tag k="addr:postcode" v="05851"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="285790"/>
+  </node>
+  <node id="-276" visible="true" lat="44.52290443555" lon="-72.145396906022">
+    <!-- city-conflict: "478 Horne Road, Danville, VT" City conflict match to "478 Horne Road, Wheelock, VT" -->
+    <tag k="addr:city" v="Danville"/>
+    <tag k="addr:housenumber" v="478"/>
+    <tag k="addr:street" v="Horne Road"/>
+    <tag k="addr:postcode" v="05828"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285856"/>
+  </node>
+  <node id="-277" visible="true" lat="44.521078875913" lon="-72.142555642454">
+    <!-- city-conflict: "502 Horne Road, Danville, VT" City conflict match to "502 Horne Road, Wheelock, VT" -->
+    <tag k="addr:city" v="Danville"/>
+    <tag k="addr:housenumber" v="502"/>
+    <tag k="addr:street" v="Horne Road"/>
+    <tag k="addr:postcode" v="05828"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="285858"/>
   </node>
   <node id="-278" visible="true" lat="44.54362970965" lon="-72.19207242005">
     <!-- city-conflict: "135 Sheppard Road, Greensboro Bend, VT" City conflict match to "135 Sheppard Road, Stannard, VT" -->

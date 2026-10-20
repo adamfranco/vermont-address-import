@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
   <node id="-986" visible="true" lat="44.170000564333" lon="-73.260859684216">
-    <!-- conflict: "93 Money Hole Road, Vergennes, VT" No match in OSM, but a different address exists <5m away: "93 Macdonough Drive, Vergennes, VT" -->
+    <!-- conflict: "93 MacDonough Drive, Vergennes, VT" Fuzzy match to "93 Macdonough Drive, Vergennes, VT" -->
     <tag k="addr:city" v="Vergennes"/>
     <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:street" v="Money Hole Road"/>
+    <tag k="addr:street" v="MacDonough Drive"/>
     <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="265457"/>

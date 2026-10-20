@@ -8,6 +8,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656826"/>
   </node>
+  <node id="-883" visible="true" lat="44.012254516816" lon="-72.598480384143">
+    <tag k="addr:city" v="Brookfield"/>
+    <tag k="addr:housenumber" v="449"/>
+    <tag k="addr:street" v="Morgan Mile Road"/>
+    <tag k="addr:postcode" v="05036"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656827"/>
+  </node>
   <node id="-922" visible="true" lat="44.028833393494" lon="-72.580193741694">
     <tag k="addr:city" v="Brookfield"/>
     <tag k="addr:housenumber" v="620"/>
@@ -31,5 +39,21 @@
     <tag k="addr:postcode" v="05060"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773501"/>
+  </node>
+  <node id="-952" visible="true" lat="44.028380561359" lon="-72.538692437574">
+    <tag k="addr:city" v="Brookfield"/>
+    <tag k="addr:housenumber" v="512"/>
+    <tag k="addr:street" v="Cemetery Street"/>
+    <tag k="addr:postcode" v="05036"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773999"/>
+  </node>
+  <node id="-953" visible="true" lat="44.030599564777" lon="-72.637891092691">
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1184"/>
+    <tag k="addr:street" v="Bear Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774086"/>
   </node>
 </osm>

@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-2501" visible="true" lat="42.985496042752" lon="-72.779393295895">
+  <node id="-1004" visible="true" lat="42.97969186067" lon="-72.8822161439">
+    <tag k="addr:city" v="West Dover"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Ahmeek Road"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="86691"/>
+  </node>
+  <node id="-2500" visible="true" lat="42.985496042752" lon="-72.779393295895">
     <tag k="addr:city" v="East Dover"/>
     <tag k="addr:housenumber" v="277"/>
     <tag k="addr:street" v="North Street"/>
     <tag k="addr:postcode" v="05341"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500019"/>
+  </node>
+  <node id="-2539" visible="true" lat="42.955995568882" lon="-72.838355913816">
+    <tag k="addr:city" v="West Dover"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Cheney Brook Loop"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656878"/>
   </node>
   <node id="-2553" visible="true" lat="42.973797290805" lon="-72.89993335698">
     <tag k="addr:city" v="West Dover"/>
@@ -23,6 +39,14 @@
     <tag k="addr:postcode" v="05356"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751852"/>
+  </node>
+  <node id="-2662" visible="true" lat="42.945376071742" lon="-72.789987398781">
+    <tag k="addr:city" v="East Dover"/>
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:street" v="Dover Hill Road"/>
+    <tag k="addr:postcode" v="05341"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767470"/>
   </node>
   <node id="-2695" visible="true" lat="42.927109313145" lon="-72.887940430921">
     <tag k="addr:city" v="West Dover"/>
@@ -47,5 +71,45 @@
     <tag k="addr:postcode" v="05341"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773246"/>
+  </node>
+  <node id="-2698" visible="true" lat="42.926487198784" lon="-72.88900134802">
+    <tag k="addr:city" v="West Dover"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Carriage House Drive"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774164"/>
+  </node>
+  <node id="-2699" visible="true" lat="42.930053549495" lon="-72.81672002094">
+    <tag k="addr:city" v="West Dover"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Old Town Road"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774217"/>
+  </node>
+  <node id="-2700" visible="true" lat="42.944692131434" lon="-72.790588419254">
+    <tag k="addr:city" v="East Dover"/>
+    <tag k="addr:housenumber" v="159"/>
+    <tag k="addr:street" v="Dover Hill Road"/>
+    <tag k="addr:postcode" v="05341"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774335"/>
+  </node>
+  <node id="-2701" visible="true" lat="42.932048049685" lon="-72.799818639377">
+    <tag k="addr:city" v="East Dover"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Higley Hill"/>
+    <tag k="addr:postcode" v="05341"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774403"/>
+  </node>
+  <node id="-2702" visible="true" lat="42.956065864005" lon="-72.832234571194">
+    <tag k="addr:city" v="West Dover"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Villager Loop"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774625"/>
   </node>
 </osm>

@@ -9,25 +9,16 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="302695"/>
   </node>
-  <node id="-448" visible="true" lat="43.626077822567" lon="-72.515574731678">
-    <!-- conflict: "71 Central Street, Woodstock, VT" Fuzzy match to "71 Central Street, , " -->
+  <node id="-556" visible="true" lat="43.624957838637" lon="-72.517472031137">
+    <!-- conflict: "4 Mechanic Street, Woodstock, VT" Fuzzy match to "4 Mechanic St, , " -->
     <tag k="addr:city" v="Woodstock"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="Central Street"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Mechanic Street"/>
     <tag k="addr:postcode" v="05091"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="302908"/>
+    <tag k="ref:vcgi:esiteid" v="303029"/>
   </node>
-  <node id="-493" visible="true" lat="43.625449616569" lon="-72.518306515345">
-    <!-- conflict: "3 Elm Street, Woodstock, VT" Fuzzy match to "3 Elm Street, , " -->
-    <tag k="addr:city" v="Woodstock"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Elm Street"/>
-    <tag k="addr:postcode" v="05091"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="302958"/>
-  </node>
-  <node id="-605" visible="true" lat="43.624115324603" lon="-72.523011600112">
+  <node id="-604" visible="true" lat="43.624115324603" lon="-72.523011600112">
     <!-- conflict: "37 River Street, Woodstock, VT" Fuzzy match to "37 River Street, , " -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="37"/>
@@ -36,7 +27,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="303085"/>
   </node>
-  <node id="-777" visible="true" lat="43.621058718738" lon="-72.521109946262">
+  <node id="-776" visible="true" lat="43.621058718738" lon="-72.521109946262">
     <!-- conflict: "1 Swain Street, Woodstock, VT" No match in OSM, but a different address exists <5m away: "3 Swain Street, , VT" -->
     <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="1"/>

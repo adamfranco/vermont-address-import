@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1884" visible="true" lat="42.80732491554" lon="-72.662681854536">
+  <node id="-1456" visible="true" lat="42.776997950012" lon="-72.670141444309">
+    <!-- duplicates-in-different-towns: "1769 Green River Road, Brattleboro, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 117355: "1769 Green River Road, Guilford, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="1769"/>
+    <tag k="addr:street" v="Green River Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="447469"/>
+  </node>
+  <node id="-1882" visible="true" lat="42.80732491554" lon="-72.662681854536">
     <!-- duplicates-in-different-towns: "4565 Hinesburg Road, Brattleboro, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772955: "4565 Hinesburg Road, Guilford, VT" -->
     <tag k="addr:city" v="Brattleboro"/>
     <tag k="addr:housenumber" v="4565"/>

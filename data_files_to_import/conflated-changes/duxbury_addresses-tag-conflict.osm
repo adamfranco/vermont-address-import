@@ -27,4 +27,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="90111"/>
   </node>
+  <node id="-811" visible="true" lat="44.351759291644" lon="-72.79225669031">
+    <!-- conflict: "3013 River Road, Waterbury, VT" No match in OSM, but a different address exists <5m away: "27 Hayden Hill Trail, , VT" -->
+    <tag k="addr:city" v="Waterbury"/>
+    <tag k="addr:housenumber" v="3013"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="addr:postcode" v="05676"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656307"/>
+  </node>
 </osm>

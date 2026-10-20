@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-888" visible="true" lat="44.643201787218" lon="-73.11801964364">
+  <node id="-885" visible="true" lat="44.643201787218" lon="-73.11801964364">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="U.S. Route 7 North"/>
+    <tag k="addr:street" v="Oakledge Way"/>
     <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="159020"/>
   </node>
-  <node id="-3329" visible="true" lat="44.660039971557" lon="-73.111100207309">
-    <tag k="addr:city" v="Milton"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Hang Gliding Road"/>
-    <tag k="addr:postcode" v="05468"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="161516"/>
-  </node>
-  <node id="-4444" visible="true" lat="44.603044902493" lon="-73.160986183233">
+  <node id="-4439" visible="true" lat="44.603044902493" lon="-73.160986183233">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Clapper Road"/>
@@ -24,7 +16,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342683"/>
   </node>
-  <node id="-4719" visible="true" lat="44.628676054284" lon="-73.138715097939">
+  <node id="-4714" visible="true" lat="44.628676054284" lon="-73.138715097939">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Checkerberry Square"/>
@@ -32,7 +24,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500013"/>
   </node>
-  <node id="-4720" visible="true" lat="44.631492529028" lon="-73.112531615573">
+  <node id="-4715" visible="true" lat="44.631492529028" lon="-73.112531615573">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:street" v="Mackey Street"/>
@@ -40,7 +32,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500026"/>
   </node>
-  <node id="-4721" visible="true" lat="44.630989465539" lon="-73.112661060112">
+  <node id="-4716" visible="true" lat="44.630989465539" lon="-73.112661060112">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="Mackey Street"/>
@@ -48,7 +40,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500040"/>
   </node>
-  <node id="-4762" visible="true" lat="44.635561171207" lon="-73.15023064293">
+  <node id="-4757" visible="true" lat="44.635561171207" lon="-73.15023064293">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="235"/>
     <tag k="addr:street" v="Taylor Street"/>
@@ -56,7 +48,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656798"/>
   </node>
-  <node id="-4763" visible="true" lat="44.590546667434" lon="-73.117064588043">
+  <node id="-4758" visible="true" lat="44.590546667434" lon="-73.117064588043">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="778"/>
     <tag k="addr:street" v="East Road"/>
@@ -64,7 +56,31 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656799"/>
   </node>
-  <node id="-5101" visible="true" lat="44.615305412545" lon="-73.149897131396">
+  <node id="-5083" visible="true" lat="44.647639466425" lon="-73.086784019615">
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="429"/>
+    <tag k="addr:street" v="Mayville Drive"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772112"/>
+  </node>
+  <node id="-5084" visible="true" lat="44.648607850882" lon="-73.086041705283">
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="433"/>
+    <tag k="addr:street" v="Mayville Drive"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772113"/>
+  </node>
+  <node id="-5085" visible="true" lat="44.649358680173" lon="-73.085806640512">
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="432"/>
+    <tag k="addr:street" v="Mayville Drive"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772114"/>
+  </node>
+  <node id="-5096" visible="true" lat="44.615305412545" lon="-73.149897131396">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="688"/>
     <tag k="addr:street" v="7 South"/>
@@ -72,7 +88,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773069"/>
   </node>
-  <node id="-5102" visible="true" lat="44.638275595581" lon="-73.100701080415">
+  <node id="-5097" visible="true" lat="44.638275595581" lon="-73.100701080415">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="East Road"/>
@@ -80,7 +96,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773210"/>
   </node>
-  <node id="-5104" visible="true" lat="44.623224217049" lon="-73.116578274252">
+  <node id="-5099" visible="true" lat="44.623224217049" lon="-73.116578274252">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="Whisper Lane"/>
@@ -88,7 +104,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773661"/>
   </node>
-  <node id="-5105" visible="true" lat="44.617536660424" lon="-73.127047785237">
+  <node id="-5100" visible="true" lat="44.617536660424" lon="-73.127047785237">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -96,7 +112,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773663"/>
   </node>
-  <node id="-5106" visible="true" lat="44.61783625388" lon="-73.126666175695">
+  <node id="-5101" visible="true" lat="44.61783625388" lon="-73.126666175695">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -104,7 +120,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773664"/>
   </node>
-  <node id="-5107" visible="true" lat="44.617868017562" lon="-73.126770649594">
+  <node id="-5102" visible="true" lat="44.617868017562" lon="-73.126770649594">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -112,7 +128,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773665"/>
   </node>
-  <node id="-5108" visible="true" lat="44.617925400352" lon="-73.126920672882">
+  <node id="-5103" visible="true" lat="44.617925400352" lon="-73.126920672882">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -120,7 +136,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773666"/>
   </node>
-  <node id="-5109" visible="true" lat="44.617992160393" lon="-73.12712965493">
+  <node id="-5104" visible="true" lat="44.617992160393" lon="-73.12712965493">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -128,7 +144,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773667"/>
   </node>
-  <node id="-5110" visible="true" lat="44.618088171088" lon="-73.127311788429">
+  <node id="-5105" visible="true" lat="44.618088171088" lon="-73.127311788429">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -136,7 +152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773668"/>
   </node>
-  <node id="-5111" visible="true" lat="44.618145155166" lon="-73.127534248855">
+  <node id="-5106" visible="true" lat="44.618145155166" lon="-73.127534248855">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="59"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -144,7 +160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773669"/>
   </node>
-  <node id="-5112" visible="true" lat="44.618238030605" lon="-73.127698238665">
+  <node id="-5107" visible="true" lat="44.618238030605" lon="-73.127698238665">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="73"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -152,7 +168,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773670"/>
   </node>
-  <node id="-5113" visible="true" lat="44.617941393093" lon="-73.128129679375">
+  <node id="-5108" visible="true" lat="44.617941393093" lon="-73.128129679375">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="80"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -160,7 +176,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773671"/>
   </node>
-  <node id="-5114" visible="true" lat="44.617912839897" lon="-73.12802976758">
+  <node id="-5109" visible="true" lat="44.617912839897" lon="-73.12802976758">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="76"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -168,7 +184,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773672"/>
   </node>
-  <node id="-5115" visible="true" lat="44.617846056621" lon="-73.127825311639">
+  <node id="-5110" visible="true" lat="44.617846056621" lon="-73.127825311639">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="64"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -176,7 +192,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773673"/>
   </node>
-  <node id="-5116" visible="true" lat="44.617810985112" lon="-73.127734385388">
+  <node id="-5111" visible="true" lat="44.617810985112" lon="-73.127734385388">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -184,7 +200,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773674"/>
   </node>
-  <node id="-5117" visible="true" lat="44.617737560694" lon="-73.1275615508">
+  <node id="-5112" visible="true" lat="44.617737560694" lon="-73.1275615508">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -192,7 +208,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773675"/>
   </node>
-  <node id="-5118" visible="true" lat="44.617712240241" lon="-73.12746167319">
+  <node id="-5113" visible="true" lat="44.617712240241" lon="-73.12746167319">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="46"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -200,7 +216,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773676"/>
   </node>
-  <node id="-5119" visible="true" lat="44.617645232146" lon="-73.127297963759">
+  <node id="-5114" visible="true" lat="44.617645232146" lon="-73.127297963759">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -208,7 +224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773677"/>
   </node>
-  <node id="-5120" visible="true" lat="44.617607051289" lon="-73.127184366721">
+  <node id="-5115" visible="true" lat="44.617607051289" lon="-73.127184366721">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -216,7 +232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773678"/>
   </node>
-  <node id="-5121" visible="true" lat="44.617505170346" lon="-73.126893514359">
+  <node id="-5116" visible="true" lat="44.617505170346" lon="-73.126893514359">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Pacific Avenue"/>
@@ -224,7 +240,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773679"/>
   </node>
-  <node id="-5122" visible="true" lat="44.618170595926" lon="-73.126434342376">
+  <node id="-5117" visible="true" lat="44.618170595926" lon="-73.126434342376">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -232,7 +248,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773680"/>
   </node>
-  <node id="-5123" visible="true" lat="44.618215169486" lon="-73.126561591431">
+  <node id="-5118" visible="true" lat="44.618215169486" lon="-73.126561591431">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -240,7 +256,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773681"/>
   </node>
-  <node id="-5124" visible="true" lat="44.618478845473" lon="-73.126242974117">
+  <node id="-5119" visible="true" lat="44.618478845473" lon="-73.126242974117">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -248,7 +264,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773682"/>
   </node>
-  <node id="-5125" visible="true" lat="44.618523121272" lon="-73.126424550156">
+  <node id="-5120" visible="true" lat="44.618523121272" lon="-73.126424550156">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -256,7 +272,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773683"/>
   </node>
-  <node id="-5126" visible="true" lat="44.618593214802" lon="-73.126615459735">
+  <node id="-5121" visible="true" lat="44.618593214802" lon="-73.126615459735">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -264,7 +280,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773684"/>
   </node>
-  <node id="-5127" visible="true" lat="44.618666467604" lon="-73.126819986527">
+  <node id="-5122" visible="true" lat="44.618666467604" lon="-73.126819986527">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -272,7 +288,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773685"/>
   </node>
-  <node id="-5128" visible="true" lat="44.618736610172" lon="-73.127001843236">
+  <node id="-5123" visible="true" lat="44.618736610172" lon="-73.127001843236">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -280,7 +296,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773686"/>
   </node>
-  <node id="-5129" visible="true" lat="44.618803494356" lon="-73.127188191224">
+  <node id="-5124" visible="true" lat="44.618803494356" lon="-73.127188191224">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -288,7 +304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773687"/>
   </node>
-  <node id="-5130" visible="true" lat="44.618463206613" lon="-73.12732488092">
+  <node id="-5125" visible="true" lat="44.618463206613" lon="-73.12732488092">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="64"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -296,7 +312,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773688"/>
   </node>
-  <node id="-5131" visible="true" lat="44.618383363934" lon="-73.127142921522">
+  <node id="-5126" visible="true" lat="44.618383363934" lon="-73.127142921522">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -304,7 +320,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773689"/>
   </node>
-  <node id="-5132" visible="true" lat="44.618319911724" lon="-73.126920390964">
+  <node id="-5127" visible="true" lat="44.618319911724" lon="-73.126920390964">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -312,7 +328,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773690"/>
   </node>
-  <node id="-5133" visible="true" lat="44.618256285173" lon="-73.126729551485">
+  <node id="-5128" visible="true" lat="44.618256285173" lon="-73.126729551485">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="28"/>
     <tag k="addr:street" v="Atlantic Avenue"/>
@@ -320,7 +336,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773691"/>
   </node>
-  <node id="-5134" visible="true" lat="44.618975531115" lon="-73.125890636046">
+  <node id="-5129" visible="true" lat="44.618975531115" lon="-73.125890636046">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -328,7 +344,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773692"/>
   </node>
-  <node id="-5135" visible="true" lat="44.618978292907" lon="-73.125976689918">
+  <node id="-5130" visible="true" lat="44.618978292907" lon="-73.125976689918">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -336,7 +352,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773693"/>
   </node>
-  <node id="-5136" visible="true" lat="44.618996825519" lon="-73.126135353404">
+  <node id="-5131" visible="true" lat="44.618996825519" lon="-73.126135353404">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="64"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -344,7 +360,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773694"/>
   </node>
-  <node id="-5137" visible="true" lat="44.619002770719" lon="-73.126230495924">
+  <node id="-5132" visible="true" lat="44.619002770719" lon="-73.126230495924">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="68"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -352,7 +368,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773695"/>
   </node>
-  <node id="-5138" visible="true" lat="44.619024412062" lon="-73.126411830219">
+  <node id="-5133" visible="true" lat="44.619024412062" lon="-73.126411830219">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="78"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -360,7 +376,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773696"/>
   </node>
-  <node id="-5139" visible="true" lat="44.619033541495" lon="-73.126516062707">
+  <node id="-5134" visible="true" lat="44.619033541495" lon="-73.126516062707">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="82"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -368,7 +384,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773697"/>
   </node>
-  <node id="-5140" visible="true" lat="44.619048839218" lon="-73.126674691718">
+  <node id="-5135" visible="true" lat="44.619048839218" lon="-73.126674691718">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="92"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -376,7 +392,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773698"/>
   </node>
-  <node id="-5141" visible="true" lat="44.619054760024" lon="-73.126774361313">
+  <node id="-5136" visible="true" lat="44.619054760024" lon="-73.126774361313">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="96"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -384,7 +400,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773699"/>
   </node>
-  <node id="-5142" visible="true" lat="44.619112606869" lon="-73.12695771605">
+  <node id="-5137" visible="true" lat="44.619112606869" lon="-73.12695771605">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="104"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -392,7 +408,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773700"/>
   </node>
-  <node id="-5143" visible="true" lat="44.619110107671" lon="-73.127035925452">
+  <node id="-5138" visible="true" lat="44.619110107671" lon="-73.127035925452">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="108"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -400,7 +416,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773701"/>
   </node>
-  <node id="-5144" visible="true" lat="44.619208279675" lon="-73.127625204313">
+  <node id="-5139" visible="true" lat="44.619208279675" lon="-73.127625204313">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="136"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -408,7 +424,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773702"/>
   </node>
-  <node id="-5145" visible="true" lat="44.619230405831" lon="-73.12774134836">
+  <node id="-5140" visible="true" lat="44.619230405831" lon="-73.12774134836">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="140"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -416,7 +432,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773703"/>
   </node>
-  <node id="-5146" visible="true" lat="44.619270854736" lon="-73.127912744822">
+  <node id="-5141" visible="true" lat="44.619270854736" lon="-73.127912744822">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="150"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -424,7 +440,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773704"/>
   </node>
-  <node id="-5147" visible="true" lat="44.619317957733" lon="-73.128003079919">
+  <node id="-5142" visible="true" lat="44.619317957733" lon="-73.128003079919">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="154"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -432,7 +448,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773705"/>
   </node>
-  <node id="-5148" visible="true" lat="44.619370680121" lon="-73.128200688883">
+  <node id="-5143" visible="true" lat="44.619370680121" lon="-73.128200688883">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="166"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -440,7 +456,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773706"/>
   </node>
-  <node id="-5149" visible="true" lat="44.619399110439" lon="-73.128299515815">
+  <node id="-5144" visible="true" lat="44.619399110439" lon="-73.128299515815">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="170"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -448,7 +464,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773707"/>
   </node>
-  <node id="-5150" visible="true" lat="44.619474483824" lon="-73.128517653393">
+  <node id="-5145" visible="true" lat="44.619474483824" lon="-73.128517653393">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="182"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -456,7 +472,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773708"/>
   </node>
-  <node id="-5151" visible="true" lat="44.619556192609" lon="-73.128712678141">
+  <node id="-5146" visible="true" lat="44.619556192609" lon="-73.128712678141">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="194"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -464,7 +480,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773709"/>
   </node>
-  <node id="-5152" visible="true" lat="44.619610838958" lon="-73.128936387897">
+  <node id="-5147" visible="true" lat="44.619610838958" lon="-73.128936387897">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="204"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -472,7 +488,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773710"/>
   </node>
-  <node id="-5153" visible="true" lat="44.619435696836" lon="-73.129172105333">
+  <node id="-5148" visible="true" lat="44.619435696836" lon="-73.129172105333">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="214"/>
     <tag k="addr:street" v="Board Walk Way"/>
@@ -480,7 +496,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773711"/>
   </node>
-  <node id="-5154" visible="true" lat="44.618933556915" lon="-73.127905517145">
+  <node id="-5149" visible="true" lat="44.618933556915" lon="-73.127905517145">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -488,7 +504,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773712"/>
   </node>
-  <node id="-5155" visible="true" lat="44.618864105001" lon="-73.128010473845">
+  <node id="-5150" visible="true" lat="44.618864105001" lon="-73.128010473845">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -496,7 +512,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773713"/>
   </node>
-  <node id="-5156" visible="true" lat="44.618782661005" lon="-73.128128282774">
+  <node id="-5151" visible="true" lat="44.618782661005" lon="-73.128128282774">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -504,7 +520,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773714"/>
   </node>
-  <node id="-5157" visible="true" lat="44.61868110651" lon="-73.128290381377">
+  <node id="-5152" visible="true" lat="44.61868110651" lon="-73.128290381377">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -512,7 +528,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773715"/>
   </node>
-  <node id="-5158" visible="true" lat="44.61859268294" lon="-73.128473020379">
+  <node id="-5153" visible="true" lat="44.61859268294" lon="-73.128473020379">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="77"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -520,7 +536,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773716"/>
   </node>
-  <node id="-5159" visible="true" lat="44.618628630901" lon="-73.127716783292">
+  <node id="-5154" visible="true" lat="44.618628630901" lon="-73.127716783292">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="48"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -528,7 +544,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773717"/>
   </node>
-  <node id="-5160" visible="true" lat="44.618532322653" lon="-73.127888211019">
+  <node id="-5155" visible="true" lat="44.618532322653" lon="-73.127888211019">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="58"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -536,7 +552,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773718"/>
   </node>
-  <node id="-5161" visible="true" lat="44.618412307327" lon="-73.128035275204">
+  <node id="-5156" visible="true" lat="44.618412307327" lon="-73.128035275204">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="68"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -544,7 +560,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773719"/>
   </node>
-  <node id="-5162" visible="true" lat="44.618080502902" lon="-73.128398880373">
+  <node id="-5157" visible="true" lat="44.618080502902" lon="-73.128398880373">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="102"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -552,7 +568,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773720"/>
   </node>
-  <node id="-5163" visible="true" lat="44.618027361533" lon="-73.128427978521">
+  <node id="-5158" visible="true" lat="44.618027361533" lon="-73.128427978521">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="106"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -560,7 +576,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773721"/>
   </node>
-  <node id="-5164" visible="true" lat="44.6178983608" lon="-73.128523018357">
+  <node id="-5159" visible="true" lat="44.6178983608" lon="-73.128523018357">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -568,7 +584,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773722"/>
   </node>
-  <node id="-5165" visible="true" lat="44.617833218056" lon="-73.128566823071">
+  <node id="-5160" visible="true" lat="44.617833218056" lon="-73.128566823071">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="122"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -576,7 +592,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773723"/>
   </node>
-  <node id="-5166" visible="true" lat="44.617996628847" lon="-73.128958021323">
+  <node id="-5161" visible="true" lat="44.617996628847" lon="-73.128958021323">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="121"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -584,7 +600,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773724"/>
   </node>
-  <node id="-5167" visible="true" lat="44.617819610939" lon="-73.129113738625">
+  <node id="-5162" visible="true" lat="44.617819610939" lon="-73.129113738625">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="131"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -592,7 +608,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773725"/>
   </node>
-  <node id="-5168" visible="true" lat="44.617700080055" lon="-73.12869148881">
+  <node id="-5163" visible="true" lat="44.617700080055" lon="-73.12869148881">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="132"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -600,7 +616,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773726"/>
   </node>
-  <node id="-5169" visible="true" lat="44.617650963482" lon="-73.128711357785">
+  <node id="-5164" visible="true" lat="44.617650963482" lon="-73.128711357785">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="136"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -608,7 +624,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773727"/>
   </node>
-  <node id="-5170" visible="true" lat="44.617705259387" lon="-73.129194098603">
+  <node id="-5165" visible="true" lat="44.617705259387" lon="-73.129194098603">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="143"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -616,7 +632,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773728"/>
   </node>
-  <node id="-5171" visible="true" lat="44.61756038493" lon="-73.129285256672">
+  <node id="-5166" visible="true" lat="44.61756038493" lon="-73.129285256672">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="155"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -624,7 +640,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773729"/>
   </node>
-  <node id="-5172" visible="true" lat="44.617418056537" lon="-73.129394984766">
+  <node id="-5167" visible="true" lat="44.617418056537" lon="-73.129394984766">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="167"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -632,7 +648,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773730"/>
   </node>
-  <node id="-5173" visible="true" lat="44.617247781944" lon="-73.129528518562">
+  <node id="-5168" visible="true" lat="44.617247781944" lon="-73.129528518562">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="181"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -640,7 +656,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773731"/>
   </node>
-  <node id="-5174" visible="true" lat="44.617069487468" lon="-73.129194651328">
+  <node id="-5169" visible="true" lat="44.617069487468" lon="-73.129194651328">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="180"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -648,7 +664,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773732"/>
   </node>
-  <node id="-5175" visible="true" lat="44.617141242389" lon="-73.129152773949">
+  <node id="-5170" visible="true" lat="44.617141242389" lon="-73.129152773949">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="176"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -656,7 +672,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773733"/>
   </node>
-  <node id="-5176" visible="true" lat="44.617254596148" lon="-73.129013060746">
+  <node id="-5171" visible="true" lat="44.617254596148" lon="-73.129013060746">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="166"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -664,7 +680,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773734"/>
   </node>
-  <node id="-5177" visible="true" lat="44.617311822935" lon="-73.128963608747">
+  <node id="-5172" visible="true" lat="44.617311822935" lon="-73.128963608747">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="162"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -672,7 +688,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773735"/>
   </node>
-  <node id="-5178" visible="true" lat="44.617446039888" lon="-73.12888346328">
+  <node id="-5173" visible="true" lat="44.617446039888" lon="-73.12888346328">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="150"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -680,7 +696,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773736"/>
   </node>
-  <node id="-5179" visible="true" lat="44.617494098246" lon="-73.12881536778">
+  <node id="-5174" visible="true" lat="44.617494098246" lon="-73.12881536778">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="146"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -688,7 +704,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773737"/>
   </node>
-  <node id="-5180" visible="true" lat="44.616968094959" lon="-73.129327074296">
+  <node id="-5175" visible="true" lat="44.616968094959" lon="-73.129327074296">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="190"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -696,7 +712,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773738"/>
   </node>
-  <node id="-5181" visible="true" lat="44.616837532905" lon="-73.129464745634">
+  <node id="-5176" visible="true" lat="44.616837532905" lon="-73.129464745634">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="200"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -704,7 +720,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773739"/>
   </node>
-  <node id="-5182" visible="true" lat="44.61671746445" lon="-73.129621072501">
+  <node id="-5177" visible="true" lat="44.61671746445" lon="-73.129621072501">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="212"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -712,7 +728,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773740"/>
   </node>
-  <node id="-5183" visible="true" lat="44.616593555766" lon="-73.129753251822">
+  <node id="-5178" visible="true" lat="44.616593555766" lon="-73.129753251822">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="224"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -720,7 +736,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773741"/>
   </node>
-  <node id="-5184" visible="true" lat="44.61714628681" lon="-73.129679485646">
+  <node id="-5179" visible="true" lat="44.61714628681" lon="-73.129679485646">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="193"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -728,7 +744,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773742"/>
   </node>
-  <node id="-5185" visible="true" lat="44.617001023387" lon="-73.129841104512">
+  <node id="-5180" visible="true" lat="44.617001023387" lon="-73.129841104512">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="203"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -736,7 +752,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773743"/>
   </node>
-  <node id="-5186" visible="true" lat="44.616906271839" lon="-73.12996988995">
+  <node id="-5181" visible="true" lat="44.616906271839" lon="-73.12996988995">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="215"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -744,7 +760,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773744"/>
   </node>
-  <node id="-5187" visible="true" lat="44.616850721924" lon="-73.130195528489">
+  <node id="-5182" visible="true" lat="44.616850721924" lon="-73.130195528489">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="227"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -752,7 +768,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773745"/>
   </node>
-  <node id="-5188" visible="true" lat="44.616751638835" lon="-73.130389170224">
+  <node id="-5183" visible="true" lat="44.616751638835" lon="-73.130389170224">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="237"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -760,7 +776,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773746"/>
   </node>
-  <node id="-5189" visible="true" lat="44.616687287688" lon="-73.130529408603">
+  <node id="-5184" visible="true" lat="44.616687287688" lon="-73.130529408603">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="239"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -768,7 +784,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773747"/>
   </node>
-  <node id="-5190" visible="true" lat="44.616473517597" lon="-73.129904015098">
+  <node id="-5185" visible="true" lat="44.616473517597" lon="-73.129904015098">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="234"/>
     <tag k="addr:street" v="Baltic Avenue"/>
@@ -776,7 +792,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773748"/>
   </node>
-  <node id="-5191" visible="true" lat="44.620419698037" lon="-73.117510600339">
+  <node id="-5186" visible="true" lat="44.620419698037" lon="-73.117510600339">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Shirley Avenue"/>
@@ -784,7 +800,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773779"/>
   </node>
-  <node id="-5192" visible="true" lat="44.577381851468" lon="-73.102510677063">
+  <node id="-5187" visible="true" lat="44.577381851468" lon="-73.102510677063">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="454"/>
     <tag k="addr:street" v="Duffy Road"/>
@@ -792,7 +808,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773780"/>
   </node>
-  <node id="-5193" visible="true" lat="44.618888165796" lon="-73.199901827157">
+  <node id="-5188" visible="true" lat="44.618888165796" lon="-73.199901827157">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="410"/>
     <tag k="addr:street" v="Bear Trap Road"/>
@@ -800,7 +816,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773803"/>
   </node>
-  <node id="-5195" visible="true" lat="44.64386647781" lon="-73.208200922872">
+  <node id="-5190" visible="true" lat="44.64386647781" lon="-73.208200922872">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Zips Place"/>
@@ -808,7 +824,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773898"/>
   </node>
-  <node id="-5196" visible="true" lat="44.64429179201" lon="-73.208430729097">
+  <node id="-5191" visible="true" lat="44.64429179201" lon="-73.208430729097">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Zips Place"/>
@@ -816,12 +832,44 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773899"/>
   </node>
-  <node id="-5197" visible="true" lat="44.643336317115" lon="-73.209361170074">
+  <node id="-5192" visible="true" lat="44.643336317115" lon="-73.209361170074">
     <tag k="addr:city" v="Milton"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Ida Way"/>
     <tag k="addr:postcode" v="05468"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773900"/>
+  </node>
+  <node id="-5193" visible="true" lat="44.602471052326" lon="-73.162580710454">
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Clapper Road"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774038"/>
+  </node>
+  <node id="-5195" visible="true" lat="44.630322062462" lon="-73.119045547548">
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Brandy Lane"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774199"/>
+  </node>
+  <node id="-5196" visible="true" lat="44.630256724468" lon="-73.119072942656">
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Brandy Lane"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774200"/>
+  </node>
+  <node id="-5198" visible="true" lat="44.608700220694" lon="-73.1027630285">
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="477"/>
+    <tag k="addr:street" v="East Road"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774634"/>
   </node>
 </osm>

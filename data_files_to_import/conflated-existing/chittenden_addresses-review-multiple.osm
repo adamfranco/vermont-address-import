@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-445" visible="true" lat="43.707439866711" lon="-72.950754580976">
+  <node id="-444" visible="true" lat="43.707439866711" lon="-72.950754580976">
     <!-- multiple: "339 Holden Road, Chittenden, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Chittenden"/>
     <tag k="addr:housenumber" v="339"/>
@@ -9,7 +9,16 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="67910"/>
   </node>
-  <node id="-496" visible="true" lat="43.700956036303" lon="-72.952140810705">
+  <node id="-486" visible="true" lat="43.702068984578" lon="-72.951244461818">
+    <!-- multiple: "231 Chittenden Road, Chittenden, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Chittenden"/>
+    <tag k="addr:housenumber" v="231"/>
+    <tag k="addr:street" v="Chittenden Road"/>
+    <tag k="addr:postcode" v="05737"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="67955"/>
+  </node>
+  <node id="-495" visible="true" lat="43.700956036303" lon="-72.952140810705">
     <!-- multiple: "223 Chittenden Road, Chittenden, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Chittenden"/>
     <tag k="addr:housenumber" v="223"/>

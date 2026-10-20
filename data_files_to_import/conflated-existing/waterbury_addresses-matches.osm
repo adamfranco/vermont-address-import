@@ -24,6 +24,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="273440"/>
   </node>
+  <node id="-410" visible="true" lat="44.382174565787" lon="-72.720909850948">
+    <!-- match: "14 Sunset Drive, Waterbury Center, VT"  ignoring missing state when matching to "14 Sunset Drive, Waterbury Center, " -->
+    <tag k="addr:city" v="Waterbury Center"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Sunset Drive"/>
+    <tag k="addr:postcode" v="05677"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="273528"/>
+  </node>
   <node id="-446" visible="true" lat="44.380973123096" lon="-72.719972428804">
     <tag k="addr:city" v="Waterbury Center"/>
     <tag k="addr:housenumber" v="3582"/>
@@ -152,7 +161,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274239"/>
   </node>
-  <node id="-1107" visible="true" lat="44.356897202493" lon="-72.741394250494">
+  <node id="-1107" visible="true" lat="44.356902565066" lon="-72.741475303866">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="558"/>
     <tag k="addr:street" v="Countryside Road"/>
@@ -232,7 +241,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274332"/>
   </node>
-  <node id="-1183" visible="true" lat="44.353532029527" lon="-72.744637556948">
+  <node id="-1182" visible="true" lat="44.353532029527" lon="-72.744637556948">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -240,7 +249,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274341"/>
   </node>
-  <node id="-1184" visible="true" lat="44.353168655463" lon="-72.745230065629">
+  <node id="-1183" visible="true" lat="44.353168655463" lon="-72.745230065629">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -248,7 +257,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274342"/>
   </node>
-  <node id="-1188" visible="true" lat="44.35292745467" lon="-72.74475158294">
+  <node id="-1187" visible="true" lat="44.35292745467" lon="-72.74475158294">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -256,7 +265,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274348"/>
   </node>
-  <node id="-1193" visible="true" lat="44.352802521582" lon="-72.745405348144">
+  <node id="-1192" visible="true" lat="44.352802521582" lon="-72.745405348144">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -264,7 +273,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274353"/>
   </node>
-  <node id="-1195" visible="true" lat="44.352926991865" lon="-72.740174424795">
+  <node id="-1194" visible="true" lat="44.352926991865" lon="-72.740174424795">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="1281"/>
     <tag k="addr:street" v="Waterbury Stowe Road"/>
@@ -272,7 +281,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274355"/>
   </node>
-  <node id="-1197" visible="true" lat="44.352614699227" lon="-72.744835879814">
+  <node id="-1196" visible="true" lat="44.352614699227" lon="-72.744835879814">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -280,7 +289,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274357"/>
   </node>
-  <node id="-1200" visible="true" lat="44.352340048333" lon="-72.745037663372">
+  <node id="-1199" visible="true" lat="44.352340048333" lon="-72.745037663372">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -288,7 +297,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274362"/>
   </node>
-  <node id="-1203" visible="true" lat="44.351954301507" lon="-72.738807059066">
+  <node id="-1202" visible="true" lat="44.351954301507" lon="-72.738807059066">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="1320"/>
     <tag k="addr:street" v="Waterbury Stowe Road"/>
@@ -296,7 +305,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274365"/>
   </node>
-  <node id="-1210" visible="true" lat="44.351664079736" lon="-72.745207736907">
+  <node id="-1209" visible="true" lat="44.351664079736" lon="-72.745207736907">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="192"/>
     <tag k="addr:street" v="Crossroad"/>
@@ -304,7 +313,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274372"/>
   </node>
-  <node id="-1212" visible="true" lat="44.351287762988" lon="-72.744992110398">
+  <node id="-1211" visible="true" lat="44.351287762988" lon="-72.744992110398">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="174"/>
     <tag k="addr:street" v="Crossroad"/>
@@ -312,7 +321,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274374"/>
   </node>
-  <node id="-1219" visible="true" lat="44.350829028481" lon="-72.74545803912">
+  <node id="-1218" visible="true" lat="44.350829028481" lon="-72.74545803912">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="163"/>
     <tag k="addr:street" v="Crossroad"/>
@@ -320,7 +329,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274381"/>
   </node>
-  <node id="-1223" visible="true" lat="44.350602629274" lon="-72.74198407871">
+  <node id="-1222" visible="true" lat="44.350602629274" lon="-72.74198407871">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="1115"/>
     <tag k="addr:street" v="Waterbury Stowe Road"/>
@@ -328,7 +337,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274385"/>
   </node>
-  <node id="-1226" visible="true" lat="44.350297479486" lon="-72.741504646467">
+  <node id="-1225" visible="true" lat="44.350297479486" lon="-72.741504646467">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="1144"/>
     <tag k="addr:street" v="Waterbury Stowe Road"/>
@@ -336,7 +345,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274388"/>
   </node>
-  <node id="-1234" visible="true" lat="44.349958120909" lon="-72.743750917385">
+  <node id="-1233" visible="true" lat="44.349958120909" lon="-72.743750917385">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="1017"/>
     <tag k="addr:street" v="Waterbury Stowe Road"/>
@@ -344,7 +353,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274397"/>
   </node>
-  <node id="-1243" visible="true" lat="44.349631097995" lon="-72.741554248641">
+  <node id="-1242" visible="true" lat="44.349631097995" lon="-72.741554248641">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="46"/>
     <tag k="addr:street" v="Laurel Lane"/>
@@ -352,7 +361,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274409"/>
   </node>
-  <node id="-1252" visible="true" lat="44.34941697378" lon="-72.741276760832">
+  <node id="-1251" visible="true" lat="44.34941697378" lon="-72.741276760832">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="62"/>
     <tag k="addr:street" v="Laurel Lane"/>
@@ -360,7 +369,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274420"/>
   </node>
-  <node id="-1253" visible="true" lat="44.34921818347" lon="-72.741633559711">
+  <node id="-1252" visible="true" lat="44.34921818347" lon="-72.741633559711">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:street" v="Laurel Lane"/>
@@ -368,7 +377,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274421"/>
   </node>
-  <node id="-1335" visible="true" lat="44.345236437469" lon="-72.748579129087">
+  <node id="-1334" visible="true" lat="44.345236437469" lon="-72.748579129087">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Blush Hill Road"/>
@@ -376,7 +385,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274523"/>
   </node>
-  <node id="-1381" visible="true" lat="44.343652578884" lon="-72.757938373847">
+  <node id="-1380" visible="true" lat="44.343652578884" lon="-72.757938373847">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Intervale Avenue"/>
@@ -384,7 +393,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274578"/>
   </node>
-  <node id="-1388" visible="true" lat="44.343512071763" lon="-72.757839705529">
+  <node id="-1387" visible="true" lat="44.343512071763" lon="-72.757839705529">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Intervale Avenue"/>
@@ -392,7 +401,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274586"/>
   </node>
-  <node id="-1408" visible="true" lat="44.343005286" lon="-72.758515775092">
+  <node id="-1407" visible="true" lat="44.343005286" lon="-72.758515775092">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:street" v="Butler Street"/>
@@ -400,7 +409,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274609"/>
   </node>
-  <node id="-1440" visible="true" lat="44.342278542222" lon="-72.759853264923">
+  <node id="-1439" visible="true" lat="44.342278542222" lon="-72.759853264923">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="53"/>
     <tag k="addr:street" v="North Main Street"/>
@@ -408,7 +417,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274646"/>
   </node>
-  <node id="-1445" visible="true" lat="44.342290825715" lon="-72.75901528397">
+  <node id="-1444" visible="true" lat="44.342290825715" lon="-72.75901528397">
     <!-- match: "47 North Main Street, Waterbury, VT"  ignoring missing state when matching to "47 North Main Street, Waterbury, " -->
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="47"/>
@@ -417,7 +426,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274652"/>
   </node>
-  <node id="-1465" visible="true" lat="44.341893830223" lon="-72.759554644321">
+  <node id="-1464" visible="true" lat="44.341893830223" lon="-72.759554644321">
     <!-- match: "47 North Main Street, Waterbury, VT"  ignoring missing state when matching to "47 North Main Street, Waterbury, " -->
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="47"/>
@@ -426,7 +435,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274674"/>
   </node>
-  <node id="-1473" visible="true" lat="44.341486588716" lon="-72.759692126928">
+  <node id="-1472" visible="true" lat="44.341486588716" lon="-72.759692126928">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="North Main Street"/>
@@ -434,7 +443,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274690"/>
   </node>
-  <node id="-1569" visible="true" lat="44.339132039238" lon="-72.753121331838">
+  <node id="-1566" visible="true" lat="44.339132039238" lon="-72.753121331838">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:street" v="Stowe Street"/>
@@ -442,7 +451,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274807"/>
   </node>
-  <node id="-1579" visible="true" lat="44.339116947774" lon="-72.757887817868">
+  <node id="-1576" visible="true" lat="44.339116947774" lon="-72.757887817868">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="North Main Street"/>
@@ -450,7 +459,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274818"/>
   </node>
-  <node id="-1584" visible="true" lat="44.339032464911" lon="-72.75803528714">
+  <node id="-1581" visible="true" lat="44.339032464911" lon="-72.75803528714">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Winooski Street"/>
@@ -458,7 +467,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274823"/>
   </node>
-  <node id="-1588" visible="true" lat="44.338946226388" lon="-72.758173433633">
+  <node id="-1585" visible="true" lat="44.338946226388" lon="-72.758173433633">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Winooski Street"/>
@@ -466,7 +475,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274828"/>
   </node>
-  <node id="-1594" visible="true" lat="44.338864737556" lon="-72.758370551903">
+  <node id="-1591" visible="true" lat="44.338864737556" lon="-72.758370551903">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Winooski Street"/>
@@ -474,7 +483,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274835"/>
   </node>
-  <node id="-1595" visible="true" lat="44.338713842455" lon="-72.757771422758">
+  <node id="-1592" visible="true" lat="44.338713842455" lon="-72.757771422758">
     <!-- match: "18 North Main Street, Waterbury, VT"  ignoring missing state when matching to "18 North Main Street, Waterbury, " -->
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="18"/>
@@ -483,7 +492,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274836"/>
   </node>
-  <node id="-1600" visible="true" lat="44.338690837766" lon="-72.7585764013">
+  <node id="-1597" visible="true" lat="44.338690837766" lon="-72.7585764013">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Winooski Street"/>
@@ -491,7 +500,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274841"/>
   </node>
-  <node id="-1603" visible="true" lat="44.338557844846" lon="-72.758727010858">
+  <node id="-1600" visible="true" lat="44.338557844846" lon="-72.758727010858">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Winooski Street"/>
@@ -499,7 +508,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274845"/>
   </node>
-  <node id="-1608" visible="true" lat="44.338462476223" lon="-72.758971151733">
+  <node id="-1605" visible="true" lat="44.338462476223" lon="-72.758971151733">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Winooski Street"/>
@@ -507,7 +516,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274851"/>
   </node>
-  <node id="-1681" visible="true" lat="44.337489481629" lon="-72.755820314047">
+  <node id="-1678" visible="true" lat="44.337489481629" lon="-72.755820314047">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="South Main Street"/>
@@ -515,7 +524,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274938"/>
   </node>
-  <node id="-1716" visible="true" lat="44.336151789339" lon="-72.755002415162">
+  <node id="-1713" visible="true" lat="44.336151789339" lon="-72.755002415162">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="South Main Street"/>
@@ -523,7 +532,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274986"/>
   </node>
-  <node id="-1720" visible="true" lat="44.335930302902" lon="-72.754829535548">
+  <node id="-1717" visible="true" lat="44.335930302902" lon="-72.754829535548">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="South Main Street"/>
@@ -531,7 +540,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="274990"/>
   </node>
-  <node id="-1749" visible="true" lat="44.335088552833" lon="-72.751746260485">
+  <node id="-1746" visible="true" lat="44.335088552833" lon="-72.751746260485">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Rotarian Place"/>
@@ -539,7 +548,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275030"/>
   </node>
-  <node id="-1819" visible="true" lat="44.331421285978" lon="-72.751717596369">
+  <node id="-1816" visible="true" lat="44.331421285978" lon="-72.751717596369">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="166"/>
     <tag k="addr:street" v="Horseshoe Drive"/>
@@ -547,7 +556,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275136"/>
   </node>
-  <node id="-1844" visible="true" lat="44.32978625195" lon="-72.748224324987">
+  <node id="-1841" visible="true" lat="44.32978625195" lon="-72.748224324987">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="149"/>
     <tag k="addr:street" v="South Main Street"/>
@@ -555,7 +564,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275178"/>
   </node>
-  <node id="-1916" visible="true" lat="44.357267543539" lon="-72.739731793589">
+  <node id="-1913" visible="true" lat="44.357267543539" lon="-72.739731793589">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="754"/>
     <tag k="addr:street" v="Countryside Road"/>
@@ -563,7 +572,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275255"/>
   </node>
-  <node id="-1917" visible="true" lat="44.358060443735" lon="-72.737561590018">
+  <node id="-1914" visible="true" lat="44.358060443735" lon="-72.737561590018">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="92"/>
     <tag k="addr:street" v="East Countryside Road"/>
@@ -571,7 +580,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275256"/>
   </node>
-  <node id="-1983" visible="true" lat="44.353891035293" lon="-72.74454386463">
+  <node id="-1980" visible="true" lat="44.353891035293" lon="-72.74454386463">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -579,7 +588,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275324"/>
   </node>
-  <node id="-1984" visible="true" lat="44.353448011435" lon="-72.745123615341">
+  <node id="-1981" visible="true" lat="44.353448011435" lon="-72.745123615341">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -587,7 +596,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275325"/>
   </node>
-  <node id="-2004" visible="true" lat="44.353233078671" lon="-72.744592918369">
+  <node id="-2001" visible="true" lat="44.353233078671" lon="-72.744592918369">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -595,7 +604,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275345"/>
   </node>
-  <node id="-2005" visible="true" lat="44.35374641686" lon="-72.745110305508">
+  <node id="-2002" visible="true" lat="44.35374641686" lon="-72.745110305508">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -603,7 +612,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275346"/>
   </node>
-  <node id="-2006" visible="true" lat="44.354764128762" lon="-72.744236156054">
+  <node id="-2003" visible="true" lat="44.354764128762" lon="-72.744236156054">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -611,7 +620,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275347"/>
   </node>
-  <node id="-2007" visible="true" lat="44.354432988398" lon="-72.744417196721">
+  <node id="-2004" visible="true" lat="44.354432988398" lon="-72.744417196721">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -619,7 +628,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275348"/>
   </node>
-  <node id="-2008" visible="true" lat="44.354177799911" lon="-72.744482459266">
+  <node id="-2005" visible="true" lat="44.354177799911" lon="-72.744482459266">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Meadow Crest Lane"/>
@@ -627,7 +636,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275349"/>
   </node>
-  <node id="-2010" visible="true" lat="44.359007072678" lon="-72.740675658255">
+  <node id="-2007" visible="true" lat="44.359007072678" lon="-72.740675658255">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="895"/>
     <tag k="addr:street" v="Countryside Road"/>
@@ -635,7 +644,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="275351"/>
   </node>
-  <node id="-2026" visible="true" lat="44.336306148777" lon="-72.750818112979">
+  <node id="-2023" visible="true" lat="44.336306148777" lon="-72.750818112979">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Pilgrim Park Road"/>
@@ -643,7 +652,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316524"/>
   </node>
-  <node id="-2041" visible="true" lat="44.35058210566" lon="-72.745313344127">
+  <node id="-2038" visible="true" lat="44.35058210566" lon="-72.745313344127">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="159"/>
     <tag k="addr:street" v="Crossroad"/>
@@ -651,7 +660,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316564"/>
   </node>
-  <node id="-2042" visible="true" lat="44.350568593863" lon="-72.744949609686">
+  <node id="-2039" visible="true" lat="44.350568593863" lon="-72.744949609686">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="155"/>
     <tag k="addr:street" v="Crossroad"/>
@@ -659,7 +668,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316565"/>
   </node>
-  <node id="-2088" visible="true" lat="44.356827497803" lon="-72.745289002505">
+  <node id="-2085" visible="true" lat="44.356827497803" lon="-72.745289002505">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="196"/>
     <tag k="addr:street" v="Countryside Road"/>
@@ -667,7 +676,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316618"/>
   </node>
-  <node id="-2089" visible="true" lat="44.356828594903" lon="-72.737418314483">
+  <node id="-2086" visible="true" lat="44.356828594903" lon="-72.737418314483">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="280"/>
     <tag k="addr:street" v="East Countryside Road"/>
@@ -675,7 +684,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="316619"/>
   </node>
-  <node id="-2205" visible="true" lat="44.330223071169" lon="-72.750433290934">
+  <node id="-2202" visible="true" lat="44.330223071169" lon="-72.750433290934">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="State Drive"/>
@@ -683,7 +692,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341658"/>
   </node>
-  <node id="-2216" visible="true" lat="44.331929740126" lon="-72.754147836872">
+  <node id="-2213" visible="true" lat="44.331929740126" lon="-72.754147836872">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="280"/>
     <tag k="addr:street" v="State Drive"/>
@@ -691,7 +700,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="449246"/>
   </node>
-  <node id="-2279" visible="true" lat="44.35786359526" lon="-72.736672283892">
+  <node id="-2272" visible="true" lat="44.35786359526" lon="-72.736672283892">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="215"/>
     <tag k="addr:street" v="East Countryside Road"/>
@@ -699,7 +708,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450823"/>
   </node>
-  <node id="-2282" visible="true" lat="44.360277942885" lon="-72.742230384905">
+  <node id="-2275" visible="true" lat="44.360277942885" lon="-72.742230384905">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="377"/>
     <tag k="addr:street" v="Countryside Road"/>
@@ -707,7 +716,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451687"/>
   </node>
-  <node id="-2325" visible="true" lat="44.356724504851" lon="-72.795095546223">
+  <node id="-2318" visible="true" lat="44.356104802537" lon="-72.794672607619">
     <!-- match: "1901 U.S. Route 2, Waterbury, VT"  ignoring missing state when matching to "1901 U.S. Route 2, Waterbury, " -->
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="1901"/>
@@ -716,7 +725,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="452565"/>
   </node>
-  <node id="-2495" visible="true" lat="44.378031472839" lon="-72.705828522406">
+  <node id="-2500" visible="true" lat="44.378031472839" lon="-72.705828522406">
     <tag k="addr:city" v="Waterbury Center"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="Lassiters Lane"/>
@@ -724,7 +733,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754359"/>
   </node>
-  <node id="-2618" visible="true" lat="44.345299767725" lon="-72.743583117803">
+  <node id="-2623" visible="true" lat="44.345299767725" lon="-72.743583117803">
     <tag k="addr:city" v="Waterbury"/>
     <tag k="addr:housenumber" v="201"/>
     <tag k="addr:street" v="Lincoln Street"/>

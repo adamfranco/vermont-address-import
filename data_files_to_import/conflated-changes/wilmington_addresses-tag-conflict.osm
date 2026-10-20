@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1088" visible="true" lat="42.885064218999" lon="-72.89736658478">
+    <!-- conflict: "57 Beebe Road, Wilmington, VT" No match in OSM, but a different address exists <5m away: "49 Beebe Road, Wilmington, VT" -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Beebe Road"/>
+    <tag k="addr:postcode" v="05363"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="293674"/>
+  </node>
+  <node id="-2198" visible="true" lat="42.88778391262" lon="-72.912923209545">
+    <!-- conflict: "68 Spruce Grove Road, Wilmington, VT" No match in OSM, but a different address exists <5m away: "8 Fern Lane, Wilmington, VT" -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Spruce Grove Road"/>
+    <tag k="addr:postcode" v="05363"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="294836"/>
+  </node>
+</osm>

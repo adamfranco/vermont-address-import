@@ -9,15 +9,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="21721"/>
   </node>
-  <node id="-448" visible="true" lat="43.699147705277" lon="-73.331385864211">
-    <!-- conflict: "563 Ranger Road, Fair Haven, VT" No match in OSM, but a different address exists <5m away: "563 Parkhill Road, Benson, VT" -->
-    <tag k="addr:city" v="Fair Haven"/>
-    <tag k="addr:housenumber" v="563"/>
-    <tag k="addr:street" v="Ranger Road"/>
-    <tag k="addr:postcode" v="05743"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="21799"/>
-  </node>
   <node id="-496" visible="true" lat="43.689858698612" lon="-73.268884153147">
     <!-- conflict: "1672 East Road, Fair Haven, VT" Fuzzy match to "1672 East Road, Benson, VT" -->
     <tag k="addr:city" v="Fair Haven"/>

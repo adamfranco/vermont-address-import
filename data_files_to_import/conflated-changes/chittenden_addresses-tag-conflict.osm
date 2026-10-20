@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-818" visible="true" lat="43.824442932512" lon="-72.909042091187">
-    <!-- conflict: "2214 Vermont Route 101, Rochester, VT" No match in OSM, but a different address exists <5m away: "2214 National Forest Road 45, Chittenden, VT" -->
-    <tag k="addr:city" v="Rochester"/>
-    <tag k="addr:housenumber" v="2214"/>
-    <tag k="addr:street" v="Vermont Route 101"/>
-    <tag k="addr:postcode" v="05767"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450111"/>
-  </node>
-  <node id="-891" visible="true" lat="43.683100141608" lon="-72.947269973497">
+  <node id="-890" visible="true" lat="43.683100141608" lon="-72.947269973497">
     <!-- conflict: "11 Suncatcher Lane, Rutland, VT" Fuzzy match to "11 Suncatcher Lane, Chittenden, VT" -->
     <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="11"/>
@@ -18,7 +9,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="900533"/>
   </node>
-  <node id="-892" visible="true" lat="43.825150208183" lon="-72.909519526131">
+  <node id="-891" visible="true" lat="43.825150208183" lon="-72.909519526131">
     <!-- conflict: "72 National Forest Road 45A, Rochester, VT" Fuzzy match to "72 National Forest Road 45a, Chittenden, VT" -->
     <tag k="addr:city" v="Rochester"/>
     <tag k="addr:housenumber" v="72"/>

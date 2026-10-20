@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1388" visible="true" lat="43.788606222003" lon="-72.254478006552">
+    <tag k="addr:city" v="East Thetford"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:postcode" v="05043"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="259800"/>
+  </node>
   <node id="-1581" visible="true" lat="43.864892478156" lon="-72.275222141924">
     <tag k="addr:city" v="Thetford Center"/>
     <tag k="addr:housenumber" v="1692"/>
@@ -55,5 +63,13 @@
     <tag k="addr:postcode" v="05045"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773977"/>
+  </node>
+  <node id="-1723" visible="true" lat="43.859220658317" lon="-72.258463670329">
+    <tag k="addr:city" v="Thetford Center"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Rogers Lane"/>
+    <tag k="addr:postcode" v="05075"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774232"/>
   </node>
 </osm>

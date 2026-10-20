@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-153" visible="true" lat="45.00042921879" lon="-72.890347933355">
+    <tag k="addr:city" v="Franklin"/>
+    <tag k="addr:housenumber" v="1899"/>
+    <tag k="addr:street" v="Middle Road"/>
+    <tag k="addr:postcode" v="05457"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="109060"/>
+  </node>
   <node id="-1032" visible="true" lat="44.97063939929" lon="-72.964512360839">
     <tag k="addr:city" v="Franklin"/>
     <tag k="addr:housenumber" v="2126"/>
@@ -8,7 +16,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656614"/>
   </node>
-  <node id="-1033" visible="true" lat="44.999898994044" lon="-72.903281814657">
+  <node id="-1033" visible="true" lat="44.99978706323" lon="-72.902643021384">
     <tag k="addr:city" v="Franklin"/>
     <tag k="addr:housenumber" v="1209"/>
     <tag k="addr:street" v="Middle Road"/>
@@ -47,5 +55,29 @@
     <tag k="addr:postcode" v="05457"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773828"/>
+  </node>
+  <node id="-1124" visible="true" lat="44.978120114521" lon="-72.886540770993">
+    <tag k="addr:city" v="Franklin"/>
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:street" v="Riley Road"/>
+    <tag k="addr:postcode" v="05457"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774237"/>
+  </node>
+  <node id="-1125" visible="true" lat="44.970572228366" lon="-72.916969712841">
+    <tag k="addr:city" v="Franklin"/>
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:street" v="Town View"/>
+    <tag k="addr:postcode" v="05457"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774319"/>
+  </node>
+  <node id="-1126" visible="true" lat="44.970603594996" lon="-72.916746142779">
+    <tag k="addr:city" v="Franklin"/>
+    <tag k="addr:housenumber" v="243"/>
+    <tag k="addr:street" v="Town View"/>
+    <tag k="addr:postcode" v="05457"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774320"/>
   </node>
 </osm>

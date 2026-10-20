@@ -18,24 +18,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="235154"/>
   </node>
-  <node id="-928" visible="true" lat="43.316825056169" lon="-72.404076258277">
-    <!-- conflict: "280 Quarry Road, Springfield, VT" No match in OSM, but a different address exists <5m away: "280 Putnam Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="280"/>
-    <tag k="addr:street" v="Quarry Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="235260"/>
-  </node>
-  <node id="-939" visible="true" lat="43.31625090142" lon="-72.402521948796">
-    <!-- conflict: "289 Quarry Road, Springfield, VT" No match in OSM, but a different address exists <5m away: "289 Putnam Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="289"/>
-    <tag k="addr:street" v="Quarry Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="235272"/>
-  </node>
   <node id="-1472" visible="true" lat="43.300430762947" lon="-72.480881721634">
     <!-- conflict: "9 Elm Terrace, Springfield, VT" Fuzzy match to "9 Elm Hill, Springfield, VT" -->
     <tag k="addr:city" v="Springfield"/>

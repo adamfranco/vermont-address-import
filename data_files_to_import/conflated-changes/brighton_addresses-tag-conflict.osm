@@ -1,50 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-110" visible="true" lat="44.832573308914" lon="-71.848809176434">
-    <!-- conflict: "1564 South Shore Trail, Island Pond, VT" No match in OSM, but a different address exists <5m away: "1564 Henshaw Road, , VT" -->
-    <tag k="addr:city" v="Island Pond"/>
-    <tag k="addr:housenumber" v="1564"/>
-    <tag k="addr:street" v="South Shore Trail"/>
-    <tag k="addr:postcode" v="05846"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37815"/>
-  </node>
-  <node id="-112" visible="true" lat="44.831117893025" lon="-71.850012629168">
-    <!-- conflict: "1445 South Shore Trail, Island Pond, VT" No match in OSM, but a different address exists <5m away: "1445 Henshaw Road, , VT" -->
-    <tag k="addr:city" v="Island Pond"/>
-    <tag k="addr:housenumber" v="1445"/>
-    <tag k="addr:street" v="South Shore Trail"/>
-    <tag k="addr:postcode" v="05846"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37817"/>
-  </node>
-  <node id="-117" visible="true" lat="44.82931665691" lon="-71.849053438523">
-    <!-- conflict: "1342 South Shore Trail, Island Pond, VT" No match in OSM, but a different address exists <5m away: "1342 Henshaw Road, , VT" -->
-    <tag k="addr:city" v="Island Pond"/>
-    <tag k="addr:housenumber" v="1342"/>
-    <tag k="addr:street" v="South Shore Trail"/>
-    <tag k="addr:postcode" v="05846"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37822"/>
-  </node>
-  <node id="-126" visible="true" lat="44.826882879446" lon="-71.850831088774">
-    <!-- conflict: "1142 South Shore Trail, Island Pond, VT" No match in OSM, but a different address exists <5m away: "1142 Henshaw Road, , VT" -->
-    <tag k="addr:city" v="Island Pond"/>
-    <tag k="addr:housenumber" v="1142"/>
-    <tag k="addr:street" v="South Shore Trail"/>
-    <tag k="addr:postcode" v="05846"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37831"/>
-  </node>
-  <node id="-131" visible="true" lat="44.826188604603" lon="-71.849610383942">
-    <!-- conflict: "958 South Shore Trail, Island Pond, VT" No match in OSM, but a different address exists <5m away: "958 Henshaw Road, , VT" -->
-    <tag k="addr:city" v="Island Pond"/>
-    <tag k="addr:housenumber" v="958"/>
-    <tag k="addr:street" v="South Shore Trail"/>
-    <tag k="addr:postcode" v="05846"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="37836"/>
-  </node>
   <node id="-454" visible="true" lat="44.809918917716" lon="-71.861344395935">
     <!-- conflict: "1348 East Brighton Road, Island Pond, VT" Fuzzy match to "1348 East Brighton Road, , " -->
     <tag k="addr:city" v="Island Pond"/>
@@ -71,14 +26,5 @@
     <tag k="addr:postcode" v="05846"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="38700"/>
-  </node>
-  <node id="-1093" visible="true" lat="44.81958942436" lon="-71.841782091564">
-    <!-- conflict: "650 Bonnyvale Road, Island Pond, VT" No match in OSM, but a different address exists <5m away: "650 Beecher Pond Road, , VT" -->
-    <tag k="addr:city" v="Island Pond"/>
-    <tag k="addr:housenumber" v="650"/>
-    <tag k="addr:street" v="Bonnyvale Road"/>
-    <tag k="addr:postcode" v="05846"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755683"/>
   </node>
 </osm>

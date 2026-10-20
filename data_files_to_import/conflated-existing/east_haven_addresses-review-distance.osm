@@ -9,13 +9,31 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="90560"/>
   </node>
-  <node id="-296" visible="true" lat="44.645771678594" lon="-71.85629145659">
-    <!-- offset: "1145 Radar Road, East Haven, VT" Significant offset - 166.6m -->
+  <node id="-262" visible="true" lat="44.640282217378" lon="-71.859771893588">
+    <!-- offset: "581 George's Boulevard, East Haven, VT" Significant offset - 603.4m -->
     <tag k="addr:city" v="East Haven"/>
-    <tag k="addr:housenumber" v="1145"/>
-    <tag k="addr:street" v="Radar Road"/>
+    <tag k="addr:housenumber" v="581"/>
+    <tag k="addr:street" v="George's Boulevard"/>
     <tag k="addr:postcode" v="05837"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="90753"/>
+    <tag k="ref:vcgi:esiteid" v="90718"/>
+  </node>
+  <node id="-263" visible="true" lat="44.636865787951" lon="-71.849729816755">
+    <!-- offset: "583 George's Boulevard, East Haven, VT" Significant offset - 200m -->
+    <tag k="addr:city" v="East Haven"/>
+    <tag k="addr:housenumber" v="583"/>
+    <tag k="addr:street" v="George's Boulevard"/>
+    <tag k="addr:postcode" v="05837"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="90719"/>
+  </node>
+  <node id="-268" visible="true" lat="44.621476274403" lon="-71.840964415093">
+    <!-- offset: "1353 George's Boulevard, East Haven, VT" Significant offset - 575m -->
+    <tag k="addr:city" v="East Haven"/>
+    <tag k="addr:housenumber" v="1353"/>
+    <tag k="addr:street" v="George's Boulevard"/>
+    <tag k="addr:postcode" v="05837"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="90724"/>
   </node>
 </osm>

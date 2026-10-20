@@ -207,25 +207,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106570"/>
   </node>
-  <node id="-745" visible="true" lat="44.177711750436" lon="-72.884878752634">
-    <!-- conflict: "17 German Flats Road, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "849 German Flats Road, , VT" -->
-    <tag k="addr:city" v="Waitsfield"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="German Flats Road"/>
-    <tag k="addr:postcode" v="05673"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="106577"/>
-  </node>
-  <node id="-746" visible="true" lat="44.177637543272" lon="-72.885576661917">
-    <!-- conflict: "61 German Flats Road, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "851 German Flats Road, , VT" -->
-    <tag k="addr:city" v="Waitsfield"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="German Flats Road"/>
-    <tag k="addr:postcode" v="05673"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="106578"/>
-  </node>
-  <node id="-1182" visible="true" lat="44.201003383868" lon="-72.895033886566">
+  <node id="-1184" visible="true" lat="44.201003383868" lon="-72.895033886566">
     <!-- conflict: "9 Battleground, Waitsfield, VT" Fuzzy match to "9 Battleground Road, , VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="9"/>

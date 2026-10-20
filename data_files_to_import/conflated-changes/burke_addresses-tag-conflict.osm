@@ -63,4 +63,13 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="315351"/>
   </node>
+  <node id="-1286" visible="true" lat="44.616481151404" lon="-71.880745136657">
+    <!-- conflict: "59 Hamel Beer Drive, East Burke, VT" No match in OSM, but a different address exists <5m away: "61 Hamel Beer Drive, , VT" -->
+    <tag k="addr:city" v="East Burke"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Hamel Beer Drive"/>
+    <tag k="addr:postcode" v="05832"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769543"/>
+  </node>
 </osm>

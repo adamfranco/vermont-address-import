@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-939" visible="true" lat="44.554390652586" lon="-72.517212546802">
+    <tag k="addr:city" v="Wolcott"/>
+    <tag k="addr:housenumber" v="515"/>
+    <tag k="addr:street" v="Brookview Lane"/>
+    <tag k="addr:postcode" v="05680"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656904"/>
+  </node>
   <node id="-1071" visible="true" lat="44.623146692717" lon="-72.46035299361">
     <tag k="addr:city" v="Wolcott"/>
     <tag k="addr:housenumber" v="99"/>
@@ -39,5 +47,13 @@
     <tag k="addr:postcode" v="05680"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773903"/>
+  </node>
+  <node id="-1078" visible="true" lat="44.578180710153" lon="-72.474830765513">
+    <tag k="addr:city" v="Wolcott"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Wild Branch Lane"/>
+    <tag k="addr:postcode" v="05680"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774404"/>
   </node>
 </osm>

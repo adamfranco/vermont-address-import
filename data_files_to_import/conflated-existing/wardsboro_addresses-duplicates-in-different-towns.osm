@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-963" visible="true" lat="43.052609614001" lon="-72.834681821825">
-    <!-- duplicates-in-different-towns: "38 Hemlock Hill Road, Stratton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 135414: "38 Hemlock Hill Road, Jamaica, VT" -->
-    <tag k="addr:city" v="Stratton"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="Hemlock Hill Road"/>
-    <tag k="addr:postcode" v="05360"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454473"/>
-  </node>
-  <node id="-1001" visible="true" lat="43.010352247985" lon="-72.871980989906">
-    <!-- duplicates-in-different-towns: "7024 Vermont Route 100, Stratton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773056: "7024 Vermont Route 100, , VT" -->
-    <tag k="addr:city" v="Stratton"/>
+  <node id="-999" visible="true" lat="43.010352247985" lon="-72.871980989906">
+    <!-- duplicates-in-different-towns: "7024 Vermont Route 100, West Wardsboro, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773056: "7024 Vermont Route 100, , VT" -->
+    <tag k="addr:city" v="West Wardsboro"/>
     <tag k="addr:housenumber" v="7024"/>
     <tag k="addr:street" v="Vermont Route 100"/>
     <tag k="addr:postcode" v="05360"/>

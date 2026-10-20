@@ -27,6 +27,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="999"/>
   </node>
+  <node id="-106" visible="true" lat="43.792686946661" lon="-72.654465224279">
+    <!-- city-conflict: "50 Lichtenberger Road, Bethel, VT" City conflict match to "50 Lichtenberger Road, , VT" -->
+    <tag k="addr:city" v="Bethel"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Lichtenberger Road"/>
+    <tag k="addr:postcode" v="05032"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="5944"/>
+  </node>
   <node id="-107" visible="true" lat="43.791436113694" lon="-72.649285890366">
     <!-- city-conflict: "432 Old Route 12, Bethel, VT" City conflict match to "432 Old Route 12, , VT" -->
     <tag k="addr:city" v="Bethel"/>
@@ -71,6 +80,15 @@
     <tag k="addr:postcode" v="05032"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="5949"/>
+  </node>
+  <node id="-112" visible="true" lat="43.788551190607" lon="-72.649466224379">
+    <!-- city-conflict: "145 Lichtenberger Road, Bethel, VT" City conflict match to "145 Lichtenberger Road, , VT" -->
+    <tag k="addr:city" v="Bethel"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:street" v="Lichtenberger Road"/>
+    <tag k="addr:postcode" v="05032"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="5950"/>
   </node>
   <node id="-113" visible="true" lat="43.787352874312" lon="-72.643813470791">
     <!-- city-conflict: "10622 Vermont Route 12, Bethel, VT" City conflict match to "10622 Vermont Route 12, , VT" -->
@@ -5202,6 +5220,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617471"/>
   </node>
+  <node id="-883" visible="true" lat="43.785688301155" lon="-72.648679548423">
+    <!-- city-conflict: "381 Lichtenberger Road, Bethel, VT" City conflict match to "381 Lichtenberger Road, , VT" -->
+    <tag k="addr:city" v="Bethel"/>
+    <tag k="addr:housenumber" v="381"/>
+    <tag k="addr:street" v="Lichtenberger Road"/>
+    <tag k="addr:postcode" v="05032"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617595"/>
+  </node>
   <node id="-884" visible="true" lat="43.730574309847" lon="-72.617721915211">
     <!-- city-conflict: "117 North Road, Barnard, VT" City conflict match to "117 North Road, , VT" -->
     <tag k="addr:city" v="Barnard"/>
@@ -5274,7 +5301,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620567"/>
   </node>
-  <node id="-893" visible="true" lat="43.734700819563" lon="-72.6293132198">
+  <node id="-893" visible="true" lat="43.734758871368" lon="-72.629318511072">
     <!-- city-conflict: "294 West Road, Bethel, VT" City conflict match to "294 West Road, , VT" -->
     <tag k="addr:city" v="Bethel"/>
     <tag k="addr:housenumber" v="294"/>
@@ -5544,6 +5571,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764091"/>
   </node>
+  <node id="-973" visible="true" lat="43.674761175395" lon="-72.584308192845">
+    <!-- city-conflict: "42 Starry Hill Drive, Woodstock, VT" City conflict match to "42 Starry Hill Drive, , VT" -->
+    <tag k="addr:city" v="Woodstock"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Starry Hill Drive"/>
+    <tag k="addr:postcode" v="05091"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765571"/>
+  </node>
   <node id="-974" visible="true" lat="43.739693238182" lon="-72.635086788288">
     <!-- city-conflict: "341 Placer Road, Bethel, VT" City conflict match to "341 Placer Road, , VT" -->
     <tag k="addr:city" v="Bethel"/>
@@ -5724,7 +5760,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768803"/>
   </node>
-  <node id="-995" visible="true" lat="43.734187849464" lon="-72.622626795803">
+  <node id="-995" visible="true" lat="43.734261111084" lon="-72.62242031531">
     <!-- city-conflict: "114 Davis Road, Barnard, VT" City conflict match to "114 Davis Road, , VT" -->
     <tag k="addr:city" v="Barnard"/>
     <tag k="addr:housenumber" v="114"/>
@@ -5733,7 +5769,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769693"/>
   </node>
-  <node id="-996" visible="true" lat="43.721362012747" lon="-72.597644332494">
+  <node id="-996" visible="true" lat="43.721430297332" lon="-72.597687413144">
     <!-- city-conflict: "5203 Stage Road, Barnard, VT" City conflict match to "5203 Stage Road, , VT" -->
     <tag k="addr:city" v="Barnard"/>
     <tag k="addr:housenumber" v="5203"/>
