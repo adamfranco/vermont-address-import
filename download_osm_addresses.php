@@ -20,7 +20,7 @@ $stateQuery = <<<END
   nwr["ref:vcgi:esiteid"](43.107886,-73.267879,43.122276,-73.264110);
 );
 (._;);
-out center;
+out center meta;
 END;
 $overpassUrl = "http://overpass-api.de/api/interpreter?data=".rawurlencode($stateQuery);
 
