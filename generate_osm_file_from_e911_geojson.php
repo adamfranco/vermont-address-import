@@ -76,6 +76,7 @@ $postalCommunities = json_decode(file_get_contents(__DIR__.'/town-postal-communi
 
 foreach($data['features'] as $feature) {
     $feature_errors = array();
+    $non_fatal_feature_errors = array();
 
     if(!empty($feature['properties']['ESITEID'])) {
         $esiteid = $feature['properties']['ESITEID'];
@@ -189,8 +190,6 @@ foreach($data['features'] as $feature) {
         $feature_errors[] = "Post_Code value is empty (esiteid: " . $esiteid . ")";
     }
 
-    $all_errors[] = $feature_errors;
-
     // Exceptions for Post Offices that have different postal communities than
     // the rest of their Town.
 
@@ -212,6 +211,39 @@ foreach($data['features'] as $feature) {
     if ($postal_community == 'Montpelier' && $street == 'Maplewood Road') {
       $postal_community = 'East Montpelier';
     }
+
+    // "North Burlington" is not a valid postal community.
+    if ($postal_community == 'North Burlington' && !preg_match("/ North Burlington( VT)?( [0-9]{5})?$/i", $feature['properties']['PrimaryAddress2'])) {
+      $postal_community = 'Burlington';
+    }
+
+    // "University of Vermont" is not a valid postal community.
+    if ($postal_community == 'Univeristy of Vermont' && preg_match("/ ((South )?Burlington)( VT)?( [0-9]{5})?$/i", $feature['properties']['PrimaryAddress2'], $m)) {
+      $postal_community = ucfirst(strtolower($m[1]));
+    }
+
+    // Validate that the postal_community and post-code match
+    // the PrimaryAddress2 field in the data.
+    //
+    // Some examples (like UVM campus addresses) had Post_Comm
+    // set to something else ("University of Vermont") even though
+    // the addresses are actually Burlington in PrimaryAddress2.
+    if (!empty($postal_community) && !empty($post_code)) {
+      $regex = "/ " . $postal_community . "( VT)?( " . $post_code . ')?$/i';
+      if (!preg_match($regex, $feature['properties']['PrimaryAddress2'])) {
+        $non_fatal_feature_errors[] = "Mismatch between PrimaryAddress2 and the discovered Post_Comm and Post_Code: (esiteid: " . $esiteid . ") Found \"" . $postal_community . " VT " . $post_code . "\" expected  \"" . $feature['properties']['PrimaryAddress2'] . '" ';
+      }
+    }
+
+    // Annotate feature errors with the source.
+    foreach ($feature_errors as $k => $v) {
+      $feature_errors[$k] = $v . " " . json_encode($feature['properties']);
+    }
+    foreach ($non_fatal_feature_errors as $k => $v) {
+      $non_fatal_feature_errors[$k] = $v . " " . json_encode($feature['properties']);
+    }
+    $all_errors[] = $feature_errors;
+    $all_errors[] = $non_fatal_feature_errors;
 
     // if we don't have any errors in our data
     if(count($feature_errors) == 0 && $output_type == "osm") {
