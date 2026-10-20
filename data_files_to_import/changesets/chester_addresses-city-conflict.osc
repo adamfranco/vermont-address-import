@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <node id="9061334753" lat="43.3440294" lon="-72.5459697" version="2" timestamp="2025-09-14T21:06:07Z" changeset="171937212" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "180 Baltimore Road, Chester, VT 05143" to "180 Baltimore Road, North Springfield, VT 05150". -->
+    <tag k="addr:city" v="North Springfield"/>
+    <tag k="addr:housenumber" v="180"/>
+    <tag k="addr:postcode" v="05150"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Baltimore Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="65810"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9061334748" lat="43.3448418" lon="-72.5471229" version="2" timestamp="2025-09-14T21:06:07Z" changeset="171937212" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "190 Baltimore Road, Chester, VT 05143" to "190 Baltimore Road, North Springfield, VT 05150". -->
+    <tag k="addr:city" v="North Springfield"/>
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:postcode" v="05150"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Baltimore Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="67439"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9061334754" lat="43.3433288" lon="-72.5460463" version="2" timestamp="2025-09-14T21:06:07Z" changeset="171937212" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "170 Baltimore Road, Chester, VT 05143" to "170 Baltimore Road, North Springfield, VT 05150". -->
+    <tag k="addr:city" v="North Springfield"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:postcode" v="05150"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Baltimore Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="344430"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+</modify>
+</osmChange>

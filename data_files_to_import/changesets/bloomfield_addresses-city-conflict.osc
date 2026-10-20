@@ -1,0 +1,2864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <way id="1127822637" version="1" timestamp="2023-01-06T15:26:56Z" changeset="130952355" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "5406 East Branch Road, Bloomfield, VT 05905" to "5406 East Branch Road, Guildhall, VT 05905". -->
+    <center lat="44.8503335" lon="-71.6800207"/>
+    <nd ref="10245100639"/>
+    <nd ref="10311304575"/>
+    <nd ref="10311304576"/>
+    <nd ref="10311304577"/>
+    <nd ref="10311304578"/>
+    <nd ref="10311304579"/>
+    <nd ref="10311304580"/>
+    <nd ref="10311304581"/>
+    <nd ref="10245100639"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="5406"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="24991"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <way id="993768327" version="2" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "5230 East Branch Road, Bloomfield, VT 05905" to "5230 East Branch Road, Guildhall, VT 05905". -->
+    <center lat="44.8481107" lon="-71.6779020"/>
+    <nd ref="10245100638"/>
+    <nd ref="9181347887"/>
+    <nd ref="9181347886"/>
+    <nd ref="9181347885"/>
+    <nd ref="10245100638"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="5230"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="24992"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="12724354300" lat="44.8469937" lon="-71.6660820" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "597 Mink Brook Road, Bloomfield, VT " to "597 Mink Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="597"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mink Brook Road"/>
+    <tag k="ref:vcgi:esiteid" v="24993"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <way id="1127822636" version="1" timestamp="2023-01-06T15:26:56Z" changeset="130952355" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "4583 East Branch Road, Bloomfield, VT 05905" to "4583 East Branch Road, Guildhall, VT 05905". -->
+    <center lat="44.8406415" lon="-71.6753500"/>
+    <nd ref="10245100636"/>
+    <nd ref="10311304572"/>
+    <nd ref="10311304573"/>
+    <nd ref="10311304574"/>
+    <nd ref="10245100636"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4583"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="24994"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="10245100635" lat="44.8387301" lon="-71.6731899" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "4504 East Branch Road, Bloomfield, VT 05905" to "4504 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4504"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="24995"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1127822631" version="1" timestamp="2023-01-06T15:26:56Z" changeset="130952355" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3797 East Branch Road, Bloomfield, VT 05905" to "3797 East Branch Road, Guildhall, VT 05905". -->
+    <center lat="44.8292719" lon="-71.6753823"/>
+    <nd ref="10245100634"/>
+    <nd ref="10311304558"/>
+    <nd ref="10311304559"/>
+    <nd ref="10311304560"/>
+    <nd ref="10311304561"/>
+    <nd ref="10311304562"/>
+    <nd ref="10245100634"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3797"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="24996"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="12724354299" lat="44.8268893" lon="-71.5815655" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "722 Crank Road, Bloomfield, VT " to "722 Crank Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="722"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Crank Road"/>
+    <tag k="ref:vcgi:esiteid" v="24997"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9909854242" lat="44.8264227" lon="-71.5656314" version="1" timestamp="2022-07-25T14:57:57Z" changeset="124056475" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "6831 Vermont Route 102, Bloomfield, VT 05905" to "6831 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="6831"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="24998"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9909854243" lat="44.8258457" lon="-71.5686184" version="1" timestamp="2022-07-25T14:57:57Z" changeset="124056475" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "6695 Vermont Route 102, Bloomfield, VT 05905" to "6695 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="6695"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="24999"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="10245100633" lat="44.8257970" lon="-71.6734624" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3558 East Branch Road, Bloomfield, VT 05905" to "3558 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3558"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25000"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354298" lat="44.8237241" lon="-71.5803037" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "502 Crank Road, Bloomfield, VT " to "502 Crank Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="502"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Crank Road"/>
+    <tag k="ref:vcgi:esiteid" v="25001"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9909854247" lat="44.8232059" lon="-71.5685252" version="1" timestamp="2022-07-25T14:57:57Z" changeset="124056475" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "6548 Vermont Route 102, Bloomfield, VT 05905" to "6548 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="6548"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25002"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9909854249" lat="44.8231353" lon="-71.5739971" version="1" timestamp="2022-07-25T14:57:57Z" changeset="124056475" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "6487 Vermont Route 102, Bloomfield, VT 05905" to "6487 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="6487"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25003"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354297" lat="44.8229111" lon="-71.5799518" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "412 Crank Road, Bloomfield, VT " to "412 Crank Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="412"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Crank Road"/>
+    <tag k="ref:vcgi:esiteid" v="25004"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9909854248" lat="44.8217862" lon="-71.5729761" version="1" timestamp="2022-07-25T14:57:57Z" changeset="124056475" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "6345 Vermont Route 102, Bloomfield, VT 05905" to "6345 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="6345"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25005"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1127822628" version="1" timestamp="2023-01-06T15:26:56Z" changeset="130952355" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3135 East Branch Road, Bloomfield, VT 05905" to "3135 East Branch Road, Guildhall, VT 05905". -->
+    <center lat="44.8203954" lon="-71.6720615"/>
+    <nd ref="10245100632"/>
+    <nd ref="10311304549"/>
+    <nd ref="10311304550"/>
+    <nd ref="10311304551"/>
+    <nd ref="10311304552"/>
+    <nd ref="10311304553"/>
+    <nd ref="10245100632"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3135"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25006"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9909854250" lat="44.8181954" lon="-71.5758228" version="1" timestamp="2022-07-25T14:57:57Z" changeset="124056475" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "26 Crank Road, Bloomfield, VT 05905" to "26 Crank Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Crank Road"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25007"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="10245100631" lat="44.8187309" lon="-71.6727610" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2990 East Branch Road, Bloomfield, VT 05905" to "2990 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2990"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25008"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9909854251" lat="44.8175882" lon="-71.5762062" version="1" timestamp="2022-07-25T14:57:57Z" changeset="124056475" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "6013 Vermont Route 102, Bloomfield, VT 05905" to "6013 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="6013"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25009"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354296" lat="44.8172940" lon="-71.5764615" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "6001 Vermont Route 102, Bloomfield, VT " to "6001 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="6001"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25010"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="10245100630" lat="44.8162621" lon="-71.6712160" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2802 East Branch Road, Bloomfield, VT 05905" to "2802 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2802"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25011"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354295" lat="44.8149377" lon="-71.5780600" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5897 Vermont Route 102, Bloomfield, VT " to "5897 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="5897"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25012"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354294" lat="44.8119778" lon="-71.5772842" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "153 Spur Road, Bloomfield, VT " to "153 Spur Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spur Road"/>
+    <tag k="ref:vcgi:esiteid" v="25013"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354293" lat="44.8113462" lon="-71.5752449" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5562 Vermont Route 102, Bloomfield, VT " to "5562 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="5562"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25014"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="10245100629" lat="44.8120112" lon="-71.6659267" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2404 East Branch Road, Bloomfield, VT 05905" to "2404 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2404"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25015"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354292" lat="44.8113022" lon="-71.5763994" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "94 Spur Road, Bloomfield, VT " to "94 Spur Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spur Road"/>
+    <tag k="ref:vcgi:esiteid" v="25016"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9910104903" lat="44.8112891" lon="-71.5901510" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1149 Stevens Road, Bloomfield, VT 05905" to "1149 Stevens Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1149"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stevens Road"/>
+    <tag k="ref:vcgi:esiteid" v="25017"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354291" lat="44.8103800" lon="-71.5762373" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "53 Spur Road, Bloomfield, VT " to "53 Spur Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spur Road"/>
+    <tag k="ref:vcgi:esiteid" v="25018"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354290" lat="44.8082178" lon="-71.5751992" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5305 Vermont Route 102, Bloomfield, VT " to "5305 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="5305"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25019"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9910104676" lat="44.8069281" lon="-71.5698614" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "4950 Vermont Route 102, Bloomfield, VT 05905" to "4950 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4950"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25020"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354289" lat="44.8068416" lon="-71.5744223" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5253 Vermont Route 102, Bloomfield, VT " to "5253 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="5253"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25021"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9910104927" lat="44.8064747" lon="-71.5835255" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "645 Stevens Road, Bloomfield, VT 05905" to "645 Stevens Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="645"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stevens Road"/>
+    <tag k="ref:vcgi:esiteid" v="25022"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="902446117" version="2" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5084 Vermont Route 102, Bloomfield, VT " to "5084 Vermont Route 102, Guildhall, VT 05905". -->
+    <center lat="44.8049730" lon="-71.5720885"/>
+    <nd ref="8382004131"/>
+    <nd ref="8382004132"/>
+    <nd ref="8382004133"/>
+    <nd ref="8382004134"/>
+    <nd ref="8382004135"/>
+    <nd ref="8382004136"/>
+    <nd ref="8382004131"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="5084"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25023"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05905"/></way>
+  <way id="902446120" version="2" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5075 Vermont Route 102, Bloomfield, VT " to "5075 Vermont Route 102, Guildhall, VT 05905". -->
+    <center lat="44.8048475" lon="-71.5740065"/>
+    <nd ref="8382004145"/>
+    <nd ref="8382004146"/>
+    <nd ref="8382004147"/>
+    <nd ref="8382004148"/>
+    <nd ref="8382004149"/>
+    <nd ref="8382004150"/>
+    <nd ref="8382004145"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="5075"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25024"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05905"/></way>
+  <node id="9910104956" lat="44.8046240" lon="-71.6040953" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "7 Brown Road, Bloomfield, VT 05905" to "7 Brown Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Brown Road"/>
+    <tag k="ref:vcgi:esiteid" v="25025"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="902446119" version="2" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5029 Vermont Route 102, Bloomfield, VT " to "5029 Vermont Route 102, Guildhall, VT 05905". -->
+    <center lat="44.8042545" lon="-71.5744365"/>
+    <nd ref="8382004141"/>
+    <nd ref="8382004142"/>
+    <nd ref="8382004143"/>
+    <nd ref="8382004144"/>
+    <nd ref="8382004141"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="5029"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25026"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05905"/></way>
+  <way id="1118944871" version="1" timestamp="2022-12-02T16:35:28Z" changeset="129651092" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2848 Stone Dam Road, Bloomfield, VT 05905" to "2848 Stone Dam Road, Guildhall, VT 05905". -->
+    <center lat="44.8035570" lon="-71.7066805"/>
+    <nd ref="10233419368"/>
+    <nd ref="10233419365"/>
+    <nd ref="10233419366"/>
+    <nd ref="10233419367"/>
+    <nd ref="10233419368"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2848"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stone Dam Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25027"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9910104955" lat="44.8022305" lon="-71.6010886" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "198 Cross Road, Bloomfield, VT 05905" to "198 Cross Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="198"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cross Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25029"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104930" lat="44.8022050" lon="-71.5769900" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "186 Stevens Road, Bloomfield, VT 05905" to "186 Stevens Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stevens Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25030"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1118944872" version="1" timestamp="2022-12-02T16:35:28Z" changeset="129651092" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2757 Stone Dam Road, Bloomfield, VT 05905" to "2757 Stone Dam Road, Guildhall, VT 05905". -->
+    <center lat="44.8025285" lon="-71.7077290"/>
+    <nd ref="10233419371"/>
+    <nd ref="10233419369"/>
+    <nd ref="10233419372"/>
+    <nd ref="10233419374"/>
+    <nd ref="10233419373"/>
+    <nd ref="10233419370"/>
+    <nd ref="10233419371"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2757"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stone Dam Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25031"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9910104931" lat="44.8011589" lon="-71.5772488" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "139 Stevens Road, Bloomfield, VT 05905" to "139 Stevens Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stevens Road"/>
+    <tag k="ref:vcgi:esiteid" v="25032"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="902446130" version="2" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "4703 Vermont Route 102, Bloomfield, VT 05905" to "4703 Vermont Route 102, Guildhall, VT 05905". -->
+    <center lat="44.8000400" lon="-71.5747515"/>
+    <nd ref="9910104932"/>
+    <nd ref="8382004195"/>
+    <nd ref="8382004196"/>
+    <nd ref="8382004197"/>
+    <nd ref="9910104932"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4703"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25034"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="10245100628" lat="44.8004504" lon="-71.6659870" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1583 East Branch Road, Bloomfield, VT 05905" to "1583 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1583"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25035"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1118944876" version="1" timestamp="2022-12-02T16:35:28Z" changeset="129651092" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2435 Stone Dam Road, Bloomfield, VT 05905" to "2435 Stone Dam Road, Guildhall, VT 05905". -->
+    <center lat="44.8001282" lon="-71.7015655"/>
+    <nd ref="10233419401"/>
+    <nd ref="10233419402"/>
+    <nd ref="10233419403"/>
+    <nd ref="10233419404"/>
+    <nd ref="10233419405"/>
+    <nd ref="10233419406"/>
+    <nd ref="10233419401"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2435"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stone Dam Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25036"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9912967382" lat="44.7995217" lon="-71.6259833" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1146 Snow Hill Road, Bloomfield, VT 05905" to "1146 Snow Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1146"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Snow Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="25037"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967381" lat="44.7981374" lon="-71.6252993" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1252 Snow Hill Road, Bloomfield, VT 05905" to "1252 Snow Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1252"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Snow Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="25039"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1120365688" version="1" timestamp="2022-12-08T16:10:04Z" changeset="129867287" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2276 Stone Dam Road, Bloomfield, VT 05905" to "2276 Stone Dam Road, Guildhall, VT 05905". -->
+    <center lat="44.7982246" lon="-71.6998784"/>
+    <nd ref="10247064521"/>
+    <nd ref="10247064522"/>
+    <nd ref="10247064523"/>
+    <nd ref="10247064524"/>
+    <nd ref="10247064525"/>
+    <nd ref="10247064526"/>
+    <nd ref="10247064521"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2276"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stone Dam Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25040"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9910104933" lat="44.7959036" lon="-71.5766788" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "4399 Vermont Route 102, Bloomfield, VT 05905" to "4399 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4399"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25041"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="902446131" version="2" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4273 Vermont Route 102, Bloomfield, VT " to "4273 Vermont Route 102, Guildhall, VT 05905". -->
+    <center lat="44.7941110" lon="-71.5779075"/>
+    <nd ref="8382004198"/>
+    <nd ref="8382004199"/>
+    <nd ref="8382004200"/>
+    <nd ref="8382004201"/>
+    <nd ref="8382004198"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4273"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25042"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05905"/></way>
+  <node id="9912967380" lat="44.7997815" lon="-71.6199937" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "630 Snow Hill Road, Bloomfield, VT 05905" to "630 Snow Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="630"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Snow Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="25043"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967379" lat="44.7941211" lon="-71.6179652" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "655 Snow Hill Road, Bloomfield, VT 05905" to "655 Snow Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="655"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Snow Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="25044"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="902446135" version="2" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4205 Vermont Route 102, Bloomfield, VT " to "4205 Vermont Route 102, Guildhall, VT 05905". -->
+    <center lat="44.7931696" lon="-71.5782702"/>
+    <nd ref="8382004622"/>
+    <nd ref="8382004623"/>
+    <nd ref="8382004624"/>
+    <nd ref="8382004625"/>
+    <nd ref="8382004626"/>
+    <nd ref="8382004627"/>
+    <nd ref="8382004622"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4205"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25045"/>
+  <tag k="addr:postcode" v="05905"/></way>
+  <node id="9910104966" lat="44.7928794" lon="-71.6067904" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1127 Mill Brook Road, Bloomfield, VT 05905" to "1127 Mill Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1127"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="ref:vcgi:esiteid" v="25046"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104934" lat="44.7922556" lon="-71.5780934" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "4121 Vermont Route 102, Bloomfield, VT 05905" to "4121 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4121"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25047"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="10245100627" lat="44.7927151" lon="-71.6651933" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1062 East Branch Road, Bloomfield, VT 05905" to "1062 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1062"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25048"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354288" lat="44.7915126" lon="-71.6115692" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "389 Snow Hill Road, Bloomfield, VT " to "389 Snow Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="389"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Snow Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="25050"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="10245100626" lat="44.7912439" lon="-71.6653706" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "975 East Branch Road, Bloomfield, VT 05905" to "975 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="975"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25051"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104937" lat="44.7899023" lon="-71.5807860" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3919 Vermont Route 102, Bloomfield, VT 05905" to "3919 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3919"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25052"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104936" lat="44.7895002" lon="-71.5795533" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3946 Vermont Route 102, Bloomfield, VT 05905" to "3946 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3946"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25054"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104935" lat="44.7893074" lon="-71.5818137" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3841 Vermont Route 102, Bloomfield, VT 05905" to "3841 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3841"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25055"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104952" lat="44.7907174" lon="-71.5976213" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "619 Fuller Road, Bloomfield, VT 05905" to "619 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="619"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="ref:vcgi:esiteid" v="25056"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="902446137" version="2" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3902 Vermont Route 102, Bloomfield, VT 05905" to "3902 Vermont Route 102, Guildhall, VT 05905". -->
+    <center lat="44.7889145" lon="-71.5802130"/>
+    <nd ref="9910104938"/>
+    <nd ref="8382004633"/>
+    <nd ref="8382004634"/>
+    <nd ref="8382004635"/>
+    <nd ref="8382004636"/>
+    <nd ref="8382004637"/>
+    <nd ref="9910104938"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3902"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25057"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9910104965" lat="44.7902292" lon="-71.6067691" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "84 Snow Hill Road, Bloomfield, VT 05905" to "84 Snow Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Snow Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="25058"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="902446142" version="2" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3904 Vermont Route 102, Bloomfield, VT " to "3904 Vermont Route 102, Guildhall, VT 05905". -->
+    <center lat="44.7883480" lon="-71.5796174"/>
+    <nd ref="8382004657"/>
+    <nd ref="8382004658"/>
+    <nd ref="8382004659"/>
+    <nd ref="8382004660"/>
+    <nd ref="8382004657"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3904"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25059"/>
+  <tag k="addr:postcode" v="05905"/></way>
+  <node id="10245100625" lat="44.7893532" lon="-71.6628862" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "776 East Branch Road, Bloomfield, VT 05905" to "776 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="776"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25060"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104939" lat="44.7882505" lon="-71.5821340" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3785 Vermont Route 102, Bloomfield, VT 05905" to "3785 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3785"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25062"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104940" lat="44.7872651" lon="-71.5816391" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3754 Vermont Route 102, Bloomfield, VT 05905" to "3754 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3754"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25063"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="10245100624" lat="44.7857464" lon="-71.6603739" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "508 East Branch Road, Bloomfield, VT 05905" to "508 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="508"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25065"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104942" lat="44.7853046" lon="-71.5884391" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3399 Vermont Route 102, Bloomfield, VT 05905" to "3399 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3399"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25066"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="10245100623" lat="44.7856895" lon="-71.6617801" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "601 East Branch Road, Bloomfield, VT 05905" to "601 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25067"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354287" lat="44.7854423" lon="-71.6605072" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "495 East Branch Road, Bloomfield, VT " to "495 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="495"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25068"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9910104948" lat="44.7842687" lon="-71.5965880" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "183 Fuller Road, Bloomfield, VT 05905" to "183 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25070"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="902446147" version="2" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3217 Vermont Route 102, Bloomfield, VT 05905" to "3217 Vermont Route 102, Guildhall, VT 05905". -->
+    <center lat="44.7840950" lon="-71.5919585"/>
+    <nd ref="9910104943"/>
+    <nd ref="8382004693"/>
+    <nd ref="8382004694"/>
+    <nd ref="8382004695"/>
+    <nd ref="9910104943"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3217"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25071"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9910104962" lat="44.7831968" lon="-71.6039071" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "461 Mill Brook Road, Bloomfield, VT 05905" to "461 Mill Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="461"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="ref:vcgi:esiteid" v="25072"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104944" lat="44.7827720" lon="-71.5942913" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "9 Fuller Road, Bloomfield, VT 05905" to "9 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25074"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="10245100621" lat="44.7830544" lon="-71.6587627" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "296 East Branch Road, Bloomfield, VT 05905" to "296 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="296"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="ref:vcgi:esiteid" v="25075"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="10245100622" lat="44.7828101" lon="-71.6590518" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "287 East Branch Road, Bloomfield, VT 05905" to "287 East Branch Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="287"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Branch Road"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25076"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104946" lat="44.7820482" lon="-71.5944579" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3042 Vermont Route 102, Bloomfield, VT 05905" to "3042 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3042"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="religious"/>
+    <tag k="ref:vcgi:esiteid" v="25077"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104947" lat="44.7822621" lon="-71.5954441" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3025 Vermont Route 102, Bloomfield, VT 05905" to "3025 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3025"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25078"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354286" lat="44.7810994" lon="-71.6007281" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "244 Mill Brook Road, Bloomfield, VT " to "244 Mill Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="ref:vcgi:esiteid" v="25080"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354285" lat="44.7808619" lon="-71.5957669" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2902 Vermont Route 102, Bloomfield, VT " to "2902 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2902"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25081"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354284" lat="44.7807382" lon="-71.6012656" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "215 Mill Brook Road, Bloomfield, VT " to "215 Mill Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="ref:vcgi:esiteid" v="25082"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354283" lat="44.7796626" lon="-71.5993025" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "92 Mill Brook Road, Bloomfield, VT " to "92 Mill Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="ref:vcgi:esiteid" v="25083"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354282" lat="44.7786771" lon="-71.5991954" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "61 Mill Brook Road, Bloomfield, VT " to "61 Mill Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="ref:vcgi:esiteid" v="25084"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354281" lat="44.7785391" lon="-71.5970199" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2744 Vermont Route 102, Bloomfield, VT " to "2744 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2744"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25085"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354280" lat="44.7786662" lon="-71.5988047" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "37 Mill Brook Road, Bloomfield, VT " to "37 Mill Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="ref:vcgi:esiteid" v="25087"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9912967536" lat="44.7787463" lon="-71.6594446" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2622 Vermont Route 105, Bloomfield, VT 05905" to "2622 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2622"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25089"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354279" lat="44.7779428" lon="-71.6009969" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2679 Vermont Route 102, Bloomfield, VT " to "2679 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2679"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25091"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9912967540" lat="44.7786448" lon="-71.6653200" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2952 Vermont Route 105, Bloomfield, VT 05905" to "2952 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2952"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="25093"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967538" lat="44.7780275" lon="-71.6607254" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2699 Vermont Route 105, Bloomfield, VT 05905" to "2699 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2699"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25094"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967537" lat="44.7778880" lon="-71.6611167" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2717 Vermont Route 105, Bloomfield, VT 05905" to "2717 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2717"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25095"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354278" lat="44.7773699" lon="-71.6549958" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2367 Vermont Route 105, Bloomfield, VT " to "2367 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2367"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="25096"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9912967539" lat="44.7774154" lon="-71.6634130" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2835 Vermont Route 105, Bloomfield, VT 05905" to "2835 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2835"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25097"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="10245100619" lat="44.7774069" lon="-71.6492924" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "179 Norcott Lane, Bloomfield, VT 05905" to "179 Norcott Lane, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="179"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Norcott Lane"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25098"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967404" lat="44.7755710" lon="-71.6471128" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1930 Vermont Route 105, Bloomfield, VT 05905" to "1930 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1930"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25100"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967407" lat="44.7740172" lon="-71.6492810" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2029 Vermont Route 105, Bloomfield, VT 05905" to "2029 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2029"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="25101"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354277" lat="44.7749115" lon="-71.5981633" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2414 Vermont Route 102, Bloomfield, VT " to "2414 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2414"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25102"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354276" lat="44.7738976" lon="-71.6016444" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2384 Vermont Route 102, Bloomfield, VT " to "2384 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2384"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25103"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9912967403" lat="44.7743063" lon="-71.6447035" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1796 Vermont Route 105, Bloomfield, VT 05905" to "1796 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1796"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25104"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967399" lat="44.7718191" lon="-71.6427576" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1610 Vermont Route 105, Bloomfield, VT 05905" to "1610 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25105"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967400" lat="44.7711424" lon="-71.6434330" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1608 Vermont Route 105, Bloomfield, VT 05905" to "1608 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1608"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25106"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354275" lat="44.7708017" lon="-71.6057036" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2141 Vermont Route 102, Bloomfield, VT " to "2141 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2141"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25107"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9825705860" lat="44.7701567" lon="-71.6441769" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1523 Vermont Route 105, Bloomfield, VT 05905" to "1523 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1523"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25108"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967387" lat="44.7689176" lon="-71.6299832" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "200 Nugent Road, Bloomfield, VT 05905" to "200 Nugent Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Nugent Road"/>
+    <tag k="ref:vcgi:esiteid" v="25109"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354274" lat="44.7682389" lon="-71.6061115" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1928 Vermont Route 102, Bloomfield, VT " to "1928 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1928"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25110"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9912967388" lat="44.7677443" lon="-71.6291548" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "102 Nugent Road, Bloomfield, VT 05905" to "102 Nugent Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Nugent Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25111"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1195173716" version="1" timestamp="2023-08-06T06:18:16Z" changeset="139502985" uid="313111" user="melcomsx">
+    <!-- changed: Updated address from "1356 Vermont Route 105, Bloomfield, VT 05905" to "1356 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7678266" lon="-71.6429969"/>
+    <nd ref="9825705859"/>
+    <nd ref="11092849838"/>
+    <nd ref="11092849837"/>
+    <nd ref="11092849836"/>
+    <nd ref="11092849835"/>
+    <nd ref="11092849834"/>
+    <nd ref="11092849833"/>
+    <nd ref="11092849832"/>
+    <nd ref="9825705859"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1356"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25112"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9912967389" lat="44.7667891" lon="-71.6280304" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1100 Spencer Hill Road, Bloomfield, VT 05905" to "1100 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1100"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25113"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354273" lat="44.7664049" lon="-71.6119903" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "195 Daley Brook Lane, Bloomfield, VT " to "195 Daley Brook Lane, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Daley Brook Lane"/>
+    <tag k="ref:vcgi:esiteid" v="25114"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354272" lat="44.7658167" lon="-71.6126899" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "194 Daley Brook Lane, Bloomfield, VT " to "194 Daley Brook Lane, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Daley Brook Lane"/>
+    <tag k="ref:vcgi:esiteid" v="25115"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <way id="1070670688" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1203 Vermont Route 105, Bloomfield, VT 05905" to "1203 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7653345" lon="-71.6458540"/>
+    <nd ref="9825705850"/>
+    <nd ref="9825705855"/>
+    <nd ref="9825705856"/>
+    <nd ref="9825705857"/>
+    <nd ref="9825705850"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1203"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25116"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9044499806" lat="44.7642197" lon="-71.6126721" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1470 Vermont Route 102, Bloomfield, VT 05905" to "1470 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1470"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25117"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9825705849" lat="44.7639165" lon="-71.6450341" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1088 Vermont Route 105, Bloomfield, VT 05905" to "1088 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1088"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25118"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1070670685" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "994 Vermont Route 105, Bloomfield, VT 05905" to "994 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7632380" lon="-71.6450705"/>
+    <nd ref="9825705844"/>
+    <nd ref="9825705841"/>
+    <nd ref="9825705842"/>
+    <nd ref="9825705843"/>
+    <nd ref="9825705844"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="994"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25119"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9912967391" lat="44.7630035" lon="-71.6270512" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "804 Spencer Hill Road, Bloomfield, VT 05905" to "804 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="804"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25120"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1070670681" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "894 Vermont Route 105, Bloomfield, VT 05905" to "894 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7616900" lon="-71.6442285"/>
+    <nd ref="9825705824"/>
+    <nd ref="9825705825"/>
+    <nd ref="9825705826"/>
+    <nd ref="9825705827"/>
+    <nd ref="9825705824"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="894"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25121"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9912967392" lat="44.7615862" lon="-71.6277217" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "689 Spencer Hill Road, Bloomfield, VT 05905" to "689 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="689"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="building" v="government"/>
+    <tag k="ref:vcgi:esiteid" v="25122"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9044499805" lat="44.7610634" lon="-71.6164901" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1133 Vermont Route 102, Bloomfield, VT 05905" to "1133 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1133"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25123"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499804" lat="44.7608954" lon="-71.6184558" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "161 Enlightening View Lane, Bloomfield, VT 05905" to "161 Enlightening View Lane, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Enlightening View Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25124"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1070670680" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "838 Vermont Route 105, Bloomfield, VT 05905" to "838 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7611355" lon="-71.6434400"/>
+    <nd ref="9825705820"/>
+    <nd ref="9825705821"/>
+    <nd ref="9825705822"/>
+    <nd ref="9825705823"/>
+    <nd ref="9825705820"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="838"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25125"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9044499802" lat="44.7595999" lon="-71.6180369" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1045 Vermont Route 102, Bloomfield, VT 05905" to "1045 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1045"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25126"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1070670677" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "642 Vermont Route 105, Bloomfield, VT 05905" to "642 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7590635" lon="-71.6404390"/>
+    <nd ref="9825705806"/>
+    <nd ref="9825705807"/>
+    <nd ref="9825705808"/>
+    <nd ref="9825705809"/>
+    <nd ref="9825705806"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="642"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25127"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9912967393" lat="44.7587888" lon="-71.6264578" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "472 Spencer Hill Road, Bloomfield, VT 05905" to "472 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="472"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25128"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354271" lat="44.7586001" lon="-71.6385764" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "606 Vermont Route 105, Bloomfield, VT " to "606 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="606"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="25129"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9044499801" lat="44.7587073" lon="-71.6198698" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "953 Vermont Route 102, Bloomfield, VT 05905" to "953 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="953"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25130"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1070670676" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "452 Vermont Route 105, Bloomfield, VT 05905" to "452 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7580095" lon="-71.6378470"/>
+    <nd ref="9825705805"/>
+    <nd ref="9825705802"/>
+    <nd ref="9825705803"/>
+    <nd ref="9825705804"/>
+    <nd ref="9825705805"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="452"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25131"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9912967394" lat="44.7580197" lon="-71.6320010" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "321 Spencer Hill Road, Bloomfield, VT 05905" to "321 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25132"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9044499800" lat="44.7576890" lon="-71.6203793" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "898 Vermont Route 102, Bloomfield, VT 05905" to "898 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="898"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25133"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9912967395" lat="44.7577589" lon="-71.6329625" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "287 Spencer Hill Road, Bloomfield, VT 05905" to "287 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="287"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25134"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354270" lat="44.7578793" lon="-71.6324989" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "301 Spencer Hill Road, Bloomfield, VT " to "301 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="25135"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354269" lat="44.7574696" lon="-71.6317797" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "320 Spencer Hill Road, Bloomfield, VT " to "320 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="320"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="25136"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <way id="1070670675" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "450 Vermont Route 105, Bloomfield, VT 05905" to "450 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7570715" lon="-71.6370510"/>
+    <nd ref="9825705798"/>
+    <nd ref="9825705799"/>
+    <nd ref="9825705800"/>
+    <nd ref="9825705801"/>
+    <nd ref="9825705798"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25137"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9044499799" lat="44.7567373" lon="-71.6222243" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "784 Vermont Route 102, Bloomfield, VT 05905" to "784 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="784"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25138"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1070670673" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "431 Vermont Route 105, Bloomfield, VT 05905" to "431 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7566330" lon="-71.6382830"/>
+    <nd ref="9825705793"/>
+    <nd ref="9825705790"/>
+    <nd ref="9825705791"/>
+    <nd ref="9825705792"/>
+    <nd ref="9825705793"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="431"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25139"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <way id="1070670671" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "409 Vermont Route 105, Bloomfield, VT 05905" to "409 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7564540" lon="-71.6377440"/>
+    <nd ref="9825705785"/>
+    <nd ref="9825705780"/>
+    <nd ref="9825705781"/>
+    <nd ref="9825705782"/>
+    <nd ref="9825705783"/>
+    <nd ref="9825705784"/>
+    <nd ref="9825705785"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="409"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25140"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9044499775" lat="44.7563175" lon="-71.6309471" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "167 Marshall Road, Bloomfield, VT 05905" to "167 Marshall Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Marshall Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25141"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1070670670" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "332 Vermont Route 105, Bloomfield, VT 05905" to "332 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7563875" lon="-71.6363125"/>
+    <nd ref="9825705776"/>
+    <nd ref="9825705777"/>
+    <nd ref="9825705778"/>
+    <nd ref="9825705779"/>
+    <nd ref="9825705776"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25142"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9044499776" lat="44.7562655" lon="-71.6317460" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "113 Marshall Road, Bloomfield, VT 05905" to "113 Marshall Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Marshall Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25143"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499777" lat="44.7561612" lon="-71.6324253" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "105 Marshall Road, Bloomfield, VT 05905" to "105 Marshall Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Marshall Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25144"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499798" lat="44.7558894" lon="-71.6255041" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "621 Vermont Route 102, Bloomfield, VT 05905" to "621 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="621"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25145"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499778" lat="44.7555884" lon="-71.6332265" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "46 Marshall Road, Bloomfield, VT 05905" to "46 Marshall Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Marshall Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25146"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499779" lat="44.7552647" lon="-71.6337963" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "92 Spencer Hill Road, Bloomfield, VT 05905" to "92 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25147"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499785" lat="44.7550313" lon="-71.6346068" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "89 Spencer Hill Road, Bloomfield, VT 05905" to "89 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25148"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499772" lat="44.7546366" lon="-71.6287055" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "27 Schoolhouse Road, Bloomfield, VT 05905" to "27 Schoolhouse Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Schoolhouse Road"/>
+    <tag k="building" v="government"/>
+    <tag k="ref:vcgi:esiteid" v="25149"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499771" lat="44.7546062" lon="-71.6291023" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "25 Schoolhouse Road, Bloomfield, VT 05905" to "25 Schoolhouse Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Schoolhouse Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25150"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499774" lat="44.7545497" lon="-71.6281076" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "43 Schoolhouse Road, Bloomfield, VT 05905" to "43 Schoolhouse Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Schoolhouse Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25151"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499773" lat="44.7546152" lon="-71.6283747" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "35 Schoolhouse Road, Bloomfield, VT 05905" to "35 Schoolhouse Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Schoolhouse Road"/>
+    <tag k="ref:vcgi:esiteid" v="25152"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499782" lat="44.7543936" lon="-71.6341317" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "33 Spencer Hill Road, Bloomfield, VT 05905" to "33 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25153"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1070670669" version="2" timestamp="2025-04-02T21:22:35Z" changeset="164440297" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "742 Graham Road, Bloomfield, VT 05905" to "742 Graham Road, Guildhall, VT 05905". -->
+    <center lat="44.7545700" lon="-71.6367885"/>
+    <nd ref="9044499786"/>
+    <nd ref="9825705773"/>
+    <nd ref="9825705774"/>
+    <nd ref="9825705775"/>
+    <nd ref="9044499786"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="742"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Graham Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25155"/>
+  </way>
+  <node id="9044499783" lat="44.7544963" lon="-71.6345765" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "188 Vermont Route 105, Bloomfield, VT 05905" to "188 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="188"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25156"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499784" lat="44.7540191" lon="-71.6350533" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "151 Duval Road, Bloomfield, VT 05905" to "151 Duval Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Duval Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25158"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499764" lat="44.7540924" lon="-71.6323595" version="2" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "68 Vermont Route 105, Bloomfield, VT 05905" to "68 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25159"/>
+    <tag k="source" v="esri/USA_NAD_Addresses;esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1070670666" version="2" timestamp="2025-04-10T21:49:14Z" changeset="164788883" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "94 Vermont Route 105, Bloomfield, VT 05905" to "94 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7540380" lon="-71.6327700"/>
+    <nd ref="9825705759"/>
+    <nd ref="9825705760"/>
+    <nd ref="9825705761"/>
+    <nd ref="9825705762"/>
+    <nd ref="9825705759"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25160"/>
+    <tag k="source" v="esri/USA_NAD_Addresses;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9044499781" lat="44.7538247" lon="-71.6346924" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "131 Duval Road, Bloomfield, VT 05905" to "131 Duval Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Duval Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25161"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499767" lat="44.7539086" lon="-71.6307406" version="2" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "317 Vermont Route 102, Bloomfield, VT 05905" to "317 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="317"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25163"/>
+    <tag k="source" v="esri/USA_NAD_Addresses;esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9044499766" lat="44.7539394" lon="-71.6310527" version="2" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "299 Vermont Route 102, Bloomfield, VT 05905" to "299 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="299"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25164"/>
+    <tag k="source" v="esri/USA_NAD_Addresses;esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="977459363" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "64 Vermont Route 105, Bloomfield, VT 05905" to "64 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7536862" lon="-71.6321271"/>
+    <nd ref="9044499757"/>
+    <nd ref="9044499758"/>
+    <nd ref="9044499759"/>
+    <nd ref="9044499760"/>
+    <nd ref="9044499757"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25165"/>
+  </way>
+  <node id="9044499765" lat="44.7538019" lon="-71.6314481" version="2" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "281 Vermont Route 102, Bloomfield, VT 05905" to "281 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25166"/>
+    <tag k="source" v="esri/USA_NAD_Addresses;esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9044499780" lat="44.7536251" lon="-71.6343611" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "113 Duval Road, Bloomfield, VT 05905" to "113 Duval Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Duval Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25167"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1070670667" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "87 Vermont Route 105, Bloomfield, VT 05905" to "87 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7536685" lon="-71.6328835"/>
+    <nd ref="9825705763"/>
+    <nd ref="9825705764"/>
+    <nd ref="9825705765"/>
+    <nd ref="9825705766"/>
+    <nd ref="9825705767"/>
+    <nd ref="9825705768"/>
+    <nd ref="9825705763"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25168"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/USA_NAD_Addresses;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9044499768" lat="44.7535915" lon="-71.6309488" version="2" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "302 Vermont Route 102, Bloomfield, VT 05905" to "302 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25169"/>
+    <tag k="source" v="esri/USA_NAD_Addresses;esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9044499795" lat="44.7524707" lon="-71.6325919" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3 River Drive, Bloomfield, VT 05905" to "3 River Drive, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Drive"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25172"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499796" lat="44.7524462" lon="-71.6321936" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "16 River Drive, Bloomfield, VT 05905" to "16 River Drive, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Drive"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25173"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499797" lat="44.7525777" lon="-71.6322889" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "18 River Drive, Bloomfield, VT 05905" to "18 River Drive, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Drive"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25174"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499794" lat="44.7523185" lon="-71.6324753" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "8 River Drive, Bloomfield, VT 05905" to "8 River Drive, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Drive"/>
+    <tag k="ref:vcgi:esiteid" v="25175"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499788" lat="44.7513202" lon="-71.6350497" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "562 Graham Road, Bloomfield, VT 05905" to "562 Graham Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="562"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Graham Road"/>
+    <tag k="ref:vcgi:esiteid" v="25176"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499791" lat="44.7509607" lon="-71.6333180" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "62 Vermont Route 102, Bloomfield, VT 05905" to "62 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25177"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499787" lat="44.7509320" lon="-71.6348857" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "58 Patnaude Hill Road, Bloomfield, VT 05905" to "58 Patnaude Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Patnaude Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25178"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499789" lat="44.7510575" lon="-71.6341666" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "40 Patnaude Hill Road, Bloomfield, VT 05905" to "40 Patnaude Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Patnaude Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25179"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724354228" lat="44.7500822" lon="-71.6339179" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "74 Patnaude Hill Road, Bloomfield, VT " to "74 Patnaude Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Patnaude Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="25180"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9044499790" lat="44.7498756" lon="-71.6338868" version="3" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "94 Patnaude Hill Road, Bloomfield, VT 05905" to "94 Patnaude Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Patnaude Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25181"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9044499793" lat="44.7495910" lon="-71.6333817" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "17 Graham Road, Bloomfield, VT 05905" to "17 Graham Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Graham Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="25182"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9909854246" lat="44.8244452" lon="-71.5711330" version="1" timestamp="2022-07-25T14:57:57Z" changeset="124056475" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "6521 Vermont Route 102, Bloomfield, VT 05905" to "6521 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="6521"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25183"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9909854244" lat="44.8247412" lon="-71.5691291" version="1" timestamp="2022-07-25T14:57:57Z" changeset="124056475" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "6631 Vermont Route 102, Bloomfield, VT 05905" to "6631 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="6631"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25184"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354268" lat="44.8115270" lon="-71.5882576" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1210 Stevens Road, Bloomfield, VT " to "1210 Stevens Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1210"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stevens Road"/>
+    <tag k="ref:vcgi:esiteid" v="25185"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354267" lat="44.8129314" lon="-71.5895210" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1287 Stevens Road, Bloomfield, VT " to "1287 Stevens Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1287"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stevens Road"/>
+    <tag k="ref:vcgi:esiteid" v="25186"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9909854245" lat="44.8267205" lon="-71.5710851" version="1" timestamp="2022-07-25T14:57:57Z" changeset="124056475" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "6585 Vermont Route 102, Bloomfield, VT 05905" to "6585 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="6585"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25187"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1354347406" version="1" timestamp="2025-01-26T06:36:46Z" changeset="161769708" uid="21657267" user="catgirlseraid">
+    <!-- changed: Updated address from "396 Fuller Road, Bloomfield, VT 05905" to "396 Fuller Road, Guildhall, VT 05905". -->
+    <center lat="44.7868751" lon="-71.5977795"/>
+    <nd ref="12533505091"/>
+    <nd ref="12533505090"/>
+    <nd ref="9910104949"/>
+    <nd ref="12533505089"/>
+    <nd ref="12533505088"/>
+    <nd ref="12533505087"/>
+    <nd ref="12533505086"/>
+    <nd ref="12533505085"/>
+    <nd ref="12533505084"/>
+    <nd ref="12533505083"/>
+    <nd ref="12533505082"/>
+    <nd ref="12533505081"/>
+    <nd ref="12533505091"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="396"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25188"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <way id="1120365685" version="1" timestamp="2022-12-08T16:10:04Z" changeset="129867287" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2397 Stone Dam Road, Bloomfield, VT 05905" to "2397 Stone Dam Road, Guildhall, VT 05905". -->
+    <center lat="44.7981619" lon="-71.7028411"/>
+    <nd ref="10247050406"/>
+    <nd ref="10247050407"/>
+    <nd ref="10247050408"/>
+    <nd ref="10247064509"/>
+    <nd ref="10247050406"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2397"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stone Dam Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25189"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <way id="1070670678" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "646 Vermont Route 105, Bloomfield, VT 05905" to "646 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7592745" lon="-71.6410505"/>
+    <nd ref="9825705810"/>
+    <nd ref="9825705811"/>
+    <nd ref="9825705812"/>
+    <nd ref="9825705813"/>
+    <nd ref="9825705814"/>
+    <nd ref="9825705815"/>
+    <nd ref="9825705810"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="646"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25190"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <way id="1118944870" version="1" timestamp="2022-12-02T16:35:28Z" changeset="129651092" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2894 Stone Dam Road, Bloomfield, VT 05905" to "2894 Stone Dam Road, Guildhall, VT 05905". -->
+    <center lat="44.8041345" lon="-71.7073085"/>
+    <nd ref="10233419364"/>
+    <nd ref="10233419361"/>
+    <nd ref="10233419362"/>
+    <nd ref="10233419363"/>
+    <nd ref="10233419364"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2894"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stone Dam Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="25191"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="12724354266" lat="44.8087209" lon="-71.6109648" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "601 Gosselin Road, Bloomfield, VT " to "601 Gosselin Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="601"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Gosselin Road"/>
+    <tag k="ref:vcgi:esiteid" v="25192"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354265" lat="44.8095486" lon="-71.5761206" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5475 Vermont Route 102, Bloomfield, VT " to "5475 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="5475"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="25193"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354264" lat="44.7915202" lon="-71.6119378" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "393 Snow Hill Road, Bloomfield, VT " to "393 Snow Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="393"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Snow Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="25194"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354263" lat="44.8001811" lon="-71.5948390" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1152 Fuller Road, Bloomfield, VT " to "1152 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1152"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="ref:vcgi:esiteid" v="25195"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9910104960" lat="44.7894201" lon="-71.5996880" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "499 Fuller Road, Bloomfield, VT 05905" to "499 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="499"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="25196"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104963" lat="44.7864662" lon="-71.6080960" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "659 Mill Brook Road, Bloomfield, VT 05905" to "659 Mill Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="659"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="25197"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104954" lat="44.7988798" lon="-71.5964746" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "410 Cross Road, Bloomfield, VT 05905" to "410 Cross Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cross Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="313747"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1354347405" version="1" timestamp="2025-01-26T06:36:46Z" changeset="161769708" uid="21657267" user="catgirlseraid">
+    <!-- changed: Updated address from "549 Fuller Road, Bloomfield, VT 05905" to "549 Fuller Road, Guildhall, VT 05905". -->
+    <center lat="44.7897648" lon="-71.5970392"/>
+    <nd ref="12533505080"/>
+    <nd ref="12533505079"/>
+    <nd ref="9910104951"/>
+    <nd ref="12533505078"/>
+    <nd ref="12533505080"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="549"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="313748"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9910104961" lat="44.7835872" lon="-71.6014243" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "350 Mill Brook Road, Bloomfield, VT 05905" to "350 Mill Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="350"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="313749"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354262" lat="44.7792944" lon="-71.5986366" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "38 Mill Brook Road, Bloomfield, VT " to "38 Mill Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="ref:vcgi:esiteid" v="313750"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354261" lat="44.8262136" lon="-71.6692642" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "505 Boudle Road, Bloomfield, VT " to "505 Boudle Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="505"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Boudle Road"/>
+    <tag k="ref:vcgi:esiteid" v="313751"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354260" lat="44.8272599" lon="-71.6693046" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "555 Boudle Road, Bloomfield, VT " to "555 Boudle Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="555"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Boudle Road"/>
+    <tag k="ref:vcgi:esiteid" v="313752"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <way id="1127822627" version="1" timestamp="2023-01-06T15:26:56Z" changeset="130952355" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "987 Boudle Road, Bloomfield, VT 05905" to "987 Boudle Road, Guildhall, VT 05905". -->
+    <center lat="44.8332290" lon="-71.6689710"/>
+    <nd ref="10311304545"/>
+    <nd ref="10311304546"/>
+    <nd ref="10311304547"/>
+    <nd ref="10311304548"/>
+    <nd ref="10311304545"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="987"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Boudle Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="313753"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <way id="1127822626" version="1" timestamp="2023-01-06T15:26:56Z" changeset="130952355" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1033 Boudle Road, Bloomfield, VT 05905" to "1033 Boudle Road, Guildhall, VT 05905". -->
+    <center lat="44.8341317" lon="-71.6690391"/>
+    <nd ref="10311304543"/>
+    <nd ref="10311304536"/>
+    <nd ref="10311304537"/>
+    <nd ref="10311304538"/>
+    <nd ref="10311304539"/>
+    <nd ref="10311304540"/>
+    <nd ref="10311304541"/>
+    <nd ref="10311304542"/>
+    <nd ref="10311304543"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1033"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Boudle Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="313754"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <way id="1127822625" version="1" timestamp="2023-01-06T15:26:56Z" changeset="130952355" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1377 Boudle Road, Bloomfield, VT 05905" to "1377 Boudle Road, Guildhall, VT 05905". -->
+    <center lat="44.8380988" lon="-71.6664565"/>
+    <nd ref="10311304528"/>
+    <nd ref="10311304533"/>
+    <nd ref="10311304534"/>
+    <nd ref="10311304535"/>
+    <nd ref="10311304528"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1377"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Boudle Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="313755"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <way id="902446124" version="2" timestamp="2022-07-25T20:13:06Z" changeset="124067650" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "4742 Vermont Route 102, Bloomfield, VT 05905" to "4742 Vermont Route 102, Guildhall, VT 05905". -->
+    <center lat="44.8005456" lon="-71.5727907"/>
+    <nd ref="9910370158"/>
+    <nd ref="9910370159"/>
+    <nd ref="8382004168"/>
+    <nd ref="8382004171"/>
+    <nd ref="8382004170"/>
+    <nd ref="8382004169"/>
+    <nd ref="9910370156"/>
+    <nd ref="9910370157"/>
+    <nd ref="8382004174"/>
+    <nd ref="8382004173"/>
+    <nd ref="9910370155"/>
+    <nd ref="8382004175"/>
+    <nd ref="9910370158"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4742"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="313756"/>
+    <tag k="source" v="microsoft/BuildingFootprints;esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9912967408" lat="44.7744562" lon="-71.6518509" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2199 Vermont Route 105, Bloomfield, VT 05905" to "2199 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2199"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="313758"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104929" lat="44.8049135" lon="-71.5805202" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "500 Stevens Road, Bloomfield, VT 05905" to "500 Stevens Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stevens Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="327132"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967405" lat="44.7760602" lon="-71.6493852" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2030 Vermont Route 105, Bloomfield, VT 05905" to "2030 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2030"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="450008"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967401" lat="44.7720195" lon="-71.6469512" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1603 Vermont Route 105, Bloomfield, VT 05905" to "1603 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1603"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="450009"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="10245100618" lat="44.7768668" lon="-71.6479171" version="1" timestamp="2022-12-07T16:23:31Z" changeset="129828461" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "140 Norcott Lane, Bloomfield, VT 05905" to "140 Norcott Lane, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Norcott Lane"/>
+    <tag k="ref:vcgi:esiteid" v="450010"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967406" lat="44.7760306" lon="-71.6482399" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2028 Vermont Route 105, Bloomfield, VT 05905" to "2028 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2028"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="450011"/>
+  </node>
+  <node id="9825705858" lat="44.7667209" lon="-71.6374421" version="1" timestamp="2022-06-17T15:25:31Z" changeset="122513412" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1210 Vermont Route 105, Bloomfield, VT 05905" to "1210 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1210"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="450012"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354259" lat="44.7649831" lon="-71.6376545" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1208 Vermont Route 105, Bloomfield, VT " to "1208 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1208"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="450013"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354258" lat="44.7612883" lon="-71.6341811" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "664 Vermont Route 105, Bloomfield, VT " to "664 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="664"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="450014"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354257" lat="44.7607190" lon="-71.6356793" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "644 Vermont Route 105, Bloomfield, VT " to "644 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="644"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="450015"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354256" lat="44.7796587" lon="-71.5964390" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2872 Vermont Route 102, Bloomfield, VT " to "2872 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2872"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="450016"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9910104941" lat="44.7876986" lon="-71.5855233" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3741 Vermont Route 102, Bloomfield, VT 05905" to "3741 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3741"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="450017"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354255" lat="44.8218905" lon="-71.5799446" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "374 Crank Road, Bloomfield, VT " to "374 Crank Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="374"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Crank Road"/>
+    <tag k="ref:vcgi:esiteid" v="450018"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9910104953" lat="44.7969804" lon="-71.5962659" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1063 Fuller Road, Bloomfield, VT 05905" to "1063 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1063"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="building" v="commercial"/>
+    <tag k="ref:vcgi:esiteid" v="450019"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="993972429" version="3" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "661 Mill Brook Road, Bloomfield, VT 05905" to "661 Mill Brook Road, Guildhall, VT 05905". -->
+    <center lat="44.7829502" lon="-71.6103515"/>
+    <nd ref="9910104964"/>
+    <nd ref="9183166306"/>
+    <nd ref="9183166305"/>
+    <nd ref="9183166304"/>
+    <nd ref="9910104964"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="661"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="building" v="commercial"/>
+    <tag k="ref:vcgi:esiteid" v="451596"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="12724354254" lat="44.7613338" lon="-71.6183680" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "162 Enlightening View Lane, Bloomfield, VT " to "162 Enlightening View Lane, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Enlightening View Lane"/>
+    <tag k="ref:vcgi:esiteid" v="451712"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9044499803" lat="44.7608694" lon="-71.6188595" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "163 Enlightening View Lane, Bloomfield, VT 05905" to "163 Enlightening View Lane, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Enlightening View Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="451713"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724354253" lat="44.7660203" lon="-71.6132437" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "150 Daley Brook Lane, Bloomfield, VT " to "150 Daley Brook Lane, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Daley Brook Lane"/>
+    <tag k="ref:vcgi:esiteid" v="451714"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <way id="1031319334" version="3" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3790 Vermont Route 102, Bloomfield, VT 05905" to "3790 Vermont Route 102, Guildhall, VT 05905". -->
+    <center lat="44.7877577" lon="-71.5814174"/>
+    <nd ref="9505257687"/>
+    <nd ref="9505257679"/>
+    <nd ref="9505257680"/>
+    <nd ref="9505257681"/>
+    <nd ref="9505257682"/>
+    <nd ref="9505257683"/>
+    <nd ref="9505257684"/>
+    <nd ref="9505257685"/>
+    <nd ref="9505257686"/>
+    <nd ref="9505257687"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3790"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="amenity" v="grave_yard"/>
+    <tag k="ele" v="323"/>
+    <tag k="gnis:feature_id" v="1456484"/>
+    <tag k="name" v="Bloomfield Cemetery"/>
+    <tag k="ref:vcgi:esiteid" v="451743"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="12724354252" lat="44.7806457" lon="-71.5976325" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2849 Vermont Route 102, Bloomfield, VT " to "2849 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2849"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="451765"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9912967390" lat="44.7764933" lon="-71.6206099" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1830 Spencer Hill Road, Bloomfield, VT 05905" to "1830 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1830"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="451767"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354251" lat="44.7743453" lon="-71.6242315" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1700 Spencer Hill Road, Bloomfield, VT " to "1700 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1700"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="451768"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <way id="1208116790" version="3" timestamp="2025-11-14T02:36:14Z" changeset="174629872" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2460 Power Line Road, Bloomfield, VT " to "2460 Power Line Road, Guildhall, VT 05905". -->
+    <center lat="44.8247502" lon="-71.6996259"/>
+    <nd ref="11194386431"/>
+    <nd ref="11194386432"/>
+    <nd ref="11194386433"/>
+    <nd ref="11194386434"/>
+    <nd ref="11194386431"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2460"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Power Line Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="451928"/>
+  <tag k="addr:postcode" v="05905"/></way>
+  <way id="993972446" version="3" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2610 Boudle Road, Bloomfield, VT 05905" to "2610 Boudle Road, Guildhall, VT 05905". -->
+    <center lat="44.8507216" lon="-71.6466415"/>
+    <nd ref="10311304544"/>
+    <nd ref="9183166694"/>
+    <nd ref="9183166693"/>
+    <nd ref="9183166692"/>
+    <nd ref="10311304544"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2610"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Boudle Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="451929"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="12724354250" lat="44.8077404" lon="-71.6036918" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "221 Brown Road, Bloomfield, VT " to "221 Brown Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Brown Road"/>
+    <tag k="ref:vcgi:esiteid" v="452137"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354249" lat="44.8142382" lon="-71.6038571" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "674 Brown Road, Bloomfield, VT " to "674 Brown Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="674"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Brown Road"/>
+    <tag k="ref:vcgi:esiteid" v="452138"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9910104950" lat="44.7873655" lon="-71.5984028" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "411 Fuller Road, Bloomfield, VT 05905" to "411 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="452145"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354248" lat="44.7936925" lon="-71.6002195" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "665 Fuller Road, Bloomfield, VT " to "665 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="665"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="ref:vcgi:esiteid" v="452150"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354247" lat="44.8037835" lon="-71.5927519" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1592 Fuller Road, Bloomfield, VT " to "1592 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1592"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="ref:vcgi:esiteid" v="452152"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <way id="1032974305" version="3" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "950 Vermont Route 105, Bloomfield, VT 05905" to "950 Vermont Route 105, Guildhall, VT 05905". -->
+    <center lat="44.7623931" lon="-71.6448931"/>
+    <nd ref="9517307520"/>
+    <nd ref="9517307521"/>
+    <nd ref="9825705832"/>
+    <nd ref="9517307523"/>
+    <nd ref="9517307520"/>
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="950"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="landuse" v="cemetery"/>
+    <tag k="ref:vcgi:esiteid" v="452171"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="9912967398" lat="44.7627983" lon="-71.6479448" version="2" timestamp="2025-04-02T21:20:35Z" changeset="164440243" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "891 Vermont Route 105, Bloomfield, VT 05905" to "891 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="891"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="452176"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354246" lat="44.8263685" lon="-71.5843561" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "511 Crank Road, Bloomfield, VT " to "511 Crank Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="511"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Crank Road"/>
+    <tag k="ref:vcgi:esiteid" v="452401"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9910104945" lat="44.7824488" lon="-71.5947704" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "3039 Vermont Route 102, Bloomfield, VT 05905" to "3039 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3039"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="454010"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9912967402" lat="44.7731643" lon="-71.6447407" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1737 Vermont Route 105, Bloomfield, VT 05905" to "1737 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1737"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="617346"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354245" lat="44.7868177" lon="-71.5838607" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3667 Vermont Route 102, Bloomfield, VT " to "3667 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3667"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="617348"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="9910370160" lat="44.7963913" lon="-71.5731154" version="1" timestamp="2022-07-25T20:13:06Z" changeset="124067650" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "4732 Vermont Route 102, Bloomfield, VT 05905" to "4732 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4732"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="620300"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104901" lat="44.8316554" lon="-71.5821632" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "250 Red Cedar Trail, Bloomfield, VT 05905" to "250 Red Cedar Trail, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="250"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Red Cedar Trail"/>
+    <tag k="ref:vcgi:esiteid" v="620358"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="9910104902" lat="44.8208074" lon="-71.6021492" version="1" timestamp="2022-07-25T17:39:23Z" changeset="124062659" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1720 Crank Road, Bloomfield, VT 05905" to "1720 Crank Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1720"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Crank Road"/>
+    <tag k="building" v="commercial"/>
+    <tag k="ref:vcgi:esiteid" v="753448"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354244" lat="44.7580071" lon="-71.6338369" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "289 Spencer Hill Road, Bloomfield, VT " to "289 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="289"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="753812"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="10245100620" lat="44.7786844" lon="-71.6482419" version="2" timestamp="2025-04-02T21:25:05Z" changeset="164440357" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "275 Norcott Lane, Bloomfield, VT 05905" to "275 Norcott Lane, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Norcott Lane"/>
+    <tag k="ref:vcgi:esiteid" v="756758"/>
+  </node>
+  <node id="9912967397" lat="44.7560516" lon="-71.6422891" version="1" timestamp="2022-07-26T17:16:35Z" changeset="124105945" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "531 Vermont Route 105, Bloomfield, VT 05905" to "531 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="531"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="757004"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724354243" lat="44.8036084" lon="-71.5720016" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4948 Vermont Route 102, Bloomfield, VT " to "4948 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4948"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="760285"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354242" lat="44.7938088" lon="-71.6328935" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1765 Snow Hill Road, Bloomfield, VT " to "1765 Snow Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1765"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Snow Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="761751"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354241" lat="44.8009611" lon="-71.6253203" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1096 Snow Hill Road, Bloomfield, VT " to "1096 Snow Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1096"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Snow Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="761836"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354240" lat="44.7904780" lon="-71.5944075" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "630 Fuller Road, Bloomfield, VT " to "630 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="630"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="ref:vcgi:esiteid" v="763356"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354239" lat="44.7984828" lon="-71.5988329" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1065 Fuller Road, Bloomfield, VT " to "1065 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1065"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="ref:vcgi:esiteid" v="763357"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354238" lat="44.8519456" lon="-71.6544472" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2970 Boudle Road, Bloomfield, VT " to "2970 Boudle Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2970"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Boudle Road"/>
+    <tag k="ref:vcgi:esiteid" v="764688"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354237" lat="44.7619728" lon="-71.6290525" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "669 Spencer Hill Road, Bloomfield, VT " to "669 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="669"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="767046"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354236" lat="44.7806239" lon="-71.6003425" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "192 Mill Brook Road, Bloomfield, VT " to "192 Mill Brook Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="192"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="ref:vcgi:esiteid" v="767055"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354235" lat="44.7825076" lon="-71.6010343" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2851 Vermont Route 102, Bloomfield, VT " to "2851 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2851"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="767546"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354234" lat="44.7565938" lon="-71.6348658" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "165 Spencer Hill Road, Bloomfield, VT " to "165 Spencer Hill Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Spencer Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="767616"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354233" lat="44.7647567" lon="-71.6148731" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "120 Enlightening View Lane, Bloomfield, VT " to "120 Enlightening View Lane, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Enlightening View Lane"/>
+    <tag k="ref:vcgi:esiteid" v="768909"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354232" lat="44.7779781" lon="-71.6002935" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2677 Vermont Route 102, Bloomfield, VT " to "2677 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="2677"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="770666"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354231" lat="44.7965806" lon="-71.5945292" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1076 Fuller Road, Bloomfield, VT " to "1076 Fuller Road, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="1076"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fuller Road"/>
+    <tag k="ref:vcgi:esiteid" v="771083"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354230" lat="44.7882466" lon="-71.5801190" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3906 Vermont Route 102, Bloomfield, VT " to "3906 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3906"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="771084"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="13302843848" lat="44.7991926" lon="-71.5735729" version="1" timestamp="2025-11-14T02:36:14Z" changeset="174629872" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4650 Vermont Route 102, Bloomfield, VT " to "4650 Vermont Route 102, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="4650"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="ref:vcgi:esiteid" v="771460"/>
+  <tag k="addr:postcode" v="05905"/></node>
+  <node id="12724354229" lat="44.7792283" lon="-71.6758857" version="1" timestamp="2025-04-02T21:26:27Z" changeset="164440384" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3482 Vermont Route 105, Bloomfield, VT " to "3482 Vermont Route 105, Guildhall, VT 05905". -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="3482"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="ref:vcgi:esiteid" v="1050756"/>
+  <tag k="addr:postcode" v="05905"/></node>
+</modify>
+</osmChange>
