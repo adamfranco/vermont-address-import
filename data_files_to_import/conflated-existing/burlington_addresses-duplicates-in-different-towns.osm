@@ -9,40 +9,4 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="45895"/>
   </node>
-  <node id="-6281" visible="true" lat="44.479343720074" lon="-73.198077902161">
-    <!-- duplicates-in-different-towns: "33 Colchester Avenue, Univeristy of Vermont, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 48996: "33 Colchester Avenue, Burlington, VT" -->
-    <tag k="addr:city" v="Univeristy of Vermont"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="Colchester Avenue"/>
-    <tag k="addr:postcode" v="05405"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="48994"/>
-  </node>
-  <node id="-6283" visible="true" lat="44.479787522669" lon="-73.197801093724">
-    <!-- duplicates-in-different-towns: "43 Colchester Avenue, Univeristy of Vermont, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 48994: "43 Colchester Avenue, Burlington, VT" -->
-    <tag k="addr:city" v="Univeristy of Vermont"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Colchester Avenue"/>
-    <tag k="addr:postcode" v="05405"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="48996"/>
-  </node>
-  <node id="-7222" visible="true" lat="44.472768316917" lon="-73.193654882907">
-    <!-- duplicates-in-different-towns: "31 Spear Street, Univeristy of Vermont, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 610674: "31 Spear Street, South Burlington, VT" -->
-    <tag k="addr:city" v="Univeristy of Vermont"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Spear Street"/>
-    <tag k="addr:postcode" v="05405"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="49967"/>
-  </node>
-  <node id="-12151" visible="true" lat="44.469954539559" lon="-73.197501274935">
-    <!-- duplicates-in-different-towns: "384 South Prospect Street, Univeristy of Vermont, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 758707: "384 South Prospect Street, Burlington, VT" -->
-    <tag k="addr:city" v="Univeristy of Vermont"/>
-    <tag k="addr:housenumber" v="384"/>
-    <tag k="addr:street" v="South Prospect Street"/>
-    <tag k="addr:postcode" v="05405"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="446106"/>
-  </node>
 </osm>

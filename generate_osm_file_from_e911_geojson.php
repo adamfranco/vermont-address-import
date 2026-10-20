@@ -213,13 +213,30 @@ foreach($data['features'] as $feature) {
     }
 
     // "North Burlington" is not a valid postal community.
-    if ($postal_community == 'North Burlington' && !preg_match("/ North Burlington( VT)?( [0-9]{5})?$/i", $feature['properties']['PrimaryAddress2'])) {
-      $postal_community = 'Burlington';
+    if ($postal_community == 'North Burlington') {
+      if (!preg_match("/ North Burlington( VT)?( [0-9]{5})?$/i", $feature['properties']['PrimaryAddress2'])) {
+        $postal_community = 'Burlington';
+      }
     }
 
-    // "University of Vermont" is not a valid postal community.
-    if ($postal_community == 'Univeristy of Vermont' && preg_match("/ ((South )?Burlington)( VT)?( [0-9]{5})?$/i", $feature['properties']['PrimaryAddress2'], $m)) {
-      $postal_community = ucfirst(strtolower($m[1]));
+    // "Univeristy of Vermont" is not a valid postal community.
+    if (in_array($postal_community, ['University of Vermont', 'Univeristy of Vermont'])) {
+      if (preg_match("/ ((South )?Burlington)( VT)?( [0-9]{5})?$/i", $feature['properties']['PrimaryAddress2'], $m)) {
+        $postal_community = ucfirst(strtolower($m[1]));
+      }
+      else {
+        $postal_community = ucfirst(strtolower($feature['properties']['Inc_Muni']));
+      }
+    }
+
+    // "Saint Michales College" is not a valid postal community.
+    if (in_array($postal_community, ['Saint Michaels College', 'Saint Michales College'])) {
+      if (preg_match("/ (Colchester|Essex)( VT)?( [0-9]{5})?$/i", $feature['properties']['PrimaryAddress2'], $m)) {
+        $postal_community = ucfirst(strtolower($m[1]));
+      }
+      else {
+        $postal_community = ucfirst(strtolower($feature['properties']['Inc_Muni']));
+      }
     }
 
     // Validate that the postal_community and post-code match
