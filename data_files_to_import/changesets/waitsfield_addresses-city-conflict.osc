@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <way id="1021021660" version="2" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "626 Main Street, Waitsfield, VT " to "626 Main Street, Moretown, VT 05660". -->
+    <center lat="44.2331390" lon="-72.7822250"/>
+    <nd ref="9417010772"/>
+    <nd ref="9417010773"/>
+    <nd ref="9417010774"/>
+    <nd ref="9417010775"/>
+    <nd ref="9417010776"/>
+    <nd ref="9417010777"/>
+    <nd ref="9417010778"/>
+    <nd ref="9417010779"/>
+    <nd ref="9417010772"/>
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="626"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="267418"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05660"/></way>
+  <way id="1021021659" version="2" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "746 Main Street, Waitsfield, VT " to "746 Main Street, Moretown, VT 05660". -->
+    <center lat="44.2315990" lon="-72.7829785"/>
+    <nd ref="9417010768"/>
+    <nd ref="9417010769"/>
+    <nd ref="9417010770"/>
+    <nd ref="9417010771"/>
+    <nd ref="9417010768"/>
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="746"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="267419"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05660"/></way>
+  <node id="12671166671" lat="44.2313962" lon="-72.7964812" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "670 North Fayston Road, Waitsfield, VT " to "670 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="670"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267420"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166670" lat="44.2311595" lon="-72.7961755" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "646 North Fayston Road, Waitsfield, VT " to "646 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="646"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267421"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166668" lat="44.2305397" lon="-72.7971469" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "671 North Fayston Road, Waitsfield, VT " to "671 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="671"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267423"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166667" lat="44.2307390" lon="-72.7957307" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "592 North Fayston Road, Waitsfield, VT " to "592 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="592"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267424"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166666" lat="44.2303009" lon="-72.7950974" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "570 North Fayston Road, Waitsfield, VT " to "570 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="570"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267425"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166665" lat="44.2300742" lon="-72.7940562" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "516 North Fayston Road, Waitsfield, VT " to "516 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="516"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267426"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166664" lat="44.2299558" lon="-72.7963284" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "621 North Fayston Road, Waitsfield, VT " to "621 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="621"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267427"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166660" lat="44.2292645" lon="-72.7943666" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "507 North Fayston Road, Waitsfield, VT " to "507 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="507"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267431"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166659" lat="44.2297833" lon="-72.7936924" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "470 North Fayston Road, Waitsfield, VT " to "470 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="470"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267432"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166658" lat="44.2293869" lon="-72.7932484" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "446 North Fayston Road, Waitsfield, VT " to "446 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267433"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166656" lat="44.2289217" lon="-72.7935828" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "463 North Fayston Road, Waitsfield, VT " to "463 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="463"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267435"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166653" lat="44.2293902" lon="-72.7925774" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "402 North Fayston Road, Waitsfield, VT " to "402 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="402"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267439"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166652" lat="44.2287534" lon="-72.7931085" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "433 North Fayston Road, Waitsfield, VT " to "433 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="433"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267440"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166651" lat="44.2283066" lon="-72.7925582" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "427 North Fayston Road, Waitsfield, VT " to "427 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="427"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267441"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166650" lat="44.2287832" lon="-72.7865274" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "90 North Fayston Road, Waitsfield, VT " to "90 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267442"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166648" lat="44.2287843" lon="-72.7915748" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "348 North Fayston Road, Waitsfield, VT " to "348 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="348"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267445"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166647" lat="44.2284090" lon="-72.7907527" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "314 North Fayston Road, Waitsfield, VT " to "314 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="314"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267446"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166645" lat="44.2278671" lon="-72.7870407" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "103 North Fayston Road, Waitsfield, VT " to "103 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267448"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166643" lat="44.2273820" lon="-72.7859793" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "21 North Fayston Road, Waitsfield, VT " to "21 North Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="North Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267450"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166641" lat="44.2275515" lon="-72.7996606" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "547 Airport Road, Waitsfield, VT " to "547 Airport Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="547"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Airport Road"/>
+    <tag k="ref:vcgi:esiteid" v="267452"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166632" lat="44.2230372" lon="-72.7629744" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "476 Paddy Hill Road, Waitsfield, VT " to "476 Paddy Hill Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="476"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Paddy Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="267463"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166629" lat="44.2215580" lon="-72.7598562" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2181 South Hill Road, Waitsfield, VT " to "2181 South Hill Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="2181"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="South Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="267468"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166624" lat="44.2206135" lon="-72.7535304" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1945 South Hill Road, Waitsfield, VT " to "1945 South Hill Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="1945"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="South Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="267473"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166623" lat="44.2206648" lon="-72.7581263" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2182 South Hill Road, Waitsfield, VT " to "2182 South Hill Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="2182"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="South Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="267474"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166620" lat="44.2206342" lon="-72.7562022" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2100 South Hill Road, Waitsfield, VT " to "2100 South Hill Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="2100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="South Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="267478"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166614" lat="44.2194922" lon="-72.7557644" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2089 South Hill Road, Waitsfield, VT " to "2089 South Hill Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="2089"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="South Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="267484"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166608" lat="44.2177694" lon="-72.7544892" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1947 South Hill Road, Waitsfield, VT " to "1947 South Hill Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="1947"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="South Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="267492"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166587" lat="44.2110623" lon="-72.8111076" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "513 Center Fayston Road, Waitsfield, VT " to "513 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="513"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267519"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166583" lat="44.2105599" lon="-72.8088236" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "374 Center Fayston Road, Waitsfield, VT " to "374 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="374"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267523"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166582" lat="44.2101390" lon="-72.8081984" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "316 Center Fayston Road, Waitsfield, VT " to "316 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="316"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267524"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166581" lat="44.2098965" lon="-72.8078061" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "304 Center Fayston Road, Waitsfield, VT " to "304 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267526"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166579" lat="44.2093853" lon="-72.8065015" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "218 Center Fayston Road, Waitsfield, VT " to "218 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267528"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166578" lat="44.2092156" lon="-72.8062418" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "212 Center Fayston Road, Waitsfield, VT " to "212 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267529"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166577" lat="44.2090705" lon="-72.8058337" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "176 Center Fayston Road, Waitsfield, VT " to "176 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267530"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166575" lat="44.2081578" lon="-72.8063888" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "185 Center Fayston Road, Waitsfield, VT " to "185 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267533"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166574" lat="44.2071249" lon="-72.8038515" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "31 Center Fayston Road, Waitsfield, VT " to "31 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="267535"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166174" lat="44.2377660" lon="-72.7882669" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "491 Old Talc Mine Road, Waitsfield, VT " to "491 Old Talc Mine Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="491"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Old Talc Mine Road"/>
+    <tag k="ref:vcgi:esiteid" v="268249"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166166" lat="44.2114000" lon="-72.8090573" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "446 Center Fayston Road, Waitsfield, VT " to "446 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="268258"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166125" lat="44.2391843" lon="-72.7888117" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "82 Stony Farm Road, Waitsfield, VT " to "82 Stony Farm Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stony Farm Road"/>
+    <tag k="ref:vcgi:esiteid" v="268318"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166072" lat="44.2089856" lon="-72.8086429" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "361 Center Fayston Road, Waitsfield, VT " to "361 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="361"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="307238"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166061" lat="44.2244999" lon="-72.8016537" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "162 Bertha Springs Road, Waitsfield, VT " to "162 Bertha Springs Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bertha Springs Road"/>
+    <tag k="ref:vcgi:esiteid" v="318143"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166060" lat="44.2244980" lon="-72.8031001" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "164 Bertha Springs Road, Waitsfield, VT " to "164 Bertha Springs Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bertha Springs Road"/>
+    <tag k="ref:vcgi:esiteid" v="318144"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166059" lat="44.2226969" lon="-72.7989551" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "520 Bertha Springs Road, Waitsfield, VT " to "520 Bertha Springs Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="520"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bertha Springs Road"/>
+    <tag k="ref:vcgi:esiteid" v="318145"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166058" lat="44.2272373" lon="-72.8000236" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "29 Bertha Springs Road, Waitsfield, VT " to "29 Bertha Springs Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bertha Springs Road"/>
+    <tag k="ref:vcgi:esiteid" v="318146"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166057" lat="44.2256537" lon="-72.8000830" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "213 Bertha Springs Road, Waitsfield, VT " to "213 Bertha Springs Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="213"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bertha Springs Road"/>
+    <tag k="ref:vcgi:esiteid" v="318147"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166056" lat="44.2252258" lon="-72.7998150" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "311 Bertha Springs Road, Waitsfield, VT " to "311 Bertha Springs Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="311"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bertha Springs Road"/>
+    <tag k="ref:vcgi:esiteid" v="318148"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166055" lat="44.2223887" lon="-72.7956387" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "633 Bertha Springs Road, Waitsfield, VT " to "633 Bertha Springs Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="633"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bertha Springs Road"/>
+    <tag k="ref:vcgi:esiteid" v="318149"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166054" lat="44.2222106" lon="-72.7936806" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "709 Bertha Springs Road, Waitsfield, VT " to "709 Bertha Springs Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="709"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bertha Springs Road"/>
+    <tag k="ref:vcgi:esiteid" v="318150"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166053" lat="44.2225674" lon="-72.7925489" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "767 Bertha Springs Road, Waitsfield, VT " to "767 Bertha Springs Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="767"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bertha Springs Road"/>
+    <tag k="ref:vcgi:esiteid" v="318151"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166037" lat="44.2273016" lon="-72.7873345" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "21 Brookside Lane, Waitsfield, VT " to "21 Brookside Lane, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Brookside Lane"/>
+    <tag k="ref:vcgi:esiteid" v="340791"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671166009" lat="44.2361188" lon="-72.7909702" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "351 Old Talc Mine Road, Waitsfield, VT " to "351 Old Talc Mine Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="351"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Old Talc Mine Road"/>
+    <tag k="ref:vcgi:esiteid" v="453263"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671165991" lat="44.2344533" lon="-72.7867233" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "349 Old Talc Mine Road, Waitsfield, VT " to "349 Old Talc Mine Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="349"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Old Talc Mine Road"/>
+    <tag k="ref:vcgi:esiteid" v="611876"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671165951" lat="44.2079113" lon="-72.8087623" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "255 Center Fayston Road, Waitsfield, VT " to "255 Center Fayston Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Center Fayston Road"/>
+    <tag k="ref:vcgi:esiteid" v="759448"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="13346273628" lat="44.2079038" lon="-72.8057244" version="1" timestamp="2025-12-01T19:01:19Z" changeset="175372364" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "72 Logan Lane, Waitsfield, VT " to "72 Logan Lane, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Logan Lane"/>
+    <tag k="ref:vcgi:esiteid" v="767124"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="13346273627" lat="44.2079340" lon="-72.8066313" version="1" timestamp="2025-12-01T19:01:19Z" changeset="175372364" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "96 Logan Lane, Waitsfield, VT " to "96 Logan Lane, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Logan Lane"/>
+    <tag k="ref:vcgi:esiteid" v="767125"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="13346273626" lat="44.2070369" lon="-72.8048988" version="1" timestamp="2025-12-01T19:01:19Z" changeset="175372364" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "21 Logan Lane, Waitsfield, VT " to "21 Logan Lane, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Logan Lane"/>
+    <tag k="ref:vcgi:esiteid" v="767126"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="13346273625" lat="44.2074528" lon="-72.8049661" version="1" timestamp="2025-12-01T19:01:19Z" changeset="175372364" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "37 Logan Lane, Waitsfield, VT " to "37 Logan Lane, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Logan Lane"/>
+    <tag k="ref:vcgi:esiteid" v="767127"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671111382" lat="44.2212050" lon="-72.7933358" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "766 Bertha Springs Road, Waitsfield, VT " to "766 Bertha Springs Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="766"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bertha Springs Road"/>
+    <tag k="ref:vcgi:esiteid" v="770591"/>
+  <tag k="addr:postcode" v="05660"/></node>
+  <node id="12671111381" lat="44.2372387" lon="-72.7863334" version="1" timestamp="2025-03-17T01:38:00Z" changeset="163711862" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "463 Old Talc Mine Road, Waitsfield, VT " to "463 Old Talc Mine Road, Moretown, VT 05660". -->
+    <tag k="addr:city" v="Moretown"/>
+    <tag k="addr:housenumber" v="463"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Old Talc Mine Road"/>
+    <tag k="ref:vcgi:esiteid" v="900029"/>
+  <tag k="addr:postcode" v="05660"/></node>
+</modify>
+</osmChange>

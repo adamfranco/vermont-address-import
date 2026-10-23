@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <way id="1197302825" version="3" timestamp="2025-09-29T18:52:40Z" changeset="172627483" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "81 Russet Hill Road, Peru, VT 05148" to "81 Russet Hill Road, Londonderry, VT 05148". -->
+    <center lat="43.2984597" lon="-72.8622943"/>
+    <nd ref="8994643412"/>
+    <nd ref="11109217160"/>
+    <nd ref="11109217159"/>
+    <nd ref="11109217153"/>
+    <nd ref="11109217151"/>
+    <nd ref="11109217150"/>
+    <nd ref="11109217152"/>
+    <nd ref="11109217158"/>
+    <nd ref="11109217157"/>
+    <nd ref="11109217149"/>
+    <nd ref="11109217154"/>
+    <nd ref="11109217155"/>
+    <nd ref="11109217161"/>
+    <nd ref="11109217163"/>
+    <nd ref="11109217162"/>
+    <nd ref="11109217156"/>
+    <nd ref="8994643412"/>
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:postcode" v="05148"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Russet Hill Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="186491"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1276696709" version="2" timestamp="2025-09-29T18:52:40Z" changeset="172627483" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1092 Little Michigan Road, Peru, VT 05152" to "1092 Little Michigan Road, Londonderry, VT 05148". -->
+    <center lat="43.2839307" lon="-72.8783495"/>
+    <nd ref="8869861590"/>
+    <nd ref="11853323315"/>
+    <nd ref="11853323314"/>
+    <nd ref="11853323312"/>
+    <nd ref="11853323311"/>
+    <nd ref="11853323313"/>
+    <nd ref="8869861590"/>
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="1092"/>
+    <tag k="addr:postcode" v="05148"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Little Michigan Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="186492"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="13181273522" lat="43.2809873" lon="-72.8740810" version="1" timestamp="2025-09-29T19:01:54Z" changeset="172627903" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "803 Little Michigan Road, Peru, VT " to "803 Little Michigan Road, Londonderry, VT 05148". -->
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="803"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Little Michigan Road"/>
+    <tag k="ref:vcgi:esiteid" v="186495"/>
+  <tag k="addr:postcode" v="05148"/></node>
+  <way id="1338020728" version="2" timestamp="2025-09-29T19:01:54Z" changeset="172627903" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "558 Little Michigan Road, Peru, VT " to "558 Little Michigan Road, Londonderry, VT 05148". -->
+    <center lat="43.2800509" lon="-72.8705502"/>
+    <nd ref="12376508991"/>
+    <nd ref="12376508992"/>
+    <nd ref="12376508993"/>
+    <nd ref="12376508994"/>
+    <nd ref="12376508995"/>
+    <nd ref="12376508996"/>
+    <nd ref="12376508997"/>
+    <nd ref="12376508998"/>
+    <nd ref="12376508999"/>
+    <nd ref="12376509000"/>
+    <nd ref="12376531501"/>
+    <nd ref="12376531502"/>
+    <nd ref="12376531503"/>
+    <nd ref="12376531504"/>
+    <nd ref="12376531505"/>
+    <nd ref="12376531506"/>
+    <nd ref="12376531507"/>
+    <nd ref="12376531508"/>
+    <nd ref="12376531509"/>
+    <nd ref="12376531510"/>
+    <nd ref="12376508991"/>
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="558"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Little Michigan Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="186498"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05148"/></way>
+  <way id="1338020727" version="2" timestamp="2025-09-29T19:01:54Z" changeset="172627903" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "452 Little Michigan Road, Peru, VT " to "452 Little Michigan Road, Londonderry, VT 05148". -->
+    <center lat="43.2792674" lon="-72.8686972"/>
+    <nd ref="12376508979"/>
+    <nd ref="12376508980"/>
+    <nd ref="12376508981"/>
+    <nd ref="12376508982"/>
+    <nd ref="12376508983"/>
+    <nd ref="12376508984"/>
+    <nd ref="12376508985"/>
+    <nd ref="12376508986"/>
+    <nd ref="12376508987"/>
+    <nd ref="12376508988"/>
+    <nd ref="12376508989"/>
+    <nd ref="12376508990"/>
+    <nd ref="12376508979"/>
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="452"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Little Michigan Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="186500"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05148"/></way>
+  <way id="1338020726" version="2" timestamp="2025-09-29T19:01:54Z" changeset="172627903" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "454 Little Michigan Road, Peru, VT " to "454 Little Michigan Road, Londonderry, VT 05148". -->
+    <center lat="43.2788134" lon="-72.8685510"/>
+    <nd ref="12376508971"/>
+    <nd ref="12376508972"/>
+    <nd ref="12376508973"/>
+    <nd ref="12376508974"/>
+    <nd ref="12376508975"/>
+    <nd ref="12376508976"/>
+    <nd ref="12376508977"/>
+    <nd ref="12376508978"/>
+    <nd ref="12376508971"/>
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="454"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Little Michigan Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="186501"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05148"/></way>
+  <way id="1338020724" version="2" timestamp="2025-09-29T19:01:54Z" changeset="172627903" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "27 Danby Mount Tabor Road, Peru, VT " to "27 Danby Mount Tabor Road, Londonderry, VT 05148". -->
+    <center lat="43.2779947" lon="-72.8672466"/>
+    <nd ref="12376508940"/>
+    <nd ref="12376508941"/>
+    <nd ref="12376508942"/>
+    <nd ref="12376508943"/>
+    <nd ref="12376508944"/>
+    <nd ref="12376508945"/>
+    <nd ref="12376508946"/>
+    <nd ref="12376508947"/>
+    <nd ref="12376508948"/>
+    <nd ref="12376508949"/>
+    <nd ref="12376508950"/>
+    <nd ref="12376508951"/>
+    <nd ref="12376508952"/>
+    <nd ref="12376508953"/>
+    <nd ref="12376508954"/>
+    <nd ref="12376508955"/>
+    <nd ref="12376508956"/>
+    <nd ref="12376508957"/>
+    <nd ref="12376508958"/>
+    <nd ref="12376508959"/>
+    <nd ref="12376508960"/>
+    <nd ref="12376508961"/>
+    <nd ref="12376508962"/>
+    <nd ref="12376508963"/>
+    <nd ref="12376508964"/>
+    <nd ref="12376508965"/>
+    <nd ref="12376508966"/>
+    <nd ref="12376508940"/>
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Danby Mount Tabor Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="186504"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05148"/></way>
+  <way id="1394794116" version="2" timestamp="2025-09-29T19:01:54Z" changeset="172627903" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "323 Little Michigan Road, Peru, VT " to "323 Little Michigan Road, Londonderry, VT 05148". -->
+    <center lat="43.2769192" lon="-72.8666466"/>
+    <nd ref="12910939677"/>
+    <nd ref="12910939678"/>
+    <nd ref="12910939679"/>
+    <nd ref="12910939680"/>
+    <nd ref="12910939681"/>
+    <nd ref="12910939682"/>
+    <nd ref="12910939677"/>
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="323"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Little Michigan Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="186506"/>
+  <tag k="addr:postcode" v="05148"/></way>
+  <way id="1394794114" version="2" timestamp="2025-09-29T19:01:54Z" changeset="172627903" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "168 Little Michigan Road, Peru, VT " to "168 Little Michigan Road, Londonderry, VT 05148". -->
+    <center lat="43.2761876" lon="-72.8626755"/>
+    <nd ref="12910939663"/>
+    <nd ref="12910939664"/>
+    <nd ref="12910939665"/>
+    <nd ref="12910939666"/>
+    <nd ref="12910939667"/>
+    <nd ref="12910939668"/>
+    <nd ref="12910939669"/>
+    <nd ref="12910939670"/>
+    <nd ref="12910939671"/>
+    <nd ref="12910939672"/>
+    <nd ref="12910939663"/>
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Little Michigan Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="186507"/>
+  <tag k="addr:postcode" v="05148"/></way>
+  <way id="1327110798" version="3" timestamp="2025-09-29T19:01:54Z" changeset="172627903" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "143 Nichols Road, Peru, VT " to "143 Nichols Road, Londonderry, VT 05148". -->
+    <center lat="43.2509901" lon="-72.8672126"/>
+    <nd ref="12277488967"/>
+    <nd ref="12277488968"/>
+    <nd ref="12277488969"/>
+    <nd ref="12277488970"/>
+    <nd ref="12277488971"/>
+    <nd ref="12277488972"/>
+    <nd ref="12277488973"/>
+    <nd ref="12277488974"/>
+    <nd ref="12277488975"/>
+    <nd ref="12277488976"/>
+    <nd ref="12946372520"/>
+    <nd ref="12946372519"/>
+    <nd ref="12277488967"/>
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="143"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Nichols Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="186988"/>
+  <tag k="addr:postcode" v="05148"/></way>
+  <node id="13181273345" lat="43.2498805" lon="-72.8649909" version="1" timestamp="2025-09-29T19:01:54Z" changeset="172627903" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "123 Nichols Road, Peru, VT " to "123 Nichols Road, Londonderry, VT 05148". -->
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Nichols Road"/>
+    <tag k="ref:vcgi:esiteid" v="186989"/>
+  <tag k="addr:postcode" v="05148"/></node>
+  <way id="1276696710" version="2" timestamp="2025-09-29T18:52:40Z" changeset="172627483" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1140 Little Michigan Road, Peru, VT 05152" to "1140 Little Michigan Road, Londonderry, VT 05148". -->
+    <center lat="43.2844910" lon="-72.8783945"/>
+    <nd ref="11853323326"/>
+    <nd ref="11853323322"/>
+    <nd ref="8869861589"/>
+    <nd ref="11853323323"/>
+    <nd ref="11853323321"/>
+    <nd ref="11853323320"/>
+    <nd ref="11853323324"/>
+    <nd ref="11853323318"/>
+    <nd ref="11853323319"/>
+    <nd ref="11853323317"/>
+    <nd ref="11853323316"/>
+    <nd ref="11853323325"/>
+    <nd ref="11853323326"/>
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="1140"/>
+    <tag k="addr:postcode" v="05148"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Little Michigan Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="186994"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="13181241187" lat="43.2975417" lon="-72.8607265" version="1" timestamp="2025-09-29T18:50:28Z" changeset="172627407" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "70 Russet Hill Road, Peru, VT " to "70 Russet Hill Road, Londonderry, VT 05148". -->
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Russet Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="750891"/>
+  <tag k="addr:postcode" v="05148"/></node>
+  <node id="13181257589" lat="43.2972351" lon="-72.8608881" version="1" timestamp="2025-09-29T19:01:54Z" changeset="172627903" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "69 Russet Hill Road, Peru, VT " to "69 Russet Hill Road, Londonderry, VT 05148". -->
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Russet Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="769954"/>
+  <tag k="addr:postcode" v="05148"/></node>
+  <way id="1197302823" version="2" timestamp="2025-09-29T19:01:54Z" changeset="172627903" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "75 Russet Hill Road, Peru, VT " to "75 Russet Hill Road, Londonderry, VT 05148". -->
+    <center lat="43.2976505" lon="-72.8622522"/>
+    <nd ref="11109217144"/>
+    <nd ref="11109217143"/>
+    <nd ref="11109217142"/>
+    <nd ref="11109217141"/>
+    <nd ref="11109217144"/>
+    <tag k="addr:city" v="Londonderry"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Russet Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="769955"/>
+  <tag k="addr:postcode" v="05148"/></way>
+</modify>
+</osmChange>

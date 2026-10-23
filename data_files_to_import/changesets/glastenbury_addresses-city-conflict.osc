@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <way id="549162869" version="3" timestamp="2022-10-10T01:08:39Z" changeset="127273951" uid="3887" user="jared">
+    <!-- changed: Updated address from "985 Glastenbury Road, Glastenbury, VT 05262" to "985 Glastenbury Road, Shaftsbury, VT 05262". -->
+    <center lat="43.0016786" lon="-73.1397138"/>
+    <nd ref="10088175210"/>
+    <nd ref="5304862795"/>
+    <nd ref="5304862794"/>
+    <nd ref="5304862793"/>
+    <nd ref="10088175210"/>
+    <tag k="addr:city" v="Shaftsbury"/>
+    <tag k="addr:housenumber" v="985"/>
+    <tag k="addr:postcode" v="05262"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Glastenbury Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="111713"/>
+  </way>
+  <way id="940618776" version="2" timestamp="2022-10-10T01:08:39Z" changeset="127273951" uid="3887" user="jared">
+    <!-- changed: Updated address from "1769 Glastenbury Road, Glastenbury, VT 05201" to "1769 Glastenbury Road, Shaftsbury, VT 05262". -->
+    <center lat="42.9930746" lon="-73.1314526"/>
+    <nd ref="8711201949"/>
+    <nd ref="8711201950"/>
+    <nd ref="8711201951"/>
+    <nd ref="8711201952"/>
+    <nd ref="8711201953"/>
+    <nd ref="8711201954"/>
+    <nd ref="8711201955"/>
+    <nd ref="8711201956"/>
+    <nd ref="8711201957"/>
+    <nd ref="8711201958"/>
+    <nd ref="8711201959"/>
+    <nd ref="8711201960"/>
+    <nd ref="8711201961"/>
+    <nd ref="8711201962"/>
+    <nd ref="8711201963"/>
+    <nd ref="8711201964"/>
+    <nd ref="8711201965"/>
+    <nd ref="8711201966"/>
+    <nd ref="8711201967"/>
+    <nd ref="8711201968"/>
+    <nd ref="8711201969"/>
+    <nd ref="8711201970"/>
+    <nd ref="8711201971"/>
+    <nd ref="8711201972"/>
+    <nd ref="8711201949"/>
+    <tag k="addr:city" v="Shaftsbury"/>
+    <tag k="addr:housenumber" v="1769"/>
+    <tag k="addr:postcode" v="05262"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Glastenbury Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="111714"/>
+  </way>
+  <way id="940618768" version="2" timestamp="2022-10-10T01:08:39Z" changeset="127273951" uid="3887" user="jared">
+    <!-- changed: Updated address from "1718 Glastenbury Road, Glastenbury, VT 05201" to "1718 Glastenbury Road, Shaftsbury, VT 05262". -->
+    <center lat="42.9924262" lon="-73.1338241"/>
+    <nd ref="8711196691"/>
+    <nd ref="8711196692"/>
+    <nd ref="8711196693"/>
+    <nd ref="8711196694"/>
+    <nd ref="8711196695"/>
+    <nd ref="8711196696"/>
+    <nd ref="8711196691"/>
+    <tag k="addr:city" v="Shaftsbury"/>
+    <tag k="addr:housenumber" v="1718"/>
+    <tag k="addr:postcode" v="05262"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Glastenbury Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="111715"/>
+  </way>
+</modify>
+</osmChange>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <way id="1129051721" version="2" timestamp="2025-04-02T19:06:23Z" changeset="164435608" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2231 Hurricane Brook Road, Warner's Grant, VT 05907" to "2231 Hurricane Brook Road, Norton, VT 05907". -->
+    <center lat="44.9335042" lon="-71.8972162"/>
+    <nd ref="10376502069"/>
+    <nd ref="10376502070"/>
+    <nd ref="10376502071"/>
+    <nd ref="10376502072"/>
+    <nd ref="10376502069"/>
+    <tag k="addr:city" v="Norton"/>
+    <tag k="addr:housenumber" v="2231"/>
+    <tag k="addr:postcode" v="05907"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hurricane Brook Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="305331"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+</modify>
+</osmChange>

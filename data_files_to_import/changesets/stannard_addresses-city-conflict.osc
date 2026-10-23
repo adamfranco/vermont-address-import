@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <node id="8949693557" lat="44.5184820" lon="-72.1421879" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "501 Horne Road, Stannard, VT 05842" to "501 Horne Road, Danville, VT 05828". -->
+    <tag k="addr:city" v="Danville"/>
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:postcode" v="05828"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Horne Road"/>
+    <tag k="ref:vcgi:esiteid" v="13"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227454" lat="44.5422493" lon="-72.2598309" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "40 Pine Woods Drive, , VT " to "40 Pine Woods Drive, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Pine Woods Drive"/>
+    <tag k="ref:vcgi:esiteid" v="17"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949706391" lat="44.5707285" lon="-72.2369633" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "8 Perrin Lane, Stannard, VT 05842" to "8 Perrin Lane, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Perrin Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247756"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8951115838" lat="44.5698583" lon="-72.2391309" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "256 Batchelder Road, Stannard, VT 05842" to "256 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="256"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247758"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8951115843" lat="44.5637584" lon="-72.2424721" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "159 Batchelder Road, Stannard, VT 05842" to "159 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="159"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247759"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8951115847" lat="44.5594239" lon="-72.2465122" version="2" timestamp="2025-04-08T15:25:52Z" changeset="164684737" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "73 Batchelder Road, Stannard, VT 05842" to "73 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247760"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8951115845" lat="44.5606235" lon="-72.2445549" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "108 Batchelder Road, Stannard, VT 05842" to "108 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247761"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8951115848" lat="44.5586517" lon="-72.2471102" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "69 Batchelder Road, Stannard, VT 05842" to "69 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247762"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8951115849" lat="44.5568638" lon="-72.2471681" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "46 Batchelder Road, Stannard, VT 05842" to "46 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247764"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8951115850" lat="44.5561822" lon="-72.2490554" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "29 Batchelder Road, Stannard, VT 05842" to "29 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247765"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1039596673" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "12 Norway Road, Stannard, VT 05842" to "12 Norway Road, Greensboro Bend, VT 05842". -->
+    <center lat="44.5533791" lon="-72.2481852"/>
+    <nd ref="9572929683"/>
+    <nd ref="9572929684"/>
+    <nd ref="9572929685"/>
+    <nd ref="9572929686"/>
+    <nd ref="9572929683"/>
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Norway Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247767"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="12739227452" lat="44.5515459" lon="-72.2503170" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "205 Tousant Hill Road, , VT " to "205 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="247768"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227451" lat="44.5495524" lon="-72.2506002" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "178 Tousant Hill Road, , VT " to "178 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="178"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="247770"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227450" lat="44.5499411" lon="-72.2520171" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "173 Tousant Hill Road, , VT " to "173 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="247773"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949706354" lat="44.5484639" lon="-72.2530637" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "158 Tousant Hill Road, Stannard, VT 05842" to "158 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="commercial"/>
+    <tag k="ref:vcgi:esiteid" v="247774"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706352" lat="44.5481535" lon="-72.2546528" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "137 Tousant Hill Road, Stannard, VT 05842" to "137 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247782"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706353" lat="44.5485826" lon="-72.2539085" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "145 Tousant Hill Road, Stannard, VT 05842" to "145 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247783"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706351" lat="44.5478146" lon="-72.2553479" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "127 Tousant Hill Road, Stannard, VT 05842" to "127 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247785"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706346" lat="44.5452052" lon="-72.2590184" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "65 Tousant Hill Road, Stannard, VT 05842" to "65 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247786"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227449" lat="44.5452344" lon="-72.2578354" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5 Penny Lane, , VT " to "5 Penny Lane, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Penny Lane"/>
+    <tag k="ref:vcgi:esiteid" v="247787"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227448" lat="44.5452009" lon="-72.2561042" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "23 Penny Lane, , VT " to "23 Penny Lane, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Penny Lane"/>
+    <tag k="ref:vcgi:esiteid" v="247791"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949706343" lat="44.5441314" lon="-72.2604851" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "54 Tousant Hill Road, Stannard, VT 05842" to "54 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247793"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706355" lat="44.5445846" lon="-72.2560078" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "28 Penny Lane, Stannard, VT 05842" to "28 Penny Lane, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Penny Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247794"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706356" lat="44.5444232" lon="-72.2555340" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "34 Penny Lane, Stannard, VT 05842" to "34 Penny Lane, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Penny Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247795"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706357" lat="44.5443644" lon="-72.2551097" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "36 Penny Lane, Stannard, VT 05842" to "36 Penny Lane, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Penny Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247796"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706359" lat="44.5401159" lon="-72.2538335" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "57 Hutchins Farm Road, Stannard, VT 05842" to "57 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247797"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227447" lat="44.5522390" lon="-72.2433877" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "63 Norway Road, , VT " to "63 Norway Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Norway Road"/>
+    <tag k="ref:vcgi:esiteid" v="247798"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8951115839" lat="44.5689033" lon="-72.2405841" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "237 Batchelder Road, Stannard, VT 05842" to "237 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="237"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247799"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1354348762" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "176 Gonyaw Road, Stannard, VT 05842" to "176 Gonyaw Road, Greensboro Bend, VT 05842". -->
+    <center lat="44.5702639" lon="-72.2333343"/>
+    <nd ref="12533517234"/>
+    <nd ref="12533517233"/>
+    <nd ref="12533517232"/>
+    <nd ref="12533517231"/>
+    <nd ref="12533517230"/>
+    <nd ref="12533517229"/>
+    <nd ref="8951115840"/>
+    <nd ref="12533517228"/>
+    <nd ref="12533517234"/>
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Gonyaw Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247800"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1354348759" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "182 Gonyaw Road, Stannard, VT 05842" to "182 Gonyaw Road, Greensboro Bend, VT 05842". -->
+    <center lat="44.5710470" lon="-72.2330017"/>
+    <nd ref="8951115842"/>
+    <nd ref="12533517219"/>
+    <nd ref="12533517218"/>
+    <nd ref="12533517217"/>
+    <nd ref="8951115842"/>
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="182"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Gonyaw Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247802"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1354348763" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "190 Gonyaw Road, Stannard, VT 05842" to "190 Gonyaw Road, Greensboro Bend, VT 05842". -->
+    <center lat="44.5702538" lon="-72.2323490"/>
+    <nd ref="8951115841"/>
+    <nd ref="12533517237"/>
+    <nd ref="12533517236"/>
+    <nd ref="12533517235"/>
+    <nd ref="8951115841"/>
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Gonyaw Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247803"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1354348765" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "227 Gonyaw Road, Stannard, VT 05842" to "227 Gonyaw Road, Greensboro Bend, VT 05842". -->
+    <center lat="44.5693143" lon="-72.2293768"/>
+    <nd ref="12533517247"/>
+    <nd ref="8949706387"/>
+    <nd ref="12533517246"/>
+    <nd ref="12533517245"/>
+    <nd ref="12533517244"/>
+    <nd ref="12533517243"/>
+    <nd ref="12533517247"/>
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="227"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Gonyaw Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247804"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1354348764" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "220 Gonyaw Road, Stannard, VT 05842" to "220 Gonyaw Road, Greensboro Bend, VT 05842". -->
+    <center lat="44.5692487" lon="-72.2302990"/>
+    <nd ref="12533517242"/>
+    <nd ref="12533517241"/>
+    <nd ref="12533517240"/>
+    <nd ref="8949706386"/>
+    <nd ref="12533517239"/>
+    <nd ref="12533517238"/>
+    <nd ref="12533517242"/>
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Gonyaw Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247805"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1354348768" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "244 Gonyaw Road, Stannard, VT 05842" to "244 Gonyaw Road, Greensboro Bend, VT 05842". -->
+    <center lat="44.5681066" lon="-72.2286932"/>
+    <nd ref="12533517266"/>
+    <nd ref="12533517265"/>
+    <nd ref="12533517264"/>
+    <nd ref="12533517263"/>
+    <nd ref="8949706388"/>
+    <nd ref="12533517262"/>
+    <nd ref="12533517261"/>
+    <nd ref="12533517260"/>
+    <nd ref="12533517259"/>
+    <nd ref="12533517258"/>
+    <nd ref="12533517266"/>
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Gonyaw Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247807"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1354348769" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "258 Gonyaw Road, Stannard, VT 05842" to "258 Gonyaw Road, Greensboro Bend, VT 05842". -->
+    <center lat="44.5675620" lon="-72.2272579"/>
+    <nd ref="12533517273"/>
+    <nd ref="12533517272"/>
+    <nd ref="12533517271"/>
+    <nd ref="12533517270"/>
+    <nd ref="12533517269"/>
+    <nd ref="12533517268"/>
+    <nd ref="8949706389"/>
+    <nd ref="12533517267"/>
+    <nd ref="12533517273"/>
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Gonyaw Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247808"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="12739227446" lat="44.5668802" lon="-72.2232470" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "302 Gonyaw Road, , VT " to "302 Gonyaw Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Gonyaw Road"/>
+    <tag k="ref:vcgi:esiteid" v="247809"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949693604" lat="44.5612458" lon="-72.2148892" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "87 Flagg Pond Road, Stannard, VT 05842" to "87 Flagg Pond Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Flagg Pond Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247810"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706384" lat="44.5559990" lon="-72.2244001" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "63 Winchester Road, Stannard, VT 05842" to "63 Winchester Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winchester Road"/>
+    <tag k="building" v="commercial"/>
+    <tag k="ref:vcgi:esiteid" v="247811"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706385" lat="44.5560220" lon="-72.2240829" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "64 Winchester Road, Stannard, VT 05842" to "64 Winchester Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winchester Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247812"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693603" lat="44.5578139" lon="-72.2166182" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "139 Flagg Pond Road, Stannard, VT 05842" to "139 Flagg Pond Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Flagg Pond Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247814"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="13433835234" lat="44.5544307" lon="-72.2149403" version="1" timestamp="2026-01-06T05:00:13Z" changeset="176887581" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "31 Batten Road, , VT " to "31 Batten Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batten Road"/>
+    <tag k="ref:vcgi:esiteid" v="247815"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949693602" lat="44.5535165" lon="-72.2173022" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "30 Batten Road, Stannard, VT 05842" to "30 Batten Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batten Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247816"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706382" lat="44.5540947" lon="-72.2222156" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "26 Winchester Road, Stannard, VT 05842" to "26 Winchester Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winchester Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247817"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227445" lat="44.5540833" lon="-72.2388712" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "97 Norway Road, , VT " to "97 Norway Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Norway Road"/>
+    <tag k="ref:vcgi:esiteid" v="247820"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227444" lat="44.5506502" lon="-72.2408845" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "98 Norway Road, , VT " to "98 Norway Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Norway Road"/>
+    <tag k="ref:vcgi:esiteid" v="247821"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227443" lat="44.5499721" lon="-72.2372288" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "139 Norway Road, , VT " to "139 Norway Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Norway Road"/>
+    <tag k="ref:vcgi:esiteid" v="247822"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <way id="228113891" version="2" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "283 Stannard Mountain Road, , VT " to "283 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <center lat="44.5460222" lon="-72.2404834"/>
+    <nd ref="2367516526"/>
+    <nd ref="2367516531"/>
+    <nd ref="2367516533"/>
+    <nd ref="2367516529"/>
+    <nd ref="2367516526"/>
+    <tag k="addr:housenumber" v="283"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="building" v="garage"/>
+    <tag k="name" v="Stannard Town Garage"/>
+    <tag k="ref:vcgi:esiteid" v="247823"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></way>
+  <node id="12739227442" lat="44.5459322" lon="-72.2394071" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "297 Stannard Mountain Road, , VT " to "297 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="297"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="ref:vcgi:esiteid" v="247824"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227441" lat="44.5468399" lon="-72.2380545" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "315 Stannard Mountain Road, , VT " to "315 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="315"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="ref:vcgi:esiteid" v="247825"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949706376" lat="44.5460537" lon="-72.2326171" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "41 Old Pasture Road, Stannard, VT 05842" to "41 Old Pasture Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Old Pasture Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247827"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706377" lat="44.5481906" lon="-72.2313567" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "393 Stannard Mountain Road, Stannard, VT 05842" to "393 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="393"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247828"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706380" lat="44.5499967" lon="-72.2248802" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "292 Flagg Pond Road, Stannard, VT 05842" to "292 Flagg Pond Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="292"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Flagg Pond Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247830"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227440" lat="44.5447016" lon="-72.2175376" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "50 Ayer Lane, , VT " to "50 Ayer Lane, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Ayer Lane"/>
+    <tag k="ref:vcgi:esiteid" v="247832"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227439" lat="44.5447302" lon="-72.2218950" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "512 Stannard Mountain Road, , VT " to "512 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="512"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="ref:vcgi:esiteid" v="247833"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949693589" lat="44.5490988" lon="-72.2086270" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "95 Olney Road, Stannard, VT 05842" to "95 Olney Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Olney Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247834"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693599" lat="44.5433268" lon="-72.1930737" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "152 Sheppard Road, Stannard, VT 05842" to "152 Sheppard Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sheppard Road"/>
+    <tag k="ref:vcgi:esiteid" v="247836"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693594" lat="44.5446509" lon="-72.2028461" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "9 Willy Road, Stannard, VT 05842" to "9 Willy Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Willy Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247837"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693595" lat="44.5471093" lon="-72.2015824" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "50 Willy Road, Stannard, VT 05842" to "50 Willy Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Willy Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247840"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693596" lat="44.5453693" lon="-72.1955136" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "801 Stannard Mountain Road, Stannard, VT 05842" to "801 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="801"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247842"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693593" lat="44.5431867" lon="-72.2011820" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "33 Hall Road, Stannard, VT 05842" to "33 Hall Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hall Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247844"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693598" lat="44.5424138" lon="-72.1957594" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "78 Sheppard Road, Stannard, VT 05842" to "78 Sheppard Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sheppard Road"/>
+    <tag k="ref:vcgi:esiteid" v="247845"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693592" lat="44.5430918" lon="-72.2029700" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "20 Hall Road, Stannard, VT 05842" to "20 Hall Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hall Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247846"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693591" lat="44.5435607" lon="-72.2041691" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4 Hall Road, Stannard, VT 05842" to "4 Hall Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hall Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247847"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693590" lat="44.5437958" lon="-72.2058631" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "691 Stannard Mountain Road, Stannard, VT 05842" to "691 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="691"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247848"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693588" lat="44.5434052" lon="-72.2114169" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "10 Olney Road, Stannard, VT 05842" to "10 Olney Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Olney Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247849"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="228113101" version="4" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "620 Stannard Mountain Road, Stannard, VT 05842" to "620 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <center lat="44.5424248" lon="-72.2123466"/>
+    <nd ref="8949693587"/>
+    <nd ref="2367504950"/>
+    <nd ref="2367504946"/>
+    <nd ref="2367504943"/>
+    <nd ref="8949693587"/>
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="620"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="alt_name" v="Methodist Episcopal Church"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="building:architecture" v="Victorian_vernacular"/>
+    <tag k="denomination" v="methodist"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="nrhp"/>
+    <tag k="heritage:ref" v="78000229"/>
+    <tag k="heritage:website" v="https://npgallery.nps.gov/AssetDetail/NRIS/78000229"/>
+    <tag k="historic" v="heritage"/>
+    <tag k="image" v="https://upload.wikimedia.org/wikipedia/commons/f/f1/Church_in_Stannard%2C_Vermont.jpg"/>
+    <tag k="name" v="Stannard-Greensboro Bend Methodist Church"/>
+    <tag k="ref:nrhp" v="78000229"/>
+    <tag k="ref:vcgi:esiteid" v="247850"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+    <tag k="start_date" v="1888"/>
+    <tag k="wikidata" v="Q14711921"/>
+    <tag k="wikipedia" v="en:Methodist Episcopal Church (Stannard, Vermont)"/>
+  </way>
+  <way id="228113102" version="3" timestamp="2026-01-08T23:48:57Z" changeset="177004992" uid="1771944" user="dkwolf">
+    <!-- changed: Updated address from "615 Stannard Mountain Road, Stannard, VT 05842" to "615 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <center lat="44.5427940" lon="-72.2130870"/>
+    <nd ref="2367504961"/>
+    <nd ref="2367504963"/>
+    <nd ref="2367504956"/>
+    <nd ref="2367504954"/>
+    <nd ref="2367504959"/>
+    <nd ref="2367504957"/>
+    <nd ref="2367504961"/>
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="building" v="school"/>
+    <tag k="description" v="One room schoolhouse with Stannard Town Clerk office."/>
+    <tag k="name" v="Stannard Town Office"/>
+    <tag k="name_1" v="Stannard Town Clerk"/>
+    <tag k="ref:vcgi:esiteid" v="247851"/>
+  </way>
+  <node id="8949693583" lat="44.5425662" lon="-72.2139348" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "605 Stannard Mountain Road, Stannard, VT 05842" to "605 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="605"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247853"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693586" lat="44.5430526" lon="-72.2127108" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "621 Stannard Mountain Road, Stannard, VT 05842" to "621 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="621"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247854"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693582" lat="44.5417299" lon="-72.2151291" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "12 Lazy Mill Road, Stannard, VT 05842" to "12 Lazy Mill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lazy Mill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247855"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693584" lat="44.5426281" lon="-72.2153959" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "589 Stannard Mountain Road, Stannard, VT 05842" to "589 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="589"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247857"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227438" lat="44.5431525" lon="-72.2163364" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "575 Stannard Mountain Road, , VT " to "575 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="575"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="ref:vcgi:esiteid" v="247858"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227437" lat="44.5418945" lon="-72.2179323" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "20 Four Wheel Drive Road, , VT " to "20 Four Wheel Drive Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Four Wheel Drive Road"/>
+    <tag k="ref:vcgi:esiteid" v="247860"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949706375" lat="44.5429324" lon="-72.2310628" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "92 Old Pasture Road, Stannard, VT 05842" to "92 Old Pasture Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Old Pasture Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247862"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706358" lat="44.5393554" lon="-72.2543540" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "52 Hutchins Farm Road, Stannard, VT 05842" to "52 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247864"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706360" lat="44.5408741" lon="-72.2481175" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "117 Hutchins Farm Road, Stannard, VT 05842" to "117 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247866"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706361" lat="44.5389625" lon="-72.2456818" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "155 Hutchins Farm Road, Stannard, VT 05842" to "155 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247867"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706362" lat="44.5376409" lon="-72.2456209" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "156 Hutchins Farm Road, Stannard, VT 05842" to "156 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247869"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227436" lat="44.5383027" lon="-72.2439973" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "170 Hutchins Farm Road, , VT " to "170 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="ref:vcgi:esiteid" v="247870"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="12739227435" lat="44.5391696" lon="-72.2438155" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "174 Hutchins Farm Road, , VT " to "174 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="174"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="ref:vcgi:esiteid" v="247871"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="8949706363" lat="44.5378519" lon="-72.2426025" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "191 Hutchins Farm Road, Stannard, VT 05842" to "191 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="191"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247872"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706365" lat="44.5370012" lon="-72.2391320" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "235 Hutchins Farm Road, Stannard, VT 05842" to "235 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247874"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227434" lat="44.5357545" lon="-72.2367647" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "261 Hutchins Farm Road, , VT " to "261 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="261"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="ref:vcgi:esiteid" v="247876"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="8949706374" lat="44.5373715" lon="-72.2333017" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "251 Hutchins Farm Road, Stannard, VT 05842" to "251 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="251"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247877"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693579" lat="44.5371842" lon="-72.2233180" version="2" timestamp="2025-04-08T15:24:20Z" changeset="164684679" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "128 Lazy Mill Road, Stannard, VT 05842" to "128 Lazy Mill Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lazy Mill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247880"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693577" lat="44.5363636" lon="-72.2168761" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "25 Silver Road, Stannard, VT 05842" to "25 Silver Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Silver Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247881"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693578" lat="44.5347808" lon="-72.2162815" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "48 Silver Road, Stannard, VT 05842" to "48 Silver Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Silver Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247883"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693561" lat="44.5337873" lon="-72.2028218" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "33 Sabin Road, Stannard, VT 05842" to "33 Sabin Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sabin Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247884"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693562" lat="44.5335662" lon="-72.2036468" version="2" timestamp="2025-04-08T15:22:22Z" changeset="164684540" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "26 Sabin Road, Stannard, VT 05842" to "26 Sabin Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sabin Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247885"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693565" lat="44.5335419" lon="-72.2071008" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "169 Silver Road, Stannard, VT 05842" to "169 Silver Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Silver Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247886"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227433" lat="44.5345568" lon="-72.2062149" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "185 Silver Road, , VT " to "185 Silver Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Silver Road"/>
+    <tag k="ref:vcgi:esiteid" v="247888"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="8949693564" lat="44.5349544" lon="-72.2056628" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "196 Silver Road, Stannard, VT 05842" to "196 Silver Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="196"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Silver Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247889"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693563" lat="44.5349499" lon="-72.2035647" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "15 Sabin Road, Stannard, VT 05842" to "15 Sabin Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sabin Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247891"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693566" lat="44.5326577" lon="-72.2114908" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "101 Silver Road, Stannard, VT 05842" to "101 Silver Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Silver Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247892"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693567" lat="44.5328827" lon="-72.2121763" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "99 Silver Road, Stannard, VT 05842" to "99 Silver Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Silver Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247893"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706368" lat="44.5301425" lon="-72.2294422" version="2" timestamp="2025-04-08T15:24:20Z" changeset="164684679" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "7 Reynolds Road, Stannard, VT 05842" to "7 Reynolds Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Reynolds Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247894"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706367" lat="44.5308528" lon="-72.2292377" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "231 Lazy Mill Road, Stannard, VT 05842" to "231 Lazy Mill Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="231"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lazy Mill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247895"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227432" lat="44.5520887" lon="-72.2445506" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "56 Norway Road, , VT " to "56 Norway Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Norway Road"/>
+    <tag k="ref:vcgi:esiteid" v="247900"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949693597" lat="44.5387016" lon="-72.1936995" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "351 Sheppard Road, Stannard, VT 05842" to "351 Sheppard Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="351"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sheppard Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247902"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706364" lat="44.5362728" lon="-72.2392292" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "232 Hutchins Farm Road, Stannard, VT 05842" to "232 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="ref:vcgi:esiteid" v="247904"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227431" lat="44.5331832" lon="-72.2253519" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "179 Lazy Mill Road, , VT " to "179 Lazy Mill Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="179"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lazy Mill Road"/>
+    <tag k="ref:vcgi:esiteid" v="247905"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="8949706366" lat="44.5310816" lon="-72.2296886" version="2" timestamp="2025-04-08T15:24:20Z" changeset="164684679" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "232 Lazy Mill Road, Stannard, VT 05842" to "232 Lazy Mill Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lazy Mill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247908"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693571" lat="44.5306217" lon="-72.2307653" version="2" timestamp="2025-04-08T15:24:20Z" changeset="164684679" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4 Skunk Hollow Road, Stannard, VT 05842" to "4 Skunk Hollow Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Skunk Hollow Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247909"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227430" lat="44.5444789" lon="-72.1919796" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "111 Sheppard Road, , VT " to "111 Sheppard Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sheppard Road"/>
+    <tag k="ref:vcgi:esiteid" v="247911"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227429" lat="44.5444282" lon="-72.1989910" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "764 Stannard Mountain Road, , VT " to "764 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="ref:vcgi:esiteid" v="247912"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949706381" lat="44.5500644" lon="-72.2234366" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "287 Flagg Pond Road, Stannard, VT 05842" to "287 Flagg Pond Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="287"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Flagg Pond Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247913"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227428" lat="44.5370052" lon="-72.2046745" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1 Sabin Road, , VT " to "1 Sabin Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sabin Road"/>
+    <tag k="ref:vcgi:esiteid" v="247914"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="8951115851" lat="44.5535662" lon="-72.2497104" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "221 Tousant Hill Road, Stannard, VT 05842" to "221 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247915"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706345" lat="44.5447524" lon="-72.2583676" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "66 Tousant Hill Road, Stannard, VT 05842" to "66 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247916"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227427" lat="44.5384101" lon="-72.2443492" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "171 Hutchins Farm Road, , VT " to "171 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="ref:vcgi:esiteid" v="247917"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="8949693581" lat="44.5385315" lon="-72.2180931" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "42 Lazy Mill Road, Stannard, VT 05842" to "42 Lazy Mill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lazy Mill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247918"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706349" lat="44.5472282" lon="-72.2559742" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "123 Tousant Hill Road, Stannard, VT 05842" to "123 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247919"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706348" lat="44.5467772" lon="-72.2565252" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "119 Tousant Hill Road, Stannard, VT 05842" to "119 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247920"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706347" lat="44.5464081" lon="-72.2573844" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "105 Tousant Hill Road, Stannard, VT 05842" to "105 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247921"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693568" lat="44.5335890" lon="-72.2158322" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "12 Ransom Road, Stannard, VT 05842" to "12 Ransom Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Ransom Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247922"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706371" lat="44.5356232" lon="-72.2237354" version="2" timestamp="2025-04-08T15:24:20Z" changeset="164684679" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "148 Lazy Mill Road, Stannard, VT 05842" to "148 Lazy Mill Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lazy Mill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247923"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227426" lat="44.5404071" lon="-72.2533847" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "63 Hutchins Farm Road, , VT " to "63 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="ref:vcgi:esiteid" v="247924"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="12739227425" lat="44.5452210" lon="-72.2577830" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "7 Penny Lane, , VT " to "7 Penny Lane, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Penny Lane"/>
+    <tag k="ref:vcgi:esiteid" v="247925"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8951115844" lat="44.5658382" lon="-72.2418772" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "185 Batchelder Road, Stannard, VT 05842" to "185 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247926"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693580" lat="44.5380138" lon="-72.2224164" version="2" timestamp="2025-04-08T15:24:20Z" changeset="164684679" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "131 Lazy Mill Road, Stannard, VT 05842" to "131 Lazy Mill Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lazy Mill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247927"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739195014" lat="44.5554388" lon="-72.2503480" version="1" timestamp="2025-04-08T15:25:52Z" changeset="164684737" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "17 Batchelder Road, , VT " to "17 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="ref:vcgi:esiteid" v="247928"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949706344" lat="44.5448546" lon="-72.2601683" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "55 Tousant Hill Road, Stannard, VT 05842" to "55 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247929"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693574" lat="44.5325517" lon="-72.2276762" version="2" timestamp="2025-04-08T15:24:20Z" changeset="164684679" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "226 Lazy Mill Road, Stannard, VT 05842" to "226 Lazy Mill Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="226"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lazy Mill Road"/>
+    <tag k="building" v="commercial"/>
+    <tag k="ref:vcgi:esiteid" v="247930"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693601" lat="44.5511985" lon="-72.1945139" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3098 Stannard Mountain Road, Stannard, VT 05842" to "3098 Stannard Mountain Road, Lyndonville, VT 05851". -->
+    <tag k="addr:city" v="Lyndonville"/>
+    <tag k="addr:housenumber" v="3098"/>
+    <tag k="addr:postcode" v="05851"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="ref:vcgi:esiteid" v="285790"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693559" lat="44.5229055" lon="-72.1453529" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "478 Horne Road, Wheelock, VT 05842" to "478 Horne Road, Danville, VT 05828". -->
+    <tag k="addr:city" v="Danville"/>
+    <tag k="addr:housenumber" v="478"/>
+    <tag k="addr:postcode" v="05828"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Horne Road"/>
+    <tag k="ref:vcgi:esiteid" v="285856"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693558" lat="44.5210560" lon="-72.1425151" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "502 Horne Road, Wheelock, VT 05842" to "502 Horne Road, Danville, VT 05828". -->
+    <tag k="addr:city" v="Danville"/>
+    <tag k="addr:housenumber" v="502"/>
+    <tag k="addr:postcode" v="05828"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Horne Road"/>
+    <tag k="ref:vcgi:esiteid" v="285858"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693600" lat="44.5436257" lon="-72.1920711" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "135 Sheppard Road, Stannard, VT 05842" to "135 Sheppard Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sheppard Road"/>
+    <tag k="ref:vcgi:esiteid" v="305551"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706350" lat="44.5465571" lon="-72.2554393" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "126 Tousant Hill Road, Stannard, VT 05842" to "126 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="306294"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706379" lat="44.5471751" lon="-72.2251165" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "443 Stannard Mountain Road, Stannard, VT 05842" to "443 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="443"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="310893"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949693576" lat="44.5362361" lon="-72.2182844" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "26 Silver Road, Stannard, VT 05842" to "26 Silver Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Silver Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="326334"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227424" lat="44.5430952" lon="-72.2193907" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "520 Stannard Mountain Road, , VT " to "520 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="520"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="ref:vcgi:esiteid" v="334267"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949693606" lat="44.5628121" lon="-72.2170166" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "34 Flagg Pond Road, Stannard, VT 05842" to "34 Flagg Pond Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Flagg Pond Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="335429"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8949706378" lat="44.5483179" lon="-72.2257587" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "391 Flagg Pond Road, Stannard, VT 05842" to "391 Flagg Pond Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="391"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Flagg Pond Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="336230"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227423" lat="44.5453034" lon="-72.2544197" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "41 Penny Lane, , VT " to "41 Penny Lane, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Penny Lane"/>
+    <tag k="ref:vcgi:esiteid" v="340061"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227422" lat="44.5443625" lon="-72.2591711" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "64 Tousant Hill Road, , VT " to "64 Tousant Hill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tousant Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="345863"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227421" lat="44.5443177" lon="-72.2021795" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "727 Stannard Mountain Road, , VT " to "727 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="727"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="ref:vcgi:esiteid" v="365251"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227420" lat="44.5374881" lon="-72.2409263" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "215 Hutchins Farm Road, , VT " to "215 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="ref:vcgi:esiteid" v="365609"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="8951115846" lat="44.5606380" lon="-72.2455104" version="2" timestamp="2025-04-08T15:25:52Z" changeset="164684737" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "99 Batchelder Road, Stannard, VT 05842" to "99 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="ref:vcgi:esiteid" v="448655"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227419" lat="44.5426729" lon="-72.2542162" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "135 Stannard Mountain Road, , VT " to "135 Stannard Mountain Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stannard Mountain Road"/>
+    <tag k="ref:vcgi:esiteid" v="449575"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="8949706383" lat="44.5521326" lon="-72.2202334" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "205 Flagg Pond Road, Stannard, VT 05842" to "205 Flagg Pond Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:city" v="Greensboro Bend"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:postcode" v="05842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Flagg Pond Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="450883"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227418" lat="44.5353597" lon="-72.2004469" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "43 Sabin Road, , VT " to "43 Sabin Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sabin Road"/>
+    <tag k="ref:vcgi:esiteid" v="451157"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="8949693560" lat="44.5320478" lon="-72.2001027" version="2" timestamp="2025-04-08T15:31:35Z" changeset="164684995" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "58 Sabin Road, Stannard, VT 05842" to "58 Sabin Road, East Hardwick, VT 05836". -->
+    <tag k="addr:city" v="East Hardwick"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="05836"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sabin Road"/>
+    <tag k="ref:vcgi:esiteid" v="451158"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12739227417" lat="44.5326349" lon="-72.1969328" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "87 Sabin Road, , VT " to "87 Sabin Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sabin Road"/>
+    <tag k="ref:vcgi:esiteid" v="451159"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="12739227416" lat="44.5400814" lon="-72.2126087" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "21 Lazy Mill Road, , VT " to "21 Lazy Mill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lazy Mill Road"/>
+    <tag k="ref:vcgi:esiteid" v="455387"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227415" lat="44.5439690" lon="-72.2570189" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "17 Pine Woods Drive, , VT " to "17 Pine Woods Drive, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Pine Woods Drive"/>
+    <tag k="ref:vcgi:esiteid" v="613589"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227414" lat="44.5427191" lon="-72.2581430" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "34 Pine Woods Drive, , VT " to "34 Pine Woods Drive, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Pine Woods Drive"/>
+    <tag k="ref:vcgi:esiteid" v="613590"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227413" lat="44.5425295" lon="-72.2571379" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "39 Pine Woods Drive, , VT " to "39 Pine Woods Drive, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Pine Woods Drive"/>
+    <tag k="ref:vcgi:esiteid" v="613591"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227412" lat="44.5333941" lon="-72.2032520" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "30 Sabin Road, , VT " to "30 Sabin Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sabin Road"/>
+    <tag k="ref:vcgi:esiteid" v="618222"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="12739227410" lat="44.5397021" lon="-72.2153664" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "31 Lazy Mill Road, , VT " to "31 Lazy Mill Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lazy Mill Road"/>
+    <tag k="ref:vcgi:esiteid" v="756538"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="12739227409" lat="44.5409090" lon="-72.2456944" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "141 Hutchins Farm Road, , VT " to "141 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="ref:vcgi:esiteid" v="757034"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="12739227408" lat="44.5345861" lon="-72.2398117" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "240 Hutchins Farm Road, , VT " to "240 Hutchins Farm Road, East Hardwick, VT 05836". -->
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hutchins Farm Road"/>
+    <tag k="ref:vcgi:esiteid" v="757035"/>
+  <tag k="addr:city" v="East Hardwick"/><tag k="addr:postcode" v="05836"/></node>
+  <node id="12739227407" lat="44.5592700" lon="-72.2166124" version="1" timestamp="2025-04-08T15:32:28Z" changeset="164685039" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "114 Flagg Pond Road, , VT " to "114 Flagg Pond Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Flagg Pond Road"/>
+    <tag k="ref:vcgi:esiteid" v="767522"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="356556609" lat="44.5554841" lon="-72.2483526" version="3" timestamp="2025-11-26T22:07:26Z" changeset="175174284" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "24 Batchelder Road, , VT " to "24 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="amenity" v="grave_yard"/>
+    <tag k="ele" v="436"/>
+    <tag k="gnis:feature_id" v="1919436"/>
+    <tag k="name" v="Batchelder Cemetery"/>
+    <tag k="ref:vcgi:esiteid" v="771331"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="13334767481" lat="44.5544451" lon="-72.2474109" version="1" timestamp="2025-11-26T22:07:26Z" changeset="175174284" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "10 Batchelder Road, , VT " to "10 Batchelder Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="ref:vcgi:esiteid" v="771378"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+  <node id="13433835233" lat="44.5543012" lon="-72.2144749" version="1" timestamp="2026-01-06T05:00:13Z" changeset="176887581" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "33 Batten Road, , VT " to "33 Batten Road, Greensboro Bend, VT 05842". -->
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Batten Road"/>
+    <tag k="ref:vcgi:esiteid" v="772898"/>
+  <tag k="addr:city" v="Greensboro Bend"/><tag k="addr:postcode" v="05842"/></node>
+</modify>
+</osmChange>

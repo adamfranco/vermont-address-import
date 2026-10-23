@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <node id="9008963388" lat="44.3557581" lon="-72.5650373" version="2" timestamp="2025-03-19T02:24:17Z" changeset="163798371" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "355 Worcester Village Road, Worcester, VT 05682" to "355 Worcester Village Road, Montpelier, VT 05602". -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:postcode" v="05602"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Worcester Village Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="304654"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9008963387" lat="44.3537908" lon="-72.5649719" version="2" timestamp="2025-03-19T02:24:17Z" changeset="163798371" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "383 Worcester Village Road, Worcester, VT 05682" to "383 Worcester Village Road, Montpelier, VT 05602". -->
+    <tag k="addr:city" v="Montpelier"/>
+    <tag k="addr:housenumber" v="383"/>
+    <tag k="addr:postcode" v="05602"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Worcester Village Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="304655"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+</modify>
+</osmChange>

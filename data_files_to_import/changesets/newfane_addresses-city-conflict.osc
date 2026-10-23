@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <node id="13233210045" lat="43.0121099" lon="-72.7459360" version="1" timestamp="2025-10-14T17:22:38Z" changeset="173286819" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1165 South Wardsboro Road, Newfane, VT " to "1165 South Wardsboro Road, Wardsboro, VT 05355". -->
+    <tag k="addr:city" v="Wardsboro"/>
+    <tag k="addr:housenumber" v="1165"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="South Wardsboro Road"/>
+    <tag k="ref:vcgi:esiteid" v="174821"/>
+  <tag k="addr:postcode" v="05355"/></node>
+  <node id="13233209887" lat="42.9795396" lon="-72.7462227" version="1" timestamp="2025-10-14T17:22:38Z" changeset="173286819" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "493 Adams Hill Road, Newfane, VT " to "493 Adams Hill Road, South Newfane, VT 05351". -->
+    <tag k="addr:city" v="South Newfane"/>
+    <tag k="addr:housenumber" v="493"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Adams Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="175144"/>
+  <tag k="addr:postcode" v="05351"/></node>
+  <node id="8858801634" lat="42.9375812" lon="-72.7059184" version="3" timestamp="2025-11-25T21:27:26Z" changeset="175129272" uid="27832" user="Adam Franco">
+    <!-- changed: Updated address from "362 Dover Road, South Newfane, VT 05345" to "362 Dover Road, Williamsville, VT 05362". -->
+    <tag k="addr:city" v="Williamsville"/>
+    <tag k="addr:housenumber" v="362"/>
+    <tag k="addr:postcode" v="05362"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Dover Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="175646"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8858801638" lat="42.9369842" lon="-72.7036273" version="3" timestamp="2025-11-25T21:27:26Z" changeset="175129272" uid="27832" user="Adam Franco">
+    <!-- changed: Updated address from "349 Dover Road, South Newfane, VT 05345" to "349 Dover Road, Williamsville, VT 05362". -->
+    <tag k="addr:city" v="Williamsville"/>
+    <tag k="addr:housenumber" v="349"/>
+    <tag k="addr:postcode" v="05362"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Dover Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="175649"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8858801636" lat="42.9369926" lon="-72.7050550" version="3" timestamp="2025-11-25T21:27:26Z" changeset="175129272" uid="27832" user="Adam Franco">
+    <!-- changed: Updated address from "365 Dover Road, South Newfane, VT 05345" to "365 Dover Road, Williamsville, VT 05362". -->
+    <tag k="addr:city" v="Williamsville"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:postcode" v="05362"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Dover Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="175653"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8858801637" lat="42.9369037" lon="-72.7042777" version="3" timestamp="2025-11-25T21:27:26Z" changeset="175129272" uid="27832" user="Adam Franco">
+    <!-- changed: Updated address from "367 Dover Road, South Newfane, VT 05345" to "367 Dover Road, Williamsville, VT 05362". -->
+    <tag k="addr:city" v="Williamsville"/>
+    <tag k="addr:housenumber" v="367"/>
+    <tag k="addr:postcode" v="05362"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Dover Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="175655"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="11139136033" lat="42.9272824" lon="-72.6490397" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "36 Lost Mile Road, Newfane, VT 05301" to "36 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="175699"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="11139136082" lat="42.9297358" lon="-72.6504433" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "54 Lost Mile Road, Newfane, VT 05301" to "54 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="175705"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="11139136085" lat="42.9265503" lon="-72.6583756" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "114 Lost Mile Road, Newfane, VT 05301" to "114 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="175712"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="11139136084" lat="42.9264271" lon="-72.6562878" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "88 Lost Mile Road, Newfane, VT 05301" to "88 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="175713"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="11139136086" lat="42.9255252" lon="-72.6585264" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "111 Lost Mile Road, Newfane, VT 05301" to "111 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="175720"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="11139136088" lat="42.9252225" lon="-72.6627485" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "160 Lost Mile Road, Newfane, VT 05301" to "160 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="175723"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="11139136087" lat="42.9249147" lon="-72.6603214" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "131 Lost Mile Road, Newfane, VT 05301" to "131 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="175724"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="11139136032" lat="42.9258683" lon="-72.6500150" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "9 Lost Mile Road, Newfane, VT 05301" to "9 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="175726"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="11139136034" lat="42.9259368" lon="-72.6518947" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "37 Lost Mile Road, Newfane, VT 05301" to "37 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="175727"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="11139136031" lat="42.9255682" lon="-72.6499995" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "5 Lost Mile Road, Newfane, VT 05301" to "5 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="static_caravan"/>
+    <tag k="ref:vcgi:esiteid" v="175728"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="11139136035" lat="42.9253434" lon="-72.6533007" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "51 Lost Mile Road, Newfane, VT 05301" to "51 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="175729"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="11139136080" lat="42.9280236" lon="-72.6515286" version="1" timestamp="2023-08-23T14:10:50Z" changeset="140278618" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "56 Lost Mile Road, Newfane, VT 05301" to "56 Lost Mile Road, Brattleboro, VT 05301". -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lost Mile Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="328758"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="13233209451" lat="43.0125284" lon="-72.7460687" version="1" timestamp="2025-10-14T17:22:38Z" changeset="173286819" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1166 South Wardsboro Road, Newfane, VT " to "1166 South Wardsboro Road, Wardsboro, VT 05355". -->
+    <tag k="addr:city" v="Wardsboro"/>
+    <tag k="addr:housenumber" v="1166"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="South Wardsboro Road"/>
+    <tag k="ref:vcgi:esiteid" v="449376"/>
+  <tag k="addr:postcode" v="05355"/></node>
+  <node id="13433835297" lat="42.9717504" lon="-72.6603141" version="1" timestamp="2026-01-06T05:00:13Z" changeset="176887581" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "72 Browns Road, , VT " to "72 Browns Road, Newfane, VT 05345". -->
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Browns Road"/>
+    <tag k="ref:vcgi:esiteid" v="772891"/>
+  <tag k="addr:city" v="Newfane"/><tag k="addr:postcode" v="05345"/></node>
+</modify>
+</osmChange>

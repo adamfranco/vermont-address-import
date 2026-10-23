@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <way id="972315171" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "264 Leonard Road, Somerset, VT 05356" to "264 Leonard Road, Wilmington, VT 05363". -->
+    <center lat="42.9807978" lon="-72.9759265"/>
+    <nd ref="8999112097"/>
+    <nd ref="8999112096"/>
+    <nd ref="8999112095"/>
+    <nd ref="8999112094"/>
+    <nd ref="8999112093"/>
+    <nd ref="8999112092"/>
+    <nd ref="8999112097"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:postcode" v="05363"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Leonard Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226796"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315218" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "112 Leonard Road, Somerset, VT 05356" to "112 Leonard Road, Wilmington, VT 05356". -->
+    <center lat="42.9744459" lon="-72.9840831"/>
+    <nd ref="8999112474"/>
+    <nd ref="8999112517"/>
+    <nd ref="8999112490"/>
+    <nd ref="8999112455"/>
+    <nd ref="8999112474"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Leonard Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226798"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315230" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "105 Leonard Road, Somerset, VT 05356" to "105 Leonard Road, Wilmington, VT 05356". -->
+    <center lat="42.9740642" lon="-72.9848310"/>
+    <nd ref="8999112497"/>
+    <nd ref="8999112469"/>
+    <nd ref="8999112446"/>
+    <nd ref="8999112447"/>
+    <nd ref="8999112511"/>
+    <nd ref="8999112484"/>
+    <nd ref="8999112497"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Leonard Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226799"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315216" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "90 Leonard Road, Somerset, VT 05356" to "90 Leonard Road, Wilmington, VT 05356". -->
+    <center lat="42.9726347" lon="-72.9835050"/>
+    <nd ref="8999112494"/>
+    <nd ref="8999112464"/>
+    <nd ref="8999112445"/>
+    <nd ref="8999112444"/>
+    <nd ref="8999112481"/>
+    <nd ref="8999112496"/>
+    <nd ref="8999112467"/>
+    <nd ref="8999112510"/>
+    <nd ref="8999112494"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Leonard Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226800"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315203" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1960 Somerset Road, Somerset, VT 05356" to "1960 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9726069" lon="-72.9499704"/>
+    <nd ref="8999112377"/>
+    <nd ref="8999112376"/>
+    <nd ref="8999112375"/>
+    <nd ref="8999112374"/>
+    <nd ref="8999112377"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1960"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226801"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315180" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1974 Somerset Road, Somerset, VT 05360" to "1974 Somerset Road, Wilmington, VT 05360". -->
+    <center lat="42.9722046" lon="-72.9489023"/>
+    <nd ref="8999112273"/>
+    <nd ref="8999112272"/>
+    <nd ref="8999112271"/>
+    <nd ref="8999112270"/>
+    <nd ref="8999112273"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1974"/>
+    <tag k="addr:postcode" v="05360"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226802"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315227" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "74 Leonard Road, Somerset, VT 05356" to "74 Leonard Road, Wilmington, VT 05356". -->
+    <center lat="42.9719091" lon="-72.9841774"/>
+    <nd ref="8999112450"/>
+    <nd ref="8999112514"/>
+    <nd ref="8999112488"/>
+    <nd ref="8999112453"/>
+    <nd ref="8999112450"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Leonard Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226803"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315229" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "64 Leonard Road, Somerset, VT 05356" to "64 Leonard Road, Wilmington, VT 05356". -->
+    <center lat="42.9711513" lon="-72.9843235"/>
+    <nd ref="8999112518"/>
+    <nd ref="8999112456"/>
+    <nd ref="8999112462"/>
+    <nd ref="8999112442"/>
+    <nd ref="8999112443"/>
+    <nd ref="8999112463"/>
+    <nd ref="8999112518"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Leonard Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226804"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315219" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "54 Leonard Road, Somerset, VT 05356" to "54 Leonard Road, Wilmington, VT 05356". -->
+    <center lat="42.9703916" lon="-72.9832856"/>
+    <nd ref="8999112522"/>
+    <nd ref="8999112441"/>
+    <nd ref="8999112440"/>
+    <nd ref="8999112460"/>
+    <nd ref="8999112523"/>
+    <nd ref="8999112468"/>
+    <nd ref="8999112522"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Leonard Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226805"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315224" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "35 Leonard Road, Somerset, VT 05356" to "35 Leonard Road, Wilmington, VT 05356". -->
+    <center lat="42.9692108" lon="-72.9848600"/>
+    <nd ref="8999112499"/>
+    <nd ref="8999112486"/>
+    <nd ref="8999112452"/>
+    <nd ref="8999112516"/>
+    <nd ref="8999112499"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Leonard Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226806"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315204" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1621 Somerset Road, Somerset, VT 05356" to "1621 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9684273" lon="-72.9754127"/>
+    <nd ref="8999112385"/>
+    <nd ref="8999112384"/>
+    <nd ref="8999112379"/>
+    <nd ref="8999112378"/>
+    <nd ref="8999112383"/>
+    <nd ref="8999112382"/>
+    <nd ref="8999112381"/>
+    <nd ref="8999112380"/>
+    <nd ref="8999112385"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1621"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226807"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315189" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1571 Somerset Road, Somerset, VT 05356" to "1571 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9680089" lon="-72.9800695"/>
+    <nd ref="8999112329"/>
+    <nd ref="8999112328"/>
+    <nd ref="8999112327"/>
+    <nd ref="8999112326"/>
+    <nd ref="8999112325"/>
+    <nd ref="8999112324"/>
+    <nd ref="8999112329"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1571"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="226808"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315211" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1581 Somerset Road, Somerset, VT 05356" to "1581 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9676804" lon="-72.9792531"/>
+    <nd ref="8999112423"/>
+    <nd ref="8999112422"/>
+    <nd ref="8999112421"/>
+    <nd ref="8999112420"/>
+    <nd ref="8999112419"/>
+    <nd ref="8999112418"/>
+    <nd ref="8999112423"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1581"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226809"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315209" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1595 Somerset Road, Somerset, VT 05356" to "1595 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9677447" lon="-72.9779914"/>
+    <nd ref="8999112413"/>
+    <nd ref="8999112412"/>
+    <nd ref="8999112411"/>
+    <nd ref="8999112410"/>
+    <nd ref="8999112413"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1595"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="226810"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315206" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1620 Somerset Road, Somerset, VT 05356" to "1620 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9672251" lon="-72.9755892"/>
+    <nd ref="8999112397"/>
+    <nd ref="8999112396"/>
+    <nd ref="8999112395"/>
+    <nd ref="8999112394"/>
+    <nd ref="8999112393"/>
+    <nd ref="8999112392"/>
+    <nd ref="8999112391"/>
+    <nd ref="8999112390"/>
+    <nd ref="8999112397"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1620"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226811"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315225" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1523 Somerset Road, Somerset, VT 05356" to "1523 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9667652" lon="-72.9846716"/>
+    <nd ref="8999112449"/>
+    <nd ref="8999112500"/>
+    <nd ref="8999112473"/>
+    <nd ref="8999112513"/>
+    <nd ref="8999112449"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1523"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226812"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315221" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1530 Somerset Road, Somerset, VT 05356" to "1530 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9667448" lon="-72.9837480"/>
+    <nd ref="8999112483"/>
+    <nd ref="8999112448"/>
+    <nd ref="8999112498"/>
+    <nd ref="8999112472"/>
+    <nd ref="8999112483"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1530"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226813"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315222" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1513 Somerset Road, Somerset, VT 05356" to "1513 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9661361" lon="-72.9846913"/>
+    <nd ref="8999112502"/>
+    <nd ref="8999112475"/>
+    <nd ref="8999112519"/>
+    <nd ref="8999112515"/>
+    <nd ref="8999112502"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1513"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226814"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315223" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1505 Somerset Road, Somerset, VT 05356" to "1505 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9656852" lon="-72.9846348"/>
+    <nd ref="8999112504"/>
+    <nd ref="8999112477"/>
+    <nd ref="8999112521"/>
+    <nd ref="8999112492"/>
+    <nd ref="8999112459"/>
+    <nd ref="8999112435"/>
+    <nd ref="8999112434"/>
+    <nd ref="8999112506"/>
+    <nd ref="8999112504"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1505"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226815"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315228" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1499 Somerset Road, Somerset, VT 05356" to "1499 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9651560" lon="-72.9845240"/>
+    <nd ref="8999112489"/>
+    <nd ref="8999112454"/>
+    <nd ref="8999112503"/>
+    <nd ref="8999112476"/>
+    <nd ref="8999112520"/>
+    <nd ref="8999112491"/>
+    <nd ref="8999112458"/>
+    <nd ref="8999112505"/>
+    <nd ref="8999112489"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1499"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226816"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315231" version="3" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1460 Somerset Road, Somerset, VT 05356" to "1460 Somerset Road, Wilmington, VT 05363". -->
+    <center lat="42.9635178" lon="-72.9813893"/>
+    <nd ref="8999112529"/>
+    <nd ref="8999112528"/>
+    <nd ref="10739799753"/>
+    <nd ref="10739799752"/>
+    <nd ref="8999112527"/>
+    <nd ref="8999112526"/>
+    <nd ref="8999112529"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1460"/>
+    <tag k="addr:postcode" v="05363"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226817"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315233" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1444 Somerset Road, Somerset, VT 05356" to "1444 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9615491" lon="-72.9836811"/>
+    <nd ref="8999112537"/>
+    <nd ref="8999112536"/>
+    <nd ref="8999112535"/>
+    <nd ref="8999112534"/>
+    <nd ref="8999112537"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1444"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="226818"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315220" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1544 Somerset Road, Somerset, VT 05356" to "1544 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9660515" lon="-72.9818882"/>
+    <nd ref="8999112424"/>
+    <nd ref="8999112425"/>
+    <nd ref="8999112426"/>
+    <nd ref="8999112427"/>
+    <nd ref="8999112470"/>
+    <nd ref="8999112485"/>
+    <nd ref="8999112457"/>
+    <nd ref="8999112478"/>
+    <nd ref="8999112428"/>
+    <nd ref="8999112429"/>
+    <nd ref="8999112493"/>
+    <nd ref="8999112465"/>
+    <nd ref="8999112424"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1544"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="335409"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315226" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1569 Somerset Road, Somerset, VT 05356" to "1569 Somerset Road, Wilmington, VT 05363". -->
+    <center lat="42.9688945" lon="-72.9810694"/>
+    <nd ref="8999112512"/>
+    <nd ref="8999112487"/>
+    <nd ref="8999112451"/>
+    <nd ref="8999112501"/>
+    <nd ref="8999112512"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1569"/>
+    <tag k="addr:postcode" v="05363"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="335410"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315207" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1570 Somerset Road, Somerset, VT 05356" to "1570 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9666503" lon="-72.9797667"/>
+    <nd ref="8999112398"/>
+    <nd ref="8999112405"/>
+    <nd ref="8999112404"/>
+    <nd ref="8999112403"/>
+    <nd ref="8999112402"/>
+    <nd ref="8999112401"/>
+    <nd ref="8999112400"/>
+    <nd ref="8999112399"/>
+    <nd ref="8999112398"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1570"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="335412"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315208" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1584 Somerset Road, Somerset, VT 05356" to "1584 Somerset Road, Wilmington, VT 05363". -->
+    <center lat="42.9668791" lon="-72.9785980"/>
+    <nd ref="8999112409"/>
+    <nd ref="8999112408"/>
+    <nd ref="8999112407"/>
+    <nd ref="8999112406"/>
+    <nd ref="8999112409"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1584"/>
+    <tag k="addr:postcode" v="05363"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="335414"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="972315205" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1605 Somerset Road, Somerset, VT 05356" to "1605 Somerset Road, Wilmington, VT 05356". -->
+    <center lat="42.9680103" lon="-72.9769315"/>
+    <nd ref="8999112389"/>
+    <nd ref="8999112388"/>
+    <nd ref="8999112387"/>
+    <nd ref="8999112386"/>
+    <nd ref="8999112389"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1605"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="335415"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1154538651" version="4" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "13 Airport Road, Somerset, VT 05356" to "13 Airport Road, Wilmington, VT 05356". -->
+    <center lat="42.9523905" lon="-72.9887107"/>
+    <nd ref="8941228534"/>
+    <nd ref="10737328417"/>
+    <nd ref="10737328418"/>
+    <nd ref="10737328419"/>
+    <nd ref="8941228534"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Airport Road"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="341042"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+    <tag k="toilets:disposal" v="pitlatrine"/>
+    <tag k="unisex" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="966433953" version="3" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1334 Somerset Road, Somerset, VT 05360" to "1334 Somerset Road, Wilmington, VT 05363". -->
+    <center lat="42.9542012" lon="-72.9868403"/>
+    <nd ref="8941228533"/>
+    <nd ref="8941228530"/>
+    <nd ref="8941228531"/>
+    <nd ref="8941228532"/>
+    <nd ref="8941228533"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1334"/>
+    <tag k="addr:postcode" v="05363"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="amenity" v="grave_yard"/>
+    <tag k="ele" v="597"/>
+    <tag k="gnis:feature_id" v="1921176"/>
+    <tag k="landuse" v="cemetery"/>
+    <tag k="name" v="Somerset Cemetery"/>
+    <tag k="ref:vcgi:esiteid" v="341043"/>
+  </way>
+  <node id="356555470" lat="42.9595514" lon="-72.9224326" version="5" timestamp="2025-08-15T15:16:55Z" changeset="170485894" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "266 Summit Work Road, Somerset, VT 05356" to "266 Summit Work Road, West Dover, VT 05356". -->
+    <tag k="addr:city" v="West Dover"/>
+    <tag k="addr:housenumber" v="266"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Summit Work Road"/>
+    <tag k="communication:mobile_phone" v="yes"/>
+    <tag k="communication:radio" v="yes"/>
+    <tag k="ele" v="1090"/>
+    <tag k="gnis:feature_id" v="1462014"/>
+    <tag k="man_made" v="mast"/>
+    <tag k="operator" v="WVAY-FM (Wilmington)"/>
+    <tag k="ref:vcgi:esiteid" v="752810"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+    <tag k="tower:construction" v="lattice"/>
+    <tag k="tower:type" v="communication"/>
+  </node>
+  <way id="972315215" version="2" timestamp="2023-03-16T18:19:35Z" changeset="133760541" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "1545 Somerset Road, Somerset, VT 05360" to "1545 Somerset Road, Wilmington, VT 05360". -->
+    <center lat="42.9685659" lon="-72.9819046"/>
+    <nd ref="10739811452"/>
+    <nd ref="8999112480"/>
+    <nd ref="8999112525"/>
+    <nd ref="8999112495"/>
+    <nd ref="10739811452"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1545"/>
+    <tag k="addr:postcode" v="05360"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="759516"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </way>
+  <node id="13072628555" lat="42.9745766" lon="-72.9525803" version="1" timestamp="2025-08-15T15:20:50Z" changeset="170486043" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1921 Somerset Road, Somerset, VT " to "1921 Somerset Road, Wilmington, VT 05360". -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1921"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="ref:vcgi:esiteid" v="1050939"/>
+  <tag k="addr:postcode" v="05360"/></node>
+  <way id="1152513351" version="3" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1990 Somerset Road, Somerset, VT 05360" to "1990 Somerset Road, Wilmington, VT 05360". -->
+    <center lat="42.9711389" lon="-72.9479810"/>
+    <nd ref="10719786551"/>
+    <nd ref="10732650790"/>
+    <nd ref="8941228538"/>
+    <nd ref="10719786552"/>
+    <nd ref="10719786553"/>
+    <nd ref="10719786554"/>
+    <nd ref="10719786555"/>
+    <nd ref="10719786556"/>
+    <nd ref="10719786557"/>
+    <nd ref="10719786558"/>
+    <nd ref="10719786559"/>
+    <nd ref="10719786560"/>
+    <nd ref="10719786561"/>
+    <nd ref="10719786562"/>
+    <nd ref="10719786563"/>
+    <nd ref="10719786564"/>
+    <nd ref="10719786565"/>
+    <nd ref="204945426"/>
+    <nd ref="10719786551"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="1990"/>
+    <tag k="addr:postcode" v="05360"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="parking" v="surface"/>
+    <tag k="ref:vcgi:esiteid" v="1050940"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="8999112120" lat="42.9733280" lon="-72.9455573" version="2" timestamp="2023-03-13T12:20:44Z" changeset="133622865" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2041 Somerset Road, Somerset, VT 05360" to "2041 Somerset Road, Wilmington, VT 05360". -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="2041"/>
+    <tag k="addr:postcode" v="05360"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="leisure" v="slipway"/>
+    <tag k="ref:vcgi:esiteid" v="1050941"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <way id="1154016492" version="1" timestamp="2023-03-13T12:20:44Z" changeset="133622865" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "2049 Somerset Road, Somerset, VT 05360" to "2049 Somerset Road, Wilmington, VT 05360". -->
+    <center lat="42.9737706" lon="-72.9445750"/>
+    <nd ref="10732678129"/>
+    <nd ref="10732678128"/>
+    <nd ref="10732678107"/>
+    <nd ref="10732678108"/>
+    <nd ref="10732678109"/>
+    <nd ref="10732678110"/>
+    <nd ref="10732678111"/>
+    <nd ref="10732678112"/>
+    <nd ref="10732678113"/>
+    <nd ref="10732678114"/>
+    <nd ref="10732678115"/>
+    <nd ref="10732678116"/>
+    <nd ref="10732678117"/>
+    <nd ref="10732678118"/>
+    <nd ref="10732678119"/>
+    <nd ref="10732678120"/>
+    <nd ref="10732678121"/>
+    <nd ref="10732678122"/>
+    <nd ref="10732678123"/>
+    <nd ref="10732678124"/>
+    <nd ref="10732678125"/>
+    <nd ref="10732678126"/>
+    <nd ref="10732678127"/>
+    <nd ref="10732678129"/>
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="2049"/>
+    <tag k="addr:postcode" v="05360"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="landuse" v="grass"/>
+    <tag k="ref:vcgi:esiteid" v="1050942"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+    <tag k="tourism" v="picnic_site"/>
+  </way>
+  <node id="8941228539" lat="42.9734622" lon="-72.9420792" version="2" timestamp="2025-08-15T15:20:12Z" changeset="170486013" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2075 Somerset Road, Somerset, VT 05360" to "2075 Somerset Road, Wilmington, VT 05360". -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="2075"/>
+    <tag k="addr:postcode" v="05360"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Somerset Road"/>
+    <tag k="ref:vcgi:esiteid" v="1050943"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+</modify>
+</osmChange>

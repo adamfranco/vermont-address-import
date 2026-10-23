@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <node id="12724676561" lat="44.5970917" lon="-71.8491592" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "343 Victory Road, Victory, VT " to "343 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="ref:vcgi:esiteid" v="267325"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676560" lat="44.5956116" lon="-71.8431091" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "697 Victory Road, Victory, VT " to "697 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="697"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="ref:vcgi:esiteid" v="267326"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676559" lat="44.5803947" lon="-71.7998810" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3434 Victory Road, Victory, VT " to "3434 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="3434"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="ref:vcgi:esiteid" v="267327"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="8974499338" lat="44.5766602" lon="-71.7812560" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "257 River Road, Victory, VT 05858" to "257 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="257"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267328"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499337" lat="44.5764222" lon="-71.7853422" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "101 Radar Road, Victory, VT 05858" to "101 Radar Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Radar Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267329"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1064128569" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4129 Victory Road, Victory, VT 05858" to "4129 Victory Road, North Concord, VT 05858". -->
+    <center lat="44.5763425" lon="-71.7871535"/>
+    <nd ref="9773454189"/>
+    <nd ref="9773454190"/>
+    <nd ref="9773454191"/>
+    <nd ref="9773454192"/>
+    <nd ref="9773454189"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4129"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267330"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="8974499336" lat="44.5762147" lon="-71.7847245" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "102 Radar Road, Victory, VT 05858" to "102 Radar Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Radar Road"/>
+    <tag k="building" v="government"/>
+    <tag k="ref:vcgi:esiteid" v="267331"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499355" lat="44.5758241" lon="-71.7895745" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4002 Victory Road, Victory, VT 05858" to "4002 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4002"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267332"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1064128571" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "74 Radar Road, Victory, VT 05858" to "74 Radar Road, North Concord, VT 05858". -->
+    <center lat="44.5757570" lon="-71.7849445"/>
+    <nd ref="9773454197"/>
+    <nd ref="9773454198"/>
+    <nd ref="9773454199"/>
+    <nd ref="9773454200"/>
+    <nd ref="9773454201"/>
+    <nd ref="9773454202"/>
+    <nd ref="9773454197"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Radar Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267333"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="8974506115" lat="44.5757563" lon="-71.7866476" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4127 Victory Road, Victory, VT 05858" to "4127 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4127"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267334"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499356" lat="44.5758440" lon="-71.7911894" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3932 Victory Road, Victory, VT 05858" to "3932 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="3932"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267335"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1064128565" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4082 Victory Road, Victory, VT " to "4082 Victory Road, North Concord, VT 05858". -->
+    <center lat="44.5754085" lon="-71.7881925"/>
+    <nd ref="9773454171"/>
+    <nd ref="9773454172"/>
+    <nd ref="9773454173"/>
+    <nd ref="9773454174"/>
+    <nd ref="9773454175"/>
+    <nd ref="9773454176"/>
+    <nd ref="9773454171"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4082"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="267336"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05858"/></way>
+  <node id="8974499334" lat="44.5752624" lon="-71.7830095" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "323 River Road, Victory, VT 05858" to "323 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="323"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267337"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506116" lat="44.5751269" lon="-71.7867997" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4140 Victory Road, Victory, VT 05858" to "4140 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4140"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267338"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499333" lat="44.5751376" lon="-71.7836042" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "337 River Road, Victory, VT 05858" to "337 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="337"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267339"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724676558" lat="44.5751076" lon="-71.7863617" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4176 Victory Road, Victory, VT " to "4176 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4176"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="ref:vcgi:esiteid" v="267340"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="8974506317" lat="44.5749092" lon="-71.7859653" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4192 Victory Road, Victory, VT 05858" to "4192 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4192"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267341"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506318" lat="44.5748250" lon="-71.7856571" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4212 Victory Road, Victory, VT 05858" to "4212 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4212"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="ref:vcgi:esiteid" v="267342"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506319" lat="44.5746703" lon="-71.7851936" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4236 Victory Road, Victory, VT 05858" to "4236 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4236"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="ref:vcgi:esiteid" v="267343"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724676557" lat="44.5745540" lon="-71.7870409" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4162 Victory Road, Victory, VT " to "4162 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4162"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="ref:vcgi:esiteid" v="267344"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="8974499332" lat="44.5744356" lon="-71.7833621" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "11 Granby Road, Victory, VT 05858" to "11 Granby Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267345"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506320" lat="44.5741848" lon="-71.7849890" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4262 Victory Road, Victory, VT 05858" to "4262 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4262"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267346"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499331" lat="44.5741070" lon="-71.7839738" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "405 River Road, Victory, VT 05858" to "405 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="405"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267347"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506321" lat="44.5740612" lon="-71.7857576" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4270 Victory Road, Victory, VT 05858" to "4270 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4270"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267348"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506322" lat="44.5735707" lon="-71.7850256" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "472 River Road, Victory, VT 05858" to "472 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="472"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="government"/>
+    <tag k="ref:vcgi:esiteid" v="267349"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499370" lat="44.5730261" lon="-71.7857668" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "520 River Road, Victory, VT 05858" to "520 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="520"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="267350"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506323" lat="44.5730465" lon="-71.7842882" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "493 River Road, Victory, VT 05858" to "493 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="493"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267351"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724676556" lat="44.5720486" lon="-71.7818750" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "211 Granby Road, Victory, VT " to "211 Granby Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="ref:vcgi:esiteid" v="267352"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <way id="1064128576" version="2" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "647 Granby Road, Victory, VT " to "647 Granby Road, North Concord, VT 05858". -->
+    <center lat="44.5713135" lon="-71.7738060"/>
+    <nd ref="9773454219"/>
+    <nd ref="9773454220"/>
+    <nd ref="9773454221"/>
+    <nd ref="9773454222"/>
+    <nd ref="9773454223"/>
+    <nd ref="9773454224"/>
+    <nd ref="9773454219"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="647"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="267353"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05858"/></way>
+  <node id="12724676555" lat="44.5706673" lon="-71.7680664" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "945 Granby Road, Victory, VT " to "945 Granby Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="945"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="ref:vcgi:esiteid" v="267355"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676554" lat="44.5703076" lon="-71.7706025" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "822 Granby Road, Victory, VT " to "822 Granby Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="822"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="ref:vcgi:esiteid" v="267356"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="8974499369" lat="44.5709578" lon="-71.7899141" version="2" timestamp="2025-04-03T04:16:01Z" changeset="164445923" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "750 River Road, Victory, VT 05858" to "750 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="750"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267357"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724676553" lat="44.5707562" lon="-71.7797528" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "451 Granby Road, Victory, VT " to "451 Granby Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="451"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="ref:vcgi:esiteid" v="267358"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676552" lat="44.5700569" lon="-71.7793427" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "390 Granby Road, Victory, VT " to "390 Granby Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="390"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="ref:vcgi:esiteid" v="267359"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="8974499368" lat="44.5689995" lon="-71.7898936" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "874 River Road, Victory, VT 05858" to "874 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="874"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267360"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724676551" lat="44.5690804" lon="-71.7804450" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "142 Rod Lane, Victory, VT " to "142 Rod Lane, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Rod Lane"/>
+    <tag k="ref:vcgi:esiteid" v="267361"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="8974499367" lat="44.5679157" lon="-71.7888505" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "933 River Road, Victory, VT 05858" to "933 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="933"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="267362"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499365" lat="44.5674535" lon="-71.7897288" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "948 River Road, Victory, VT 05858" to "948 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="948"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267363"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499366" lat="44.5674009" lon="-71.7887806" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "961 River Road, Victory, VT 05858" to "961 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="961"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267364"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499364" lat="44.5666043" lon="-71.7893548" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1016 River Road, Victory, VT 05858" to "1016 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1016"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267365"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499362" lat="44.5665397" lon="-71.7886747" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1063 River Road, Victory, VT 05858" to "1063 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1063"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="267366"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499361" lat="44.5662008" lon="-71.7881834" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1061 River Road, Victory, VT 05858" to "1061 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1061"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267367"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499363" lat="44.5659684" lon="-71.7891579" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1052 River Road, Victory, VT 05858" to "1052 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1052"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="267368"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724676550" lat="44.5659485" lon="-71.7882614" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1077 River Road, Victory, VT " to "1077 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1077"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="267369"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="8974499360" lat="44.5654540" lon="-71.7876900" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1101 River Road, Victory, VT 05858" to "1101 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1101"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267370"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499359" lat="44.5643652" lon="-71.7867159" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1291 River Road, Victory, VT 05858" to "1291 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1291"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267371"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974499358" lat="44.5621095" lon="-71.7869422" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1344 River Road, Victory, VT 05858" to "1344 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1344"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267372"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724676549" lat="44.5620499" lon="-71.7766683" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1673 River Road, Victory, VT " to "1673 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1673"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="267373"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <way id="829384841" version="2" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1745 River Road, Victory, VT " to "1745 River Road, North Concord, VT 05858". -->
+    <center lat="44.5337654" lon="-71.7715386"/>
+    <nd ref="7741472607"/>
+    <nd ref="7741472606"/>
+    <nd ref="7741472605"/>
+    <nd ref="7741472604"/>
+    <nd ref="7741472607"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1745"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="267374"/>
+  <tag k="addr:postcode" v="05858"/></way>
+  <node id="8974506107" lat="44.5538524" lon="-71.8551248" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "334 Coburn Road, Victory, VT 05858" to "334 Coburn Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="334"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Coburn Road"/>
+    <tag k="ref:vcgi:esiteid" v="267375"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724676548" lat="44.5496261" lon="-71.8453730" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2380 Victory Hill, Victory, VT " to "2380 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="2380"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="ref:vcgi:esiteid" v="267376"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="8974506087" lat="44.5481033" lon="-71.8859722" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2341 Masten Road, Victory, VT 05858" to "2341 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="2341"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="ref:vcgi:esiteid" v="267377"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506088" lat="44.5454863" lon="-71.8829316" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2111 Masten Road, Victory, VT 05858" to "2111 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="2111"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="ref:vcgi:esiteid" v="267378"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506086" lat="44.5440059" lon="-71.8749698" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "80 Buttonwood Lane, Victory, VT 05858" to "80 Buttonwood Lane, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Buttonwood Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267379"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506085" lat="44.5433800" lon="-71.8719605" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1814 Masten Road, Victory, VT 05858" to "1814 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1814"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267380"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1064128578" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2428 Victory Hill, Victory, VT 05858" to "2428 Victory Hill, North Concord, VT 05858". -->
+    <center lat="44.5431655" lon="-71.8543875"/>
+    <nd ref="9773454229"/>
+    <nd ref="9773454230"/>
+    <nd ref="9773454231"/>
+    <nd ref="9773454232"/>
+    <nd ref="9773454233"/>
+    <nd ref="9773454234"/>
+    <nd ref="9773454235"/>
+    <nd ref="9773454236"/>
+    <nd ref="9773454237"/>
+    <nd ref="9773454238"/>
+    <nd ref="9773454229"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="2428"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267381"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1064128580" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2364 Victory Hill, Victory, VT 05858" to "2364 Victory Hill, North Concord, VT 05858". -->
+    <center lat="44.5426145" lon="-71.8531075"/>
+    <nd ref="9773454243"/>
+    <nd ref="9773454244"/>
+    <nd ref="9773454245"/>
+    <nd ref="9773454246"/>
+    <nd ref="9773454243"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="2364"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267382"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1064128582" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2431 Victory Hill, Victory, VT " to "2431 Victory Hill, North Concord, VT 05858". -->
+    <center lat="44.5418605" lon="-71.8550710"/>
+    <nd ref="9773454251"/>
+    <nd ref="9773454252"/>
+    <nd ref="9773454253"/>
+    <nd ref="9773454254"/>
+    <nd ref="9773454251"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="2431"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="267383"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05858"/></way>
+  <node id="8974506084" lat="44.5412903" lon="-71.8703527" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1645 Masten Road, Victory, VT 05858" to "1645 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1645"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267384"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506080" lat="44.5363431" lon="-71.8674994" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1283 Masten Road, Victory, VT 05858" to "1283 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1283"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267385"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506081" lat="44.5361887" lon="-71.8659582" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1204 Masten Road, Victory, VT 05858" to "1204 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1204"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267386"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506098" lat="44.5336017" lon="-71.8525562" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1735 Victory Hill, Victory, VT 05858" to "1735 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1735"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267387"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506096" lat="44.5313239" lon="-71.8526009" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1559 Victory Hill, Victory, VT 05858" to "1559 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1559"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267388"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506094" lat="44.5308500" lon="-71.8504589" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1586 Victory Hill, Victory, VT 05858" to "1586 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1586"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267389"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1064128584" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1475 Victory Hill, Victory, VT 05858" to "1475 Victory Hill, North Concord, VT 05858". -->
+    <center lat="44.5301680" lon="-71.8515845"/>
+    <nd ref="9773454263"/>
+    <nd ref="9773454264"/>
+    <nd ref="9773454265"/>
+    <nd ref="9773454266"/>
+    <nd ref="9773454267"/>
+    <nd ref="9773454268"/>
+    <nd ref="9773454263"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1475"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267390"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1064128585" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "22 Masten Road, Victory, VT 05858" to "22 Masten Road, North Concord, VT 05858". -->
+    <center lat="44.5283435" lon="-71.8507960"/>
+    <nd ref="9773454269"/>
+    <nd ref="9773454270"/>
+    <nd ref="9773454271"/>
+    <nd ref="9773454272"/>
+    <nd ref="9773454269"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267391"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="8974506091" lat="44.5280870" lon="-71.8513424" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "37 Masten Road, Victory, VT 05858" to "37 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267392"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506078" lat="44.5280505" lon="-71.8627854" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "628 Masten Road, Victory, VT 05858" to "628 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="628"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267393"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506090" lat="44.5276728" lon="-71.8493604" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1316 Victory Hill, Victory, VT 05858" to "1316 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1316"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267394"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506079" lat="44.5276367" lon="-71.8621274" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "587 Masten Road, Victory, VT 05858" to "587 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="587"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="ref:vcgi:esiteid" v="267395"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1064128587" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1258 Victory Hill, Victory, VT 05858" to "1258 Victory Hill, North Concord, VT 05858". -->
+    <center lat="44.5268789" lon="-71.8493809"/>
+    <nd ref="9773454277"/>
+    <nd ref="9773454278"/>
+    <nd ref="9773454279"/>
+    <nd ref="9773454280"/>
+    <nd ref="9773454281"/>
+    <nd ref="9773454282"/>
+    <nd ref="9773454283"/>
+    <nd ref="9773454284"/>
+    <nd ref="9773454277"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1258"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267396"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="12724676547" lat="44.5089722" lon="-71.8448334" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "6985 River Road, Victory, VT " to "6985 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="6985"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="267397"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="8974506074" lat="44.5084731" lon="-71.8471234" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "7084 River Road, Victory, VT 05858" to "7084 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="7084"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="267398"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1064128591" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "221 Stanley Road, Victory, VT 05858" to "221 Stanley Road, North Concord, VT 05858". -->
+    <center lat="44.5031510" lon="-71.8558650"/>
+    <nd ref="9773454299"/>
+    <nd ref="9773454300"/>
+    <nd ref="9773454301"/>
+    <nd ref="9773454302"/>
+    <nd ref="9773454299"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Stanley Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267399"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1064128588" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "7625 River Road, Victory, VT 05858" to "7625 River Road, North Concord, VT 05858". -->
+    <center lat="44.5013690" lon="-71.8515125"/>
+    <nd ref="9773454285"/>
+    <nd ref="9773454286"/>
+    <nd ref="9773454287"/>
+    <nd ref="9773454288"/>
+    <nd ref="9773454289"/>
+    <nd ref="9773454290"/>
+    <nd ref="9773454285"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="7625"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267400"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="8974506075" lat="44.5006051" lon="-71.8531119" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "7704 River Road, Victory, VT 05858" to "7704 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="7704"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267401"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724676546" lat="44.5967702" lon="-71.8272199" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1502 Victory Road, Victory, VT " to "1502 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1502"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="ref:vcgi:esiteid" v="267402"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676545" lat="44.5974731" lon="-71.8438415" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "703 Victory Road, Victory, VT " to "703 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="703"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="ref:vcgi:esiteid" v="267403"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676544" lat="44.5853204" lon="-71.8160466" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2418 Victory Road, Victory, VT " to "2418 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="2418"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="ref:vcgi:esiteid" v="267404"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="8974506095" lat="44.5319886" lon="-71.8504691" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1640 Victory Hill, Victory, VT 05858" to "1640 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1640"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267407"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506100" lat="44.5437719" lon="-71.8560989" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2622 Victory Hill, Victory, VT 05858" to "2622 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="2622"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267408"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506103" lat="44.5454805" lon="-71.8553138" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2754 Victory Hill, Victory, VT 05858" to "2754 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="2754"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267409"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506104" lat="44.5474718" lon="-71.8555270" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2870 Victory Hill, Victory, VT 05858" to "2870 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="2870"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267410"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506105" lat="44.5489880" lon="-71.8538262" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3000 Victory Hill, Victory, VT 05858" to "3000 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="3000"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267411"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506106" lat="44.5494378" lon="-71.8534253" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3036 Victory Hill, Victory, VT 05858" to "3036 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="3036"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267412"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724676543" lat="44.5509033" lon="-71.8523636" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3164 Victory Hill, Victory, VT " to "3164 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="3164"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="ref:vcgi:esiteid" v="267413"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <way id="1064128583" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1768 Victory Hill, Victory, VT 05858" to "1768 Victory Hill, North Concord, VT 05858". -->
+    <center lat="44.5335900" lon="-71.8512720"/>
+    <nd ref="9773454255"/>
+    <nd ref="9773454256"/>
+    <nd ref="9773454257"/>
+    <nd ref="9773454258"/>
+    <nd ref="9773454259"/>
+    <nd ref="9773454260"/>
+    <nd ref="9773454261"/>
+    <nd ref="9773454262"/>
+    <nd ref="9773454255"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1768"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267414"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="8974499357" lat="44.5769047" lon="-71.7910936" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3931 Victory Road, Victory, VT 05858" to "3931 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="3931"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267415"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="8974506082" lat="44.5374053" lon="-71.8673439" version="2" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1344 Masten Road, Victory, VT 05858" to "1344 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1344"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="267416"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12724676542" lat="44.5652635" lon="-71.7613502" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "200 Serenity Way, Victory, VT " to "200 Serenity Way, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Serenity Way"/>
+    <tag k="ref:vcgi:esiteid" v="267417"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <way id="1064128577" version="2" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1000 Granby Road, Victory, VT " to "1000 Granby Road, North Concord, VT 05858". -->
+    <center lat="44.5691210" lon="-71.7658780"/>
+    <nd ref="9773454225"/>
+    <nd ref="9773454226"/>
+    <nd ref="9773454227"/>
+    <nd ref="9773454228"/>
+    <nd ref="9773454225"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="307074"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05858"/></way>
+  <node id="12724676541" lat="44.5677926" lon="-71.7632713" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1152 Granby Road, Victory, VT " to "1152 Granby Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1152"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="ref:vcgi:esiteid" v="307075"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676540" lat="44.5685650" lon="-71.7647235" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1036 Granby Road, Victory, VT " to "1036 Granby Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1036"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="ref:vcgi:esiteid" v="309984"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="9910370269" lat="44.5496940" lon="-71.7401925" version="1" timestamp="2022-07-25T20:13:06Z" changeset="124067650" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "670 Mount Tug Road, Victory, VT 05858" to "670 Mount Tug Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="670"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mount Tug Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="326308"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724676539" lat="44.5699726" lon="-71.7660025" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "975 Granby Road, Victory, VT " to "975 Granby Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="975"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="ref:vcgi:esiteid" v="326725"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="8974506108" lat="44.5564371" lon="-71.7403841" version="2" timestamp="2025-04-03T04:14:58Z" changeset="164445911" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "210 Mount Tug Road, Victory, VT 05858" to "210 Mount Tug Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="210"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mount Tug Road"/>
+    <tag k="ref:vcgi:esiteid" v="338338"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9910370271" lat="44.5514876" lon="-71.7405141" version="1" timestamp="2022-07-25T20:13:06Z" changeset="124067650" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "550 Mount Tug Road, Victory, VT 05858" to "550 Mount Tug Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="550"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mount Tug Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="338340"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724676538" lat="44.5648005" lon="-71.7605106" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "201 Serenity Way, Victory, VT " to "201 Serenity Way, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="201"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Serenity Way"/>
+    <tag k="ref:vcgi:esiteid" v="339944"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676537" lat="44.5972040" lon="-71.8297354" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1324 Victory Road, Victory, VT " to "1324 Victory Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1324"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Road"/>
+    <tag k="ref:vcgi:esiteid" v="340753"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676536" lat="44.5743730" lon="-71.7838225" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "9 Granby Road, Victory, VT " to "9 Granby Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="ref:vcgi:esiteid" v="448168"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676535" lat="44.5295189" lon="-71.8504847" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1444 Victory Hill, Victory, VT " to "1444 Victory Hill, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1444"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Victory Hill"/>
+    <tag k="ref:vcgi:esiteid" v="452882"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="9910370270" lat="44.5503563" lon="-71.7399276" version="1" timestamp="2022-07-25T20:13:06Z" changeset="124067650" uid="936117" user="A Hall">
+    <!-- changed: Updated address from "611 Mount Tug Road, Victory, VT 05858" to "611 Mount Tug Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="611"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mount Tug Road"/>
+    <tag k="ref:vcgi:esiteid" v="754147"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12724676534" lat="44.5340818" lon="-71.8632578" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1128 Masten Road, Victory, VT " to "1128 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1128"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="ref:vcgi:esiteid" v="760567"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676533" lat="44.5691002" lon="-71.7683436" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "964 Granby Road, Victory, VT " to "964 Granby Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="964"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Granby Road"/>
+    <tag k="ref:vcgi:esiteid" v="762393"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="13346240974" lat="44.5397276" lon="-71.7872782" version="1" timestamp="2025-12-01T18:59:30Z" changeset="175372328" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3021 River Road, Victory, VT " to "3021 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="3021"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="771103"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="13346240973" lat="44.5278699" lon="-71.8166586" version="1" timestamp="2025-12-01T18:59:30Z" changeset="175372328" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4920 River Road, Victory, VT " to "4920 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="4920"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="771104"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="13346240972" lat="44.5146935" lon="-71.8270992" version="1" timestamp="2025-12-01T18:59:30Z" changeset="175372328" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "6055 River Road, Victory, VT " to "6055 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="6055"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="771105"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="13346240971" lat="44.5152795" lon="-71.8278393" version="1" timestamp="2025-12-01T18:59:30Z" changeset="175372328" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "6010 River Road, Victory, VT " to "6010 River Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="6010"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="River Road"/>
+    <tag k="ref:vcgi:esiteid" v="771106"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <node id="12724676532" lat="44.5316481" lon="-71.8627217" version="1" timestamp="2025-04-03T04:20:29Z" changeset="164445988" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "922 Masten Road, Victory, VT " to "922 Masten Road, North Concord, VT 05858". -->
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="922"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="ref:vcgi:esiteid" v="1050044"/>
+  <tag k="addr:postcode" v="05858"/></node>
+  <way id="562754109" version="4" timestamp="2025-04-03T04:19:44Z" changeset="164445982" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1469 Masten Road, Victory, VT 05858" to "1469 Masten Road, North Concord, VT 05858". -->
+    <center lat="44.5388597" lon="-71.8689952"/>
+    <nd ref="5424672088"/>
+    <nd ref="5424672089"/>
+    <nd ref="5424672090"/>
+    <nd ref="5424672091"/>
+    <nd ref="5424672088"/>
+    <tag k="addr:city" v="North Concord"/>
+    <tag k="addr:housenumber" v="1469"/>
+    <tag k="addr:postcode" v="05858"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Masten Road"/>
+    <tag k="ele" v="490"/>
+    <tag k="gnis:feature_id" v="1460028"/>
+    <tag k="landuse" v="cemetery"/>
+    <tag k="name" v="Victory Hill Cemetery"/>
+    <tag k="ref:vcgi:esiteid" v="1050045"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+</modify>
+</osmChange>

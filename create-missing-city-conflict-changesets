@@ -5,4 +5,4 @@ find data_files_to_import/conflated-changes/ -name '*-city-conflict.osm' | sort 
   if [ ! -f "data_files_to_import/changesets/${base}.osc" ]; then
     echo $file
   fi
-done | parallel -j 5 'echo {}; time ./changeset-from-conflated.php -v {}'
+done | parallel -j 8 'echo {}; time ./changeset-from-conflated.php -v {}'

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <way id="916057720" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "540 Oberhugel Road, Stamford, VT 05352" to "540 Oberhugel Road, Readsboro, VT 05350". -->
+    <center lat="42.8235095" lon="-73.0242344"/>
+    <nd ref="8508663823"/>
+    <nd ref="8508663824"/>
+    <nd ref="8508663825"/>
+    <nd ref="8508663826"/>
+    <nd ref="8508663827"/>
+    <nd ref="8508663828"/>
+    <nd ref="8508663823"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="540"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberhugel Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247346"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057704" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "106 Oberhugel Road, Stamford, VT 05352" to "106 Oberhugel Road, Readsboro, VT 05350". -->
+    <center lat="42.8229216" lon="-73.0161384"/>
+    <nd ref="8508663713"/>
+    <nd ref="8508663714"/>
+    <nd ref="8508663715"/>
+    <nd ref="8949647941"/>
+    <nd ref="12184477362"/>
+    <nd ref="8508663716"/>
+    <nd ref="8508663713"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberhugel Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247347"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057665" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "26 Bergabhang Drive, Stamford, VT 05352" to "26 Bergabhang Drive, Readsboro, VT 05350". -->
+    <center lat="42.8228149" lon="-73.0222748"/>
+    <nd ref="8508663548"/>
+    <nd ref="8508663549"/>
+    <nd ref="8508663550"/>
+    <nd ref="8508663551"/>
+    <nd ref="8508663548"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergabhang Drive"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247348"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057663" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "211 Oberhugel Road, Stamford, VT 05352" to "211 Oberhugel Road, Readsboro, VT 05350". -->
+    <center lat="42.8222602" lon="-73.0178532"/>
+    <nd ref="8508663538"/>
+    <nd ref="8508663539"/>
+    <nd ref="8508663540"/>
+    <nd ref="8508663541"/>
+    <nd ref="8508663538"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberhugel Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247349"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057717" version="2" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "750 Oberhugel Road, Stamford, VT 05352" to "750 Oberhugel Road, Readsboro, VT 05350". -->
+    <center lat="42.8222732" lon="-73.0273837"/>
+    <nd ref="8508663811"/>
+    <nd ref="8508663812"/>
+    <nd ref="8508663813"/>
+    <nd ref="8508663814"/>
+    <nd ref="8508663811"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="750"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberhugel Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="247350"/>
+  </way>
+  <way id="916057627" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "92 Lebensanschauung Circle, Stamford, VT 05352" to "92 Lebensanschauung Circle, Readsboro, VT 05350". -->
+    <center lat="42.8196176" lon="-73.0250434"/>
+    <nd ref="8508663365"/>
+    <nd ref="8508663366"/>
+    <nd ref="8508663367"/>
+    <nd ref="8508663368"/>
+    <nd ref="8508663365"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lebensanschauung Circle"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247351"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057676" version="2" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "260 Bergrucken Lane, Stamford, VT " to "260 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8189249" lon="-73.0163933"/>
+    <nd ref="8508663590"/>
+    <nd ref="8508663591"/>
+    <nd ref="8508663592"/>
+    <nd ref="8508663593"/>
+    <nd ref="8508663594"/>
+    <nd ref="8508663595"/>
+    <nd ref="8508663596"/>
+    <nd ref="8508663597"/>
+    <nd ref="8508663590"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="260"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="247352"/>
+  <tag k="addr:postcode" v="05350"/></way>
+  <way id="916057667" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "30 Erfreulichblick Circle, Stamford, VT 05352" to "30 Erfreulichblick Circle, Readsboro, VT 05350". -->
+    <center lat="42.8180995" lon="-73.0265924"/>
+    <nd ref="8508663554"/>
+    <nd ref="8508663555"/>
+    <nd ref="8508663556"/>
+    <nd ref="8508663557"/>
+    <nd ref="8508663554"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Erfreulichblick Circle"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247353"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057636" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1246 Bergrucken Lane, Stamford, VT 05352" to "1246 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8178928" lon="-73.0197275"/>
+    <nd ref="8508663409"/>
+    <nd ref="8508663410"/>
+    <nd ref="8508663411"/>
+    <nd ref="8508663412"/>
+    <nd ref="8508663413"/>
+    <nd ref="8508663414"/>
+    <nd ref="8508663415"/>
+    <nd ref="8508663416"/>
+    <nd ref="8508663409"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="1246"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247354"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057634" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1180 Bergrucken Lane, Stamford, VT 05352" to "1180 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8175669" lon="-73.0208054"/>
+    <nd ref="8508663401"/>
+    <nd ref="8508663402"/>
+    <nd ref="8508663403"/>
+    <nd ref="8508663404"/>
+    <nd ref="8508663401"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="1180"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247355"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057631" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1160 Bergrucken Lane, Stamford, VT 05352" to "1160 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8174714" lon="-73.0212910"/>
+    <nd ref="8508663385"/>
+    <nd ref="8508663386"/>
+    <nd ref="8508663387"/>
+    <nd ref="8508663388"/>
+    <nd ref="8508663385"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="1160"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247356"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057669" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "987 Bergrucken Lane, Stamford, VT 05352" to "987 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8173598" lon="-73.0244421"/>
+    <nd ref="8508663562"/>
+    <nd ref="8508663563"/>
+    <nd ref="8508663564"/>
+    <nd ref="8508663565"/>
+    <nd ref="8508663562"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="987"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247357"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057674" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "514 Bergrucken Lane, Stamford, VT 05352" to "514 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8167148" lon="-73.0194796"/>
+    <nd ref="8508663582"/>
+    <nd ref="8508663583"/>
+    <nd ref="8508663584"/>
+    <nd ref="8508663585"/>
+    <nd ref="8508663582"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="514"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247358"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057675" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "511 Bergrucken Lane, Stamford, VT 05352" to "511 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8163089" lon="-73.0189536"/>
+    <nd ref="8508663586"/>
+    <nd ref="8508663587"/>
+    <nd ref="8508663588"/>
+    <nd ref="8508663589"/>
+    <nd ref="8508663586"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="511"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247359"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057723" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "795 Bergrucken Lane, Stamford, VT 05352" to "795 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8152081" lon="-73.0244475"/>
+    <nd ref="8508663837"/>
+    <nd ref="8508663838"/>
+    <nd ref="8508663839"/>
+    <nd ref="8508663840"/>
+    <nd ref="8508663837"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="795"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247360"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057672" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "667 Bergrucken Lane, Stamford, VT 05352" to "667 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8152003" lon="-73.0217828"/>
+    <nd ref="8508663574"/>
+    <nd ref="8508663575"/>
+    <nd ref="8508663576"/>
+    <nd ref="8508663577"/>
+    <nd ref="8508663574"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="667"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247361"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057638" version="2" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1001 Oberdorf Road, Stamford, VT " to "1001 Oberdorf Road, Readsboro, VT 05350". -->
+    <center lat="42.8198922" lon="-73.0185324"/>
+    <nd ref="8508663423"/>
+    <nd ref="8508663424"/>
+    <nd ref="8508663425"/>
+    <nd ref="8508663426"/>
+    <nd ref="8508663423"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="1001"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberdorf Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="247697"/>
+  <tag k="addr:postcode" v="05350"/></way>
+  <node id="13189025028" lat="42.8213265" lon="-73.0161146" version="1" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "850 Oberdorf Road, Stamford, VT " to "850 Oberdorf Road, Readsboro, VT 05350". -->
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="850"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberdorf Road"/>
+    <tag k="ref:vcgi:esiteid" v="247698"/>
+  <tag k="addr:postcode" v="05350"/></node>
+  <way id="916057640" version="2" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "930 Oberdorf Road, Stamford, VT " to "930 Oberdorf Road, Readsboro, VT 05350". -->
+    <center lat="42.8207742" lon="-73.0176095"/>
+    <nd ref="8508663431"/>
+    <nd ref="8508663432"/>
+    <nd ref="8508663433"/>
+    <nd ref="8508663434"/>
+    <nd ref="8508663431"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="930"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberdorf Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="247699"/>
+  <tag k="addr:postcode" v="05350"/></way>
+  <way id="916057664" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1178 Oberdorf Road, Stamford, VT 05352" to "1178 Oberdorf Road, Readsboro, VT 05350". -->
+    <center lat="42.8222087" lon="-73.0190620"/>
+    <nd ref="8508663542"/>
+    <nd ref="8508663543"/>
+    <nd ref="8508663544"/>
+    <nd ref="8508663545"/>
+    <nd ref="8508663546"/>
+    <nd ref="8508663547"/>
+    <nd ref="8508663542"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="1178"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberdorf Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247700"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057670" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "960 Bergrucken Lane, Stamford, VT 05352" to "960 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8166100" lon="-73.0245755"/>
+    <nd ref="8508663566"/>
+    <nd ref="8508663567"/>
+    <nd ref="8508663568"/>
+    <nd ref="8508663569"/>
+    <nd ref="8508663566"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="960"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247747"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057661" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "229 Oberhugel Road, Stamford, VT 05352" to "229 Oberhugel Road, Readsboro, VT 05350". -->
+    <center lat="42.8220787" lon="-73.0183101"/>
+    <nd ref="8508663530"/>
+    <nd ref="8508663531"/>
+    <nd ref="8508663532"/>
+    <nd ref="8949647939"/>
+    <nd ref="8508663530"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="229"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberhugel Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="247754"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057630" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1044 Bergrucken Lane, Stamford, VT 05352" to "1044 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8174505" lon="-73.0228029"/>
+    <nd ref="8508663381"/>
+    <nd ref="8508663382"/>
+    <nd ref="8508663383"/>
+    <nd ref="8508663384"/>
+    <nd ref="8508663381"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="1044"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="305670"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057629" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "43 Bergblume Circle, Stamford, VT 05352" to "43 Bergblume Circle, Readsboro, VT 05350". -->
+    <center lat="42.8180077" lon="-73.0230533"/>
+    <nd ref="8508663373"/>
+    <nd ref="8508663374"/>
+    <nd ref="8508663375"/>
+    <nd ref="8508663376"/>
+    <nd ref="8508663377"/>
+    <nd ref="8508663378"/>
+    <nd ref="8508663379"/>
+    <nd ref="8508663380"/>
+    <nd ref="8508663373"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergblume Circle"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="307167"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057639" version="2" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "931 Oberdorf Road, Stamford, VT " to "931 Oberdorf Road, Readsboro, VT 05350". -->
+    <center lat="42.8200382" lon="-73.0168816"/>
+    <nd ref="8508663427"/>
+    <nd ref="8508663428"/>
+    <nd ref="8508663429"/>
+    <nd ref="8508663430"/>
+    <nd ref="8508663427"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="931"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberdorf Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="309261"/>
+  <tag k="addr:postcode" v="05350"/></way>
+  <way id="916057673" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "558 Bergrucken Lane, Stamford, VT 05352" to "558 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8165306" lon="-73.0203377"/>
+    <nd ref="8508663578"/>
+    <nd ref="8508663579"/>
+    <nd ref="8508663580"/>
+    <nd ref="8508663581"/>
+    <nd ref="8508663578"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="558"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="309262"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057628" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "64 Bergblume Circle, Stamford, VT 05352" to "64 Bergblume Circle, Readsboro, VT 05350". -->
+    <center lat="42.8187573" lon="-73.0236656"/>
+    <nd ref="8508663369"/>
+    <nd ref="8508663370"/>
+    <nd ref="8508663371"/>
+    <nd ref="8508663372"/>
+    <nd ref="8508663369"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergblume Circle"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="311927"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057668" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "78 Erfreulichblick Circle, Stamford, VT 05352" to "78 Erfreulichblick Circle, Readsboro, VT 05350". -->
+    <center lat="42.8180234" lon="-73.0258165"/>
+    <nd ref="8508663558"/>
+    <nd ref="8508663559"/>
+    <nd ref="8508663560"/>
+    <nd ref="8508663561"/>
+    <nd ref="8508663558"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Erfreulichblick Circle"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="336996"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057625" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "32 Lebensanschauung Circle, Stamford, VT 05352" to "32 Lebensanschauung Circle, Readsboro, VT 05350". -->
+    <center lat="42.8200854" lon="-73.0263602"/>
+    <nd ref="8508663360"/>
+    <nd ref="8508663361"/>
+    <nd ref="8508663362"/>
+    <nd ref="8508663363"/>
+    <nd ref="8508663360"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Lebensanschauung Circle"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="338196"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057705" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "241 Bergabhang Drive, Stamford, VT 05352" to "241 Bergabhang Drive, Readsboro, VT 05350". -->
+    <center lat="42.8203725" lon="-73.0217317"/>
+    <nd ref="8508663717"/>
+    <nd ref="8508663718"/>
+    <nd ref="8508663719"/>
+    <nd ref="8508663720"/>
+    <nd ref="8508663721"/>
+    <nd ref="8508663722"/>
+    <nd ref="8508663717"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="241"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergabhang Drive"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="338918"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="13189025003" lat="42.8196413" lon="-73.0232791" version="1" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "238 Bergabhang Drive, Stamford, VT " to "238 Bergabhang Drive, Readsboro, VT 05350". -->
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="238"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergabhang Drive"/>
+    <tag k="ref:vcgi:esiteid" v="339690"/>
+  <tag k="addr:postcode" v="05350"/></node>
+  <way id="916057671" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "690 Bergrucken Lane, Stamford, VT 05352" to "690 Bergrucken Lane, Readsboro, VT 05350". -->
+    <center lat="42.8162736" lon="-73.0225125"/>
+    <nd ref="8508663570"/>
+    <nd ref="8508663571"/>
+    <nd ref="8508663572"/>
+    <nd ref="8508663573"/>
+    <nd ref="8508663570"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="690"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="340222"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="916057714" version="3" timestamp="2025-10-02T16:18:04Z" changeset="172756841" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "814 Oberhugel Road, Stamford, VT 05352" to "814 Oberhugel Road, Readsboro, VT 05350". -->
+    <center lat="42.8209155" lon="-73.0278106"/>
+    <nd ref="8508663794"/>
+    <nd ref="8508663795"/>
+    <nd ref="8508663796"/>
+    <nd ref="8508663797"/>
+    <nd ref="8508663794"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="814"/>
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberhugel Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="344321"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="13188986699" lat="42.8154245" lon="-73.0272285" version="1" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "879 Bergrucken Lane, Stamford, VT " to "879 Bergrucken Lane, Readsboro, VT 05350". -->
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="879"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="ref:vcgi:esiteid" v="447791"/>
+  <tag k="addr:postcode" v="05350"/></node>
+  <way id="1237845170" version="2" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "780 Wiley Mountain Road, Stamford, VT " to "780 Wiley Mountain Road, Readsboro, VT 05350". -->
+    <center lat="42.7516456" lon="-73.0200774"/>
+    <nd ref="11497851803"/>
+    <nd ref="11497851804"/>
+    <nd ref="11497851805"/>
+    <nd ref="11497851806"/>
+    <nd ref="11497851803"/>
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="780"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Wiley Mountain Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="449768"/>
+  <tag k="addr:postcode" v="05350"/></way>
+  <node id="13188986696" lat="42.8183237" lon="-73.0207778" version="1" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1179 Bergrucken Lane, Stamford, VT " to "1179 Bergrucken Lane, Readsboro, VT 05350". -->
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="1179"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergrucken Lane"/>
+    <tag k="ref:vcgi:esiteid" v="455496"/>
+  <tag k="addr:postcode" v="05350"/></node>
+  <node id="13188986688" lat="42.8202002" lon="-73.0200841" version="1" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "373 Bergabhang Drive, Stamford, VT " to "373 Bergabhang Drive, Readsboro, VT 05350". -->
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="373"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergabhang Drive"/>
+    <tag k="ref:vcgi:esiteid" v="753758"/>
+  <tag k="addr:postcode" v="05350"/></node>
+  <node id="13188986686" lat="42.7438164" lon="-73.0361523" version="1" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1814 Wiley Mountain Road, Stamford, VT " to "1814 Wiley Mountain Road, Readsboro, VT 05350". -->
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="1814"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Wiley Mountain Road"/>
+    <tag k="ref:vcgi:esiteid" v="756361"/>
+  <tag k="addr:postcode" v="05350"/></node>
+  <node id="13188986682" lat="42.8225218" lon="-73.0268099" version="1" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "694 Oberhugel Road, Stamford, VT " to "694 Oberhugel Road, Readsboro, VT 05350". -->
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="694"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberhugel Road"/>
+    <tag k="ref:vcgi:esiteid" v="759224"/>
+  <tag k="addr:postcode" v="05350"/></node>
+  <node id="13188986681" lat="42.8202045" lon="-73.0210571" version="1" timestamp="2025-10-02T16:19:36Z" changeset="172756897" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "279 Bergabhang Drive, Stamford, VT " to "279 Bergabhang Drive, Readsboro, VT 05350". -->
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="279"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bergabhang Drive"/>
+    <tag k="ref:vcgi:esiteid" v="761487"/>
+  <tag k="addr:postcode" v="05350"/></node>
+  <node id="13334755077" lat="42.8193345" lon="-73.0277968" version="1" timestamp="2025-11-26T22:05:13Z" changeset="175174222" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "926 Oberhugel Road, Stamford, VT " to "926 Oberhugel Road, Readsboro, VT 05350". -->
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="926"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberhugel Road"/>
+    <tag k="ref:vcgi:esiteid" v="770257"/>
+  <tag k="addr:postcode" v="05350"/></node>
+  <node id="13334755076" lat="42.8239931" lon="-73.0271435" version="1" timestamp="2025-11-26T22:05:13Z" changeset="175174222" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "620 Oberhugel Road, Stamford, VT " to "620 Oberhugel Road, Readsboro, VT 05350". -->
+    <tag k="addr:city" v="Readsboro"/>
+    <tag k="addr:housenumber" v="620"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Oberhugel Road"/>
+    <tag k="ref:vcgi:esiteid" v="772158"/>
+  <tag k="addr:postcode" v="05350"/></node>
+</modify>
+</osmChange>

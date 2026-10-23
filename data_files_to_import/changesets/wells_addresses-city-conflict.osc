@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <node id="8988093310" lat="43.4646097" lon="-73.1864646" version="2" timestamp="2025-08-12T14:01:12Z" changeset="170343910" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1354 Endless Brook Road, Wells, VT 05774" to "1354 Endless Brook Road, Poultney, VT 05764". -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="1354"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Endless Brook Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="192389"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1001101748" version="4" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4028 Vermont Route 31, Wells, VT 05764" to "4028 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4593705" lon="-73.2426520"/>
+    <nd ref="9240686307"/>
+    <nd ref="9240686308"/>
+    <nd ref="9240686309"/>
+    <nd ref="9240686310"/>
+    <nd ref="9240686307"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4028"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="277866"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="8987775399" lat="43.4590240" lon="-73.2340815" version="2" timestamp="2025-08-12T14:01:12Z" changeset="170343910" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "112 Upper Road, Wells, VT 05774" to "112 Upper Road, Poultney, VT 05764". -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Upper Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="277868"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1001101746" version="3" timestamp="2025-08-12T14:01:12Z" changeset="170343910" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "35 Topaz Road, Wells, VT 05774" to "35 Topaz Road, Poultney, VT 05764". -->
+    <center lat="43.4575085" lon="-73.2410540"/>
+    <nd ref="9240686299"/>
+    <nd ref="9240686300"/>
+    <nd ref="9240686301"/>
+    <nd ref="9240686302"/>
+    <nd ref="9240686299"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Topaz Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="277882"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101743" version="3" timestamp="2025-08-12T13:54:21Z" changeset="170343602" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4214 Vermont Route 31, Wells, VT 05764" to "4214 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4577735" lon="-73.2421145"/>
+    <nd ref="9240686287"/>
+    <nd ref="9240686288"/>
+    <nd ref="9240686289"/>
+    <nd ref="9240686290"/>
+    <nd ref="9240686287"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4214"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="277883"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101742" version="3" timestamp="2025-08-12T14:01:12Z" changeset="170343910" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "57 Topaz Road, Wells, VT 05774" to "57 Topaz Road, Poultney, VT 05764". -->
+    <center lat="43.4578020" lon="-73.2407480"/>
+    <nd ref="9240686283"/>
+    <nd ref="9240686284"/>
+    <nd ref="9240686285"/>
+    <nd ref="9240686286"/>
+    <nd ref="9240686283"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Topaz Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="277887"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101737" version="3" timestamp="2025-08-12T14:01:12Z" changeset="170343910" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "90 Hilltop Road, Wells, VT 05774" to "90 Hilltop Road, Poultney, VT 05764". -->
+    <center lat="43.4555450" lon="-73.2399065"/>
+    <nd ref="9240686261"/>
+    <nd ref="9240686262"/>
+    <nd ref="9240686263"/>
+    <nd ref="9240686264"/>
+    <nd ref="9240686265"/>
+    <nd ref="9240686266"/>
+    <nd ref="9240686261"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="277921"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101740" version="4" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4264 Vermont Route 31, Wells, VT 05774" to "4264 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4554335" lon="-73.2424160"/>
+    <nd ref="9240686275"/>
+    <nd ref="9240686276"/>
+    <nd ref="9240686277"/>
+    <nd ref="9240686278"/>
+    <nd ref="9240686275"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4264"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="277926"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101736" version="3" timestamp="2025-08-12T14:01:12Z" changeset="170343910" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "58 Hilltop Road, Wells, VT 05774" to "58 Hilltop Road, Poultney, VT 05764". -->
+    <center lat="43.4553915" lon="-73.2404770"/>
+    <nd ref="9240686257"/>
+    <nd ref="9240686258"/>
+    <nd ref="9240686259"/>
+    <nd ref="9240686260"/>
+    <nd ref="9240686257"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="277928"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101734" version="4" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4462 Vermont Route 31, Wells, VT 05764" to "4462 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4542675" lon="-73.2428515"/>
+    <nd ref="9240686247"/>
+    <nd ref="9240686248"/>
+    <nd ref="9240686249"/>
+    <nd ref="9240686250"/>
+    <nd ref="9240686251"/>
+    <nd ref="9240686252"/>
+    <nd ref="9240686247"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4462"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="277938"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1358671947" version="2" timestamp="2025-08-12T13:54:21Z" changeset="170343602" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4507 Vermont Route 31, Wells, VT 05774" to "4507 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4529098" lon="-73.2420922"/>
+    <nd ref="8987775388"/>
+    <nd ref="12574391845"/>
+    <nd ref="12574391846"/>
+    <nd ref="12574391847"/>
+    <nd ref="8987775388"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4507"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="detached"/>
+    <tag k="ref:vcgi:esiteid" v="277955"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101730" version="3" timestamp="2025-08-12T13:54:21Z" changeset="170343602" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4841 Vermont Route 31, Wells, VT 05774" to "4841 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4488255" lon="-73.2437680"/>
+    <nd ref="9240686229"/>
+    <nd ref="9240686230"/>
+    <nd ref="9240686231"/>
+    <nd ref="9240686232"/>
+    <nd ref="9240686229"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4841"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="278008"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101726" version="3" timestamp="2025-08-12T13:54:21Z" changeset="170343602" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4959 Vermont Route 31, Wells, VT 05774" to "4959 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4455825" lon="-73.2437345"/>
+    <nd ref="9240607309"/>
+    <nd ref="9240607310"/>
+    <nd ref="9240607311"/>
+    <nd ref="9240607312"/>
+    <nd ref="9240607309"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4959"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="278079"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101724" version="4" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5075 Vermont Route 31, Wells, VT 05774" to "5075 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4442915" lon="-73.2462320"/>
+    <nd ref="9240607301"/>
+    <nd ref="9240607302"/>
+    <nd ref="9240607303"/>
+    <nd ref="9240607304"/>
+    <nd ref="9240607301"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="5075"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="278095"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101723" version="3" timestamp="2025-08-12T13:54:21Z" changeset="170343602" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5225 Vermont Route 31, Wells, VT 05774" to "5225 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4434850" lon="-73.2472135"/>
+    <nd ref="9240607297"/>
+    <nd ref="9240607298"/>
+    <nd ref="9240607299"/>
+    <nd ref="9240607300"/>
+    <nd ref="9240607297"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="5225"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="278110"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101721" version="3" timestamp="2025-08-12T13:54:21Z" changeset="170343602" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5338 Vermont Route 31, Wells, VT 05774" to "5338 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4424285" lon="-73.2485880"/>
+    <nd ref="9240607287"/>
+    <nd ref="9240607288"/>
+    <nd ref="9240607289"/>
+    <nd ref="9240607290"/>
+    <nd ref="9240607291"/>
+    <nd ref="9240607292"/>
+    <nd ref="9240607287"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="5338"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="278126"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101717" version="3" timestamp="2025-08-12T13:54:21Z" changeset="170343602" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5490 Vermont Route 31, Wells, VT 05774" to "5490 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4403530" lon="-73.2493660"/>
+    <nd ref="9240607271"/>
+    <nd ref="9240607272"/>
+    <nd ref="9240607273"/>
+    <nd ref="9240607274"/>
+    <nd ref="9240607271"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="5490"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="278147"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="8987775400" lat="43.4579215" lon="-73.2345166" version="2" timestamp="2025-08-12T14:01:12Z" changeset="170343910" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5 Upper Road, Wells, VT 05774" to "5 Upper Road, Poultney, VT 05764". -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Upper Road"/>
+    <tag k="ref:vcgi:esiteid" v="278667"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1358671527" version="3" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4738 Vermont Route 31, Wells, VT 05764" to "4738 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4508117" lon="-73.2438272"/>
+    <nd ref="8987775386"/>
+    <nd ref="12574384832"/>
+    <nd ref="12574384830"/>
+    <nd ref="12574384829"/>
+    <nd ref="12574384828"/>
+    <nd ref="12574384831"/>
+    <nd ref="12574384833"/>
+    <nd ref="12574384834"/>
+    <nd ref="8987775386"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4738"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="detached"/>
+    <tag k="ref:vcgi:esiteid" v="310909"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="8988093309" lat="43.4644364" lon="-73.1866070" version="2" timestamp="2025-08-12T14:01:12Z" changeset="170343910" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1394 Endless Brook Road, Wells, VT 05774" to "1394 Endless Brook Road, Poultney, VT 05764". -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="1394"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Endless Brook Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="337479"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="13065407940" lat="43.4534858" lon="-73.2466801" version="1" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4522 Vermont Route 31, Wells, VT " to "4522 Vermont Route 31, Poultney, VT 05764". -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4522"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="ref:vcgi:esiteid" v="339198"/>
+  <tag k="addr:postcode" v="05764"/></node>
+  <way id="1358671526" version="3" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4574 Vermont Route 31, Wells, VT 05764" to "4574 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4520385" lon="-73.2436268"/>
+    <nd ref="8987775387"/>
+    <nd ref="12574384825"/>
+    <nd ref="12574384826"/>
+    <nd ref="12574384827"/>
+    <nd ref="8987775387"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4574"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="detached"/>
+    <tag k="ref:vcgi:esiteid" v="339199"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="13065407920" lat="43.4488820" lon="-73.2323376" version="1" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "992 Hilltop Road, Wells, VT " to "992 Hilltop Road, Poultney, VT 05764". -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="992"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="ref:vcgi:esiteid" v="344826"/>
+  <tag k="addr:postcode" v="05764"/></node>
+  <node id="13065407919" lat="43.4547690" lon="-73.2325822" version="1" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "615 Hilltop Road, Wells, VT " to "615 Hilltop Road, Poultney, VT 05764". -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hilltop Road"/>
+    <tag k="ref:vcgi:esiteid" v="344827"/>
+  <tag k="addr:postcode" v="05764"/></node>
+  <node id="8987775393" lat="43.4574650" lon="-73.2405814" version="2" timestamp="2025-08-12T14:01:12Z" changeset="170343910" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "46 Topaz Road, Wells, VT 05774" to "46 Topaz Road, Poultney, VT 05764". -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Topaz Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="344828"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1001101747" version="3" timestamp="2025-08-12T13:54:21Z" changeset="170343602" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4005 Vermont Route 31, Wells, VT 05774" to "4005 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4591990" lon="-73.2396310"/>
+    <nd ref="9240686303"/>
+    <nd ref="9240686304"/>
+    <nd ref="9240686305"/>
+    <nd ref="9240686306"/>
+    <nd ref="9240686303"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="4005"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="344829"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1001101718" version="4" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5303 Vermont Route 31, Wells, VT 05774" to "5303 Vermont Route 31, Poultney, VT 05764". -->
+    <center lat="43.4402200" lon="-73.2466290"/>
+    <nd ref="9240607275"/>
+    <nd ref="9240607276"/>
+    <nd ref="9240607277"/>
+    <nd ref="9240607278"/>
+    <nd ref="9240607275"/>
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="5303"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="344831"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="13065380973" lat="43.4100297" lon="-73.2357895" version="1" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "672 Vermont Route 149, Wells, VT " to "672 Vermont Route 149, West Pawlet, VT 05775". -->
+    <tag k="addr:city" v="West Pawlet"/>
+    <tag k="addr:housenumber" v="672"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 149"/>
+    <tag k="ref:vcgi:esiteid" v="768809"/>
+  <tag k="addr:postcode" v="05775"/></node>
+  <node id="13065380971" lat="43.4459842" lon="-73.2462384" version="1" timestamp="2025-08-12T14:07:16Z" changeset="170344199" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "5100 Vermont Route 31, Wells, VT " to "5100 Vermont Route 31, Poultney, VT 05764". -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="5100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 31"/>
+    <tag k="ref:vcgi:esiteid" v="769007"/>
+  <tag k="addr:postcode" v="05764"/></node>
+</modify>
+</osmChange>

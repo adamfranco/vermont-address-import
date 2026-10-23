@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <way id="792369223" version="2" timestamp="2025-03-12T18:10:58Z" changeset="163540210" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1090 Dragon Brook Road, Ripton, VT 05766" to "1090 Dragon Brook Road, East Middlebury, VT 05740". -->
+    <center lat="43.9975422" lon="-73.0572942"/>
+    <nd ref="7409244827"/>
+    <nd ref="7409244824"/>
+    <nd ref="7409244825"/>
+    <nd ref="7409244826"/>
+    <nd ref="7409244827"/>
+    <tag k="addr:city" v="East Middlebury"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="1090"/>
+    <tag k="addr:postcode" v="05740"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Dragon Brook Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="201863"/>
+  </way>
+  <way id="792369226" version="2" timestamp="2025-03-12T18:10:58Z" changeset="163540210" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1070 Dragon Brook Road, Ripton, VT 05766" to "1070 Dragon Brook Road, East Middlebury, VT 05740". -->
+    <center lat="43.9972744" lon="-73.0578966"/>
+    <nd ref="7409244845"/>
+    <nd ref="7409244842"/>
+    <nd ref="7409244840"/>
+    <nd ref="7409244843"/>
+    <nd ref="7409244841"/>
+    <nd ref="7409244844"/>
+    <nd ref="7409244845"/>
+    <tag k="addr:city" v="East Middlebury"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="1070"/>
+    <tag k="addr:postcode" v="05740"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Dragon Brook Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="201864"/>
+  </way>
+  <way id="792369228" version="2" timestamp="2025-03-12T18:10:58Z" changeset="163540210" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "594 Dragon Brook Road, Ripton, VT 05766" to "594 Dragon Brook Road, East Middlebury, VT 05740". -->
+    <center lat="43.9898841" lon="-73.0599803"/>
+    <nd ref="7409244853"/>
+    <nd ref="7409244850"/>
+    <nd ref="7409244851"/>
+    <nd ref="7409244852"/>
+    <nd ref="7409244853"/>
+    <tag k="addr:city" v="East Middlebury"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="594"/>
+    <tag k="addr:postcode" v="05740"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Dragon Brook Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="202147"/>
+  </way>
+</modify>
+</osmChange>

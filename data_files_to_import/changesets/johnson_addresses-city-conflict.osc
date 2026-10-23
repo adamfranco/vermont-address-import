@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <node id="10009644971" lat="44.6363853" lon="-72.6285994" version="1" timestamp="2022-09-08T17:40:42Z" changeset="125952662" uid="3887" user="jared">
+    <!-- changed: Updated address from "33 Buds Way, Johnson, VT 05656" to "33 Buds Way, Hyde Park, VT 05655". -->
+    <tag k="addr:city" v="Hyde Park"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="05655"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Buds Way"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="610763"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12784562380" lat="44.6359999" lon="-72.6280878" version="1" timestamp="2025-04-24T20:39:19Z" changeset="165397641" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "184 Locke Mill Lane, Johnson, VT " to "184 Locke Mill Lane, Hyde Park, VT 05655". -->
+    <tag k="addr:city" v="Hyde Park"/>
+    <tag k="addr:housenumber" v="184"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Locke Mill Lane"/>
+    <tag k="ref:vcgi:esiteid" v="656417"/>
+  <tag k="addr:postcode" v="05655"/></node>
+  <node id="12784562379" lat="44.6364955" lon="-72.6279233" version="1" timestamp="2025-04-24T20:39:19Z" changeset="165397641" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "26 Buds Way, Johnson, VT " to "26 Buds Way, Hyde Park, VT 05655". -->
+    <tag k="addr:city" v="Hyde Park"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Buds Way"/>
+    <tag k="ref:vcgi:esiteid" v="656418"/>
+  <tag k="addr:postcode" v="05655"/></node>
+  <node id="10009644978" lat="44.6376445" lon="-72.6279577" version="1" timestamp="2022-09-08T17:40:42Z" changeset="125952662" uid="3887" user="jared">
+    <!-- changed: Updated address from "186 Buds Way, Johnson, VT 05656" to "186 Buds Way, Hyde Park, VT 05655". -->
+    <tag k="addr:city" v="Hyde Park"/>
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:postcode" v="05655"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Buds Way"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="753910"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="10009644977" lat="44.6371528" lon="-72.6279065" version="1" timestamp="2022-09-08T17:40:42Z" changeset="125952662" uid="3887" user="jared">
+    <!-- changed: Updated address from "62 Buds Way, Johnson, VT 05656" to "62 Buds Way, Hyde Park, VT 05655". -->
+    <tag k="addr:city" v="Hyde Park"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="05655"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Buds Way"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="756607"/>
+    <tag k="source" v="esri/Vermont_US_Addresses"/>
+  </node>
+  <node id="12784562346" lat="44.6376609" lon="-72.6272075" version="1" timestamp="2025-04-24T20:39:19Z" changeset="165397641" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "108 Locke Mill Lane, Johnson, VT " to "108 Locke Mill Lane, Hyde Park, VT 05655". -->
+    <tag k="addr:city" v="Hyde Park"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Locke Mill Lane"/>
+    <tag k="ref:vcgi:esiteid" v="765942"/>
+  <tag k="addr:postcode" v="05655"/></node>
+</modify>
+</osmChange>

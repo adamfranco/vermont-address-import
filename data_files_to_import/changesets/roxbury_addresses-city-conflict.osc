@@ -1,0 +1,2697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <node id="12670974326" lat="44.0470294" lon="-72.6860331" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1300 Four Mile Wood Road, Roxbury, VT " to "1300 Four Mile Wood Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Four Mile Wood Road"/>
+    <tag k="ref:vcgi:esiteid" v="374"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974325" lat="44.0447808" lon="-72.6921666" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1195 Four Mile Wood Road, Roxbury, VT " to "1195 Four Mile Wood Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1195"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Four Mile Wood Road"/>
+    <tag k="ref:vcgi:esiteid" v="375"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974324" lat="44.0351278" lon="-72.6690125" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3371 Steele Hill Road, Roxbury, VT " to "3371 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3371"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="40516"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670968731" lat="44.0767106" lon="-72.6427284" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1469 East Roxbury Road, Roxbury, VT " to "1469 East Roxbury Road, Northfield, VT 05663". -->
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1469"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="ref:vcgi:esiteid" v="40973"/>
+  <tag k="addr:postcode" v="05663"/></node>
+  <way id="1334333172" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "327 Herriott Road, Roxbury, VT " to "327 Herriott Road, Northfield, VT 05663". -->
+    <center lat="44.0890387" lon="-72.6358360"/>
+    <nd ref="12344638941"/>
+    <nd ref="12344638942"/>
+    <nd ref="12344638943"/>
+    <nd ref="12344638944"/>
+    <nd ref="12344638941"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="327"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Herriott Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="181792"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189447444" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1014 Messier Hill Road, Roxbury, VT " to "1014 Messier Hill Road, Northfield, VT 05663". -->
+    <center lat="44.1034292" lon="-72.6946507"/>
+    <nd ref="11044581919"/>
+    <nd ref="11044581920"/>
+    <nd ref="11044581921"/>
+    <nd ref="11044581922"/>
+    <nd ref="11044581923"/>
+    <nd ref="11044581924"/>
+    <nd ref="11044581925"/>
+    <nd ref="11044581926"/>
+    <nd ref="11044581919"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1014"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Messier Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205356"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189447446" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "774 Messier Hill Road, Roxbury, VT " to "774 Messier Hill Road, Northfield, VT 05663". -->
+    <center lat="44.1033783" lon="-72.6895710"/>
+    <nd ref="11044581931"/>
+    <nd ref="11044581932"/>
+    <nd ref="11044581933"/>
+    <nd ref="11044581934"/>
+    <nd ref="11044581931"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="774"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Messier Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205357"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1192014233" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1060 Messier Hill Road, Roxbury, VT " to "1060 Messier Hill Road, Northfield, VT 05663". -->
+    <center lat="44.1029961" lon="-72.6987845"/>
+    <nd ref="11066443421"/>
+    <nd ref="11066443418"/>
+    <nd ref="11066443419"/>
+    <nd ref="11066443420"/>
+    <nd ref="11066443421"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Messier Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205359"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1192987577" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1970 Winch Hill Road, Roxbury, VT 05663" to "1970 Winch Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0988005" lon="-72.6695580"/>
+    <nd ref="11073705477"/>
+    <nd ref="11073705478"/>
+    <nd ref="12670968734"/>
+    <nd ref="11073705479"/>
+    <nd ref="11073705480"/>
+    <nd ref="11073705481"/>
+    <nd ref="11073705482"/>
+    <nd ref="12670968732"/>
+    <nd ref="12670968733"/>
+    <nd ref="11073705483"/>
+    <nd ref="11073705477"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1970"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="205368"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1192994764" version="2" timestamp="2025-04-14T15:07:06Z" changeset="164943920" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1517 Bull Run Road, Roxbury, VT 05669" to "1517 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0972685" lon="-72.6773550"/>
+    <nd ref="11073804550"/>
+    <nd ref="11073804551"/>
+    <nd ref="11073804552"/>
+    <nd ref="11073804553"/>
+    <nd ref="11073804550"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1517"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205378"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1192016012" version="2" timestamp="2025-04-14T15:07:06Z" changeset="164943920" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1795 Bull Run Road, Roxbury, VT 05669" to "1795 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0936017" lon="-72.6794361"/>
+    <nd ref="11066442188"/>
+    <nd ref="11066442187"/>
+    <nd ref="11066442186"/>
+    <nd ref="11066442185"/>
+    <nd ref="11066442188"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1795"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205399"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1192017301" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "141 East Roxbury Road, Roxbury, VT 05669" to "141 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0916260" lon="-72.6483789"/>
+    <nd ref="11066465890"/>
+    <nd ref="11066465887"/>
+    <nd ref="11066465888"/>
+    <nd ref="11066465889"/>
+    <nd ref="11066465890"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="205435"/>
+    <tag k="source:adress" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1192016010" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2005 Bull Run Road, Roxbury, VT 05669" to "2005 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0915653" lon="-72.6813518"/>
+    <nd ref="11066442180"/>
+    <nd ref="11066442177"/>
+    <nd ref="11066442178"/>
+    <nd ref="11066442179"/>
+    <nd ref="11066442180"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="2005"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="205442"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189023470" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2521 Winch Hill Road, Roxbury, VT " to "2521 Winch Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0911839" lon="-72.6705578"/>
+    <nd ref="11040640749"/>
+    <nd ref="11040640750"/>
+    <nd ref="11040640751"/>
+    <nd ref="11040640752"/>
+    <nd ref="11040640749"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="2521"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205443"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1192017307" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "158 East Roxbury Road, Roxbury, VT 05669" to "158 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0906831" lon="-72.6496711"/>
+    <nd ref="11066466214"/>
+    <nd ref="11066466213"/>
+    <nd ref="11895577187"/>
+    <nd ref="11895577186"/>
+    <nd ref="11066466212"/>
+    <nd ref="11895577183"/>
+    <nd ref="11895577182"/>
+    <nd ref="11066466211"/>
+    <nd ref="11895577184"/>
+    <nd ref="11895577185"/>
+    <nd ref="11066466214"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="205447"/>
+    <tag k="source:adress" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189023471" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2545 Winch Hill Road, Roxbury, VT 05669" to "2545 Winch Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0902997" lon="-72.6719080"/>
+    <nd ref="11040640753"/>
+    <nd ref="11040640754"/>
+    <nd ref="11040640755"/>
+    <nd ref="11040640756"/>
+    <nd ref="11040640757"/>
+    <nd ref="11040640758"/>
+    <nd ref="11040640759"/>
+    <nd ref="11040640760"/>
+    <nd ref="11040640761"/>
+    <nd ref="11040640762"/>
+    <nd ref="11040640753"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="2545"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205452"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1192016006" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3364 Winch Hill Road, Roxbury, VT 05669" to "3364 Winch Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0897228" lon="-72.6817637"/>
+    <nd ref="11066442162"/>
+    <nd ref="11066442159"/>
+    <nd ref="11066442157"/>
+    <nd ref="11066442158"/>
+    <nd ref="11066442160"/>
+    <nd ref="11066442161"/>
+    <nd ref="11066442162"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="3364"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205453"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1334333159" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "430 Herriott Road, Roxbury, VT " to "430 Herriott Road, Northfield, VT 05663". -->
+    <center lat="44.0885508" lon="-72.6389610"/>
+    <nd ref="12344615863"/>
+    <nd ref="12344615864"/>
+    <nd ref="12344615865"/>
+    <nd ref="12344615866"/>
+    <nd ref="12344615863"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Herriott Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205465"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1190075162" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "92 Winch Hill Extension, Roxbury, VT 05663" to "92 Winch Hill Extension, Northfield, VT 05663". -->
+    <center lat="44.0875061" lon="-72.6754577"/>
+    <nd ref="11050232354"/>
+    <nd ref="11050232355"/>
+    <nd ref="11050232356"/>
+    <nd ref="11050232357"/>
+    <nd ref="11050232358"/>
+    <nd ref="11050232359"/>
+    <nd ref="11050232360"/>
+    <nd ref="11050232361"/>
+    <nd ref="11050232362"/>
+    <nd ref="11050232363"/>
+    <nd ref="11050232364"/>
+    <nd ref="11050232365"/>
+    <nd ref="11050232366"/>
+    <nd ref="11050232367"/>
+    <nd ref="11050232368"/>
+    <nd ref="11050232369"/>
+    <nd ref="11050232370"/>
+    <nd ref="11050232371"/>
+    <nd ref="11050232354"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Extension"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="205470"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1190075174" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2305 Bull Run Road, Roxbury, VT " to "2305 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0876024" lon="-72.6841951"/>
+    <nd ref="11050240542"/>
+    <nd ref="11050240543"/>
+    <nd ref="11050240544"/>
+    <nd ref="11050240545"/>
+    <nd ref="11050240542"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="2305"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205471"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1333365428" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "373 East Roxbury Road, Roxbury, VT 05669" to "373 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0874915" lon="-72.6489515"/>
+    <nd ref="8866102725"/>
+    <nd ref="12335975256"/>
+    <nd ref="12335975257"/>
+    <nd ref="12335975258"/>
+    <nd ref="12335975259"/>
+    <nd ref="12335975260"/>
+    <nd ref="12335975261"/>
+    <nd ref="12335975262"/>
+    <nd ref="8866102725"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="373"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205472"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189023473" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "131 Winch Hill Extension, Roxbury, VT " to "131 Winch Hill Extension, Northfield, VT 05663". -->
+    <center lat="44.0876447" lon="-72.6731917"/>
+    <nd ref="11040640767"/>
+    <nd ref="11040640768"/>
+    <nd ref="11040640769"/>
+    <nd ref="11040640770"/>
+    <nd ref="11040640771"/>
+    <nd ref="11040640772"/>
+    <nd ref="11040640773"/>
+    <nd ref="11040640774"/>
+    <nd ref="11040640767"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Extension"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205474"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1190074947" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "129 Winch Hill Extension, Roxbury, VT 05669" to "129 Winch Hill Extension, Northfield, VT 05663". -->
+    <center lat="44.0872645" lon="-72.6731874"/>
+    <nd ref="11050236450"/>
+    <nd ref="11050236451"/>
+    <nd ref="11050236452"/>
+    <nd ref="11050236453"/>
+    <nd ref="11050236454"/>
+    <nd ref="11050236455"/>
+    <nd ref="11050236456"/>
+    <nd ref="11050236457"/>
+    <nd ref="11050236450"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Extension"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="205478"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1191932939" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "48 Tenney Road, Roxbury, VT 05669" to "48 Tenney Road, Northfield, VT 05663". -->
+    <center lat="44.0870793" lon="-72.6511446"/>
+    <nd ref="11065869713"/>
+    <nd ref="11065869712"/>
+    <nd ref="11065869711"/>
+    <nd ref="11065869710"/>
+    <nd ref="11065869713"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="205483"/>
+    <tag k="source:adress" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1191932932" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "447 East Roxbury Road, Roxbury, VT 05669" to "447 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0870628" lon="-72.6490129"/>
+    <nd ref="11065869685"/>
+    <nd ref="11065869684"/>
+    <nd ref="11065869683"/>
+    <nd ref="11065869660"/>
+    <nd ref="11065869659"/>
+    <nd ref="11065869658"/>
+    <nd ref="8866102727"/>
+    <nd ref="11065869682"/>
+    <nd ref="11065869685"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="447"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205486"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1333365440" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "38 Tenney Road, Roxbury, VT 05669" to "38 Tenney Road, Northfield, VT 05663". -->
+    <center lat="44.0865910" lon="-72.6503148"/>
+    <nd ref="12335975324"/>
+    <nd ref="12335975325"/>
+    <nd ref="8866102728"/>
+    <nd ref="12335975327"/>
+    <nd ref="12335975328"/>
+    <nd ref="12335975329"/>
+    <nd ref="12335975330"/>
+    <nd ref="12335975331"/>
+    <nd ref="12335975332"/>
+    <nd ref="12335975333"/>
+    <nd ref="12335975324"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205491"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1191932936" version="4" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "70 Tenney Road, Roxbury, VT 05669" to "70 Tenney Road, Northfield, VT 05663". -->
+    <center lat="44.0864000" lon="-72.6513807"/>
+    <nd ref="11065869701"/>
+    <nd ref="11065869700"/>
+    <nd ref="11065869699"/>
+    <nd ref="12335975279"/>
+    <nd ref="12335975280"/>
+    <nd ref="12335975282"/>
+    <nd ref="12335975283"/>
+    <nd ref="12335975281"/>
+    <nd ref="11065869698"/>
+    <nd ref="11065869701"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="205495"/>
+    <tag k="source:adress" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1191933092" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "80 Tenney Road, Roxbury, VT 05669" to "80 Tenney Road, Northfield, VT 05663". -->
+    <center lat="44.0859420" lon="-72.6513418"/>
+    <nd ref="11065796855"/>
+    <nd ref="11065796852"/>
+    <nd ref="11065796850"/>
+    <nd ref="11065796849"/>
+    <nd ref="11065796848"/>
+    <nd ref="11065796851"/>
+    <nd ref="11065796853"/>
+    <nd ref="11065796854"/>
+    <nd ref="11065796855"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="205497"/>
+    <tag k="source:adress" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1190075172" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "30 Diemer Road, Roxbury, VT " to "30 Diemer Road, Northfield, VT 05663". -->
+    <center lat="44.0860113" lon="-72.6834276"/>
+    <nd ref="11050240524"/>
+    <nd ref="11050240525"/>
+    <nd ref="11050240526"/>
+    <nd ref="11050240527"/>
+    <nd ref="11050240528"/>
+    <nd ref="11050240529"/>
+    <nd ref="11050240524"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Diemer Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205498"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1190075159" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "230 Winch Hill Extension, Roxbury, VT " to "230 Winch Hill Extension, Northfield, VT 05663". -->
+    <center lat="44.0859574" lon="-72.6754527"/>
+    <nd ref="11050232338"/>
+    <nd ref="11050232339"/>
+    <nd ref="11050232340"/>
+    <nd ref="11050232341"/>
+    <nd ref="11050232342"/>
+    <nd ref="11050232343"/>
+    <nd ref="11050232344"/>
+    <nd ref="11050232345"/>
+    <nd ref="11050232338"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Extension"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205500"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1333365437" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "103 Tenney Road, Roxbury, VT " to "103 Tenney Road, Northfield, VT 05663". -->
+    <center lat="44.0856602" lon="-72.6502876"/>
+    <nd ref="12335975304"/>
+    <nd ref="12335975305"/>
+    <nd ref="12335975306"/>
+    <nd ref="12335975307"/>
+    <nd ref="12335975308"/>
+    <nd ref="12335975309"/>
+    <nd ref="12335975304"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205502"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1018696398" version="4" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "626 Herriott Road, Roxbury, VT " to "626 Herriott Road, Northfield, VT 05663". -->
+    <center lat="44.0857472" lon="-72.6399769"/>
+    <nd ref="9395926887"/>
+    <nd ref="11050105128"/>
+    <nd ref="11050105127"/>
+    <nd ref="11050105126"/>
+    <nd ref="11050105125"/>
+    <nd ref="9395926888"/>
+    <nd ref="11040570434"/>
+    <nd ref="11050105129"/>
+    <nd ref="11050105130"/>
+    <nd ref="9395926890"/>
+    <nd ref="9395926887"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="626"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Herriott Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205503"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1333365423" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "541 East Roxbury Road, Roxbury, VT 05669" to "541 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0854313" lon="-72.6493562"/>
+    <nd ref="12335975217"/>
+    <nd ref="8866102732"/>
+    <nd ref="12335975219"/>
+    <nd ref="12335975220"/>
+    <nd ref="12335975221"/>
+    <nd ref="12335975222"/>
+    <nd ref="12335975217"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="541"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205504"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1191932948" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "108 Tenney Road, Roxbury, VT 05669" to "108 Tenney Road, Northfield, VT 05663". -->
+    <center lat="44.0854348" lon="-72.6512529"/>
+    <nd ref="11065869749"/>
+    <nd ref="11065869748"/>
+    <nd ref="11065869747"/>
+    <nd ref="11065869746"/>
+    <nd ref="11065869749"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="205505"/>
+    <tag k="source:adress" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1333365434" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "109 Tenney Road, Roxbury, VT " to "109 Tenney Road, Northfield, VT 05663". -->
+    <center lat="44.0851238" lon="-72.6505032"/>
+    <nd ref="12335975290"/>
+    <nd ref="12335975291"/>
+    <nd ref="12335975292"/>
+    <nd ref="12335975293"/>
+    <nd ref="12335975290"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205506"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1190075169" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "336 Taylor Road, Roxbury, VT " to "336 Taylor Road, Northfield, VT 05663". -->
+    <center lat="44.0848396" lon="-72.6808421"/>
+    <nd ref="11050232402"/>
+    <nd ref="11050232403"/>
+    <nd ref="11050232404"/>
+    <nd ref="11050240505"/>
+    <nd ref="11050240506"/>
+    <nd ref="11050240507"/>
+    <nd ref="11050240508"/>
+    <nd ref="11050240509"/>
+    <nd ref="11050232402"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="336"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Taylor Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205509"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1333365421" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "637 East Roxbury Road, Roxbury, VT 05669" to "637 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0842473" lon="-72.6498550"/>
+    <nd ref="12335975208"/>
+    <nd ref="12335975209"/>
+    <nd ref="8866102737"/>
+    <nd ref="12335975211"/>
+    <nd ref="12335975208"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="637"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205510"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1190074948" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "397 Winch Hill Extension, Roxbury, VT " to "397 Winch Hill Extension, Northfield, VT 05663". -->
+    <center lat="44.0842538" lon="-72.6742658"/>
+    <nd ref="11050236458"/>
+    <nd ref="11050236459"/>
+    <nd ref="11050236460"/>
+    <nd ref="11050236461"/>
+    <nd ref="11050236458"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="397"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Extension"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205511"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1190075157" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "376 Winch Hill Extension, Roxbury, VT " to "376 Winch Hill Extension, Northfield, VT 05663". -->
+    <center lat="44.0832448" lon="-72.6767860"/>
+    <nd ref="11050232328"/>
+    <nd ref="11050232329"/>
+    <nd ref="11050232330"/>
+    <nd ref="11050232331"/>
+    <nd ref="11050232332"/>
+    <nd ref="11050232333"/>
+    <nd ref="11050232328"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="376"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Extension"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205513"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189023149" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "830 East Roxbury Road, Roxbury, VT 05669" to "830 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0832438" lon="-72.6574488"/>
+    <nd ref="11040637151"/>
+    <nd ref="11040637152"/>
+    <nd ref="11040637153"/>
+    <nd ref="11040637154"/>
+    <nd ref="11040637155"/>
+    <nd ref="11040637156"/>
+    <nd ref="11040637151"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="830"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205514"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189020594" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "803 Herriott Road, Roxbury, VT " to "803 Herriott Road, Northfield, VT 05663". -->
+    <center lat="44.0829066" lon="-72.6398325"/>
+    <nd ref="11040570439"/>
+    <nd ref="11040570440"/>
+    <nd ref="11040570441"/>
+    <nd ref="11040570442"/>
+    <nd ref="11040570443"/>
+    <nd ref="11040570444"/>
+    <nd ref="11040570445"/>
+    <nd ref="11040570446"/>
+    <nd ref="11040570447"/>
+    <nd ref="11040570448"/>
+    <nd ref="11040570439"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="803"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Herriott Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205516"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1333365418" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "763 East Roxbury Road, Roxbury, VT 05669" to "763 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0818147" lon="-72.6504626"/>
+    <nd ref="12335947786"/>
+    <nd ref="12335947787"/>
+    <nd ref="8866102739"/>
+    <nd ref="12335947789"/>
+    <nd ref="12335947790"/>
+    <nd ref="12335947791"/>
+    <nd ref="12335947792"/>
+    <nd ref="12335947793"/>
+    <nd ref="12335947786"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="763"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205521"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1333365414" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "859 East Roxbury Road, Roxbury, VT " to "859 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0814493" lon="-72.6488303"/>
+    <nd ref="12335947754"/>
+    <nd ref="12335947755"/>
+    <nd ref="12335947756"/>
+    <nd ref="12335947757"/>
+    <nd ref="12335947754"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="859"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205522"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1190075165" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "84 Taylor Road, Roxbury, VT " to "84 Taylor Road, Northfield, VT 05663". -->
+    <center lat="44.0810005" lon="-72.6806214"/>
+    <nd ref="11050232380"/>
+    <nd ref="11050232381"/>
+    <nd ref="11050232382"/>
+    <nd ref="11050232383"/>
+    <nd ref="11050232384"/>
+    <nd ref="11050232385"/>
+    <nd ref="11050232386"/>
+    <nd ref="11050232387"/>
+    <nd ref="11050232380"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Taylor Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205524"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1191932915" version="4" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "113 Ladd Road, Roxbury, VT 05669" to "113 Ladd Road, Northfield, VT 05663". -->
+    <center lat="44.0807430" lon="-72.6525021"/>
+    <nd ref="11065818191"/>
+    <nd ref="11065818190"/>
+    <nd ref="11065818189"/>
+    <nd ref="8866102745"/>
+    <nd ref="12335947783"/>
+    <nd ref="12335947784"/>
+    <nd ref="12335947785"/>
+    <nd ref="12335947782"/>
+    <nd ref="11065818191"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Ladd Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205525"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1190075167" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2864 Bull Run Road, Roxbury, VT " to "2864 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0806641" lon="-72.6844354"/>
+    <nd ref="11050232392"/>
+    <nd ref="11050232393"/>
+    <nd ref="11050232394"/>
+    <nd ref="11050232395"/>
+    <nd ref="11050232396"/>
+    <nd ref="11050232397"/>
+    <nd ref="11050232392"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="2864"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205526"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1190074950" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "899 Cruickshank Road, Roxbury, VT " to "899 Cruickshank Road, Northfield, VT 05663". -->
+    <center lat="44.0802259" lon="-72.6714617"/>
+    <nd ref="11050236466"/>
+    <nd ref="11050236467"/>
+    <nd ref="11050236468"/>
+    <nd ref="11050236469"/>
+    <nd ref="11050236466"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="899"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cruickshank Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205528"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <node id="12670974304" lat="44.0802546" lon="-72.6414976" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1000 Herriott Road, Roxbury, VT " to "1000 Herriott Road, Northfield, VT 05663". -->
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1000"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Herriott Road"/>
+    <tag k="ref:vcgi:esiteid" v="205529"/>
+  <tag k="addr:postcode" v="05663"/></node>
+  <way id="1333365417" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "46 Ladd Road, Roxbury, VT 05669" to "46 Ladd Road, Northfield, VT 05663". -->
+    <center lat="44.0799333" lon="-72.6516223"/>
+    <nd ref="12335947766"/>
+    <nd ref="12335947767"/>
+    <nd ref="12335947768"/>
+    <nd ref="12335947769"/>
+    <nd ref="12335947770"/>
+    <nd ref="12335947771"/>
+    <nd ref="12335947772"/>
+    <nd ref="12335947773"/>
+    <nd ref="12335947774"/>
+    <nd ref="12335947775"/>
+    <nd ref="12335947776"/>
+    <nd ref="12335947777"/>
+    <nd ref="12335947778"/>
+    <nd ref="12335947779"/>
+    <nd ref="12335947780"/>
+    <nd ref="8866102744"/>
+    <nd ref="12335947766"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Ladd Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205530"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189023150" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1423 Drown Road, Roxbury, VT " to "1423 Drown Road, Randolph, VT 05060". -->
+    <center lat="44.0796370" lon="-72.6622073"/>
+    <nd ref="11040637157"/>
+    <nd ref="11040637158"/>
+    <nd ref="11040637159"/>
+    <nd ref="11040637160"/>
+    <nd ref="11048696055"/>
+    <nd ref="11048696054"/>
+    <nd ref="11048696052"/>
+    <nd ref="11048696051"/>
+    <nd ref="11048696053"/>
+    <nd ref="11048696056"/>
+    <nd ref="11040637157"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1423"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205532"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189739296" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "986 Cruickshank Road, Roxbury, VT " to "986 Cruickshank Road, Northfield, VT 05663". -->
+    <center lat="44.0794710" lon="-72.6699019"/>
+    <nd ref="11047188665"/>
+    <nd ref="11047188666"/>
+    <nd ref="11047188667"/>
+    <nd ref="11047188668"/>
+    <nd ref="11047188665"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="986"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cruickshank Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205534"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189274947" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "180 Cruickshank Road, Roxbury, VT " to "180 Cruickshank Road, Northfield, VT 05663". -->
+    <center lat="44.0768915" lon="-72.6788376"/>
+    <nd ref="11043170203"/>
+    <nd ref="11043170204"/>
+    <nd ref="11043172705"/>
+    <nd ref="11043172706"/>
+    <nd ref="11043172707"/>
+    <nd ref="11043172708"/>
+    <nd ref="11043172709"/>
+    <nd ref="11043172710"/>
+    <nd ref="11043172711"/>
+    <nd ref="11043172712"/>
+    <nd ref="11043170203"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="180"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cruickshank Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205536"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189739489" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "49 Ladd Road, Roxbury, VT 05669" to "49 Ladd Road, Northfield, VT 05663". -->
+    <center lat="44.0789393" lon="-72.6526647"/>
+    <nd ref="11047212606"/>
+    <nd ref="11050089783"/>
+    <nd ref="11050089784"/>
+    <nd ref="11050089785"/>
+    <nd ref="11050089786"/>
+    <nd ref="11050089787"/>
+    <nd ref="11050089788"/>
+    <nd ref="11047212607"/>
+    <nd ref="11047212608"/>
+    <nd ref="11047212609"/>
+    <nd ref="11047212606"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Ladd Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205537"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189274950" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "166 Cruickshank Road, Roxbury, VT " to "166 Cruickshank Road, Northfield, VT 05663". -->
+    <center lat="44.0784682" lon="-72.6820956"/>
+    <nd ref="11043172721"/>
+    <nd ref="11043172722"/>
+    <nd ref="11043172723"/>
+    <nd ref="11043172724"/>
+    <nd ref="11043172725"/>
+    <nd ref="11043172726"/>
+    <nd ref="11043172727"/>
+    <nd ref="11043172728"/>
+    <nd ref="11043172729"/>
+    <nd ref="11043172730"/>
+    <nd ref="11043172721"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cruickshank Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205538"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1018696408" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1052 East Roxbury Road, Roxbury, VT 05663" to "1052 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0782930" lon="-72.6504732"/>
+    <nd ref="9395926930"/>
+    <nd ref="9395926931"/>
+    <nd ref="9395926932"/>
+    <nd ref="9395926933"/>
+    <nd ref="9395926930"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1052"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205539"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1018696409" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1030 East Roxbury Road, Roxbury, VT 05663" to "1030 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0784268" lon="-72.6506520"/>
+    <nd ref="9395926934"/>
+    <nd ref="9395926935"/>
+    <nd ref="9395926936"/>
+    <nd ref="9395926937"/>
+    <nd ref="9395926934"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1030"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205540"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189740436" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1147 East Roxbury Road, Roxbury, VT " to "1147 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0775450" lon="-72.6489788"/>
+    <nd ref="11047221146"/>
+    <nd ref="11050123531"/>
+    <nd ref="11050123530"/>
+    <nd ref="11050123529"/>
+    <nd ref="11050123532"/>
+    <nd ref="11047221147"/>
+    <nd ref="11047221148"/>
+    <nd ref="11047221149"/>
+    <nd ref="11047221146"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1147"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205543"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1018696407" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "30 Steele Hill Road, Roxbury, VT 05663" to "30 Steele Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0772895" lon="-72.6493160"/>
+    <nd ref="9395926926"/>
+    <nd ref="9395926927"/>
+    <nd ref="9395926928"/>
+    <nd ref="9395926929"/>
+    <nd ref="9395926926"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205544"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189740433" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1197 East Roxbury Road, Roxbury, VT " to "1197 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0771948" lon="-72.6479241"/>
+    <nd ref="11047221134"/>
+    <nd ref="11047221135"/>
+    <nd ref="11047221136"/>
+    <nd ref="11047221137"/>
+    <nd ref="11047221134"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1197"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205545"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189740431" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1311 East Roxbury Road, Roxbury, VT " to "1311 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0769874" lon="-72.6462025"/>
+    <nd ref="11047221126"/>
+    <nd ref="11047221127"/>
+    <nd ref="11047221128"/>
+    <nd ref="11047221129"/>
+    <nd ref="11047221126"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1311"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205547"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189740429" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1337 East Roxbury Road, Roxbury, VT " to "1337 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0768831" lon="-72.6456602"/>
+    <nd ref="11047221118"/>
+    <nd ref="11047221119"/>
+    <nd ref="11047221120"/>
+    <nd ref="11047221121"/>
+    <nd ref="11050123513"/>
+    <nd ref="11050123514"/>
+    <nd ref="11047221118"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1337"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205548"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189740415" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1192 East Roxbury Road, Roxbury, VT " to "1192 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0767897" lon="-72.6486451"/>
+    <nd ref="11047214262"/>
+    <nd ref="11047214263"/>
+    <nd ref="11047214264"/>
+    <nd ref="11047214265"/>
+    <nd ref="11047214262"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1192"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205549"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189274932" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3109 Bull Run Road, Roxbury, VT " to "3109 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0765593" lon="-72.6841866"/>
+    <nd ref="11043170138"/>
+    <nd ref="11043170139"/>
+    <nd ref="11043170140"/>
+    <nd ref="11043170141"/>
+    <nd ref="11043170138"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="3109"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205550"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189739485" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1150 Drown Road, Roxbury, VT " to "1150 Drown Road, Randolph, VT 05060". -->
+    <center lat="44.0762925" lon="-72.6612009"/>
+    <nd ref="11047187390"/>
+    <nd ref="11048696063"/>
+    <nd ref="11048696062"/>
+    <nd ref="11048696061"/>
+    <nd ref="11048696064"/>
+    <nd ref="11048696066"/>
+    <nd ref="11048696065"/>
+    <nd ref="11047187391"/>
+    <nd ref="11047187392"/>
+    <nd ref="11048696067"/>
+    <nd ref="11048696068"/>
+    <nd ref="11048696059"/>
+    <nd ref="11048696058"/>
+    <nd ref="11048696057"/>
+    <nd ref="11048696060"/>
+    <nd ref="11047187393"/>
+    <nd ref="11047187390"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1150"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205552"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189740425" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1458 East Roxbury Road, Roxbury, VT " to "1458 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0760364" lon="-72.6433198"/>
+    <nd ref="11047214302"/>
+    <nd ref="11050123508"/>
+    <nd ref="11050123507"/>
+    <nd ref="11047214303"/>
+    <nd ref="11047214304"/>
+    <nd ref="11050123509"/>
+    <nd ref="11050123510"/>
+    <nd ref="11047221105"/>
+    <nd ref="11047214302"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1458"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205553"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1018696402" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1426 East Roxbury Road, Roxbury, VT " to "1426 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0757579" lon="-72.6440469"/>
+    <nd ref="9395926900"/>
+    <nd ref="9395926901"/>
+    <nd ref="11050123512"/>
+    <nd ref="11050123511"/>
+    <nd ref="9395926902"/>
+    <nd ref="9395926903"/>
+    <nd ref="9395926900"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1426"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205554"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1018696410" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "84 Steele Hill Road, Roxbury, VT " to "84 Steele Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0760861" lon="-72.6498880"/>
+    <nd ref="9395926938"/>
+    <nd ref="11050123533"/>
+    <nd ref="11050123534"/>
+    <nd ref="9395926939"/>
+    <nd ref="9395926940"/>
+    <nd ref="9395926941"/>
+    <nd ref="9395926938"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205556"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189740411" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "134 Steele Hill Road, Roxbury, VT " to "134 Steele Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0754024" lon="-72.6495635"/>
+    <nd ref="11047214246"/>
+    <nd ref="11050123555"/>
+    <nd ref="11050123556"/>
+    <nd ref="11047214247"/>
+    <nd ref="11050123552"/>
+    <nd ref="11050123551"/>
+    <nd ref="11050123550"/>
+    <nd ref="11050123548"/>
+    <nd ref="11050123547"/>
+    <nd ref="11050123549"/>
+    <nd ref="11047214248"/>
+    <nd ref="11047214249"/>
+    <nd ref="11050123553"/>
+    <nd ref="11050123554"/>
+    <nd ref="11047214246"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205558"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1018696411" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "137 Steele Hill Road, Roxbury, VT " to "137 Steele Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0752725" lon="-72.6484996"/>
+    <nd ref="9395926942"/>
+    <nd ref="9395926943"/>
+    <nd ref="11050123535"/>
+    <nd ref="11050123536"/>
+    <nd ref="9395926944"/>
+    <nd ref="11050123540"/>
+    <nd ref="11050123539"/>
+    <nd ref="9395926945"/>
+    <nd ref="11050123538"/>
+    <nd ref="11050123537"/>
+    <nd ref="9395926942"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205559"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189274942" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "227 Royce Road, Roxbury, VT " to "227 Royce Road, Northfield, VT 05663". -->
+    <center lat="44.0751249" lon="-72.6748424"/>
+    <nd ref="11043170177"/>
+    <nd ref="11043170178"/>
+    <nd ref="11043170179"/>
+    <nd ref="11043170180"/>
+    <nd ref="11043170181"/>
+    <nd ref="11043170182"/>
+    <nd ref="11043170183"/>
+    <nd ref="11043170184"/>
+    <nd ref="11043170177"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="227"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Royce Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205560"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189191911" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "466 Steele Hill Road, Roxbury, VT " to "466 Steele Hill Road, Randolph, VT 05060". -->
+    <center lat="44.0707126" lon="-72.6489358"/>
+    <nd ref="11042606127"/>
+    <nd ref="11042606128"/>
+    <nd ref="11042606129"/>
+    <nd ref="11042606130"/>
+    <nd ref="11042606127"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="466"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205572"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <node id="12670974302" lat="44.0708576" lon="-72.6862385" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3536 Bull Run Road, Roxbury, VT " to "3536 Bull Run Road, Northfield, VT 05663". -->
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="3536"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="ref:vcgi:esiteid" v="205573"/>
+  <tag k="addr:postcode" v="05663"/></node>
+  <way id="1189183235" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "366 Drown Road, Roxbury, VT " to "366 Drown Road, Randolph, VT 05060". -->
+    <center lat="44.0698567" lon="-72.6543103"/>
+    <nd ref="11048736110"/>
+    <nd ref="11048736107"/>
+    <nd ref="11048736106"/>
+    <nd ref="11048736108"/>
+    <nd ref="11048736109"/>
+    <nd ref="11048722603"/>
+    <nd ref="11048722600"/>
+    <nd ref="11048722599"/>
+    <nd ref="11048736105"/>
+    <nd ref="11042564431"/>
+    <nd ref="11042564433"/>
+    <nd ref="11042564428"/>
+    <nd ref="11042564429"/>
+    <nd ref="11042564432"/>
+    <nd ref="11042564430"/>
+    <nd ref="11048722601"/>
+    <nd ref="11048722604"/>
+    <nd ref="11048722602"/>
+    <nd ref="11048736110"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="366"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205575"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189191910" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "574 Steele Hill Road, Roxbury, VT " to "574 Steele Hill Road, Randolph, VT 05060". -->
+    <center lat="44.0694362" lon="-72.6476031"/>
+    <nd ref="11042606121"/>
+    <nd ref="11042606122"/>
+    <nd ref="11042606123"/>
+    <nd ref="11042606124"/>
+    <nd ref="11042606125"/>
+    <nd ref="11042606126"/>
+    <nd ref="11042606121"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="574"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205576"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189013624" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3648 Bull Run Road, Roxbury, VT " to "3648 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0691944" lon="-72.6855345"/>
+    <nd ref="11040527350"/>
+    <nd ref="11040527352"/>
+    <nd ref="11040527353"/>
+    <nd ref="11040527355"/>
+    <nd ref="11040527350"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="3648"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205579"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189183237" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "292 Drown Road, Roxbury, VT " to "292 Drown Road, Randolph, VT 05060". -->
+    <center lat="44.0690023" lon="-72.6535182"/>
+    <nd ref="11042564438"/>
+    <nd ref="11042564439"/>
+    <nd ref="11048736116"/>
+    <nd ref="11048736115"/>
+    <nd ref="11042564440"/>
+    <nd ref="11042564441"/>
+    <nd ref="11048736112"/>
+    <nd ref="11048736111"/>
+    <nd ref="11048736113"/>
+    <nd ref="11048736114"/>
+    <nd ref="11042564438"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="292"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205581"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189191908" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "614 Steele Hill Road, Roxbury, VT " to "614 Steele Hill Road, Randolph, VT 05060". -->
+    <center lat="44.0688876" lon="-72.6478166"/>
+    <nd ref="11042606113"/>
+    <nd ref="11042606114"/>
+    <nd ref="11042606115"/>
+    <nd ref="11042606116"/>
+    <nd ref="11050123567"/>
+    <nd ref="11050123568"/>
+    <nd ref="11050123569"/>
+    <nd ref="11050123570"/>
+    <nd ref="11042606113"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205582"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <node id="12670974298" lat="44.0688057" lon="-72.6593183" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "651 Drown Road, Roxbury, VT " to "651 Drown Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="651"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="ref:vcgi:esiteid" v="205583"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1189183249" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "407 Drown Road, Roxbury, VT " to "407 Drown Road, Randolph, VT 05060". -->
+    <center lat="44.0682752" lon="-72.6573723"/>
+    <nd ref="11042564494"/>
+    <nd ref="11042564495"/>
+    <nd ref="11042564496"/>
+    <nd ref="11048736141"/>
+    <nd ref="11048736140"/>
+    <nd ref="11042564497"/>
+    <nd ref="11042564494"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="407"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205588"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189191904" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "672 Steele Hill Road, Roxbury, VT " to "672 Steele Hill Road, Randolph, VT 05060". -->
+    <center lat="44.0681899" lon="-72.6482705"/>
+    <nd ref="11042603994"/>
+    <nd ref="11042603995"/>
+    <nd ref="11050123575"/>
+    <nd ref="11050123576"/>
+    <nd ref="11050123577"/>
+    <nd ref="11050123578"/>
+    <nd ref="11050123581"/>
+    <nd ref="11042603997"/>
+    <nd ref="11050123571"/>
+    <nd ref="11050123572"/>
+    <nd ref="11042603998"/>
+    <nd ref="11042603999"/>
+    <nd ref="11050123573"/>
+    <nd ref="11050123574"/>
+    <nd ref="11042603994"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="672"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205592"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189183243" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "305 Drown Road, Roxbury, VT " to "305 Drown Road, Randolph, VT 05060". -->
+    <center lat="44.0680030" lon="-72.6550663"/>
+    <nd ref="11042564466"/>
+    <nd ref="11042564467"/>
+    <nd ref="11042564468"/>
+    <nd ref="11042564469"/>
+    <nd ref="11042564466"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="305"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205593"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189183240" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "215 Drown Road, Roxbury, VT " to "215 Drown Road, Randolph, VT 05060". -->
+    <center lat="44.0678774" lon="-72.6525500"/>
+    <nd ref="11042564450"/>
+    <nd ref="11048736117"/>
+    <nd ref="11042564457"/>
+    <nd ref="11048736118"/>
+    <nd ref="11042564451"/>
+    <nd ref="11048736122"/>
+    <nd ref="11048736120"/>
+    <nd ref="11048736119"/>
+    <nd ref="11048736121"/>
+    <nd ref="11048736126"/>
+    <nd ref="11048736125"/>
+    <nd ref="11048736124"/>
+    <nd ref="11048736123"/>
+    <nd ref="11042564452"/>
+    <nd ref="11042564454"/>
+    <nd ref="11042564453"/>
+    <nd ref="11042564456"/>
+    <nd ref="11042564455"/>
+    <nd ref="11042564450"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205594"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189191900" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "125 Drown Road, Roxbury, VT " to "125 Drown Road, Randolph, VT 05060". -->
+    <center lat="44.0674892" lon="-72.6511850"/>
+    <nd ref="11042603978"/>
+    <nd ref="11042603979"/>
+    <nd ref="11042603980"/>
+    <nd ref="11042603981"/>
+    <nd ref="11042603978"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205598"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189191899" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1004 Steele Hill Road, Roxbury, VT " to "1004 Steele Hill Road, Randolph, VT 05060". -->
+    <center lat="44.0644094" lon="-72.6525345"/>
+    <nd ref="11042603974"/>
+    <nd ref="11050123610"/>
+    <nd ref="11050123611"/>
+    <nd ref="11050123608"/>
+    <nd ref="11050123607"/>
+    <nd ref="11050123606"/>
+    <nd ref="11050123609"/>
+    <nd ref="11042603975"/>
+    <nd ref="11042603976"/>
+    <nd ref="11042603977"/>
+    <nd ref="11042603974"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1004"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205608"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189183233" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1140 Steele Hill Road, Roxbury, VT " to "1140 Steele Hill Road, Randolph, VT 05060". -->
+    <center lat="44.0639619" lon="-72.6537126"/>
+    <nd ref="11042564420"/>
+    <nd ref="11042564421"/>
+    <nd ref="11042564422"/>
+    <nd ref="11042564423"/>
+    <nd ref="11042564420"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1140"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205612"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <node id="12670974271" lat="44.0609912" lon="-72.6574101" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1393 Steele Hill Road, Roxbury, VT " to "1393 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1393"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205620"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974266" lat="44.0582125" lon="-72.6610078" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1646 Steele Hill Road, Roxbury, VT " to "1646 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1646"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205625"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974264" lat="44.0559139" lon="-72.6634283" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1822 Steele Hill Road, Roxbury, VT " to "1822 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1822"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205627"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974257" lat="44.0525743" lon="-72.6647186" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2083 Steele Hill Road, Roxbury, VT " to "2083 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2083"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205634"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974255" lat="44.0520857" lon="-72.6657174" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2112 Steele Hill Road, Roxbury, VT " to "2112 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2112"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205636"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974251" lat="44.0495836" lon="-72.6643465" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2275 Steele Hill Road, Roxbury, VT " to "2275 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2275"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205640"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="626405555" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "938 Four Mile Wood Road, Roxbury, VT " to "938 Four Mile Wood Road, Randolph, VT 05060". -->
+    <center lat="44.0458166" lon="-72.6794355"/>
+    <nd ref="5913725743"/>
+    <nd ref="5913725744"/>
+    <nd ref="5913725745"/>
+    <nd ref="5913725746"/>
+    <nd ref="5913725747"/>
+    <nd ref="5913725748"/>
+    <nd ref="5913725743"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="938"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Four Mile Wood Road"/>
+    <tag k="building" v="farm"/>
+    <tag k="ref:vcgi:esiteid" v="205643"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <node id="12670974248" lat="44.0451183" lon="-72.6674662" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2634 Steele Hill Road, Roxbury, VT " to "2634 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2634"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205644"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974243" lat="44.0424479" lon="-72.6689209" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2838 Steele Hill Road, Roxbury, VT " to "2838 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2838"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205649"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974239" lat="44.0404549" lon="-72.6688309" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2963 Steele Hill Road, Roxbury, VT " to "2963 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2963"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205653"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974238" lat="44.0399647" lon="-72.6699198" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3004 Steele Hill Road, Roxbury, VT " to "3004 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3004"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205654"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974237" lat="44.0397019" lon="-72.6704614" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3008 Steele Hill Road, Roxbury, VT " to "3008 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3008"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205655"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974236" lat="44.0378610" lon="-72.6682784" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3157 Steele Hill Road, Roxbury, VT " to "3157 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3157"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205656"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974235" lat="44.0369126" lon="-72.6688162" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3203 Steele Hill Road, Roxbury, VT " to "3203 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3203"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205657"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974234" lat="44.0365691" lon="-72.6699002" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "39 Four Mile Wood Road, Roxbury, VT " to "39 Four Mile Wood Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Four Mile Wood Road"/>
+    <tag k="ref:vcgi:esiteid" v="205658"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974231" lat="44.0352745" lon="-72.6697540" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3343 Steele Hill Road, Roxbury, VT " to "3343 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205661"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974230" lat="44.0343130" lon="-72.6708405" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3446 Steele Hill Road, Roxbury, VT " to "3446 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205662"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974228" lat="44.0336863" lon="-72.6709891" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3460 Steele Hill Road, Roxbury, VT " to "3460 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3460"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205664"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974226" lat="44.0331705" lon="-72.6706863" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3485 Steele Hill Road, Roxbury, VT " to "3485 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3485"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205666"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974225" lat="44.0328559" lon="-72.6717239" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3530 Steele Hill Road, Roxbury, VT " to "3530 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3530"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205667"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974224" lat="44.0321693" lon="-72.6725133" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3604 Steele Hill Road, Roxbury, VT " to "3604 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3604"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205668"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974223" lat="44.0299182" lon="-72.6738875" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3768 Steele Hill Road, Roxbury, VT " to "3768 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3768"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205669"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974222" lat="44.0288237" lon="-72.6738037" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3839 Steele Hill Road, Roxbury, VT " to "3839 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3839"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205670"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974220" lat="44.0273858" lon="-72.6743547" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3946 Steele Hill Road, Roxbury, VT " to "3946 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3946"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205672"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1189274940" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "370 Royce Road, Roxbury, VT " to "370 Royce Road, Northfield, VT 05663". -->
+    <center lat="44.0730701" lon="-72.6768782"/>
+    <nd ref="11043170169"/>
+    <nd ref="11043170170"/>
+    <nd ref="11043170171"/>
+    <nd ref="11043170172"/>
+    <nd ref="11043170169"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="370"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Royce Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205677"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189739484" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "945 Drown Road, Roxbury, VT " to "945 Drown Road, Randolph, VT 05060". -->
+    <center lat="44.0731383" lon="-72.6620822"/>
+    <nd ref="11047187386"/>
+    <nd ref="11047187387"/>
+    <nd ref="11047187388"/>
+    <nd ref="11047187389"/>
+    <nd ref="11047187386"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="945"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205678"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189191914" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "497 Steele Hill Road, Roxbury, VT " to "497 Steele Hill Road, Randolph, VT 05060". -->
+    <center lat="44.0705296" lon="-72.6467928"/>
+    <nd ref="11042606139"/>
+    <nd ref="11042606140"/>
+    <nd ref="11042606141"/>
+    <nd ref="11042606142"/>
+    <nd ref="11050123603"/>
+    <nd ref="11050123602"/>
+    <nd ref="11042606139"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="497"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205679"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189274926" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3209 Bull Run Road, Roxbury, VT " to "3209 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0753516" lon="-72.6846317"/>
+    <nd ref="11043170114"/>
+    <nd ref="11043170115"/>
+    <nd ref="11043170116"/>
+    <nd ref="11043170117"/>
+    <nd ref="11043170114"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="3209"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205701"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1333365420" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "38 McCardell Road, Roxbury, VT 05669" to "38 McCardell Road, Northfield, VT 05663". -->
+    <center lat="44.0828045" lon="-72.6513919"/>
+    <nd ref="12335947798"/>
+    <nd ref="12335947799"/>
+    <nd ref="12335947800"/>
+    <nd ref="12335975201"/>
+    <nd ref="12335975202"/>
+    <nd ref="12335975203"/>
+    <nd ref="8866102738"/>
+    <nd ref="12335975205"/>
+    <nd ref="12335975206"/>
+    <nd ref="12335975207"/>
+    <nd ref="12335947798"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="McCardell Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205706"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1333365415" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "175 Sanders Road, Roxbury, VT 05669" to "175 Sanders Road, Northfield, VT 05663". -->
+    <center lat="44.0804165" lon="-72.6493990"/>
+    <nd ref="8866102741"/>
+    <nd ref="12335947759"/>
+    <nd ref="12335947760"/>
+    <nd ref="12335947761"/>
+    <nd ref="8866102741"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sanders Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205707"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189740420" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "110 Sanders Road, Roxbury, VT 05669" to "110 Sanders Road, Northfield, VT 05663". -->
+    <center lat="44.0793337" lon="-72.6489918"/>
+    <nd ref="11047214282"/>
+    <nd ref="11047214283"/>
+    <nd ref="11047214284"/>
+    <nd ref="11050089794"/>
+    <nd ref="11050089793"/>
+    <nd ref="11047214285"/>
+    <nd ref="11047214282"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sanders Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205708"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1018696403" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1256 Herriott Road, Roxbury, VT " to "1256 Herriott Road, Northfield, VT 05663". -->
+    <center lat="44.0777123" lon="-72.6441225"/>
+    <nd ref="9395926904"/>
+    <nd ref="9395926905"/>
+    <nd ref="9395926906"/>
+    <nd ref="11050123506"/>
+    <nd ref="11050123505"/>
+    <nd ref="9395926907"/>
+    <nd ref="11050089803"/>
+    <nd ref="11050089804"/>
+    <nd ref="11050089801"/>
+    <nd ref="11050089802"/>
+    <nd ref="9395926908"/>
+    <nd ref="9395926909"/>
+    <nd ref="11050089800"/>
+    <nd ref="11050089799"/>
+    <nd ref="9395926904"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1256"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Herriott Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205709"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1190075163" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "18 Taylor Road, Roxbury, VT " to "18 Taylor Road, Northfield, VT 05663". -->
+    <center lat="44.0806884" lon="-72.6811149"/>
+    <nd ref="11050232372"/>
+    <nd ref="11050232373"/>
+    <nd ref="11050232374"/>
+    <nd ref="11050232375"/>
+    <nd ref="11050232372"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Taylor Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205710"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <node id="12670974209" lat="44.0370043" lon="-72.6688266" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3313 Steele Hill Road, Roxbury, VT " to "3313 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="3313"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205711"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974208" lat="44.0444489" lon="-72.6675034" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2676 Steele Hill Road, Roxbury, VT " to "2676 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2676"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205712"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974207" lat="44.0561682" lon="-72.6616864" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1791 Steele Hill Road, Roxbury, VT " to "1791 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1791"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205713"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1334331924" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "44 Tenney Road, Roxbury, VT 05669" to "44 Tenney Road, Northfield, VT 05663". -->
+    <center lat="44.0880306" lon="-72.6509125"/>
+    <nd ref="8866102726"/>
+    <nd ref="12344612237"/>
+    <nd ref="12344612238"/>
+    <nd ref="12344612239"/>
+    <nd ref="8866102726"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Tenney Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205714"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="12670974203" lat="44.0599454" lon="-72.6601718" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1496 Steele Hill Road, Roxbury, VT " to "1496 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1496"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205719"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670974202" lat="44.0601540" lon="-72.6597770" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1494 Steele Hill Road, Roxbury, VT " to "1494 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1494"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205720"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1192017299" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "318 East Roxbury Road, Roxbury, VT 05669" to "318 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0893390" lon="-72.6501655"/>
+    <nd ref="11066465882"/>
+    <nd ref="11066465881"/>
+    <nd ref="11066465880"/>
+    <nd ref="8866102723"/>
+    <nd ref="11066465882"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="318"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205721"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189023468" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2069 Winch Hill Road, Roxbury, VT " to "2069 Winch Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0955174" lon="-72.6671954"/>
+    <nd ref="11040640739"/>
+    <nd ref="11040640740"/>
+    <nd ref="11040640741"/>
+    <nd ref="11040640742"/>
+    <nd ref="11040640743"/>
+    <nd ref="11040640744"/>
+    <nd ref="11040640739"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="2069"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205723"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189740426" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "286 Steele Hill Road, Roxbury, VT " to "286 Steele Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0736401" lon="-72.6498951"/>
+    <nd ref="11047221106"/>
+    <nd ref="11047221107"/>
+    <nd ref="11047221108"/>
+    <nd ref="11047221109"/>
+    <nd ref="11047221106"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="286"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205725"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <node id="12670974201" lat="44.0589928" lon="-72.6604795" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1594 Steele Hill Road, Roxbury, VT " to "1594 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1594"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205726"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1189183246" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "357 Drown Road, Roxbury, VT " to "357 Drown Road, Randolph, VT 05060". -->
+    <center lat="44.0684330" lon="-72.6558190"/>
+    <nd ref="11042564484"/>
+    <nd ref="11048736135"/>
+    <nd ref="11042564483"/>
+    <nd ref="11042564482"/>
+    <nd ref="11042564484"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="357"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205728"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <node id="12670968799" lat="44.0410195" lon="-72.6693250" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2990 Steele Hill Road, Roxbury, VT " to "2990 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2990"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205730"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1189023472" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2630 Winch Hill Road, Roxbury, VT 05663" to "2630 Winch Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0914513" lon="-72.6735659"/>
+    <nd ref="11040640763"/>
+    <nd ref="11040640764"/>
+    <nd ref="11040640765"/>
+    <nd ref="11040640766"/>
+    <nd ref="11040640763"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="2630"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205732"/>
+    <tag k="source:adress" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189739292" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "127 Royce Road, Roxbury, VT " to "127 Royce Road, Northfield, VT 05663". -->
+    <center lat="44.0762397" lon="-72.6738467"/>
+    <nd ref="11047188649"/>
+    <nd ref="11047188650"/>
+    <nd ref="11047188651"/>
+    <nd ref="11047188652"/>
+    <nd ref="11047188649"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Royce Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205733"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1192994766" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1598 Bull Run Road, Roxbury, VT 05669" to "1598 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0972779" lon="-72.6787058"/>
+    <nd ref="11073804564"/>
+    <nd ref="11073804565"/>
+    <nd ref="11073804566"/>
+    <nd ref="11073804567"/>
+    <nd ref="11073804568"/>
+    <nd ref="11073804569"/>
+    <nd ref="11073804570"/>
+    <nd ref="11073804571"/>
+    <nd ref="11073804572"/>
+    <nd ref="11073804573"/>
+    <nd ref="11073804574"/>
+    <nd ref="11073804575"/>
+    <nd ref="11073804576"/>
+    <nd ref="11073804577"/>
+    <nd ref="11073804564"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1598"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="205743"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1189739290" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "255 Royce Road, Roxbury, VT " to "255 Royce Road, Northfield, VT 05663". -->
+    <center lat="44.0735291" lon="-72.6743445"/>
+    <nd ref="11047188641"/>
+    <nd ref="11047188642"/>
+    <nd ref="11047188643"/>
+    <nd ref="11047188644"/>
+    <nd ref="11047188641"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Royce Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205744"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189740419" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "55 Sanders Road, Roxbury, VT 05663" to "55 Sanders Road, Northfield, VT 05663". -->
+    <center lat="44.0789729" lon="-72.6499827"/>
+    <nd ref="11047214278"/>
+    <nd ref="11047214279"/>
+    <nd ref="11047214280"/>
+    <nd ref="11047214281"/>
+    <nd ref="11047214278"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Sanders Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="205745"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1192017314" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "369 East Roxbury Road, Roxbury, VT 05669" to "369 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0882417" lon="-72.6487219"/>
+    <nd ref="11066466242"/>
+    <nd ref="8866102724"/>
+    <nd ref="11066466240"/>
+    <nd ref="11066466239"/>
+    <nd ref="11066466242"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="369"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="205747"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="12670968796" lat="44.0577376" lon="-72.6591003" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1635 Steele Hill Road, Roxbury, VT " to "1635 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1635"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205749"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670968795" lat="44.0427322" lon="-72.6700263" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2842 Steele Hill Road, Roxbury, VT " to "2842 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2842"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="205750"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670968794" lat="44.0858045" lon="-72.6835310" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "14 Diemer Road, Roxbury, VT " to "14 Diemer Road, Northfield, VT 05663". -->
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Diemer Road"/>
+    <tag k="ref:vcgi:esiteid" v="307228"/>
+  <tag k="addr:postcode" v="05663"/></node>
+  <way id="1190075173" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "231 Diemer Road, Roxbury, VT " to "231 Diemer Road, Northfield, VT 05663". -->
+    <center lat="44.0873253" lon="-72.6818940"/>
+    <nd ref="11050240530"/>
+    <nd ref="11050240531"/>
+    <nd ref="11050240532"/>
+    <nd ref="11050240533"/>
+    <nd ref="11050240534"/>
+    <nd ref="11050240535"/>
+    <nd ref="11050240536"/>
+    <nd ref="11050240537"/>
+    <nd ref="11050240538"/>
+    <nd ref="11050240539"/>
+    <nd ref="11050240540"/>
+    <nd ref="11050240541"/>
+    <nd ref="11050240530"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="231"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Diemer Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="307229"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1018696405" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1257 East Roxbury Road, Roxbury, VT " to "1257 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0781717" lon="-72.6472430"/>
+    <nd ref="9395926914"/>
+    <nd ref="11050089796"/>
+    <nd ref="11050089795"/>
+    <nd ref="9395926915"/>
+    <nd ref="9395926916"/>
+    <nd ref="9395926917"/>
+    <nd ref="9395926918"/>
+    <nd ref="9395926919"/>
+    <nd ref="9395926914"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1257"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="316718"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <node id="12670968791" lat="44.0635255" lon="-72.6512177" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1069 Steele Hill Road, Roxbury, VT " to "1069 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1069"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="316887"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1189191898" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "975 Steele Hill Road, Roxbury, VT " to "975 Steele Hill Road, Randolph, VT 05060". -->
+    <center lat="44.0648411" lon="-72.6502422"/>
+    <nd ref="11042603970"/>
+    <nd ref="11042603971"/>
+    <nd ref="11050123621"/>
+    <nd ref="11050123620"/>
+    <nd ref="11050123619"/>
+    <nd ref="11050123618"/>
+    <nd ref="11042603972"/>
+    <nd ref="11042603973"/>
+    <nd ref="11050123622"/>
+    <nd ref="11050123623"/>
+    <nd ref="11042603970"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="975"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="336529"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <node id="12670968790" lat="44.0526853" lon="-72.6634681" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2019 Steele Hill Road, Roxbury, VT " to "2019 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2019"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="337837"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1192528777" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1946 Messier Hill Road, Roxbury, VT " to "1946 Messier Hill Road, Northfield, VT 05663". -->
+    <center lat="44.1065177" lon="-72.7122595"/>
+    <nd ref="11070257954"/>
+    <nd ref="11070257955"/>
+    <nd ref="11070257956"/>
+    <nd ref="11070257957"/>
+    <nd ref="11070257954"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1946"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Messier Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="338419"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189740428" version="3" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "240 Steele Hill Road, Roxbury, VT " to "240 Steele Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0746111" lon="-72.6512594"/>
+    <nd ref="11047221114"/>
+    <nd ref="11050123561"/>
+    <nd ref="11050123562"/>
+    <nd ref="11047221115"/>
+    <nd ref="11047221116"/>
+    <nd ref="11050123566"/>
+    <nd ref="11050123565"/>
+    <nd ref="11050123564"/>
+    <nd ref="11050123563"/>
+    <nd ref="11047221117"/>
+    <nd ref="11050123559"/>
+    <nd ref="11050123558"/>
+    <nd ref="11050123557"/>
+    <nd ref="11050123560"/>
+    <nd ref="11047221114"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="240"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="340021"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1333365425" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "371 East Roxbury Road, Roxbury, VT " to "371 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0851506" lon="-72.6472977"/>
+    <nd ref="12335975227"/>
+    <nd ref="12335975228"/>
+    <nd ref="12335975229"/>
+    <nd ref="12335975230"/>
+    <nd ref="12335975231"/>
+    <nd ref="12335975232"/>
+    <nd ref="12335975233"/>
+    <nd ref="12335975234"/>
+    <nd ref="12335975227"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="340055"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1189739488" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1306 Drown Road, Roxbury, VT " to "1306 Drown Road, Randolph, VT 05060". -->
+    <center lat="44.0782459" lon="-72.6615522"/>
+    <nd ref="11047187402"/>
+    <nd ref="11047187403"/>
+    <nd ref="11047187404"/>
+    <nd ref="11047212605"/>
+    <nd ref="11047187402"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1306"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Drown Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="341392"/>
+  <tag k="addr:postcode" v="05060"/></way>
+  <way id="1189274945" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "223 Cruickshank Road, Roxbury, VT " to "223 Cruickshank Road, Northfield, VT 05663". -->
+    <center lat="44.0797733" lon="-72.6794331"/>
+    <nd ref="11043170193"/>
+    <nd ref="11043170194"/>
+    <nd ref="11043170195"/>
+    <nd ref="11043170196"/>
+    <nd ref="11043170197"/>
+    <nd ref="11043170198"/>
+    <nd ref="11043170193"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cruickshank Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="341686"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1192994763" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1341 Bull Run Road, Roxbury, VT 05663" to "1341 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0997714" lon="-72.6768411"/>
+    <nd ref="11073804544"/>
+    <nd ref="11073804545"/>
+    <nd ref="11073804546"/>
+    <nd ref="11073804547"/>
+    <nd ref="11073804548"/>
+    <nd ref="11073804549"/>
+    <nd ref="11073804544"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1341"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="342938"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="12670968781" lat="44.0587284" lon="-72.6607382" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1634 Steele Hill Road, Roxbury, VT " to "1634 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1634"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="345884"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670968780" lat="44.0601995" lon="-72.6602462" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1492 Steele Hill Road, Roxbury, VT " to "1492 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1492"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="345885"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1189274935" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "259 Royce Road, Roxbury, VT " to "259 Royce Road, Northfield, VT 05663". -->
+    <center lat="44.0720938" lon="-72.6748582"/>
+    <nd ref="11043170149"/>
+    <nd ref="11043170150"/>
+    <nd ref="11043170151"/>
+    <nd ref="11043170152"/>
+    <nd ref="11043170149"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="259"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Royce Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="448256"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1192994765" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1596 Bull Run Road, Roxbury, VT 05669" to "1596 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0970100" lon="-72.6783310"/>
+    <nd ref="11073804554"/>
+    <nd ref="11073804555"/>
+    <nd ref="11073804556"/>
+    <nd ref="11073804557"/>
+    <nd ref="11073804558"/>
+    <nd ref="11073804559"/>
+    <nd ref="11073804560"/>
+    <nd ref="11073804561"/>
+    <nd ref="11073804562"/>
+    <nd ref="11073804563"/>
+    <nd ref="11073804554"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1596"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="451937"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1192016015" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2925 Winch Hill Road, Roxbury, VT 05663" to "2925 Winch Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0885561" lon="-72.6770318"/>
+    <nd ref="11066442204"/>
+    <nd ref="11066442201"/>
+    <nd ref="11066442196"/>
+    <nd ref="11066442194"/>
+    <nd ref="11066442193"/>
+    <nd ref="11066442195"/>
+    <nd ref="11066442202"/>
+    <nd ref="11066442203"/>
+    <nd ref="11066442204"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="2925"/>
+    <tag k="addr:postcode" v="05663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="451938"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="12670968776" lat="44.0771969" lon="-72.6488255" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1149 East Roxbury Road, Roxbury, VT " to "1149 East Roxbury Road, Northfield, VT 05663". -->
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="ref:vcgi:esiteid" v="451941"/>
+  <tag k="addr:postcode" v="05663"/></node>
+  <node id="12670968769" lat="44.0632498" lon="-72.6520575" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1073 Steele Hill Road, Roxbury, VT " to "1073 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1073"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="620117"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670968766" lat="44.0644489" lon="-72.6512744" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "977 Steele Hill Road, Roxbury, VT " to "977 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="977"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="752793"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1197108378" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "500 Bouvant Road, Roxbury, VT 05060" to "500 Bouvant Road, Randolph, VT 05060". -->
+    <center lat="44.0145303" lon="-72.6824398"/>
+    <nd ref="11107940055"/>
+    <nd ref="11107940052"/>
+    <nd ref="11107940053"/>
+    <nd ref="11107940054"/>
+    <nd ref="11107940055"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bouvant Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="754225"/>
+  </way>
+  <way id="1190075168" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2663 Bull Run Road, Roxbury, VT " to "2663 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0837595" lon="-72.6841097"/>
+    <nd ref="11050232398"/>
+    <nd ref="11050232399"/>
+    <nd ref="11050232400"/>
+    <nd ref="11050232401"/>
+    <nd ref="11050232398"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="2663"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="756429"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1192994767" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1594 Bull Run Road, Roxbury, VT " to "1594 Bull Run Road, Northfield, VT 05663". -->
+    <center lat="44.0963037" lon="-72.6784971"/>
+    <nd ref="11073804578"/>
+    <nd ref="11073804579"/>
+    <nd ref="11073804580"/>
+    <nd ref="11073804581"/>
+    <nd ref="11073804578"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1594"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="758651"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <node id="12670968759" lat="44.0581715" lon="-72.6555182" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1595 Steele Hill Road, Roxbury, VT " to "1595 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1595"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="759092"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1189740417" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "64 Steele Hill Road, Roxbury, VT " to "64 Steele Hill Road, Northfield, VT 05663". -->
+    <center lat="44.0765339" lon="-72.6516213"/>
+    <nd ref="11047214270"/>
+    <nd ref="11047214271"/>
+    <nd ref="11047214272"/>
+    <nd ref="11047214273"/>
+    <nd ref="11047214270"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="761717"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1190075158" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "264 Winch Hill Extension, Roxbury, VT " to "264 Winch Hill Extension, Northfield, VT 05663". -->
+    <center lat="44.0848027" lon="-72.6756683"/>
+    <nd ref="11050232334"/>
+    <nd ref="11050232335"/>
+    <nd ref="11050232336"/>
+    <nd ref="11050232337"/>
+    <nd ref="11050232334"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Extension"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="762807"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1190074949" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "468 Winch Hill Extension, Roxbury, VT " to "468 Winch Hill Extension, Northfield, VT 05663". -->
+    <center lat="44.0834782" lon="-72.6734787"/>
+    <nd ref="11050236462"/>
+    <nd ref="11050236463"/>
+    <nd ref="11050236464"/>
+    <nd ref="11050236465"/>
+    <nd ref="11050236462"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Extension"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="762808"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <node id="12670968751" lat="44.0880312" lon="-72.6748453" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "70 Winch Hill Extension, Roxbury, VT " to "70 Winch Hill Extension, Northfield, VT 05663". -->
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Winch Hill Extension"/>
+    <tag k="ref:vcgi:esiteid" v="762851"/>
+  <tag k="addr:postcode" v="05663"/></node>
+  <node id="12670968750" lat="44.0567548" lon="-72.6623383" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1776 Steele Hill Road, Roxbury, VT " to "1776 Steele Hill Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1776"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Steele Hill Road"/>
+    <tag k="ref:vcgi:esiteid" v="762852"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <node id="12670968747" lat="44.0795072" lon="-72.6517743" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "39 Ladd Road, Roxbury, VT " to "39 Ladd Road, Northfield, VT 05663". -->
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Ladd Road"/>
+    <tag k="ref:vcgi:esiteid" v="762855"/>
+  <tag k="addr:postcode" v="05663"/></node>
+  <node id="12670968743" lat="44.0386861" lon="-72.6735320" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "381 Four Mile Wood Road, Roxbury, VT " to "381 Four Mile Wood Road, Randolph, VT 05060". -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="381"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Four Mile Wood Road"/>
+    <tag k="ref:vcgi:esiteid" v="765322"/>
+  <tag k="addr:postcode" v="05060"/></node>
+  <way id="1197108376" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "498 Bouvant Road, Roxbury, VT 05060" to "498 Bouvant Road, Randolph, VT 05060". -->
+    <center lat="44.0145628" lon="-72.6822761"/>
+    <nd ref="11107940047"/>
+    <nd ref="11107940044"/>
+    <nd ref="11107940045"/>
+    <nd ref="11107940046"/>
+    <nd ref="11107940047"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="498"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bouvant Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="765580"/>
+  </way>
+  <way id="1197108377" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "502 Bouvant Road, Roxbury, VT 05060" to "502 Bouvant Road, Randolph, VT 05060". -->
+    <center lat="44.0145568" lon="-72.6826397"/>
+    <nd ref="11107940051"/>
+    <nd ref="11107940048"/>
+    <nd ref="11107940049"/>
+    <nd ref="11107940050"/>
+    <nd ref="11107940051"/>
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="502"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Bouvant Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="765581"/>
+  </way>
+  <node id="12670968740" lat="44.0928386" lon="-72.6481951" version="1" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "20 East Roxbury Road, Roxbury, VT " to "20 East Roxbury Road, Northfield, VT 05663". -->
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="ref:vcgi:esiteid" v="767650"/>
+  <tag k="addr:postcode" v="05663"/></node>
+  <way id="1190074952" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1047 Cruickshank Road, Roxbury, VT " to "1047 Cruickshank Road, Northfield, VT 05663". -->
+    <center lat="44.0813255" lon="-72.6679871"/>
+    <nd ref="11050236474"/>
+    <nd ref="11050236475"/>
+    <nd ref="11050236476"/>
+    <nd ref="11050236477"/>
+    <nd ref="11050236474"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1047"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cruickshank Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="768610"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1334331926" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "154 East Roxbury Road, Roxbury, VT " to "154 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0911997" lon="-72.6495837"/>
+    <nd ref="12344612244"/>
+    <nd ref="12344612245"/>
+    <nd ref="12344612246"/>
+    <nd ref="12344612247"/>
+    <nd ref="12344612248"/>
+    <nd ref="12344612249"/>
+    <nd ref="12344612244"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="769732"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1192528778" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1945 Messier Hill Road, Roxbury, VT " to "1945 Messier Hill Road, Northfield, VT 05663". -->
+    <center lat="44.1058187" lon="-72.7122725"/>
+    <nd ref="11070257958"/>
+    <nd ref="11070257959"/>
+    <nd ref="11070257960"/>
+    <nd ref="11070257961"/>
+    <nd ref="11070257958"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="1945"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Messier Hill Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="770977"/>
+  <tag k="addr:postcode" v="05663"/></way>
+  <way id="1192017312" version="2" timestamp="2025-03-16T22:29:46Z" changeset="163708895" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "235 East Roxbury Road, Roxbury, VT " to "235 East Roxbury Road, Northfield, VT 05663". -->
+    <center lat="44.0901960" lon="-72.6492803"/>
+    <nd ref="11066466234"/>
+    <nd ref="11066466233"/>
+    <nd ref="11066466232"/>
+    <nd ref="11066466231"/>
+    <nd ref="11066466234"/>
+    <tag k="addr:city" v="Northfield"/>
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="East Roxbury Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="800122"/>
+  <tag k="addr:postcode" v="05663"/></way>
+</modify>
+</osmChange>

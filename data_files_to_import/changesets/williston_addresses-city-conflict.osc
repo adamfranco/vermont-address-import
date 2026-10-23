@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <node id="9004370337" lat="44.3707780" lon="-73.0818703" version="2" timestamp="2025-10-21T03:31:16Z" changeset="173562381" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "277 Dimick Road, Williston, VT 05477" to "277 Dimick Road, Hinesburg, VT 05461". -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="277"/>
+    <tag k="addr:postcode" v="05461"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Dimick Road"/>
+    <tag k="ref:vcgi:esiteid" v="291418"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+</modify>
+</osmChange>

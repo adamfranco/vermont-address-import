@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <node id="12670317811" lat="44.3026041" lon="-73.0126295" version="1" timestamp="2025-03-16T15:34:54Z" changeset="163694406" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "67 Dogwood Lane, Huntington, VT " to "67 Dogwood Lane, Starksboro, VT 05487". -->
+    <tag k="addr:city" v="Starksboro"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Dogwood Lane"/>
+    <tag k="ref:vcgi:esiteid" v="130951"/>
+  <tag k="addr:postcode" v="05487"/></node>
+  <node id="12670317810" lat="44.3024206" lon="-73.0124232" version="1" timestamp="2025-03-16T15:34:54Z" changeset="163694406" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "64 Dogwood Lane, Huntington, VT " to "64 Dogwood Lane, Starksboro, VT 05487". -->
+    <tag k="addr:city" v="Starksboro"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Dogwood Lane"/>
+    <tag k="ref:vcgi:esiteid" v="130952"/>
+  <tag k="addr:postcode" v="05487"/></node>
+  <node id="12670317809" lat="44.3023498" lon="-73.0120944" version="1" timestamp="2025-03-16T15:34:54Z" changeset="163694406" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "80 Cherry Lane, Huntington, VT " to "80 Cherry Lane, Starksboro, VT 05487". -->
+    <tag k="addr:city" v="Starksboro"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cherry Lane"/>
+    <tag k="ref:vcgi:esiteid" v="130953"/>
+  <tag k="addr:postcode" v="05487"/></node>
+  <node id="12670317808" lat="44.3023886" lon="-73.0128128" version="1" timestamp="2025-03-16T15:34:54Z" changeset="163694406" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "49 Dogwood Lane, Huntington, VT " to "49 Dogwood Lane, Starksboro, VT 05487". -->
+    <tag k="addr:city" v="Starksboro"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Dogwood Lane"/>
+    <tag k="ref:vcgi:esiteid" v="130954"/>
+  <tag k="addr:postcode" v="05487"/></node>
+  <node id="12670317807" lat="44.3023581" lon="-73.0123121" version="1" timestamp="2025-03-16T15:34:54Z" changeset="163694406" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "73 Cherry Lane, Huntington, VT " to "73 Cherry Lane, Starksboro, VT 05487". -->
+    <tag k="addr:city" v="Starksboro"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cherry Lane"/>
+    <tag k="ref:vcgi:esiteid" v="130955"/>
+  <tag k="addr:postcode" v="05487"/></node>
+</modify>
+</osmChange>

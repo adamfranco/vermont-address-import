@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <way id="539677372" version="3" timestamp="2025-04-10T01:45:24Z" changeset="164747668" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "198 Hines Road, Wolcott, VT 05680" to "198 Hines Road, Craftsbury, VT 05826". -->
+    <center lat="44.5964289" lon="-72.3894180"/>
+    <nd ref="5221797560"/>
+    <nd ref="5221797561"/>
+    <nd ref="5221797562"/>
+    <nd ref="5221797563"/>
+    <nd ref="5221797560"/>
+    <tag k="addr:city" v="Craftsbury"/>
+    <tag k="addr:housenumber" v="198"/>
+    <tag k="addr:postcode" v="05826"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hines Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="300807"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="9008472664" lat="44.5845590" lon="-72.3826798" version="2" timestamp="2025-04-10T01:45:24Z" changeset="164747668" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "276 Trout Lilly Lane, Wolcott, VT 05680" to "276 Trout Lilly Lane, Craftsbury, VT 05826". -->
+    <tag k="addr:city" v="Craftsbury"/>
+    <tag k="addr:housenumber" v="276"/>
+    <tag k="addr:postcode" v="05826"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Trout Lilly Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="300848"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12743661539" lat="44.5848312" lon="-72.3901750" version="1" timestamp="2025-04-10T01:50:50Z" changeset="164747738" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1100 Hines Road, Wolcott, VT " to "1100 Hines Road, Craftsbury, VT 05826". -->
+    <tag k="addr:city" v="Craftsbury"/>
+    <tag k="addr:housenumber" v="1100"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hines Road"/>
+    <tag k="ref:vcgi:esiteid" v="300858"/>
+  <tag k="addr:postcode" v="05826"/></node>
+  <node id="9008472662" lat="44.5806134" lon="-72.3904423" version="2" timestamp="2025-04-10T01:45:24Z" changeset="164747668" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1411 Hines Road, Wolcott, VT 05680" to "1411 Hines Road, Craftsbury, VT 05826". -->
+    <tag k="addr:city" v="Craftsbury"/>
+    <tag k="addr:housenumber" v="1411"/>
+    <tag k="addr:postcode" v="05826"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hines Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="300873"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9007920940" lat="44.5742572" lon="-72.5147412" version="2" timestamp="2025-04-10T01:28:01Z" changeset="164747397" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "699 Vermont Route 15, Wolcott, VT 05680" to "699 Vermont Route 15, Morrisville, VT 05661". -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="699"/>
+    <tag k="addr:postcode" v="05661"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 15"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="300906"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9007920939" lat="44.5740976" lon="-72.5152671" version="2" timestamp="2025-04-10T01:28:01Z" changeset="164747397" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "679 Vermont Route 15, Wolcott, VT 05680" to "679 Vermont Route 15, Morrisville, VT 05661". -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="679"/>
+    <tag k="addr:postcode" v="05661"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 15"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="300908"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9007920941" lat="44.5730539" lon="-72.5153149" version="2" timestamp="2025-04-10T01:28:01Z" changeset="164747397" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "710 Vermont Route 15, Wolcott, VT 05680" to "710 Vermont Route 15, Morrisville, VT 05661". -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="710"/>
+    <tag k="addr:postcode" v="05661"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 15"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="300914"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9007920938" lat="44.5732177" lon="-72.5166567" version="2" timestamp="2025-04-10T01:28:01Z" changeset="164747397" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "617 Vermont Route 15, Wolcott, VT 05680" to "617 Vermont Route 15, Morrisville, VT 05661". -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="617"/>
+    <tag k="addr:postcode" v="05661"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 15"/>
+    <tag k="building" v="commercial"/>
+    <tag k="ref:vcgi:esiteid" v="300915"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9008497474" lat="44.5732317" lon="-72.5068199" version="2" timestamp="2025-04-10T01:28:01Z" changeset="164747397" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1097 Vermont Route 15, Wolcott, VT 05680" to "1097 Vermont Route 15, Morrisville, VT 05661". -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="1097"/>
+    <tag k="addr:postcode" v="05661"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 15"/>
+    <tag k="building" v="commercial"/>
+    <tag k="ref:vcgi:esiteid" v="300916"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9007920937" lat="44.5728046" lon="-72.5184251" version="2" timestamp="2025-04-10T01:28:01Z" changeset="164747397" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "535 Vermont Route 15, Wolcott, VT 05680" to "535 Vermont Route 15, Morrisville, VT 05661". -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="535"/>
+    <tag k="addr:postcode" v="05661"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 15"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="300919"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="1358665762" version="2" timestamp="2025-04-10T01:28:01Z" changeset="164747397" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "489 Vermont Route 15, Wolcott, VT 05680" to "489 Vermont Route 15, Morrisville, VT 05661". -->
+    <center lat="44.5704966" lon="-72.5230040"/>
+    <nd ref="9008497473"/>
+    <nd ref="12574348417"/>
+    <nd ref="12574348416"/>
+    <nd ref="12574348415"/>
+    <nd ref="9008497473"/>
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="489"/>
+    <tag k="addr:postcode" v="05661"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Vermont Route 15"/>
+    <tag k="building" v="government"/>
+    <tag k="ref:vcgi:esiteid" v="300923"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="9008472649" lat="44.5476410" lon="-72.4027882" version="2" timestamp="2025-04-10T01:45:24Z" changeset="164747668" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "890 Simmons Road, Wolcott, VT 05843" to "890 Simmons Road, Hardwick, VT 05843". -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="890"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Simmons Road"/>
+    <tag k="ref:vcgi:esiteid" v="301107"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9008472653" lat="44.5575491" lon="-72.3953577" version="2" timestamp="2025-04-10T01:45:24Z" changeset="164747668" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "25 Camp Road, Wolcott, VT 05680" to "25 Camp Road, Hardwick, VT 05843". -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="ref:vcgi:esiteid" v="301298"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9008472652" lat="44.5571664" lon="-72.3958256" version="2" timestamp="2025-04-10T01:45:24Z" changeset="164747668" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "57 Camp Road, Wolcott, VT 05680" to "57 Camp Road, Hardwick, VT 05843". -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Camp Road"/>
+    <tag k="ref:vcgi:esiteid" v="301300"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <way id="539677376" version="3" timestamp="2025-04-10T01:45:24Z" changeset="164747668" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "465 Trout Lilly Lane, Wolcott, VT 05680" to "465 Trout Lilly Lane, Craftsbury, VT 05826". -->
+    <center lat="44.5870720" lon="-72.3816590"/>
+    <nd ref="5221797576"/>
+    <nd ref="5221797577"/>
+    <nd ref="5221797578"/>
+    <nd ref="5221797579"/>
+    <nd ref="5221797576"/>
+    <tag k="addr:city" v="Craftsbury"/>
+    <tag k="addr:housenumber" v="465"/>
+    <tag k="addr:postcode" v="05826"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Trout Lilly Lane"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="301408"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="539677374" version="3" timestamp="2025-04-10T01:45:24Z" changeset="164747668" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "451 Hines Road, Wolcott, VT 05680" to "451 Hines Road, Craftsbury, VT 05826". -->
+    <center lat="44.5929024" lon="-72.3846030"/>
+    <nd ref="5221797568"/>
+    <nd ref="5221797569"/>
+    <nd ref="5221797570"/>
+    <nd ref="5221797571"/>
+    <nd ref="5221797568"/>
+    <tag k="addr:city" v="Craftsbury"/>
+    <tag k="addr:housenumber" v="451"/>
+    <tag k="addr:postcode" v="05826"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hines Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="301413"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <way id="1359350094" version="2" timestamp="2025-04-10T01:50:50Z" changeset="164747738" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "937 Copper Mine Road, Wolcott, VT " to "937 Copper Mine Road, Morrisville, VT 05661". -->
+    <center lat="44.5756735" lon="-72.5136011"/>
+    <nd ref="12582396192"/>
+    <nd ref="12582396189"/>
+    <nd ref="12582396190"/>
+    <nd ref="12582396191"/>
+    <nd ref="12582396192"/>
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="937"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Copper Mine Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="317580"/>
+  <tag k="addr:postcode" v="05661"/></way>
+  <way id="539677373" version="3" timestamp="2025-04-10T01:45:24Z" changeset="164747668" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "469 Hines Road, Wolcott, VT 05680" to "469 Hines Road, Craftsbury, VT 05826". -->
+    <center lat="44.5927944" lon="-72.3868227"/>
+    <nd ref="5221797564"/>
+    <nd ref="5221797565"/>
+    <nd ref="5221797566"/>
+    <nd ref="5221797567"/>
+    <nd ref="5221797564"/>
+    <tag k="addr:city" v="Craftsbury"/>
+    <tag k="addr:housenumber" v="469"/>
+    <tag k="addr:postcode" v="05826"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hines Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="345081"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </way>
+  <node id="9008472648" lat="44.5478479" lon="-72.4035355" version="2" timestamp="2025-04-10T01:45:24Z" changeset="164747668" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "808 Simmons Road, Wolcott, VT 05680" to "808 Simmons Road, Hardwick, VT 05843". -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="808"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Simmons Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="345084"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="9007934137" lat="44.5242904" lon="-72.4229370" version="2" timestamp="2025-04-10T01:50:50Z" changeset="164747738" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "390 Grouse Crossing, Wolcott, VT 05680" to "390 Grouse Crossing, Hardwick, VT 05843". -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="390"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Grouse Crossing"/>
+    <tag k="building" v="commercial"/>
+    <tag k="ref:vcgi:esiteid" v="365242"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12743661208" lat="44.5852349" lon="-72.3899679" version="1" timestamp="2025-04-10T01:50:50Z" changeset="164747738" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1098 Hines Road, Wolcott, VT " to "1098 Hines Road, Craftsbury, VT 05826". -->
+    <tag k="addr:city" v="Craftsbury"/>
+    <tag k="addr:housenumber" v="1098"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hines Road"/>
+    <tag k="ref:vcgi:esiteid" v="656185"/>
+  <tag k="addr:postcode" v="05826"/></node>
+  <node id="9008472650" lat="44.5495293" lon="-72.4057640" version="2" timestamp="2025-04-10T01:45:24Z" changeset="164747668" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "653 Simmons Road, Wolcott, VT 05680" to "653 Simmons Road, Hardwick, VT 05843". -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="653"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Simmons Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="751402"/>
+  </node>
+  <node id="12743661202" lat="44.5487615" lon="-72.4068905" version="1" timestamp="2025-04-10T01:50:50Z" changeset="164747738" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "624 Simmons Road, Wolcott, VT " to "624 Simmons Road, Hardwick, VT 05843". -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="624"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Simmons Road"/>
+    <tag k="ref:vcgi:esiteid" v="751403"/>
+  <tag k="addr:postcode" v="05843"/></node>
+  <node id="12743651664" lat="44.5983905" lon="-72.3876853" version="1" timestamp="2025-04-10T01:50:50Z" changeset="164747738" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "80 Hines Road, Wolcott, VT " to "80 Hines Road, Craftsbury, VT 05826". -->
+    <tag k="addr:city" v="Craftsbury"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hines Road"/>
+    <tag k="ref:vcgi:esiteid" v="760954"/>
+  <tag k="addr:postcode" v="05826"/></node>
+  <node id="12743651650" lat="44.5220094" lon="-72.4216749" version="1" timestamp="2025-04-10T01:50:50Z" changeset="164747738" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "279 Grouse Crossing, Wolcott, VT " to "279 Grouse Crossing, Hardwick, VT 05843". -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="279"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Grouse Crossing"/>
+    <tag k="ref:vcgi:esiteid" v="762627"/>
+  <tag k="addr:postcode" v="05843"/></node>
+  <node id="13346753316" lat="44.5969088" lon="-72.3858527" version="1" timestamp="2025-12-01T21:43:56Z" changeset="175377462" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "215 Hines Road, Wolcott, VT " to "215 Hines Road, Craftsbury, VT 05826". -->
+    <tag k="addr:city" v="Craftsbury"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hines Road"/>
+    <tag k="ref:vcgi:esiteid" v="771856"/>
+  <tag k="addr:postcode" v="05826"/></node>
+</modify>
+</osmChange>

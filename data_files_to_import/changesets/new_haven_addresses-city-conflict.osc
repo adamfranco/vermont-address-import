@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="vermont-address-import">
+<modify>
+
+  <node id="8849428932" lat="44.1694050" lon="-73.1761006" version="2" timestamp="2025-03-12T19:24:59Z" changeset="163542399" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "633 Clarks Woods Road, New Haven, VT 05472" to "633 Clarks Woods Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="633"/>
+    <tag k="addr:postcode" v="05491"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Clarks Woods Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="172175"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12657271905" lat="44.1573791" lon="-73.2003539" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1772 Plank Road, New Haven, VT " to "1772 Plank Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="1772"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Plank Road"/>
+    <tag k="ref:vcgi:esiteid" v="172193"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271904" lat="44.1568424" lon="-73.1957338" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "6 Fiddlehead Road, New Haven, VT " to "6 Fiddlehead Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fiddlehead Road"/>
+    <tag k="ref:vcgi:esiteid" v="172194"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271903" lat="44.1571709" lon="-73.1989406" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1834 Plank Road, New Haven, VT " to "1834 Plank Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="1834"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Plank Road"/>
+    <tag k="ref:vcgi:esiteid" v="172195"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271900" lat="44.1569871" lon="-73.1971265" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1936 Plank Road, New Haven, VT " to "1936 Plank Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="1936"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Plank Road"/>
+    <tag k="ref:vcgi:esiteid" v="172198"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271899" lat="44.1550566" lon="-73.1937035" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "87 Pine Cone Lane, New Haven, VT " to "87 Pine Cone Lane, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Pine Cone Lane"/>
+    <tag k="ref:vcgi:esiteid" v="172199"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271898" lat="44.1541334" lon="-73.1942666" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "149 Pine Cone Lane, New Haven, VT " to "149 Pine Cone Lane, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Pine Cone Lane"/>
+    <tag k="ref:vcgi:esiteid" v="172200"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271897" lat="44.1537590" lon="-73.1957703" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "192 Fiddlehead Road, New Haven, VT " to "192 Fiddlehead Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="192"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fiddlehead Road"/>
+    <tag k="ref:vcgi:esiteid" v="172201"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271896" lat="44.1523781" lon="-73.1942902" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "326 Fiddlehead Road, New Haven, VT " to "326 Fiddlehead Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="326"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Fiddlehead Road"/>
+    <tag k="ref:vcgi:esiteid" v="172203"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="8977957083" lat="44.1127427" lon="-73.2419058" version="2" timestamp="2025-03-12T19:24:59Z" changeset="163542399" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3296 Maple Street, New Haven, VT 05491" to "3296 Maple Street, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="3296"/>
+    <tag k="addr:postcode" v="05491"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Maple Street"/>
+    <tag k="building" v="residential"/>
+    <tag k="ref:vcgi:esiteid" v="172463"/>
+    <tag k="source" v="esri/USA_NAD_Addresses"/>
+  </node>
+  <node id="12657271729" lat="44.1064841" lon="-73.2430160" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1451 Hallock Road, New Haven, VT " to "1451 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="1451"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="172488"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271700" lat="44.0994308" lon="-73.2454688" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "974 Hallock Road, New Haven, VT " to "974 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="974"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="172521"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271696" lat="44.0978789" lon="-73.2473308" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "849 Hallock Road, New Haven, VT " to "849 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="849"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="172527"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271687" lat="44.0967144" lon="-73.2442392" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "164 Mitchell Drive, New Haven, VT " to "164 Mitchell Drive, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mitchell Drive"/>
+    <tag k="ref:vcgi:esiteid" v="172540"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271686" lat="44.0958994" lon="-73.2457665" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "82 Mitchell Drive, New Haven, VT " to "82 Mitchell Drive, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mitchell Drive"/>
+    <tag k="ref:vcgi:esiteid" v="172541"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271684" lat="44.0954248" lon="-73.2464952" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "38 Mitchell Drive, New Haven, VT " to "38 Mitchell Drive, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Mitchell Drive"/>
+    <tag k="ref:vcgi:esiteid" v="172544"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271682" lat="44.0948143" lon="-73.2478180" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "633 Hallock Road, New Haven, VT " to "633 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="633"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="172546"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271678" lat="44.0948593" lon="-73.2309854" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3326 Otter Creek Highway, New Haven, VT " to "3326 Otter Creek Highway, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="3326"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Otter Creek Highway"/>
+    <tag k="ref:vcgi:esiteid" v="172550"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271673" lat="44.0933888" lon="-73.2322873" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3432 Otter Creek Highway, New Haven, VT " to "3432 Otter Creek Highway, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="3432"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Otter Creek Highway"/>
+    <tag k="ref:vcgi:esiteid" v="172555"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271670" lat="44.0929575" lon="-73.2327656" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3494 Otter Creek Highway, New Haven, VT " to "3494 Otter Creek Highway, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="3494"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Otter Creek Highway"/>
+    <tag k="ref:vcgi:esiteid" v="172560"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271664" lat="44.0917913" lon="-73.2324824" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1917 Field Days Road, New Haven, VT " to "1917 Field Days Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="1917"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Field Days Road"/>
+    <tag k="ref:vcgi:esiteid" v="172567"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <way id="553336879" version="2" timestamp="2025-03-12T20:08:00Z" changeset="163543545" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1790 Field Days Road, New Haven, VT " to "1790 Field Days Road, Vergennes, VT 05491". -->
+    <center lat="44.0912130" lon="-73.2292703"/>
+    <nd ref="5341417530"/>
+    <nd ref="5341417529"/>
+    <nd ref="5341417528"/>
+    <nd ref="5341417527"/>
+    <nd ref="5341417530"/>
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="1790"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Field Days Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="172573"/>
+  <tag k="addr:postcode" v="05491"/></way>
+  <node id="12657271658" lat="44.0910461" lon="-73.2461697" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "336 Hallock Road, New Haven, VT " to "336 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="336"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="172579"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271655" lat="44.0902566" lon="-73.2295385" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1734 Field Days Road, New Haven, VT " to "1734 Field Days Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="1734"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Field Days Road"/>
+    <tag k="ref:vcgi:esiteid" v="172585"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271651" lat="44.0893288" lon="-73.2295227" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1684 Field Days Road, New Haven, VT " to "1684 Field Days Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="1684"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Field Days Road"/>
+    <tag k="ref:vcgi:esiteid" v="172591"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271644" lat="44.0867436" lon="-73.2428739" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4188 Otter Creek Highway, New Haven, VT " to "4188 Otter Creek Highway, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="4188"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Otter Creek Highway"/>
+    <tag k="ref:vcgi:esiteid" v="172604"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271641" lat="44.0866447" lon="-73.2465260" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4382 Otter Creek Highway, New Haven, VT " to "4382 Otter Creek Highway, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="4382"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Otter Creek Highway"/>
+    <tag k="ref:vcgi:esiteid" v="172611"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271631" lat="44.0841675" lon="-73.2416153" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4058 Quaker Village Road, New Haven, VT " to "4058 Quaker Village Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="4058"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Quaker Village Road"/>
+    <tag k="ref:vcgi:esiteid" v="172625"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <way id="791502806" version="2" timestamp="2025-03-12T19:24:59Z" changeset="163542399" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "729 Cobble Road, New Haven, VT 05472" to "729 Cobble Road, Middlebury, VT 05753". -->
+    <center lat="44.0564504" lon="-73.1014598"/>
+    <nd ref="7399373398"/>
+    <nd ref="7399373397"/>
+    <nd ref="7399373396"/>
+    <nd ref="7399373395"/>
+    <nd ref="7399373398"/>
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="729"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cobble Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="172782"/>
+  </way>
+  <way id="791502805" version="2" timestamp="2025-03-12T19:24:59Z" changeset="163542399" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "727 Cobble Road, New Haven, VT 05472" to "727 Cobble Road, Middlebury, VT 05753". -->
+    <center lat="44.0561662" lon="-73.1026088"/>
+    <nd ref="7399373394"/>
+    <nd ref="7399373393"/>
+    <nd ref="7399373392"/>
+    <nd ref="7399373391"/>
+    <nd ref="7399373394"/>
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="727"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cobble Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="172785"/>
+  </way>
+  <way id="791502804" version="2" timestamp="2025-03-12T19:24:59Z" changeset="163542399" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "547 Cobble Road, New Haven, VT 05472" to "547 Cobble Road, Middlebury, VT 05753". -->
+    <center lat="44.0559434" lon="-73.1045609"/>
+    <nd ref="7399373390"/>
+    <nd ref="7399373387"/>
+    <nd ref="7399373388"/>
+    <nd ref="7399373389"/>
+    <nd ref="7399373390"/>
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="547"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cobble Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="172788"/>
+  </way>
+  <way id="791502799" version="2" timestamp="2025-03-12T19:24:59Z" changeset="163542399" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "479 Cobble Road, New Haven, VT 05472" to "479 Cobble Road, Middlebury, VT 05753". -->
+    <center lat="44.0544049" lon="-73.1068413"/>
+    <nd ref="7399373374"/>
+    <nd ref="7399373373"/>
+    <nd ref="7399373372"/>
+    <nd ref="7399373371"/>
+    <nd ref="7399373374"/>
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="479"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cobble Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="172799"/>
+  </way>
+  <way id="791502801" version="2" timestamp="2025-03-12T19:24:59Z" changeset="163542399" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "653 Cobble Road, New Haven, VT 05472" to "653 Cobble Road, Middlebury, VT 05753". -->
+    <center lat="44.0542754" lon="-73.1035986"/>
+    <nd ref="7399373378"/>
+    <nd ref="7399373375"/>
+    <nd ref="7399373376"/>
+    <nd ref="7399373377"/>
+    <nd ref="7399373378"/>
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="653"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cobble Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="172801"/>
+  </way>
+  <way id="791502798" version="2" timestamp="2025-03-12T19:24:59Z" changeset="163542399" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "455 Cobble Road, New Haven, VT 05472" to "455 Cobble Road, Middlebury, VT 05753". -->
+    <center lat="44.0538550" lon="-73.1073370"/>
+    <nd ref="7399373370"/>
+    <nd ref="7399373367"/>
+    <nd ref="7399373368"/>
+    <nd ref="7399373369"/>
+    <nd ref="7399373370"/>
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="455"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Cobble Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="172803"/>
+  </way>
+  <way id="790012161" version="3" timestamp="2025-03-12T20:18:14Z" changeset="163543907" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1405 Halpin Road, New Haven, VT 05753" to "1405 Halpin Road, Middlebury, VT 05753". -->
+    <center lat="44.0496293" lon="-73.1496303"/>
+    <nd ref="7386161288"/>
+    <nd ref="7386161285"/>
+    <nd ref="7386161286"/>
+    <nd ref="7386161287"/>
+    <nd ref="7386161288"/>
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:country" v="US"/>
+    <tag k="addr:housenumber" v="1405"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Halpin Road"/>
+    <tag k="building" v="house"/>
+    <tag k="ref:vcgi:esiteid" v="172824"/>
+  </way>
+  <way id="794580506" version="2" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3500 Quaker Village Road, New Haven, VT " to "3500 Quaker Village Road, Middlebury, VT 05753". -->
+    <center lat="44.0775013" lon="-73.2364938"/>
+    <nd ref="7431798784"/>
+    <nd ref="7431798783"/>
+    <nd ref="7431798778"/>
+    <nd ref="7431798782"/>
+    <nd ref="7431798779"/>
+    <nd ref="7431798780"/>
+    <nd ref="7431798781"/>
+    <nd ref="7431798777"/>
+    <nd ref="7431798784"/>
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="3500"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Quaker Village Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref:vcgi:esiteid" v="172890"/>
+  <tag k="addr:postcode" v="05753"/></way>
+  <node id="12657271464" lat="44.0938089" lon="-73.2487481" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "581 Hallock Road, New Haven, VT " to "581 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="581"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="270280"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271447" lat="44.0861412" lon="-73.2434905" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "4259 Quaker Village Road, New Haven, VT " to "4259 Quaker Village Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="4259"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Quaker Village Road"/>
+    <tag k="ref:vcgi:esiteid" v="306106"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271446" lat="44.0813281" lon="-73.2392933" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "3856 Quaker Village Road, New Haven, VT " to "3856 Quaker Village Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="3856"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Quaker Village Road"/>
+    <tag k="ref:vcgi:esiteid" v="306107"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271433" lat="44.0967988" lon="-73.2482218" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "777 Hallock Road, New Haven, VT " to "777 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="777"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="310641"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271432" lat="44.0977244" lon="-73.2460513" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "814 Hallock Road, New Haven, VT " to "814 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="814"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="310642"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271431" lat="44.1021502" lon="-73.2414805" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1192 Hallock Road, New Haven, VT " to "1192 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="1192"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="310643"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271430" lat="44.1041853" lon="-73.2421598" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1320 Hallock Road, New Haven, VT " to "1320 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="1320"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="310644"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271429" lat="44.1051259" lon="-73.2439315" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "1361 Hallock Road, New Haven, VT " to "1361 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="1361"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="310645"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271406" lat="44.0965513" lon="-73.2482459" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "775 Hallock Road, New Haven, VT " to "775 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="775"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="336759"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271379" lat="44.0992471" lon="-73.2463664" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "955 Hallock Road, New Haven, VT " to "955 Hallock Road, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="955"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Hallock Road"/>
+    <tag k="ref:vcgi:esiteid" v="454263"/>
+  <tag k="addr:postcode" v="05491"/></node>
+  <node id="12657271331" lat="44.0992678" lon="-73.2279990" version="1" timestamp="2025-03-12T20:02:18Z" changeset="163543388" uid="22592646" user="Adam Franco-Import">
+    <!-- changed: Updated address from "2960 Otter Creek Highway, New Haven, VT " to "2960 Otter Creek Highway, Vergennes, VT 05491". -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="2960"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="addr:street" v="Otter Creek Highway"/>
+    <tag k="ref:vcgi:esiteid" v="763043"/>
+  <tag k="addr:postcode" v="05491"/></node>
+</modify>
+</osmChange>
