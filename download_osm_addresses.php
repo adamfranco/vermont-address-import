@@ -32,6 +32,7 @@ $opts = [
     'method' => "GET",
     // Use CRLF \r\n to separate multiple headers
     'header' => "User-Agent: Vermont Address Import https://wiki.openstreetmap.org/wiki/VCGI_E911_address_points_import",
+    "timeout" => 600,
   ]
 ];
 $context = stream_context_create($opts);
