@@ -18,13 +18,4 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773012"/>
   </node>
-  <node id="-744" visible="true" lat="43.187667285494" lon="-72.589277691573">
-    <!-- duplicates-in-different-towns: "150 Record Lane, Grafton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 113287: "150 Record Lane, , VT" -->
-    <tag k="addr:city" v="Grafton"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Record Lane"/>
-    <tag k="addr:postcode" v="05146"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="773367"/>
-  </node>
 </osm>

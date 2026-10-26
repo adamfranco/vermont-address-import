@@ -1,50 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-101" visible="true" lat="43.683441945157" lon="-72.950353127165">
-    <!-- duplicates-in-different-towns: "95 Chittenden Road, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 338725: "95 Chittenden Road, Chittenden, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Chittenden Road"/>
-    <tag k="addr:postcode" v="05701"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="187418"/>
-  </node>
-  <node id="-1201" visible="true" lat="43.672471316762" lon="-72.942254406076">
-    <!-- duplicates-in-different-towns: "4 Chittenden Road, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 68082: "4 Chittenden Road, Chittenden, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Chittenden Road"/>
-    <tag k="addr:postcode" v="05737"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="188606"/>
-  </node>
-  <node id="-1497" visible="true" lat="43.67134398394" lon="-72.941474001404">
-    <!-- duplicates-in-different-towns: "1688 Meadow Lake Drive, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 68083: "1688 Meadow Lake Drive, Chittenden, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="1688"/>
-    <tag k="addr:street" v="Meadow Lake Drive"/>
-    <tag k="addr:postcode" v="05701"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="449787"/>
-  </node>
-  <node id="-1524" visible="true" lat="43.707547936732" lon="-73.115228595484">
-    <!-- duplicates-in-different-towns: "870 Biddie Knob Road, Castleton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 454447: "870 Biddie Knob Road, Hubbardton, VT" -->
-    <tag k="addr:city" v="Castleton"/>
-    <tag k="addr:housenumber" v="870"/>
-    <tag k="addr:street" v="Biddie Knob Road"/>
-    <tag k="addr:postcode" v="05735"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="612079"/>
-  </node>
-  <node id="-1557" visible="true" lat="43.743791259764" lon="-72.99770633679">
-    <!-- duplicates-in-different-towns: "33 West Road, Pittsford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 757572: "33 West Road, Chittenden, VT" -->
-    <tag k="addr:city" v="Pittsford"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:street" v="West Road"/>
-    <tag k="addr:postcode" v="05763"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="757573"/>
-  </node>
   <node id="-1623" visible="true" lat="43.673821488635" lon="-72.969452672785">
     <!-- duplicates-in-different-towns: "1703 Blueberry Lane Extension, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773051: "1703 Blueberry Lane Extension, , VT" -->
     <tag k="addr:city" v="Rutland"/>

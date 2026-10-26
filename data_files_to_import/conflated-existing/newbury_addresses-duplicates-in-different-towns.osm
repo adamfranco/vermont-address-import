@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
   <node id="-1511" visible="true" lat="44.162935054961" lon="-72.068510655801">
-    <!-- duplicates-in-different-towns: "1386 Bible Hill Road, Wells River, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 750013: "1386 Bible Hill Road, , VT" -->
+    <!-- duplicates-in-different-towns: "1386 Bible Hill Road, Wells River, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 750013: "1386 Bible Hill Road, East Ryegate, VT" -->
     <tag k="addr:city" v="Wells River"/>
     <tag k="addr:housenumber" v="1386"/>
     <tag k="addr:street" v="Bible Hill Road"/>
     <tag k="addr:postcode" v="05081"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750014"/>
-  </node>
-  <node id="-1581" visible="true" lat="44.056256072613" lon="-72.172147603973">
-    <!-- duplicates-in-different-towns: "170 Fulton Road, East Corinth, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 365666: "170 Fulton Road, , VT" -->
-    <tag k="addr:city" v="East Corinth"/>
-    <tag k="addr:housenumber" v="170"/>
-    <tag k="addr:street" v="Fulton Road"/>
-    <tag k="addr:postcode" v="05040"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="771322"/>
   </node>
 </osm>

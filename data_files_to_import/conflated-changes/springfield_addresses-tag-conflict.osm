@@ -27,22 +27,4 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="235859"/>
   </node>
-  <node id="-4261" visible="true" lat="43.296336798411" lon="-72.487166285589">
-    <!-- conflict: "1 Spring Street, Springfield, VT" No match in OSM, but a different address exists <5m away: "34 Union Street, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Spring Street"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="773893"/>
-  </node>
-  <node id="-4262" visible="true" lat="43.296350998914" lon="-72.487110090657">
-    <!-- conflict: "3 Spring Street, Springfield, VT" No match in OSM, but a different address exists <5m away: "34 Union Street, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Spring Street"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="773894"/>
-  </node>
 </osm>

@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-100" visible="true" lat="43.13141736395" lon="-72.640153292489">
-    <!-- duplicates-in-different-towns: "3348 Townshend Road, Grafton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 338720: "3348 Townshend Road, , VT" -->
-    <tag k="addr:city" v="Grafton"/>
-    <tag k="addr:housenumber" v="3348"/>
-    <tag k="addr:street" v="Townshend Road"/>
-    <tag k="addr:postcode" v="05146"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="113198"/>
-  </node>
-  <node id="-101" visible="true" lat="43.126576629704" lon="-72.641990876322">
-    <!-- duplicates-in-different-towns: "3528 Townshend Road, Grafton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 338721: "3528 Townshend Road, , VT" -->
-    <tag k="addr:city" v="Grafton"/>
-    <tag k="addr:housenumber" v="3528"/>
-    <tag k="addr:street" v="Townshend Road"/>
-    <tag k="addr:postcode" v="05146"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="113220"/>
-  </node>
-  <node id="-1301" visible="true" lat="43.128038788608" lon="-72.6403253039">
-    <!-- duplicates-in-different-towns: "3500 Townshend Road, Grafton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 771122: "3500 Townshend Road, , VT" -->
-    <tag k="addr:city" v="Grafton"/>
-    <tag k="addr:housenumber" v="3500"/>
-    <tag k="addr:street" v="Townshend Road"/>
-    <tag k="addr:postcode" v="05146"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="770916"/>
-  </node>
-  <node id="-1303" visible="true" lat="43.128179855726" lon="-72.639800059675">
-    <!-- duplicates-in-different-towns: "3498 Townshend Road, Grafton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 770917: "3498 Townshend Road, , VT" -->
-    <tag k="addr:city" v="Grafton"/>
-    <tag k="addr:housenumber" v="3498"/>
-    <tag k="addr:street" v="Townshend Road"/>
-    <tag k="addr:postcode" v="05146"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="771121"/>
-  </node>
   <node id="-1307" visible="true" lat="43.030705381199" lon="-72.656101482673">
     <!-- duplicates-in-different-towns: "137 Berrie Lane, Townshend, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773006: "137 Berrie Lane, , VT" -->
     <tag k="addr:city" v="Townshend"/>

@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-212" visible="true" lat="43.222829070375" lon="-72.447243837545">
+    <!-- offset: "823 Missing Link Road, Bellows Falls, VT" Significant offset - 156m -->
+    <tag k="addr:city" v="Bellows Falls"/>
+    <tag k="addr:housenumber" v="823"/>
+    <tag k="addr:street" v="Missing Link Road"/>
+    <tag k="addr:postcode" v="05101"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="203105"/>
+  </node>
+  <node id="-594" visible="true" lat="43.161055859808" lon="-72.455633202491">
+    <!-- offset: "5 Industrial Drive, Bellows Falls, VT" Significant offset - 100.8m -->
+    <tag k="addr:city" v="Bellows Falls"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Industrial Drive"/>
+    <tag k="addr:postcode" v="05101"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="203504"/>
+  </node>
   <node id="-737" visible="true" lat="43.141170205043" lon="-72.500491615697">
     <!-- offset: "8 Oak Street, Bellows Falls, VT" Significant offset - 4202.5m -->
     <tag k="addr:city" v="Bellows Falls"/>
@@ -8,6 +26,15 @@
     <tag k="addr:postcode" v="05101"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="203670"/>
+  </node>
+  <node id="-950" visible="true" lat="43.224529574963" lon="-72.485051226159">
+    <!-- offset: "514 Parker Hill Road, Springfield, VT" Significant offset - 199.8m -->
+    <tag k="addr:city" v="Springfield"/>
+    <tag k="addr:housenumber" v="514"/>
+    <tag k="addr:street" v="Parker Hill Road"/>
+    <tag k="addr:postcode" v="05156"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="336161"/>
   </node>
   <node id="-970" visible="true" lat="43.147425444336" lon="-72.469556662385">
     <!-- offset: "116 Pond Road, Bellows Falls, VT" Significant offset - 154m -->

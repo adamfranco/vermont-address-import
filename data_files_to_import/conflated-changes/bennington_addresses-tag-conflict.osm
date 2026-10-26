@@ -1,138 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-558" visible="true" lat="42.912282111029" lon="-73.224358941018">
-    <!-- conflict: "1005 Bennington Road, Bennington, VT" Fuzzy match to "1005 North Bennington Road, , VT" -->
+  <node id="-2592" visible="true" lat="42.880093690593" lon="-73.20443858174">
+    <!-- conflict: "141 1/2 Main Street, Bennington, VT" No match in OSM, but a different address exists <5m away: "46 Vervana Way, , VT" -->
     <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="1005"/>
-    <tag k="addr:street" v="Bennington Road"/>
+    <tag k="addr:housenumber" v="141 1/2"/>
+    <tag k="addr:street" v="Main Street"/>
     <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="16462"/>
+    <tag k="ref:vcgi:esiteid" v="18786"/>
   </node>
-  <node id="-1208" visible="true" lat="42.889884187468" lon="-73.215195192754">
-    <!-- conflict: "9 Monument Circle, Bennington, VT" Fuzzy match to "9 Monument Avenue, , VT" -->
+  <node id="-2628" visible="true" lat="42.87976882974" lon="-73.204848003631">
+    <!-- conflict: "141 1/2 Main Street, Bennington, VT" No match in OSM, but a different address exists <5m away: "60 Vervana Way, Bennington, VT" -->
     <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="Monument Circle"/>
+    <tag k="addr:housenumber" v="141 1/2"/>
+    <tag k="addr:street" v="Main Street"/>
     <tag k="addr:postcode" v="05201"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="17247"/>
-  </node>
-  <node id="-1290" visible="true" lat="42.888672980941" lon="-73.214408422055">
-    <!-- conflict: "1 Monument Circle, Bennington, VT" Fuzzy match to "1 Monument Avenue, , VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Monument Circle"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="17336"/>
-  </node>
-  <node id="-1576" visible="true" lat="42.885110822635" lon="-73.197479733054">
-    <!-- conflict: "314 North Street, Bennington, VT" Fuzzy match to "314 North Street, , " -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="314"/>
-    <tag k="addr:street" v="North Street"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="17665"/>
-  </node>
-  <node id="-1580" visible="true" lat="42.884678955138" lon="-73.259995850612">
-    <!-- conflict: "725 Houran Road, Bennington, VT" No match in OSM, but a different address exists <5m away: "762 Houran Road, , VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="725"/>
-    <tag k="addr:street" v="Houran Road"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="17670"/>
-  </node>
-  <node id="-2678" visible="true" lat="42.879763287634" lon="-73.19241945049">
-    <!-- conflict: "4 Valentine Lane, Bennington, VT" Fuzzy match to "4 Valentine Place, , VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Valentine Lane"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18879"/>
-  </node>
-  <node id="-3501" visible="true" lat="42.876360071823" lon="-73.178412315018">
-    <!-- conflict: "1 Tel Road, Bennington, VT" Fuzzy match to "1 Tel Circle, , VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Tel Road"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="19791"/>
-  </node>
-  <node id="-3582" visible="true" lat="42.875870904167" lon="-73.178572613669">
-    <!-- conflict: "3 Tel Road, Bennington, VT" Fuzzy match to "3 Tel Circle, , VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Tel Road"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="19877"/>
-  </node>
-  <node id="-3643" visible="true" lat="42.875653642135" lon="-73.178627242246">
-    <!-- conflict: "5 Tel Road, Bennington, VT" Fuzzy match to "5 Tel Circle, , VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Tel Road"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="19941"/>
-  </node>
-  <node id="-3706" visible="true" lat="42.875426201834" lon="-73.178832597912">
-    <!-- conflict: "7 Tel Road, Bennington, VT" Fuzzy match to "7 Tel Circle, , VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Tel Road"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="20009"/>
-  </node>
-  <node id="-4951" visible="true" lat="42.88924487177" lon="-73.215608804754">
-    <!-- conflict: "11 Monument Circle, Bennington, VT" Fuzzy match to "11 Monument Avenue, , VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Monument Circle"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="21357"/>
-  </node>
-  <node id="-5111" visible="true" lat="42.876273631156" lon="-73.220253649182">
-    <!-- conflict: "720 Fox Hill Road, Bennington, VT" No match in OSM, but a different address exists <5m away: "704 Fox Hill Road, , VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="720"/>
-    <tag k="addr:street" v="Fox Hill Road"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="314531"/>
-  </node>
-  <node id="-5732" visible="true" lat="42.891890989461" lon="-73.180761925789">
-    <!-- conflict: "253 Chapel Road, Bennington, VT" No match in OSM, but a different address exists <5m away: "231 Chapel Road, , VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="253"/>
-    <tag k="addr:street" v="Chapel Road"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="446885"/>
-  </node>
-  <node id="-6045" visible="true" lat="42.875266660521" lon="-73.18725311184">
-    <!-- conflict: "24 Wentworth Way, Bennington, VT" Fuzzy match to "24 Wentworth Way, , " -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Wentworth Way"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="773045"/>
-  </node>
-  <node id="-6059" visible="true" lat="42.914377424513" lon="-73.205536781601">
-    <!-- conflict: "245 Houghton Lane, Bennington, VT" No match in OSM, but a different address exists <5m away: "241 Houghton Lane, , VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="245"/>
-    <tag k="addr:street" v="Houghton Lane"/>
-    <tag k="addr:postcode" v="05201"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="774163"/>
+    <tag k="ref:vcgi:esiteid" v="18825"/>
   </node>
 </osm>

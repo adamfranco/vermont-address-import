@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-839" visible="true" lat="43.442801391649" lon="-72.544945105946">
+    <!-- offset: "902 Senna Road, Cavendish, VT" Significant offset - 277.7m -->
+    <tag k="addr:city" v="Cavendish"/>
+    <tag k="addr:housenumber" v="902"/>
+    <tag k="addr:street" v="Senna Road"/>
+    <tag k="addr:postcode" v="05142"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62253"/>
+  </node>
+  <node id="-885" visible="true" lat="43.355689152106" lon="-72.646234875934">
+    <!-- offset: "281 Old Bailey Hill Road, Proctorsville, VT" Significant offset - 117.8m -->
+    <tag k="addr:city" v="Proctorsville"/>
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Old Bailey Hill Road"/>
+    <tag k="addr:postcode" v="05153"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62300"/>
+  </node>
+  <node id="-931" visible="true" lat="43.37809452606" lon="-72.629371859932">
+    <!-- offset: "476 Pratt Hill, Proctorsville, VT" Significant offset - 374.1m -->
+    <tag k="addr:city" v="Proctorsville"/>
+    <tag k="addr:housenumber" v="476"/>
+    <tag k="addr:street" v="Pratt Hill"/>
+    <tag k="addr:postcode" v="05153"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62351"/>
+  </node>
   <node id="-1079" visible="true" lat="43.350192382292" lon="-72.622164663912">
     <!-- offset: "5660 Vermont Route 103 North, Chester, VT" Significant offset - 286m -->
     <tag k="addr:city" v="Chester"/>
@@ -8,5 +35,23 @@
     <tag k="addr:postcode" v="05143"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="700105"/>
+  </node>
+  <node id="-1123" visible="true" lat="43.389352462128" lon="-72.555912057393">
+    <!-- offset: "4283 Vermont Route 131, Cavendish, VT" Significant offset - 235.9m -->
+    <tag k="addr:city" v="Cavendish"/>
+    <tag k="addr:housenumber" v="4283"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:postcode" v="05142"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763082"/>
+  </node>
+  <node id="-1160" visible="true" lat="43.442421575905" lon="-72.536420014482">
+    <!-- offset: "423 Vermont Route 106, Reading, VT" Significant offset - 182m -->
+    <tag k="addr:city" v="Reading"/>
+    <tag k="addr:housenumber" v="423"/>
+    <tag k="addr:street" v="Vermont Route 106"/>
+    <tag k="addr:postcode" v="05062"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771455"/>
   </node>
 </osm>

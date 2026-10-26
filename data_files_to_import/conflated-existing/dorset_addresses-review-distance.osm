@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1690" visible="true" lat="43.234001226402" lon="-73.076069312035">
+  <node id="-1328" visible="true" lat="43.213023375643" lon="-73.066723926366">
+    <!-- offset: "44 Vermont Route 30, Dorset, VT" Significant offset - 8005.8m -->
+    <tag k="addr:city" v="Dorset"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:postcode" v="05251"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="85483"/>
+  </node>
+  <node id="-1579" visible="true" lat="43.258659841949" lon="-73.123273732341">
+    <!-- offset: "795 Nims Road, Dorset, VT" Significant offset - 127.7m -->
+    <tag k="addr:city" v="Dorset"/>
+    <tag k="addr:housenumber" v="795"/>
+    <tag k="addr:street" v="Nims Road"/>
+    <tag k="addr:postcode" v="05251"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454567"/>
+  </node>
+  <node id="-1689" visible="true" lat="43.234001226402" lon="-73.076069312035">
     <!-- offset: "200 Raptor Lane, Dorset, VT" Significant offset - 102.7m -->
     <tag k="addr:city" v="Dorset"/>
     <tag k="addr:housenumber" v="200"/>

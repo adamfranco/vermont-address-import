@@ -18,7 +18,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="60406"/>
   </node>
-  <node id="-1745" visible="true" lat="43.600392591261" lon="-73.17167037161">
+  <node id="-1745" visible="true" lat="43.600148354008" lon="-73.171864385358">
     <!-- multiple: "393 Staso Road, Castleton, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Castleton"/>
     <tag k="addr:housenumber" v="393"/>
@@ -26,5 +26,14 @@
     <tag k="addr:postcode" v="05735"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="60964"/>
+  </node>
+  <node id="-2320" visible="true" lat="43.641429018286" lon="-73.105834521675">
+    <!-- multiple: "1710 Belgo Road, Castleton, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Castleton"/>
+    <tag k="addr:housenumber" v="1710"/>
+    <tag k="addr:street" v="Belgo Road"/>
+    <tag k="addr:postcode" v="05735"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450136"/>
   </node>
 </osm>

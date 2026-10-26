@@ -9,31 +9,4 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252466"/>
   </node>
-  <node id="-750" visible="true" lat="43.876890150844" lon="-72.289397627412">
-    <!-- duplicates-in-different-towns: "2816 Sawnee Bean Road, Thetford Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 259716: "2816 Sawnee Bean Road, Thetford, VT" -->
-    <tag k="addr:city" v="Thetford Center"/>
-    <tag k="addr:housenumber" v="2816"/>
-    <tag k="addr:street" v="Sawnee Bean Road"/>
-    <tag k="addr:postcode" v="05075"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="365551"/>
-  </node>
-  <node id="-762" visible="true" lat="43.849165855764" lon="-72.317095075974">
-    <!-- duplicates-in-different-towns: "1144 Miller Pond Road, Thetford Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 252459: "1144 Miller Pond Road, Thetford, VT" -->
-    <tag k="addr:city" v="Thetford Center"/>
-    <tag k="addr:housenumber" v="1144"/>
-    <tag k="addr:street" v="Miller Pond Road"/>
-    <tag k="addr:postcode" v="05075"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453569"/>
-  </node>
-  <node id="-803" visible="true" lat="43.88739739223" lon="-72.288449288421">
-    <!-- duplicates-in-different-towns: "3566 Sawnee Bean Road, Thetford Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 252214: "3566 Sawnee Bean Road, Thetford, VT" -->
-    <tag k="addr:city" v="Thetford Center"/>
-    <tag k="addr:housenumber" v="3566"/>
-    <tag k="addr:street" v="Sawnee Bean Road"/>
-    <tag k="addr:postcode" v="05075"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="757173"/>
-  </node>
 </osm>

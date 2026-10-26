@@ -1,50 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-151" visible="true" lat="43.664674587076" lon="-73.01059472266">
-    <!-- duplicates-in-different-towns: "267 Crestway Drive, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 1050723: "267 Crestway Drive, , VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="267"/>
-    <tag k="addr:street" v="Crestway Drive"/>
-    <tag k="addr:postcode" v="05765"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="213770"/>
-  </node>
-  <node id="-1241" visible="true" lat="43.605557379199" lon="-72.937852755439">
-    <!-- duplicates-in-different-towns: "272 Notch Road, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 341550: "272 Notch Road, Mendon, VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="272"/>
-    <tag k="addr:street" v="Notch Road"/>
-    <tag k="addr:postcode" v="05701"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="214879"/>
-  </node>
-  <node id="-1871" visible="true" lat="43.666944894794" lon="-72.9806495154">
-    <!-- duplicates-in-different-towns: "151 Oak Ridge Place, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 328941: "151 Oak Ridge Place, , VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Oak Ridge Place"/>
-    <tag k="addr:postcode" v="05701"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341241"/>
-  </node>
-  <node id="-1888" visible="true" lat="43.668924326231" lon="-72.94408010934">
-    <!-- duplicates-in-different-towns: "3177 East Pittsford Road, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 213718: "3177 East Pittsford Road, , VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="3177"/>
-    <tag k="addr:street" v="East Pittsford Road"/>
-    <tag k="addr:postcode" v="05701"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="449781"/>
-  </node>
-  <node id="-1889" visible="true" lat="43.664100079911" lon="-73.011768841674">
-    <!-- duplicates-in-different-towns: "269 Crestway Drive, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 450329: "269 Crestway Drive, , VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="269"/>
-    <tag k="addr:street" v="Crestway Drive"/>
-    <tag k="addr:postcode" v="05765"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450330"/>
-  </node>
   <node id="-1916" visible="true" lat="43.604534498976" lon="-73.008708721175">
     <!-- duplicates-in-different-towns: "232 Business Route 4, Center Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 317612: "232 Business Route 4, Rutland, VT" -->
     <tag k="addr:city" v="Center Rutland"/>

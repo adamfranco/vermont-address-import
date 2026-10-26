@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
   <node id="-145" visible="true" lat="43.34074076616" lon="-72.531418227311">
-    <!-- duplicates-in-different-towns: "95 Vermont Route 106, North Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 448258: "95 Vermont Route 106, , VT" -->
+    <!-- duplicates-in-different-towns: "95 Vermont Route 106, North Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 448258: "95 Vermont Route 106, Perkinsville, VT" -->
     <tag k="addr:city" v="North Springfield"/>
     <tag k="addr:housenumber" v="95"/>
     <tag k="addr:street" v="Vermont Route 106"/>
@@ -10,184 +10,13 @@
     <tag k="ref:vcgi:esiteid" v="234395"/>
   </node>
   <node id="-184" visible="true" lat="43.337611602506" lon="-72.525595648639">
-    <!-- duplicates-in-different-towns: "56 Vermont Route 106, North Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 277735: "56 Vermont Route 106, , VT" -->
+    <!-- duplicates-in-different-towns: "56 Vermont Route 106, North Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 277735: "56 Vermont Route 106, Perkinsville, VT" -->
     <tag k="addr:city" v="North Springfield"/>
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Vermont Route 106"/>
     <tag k="addr:postcode" v="05150"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="234437"/>
-  </node>
-  <node id="-188" visible="true" lat="43.337589858324" lon="-72.505114582474">
-    <!-- duplicates-in-different-towns: "87 Reservoir Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 234448: "87 Reservoir Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:street" v="Reservoir Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234441"/>
-  </node>
-  <node id="-245" visible="true" lat="43.33575003801" lon="-72.525871130845">
-    <!-- duplicates-in-different-towns: "23 School Street, North Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 234504: "23 School Street, , VT" -->
-    <tag k="addr:city" v="North Springfield"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="School Street"/>
-    <tag k="addr:postcode" v="05150"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234508"/>
-  </node>
-  <node id="-527" visible="true" lat="43.331077898211" lon="-72.508588857665">
-    <!-- duplicates-in-different-towns: "35 Reservoir Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 234838: "35 Reservoir Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:street" v="Reservoir Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234816"/>
-  </node>
-  <node id="-644" visible="true" lat="43.327580675241" lon="-72.510514432288">
-    <!-- duplicates-in-different-towns: "5 Reservoir Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 234965: "5 Reservoir Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Reservoir Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="234954"/>
-  </node>
-  <node id="-762" visible="true" lat="43.32286570372" lon="-72.525489151795">
-    <!-- duplicates-in-different-towns: "903 French Meadow Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 235076: "903 French Meadow Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="903"/>
-    <tag k="addr:street" v="French Meadow Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="235080"/>
-  </node>
-  <node id="-848" visible="true" lat="43.319808037418" lon="-72.453528264193">
-    <!-- duplicates-in-different-towns: "222 Barlow Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 235184: "222 Barlow Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="222"/>
-    <tag k="addr:street" v="Barlow Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="235173"/>
-  </node>
-  <node id="-1127" visible="true" lat="43.307717542521" lon="-72.500832728371">
-    <!-- duplicates-in-different-towns: "49 Fairground Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 235483: "49 Fairground Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Fairground Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="235470"/>
-  </node>
-  <node id="-2811" visible="true" lat="43.287396790754" lon="-72.537753808061">
-    <!-- duplicates-in-different-towns: "305 Lacross Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 237328: "305 Lacross Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="305"/>
-    <tag k="addr:street" v="Lacross Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="237327"/>
-  </node>
-  <node id="-2830" visible="true" lat="43.287134323811" lon="-72.413989502097">
-    <!-- duplicates-in-different-towns: "858 Connecticut River Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 769355: "858 Connecticut River Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="858"/>
-    <tag k="addr:street" v="Connecticut River Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="237348"/>
-  </node>
-  <node id="-2932" visible="true" lat="43.283376636323" lon="-72.481882644574">
-    <!-- duplicates-in-different-towns: "221 Southridge Street, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 237464: "221 Southridge Street, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="221"/>
-    <tag k="addr:street" v="Southridge Street"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="237459"/>
-  </node>
-  <node id="-3103" visible="true" lat="43.2732496069" lon="-72.539404575566">
-    <!-- duplicates-in-different-towns: "175 Pleasant Valley Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 237647: "175 Pleasant Valley Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="175"/>
-    <tag k="addr:street" v="Pleasant Valley Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="237643"/>
-  </node>
-  <node id="-3177" visible="true" lat="43.269172107315" lon="-72.455351788831">
-    <!-- duplicates-in-different-towns: "68 Randall Hill Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 237720: "68 Randall Hill Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:street" v="Randall Hill Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="237719"/>
-  </node>
-  <node id="-3293" visible="true" lat="43.260058829027" lon="-72.491122755488">
-    <!-- duplicates-in-different-towns: "398 Brockway Mills Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 769356: "398 Brockway Mills Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="398"/>
-    <tag k="addr:street" v="Brockway Mills Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="237836"/>
-  </node>
-  <node id="-3354" visible="true" lat="43.254234418548" lon="-72.539251087662">
-    <!-- duplicates-in-different-towns: "154 Whitney Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 237900: "154 Whitney Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="154"/>
-    <tag k="addr:street" v="Whitney Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="237899"/>
-  </node>
-  <node id="-3380" visible="true" lat="43.25215560967" lon="-72.475871074148">
-    <!-- duplicates-in-different-towns: "315 Parker Hill Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 237940: "315 Parker Hill Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="315"/>
-    <tag k="addr:street" v="Parker Hill Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="237925"/>
-  </node>
-  <node id="-3425" visible="true" lat="43.244584160286" lon="-72.524957531612">
-    <!-- duplicates-in-different-towns: "397 Boedtker Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 237973: "397 Boedtker Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="397"/>
-    <tag k="addr:street" v="Boedtker Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="237971"/>
-  </node>
-  <node id="-3836" visible="true" lat="43.343987886473" lon="-72.54494725843">
-    <!-- duplicates-in-different-towns: "170 Baltimore Road, North Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 344430: "170 Baltimore Road, Chester, VT" -->
-    <tag k="addr:city" v="North Springfield"/>
-    <tag k="addr:housenumber" v="170"/>
-    <tag k="addr:street" v="Baltimore Road"/>
-    <tag k="addr:postcode" v="05150"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344429"/>
-  </node>
-  <node id="-3890" visible="true" lat="43.281217834434" lon="-72.486610636222">
-    <!-- duplicates-in-different-towns: "90 Wcfr Drive, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 610251: "90 Wcfr Drive, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="Wcfr Drive"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344485"/>
-  </node>
-  <node id="-3933" visible="true" lat="43.300295623172" lon="-72.49674279831">
-    <!-- duplicates-in-different-towns: "39 Chester Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 236012: "39 Chester Road, , VT" -->
-    <tag k="addr:city" v="Springfield"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:street" v="Chester Road"/>
-    <tag k="addr:postcode" v="05156"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452975"/>
   </node>
   <node id="-4039" visible="true" lat="43.280507264138" lon="-72.547031997796">
     <!-- duplicates-in-different-towns: "24 Lacross Road, Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 614760: "24 Lacross Road, Chester, VT" -->
@@ -197,14 +26,5 @@
     <tag k="addr:postcode" v="05156"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756560"/>
-  </node>
-  <node id="-4213" visible="true" lat="43.326148434355" lon="-72.510511648986">
-    <!-- duplicates-in-different-towns: "407 River Street, North Springfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 234983: "407 River Street, Springfield, VT" -->
-    <tag k="addr:city" v="North Springfield"/>
-    <tag k="addr:housenumber" v="407"/>
-    <tag k="addr:street" v="River Street"/>
-    <tag k="addr:postcode" v="05150"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="769361"/>
   </node>
 </osm>

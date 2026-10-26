@@ -154,7 +154,7 @@
     <tag k="ref:vcgi:esiteid" v="150383"/>
   </node>
   <node id="-1398" visible="true" lat="43.172639068498" lon="-73.071938864232">
-    <!-- conflict: "627 West Road, Manchester Center, VT" Fuzzy match to "627 West Fields, , VT" -->
+    <!-- conflict: "627 West Road, Manchester Center, VT" Fuzzy match to "627 West Fields, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="627"/>
     <tag k="addr:street" v="West Road"/>
@@ -163,7 +163,7 @@
     <tag k="ref:vcgi:esiteid" v="150424"/>
   </node>
   <node id="-1653" visible="true" lat="43.168271237666" lon="-73.071542135849">
-    <!-- conflict: "326 West Road, Manchester, VT" Fuzzy match to "326 West Fields, , VT" -->
+    <!-- conflict: "326 West Road, Manchester, VT" Fuzzy match to "326 West Fields, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester"/>
     <tag k="addr:housenumber" v="326"/>
     <tag k="addr:street" v="West Road"/>
@@ -172,7 +172,7 @@
     <tag k="ref:vcgi:esiteid" v="150710"/>
   </node>
   <node id="-2032" visible="true" lat="43.162232696918" lon="-73.080302895962">
-    <!-- conflict: "109 West Union Street, Manchester, VT" Fuzzy match to "109 West Road, , VT" -->
+    <!-- conflict: "109 West Union Street, Manchester, VT" Fuzzy match to "109 West Road, Manchester, VT" -->
     <tag k="addr:city" v="Manchester"/>
     <tag k="addr:housenumber" v="109"/>
     <tag k="addr:street" v="West Union Street"/>

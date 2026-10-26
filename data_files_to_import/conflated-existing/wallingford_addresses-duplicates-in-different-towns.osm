@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1190" visible="true" lat="43.452406750829" lon="-73.006789989755">
-    <!-- duplicates-in-different-towns: "186 West Hill Road, Wallingford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 270067: "186 West Hill Road, Tinmouth, VT" -->
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="186"/>
-    <tag k="addr:street" v="West Hill Road"/>
-    <tag k="addr:postcode" v="05773"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338717"/>
-  </node>
-  <node id="-1191" visible="true" lat="43.450433597821" lon="-73.006980945219">
-    <!-- duplicates-in-different-towns: "338 West Hill Road, Wallingford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 269674: "338 West Hill Road, Tinmouth, VT" -->
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="338"/>
-    <tag k="addr:street" v="West Hill Road"/>
-    <tag k="addr:postcode" v="05773"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338718"/>
-  </node>
-  <node id="-1214" visible="true" lat="43.4579604894" lon="-73.006365570598">
-    <!-- duplicates-in-different-towns: "2172 Vermont Route 140 West, Wallingford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 269591: "2172 Vermont Route 140 West, Tinmouth, VT" -->
-    <tag k="addr:city" v="Wallingford"/>
-    <tag k="addr:housenumber" v="2172"/>
-    <tag k="addr:street" v="Vermont Route 140 West"/>
-    <tag k="addr:postcode" v="05773"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="452775"/>
-  </node>
   <node id="-1234" visible="true" lat="43.469134113973" lon="-72.959710539387">
     <!-- duplicates-in-different-towns: "94 Star Lane, Wallingford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 365508: "94 Star Lane, , VT" -->
     <tag k="addr:city" v="Wallingford"/>
@@ -35,14 +8,5 @@
     <tag k="addr:postcode" v="05773"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="751365"/>
-  </node>
-  <node id="-1269" visible="true" lat="43.398147177363" lon="-73.005934324704">
-    <!-- duplicates-in-different-towns: "414 Tifft Road, Danby, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 768660: "414 Tifft Road, , VT" -->
-    <tag k="addr:city" v="Danby"/>
-    <tag k="addr:housenumber" v="414"/>
-    <tag k="addr:street" v="Tifft Road"/>
-    <tag k="addr:postcode" v="05739"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="768659"/>
   </node>
 </osm>

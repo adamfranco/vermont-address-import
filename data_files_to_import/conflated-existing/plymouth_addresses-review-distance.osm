@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-968" visible="true" lat="43.476005381713" lon="-72.703065719405">
+    <!-- offset: "920 Vermont Route 100, Plymouth, VT" Significant offset - 242.5m -->
+    <tag k="addr:city" v="Plymouth"/>
+    <tag k="addr:housenumber" v="920"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:postcode" v="05056"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751645"/>
+  </node>
+  <node id="-985" visible="true" lat="43.561294791" lon="-72.694307571365">
+    <!-- offset: "1019 Vermont Route 100A, Plymouth, VT" Significant offset - 115m -->
+    <tag k="addr:city" v="Plymouth"/>
+    <tag k="addr:housenumber" v="1019"/>
+    <tag k="addr:street" v="Vermont Route 100A"/>
+    <tag k="addr:postcode" v="05056"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758908"/>
+  </node>
   <node id="-1009" visible="true" lat="43.463319084154" lon="-72.701887161677">
     <!-- offset: "142 Kingdom Road, Ludlow, VT" Significant offset - 180.5m -->
     <tag k="addr:city" v="Ludlow"/>

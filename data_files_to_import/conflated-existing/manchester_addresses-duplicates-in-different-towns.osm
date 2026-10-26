@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-100" visible="true" lat="43.211128469513" lon="-73.030075107053">
-    <!-- duplicates-in-different-towns: "166 Green Peak Orchard South, East Dorset, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 342372: "166 Green Peak Orchard South, , VT" -->
-    <tag k="addr:city" v="East Dorset"/>
-    <tag k="addr:housenumber" v="166"/>
-    <tag k="addr:street" v="Green Peak Orchard South"/>
-    <tag k="addr:postcode" v="05253"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="85496"/>
-  </node>
   <node id="-115" visible="true" lat="43.211837087797" lon="-73.056289190609">
-    <!-- duplicates-in-different-towns: "499 West Branch Drive, Manchester Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 342801: "499 West Branch Drive, , VT" -->
+    <!-- duplicates-in-different-towns: "499 West Branch Drive, Manchester Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 342801: "499 West Branch Drive, Dorset, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="499"/>
     <tag k="addr:street" v="West Branch Drive"/>
@@ -18,68 +9,14 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149033"/>
   </node>
-  <node id="-149" visible="true" lat="43.210350946035" lon="-73.03263281618">
-    <!-- duplicates-in-different-towns: "685 Green Peak Orchard, East Dorset, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 342371: "685 Green Peak Orchard, , VT" -->
-    <tag k="addr:city" v="East Dorset"/>
-    <tag k="addr:housenumber" v="685"/>
-    <tag k="addr:street" v="Green Peak Orchard"/>
-    <tag k="addr:postcode" v="05253"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="149067"/>
-  </node>
   <node id="-2610" visible="true" lat="43.212046052587" lon="-73.056981517401">
-    <!-- duplicates-in-different-towns: "501 West Branch Drive, Manchester Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 342802: "501 West Branch Drive, , VT" -->
+    <!-- duplicates-in-different-towns: "501 West Branch Drive, Manchester Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 342802: "501 West Branch Drive, Dorset, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="501"/>
     <tag k="addr:street" v="West Branch Drive"/>
     <tag k="addr:postcode" v="05255"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151763"/>
-  </node>
-  <node id="-2881" visible="true" lat="43.211175932965" lon="-73.035296526981">
-    <!-- duplicates-in-different-towns: "810 Green Peak Orchard, Manchester Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 85492: "810 Green Peak Orchard, , VT" -->
-    <tag k="addr:city" v="Manchester Center"/>
-    <tag k="addr:housenumber" v="810"/>
-    <tag k="addr:street" v="Green Peak Orchard"/>
-    <tag k="addr:postcode" v="05255"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341262"/>
-  </node>
-  <node id="-2885" visible="true" lat="43.211201391666" lon="-73.022566469915">
-    <!-- duplicates-in-different-towns: "92 Country Club Estate, Manchester Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 85494: "92 Country Club Estate, , VT" -->
-    <tag k="addr:city" v="Manchester Center"/>
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Country Club Estate"/>
-    <tag k="addr:postcode" v="05255"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341726"/>
-  </node>
-  <node id="-2886" visible="true" lat="43.211135413051" lon="-73.021473742925">
-    <!-- duplicates-in-different-towns: "42 Country Club Estate, Manchester Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 85495: "42 Country Club Estate, , VT" -->
-    <tag k="addr:city" v="Manchester Center"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Country Club Estate"/>
-    <tag k="addr:postcode" v="05255"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341727"/>
-  </node>
-  <node id="-2895" visible="true" lat="43.212657827182" lon="-73.087931588978">
-    <!-- duplicates-in-different-towns: "352 Spruce Lane, Dorset, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 85537: "352 Spruce Lane, , VT" -->
-    <tag k="addr:city" v="Dorset"/>
-    <tag k="addr:housenumber" v="352"/>
-    <tag k="addr:street" v="Spruce Lane"/>
-    <tag k="addr:postcode" v="05251"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345061"/>
-  </node>
-  <node id="-2956" visible="true" lat="43.122879565653" lon="-73.134854608556">
-    <!-- duplicates-in-different-towns: "1080 Bentley Hill Road, Arlington, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 217222: "1080 Bentley Hill Road, Sandgate, VT" -->
-    <tag k="addr:city" v="Arlington"/>
-    <tag k="addr:housenumber" v="1080"/>
-    <tag k="addr:street" v="Bentley Hill Road"/>
-    <tag k="addr:postcode" v="05250"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620960"/>
   </node>
   <node id="-3176" visible="true" lat="43.184349204804" lon="-73.063639485546">
     <!-- duplicates-in-different-towns: "1570 West Road, Manchester Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773041: "1570 West Road, , VT" -->

@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1240" visible="true" lat="43.551316763924" lon="-73.03811026866">
-    <!-- duplicates-in-different-towns: "68 Vermont Route 133, West Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 654839: "68 Vermont Route 133, Ira, VT" -->
-    <tag k="addr:city" v="West Rutland"/>
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:street" v="Vermont Route 133"/>
-    <tag k="addr:postcode" v="05777"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69416"/>
-  </node>
-  <node id="-1299" visible="true" lat="43.525627956244" lon="-72.931417945883">
-    <!-- duplicates-in-different-towns: "47 Railroad Drive, North Clarendon, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 226769: "47 Railroad Drive, Shrewsbury, VT" -->
-    <tag k="addr:city" v="North Clarendon"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Railroad Drive"/>
-    <tag k="addr:postcode" v="05759"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338862"/>
-  </node>
-  <node id="-1405" visible="true" lat="43.518064380035" lon="-72.93279630785">
+  <node id="-1403" visible="true" lat="43.518064380035" lon="-72.93279630785">
     <!-- duplicates-in-different-towns: "665 Knipes Drive, North Clarendon, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772947: "665 Knipes Drive, Clarendon, VT" -->
     <tag k="addr:city" v="North Clarendon"/>
     <tag k="addr:housenumber" v="665"/>

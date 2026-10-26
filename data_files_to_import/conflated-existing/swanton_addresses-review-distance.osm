@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-808" visible="true" lat="44.928242487911" lon="-73.121212663889">
+    <!-- offset: "69 Spring Street, Swanton, VT" Significant offset - 108.4m -->
+    <tag k="addr:city" v="Swanton"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Spring Street"/>
+    <tag k="addr:postcode" v="05488"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="255511"/>
+  </node>
+  <node id="-1956" visible="true" lat="44.907835455256" lon="-73.122293522463">
+    <!-- offset: "65 Demers Drive, Swanton, VT" Significant offset - 962m -->
+    <tag k="addr:city" v="Swanton"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Demers Drive"/>
+    <tag k="addr:postcode" v="05488"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="256692"/>
+  </node>
   <node id="-3786" visible="true" lat="44.966455933672" lon="-73.198904713991">
     <!-- offset: "29 Tabor Road, Swanton, VT" Significant offset - 2436.5m -->
     <tag k="addr:city" v="Swanton"/>
@@ -8,5 +26,32 @@
     <tag k="addr:postcode" v="05488"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="336910"/>
+  </node>
+  <node id="-3911" visible="true" lat="44.942788053885" lon="-73.208834508177">
+    <!-- offset: "204 Tabor Road, Swanton, VT" Significant offset - 330.7m -->
+    <tag k="addr:city" v="Swanton"/>
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:street" v="Tabor Road"/>
+    <tag k="addr:postcode" v="05488"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452332"/>
+  </node>
+  <node id="-4082" visible="true" lat="44.922708197358" lon="-73.090072245114">
+    <!-- offset: "10 Endeavors Lane, Swanton, VT" Significant offset - 143.7m -->
+    <tag k="addr:city" v="Swanton"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Endeavors Lane"/>
+    <tag k="addr:postcode" v="05488"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757133"/>
+  </node>
+  <node id="-4144" visible="true" lat="44.875165118147" lon="-73.092104392862">
+    <!-- offset: "63 Bachand Road, Swanton, VT" Significant offset - 257.7m -->
+    <tag k="addr:city" v="Swanton"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Bachand Road"/>
+    <tag k="addr:postcode" v="05488"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770175"/>
   </node>
 </osm>

@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-3319" visible="true" lat="44.374914321375" lon="-73.136434419933">
-    <!-- duplicates-in-different-towns: "157 Scout Farm Road, Williston, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 326474: "157 Scout Farm Road, Saint George, VT" -->
-    <tag k="addr:city" v="Williston"/>
-    <tag k="addr:housenumber" v="157"/>
-    <tag k="addr:street" v="Scout Farm Road"/>
-    <tag k="addr:postcode" v="05495"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="655339"/>
-  </node>
   <node id="-3409" visible="true" lat="44.381193479681" lon="-73.137787956224">
-    <!-- duplicates-in-different-towns: "6707 Vermont Route 116, Shelburne, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 221926: "6707 Vermont Route 116, Saint George, VT" -->
+    <!-- duplicates-in-different-towns: "6707 Vermont Route 116, Shelburne, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 221926: "6707 Vermont Route 116, Williston, VT" -->
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="6707"/>
     <tag k="addr:street" v="Vermont Route 116"/>
@@ -19,7 +10,7 @@
     <tag k="ref:vcgi:esiteid" v="754206"/>
   </node>
   <node id="-3410" visible="true" lat="44.383043092121" lon="-73.13893992573">
-    <!-- duplicates-in-different-towns: "6583 Vermont Route 116, Shelburne, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 221795: "6583 Vermont Route 116, Saint George, VT" -->
+    <!-- duplicates-in-different-towns: "6583 Vermont Route 116, Shelburne, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 221795: "6583 Vermont Route 116, Williston, VT" -->
     <tag k="addr:city" v="Shelburne"/>
     <tag k="addr:housenumber" v="6583"/>
     <tag k="addr:street" v="Vermont Route 116"/>

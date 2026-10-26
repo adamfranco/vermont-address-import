@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1579" visible="true" lat="43.258659841949" lon="-73.123273732341">
-    <!-- duplicates-in-different-towns: "795 Nims Road, Dorset, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 84527: "795 Nims Road, Rupert, VT" -->
-    <tag k="addr:city" v="Dorset"/>
-    <tag k="addr:housenumber" v="795"/>
-    <tag k="addr:street" v="Nims Road"/>
-    <tag k="addr:postcode" v="05251"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454567"/>
-  </node>
-  <node id="-1724" visible="true" lat="43.224362975874" lon="-73.012287041813">
+  <node id="-1723" visible="true" lat="43.224362975874" lon="-73.012287041813">
     <!-- duplicates-in-different-towns: "124 Benedict Road, East Dorset, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 85274: "124 Benedict Road, , VT" -->
     <tag k="addr:city" v="East Dorset"/>
     <tag k="addr:housenumber" v="124"/>

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1138" visible="true" lat="43.824138496231" lon="-72.763073986018">
+    <!-- offset: "887 New Boston Road, Rochester, VT" Significant offset - 349.6m -->
+    <tag k="addr:city" v="Rochester"/>
+    <tag k="addr:housenumber" v="887"/>
+    <tag k="addr:street" v="New Boston Road"/>
+    <tag k="addr:postcode" v="05767"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448939"/>
+  </node>
   <node id="-1152" visible="true" lat="43.89929762496" lon="-72.667001525998">
     <!-- offset: "572 Spooner Road, Randolph, VT" Significant offset - 159m -->
     <tag k="addr:city" v="Randolph"/>
@@ -8,5 +17,23 @@
     <tag k="addr:postcode" v="05060"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454615"/>
+  </node>
+  <node id="-1169" visible="true" lat="43.880257091743" lon="-72.673889707763">
+    <!-- offset: "149 Skyview Lane, Randolph, VT" Significant offset - 209.9m -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:street" v="Skyview Lane"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="754001"/>
+  </node>
+  <node id="-1204" visible="true" lat="43.867503559618" lon="-72.732035076983">
+    <!-- offset: "1366 Charlie Wilson Road, Bethel, VT" Significant offset - 453.8m -->
+    <tag k="addr:city" v="Bethel"/>
+    <tag k="addr:housenumber" v="1366"/>
+    <tag k="addr:street" v="Charlie Wilson Road"/>
+    <tag k="addr:postcode" v="05032"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770970"/>
   </node>
 </osm>

@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1578" visible="true" lat="43.036003496027" lon="-72.564168998334">
+    <!-- offset: "474 Woodland Path, Putney, VT" Significant offset - 284.5m -->
+    <tag k="addr:city" v="Putney"/>
+    <tag k="addr:housenumber" v="474"/>
+    <tag k="addr:street" v="Woodland Path"/>
+    <tag k="addr:postcode" v="05346"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="283939"/>
+  </node>
+  <node id="-1590" visible="true" lat="43.057390788921" lon="-72.574053663211">
+    <!-- offset: "1026 Windmill Hill Road North, Putney, VT" Significant offset - 1042.6m -->
+    <tag k="addr:city" v="Putney"/>
+    <tag k="addr:housenumber" v="1026"/>
+    <tag k="addr:street" v="Windmill Hill Road North"/>
+    <tag k="addr:postcode" v="05346"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="283952"/>
+  </node>
+  <node id="-1636" visible="true" lat="43.033966995123" lon="-72.562027446608">
+    <!-- offset: "230 Woodland Path, Putney, VT" Significant offset - 285.2m -->
+    <tag k="addr:city" v="Putney"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:street" v="Woodland Path"/>
+    <tag k="addr:postcode" v="05346"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="307109"/>
+  </node>
   <node id="-1710" visible="true" lat="43.086363579905" lon="-72.444933530398">
     <!-- offset: "419 Westminster Business Park, Westminster, VT" Significant offset - 111.3m -->
     <tag k="addr:city" v="Westminster"/>
@@ -8,5 +35,32 @@
     <tag k="addr:postcode" v="05158"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450973"/>
+  </node>
+  <node id="-1763" visible="true" lat="43.125741594835" lon="-72.516514178746">
+    <!-- offset: "1619 Hartley Hill Road, Putney, VT" Significant offset - 205m -->
+    <tag k="addr:city" v="Putney"/>
+    <tag k="addr:housenumber" v="1619"/>
+    <tag k="addr:street" v="Hartley Hill Road"/>
+    <tag k="addr:postcode" v="05346"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753736"/>
+  </node>
+  <node id="-1768" visible="true" lat="43.125608690026" lon="-72.514131947723">
+    <!-- offset: "1672 Hartley Hill Road, Putney, VT" Significant offset - 156.4m -->
+    <tag k="addr:city" v="Putney"/>
+    <tag k="addr:housenumber" v="1672"/>
+    <tag k="addr:street" v="Hartley Hill Road"/>
+    <tag k="addr:postcode" v="05346"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757268"/>
+  </node>
+  <node id="-1801" visible="true" lat="43.083124301777" lon="-72.568522151187">
+    <!-- offset: "1964 Old Athens Road, Putney, VT" Significant offset - 243.7m -->
+    <tag k="addr:city" v="Putney"/>
+    <tag k="addr:housenumber" v="1964"/>
+    <tag k="addr:street" v="Old Athens Road"/>
+    <tag k="addr:postcode" v="05346"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050061"/>
   </node>
 </osm>

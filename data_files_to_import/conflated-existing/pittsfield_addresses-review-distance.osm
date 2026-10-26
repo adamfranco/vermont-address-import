@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-274" visible="true" lat="43.832862781332" lon="-72.851906812726">
+    <!-- offset: "98 Mountain Road, Rochester, VT" Significant offset - 179.4m -->
+    <tag k="addr:city" v="Rochester"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:postcode" v="05767"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="187204"/>
+  </node>
+  <node id="-275" visible="true" lat="43.830608147653" lon="-72.850827476223">
+    <!-- offset: "275 Mountain Road, Rochester, VT" Significant offset - 260.6m -->
+    <tag k="addr:city" v="Rochester"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:postcode" v="05767"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="187205"/>
+  </node>
   <node id="-479" visible="true" lat="43.780883389798" lon="-72.797437570611">
     <!-- offset: "275 Vermont Route 100, Stockbridge, VT" Significant offset - 427.2m -->
     <tag k="addr:city" v="Stockbridge"/>

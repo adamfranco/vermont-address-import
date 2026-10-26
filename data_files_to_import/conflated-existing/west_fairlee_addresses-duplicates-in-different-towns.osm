@@ -1,50 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-105" visible="true" lat="43.970475934785" lon="-72.245998291061">
-    <!-- duplicates-in-different-towns: "2524 Beaver Meadow Road, West Fairlee, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 454559: "2524 Beaver Meadow Road, Vershire, VT" -->
-    <tag k="addr:city" v="West Fairlee"/>
-    <tag k="addr:housenumber" v="2524"/>
-    <tag k="addr:street" v="Beaver Meadow Road"/>
-    <tag k="addr:postcode" v="05083"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="267008"/>
-  </node>
-  <node id="-506" visible="true" lat="43.950745561257" lon="-72.25622983512">
-    <!-- duplicates-in-different-towns: "1097 Beaver Meadow Road, West Fairlee, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 267123: "1097 Beaver Meadow Road, Vershire, VT" -->
-    <tag k="addr:city" v="West Fairlee"/>
-    <tag k="addr:housenumber" v="1097"/>
-    <tag k="addr:street" v="Beaver Meadow Road"/>
-    <tag k="addr:postcode" v="05083"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454378"/>
-  </node>
-  <node id="-507" visible="true" lat="43.950855162381" lon="-72.256369475205">
-    <!-- duplicates-in-different-towns: "1099 Beaver Meadow Road, West Fairlee, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 267118: "1099 Beaver Meadow Road, Vershire, VT" -->
-    <tag k="addr:city" v="West Fairlee"/>
-    <tag k="addr:housenumber" v="1099"/>
-    <tag k="addr:street" v="Beaver Meadow Road"/>
-    <tag k="addr:postcode" v="05083"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="454379"/>
-  </node>
-  <node id="-585" visible="true" lat="43.895883590969" lon="-72.25673863064">
-    <!-- duplicates-in-different-towns: "1091 West Fairlee Road, Fairlee, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 258476: "1091 West Fairlee Road, Thetford;West Fairlee, VT" -->
-    <tag k="addr:city" v="Fairlee"/>
-    <tag k="addr:housenumber" v="1091"/>
-    <tag k="addr:street" v="West Fairlee Road"/>
-    <tag k="addr:postcode" v="05045"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750856"/>
-  </node>
-  <node id="-600" visible="true" lat="43.97425949088" lon="-72.243956627406">
-    <!-- duplicates-in-different-towns: "2830 Beaver Meadow Road, West Fairlee, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 1051590: "2830 Beaver Meadow Road, Vershire, VT" -->
-    <tag k="addr:city" v="West Fairlee"/>
-    <tag k="addr:housenumber" v="2830"/>
-    <tag k="addr:street" v="Beaver Meadow Road"/>
-    <tag k="addr:postcode" v="05083"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="754457"/>
-  </node>
   <node id="-616" visible="true" lat="43.934042488225" lon="-72.267062393102">
     <!-- duplicates-in-different-towns: "2661 Vermont Route 113, West Fairlee, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 765494: "2661 Vermont Route 113, Vershire, VT" -->
     <tag k="addr:city" v="West Fairlee"/>

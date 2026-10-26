@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-102" visible="true" lat="44.497563064772" lon="-72.017652010632">
+    <!-- offset: "1370 Industrial Parkway, Saint Johnsbury, VT" Significant offset - 124.4m -->
+    <tag k="addr:city" v="Saint Johnsbury"/>
+    <tag k="addr:housenumber" v="1370"/>
+    <tag k="addr:street" v="Industrial Parkway"/>
+    <tag k="addr:postcode" v="05819"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3401"/>
+  </node>
   <node id="-427" visible="true" lat="44.460550189071" lon="-72.013634092601">
     <!-- offset: "2000 Memorial Drive, Saint Johnsbury, VT" Significant offset - 111.2m -->
     <tag k="addr:city" v="Saint Johnsbury"/>
@@ -27,6 +36,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="246658"/>
   </node>
+  <node id="-2830" visible="true" lat="44.504295966983" lon="-72.049069742851">
+    <!-- offset: "956 Libby Road, Saint Johnsbury, VT" Significant offset - 105.5m -->
+    <tag k="addr:city" v="Saint Johnsbury"/>
+    <tag k="addr:housenumber" v="956"/>
+    <tag k="addr:street" v="Libby Road"/>
+    <tag k="addr:postcode" v="05819"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="247299"/>
+  </node>
+  <node id="-3043" visible="true" lat="44.418137324946" lon="-71.97920835901">
+    <!-- offset: "714 Higgins Hill Road, Saint Johnsbury, VT" Significant offset - 129.6m -->
+    <tag k="addr:city" v="Saint Johnsbury"/>
+    <tag k="addr:housenumber" v="714"/>
+    <tag k="addr:street" v="Higgins Hill Road"/>
+    <tag k="addr:postcode" v="05819"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="445379"/>
+  </node>
   <node id="-3079" visible="true" lat="44.431546788931" lon="-71.961453515608">
     <!-- offset: "100 U.S. Route 2 East, Saint Johnsbury, VT" Significant offset - 117.4m -->
     <tag k="addr:city" v="Saint Johnsbury"/>
@@ -35,5 +62,23 @@
     <tag k="addr:postcode" v="05819"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617688"/>
+  </node>
+  <node id="-3099" visible="true" lat="44.477855424116" lon="-72.068593191437">
+    <!-- offset: "745 Rabbit Plain, Saint Johnsbury, VT" Significant offset - 437.2m -->
+    <tag k="addr:city" v="Saint Johnsbury"/>
+    <tag k="addr:housenumber" v="745"/>
+    <tag k="addr:street" v="Rabbit Plain"/>
+    <tag k="addr:postcode" v="05819"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617988"/>
+  </node>
+  <node id="-3185" visible="true" lat="44.460858153484" lon="-72.007733226407">
+    <!-- offset: "127 Mayhew Drive, Saint Johnsbury, VT" Significant offset - 119.7m -->
+    <tag k="addr:city" v="Saint Johnsbury"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Mayhew Drive"/>
+    <tag k="addr:postcode" v="05819"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="768153"/>
   </node>
 </osm>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
   <node id="-147" visible="true" lat="42.934965250338" lon="-72.855422596983">
-    <!-- conflict: "6 Stone Ridge Loop, West Dover, VT" Fuzzy match to "6 Stone Hill Lane, , VT" -->
+    <!-- conflict: "6 Stone Ridge Loop, West Dover, VT" Fuzzy match to "6 Stone Hill Lane, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Stone Ridge Loop"/>
@@ -10,7 +10,7 @@
     <tag k="ref:vcgi:esiteid" v="85685"/>
   </node>
   <node id="-156" visible="true" lat="42.931113071538" lon="-72.850811139947">
-    <!-- conflict: "8 Dover Green Loop, West Dover, VT" Fuzzy match to "8 Dover Green Road, , VT" -->
+    <!-- conflict: "8 Dover Green Loop, West Dover, VT" Fuzzy match to "8 Dover Green Road, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Dover Green Loop"/>
@@ -19,7 +19,7 @@
     <tag k="ref:vcgi:esiteid" v="85694"/>
   </node>
   <node id="-159" visible="true" lat="42.930142253442" lon="-72.849764145295">
-    <!-- conflict: "14 Dover Green Loop, West Dover, VT" Fuzzy match to "14 Dover Green Road, , VT" -->
+    <!-- conflict: "14 Dover Green Loop, West Dover, VT" Fuzzy match to "14 Dover Green Road, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Dover Green Loop"/>
@@ -28,7 +28,7 @@
     <tag k="ref:vcgi:esiteid" v="85697"/>
   </node>
   <node id="-686" visible="true" lat="42.959329074778" lon="-72.889355484712">
-    <!-- conflict: "4 Carinthia Road, West Dover, VT" Fuzzy match to "4 Carinthia Lane, Dover, VT" -->
+    <!-- conflict: "4 Carinthia Road, West Dover, VT" Fuzzy match to "4 Carinthia Lane, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Carinthia Road"/>
@@ -37,7 +37,7 @@
     <tag k="ref:vcgi:esiteid" v="86279"/>
   </node>
   <node id="-690" visible="true" lat="42.955795874176" lon="-72.88009530572">
-    <!-- conflict: "3 Sunnyside Road, West Dover, VT" Fuzzy match to "3 Sunnyside Lane, , VT" -->
+    <!-- conflict: "3 Sunnyside Road, West Dover, VT" Fuzzy match to "3 Sunnyside Lane, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Sunnyside Road"/>
@@ -55,7 +55,7 @@
     <tag k="ref:vcgi:esiteid" v="86310"/>
   </node>
   <node id="-718" visible="true" lat="42.957607472608" lon="-72.877347584664">
-    <!-- conflict: "12 Challenger Extension, West Dover, VT" Fuzzy match to "12 Challenger Hill, , VT" -->
+    <!-- conflict: "12 Challenger Extension, West Dover, VT" Fuzzy match to "12 Challenger Hill, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Challenger Extension"/>
@@ -73,7 +73,7 @@
     <tag k="ref:vcgi:esiteid" v="86312"/>
   </node>
   <node id="-729" visible="true" lat="42.956307909384" lon="-72.879102327682">
-    <!-- conflict: "4 Sunnyside Lane, West Dover, VT" Fuzzy match to "4 Sunnyside Road, , VT" -->
+    <!-- conflict: "4 Sunnyside Lane, West Dover, VT" Fuzzy match to "4 Sunnyside Road, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Sunnyside Lane"/>
@@ -82,7 +82,7 @@
     <tag k="ref:vcgi:esiteid" v="86322"/>
   </node>
   <node id="-881" visible="true" lat="42.977237794641" lon="-72.895048131117">
-    <!-- conflict: "7 Bartlett Lane Extension, West Dover, VT" Fuzzy match to "7 Bartlett Lane, Dover, VT" -->
+    <!-- conflict: "7 Bartlett Lane Extension, West Dover, VT" Fuzzy match to "7 Bartlett Lane, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Bartlett Lane Extension"/>
@@ -91,7 +91,7 @@
     <tag k="ref:vcgi:esiteid" v="86530"/>
   </node>
   <node id="-1228" visible="true" lat="42.959244406382" lon="-72.829217689909">
-    <!-- conflict: "14 Villager Loop, West Dover, VT" Fuzzy match to "14 Villager Extension, , VT" -->
+    <!-- conflict: "14 Villager Loop, West Dover, VT" Fuzzy match to "14 Villager Extension, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Villager Loop"/>
@@ -100,7 +100,7 @@
     <tag k="ref:vcgi:esiteid" v="86917"/>
   </node>
   <node id="-1274" visible="true" lat="42.955086970585" lon="-72.834914734145">
-    <!-- conflict: "11 Villager Extension, West Dover, VT" Fuzzy match to "11 Villager Loop, , VT" -->
+    <!-- conflict: "11 Villager Extension, West Dover, VT" Fuzzy match to "11 Villager Loop, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Villager Extension"/>
@@ -109,7 +109,7 @@
     <tag k="ref:vcgi:esiteid" v="86963"/>
   </node>
   <node id="-1298" visible="true" lat="42.941549924735" lon="-72.846792062679">
-    <!-- conflict: "1 Summit Meadows Circle, West Dover, VT" Fuzzy match to "1 Summit Meadows Lane, , VT" -->
+    <!-- conflict: "1 Summit Meadows Circle, West Dover, VT" Fuzzy match to "1 Summit Meadows Lane, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Summit Meadows Circle"/>
@@ -118,7 +118,7 @@
     <tag k="ref:vcgi:esiteid" v="86987"/>
   </node>
   <node id="-1313" visible="true" lat="42.939588681107" lon="-72.845092758755">
-    <!-- conflict: "12 Summit Meadows Lane, West Dover, VT" Fuzzy match to "12 Summit Meadows Circle, , VT" -->
+    <!-- conflict: "12 Summit Meadows Lane, West Dover, VT" Fuzzy match to "12 Summit Meadows Circle, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Summit Meadows Lane"/>
@@ -127,7 +127,7 @@
     <tag k="ref:vcgi:esiteid" v="87002"/>
   </node>
   <node id="-1316" visible="true" lat="42.940048945887" lon="-72.844107241823">
-    <!-- conflict: "11 Summit Meadows Lane, West Dover, VT" Fuzzy match to "11 Summit Meadows Circle, , VT" -->
+    <!-- conflict: "11 Summit Meadows Lane, West Dover, VT" Fuzzy match to "11 Summit Meadows Circle, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Summit Meadows Lane"/>
@@ -136,7 +136,7 @@
     <tag k="ref:vcgi:esiteid" v="87005"/>
   </node>
   <node id="-1317" visible="true" lat="42.940425273939" lon="-72.844420547656">
-    <!-- conflict: "7 Summit Meadows Lane, West Dover, VT" Fuzzy match to "7 Summit Meadows Circle, , VT" -->
+    <!-- conflict: "7 Summit Meadows Lane, West Dover, VT" Fuzzy match to "7 Summit Meadows Circle, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Summit Meadows Lane"/>
@@ -145,7 +145,7 @@
     <tag k="ref:vcgi:esiteid" v="87006"/>
   </node>
   <node id="-2150" visible="true" lat="42.958899363467" lon="-72.889148289584">
-    <!-- conflict: "2 Carinthia Road, West Dover, VT" Fuzzy match to "2 Carinthia Lane, Dover, VT" -->
+    <!-- conflict: "2 Carinthia Road, West Dover, VT" Fuzzy match to "2 Carinthia Lane, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Carinthia Road"/>
@@ -154,7 +154,7 @@
     <tag k="ref:vcgi:esiteid" v="88649"/>
   </node>
   <node id="-2403" visible="true" lat="42.939464427863" lon="-72.814108296033">
-    <!-- conflict: "28 Woodsman Road, West Dover, VT" Fuzzy match to "28 Woodsman Road Extension, , VT" -->
+    <!-- conflict: "28 Woodsman Road, West Dover, VT" Fuzzy match to "28 Woodsman Road Extension, West Dover, VT" -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="28"/>
     <tag k="addr:street" v="Woodsman Road"/>

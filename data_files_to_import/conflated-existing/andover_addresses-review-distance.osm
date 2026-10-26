@@ -9,6 +9,24 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="3594"/>
   </node>
+  <node id="-436" visible="true" lat="43.283162658198" lon="-72.70325580353">
+    <!-- offset: "44 Cemetery Road, Chester, VT" Significant offset - 102.7m -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Cemetery Road"/>
+    <tag k="addr:postcode" v="05143"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="3613"/>
+  </node>
+  <node id="-694" visible="true" lat="43.312071132022" lon="-72.696691464581">
+    <!-- offset: "2366 East Hill Road, Chester, VT" Significant offset - 201.3m -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="2366"/>
+    <tag k="addr:street" v="East Hill Road"/>
+    <tag k="addr:postcode" v="05143"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656066"/>
+  </node>
   <node id="-711" visible="true" lat="43.312291686353" lon="-72.682162309886">
     <!-- offset: "596 Steinle Road, Chester, VT" Significant offset - 535.7m -->
     <tag k="addr:city" v="Chester"/>
@@ -17,5 +35,14 @@
     <tag k="addr:postcode" v="05143"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756734"/>
+  </node>
+  <node id="-959" visible="true" lat="43.253988823373" lon="-72.714254790192">
+    <!-- offset: "93 Hillcrest Drive, Chester, VT" Significant offset - 139.4m -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:street" v="Hillcrest Drive"/>
+    <tag k="addr:postcode" v="05143"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769989"/>
   </node>
 </osm>

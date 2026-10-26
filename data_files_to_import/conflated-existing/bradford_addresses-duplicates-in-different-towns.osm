@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-359" visible="true" lat="44.026746343442" lon="-72.102301992966">
-    <!-- duplicates-in-different-towns: "480 Roaring Brook Road, Bradford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 445375: "480 Roaring Brook Road, , VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="480"/>
-    <tag k="addr:street" v="Roaring Brook Road"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="25958"/>
-  </node>
-  <node id="-794" visible="true" lat="44.048637064197" lon="-72.147240057573">
-    <!-- duplicates-in-different-towns: "681 Upper Rogers Road, Bradford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 617808: "681 Upper Rogers Road, , VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="681"/>
-    <tag k="addr:street" v="Upper Rogers Road"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26458"/>
-  </node>
-  <node id="-1053" visible="true" lat="44.047444214142" lon="-72.143825542829">
-    <!-- duplicates-in-different-towns: "487 Upper Rogers Road, Bradford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 617810: "487 Upper Rogers Road, , VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="487"/>
-    <tag k="addr:street" v="Upper Rogers Road"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26720"/>
-  </node>
-  <node id="-1054" visible="true" lat="44.046845325461" lon="-72.14221966155">
-    <!-- duplicates-in-different-towns: "425 Upper Rogers Road, Bradford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 617809: "425 Upper Rogers Road, , VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="425"/>
-    <tag k="addr:street" v="Upper Rogers Road"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26721"/>
-  </node>
-  <node id="-1391" visible="true" lat="43.992707721838" lon="-72.22965412569">
-    <!-- duplicates-in-different-towns: "1900 Camp Munn Road, Bradford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 26087: "1900 Camp Munn Road, West Fairlee, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="1900"/>
-    <tag k="addr:street" v="Camp Munn Road"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341875"/>
-  </node>
-  <node id="-1451" visible="true" lat="43.993944028437" lon="-72.231764325733">
-    <!-- duplicates-in-different-towns: "1784 Camp Munn Road, Bradford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 762712: "1784 Camp Munn Road, , VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="1784"/>
-    <tag k="addr:street" v="Camp Munn Road"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="762711"/>
-  </node>
   <node id="-1458" visible="true" lat="44.054208367915" lon="-72.167880420096">
-    <!-- duplicates-in-different-towns: "2279 Wrights Mountain Road, Bradford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 767242: "2279 Wrights Mountain Road, , VT" -->
+    <!-- duplicates-in-different-towns: "2279 Wrights Mountain Road, Bradford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 767242: "2279 Wrights Mountain Road, East Corinth, VT" -->
     <tag k="addr:city" v="Bradford"/>
     <tag k="addr:housenumber" v="2279"/>
     <tag k="addr:street" v="Wrights Mountain Road"/>

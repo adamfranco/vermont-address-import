@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-664" visible="true" lat="43.635943685869" lon="-72.937225197467">
-    <!-- duplicates-in-different-towns: "82 Best Western Place, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 610899: "82 Best Western Place, , VT" -->
-    <tag k="addr:city" v="Rutland"/>
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Best Western Place"/>
-    <tag k="addr:postcode" v="05701"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="153832"/>
-  </node>
   <node id="-708" visible="true" lat="43.649674974736" lon="-72.935457680082">
     <!-- duplicates-in-different-towns: "485 Esquiline Hill, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 306584: "485 Esquiline Hill, Mendon, VT" -->
     <tag k="addr:city" v="Rutland"/>

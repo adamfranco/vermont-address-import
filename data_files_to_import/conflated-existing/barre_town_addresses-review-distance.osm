@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-100" visible="true" lat="44.167511979927" lon="-72.468347870797">
+    <!-- offset: "227 Websterville Road, Barre, VT" Significant offset - 449.1m -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="227"/>
+    <tag k="addr:street" v="Websterville Road"/>
+    <tag k="addr:postcode" v="05641"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1"/>
+  </node>
+  <node id="-402" visible="true" lat="44.217441045687" lon="-72.522009905451">
+    <!-- offset: "121 Richardson Road, Barre, VT" Significant offset - 12661.1m -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Richardson Road"/>
+    <tag k="addr:postcode" v="05641"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="11211"/>
+  </node>
+  <node id="-511" visible="true" lat="44.215398437965" lon="-72.519698458398">
+    <!-- offset: "73 Richardson Road, Barre, VT" Significant offset - 12211.3m -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Richardson Road"/>
+    <tag k="addr:postcode" v="05641"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="11321"/>
+  </node>
   <node id="-1145" visible="true" lat="44.189525663819" lon="-72.485983766167">
     <!-- offset: "284 Washington Street, Barre, VT" Significant offset - 180.1m -->
     <tag k="addr:city" v="Barre"/>
@@ -44,5 +71,41 @@
     <tag k="addr:postcode" v="05651"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="451325"/>
+  </node>
+  <node id="-3522" visible="true" lat="44.214451970599" lon="-72.511696801609">
+    <!-- offset: "85 Ivan Drive, Barre, VT" Significant offset - 103.9m -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Ivan Drive"/>
+    <tag k="addr:postcode" v="05641"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655351"/>
+  </node>
+  <node id="-3574" visible="true" lat="44.224644845216" lon="-72.434407125998">
+    <!-- offset: "910 Gonyeau Road, Plainfield, VT" Significant offset - 410.1m -->
+    <tag k="addr:city" v="Plainfield"/>
+    <tag k="addr:housenumber" v="910"/>
+    <tag k="addr:street" v="Gonyeau Road"/>
+    <tag k="addr:postcode" v="05667"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757297"/>
+  </node>
+  <node id="-3752" visible="true" lat="44.169670820583" lon="-72.507306873794">
+    <!-- offset: "596 South Barre Road, Barre, VT" Significant offset - 103.1m -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="596"/>
+    <tag k="addr:street" v="South Barre Road"/>
+    <tag k="addr:postcode" v="05641"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766071"/>
+  </node>
+  <node id="-3821" visible="true" lat="44.191123673378" lon="-72.53981992698">
+    <!-- offset: "211 Airport Road, Barre, VT" Significant offset - 566.2m -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:street" v="Airport Road"/>
+    <tag k="addr:postcode" v="05641"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773410"/>
   </node>
 </osm>

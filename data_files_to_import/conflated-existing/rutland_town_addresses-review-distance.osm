@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-151" visible="true" lat="43.664674587076" lon="-73.01059472266">
+    <!-- offset: "267 Crestway Drive, Rutland, VT" Significant offset - 720.3m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="267"/>
+    <tag k="addr:street" v="Crestway Drive"/>
+    <tag k="addr:postcode" v="05765"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="213770"/>
+  </node>
+  <node id="-500" visible="true" lat="43.639091970502" lon="-72.987923838519">
+    <!-- offset: "871 McKinley Avenue, Rutland, VT" Significant offset - 251.3m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="871"/>
+    <tag k="addr:street" v="McKinley Avenue"/>
+    <tag k="addr:postcode" v="05701"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214121"/>
+  </node>
+  <node id="-1241" visible="true" lat="43.605557379199" lon="-72.937852755439">
+    <!-- offset: "272 Notch Road, Rutland, VT" Significant offset - 330.1m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="272"/>
+    <tag k="addr:street" v="Notch Road"/>
+    <tag k="addr:postcode" v="05701"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="214879"/>
+  </node>
   <node id="-1302" visible="true" lat="43.603365999873" lon="-73.005317891554">
     <!-- offset: "46 Ripley Road, Rutland, VT" Significant offset - 102.5m -->
     <tag k="addr:city" v="Rutland"/>
@@ -9,6 +36,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="214952"/>
   </node>
+  <node id="-1871" visible="true" lat="43.666944894794" lon="-72.9806495154">
+    <!-- offset: "151 Oak Ridge Place, Rutland, VT" Significant offset - 161.2m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Oak Ridge Place"/>
+    <tag k="addr:postcode" v="05701"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341241"/>
+  </node>
+  <node id="-1889" visible="true" lat="43.664100079911" lon="-73.011768841674">
+    <!-- offset: "269 Crestway Drive, Rutland, VT" Significant offset - 695.7m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="269"/>
+    <tag k="addr:street" v="Crestway Drive"/>
+    <tag k="addr:postcode" v="05765"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450330"/>
+  </node>
+  <node id="-1952" visible="true" lat="43.66295715986" lon="-72.975298728083">
+    <!-- offset: "450 Blueberry Lane, Rutland, VT" Significant offset - 1727.1m -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:street" v="Blueberry Lane"/>
+    <tag k="addr:postcode" v="05701"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758618"/>
+  </node>
   <node id="-1953" visible="true" lat="43.590232066719" lon="-72.940482290069">
     <!-- offset: "240 Stratton Road, Rutland, VT" Significant offset - 1647.6m -->
     <tag k="addr:city" v="Rutland"/>
@@ -17,5 +71,14 @@
     <tag k="addr:postcode" v="05701"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758851"/>
+  </node>
+  <node id="-2039" visible="true" lat="43.594356894979" lon="-73.009564026161">
+    <!-- offset: "95 Springbrook Place, Center Rutland, VT" Significant offset - 136.8m -->
+    <tag k="addr:city" v="Center Rutland"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:street" v="Springbrook Place"/>
+    <tag k="addr:postcode" v="05736"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772553"/>
   </node>
 </osm>

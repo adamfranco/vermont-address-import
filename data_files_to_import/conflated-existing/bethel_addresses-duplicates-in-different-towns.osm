@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1128" visible="true" lat="43.801144029403" lon="-72.683318871631">
-    <!-- duplicates-in-different-towns: "726 Lilliesville Road, Bethel, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 611487: "726 Lilliesville Road, Stockbridge, VT" -->
-    <tag k="addr:city" v="Bethel"/>
-    <tag k="addr:housenumber" v="726"/>
-    <tag k="addr:street" v="Lilliesville Road"/>
-    <tag k="addr:postcode" v="05032"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="344332"/>
-  </node>
   <node id="-1134" visible="true" lat="43.878011910789" lon="-72.721833052246">
     <!-- duplicates-in-different-towns: "1200 Byam Road, Randolph, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 656480: "1200 Byam Road, , VT" -->
     <tag k="addr:city" v="Randolph"/>
@@ -26,14 +17,5 @@
     <tag k="addr:postcode" v="05032"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365702"/>
-  </node>
-  <node id="-1138" visible="true" lat="43.824138496231" lon="-72.763073986018">
-    <!-- duplicates-in-different-towns: "887 New Boston Road, Rochester, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 454640: "887 New Boston Road, Stockbridge, VT" -->
-    <tag k="addr:city" v="Rochester"/>
-    <tag k="addr:housenumber" v="887"/>
-    <tag k="addr:street" v="New Boston Road"/>
-    <tag k="addr:postcode" v="05767"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="448939"/>
   </node>
 </osm>

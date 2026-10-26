@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-101" visible="true" lat="44.218557637446" lon="-73.186967377769">
+    <!-- offset: "268 Nuthatch Lane, North Ferrisburg, VT" Significant offset - 167.2m -->
+    <tag k="addr:city" v="North Ferrisburg"/>
+    <tag k="addr:housenumber" v="268"/>
+    <tag k="addr:street" v="Nuthatch Lane"/>
+    <tag k="addr:postcode" v="05473"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="319"/>
+  </node>
   <node id="-108" visible="true" lat="44.263475315557" lon="-73.227840633574">
     <!-- offset: "54 Line Drive, Charlotte, VT" Significant offset - 101m -->
     <tag k="addr:city" v="Charlotte"/>
@@ -18,6 +27,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="108145"/>
   </node>
+  <node id="-1443" visible="true" lat="44.210439793775" lon="-73.264585490383">
+    <!-- offset: "655 Hawkins Road, Ferrisburgh, VT" Significant offset - 109m -->
+    <tag k="addr:city" v="Ferrisburgh"/>
+    <tag k="addr:housenumber" v="655"/>
+    <tag k="addr:street" v="Hawkins Road"/>
+    <tag k="addr:postcode" v="05456"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="108226"/>
+  </node>
+  <node id="-1539" visible="true" lat="44.209952662305" lon="-73.264486879703">
+    <!-- offset: "571 Hawkins Road, Ferrisburgh, VT" Significant offset - 109.4m -->
+    <tag k="addr:city" v="Ferrisburgh"/>
+    <tag k="addr:housenumber" v="571"/>
+    <tag k="addr:street" v="Hawkins Road"/>
+    <tag k="addr:postcode" v="05456"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="108327"/>
+  </node>
+  <node id="-1767" visible="true" lat="44.162028207089" lon="-73.226560668125">
+    <!-- offset: "442 Plank Road, Vergennes, VT" Significant offset - 109.1m -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="442"/>
+    <tag k="addr:street" v="Plank Road"/>
+    <tag k="addr:postcode" v="05491"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452667"/>
+  </node>
   <node id="-1783" visible="true" lat="44.171883751752" lon="-73.239907001095">
     <!-- offset: "115 Monkton Road, Vergennes, VT" Significant offset - 262.9m -->
     <tag k="addr:city" v="Vergennes"/>
@@ -26,5 +62,41 @@
     <tag k="addr:postcode" v="05491"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454787"/>
+  </node>
+  <node id="-1863" visible="true" lat="44.230486808399" lon="-73.248934054968">
+    <!-- offset: "292 Westin Road, Ferrisburgh, VT" Significant offset - 142m -->
+    <tag k="addr:city" v="Ferrisburgh"/>
+    <tag k="addr:housenumber" v="292"/>
+    <tag k="addr:street" v="Westin Road"/>
+    <tag k="addr:postcode" v="05456"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="761209"/>
+  </node>
+  <node id="-1894" visible="true" lat="44.258261617929" lon="-73.219922743128">
+    <!-- offset: "430 Old Hollow Road, North Ferrisburg, VT" Significant offset - 120.9m -->
+    <tag k="addr:city" v="North Ferrisburg"/>
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:street" v="Old Hollow Road"/>
+    <tag k="addr:postcode" v="05473"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767744"/>
+  </node>
+  <node id="-1900" visible="true" lat="44.250150874611" lon="-73.194109609486">
+    <!-- offset: "630 Hand Road, North Ferrisburg, VT" Significant offset - 165.1m -->
+    <tag k="addr:city" v="North Ferrisburg"/>
+    <tag k="addr:housenumber" v="630"/>
+    <tag k="addr:street" v="Hand Road"/>
+    <tag k="addr:postcode" v="05473"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769450"/>
+  </node>
+  <node id="-1908" visible="true" lat="44.187354165197" lon="-73.251144413732">
+    <!-- offset: "123 Tuppers Crossing, Ferrisburgh, VT" Significant offset - 220.4m -->
+    <tag k="addr:city" v="Ferrisburgh"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Tuppers Crossing"/>
+    <tag k="addr:postcode" v="05456"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772614"/>
   </node>
 </osm>

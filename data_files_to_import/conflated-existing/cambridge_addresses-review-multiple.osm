@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-287" visible="true" lat="44.669609540409" lon="-72.802612139904">
+    <!-- multiple: "2121 Vermont Route 109, Waterville, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Waterville"/>
+    <tag k="addr:housenumber" v="2121"/>
+    <tag k="addr:street" v="Vermont Route 109"/>
+    <tag k="addr:postcode" v="05492"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="57291"/>
+  </node>
   <node id="-547" visible="true" lat="44.645620567738" lon="-72.82774065637">
     <!-- multiple: "49 School Street, Jeffersonville, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Jeffersonville"/>

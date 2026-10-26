@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-100" visible="true" lat="43.942564366975" lon="-73.257442951571">
-    <!-- duplicates-in-different-towns: "2886 Vermont Route 74, Shoreham, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 449573: "2886 Vermont Route 74, Cornwall, VT" -->
-    <tag k="addr:city" v="Shoreham"/>
-    <tag k="addr:housenumber" v="2886"/>
-    <tag k="addr:street" v="Vermont Route 74"/>
-    <tag k="addr:postcode" v="05770"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="78264"/>
-  </node>
-  <node id="-834" visible="true" lat="43.844175836941" lon="-73.364210299001">
-    <!-- duplicates-in-different-towns: "57 Meadow Lane, Shoreham, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 184670: "57 Meadow Lane, Orwell, VT" -->
-    <tag k="addr:city" v="Shoreham"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Meadow Lane"/>
-    <tag k="addr:postcode" v="05770"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341539"/>
-  </node>
   <node id="-911" visible="true" lat="43.853461482747" lon="-73.348309077364">
     <!-- duplicates-in-different-towns: "2047 Barnum Hill Road, Shoreham, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772960: "2047 Barnum Hill Road, , VT" -->
     <tag k="addr:city" v="Shoreham"/>

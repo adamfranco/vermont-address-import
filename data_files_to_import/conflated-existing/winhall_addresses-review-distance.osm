@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1199" visible="true" lat="43.1207286637" lon="-72.881303116027">
+    <!-- offset: "125 Upper Taylor Hill Road, Winhall, VT" Significant offset - 121.5m -->
+    <tag k="addr:city" v="Winhall"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:street" v="Upper Taylor Hill Road"/>
+    <tag k="addr:postcode" v="05340"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="298062"/>
+  </node>
+  <node id="-1819" visible="true" lat="43.152781351441" lon="-72.866267257319">
+    <!-- offset: "8 Wall Street, Winhall, VT" Significant offset - 102.4m -->
+    <tag k="addr:city" v="Winhall"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Wall Street"/>
+    <tag k="addr:postcode" v="05340"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="332299"/>
+  </node>
+  <node id="-1836" visible="true" lat="43.183445438207" lon="-72.904614317011">
+    <!-- offset: "214 French Hollow Road, Winhall, VT" Significant offset - 114.9m -->
+    <tag k="addr:city" v="Winhall"/>
+    <tag k="addr:housenumber" v="214"/>
+    <tag k="addr:street" v="French Hollow Road"/>
+    <tag k="addr:postcode" v="05340"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342853"/>
+  </node>
   <node id="-1892" visible="true" lat="43.148323190049" lon="-72.910756083958">
     <!-- offset: "83 Pumpkin Mill Way, Winhall, VT" Significant offset - 114m -->
     <tag k="addr:city" v="Winhall"/>
@@ -8,5 +35,14 @@
     <tag k="addr:postcode" v="05340"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="752420"/>
+  </node>
+  <node id="-1893" visible="true" lat="43.208887011768" lon="-72.982895899287">
+    <!-- offset: "187 Vermont Route 11 30, Winhall, VT" Significant offset - 707.1m -->
+    <tag k="addr:city" v="Winhall"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="Vermont Route 11 30"/>
+    <tag k="addr:postcode" v="05340"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="755067"/>
   </node>
 </osm>

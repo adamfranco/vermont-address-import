@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-276" visible="true" lat="43.141729415904" lon="-72.831341918452">
+    <!-- offset: "8015 Vermont Route 30, Jamaica, VT" Significant offset - 155.5m -->
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="8015"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="134669"/>
+  </node>
   <node id="-491" visible="true" lat="43.105641266089" lon="-72.773301211863">
     <!-- offset: "48 Salmon Hole Lane, Jamaica, VT" Significant offset - 2509m -->
     <tag k="addr:city" v="Jamaica"/>
@@ -8,5 +17,41 @@
     <tag k="addr:postcode" v="05343"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="134887"/>
+  </node>
+  <node id="-957" visible="true" lat="43.061476235028" lon="-72.867451210361">
+    <!-- offset: "230 West Jamaica Road, Jamaica, VT" Significant offset - 219.6m -->
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:street" v="West Jamaica Road"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135372"/>
+  </node>
+  <node id="-1151" visible="true" lat="43.083324766863" lon="-72.724135400677">
+    <!-- offset: "7280 Vermont Route 30, Windham, VT" Significant offset - 234.8m -->
+    <tag k="addr:city" v="Windham"/>
+    <tag k="addr:housenumber" v="7280"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:postcode" v="05359"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="317647"/>
+  </node>
+  <node id="-1239" visible="true" lat="43.072126874568" lon="-72.870459166121">
+    <!-- offset: "124 Forrester Road, West Wardsboro, VT" Significant offset - 137.8m -->
+    <tag k="addr:city" v="West Wardsboro"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="Forrester Road"/>
+    <tag k="addr:postcode" v="05360"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="616439"/>
+  </node>
+  <node id="-1665" visible="true" lat="43.09809220522" lon="-72.867065097884">
+    <!-- offset: "120 Hamilton Hill Road, Jamaica, VT" Significant offset - 105.6m -->
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="Hamilton Hill Road"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655875"/>
   </node>
 </osm>

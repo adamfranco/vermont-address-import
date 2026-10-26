@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-310" visible="true" lat="43.831486379692" lon="-72.514213589527">
-    <!-- duplicates-in-different-towns: "44 Old Route 110, South Royalton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 610083: "44 Old Route 110, , VT" -->
-    <tag k="addr:city" v="South Royalton"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Old Route 110"/>
-    <tag k="addr:postcode" v="05068"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="205984"/>
-  </node>
   <node id="-854" visible="true" lat="43.8097727977" lon="-72.515832211872">
     <!-- duplicates-in-different-towns: "71 Manouvelos Lane, South Royalton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 206891: "71 Manouvelos Lane, , VT" -->
     <tag k="addr:city" v="South Royalton"/>
@@ -27,24 +18,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="206891"/>
   </node>
-  <node id="-1287" visible="true" lat="43.85175078646" lon="-72.505449863634">
-    <!-- duplicates-in-different-towns: "4 Vermont Route 110, South Royalton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 338716: "4 Vermont Route 110, , VT" -->
-    <tag k="addr:city" v="South Royalton"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Vermont Route 110"/>
-    <tag k="addr:postcode" v="05068"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="326609"/>
-  </node>
-  <node id="-1326" visible="true" lat="43.827880680408" lon="-72.611491905185">
-    <!-- duplicates-in-different-towns: "127 White Oak Lane, Bethel, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 24936: "127 White Oak Lane, , VT" -->
-    <tag k="addr:city" v="Bethel"/>
-    <tag k="addr:housenumber" v="127"/>
-    <tag k="addr:street" v="White Oak Lane"/>
-    <tag k="addr:postcode" v="05032"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="341264"/>
-  </node>
   <node id="-1335" visible="true" lat="43.829298828202" lon="-72.527862204369">
     <!-- duplicates-in-different-towns: "164 Happy Hollow Road, South Royalton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 656476: "164 Happy Hollow Road, , VT" -->
     <tag k="addr:city" v="South Royalton"/>
@@ -53,23 +26,5 @@
     <tag k="addr:postcode" v="05068"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365695"/>
-  </node>
-  <node id="-1346" visible="true" lat="43.869942657235" lon="-72.576456066947">
-    <!-- duplicates-in-different-towns: "445 Gage Road, Bethel, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 24930: "445 Gage Road, , VT" -->
-    <tag k="addr:city" v="Bethel"/>
-    <tag k="addr:housenumber" v="445"/>
-    <tag k="addr:street" v="Gage Road"/>
-    <tag k="addr:postcode" v="05032"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450354"/>
-  </node>
-  <node id="-1359" visible="true" lat="43.839629039861" lon="-72.467891981516">
-    <!-- duplicates-in-different-towns: "2975 Dairy Hill Road, South Royalton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 262621: "2975 Dairy Hill Road, , VT" -->
-    <tag k="addr:city" v="South Royalton"/>
-    <tag k="addr:housenumber" v="2975"/>
-    <tag k="addr:street" v="Dairy Hill Road"/>
-    <tag k="addr:postcode" v="05068"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453568"/>
   </node>
 </osm>

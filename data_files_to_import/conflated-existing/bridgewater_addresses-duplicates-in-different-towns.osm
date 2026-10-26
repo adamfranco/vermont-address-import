@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-437" visible="true" lat="43.588760087313" lon="-72.655885133571">
-    <!-- duplicates-in-different-towns: "256 Upper Road, Bridgewater Corners, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 769568: "256 Upper Road, , VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="256"/>
-    <tag k="addr:street" v="Upper Road"/>
-    <tag k="addr:postcode" v="05035"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36803"/>
-  </node>
   <node id="-760" visible="true" lat="43.612752662868" lon="-72.735402536294">
     <!-- duplicates-in-different-towns: "858 Laber Road, Bridgewater Corners, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 344820: "858 Laber Road, Bridgewater, VT" -->
     <tag k="addr:city" v="Bridgewater Corners"/>
@@ -26,15 +17,6 @@
     <tag k="addr:postcode" v="05035"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="765293"/>
-  </node>
-  <node id="-814" visible="true" lat="43.589178097833" lon="-72.655598552215">
-    <!-- duplicates-in-different-towns: "256 Upper Road, Bridgewater Corners, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 769568: "256 Upper Road, , VT" -->
-    <tag k="addr:city" v="Bridgewater Corners"/>
-    <tag k="addr:housenumber" v="256"/>
-    <tag k="addr:street" v="Upper Road"/>
-    <tag k="addr:postcode" v="05035"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="769569"/>
   </node>
   <node id="-822" visible="true" lat="43.595386028072" lon="-72.665798951286">
     <!-- duplicates-in-different-towns: "267 Holiday Farm Road, Bridgewater Corners, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 612121: "267 Holiday Farm Road, Bridgewater, VT" -->

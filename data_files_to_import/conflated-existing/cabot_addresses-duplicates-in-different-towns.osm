@@ -9,7 +9,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="449708"/>
   </node>
-  <node id="-1061" visible="true" lat="44.404033681013" lon="-72.303107964193">
+  <node id="-1062" visible="true" lat="44.404033681013" lon="-72.303107964193">
     <!-- duplicates-in-different-towns: "30 Garden Way, Cabot, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 449708: "30 Garden Way, , VT" -->
     <tag k="addr:city" v="Cabot"/>
     <tag k="addr:housenumber" v="30"/>
@@ -18,8 +18,8 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770934"/>
   </node>
-  <node id="-1062" visible="true" lat="44.439041586651" lon="-72.26745674739">
-    <!-- duplicates-in-different-towns: "995 Route 215, Cabot, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 771367: "995 Route 215, , VT" -->
+  <node id="-1063" visible="true" lat="44.439041586651" lon="-72.26745674739">
+    <!-- duplicates-in-different-towns: "995 Route 215, Cabot, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 771367: "995 Route 215, West Danville, VT" -->
     <tag k="addr:city" v="Cabot"/>
     <tag k="addr:housenumber" v="995"/>
     <tag k="addr:street" v="Route 215"/>
