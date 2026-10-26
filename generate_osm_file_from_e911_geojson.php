@@ -824,7 +824,7 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
     // Saint George has a road called "Whitetail Path" that is incorrectly in E911
     // as "White Tail Path". (esiteid: 765361, 765363, 765364, 765365)
     // The "White Tail" roads in other towns seem to mostly be two-words on the signs.
-    if ($street_name_title_cased == "White Tail" && $street_suffix == 'PATH' && $town_name == 'SAINT GEORGE') {
+    if ($street_name_title_cased == "White Tail" && $street_suffix == 'Path' && strtoupper($town_name) == 'SAINT GEORGE') {
         $street_name_title_cased = "Whitetail";
     }
 
@@ -837,14 +837,14 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
     // For the Winooski case, "LaFountain" is probably a good compromise as it
     // matches "Lafountain" in case-insensitive searches while preserving the
     // distinction on the street signs.
-    if ($street_name_title_cased == "Lafountain" && $street_suffix == 'ST' && $town_name == 'WINOOSKI') {
+    if ($street_name_title_cased == "Lafountain" && $street_suffix == 'Street' && strtoupper($town_name) == 'WINOOSKI') {
         $street_name_title_cased = "LaFountain";
     }
 
     // The Winooski street, "LaPointe St" is signed with an upper case P and no space.
     // Winooski city documents refer to it as "LaPointe Street" or "LaPointe Street"
     // but not "La Pointe Street" in documents on the city website.
-    if ($street_name_title_cased == "Lapointe" && $street_suffix == 'ST' && $town_name == 'WINOOSKI') {
+    if ($street_name_title_cased == "Lapointe" && $street_suffix == 'Street' && strtoupper($town_name) == 'WINOOSKI') {
         $street_name_title_cased = "LaPointe";
     }
 
