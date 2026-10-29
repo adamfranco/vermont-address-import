@@ -641,6 +641,10 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
         $street_name_title_cased = "Maggie's Pond";
     }
 
+    if ($street_name_title_cased == "O Gorman" || $street_name_title_cased == "Ogorman") {
+        $street_name_title_cased = "O'Gorman";
+    }
+
     // Craftsbury has a Road name "Pete's Greens" that is missing the possesive.
     // (esiteid: 79318)
     if ($street_name_title_cased == "Petes Greens") {

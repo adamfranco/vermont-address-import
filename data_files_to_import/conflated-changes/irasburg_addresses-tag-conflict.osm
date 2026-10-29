@@ -27,22 +27,4 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620259"/>
   </node>
-  <node id="-801" visible="true" lat="44.837929471605" lon="-72.290592155685">
-    <!-- conflict: "1782 14, Irasburg, VT" No match in OSM, but a different address exists <5m away: "1782 Vermont Route 14, , VT" -->
-    <tag k="addr:city" v="Irasburg"/>
-    <tag k="addr:housenumber" v="1782"/>
-    <tag k="addr:street" v="14"/>
-    <tag k="addr:postcode" v="05845"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="773056"/>
-  </node>
-  <node id="-802" visible="true" lat="44.837454632415" lon="-72.290412479089">
-    <!-- conflict: "1784 14, Irasburg, VT" No match in OSM, but a different address exists <5m away: "1784 Vermont Route 14, , VT" -->
-    <tag k="addr:city" v="Irasburg"/>
-    <tag k="addr:housenumber" v="1784"/>
-    <tag k="addr:street" v="14"/>
-    <tag k="addr:postcode" v="05845"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="773057"/>
-  </node>
 </osm>

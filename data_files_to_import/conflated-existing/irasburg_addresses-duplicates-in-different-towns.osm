@@ -9,4 +9,22 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773038"/>
   </node>
+  <node id="-801" visible="true" lat="44.837929471605" lon="-72.290592155685">
+    <!-- duplicates-in-different-towns: "1782 Vermont Route 14, Irasburg, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773057: "1782 Vermont Route 14, , VT" -->
+    <tag k="addr:city" v="Irasburg"/>
+    <tag k="addr:housenumber" v="1782"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:postcode" v="05845"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773056"/>
+  </node>
+  <node id="-802" visible="true" lat="44.837454632415" lon="-72.290412479089">
+    <!-- duplicates-in-different-towns: "1784 Vermont Route 14, Irasburg, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773058: "1784 Vermont Route 14, , VT" -->
+    <tag k="addr:city" v="Irasburg"/>
+    <tag k="addr:housenumber" v="1784"/>
+    <tag k="addr:street" v="Vermont Route 14"/>
+    <tag k="addr:postcode" v="05845"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773057"/>
+  </node>
 </osm>
