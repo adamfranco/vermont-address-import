@@ -460,6 +460,16 @@ function build_street_name($feature_properties) {
         }
     }
 
+    // Tinmouth. "Vermont Route 133" or "Morgan Road" are valid, but USPS gets
+    // confused by both as the street.
+    // ESITEID 259932 and others.
+    if ($feature_properties['ALIAS1'] == 'ROUTE 133 - MORGAN RD') {
+      return "Morgan Road";
+    }
+    if ($feature_properties['ALIAS1'] == 'ROUTE 133 - WEST TINMOUTH RD') {
+      return "West Tinmouth Road";
+    }
+
     return trim(implode(" ", $streetNameParts));
 }
 
