@@ -424,6 +424,12 @@ function build_street_name($feature_properties) {
     // St_Name:  Street Name.
     if (!empty($feature_properties['St_Name'])) {
         $value = trim($feature_properties['St_Name']);
+        // Case where St_NAME is just 110 and St_PreTyp is missing.
+        // Get the name from PRIMARYNAME.
+        if (preg_match('/^\d+$/', $value) && preg_match('/^VT ROUTE \d+/', $feature_properties['PRIMARYNAME']) && empty($feature_properties['St_PreTyp'])) {
+          $value = "Vermont Route " . $value;
+        }
+
         $value = normalize_street_base_name($value, $feature_properties['St_PosTyp'], $feature_properties['Inc_Muni']);
         if (!empty($value)) {
             $streetNameParts[] = $value;
