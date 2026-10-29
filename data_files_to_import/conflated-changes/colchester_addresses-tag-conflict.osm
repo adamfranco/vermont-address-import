@@ -1,68 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-3783" visible="true" lat="44.538179410959" lon="-73.24425109495">
-    <!-- conflict: "97 Bay Meadow Estate, Colchester, VT" Fuzzy match to "97 Bay Meadow Estates, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="Bay Meadow Estate"/>
-    <tag k="addr:postcode" v="05446"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="73561"/>
-  </node>
-  <node id="-3794" visible="true" lat="44.537889840302" lon="-73.243902701561">
-    <!-- conflict: "121 Bay Meadow Estate, Colchester, VT" Fuzzy match to "121 Bay Meadow Estates, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="Bay Meadow Estate"/>
-    <tag k="addr:postcode" v="05446"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="73573"/>
-  </node>
-  <node id="-3807" visible="true" lat="44.537573909575" lon="-73.243678679636">
-    <!-- conflict: "141 Bay Meadow Estate, Colchester, VT" Fuzzy match to "141 Bay Meadow Estates, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="141"/>
-    <tag k="addr:street" v="Bay Meadow Estate"/>
-    <tag k="addr:postcode" v="05446"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="73588"/>
-  </node>
-  <node id="-5349" visible="true" lat="44.498534627692" lon="-73.157945560008">
-    <!-- conflict: "122 Johnson Avenue, Colchester, VT" No match in OSM, but a different address exists <5m away: "192 Johnson Avenue, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="122"/>
-    <tag k="addr:street" v="Johnson Avenue"/>
-    <tag k="addr:postcode" v="05446"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="75436"/>
-  </node>
-  <node id="-6634" visible="true" lat="44.545882530055" lon="-73.245321919273">
-    <!-- conflict: "85 Barnabas Court, Colchester, VT" No match in OSM, but a different address exists <5m away: "93 Barnabas Court, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:street" v="Barnabas Court"/>
-    <tag k="addr:postcode" v="05446"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="656087"/>
-  </node>
-  <node id="-6636" visible="true" lat="44.545420148876" lon="-73.245143550726">
-    <!-- conflict: "282 Barnabas Court, Colchester, VT" No match in OSM, but a different address exists <5m away: "72 Barnabas Court, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="282"/>
-    <tag k="addr:street" v="Barnabas Court"/>
-    <tag k="addr:postcode" v="05446"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="656089"/>
-  </node>
-  <node id="-6639" visible="true" lat="44.545973271881" lon="-73.245154147284">
-    <!-- conflict: "97 Barnabas Court, Colchester, VT" No match in OSM, but a different address exists <5m away: "95 Barnabas Court, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="Barnabas Court"/>
-    <tag k="addr:postcode" v="05446"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="656092"/>
-  </node>
   <node id="-6640" visible="true" lat="44.545738063287" lon="-73.243484085259">
     <!-- conflict: "175 Barnabas Court, Colchester, VT" No match in OSM, but a different address exists <5m away: "171 Barnabas Court, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
@@ -80,14 +17,5 @@
     <tag k="addr:postcode" v="05446"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656096"/>
-  </node>
-  <node id="-6938" visible="true" lat="44.529542702742" lon="-73.207767729796">
-    <!-- conflict: "624 Malletts Bay Avenue, Colchester, VT" No match in OSM, but a different address exists <5m away: "634 Malletts Bay Avenue, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="624"/>
-    <tag k="addr:street" v="Malletts Bay Avenue"/>
-    <tag k="addr:postcode" v="05446"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="767315"/>
   </node>
 </osm>

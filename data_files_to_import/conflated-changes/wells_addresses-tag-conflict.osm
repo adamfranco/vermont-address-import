@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
   <node id="-101" visible="true" lat="43.404944332967" lon="-73.121600065907">
-    <!-- conflict: "438 Vermont Route 133 Road West Tinmouth, Pawlet, VT" No match in OSM, but a different address exists <5m away: "438 Vermont Route 133 West Tinmouth Road, Wells, VT" -->
+    <!-- conflict: "438 West Tinmouth Road, Pawlet, VT" No match in OSM, but a different address exists <5m away: "438 Vermont Route 133 West Tinmouth Road, Wells, VT" -->
     <tag k="addr:city" v="Pawlet"/>
     <tag k="addr:housenumber" v="438"/>
-    <tag k="addr:street" v="Vermont Route 133 Road West Tinmouth"/>
+    <tag k="addr:street" v="West Tinmouth Road"/>
     <tag k="addr:postcode" v="05761"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260217"/>
   </node>
   <node id="-571" visible="true" lat="43.423506904551" lon="-73.121686566891">
-    <!-- conflict: "156 Vermont Route 133 Road West Tinmouth, Wells, VT" No match in OSM, but a different address exists <5m away: "156 Vermont Route 133 West Tinmouth Road, Wells, VT" -->
+    <!-- conflict: "156 West Tinmouth Road, Wells, VT" No match in OSM, but a different address exists <5m away: "156 Vermont Route 133 West Tinmouth Road, Wells, VT" -->
     <tag k="addr:city" v="Wells"/>
     <tag k="addr:housenumber" v="156"/>
-    <tag k="addr:street" v="Vermont Route 133 Road West Tinmouth"/>
+    <tag k="addr:street" v="West Tinmouth Road"/>
     <tag k="addr:postcode" v="05774"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="278320"/>

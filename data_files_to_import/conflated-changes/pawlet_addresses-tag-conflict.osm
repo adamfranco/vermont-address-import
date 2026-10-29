@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
   <node id="-528" visible="true" lat="43.403165486558" lon="-73.121175329441">
-    <!-- conflict: "450 Vermont Route 133 Road West Tinmouth, Pawlet, VT" No match in OSM, but a different address exists <5m away: "450 Vermont Route 133 West Tinmouth Road, Pawlet, VT" -->
+    <!-- conflict: "450 West Tinmouth Road, Pawlet, VT" No match in OSM, but a different address exists <5m away: "450 Vermont Route 133 West Tinmouth Road, Pawlet, VT" -->
     <tag k="addr:city" v="Pawlet"/>
     <tag k="addr:housenumber" v="450"/>
-    <tag k="addr:street" v="Vermont Route 133 Road West Tinmouth"/>
+    <tag k="addr:street" v="West Tinmouth Road"/>
     <tag k="addr:postcode" v="05761"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="260220"/>
