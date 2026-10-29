@@ -385,19 +385,19 @@ function build_street_name($feature_properties) {
 
     $streetNameParts = [];
 
-    // St_PreMod:  Street Name Pre Modifier. Precedes and is separated from street name by a pre type and/or pre direction. The "Old" in "Old North Church Street", for example.
-    if(!empty($feature_properties['St_PreMod'])) {
-        $value = trim($feature_properties['St_PreMod']);
-        if (!empty($value)) {
-          $streetNameParts[] = $value;
-        }
-    }
-
     // St_PreDir: Street Name Pre Directional. North, South, East, West, Northeast, etc.
     if (!empty($feature_properties['St_PreDir'])) {
         $value = trim($feature_properties['St_PreDir']);
         if (!empty($value)) {
             $streetNameParts[] = $value;
+        }
+    }
+
+    // St_PreMod:  Street Name Pre Modifier. Precedes and is separated from street name by a pre type and/or pre direction. The "Old" in "Old North Church Street", for example.
+    if(!empty($feature_properties['St_PreMod'])) {
+        $value = trim($feature_properties['St_PreMod']);
+        if (!empty($value)) {
+          $streetNameParts[] = $value;
         }
     }
 
