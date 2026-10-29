@@ -27,13 +27,4 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611302"/>
   </node>
-  <node id="-1284" visible="true" lat="42.762838640509" lon="-72.877622615136">
-    <!-- duplicates-in-different-towns: "1213 Kentfield Road, Whitingham, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 769779: "1213 Kentfield Road, , VT" -->
-    <tag k="addr:city" v="Whitingham"/>
-    <tag k="addr:housenumber" v="1213"/>
-    <tag k="addr:street" v="Kentfield Road"/>
-    <tag k="addr:postcode" v="05361"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="646520"/>
-  </node>
 </osm>

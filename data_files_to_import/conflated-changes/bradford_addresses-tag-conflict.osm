@@ -9,17 +9,8 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="25694"/>
   </node>
-  <node id="-385" visible="true" lat="43.994085298234" lon="-72.128359231053">
-    <!-- conflict: "137 Main Street, Bradford, VT" Fuzzy match to "137 South Main Street, Bradford, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="137"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="25987"/>
-  </node>
   <node id="-460" visible="true" lat="43.978586011116" lon="-72.124709104544">
-    <!-- conflict: "270 Lake Morey Lake Morey Road, Bradford, VT" No match in OSM, but a different address exists <5m away: "270 Lake Morey Road, , VT" -->
+    <!-- conflict: "270 Lake Morey Lake Morey Road, Bradford, VT" No match in OSM, but a different address exists <5m away: "270 Lake Morey Road, Bradford, VT" -->
     <tag k="addr:city" v="Bradford"/>
     <tag k="addr:housenumber" v="270"/>
     <tag k="addr:street" v="Lake Morey Lake Morey Road"/>
@@ -36,51 +27,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="26210"/>
   </node>
-  <node id="-717" visible="true" lat="43.997922884707" lon="-72.125872300444">
-    <!-- conflict: "214 North Main Street, Bradford, VT" Fuzzy match to "214 Main Street, Bradford, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="214"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26381"/>
-  </node>
-  <node id="-838" visible="true" lat="43.982716799729" lon="-72.12055591776">
-    <!-- conflict: "757 Lower Plain, Bradford, VT" Fuzzy match to "757 Lower Plain Road, Bradford, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="757"/>
-    <tag k="addr:street" v="Lower Plain"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26502"/>
-  </node>
-  <node id="-852" visible="true" lat="43.993953815462" lon="-72.127915594254">
-    <!-- conflict: "134 Main Street, Bradford, VT" Fuzzy match to "134 South Main Street, Bradford, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="134"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26516"/>
-  </node>
-  <node id="-858" visible="true" lat="43.994761648225" lon="-72.129311668633">
-    <!-- conflict: "105 North Pleasant Street, Bradford, VT" Fuzzy match to "105 South Pleasant Street, Bradford, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="North Pleasant Street"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26522"/>
-  </node>
-  <node id="-981" visible="true" lat="43.997768283015" lon="-72.126802177982">
-    <!-- conflict: "173 North Main Street, Bradford, VT" Fuzzy match to "173 Main Street, Bradford, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="173"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26647"/>
-  </node>
   <node id="-1056" visible="true" lat="44.042737078576" lon="-72.128386436862">
     <!-- conflict: "481 Ogorman Road, Bradford, VT" Fuzzy match to "481 O Gorman Road, , VT" -->
     <tag k="addr:city" v="Bradford"/>
@@ -89,50 +35,5 @@
     <tag k="addr:postcode" v="05033"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="26723"/>
-  </node>
-  <node id="-1081" visible="true" lat="43.996589459632" lon="-72.127271080289">
-    <!-- conflict: "94 North Main Street, Bradford, VT" Fuzzy match to "94 South Main Street, Bradford, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="94"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26748"/>
-  </node>
-  <node id="-1095" visible="true" lat="43.99746835361" lon="-72.127709479979">
-    <!-- conflict: "137 North Main Street, Bradford, VT" Fuzzy match to "137 South Main Street, Bradford, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="137"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26763"/>
-  </node>
-  <node id="-1120" visible="true" lat="43.995995879255" lon="-72.127999397368">
-    <!-- conflict: "45 North Main Street, Bradford, VT" Fuzzy match to "45 South Main Street, Bradford, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26788"/>
-  </node>
-  <node id="-1133" visible="true" lat="43.993127396739" lon="-72.127603660591">
-    <!-- conflict: "64 Main Street, Bradford, VT" Fuzzy match to "64 South Main Street, Bradford, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26801"/>
-  </node>
-  <node id="-1221" visible="true" lat="43.991130748547" lon="-72.130326969213">
-    <!-- conflict: "172 South Main Street, Bradford, VT" Fuzzy match to "172 Main Street, Bradford, VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="172"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26894"/>
   </node>
 </osm>

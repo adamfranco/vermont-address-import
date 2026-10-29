@@ -36,15 +36,6 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="13960"/>
   </node>
-  <node id="-3734" visible="true" lat="44.214938120248" lon="-72.511432234476">
-    <!-- duplicates-in-different-towns: "69 Ivan Drive, Barre, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 759180: "69 Ivan Drive, Barre Town, VT" -->
-    <tag k="addr:city" v="Barre"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Ivan Drive"/>
-    <tag k="addr:postcode" v="05641"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="765680"/>
-  </node>
   <node id="-3816" visible="true" lat="44.166765333857" lon="-72.541195471441">
     <!-- duplicates-in-different-towns: "17 Sherman Drive, Barre, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773017: "17 Sherman Drive, , VT" -->
     <tag k="addr:city" v="Barre"/>

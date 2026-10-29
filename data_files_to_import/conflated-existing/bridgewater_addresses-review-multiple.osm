@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-444" visible="true" lat="43.588444975833" lon="-72.65954709226">
+    <!-- multiple: "5520 U.S. Route 4, Bridgewater Corners, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Bridgewater Corners"/>
+    <tag k="addr:housenumber" v="5520"/>
+    <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:postcode" v="05035"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="36810"/>
+  </node>
   <node id="-492" visible="true" lat="43.587801083137" lon="-72.624005395517">
     <!-- multiple: "45 Southgate Loop, Bridgewater, VT" Multiple exact matches in OSM. -->
     <tag k="addr:city" v="Bridgewater"/>

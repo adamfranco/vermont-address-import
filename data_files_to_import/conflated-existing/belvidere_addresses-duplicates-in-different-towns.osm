@@ -9,13 +9,4 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365694"/>
   </node>
-  <node id="-366" visible="true" lat="44.778237857545" lon="-72.620961448199">
-    <!-- duplicates-in-different-towns: "55 Burroughs Way, Belvidere Center, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 446083: "55 Burroughs Way, Belvidere, VT" -->
-    <tag k="addr:city" v="Belvidere Center"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:street" v="Burroughs Way"/>
-    <tag k="addr:postcode" v="05442"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="773574"/>
-  </node>
 </osm>
