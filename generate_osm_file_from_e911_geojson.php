@@ -440,7 +440,7 @@ function build_street_name($feature_properties) {
     if (!empty($feature_properties['St_PosTyp'])) {
         $value = trim($feature_properties['St_PosTyp']);
         if (!empty($value)) {
-            $streetNameParts[] = $value;
+            $streetNameParts[] = expand_street_name_suffix($value);
         }
     }
 
@@ -914,10 +914,10 @@ function expand_street_name_suffix($street_name_suffix) {
                             "alley" => "Alley",
                             "ally" => "Alley",
                             "aly" => "Alley",
-                            "anex" => "Anex",
-                            "annex" => "Anex",
-                            "annx" => "Anex",
-                            "anx" => "Anex",
+                            "anex" => "Annex",
+                            "annex" => "Annex",
+                            "annx" => "Annex",
+                            "anx" => "Annex",
                             "arc" => "Arcade",
                             "arcade" => "Arcade",
                             "av" => "Avenue",
@@ -1435,7 +1435,7 @@ function expand_street_name_suffix($street_name_suffix) {
     if(array_key_exists($street_name_suffix, $street_suffixes)) {
         $expanded_suffix = $street_suffixes[$street_name_suffix];
     } else {
-        $expanded_suffix = $street_name_suffix;
+        $expanded_suffix = ucfirst($street_name_suffix);
     }
 
     return $expanded_suffix;
