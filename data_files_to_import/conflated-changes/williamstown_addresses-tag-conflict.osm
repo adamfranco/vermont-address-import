@@ -99,6 +99,42 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287379"/>
   </node>
+  <node id="-287387" visible="true" lat="44.127936037492" lon="-72.501286767317">
+    <!-- conflict: "130 MacLean Road, Williamstown, VT" Fuzzy match to "130 Maclean Road, Williamstown, VT" -->
+    <tag k="addr:city" v="Williamstown"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="MacLean Road"/>
+    <tag k="addr:postcode" v="05679"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287387"/>
+  </node>
+  <node id="-287399" visible="true" lat="44.127545725852" lon="-72.501710164421">
+    <!-- conflict: "141 MacLean Road, Williamstown, VT" Fuzzy match to "141 Maclean Road, Williamstown, VT" -->
+    <tag k="addr:city" v="Williamstown"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="MacLean Road"/>
+    <tag k="addr:postcode" v="05679"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287399"/>
+  </node>
+  <node id="-287405" visible="true" lat="44.127394492142" lon="-72.500182504132">
+    <!-- conflict: "57 MacLean Road, Williamstown, VT" Fuzzy match to "57 Maclean Road, Williamstown, VT" -->
+    <tag k="addr:city" v="Williamstown"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="MacLean Road"/>
+    <tag k="addr:postcode" v="05679"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287405"/>
+  </node>
+  <node id="-341529" visible="true" lat="44.12822365677" lon="-72.502130804262">
+    <!-- conflict: "164 MacLean Road, Williamstown, VT" Fuzzy match to "164 Maclean Road, Williamstown, VT" -->
+    <tag k="addr:city" v="Williamstown"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="MacLean Road"/>
+    <tag k="addr:postcode" v="05679"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341529"/>
+  </node>
   <node id="-451304" visible="true" lat="44.136264937883" lon="-72.538482918821">
     <!-- conflict: "344 Old Town Road, Williamstown, VT" No match in OSM, but a different address exists <5m away: "228 Old Town Road, , VT" -->
     <tag k="addr:city" v="Williamstown"/>

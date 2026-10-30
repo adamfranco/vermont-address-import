@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-29956" visible="true" lat="42.870638718111" lon="-72.615441133186">
-    <!-- conflict: "17 Autumn Hill Road, Brattleboro, VT" No match in OSM, but a different address exists <5m away: "17 Windward Drive, Brattleboro, VT" -->
+  <node id="-34633" visible="true" lat="42.859198716453" lon="-72.58639112292">
+    <!-- conflict: "88 MacIntosh Lane, Brattleboro, VT" Fuzzy match to "88 Macintosh Lane, Brattleboro, VT" -->
     <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Autumn Hill Road"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="MacIntosh Lane"/>
     <tag k="addr:postcode" v="05301"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="29956"/>
+    <tag k="ref:vcgi:esiteid" v="34633"/>
+  </node>
+  <node id="-34650" visible="true" lat="42.858717706018" lon="-72.58663451833">
+    <!-- conflict: "80 MacIntosh Lane, Brattleboro, VT" Fuzzy match to "80 Macintosh Lane, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="MacIntosh Lane"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="34650"/>
+  </node>
+  <node id="-34655" visible="true" lat="42.857975372145" lon="-72.586503545719">
+    <!-- conflict: "62 MacIntosh Lane, Brattleboro, VT" Fuzzy match to "62 Macintosh Lane, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="MacIntosh Lane"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="34655"/>
+  </node>
+  <node id="-34657" visible="true" lat="42.857748716219" lon="-72.585711121751">
+    <!-- conflict: "45 MacIntosh Lane, Brattleboro, VT" Fuzzy match to "45 Macintosh Lane, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="MacIntosh Lane"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="34657"/>
   </node>
 </osm>

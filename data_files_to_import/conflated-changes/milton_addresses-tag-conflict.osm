@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-160817" visible="true" lat="44.588646241591" lon="-73.134577782339">
+    <!-- conflict: "33 MacKenzie Lane, Milton, VT" Fuzzy match to "33 Mackenzie Lane, Milton, VT" -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="MacKenzie Lane"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160817"/>
+  </node>
+  <node id="-160818" visible="true" lat="44.588583291382" lon="-73.137671884223">
+    <!-- conflict: "88 MacKenzie Lane, Milton, VT" Fuzzy match to "88 Mackenzie Lane, Milton, VT" -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="MacKenzie Lane"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160818"/>
+  </node>
+  <node id="-772662" visible="true" lat="44.588230636518" lon="-73.13359969699">
+    <!-- conflict: "31 MacKenzie Lane, Milton, VT" Fuzzy match to "31 Mackenzie Lane, Milton, VT" -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="MacKenzie Lane"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772662"/>
+  </node>
+  <node id="-772663" visible="true" lat="44.588441040456" lon="-73.134771981939">
+    <!-- conflict: "35 MacKenzie Lane, Milton, VT" Fuzzy match to "35 Mackenzie Lane, Milton, VT" -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="MacKenzie Lane"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772663"/>
+  </node>
   <node id="-772809" visible="true" lat="44.625246147875" lon="-73.148078252379">
     <!-- conflict: "529 7 South, Milton, VT" No match in OSM, but a different address exists <5m away: "529 U.S. Route 7 South, Milton, VT" -->
     <tag k="addr:city" v="Milton"/>

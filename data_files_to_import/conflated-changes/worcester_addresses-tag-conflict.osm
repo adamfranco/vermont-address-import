@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-1437" visible="true" lat="44.373843115073" lon="-72.579791565396">
+    <!-- conflict: "218 MacKenzie Drive, Worcester, VT" Fuzzy match to "218 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1437"/>
+  </node>
   <node id="-304443" visible="true" lat="44.385063196879" lon="-72.54122798511">
     <!-- conflict: "206 Wildlife Way, Worcester, VT" No match in OSM, but a different address exists <5m away: "96 Pratt Road, Worcester, VT" -->
     <tag k="addr:city" v="Worcester"/>
@@ -18,6 +27,60 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="304465"/>
   </node>
+  <node id="-304478" visible="true" lat="44.381720175263" lon="-72.580913046515">
+    <!-- conflict: "48 MacKenzie Drive, Worcester, VT" Fuzzy match to "48 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304478"/>
+  </node>
+  <node id="-304497" visible="true" lat="44.379311454473" lon="-72.58115110889">
+    <!-- conflict: "130 MacKenzie Drive, Worcester, VT" Fuzzy match to "130 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304497"/>
+  </node>
+  <node id="-304526" visible="true" lat="44.374903170048" lon="-72.582412585759">
+    <!-- conflict: "186 MacKenzie Drive, Worcester, VT" Fuzzy match to "186 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304526"/>
+  </node>
+  <node id="-304532" visible="true" lat="44.374472237746" lon="-72.584208987904">
+    <!-- conflict: "199 MacKenzie Drive, Worcester, VT" Fuzzy match to "199 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304532"/>
+  </node>
+  <node id="-304544" visible="true" lat="44.374009543304" lon="-72.584725650419">
+    <!-- conflict: "213 MacKenzie Drive, Worcester, VT" Fuzzy match to "213 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="213"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304544"/>
+  </node>
+  <node id="-304666" visible="true" lat="44.374028011834" lon="-72.58373171803">
+    <!-- conflict: "208 MacKenzie Drive, Worcester, VT" Fuzzy match to "208 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304666"/>
+  </node>
   <node id="-304671" visible="true" lat="44.396078051343" lon="-72.568025924195">
     <!-- conflict: "65 Trail 18, Worcester, VT" No match in OSM, but a different address exists <5m away: "65 Trl 18, Worcester, VT" -->
     <tag k="addr:city" v="Worcester"/>
@@ -26,6 +89,15 @@
     <tag k="addr:postcode" v="05682"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="304671"/>
+  </node>
+  <node id="-304680" visible="true" lat="44.38407891097" lon="-72.581145845656">
+    <!-- conflict: "12 MacKenzie Drive, Worcester, VT" Fuzzy match to "12 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304680"/>
   </node>
   <node id="-758085" visible="true" lat="44.398247535219" lon="-72.565598185526">
     <!-- conflict: "66 Trail 18, Worcester, VT" No match in OSM, but a different address exists <5m away: "66 Trl 18, Worcester, VT" -->

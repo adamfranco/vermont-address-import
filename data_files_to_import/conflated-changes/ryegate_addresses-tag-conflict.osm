@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
+  <node id="-215900" visible="true" lat="44.191402629974" lon="-72.144493003898">
+    <!-- conflict: "61 MacKennon Drive, South Ryegate, VT" Fuzzy match to "61 Mackennon Drive, South Ryegate, VT" -->
+    <tag k="addr:city" v="South Ryegate"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="MacKennon Drive"/>
+    <tag k="addr:postcode" v="05069"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215900"/>
+  </node>
+  <node id="-215903" visible="true" lat="44.191179593295" lon="-72.144555874134">
+    <!-- conflict: "49 MacKennon Drive, South Ryegate, VT" Fuzzy match to "49 Mackennon Drive, South Ryegate, VT" -->
+    <tag k="addr:city" v="South Ryegate"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="MacKennon Drive"/>
+    <tag k="addr:postcode" v="05069"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215903"/>
+  </node>
   <node id="-1050859" visible="true" lat="44.194964275915" lon="-72.072960324644">
     <!-- conflict: "4340 Interstate 91, East Ryegate, VT" No match in OSM, but a different address exists <5m away: "4340 Interstate 91 South, , VT" -->
     <tag k="addr:city" v="East Ryegate"/>

@@ -1,33 +1,285 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-100018786" visible="true" lat="42.880093690593" lon="-73.20443858174">
-    <!-- conflict: "46 Vervana Way, Bennington, VT" No match in OSM, but a different address exists <5m away: "141 1/2 Main Street, Bennington, VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Vervana Way"/>
-    <tag k="addr:postcode" v="05201"/>
+  <node id="-10007327" visible="true" lat="44.296185924532" lon="-72.122865047034">
+    <!-- conflict: "16 MacLeroy Lane, Barnet, VT" Fuzzy match to "16 Macleroy Lane, Barnet, VT" -->
+    <tag k="addr:city" v="Barnet"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="MacLeroy Lane"/>
+    <tag k="addr:postcode" v="05821"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18786"/>
+    <tag k="ref:vcgi:esiteid" v="7327"/>
   </node>
-  <node id="-100018825" visible="true" lat="42.87976882974" lon="-73.204848003631">
-    <!-- conflict: "60 Vervana Way, Bennington, VT" No match in OSM, but a different address exists <5m away: "141 1/2 Main Street, Bennington, VT" -->
-    <tag k="addr:city" v="Bennington"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Vervana Way"/>
-    <tag k="addr:postcode" v="05201"/>
+  <node id="-10007344" visible="true" lat="44.295385740372" lon="-72.120632727339">
+    <!-- conflict: "124 MacLeroy Lane, Barnet, VT" Fuzzy match to "124 Macleroy Lane, Barnet, VT" -->
+    <tag k="addr:city" v="Barnet"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="MacLeroy Lane"/>
+    <tag k="addr:postcode" v="05821"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="18825"/>
+    <tag k="ref:vcgi:esiteid" v="7344"/>
   </node>
-  <node id="-100125694" visible="true" lat="44.042877265926" lon="-72.127560238801">
-    <!-- conflict: "461 O'Gorman Road, Bradford, VT" Fuzzy match to "461 O Gorman Road, , VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="461"/>
-    <tag k="addr:street" v="O'Gorman Road"/>
-    <tag k="addr:postcode" v="05033"/>
+  <node id="-10007346" visible="true" lat="44.29557021086" lon="-72.121631479165">
+    <!-- conflict: "116 MacLeroy Lane, Barnet, VT" Fuzzy match to "116 Macleroy Lane, Barnet, VT" -->
+    <tag k="addr:city" v="Barnet"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:street" v="MacLeroy Lane"/>
+    <tag k="addr:postcode" v="05821"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="25694"/>
+    <tag k="ref:vcgi:esiteid" v="7346"/>
   </node>
-  <node id="-100126092" visible="true" lat="43.978586011116" lon="-72.124709104544">
+  <node id="-100124011" visible="true" lat="43.908663854416" lon="-72.702820429047">
+    <!-- conflict: "2577 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "2577 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2577"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24011"/>
+  </node>
+  <node id="-100124595" visible="true" lat="43.877817461686" lon="-72.6921477119">
+    <!-- conflict: "158 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "158 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24595"/>
+  </node>
+  <node id="-100124596" visible="true" lat="43.882995490734" lon="-72.691973629146">
+    <!-- conflict: "562 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "562 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="562"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24596"/>
+  </node>
+  <node id="-100124597" visible="true" lat="43.885342807131" lon="-72.692102829758">
+    <!-- conflict: "718 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "718 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="718"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24597"/>
+  </node>
+  <node id="-100124598" visible="true" lat="43.886847803876" lon="-72.692117545077">
+    <!-- conflict: "830 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "830 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="830"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24598"/>
+  </node>
+  <node id="-100124611" visible="true" lat="43.889568058878" lon="-72.691582430128">
+    <!-- conflict: "1022 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1022 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1022"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24611"/>
+  </node>
+  <node id="-100124612" visible="true" lat="43.893451088577" lon="-72.692799793486">
+    <!-- conflict: "1312 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1312 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1312"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24612"/>
+  </node>
+  <node id="-100124613" visible="true" lat="43.893832748972" lon="-72.691469880515">
+    <!-- conflict: "1314 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1314 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1314"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24613"/>
+  </node>
+  <node id="-100124614" visible="true" lat="43.893698999398" lon="-72.690661383311">
+    <!-- conflict: "1316 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1316 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1316"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24614"/>
+  </node>
+  <node id="-100124615" visible="true" lat="43.896183340661" lon="-72.696250741194">
+    <!-- conflict: "1538 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1538 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1538"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24615"/>
+  </node>
+  <node id="-100124616" visible="true" lat="43.897595486269" lon="-72.698222772017">
+    <!-- conflict: "1718 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1718 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1718"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24616"/>
+  </node>
+  <node id="-100124617" visible="true" lat="43.897869676219" lon="-72.698121948748">
+    <!-- conflict: "1720 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1720 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1720"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24617"/>
+  </node>
+  <node id="-100124618" visible="true" lat="43.908548258854" lon="-72.703481712925">
+    <!-- conflict: "2551 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "2551 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2551"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24618"/>
+  </node>
+  <node id="-100124620" visible="true" lat="43.89813597099" lon="-72.701632755887">
+    <!-- conflict: "1839 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1839 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1839"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24620"/>
+  </node>
+  <node id="-100124621" visible="true" lat="43.89417248046" lon="-72.694487677319">
+    <!-- conflict: "1357 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1357 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1357"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24621"/>
+  </node>
+  <node id="-100124622" visible="true" lat="43.891899982797" lon="-72.69295680182">
+    <!-- conflict: "1215 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1215 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1215"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24622"/>
+  </node>
+  <node id="-100124623" visible="true" lat="43.89114668073" lon="-72.692574777064">
+    <!-- conflict: "1133 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1133 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1133"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24623"/>
+  </node>
+  <node id="-100124624" visible="true" lat="43.889277066603" lon="-72.6922412181">
+    <!-- conflict: "941 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "941 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="941"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24624"/>
+  </node>
+  <node id="-100124625" visible="true" lat="43.887959642712" lon="-72.692366032142">
+    <!-- conflict: "917 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "917 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="917"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24625"/>
+  </node>
+  <node id="-100124626" visible="true" lat="43.885716412292" lon="-72.69276456925">
+    <!-- conflict: "735 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "735 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="735"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24626"/>
+  </node>
+  <node id="-100124627" visible="true" lat="43.883800805302" lon="-72.69294369277">
+    <!-- conflict: "591 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "591 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="591"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24627"/>
+  </node>
+  <node id="-100124628" visible="true" lat="43.879657745417" lon="-72.693631675032">
+    <!-- conflict: "341 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "341 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="341"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24628"/>
+  </node>
+  <node id="-100124956" visible="true" lat="43.892765908713" lon="-72.693752480914">
+    <!-- conflict: "1359 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1359 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1359"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="24956"/>
+  </node>
+  <node id="-1001337281" visible="true" lat="43.880058911058" lon="-72.696529467641">
+    <!-- conflict: "343 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "343 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="343"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337281"/>
+  </node>
+  <node id="-1001337282" visible="true" lat="43.905980293875" lon="-72.700783031884">
+    <!-- conflict: "2274 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "2274 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="2274"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337282"/>
+  </node>
+  <node id="-1001337286" visible="true" lat="43.893452780595" lon="-72.695817498938">
+    <!-- conflict: "1361 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "1361 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="1361"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="337286"/>
+  </node>
+  <node id="-1001344088" visible="true" lat="43.88945722324" lon="-72.691776770468">
+    <!-- conflict: "967 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "967 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="967"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344088"/>
+  </node>
+  <node id="-1001760194" visible="true" lat="43.887162726097" lon="-72.691434429598">
+    <!-- conflict: "888 MacIntosh Hill Road, Randolph, VT" Fuzzy match to "888 Macintosh Hill Road, Randolph, VT" -->
+    <tag k="addr:city" v="Randolph"/>
+    <tag k="addr:housenumber" v="888"/>
+    <tag k="addr:street" v="MacIntosh Hill Road"/>
+    <tag k="addr:postcode" v="05060"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="760194"/>
+  </node>
+  <node id="-100226092" visible="true" lat="43.978586011116" lon="-72.124709104544">
     <!-- conflict: "270 Lake Morey Lake Morey Road, Bradford, VT" No match in OSM, but a different address exists <5m away: "270 Lake Morey Road, Bradford, VT" -->
     <tag k="addr:city" v="Bradford"/>
     <tag k="addr:housenumber" v="270"/>
@@ -36,50 +288,50 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="26092"/>
   </node>
-  <node id="-100126210" visible="true" lat="44.043080156767" lon="-72.1277075266">
-    <!-- conflict: "459 O'Gorman Road, Bradford, VT" Fuzzy match to "459 O Gorman Road, , VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="459"/>
-    <tag k="addr:street" v="O'Gorman Road"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26210"/>
-  </node>
-  <node id="-100126723" visible="true" lat="44.042737078576" lon="-72.128386436862">
-    <!-- conflict: "481 O'Gorman Road, Bradford, VT" Fuzzy match to "481 O Gorman Road, , VT" -->
-    <tag k="addr:city" v="Bradford"/>
-    <tag k="addr:housenumber" v="481"/>
-    <tag k="addr:street" v="O'Gorman Road"/>
-    <tag k="addr:postcode" v="05033"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="26723"/>
-  </node>
-  <node id="-100229956" visible="true" lat="42.870638718111" lon="-72.615441133186">
-    <!-- conflict: "17 Autumn Hill Road, Brattleboro, VT" No match in OSM, but a different address exists <5m away: "17 Windward Drive, Brattleboro, VT" -->
+  <node id="-100334633" visible="true" lat="42.859198716453" lon="-72.58639112292">
+    <!-- conflict: "88 MacIntosh Lane, Brattleboro, VT" Fuzzy match to "88 Macintosh Lane, Brattleboro, VT" -->
     <tag k="addr:city" v="Brattleboro"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="Autumn Hill Road"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="MacIntosh Lane"/>
     <tag k="addr:postcode" v="05301"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="29956"/>
+    <tag k="ref:vcgi:esiteid" v="34633"/>
   </node>
-  <node id="-100338700" visible="true" lat="44.772621918884" lon="-71.915832241841">
-    <!-- conflict: "661 Davis Road, Island Pond, VT" No match in OSM, but a different address exists <5m away: "605 Davis Road, Island Pond, VT" -->
-    <tag k="addr:city" v="Island Pond"/>
-    <tag k="addr:housenumber" v="661"/>
-    <tag k="addr:street" v="Davis Road"/>
-    <tag k="addr:postcode" v="05846"/>
+  <node id="-100334650" visible="true" lat="42.858717706018" lon="-72.58663451833">
+    <!-- conflict: "80 MacIntosh Lane, Brattleboro, VT" Fuzzy match to "80 Macintosh Lane, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="MacIntosh Lane"/>
+    <tag k="addr:postcode" v="05301"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="38700"/>
+    <tag k="ref:vcgi:esiteid" v="34650"/>
   </node>
-  <node id="-1004774219" visible="true" lat="44.737527732104" lon="-71.632898201463">
-    <!-- conflict: "890 Vermont Route 102, Guildhall, VT" No match in OSM, but a different address exists <5m away: "890 102, Guildhall, VT" -->
-    <tag k="addr:city" v="Guildhall"/>
-    <tag k="addr:housenumber" v="890"/>
-    <tag k="addr:street" v="Vermont Route 102"/>
-    <tag k="addr:postcode" v="05905"/>
+  <node id="-100334655" visible="true" lat="42.857975372145" lon="-72.586503545719">
+    <!-- conflict: "62 MacIntosh Lane, Brattleboro, VT" Fuzzy match to "62 Macintosh Lane, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="MacIntosh Lane"/>
+    <tag k="addr:postcode" v="05301"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="774219"/>
+    <tag k="ref:vcgi:esiteid" v="34655"/>
+  </node>
+  <node id="-100334657" visible="true" lat="42.857748716219" lon="-72.585711121751">
+    <!-- conflict: "45 MacIntosh Lane, Brattleboro, VT" Fuzzy match to "45 Macintosh Lane, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="MacIntosh Lane"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="34657"/>
+  </node>
+  <node id="-100440763" visible="true" lat="44.000158735979" lon="-72.521747616742">
+    <!-- conflict: "161 MacRedey Road, Brookfield, VT" Fuzzy match to "161 Macredey Road, Brookfield, VT" -->
+    <tag k="addr:city" v="Brookfield"/>
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="addr:street" v="MacRedey Road"/>
+    <tag k="addr:postcode" v="05036"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="40763"/>
   </node>
   <node id="-100553912" visible="true" lat="44.506833832704" lon="-73.245075434438">
     <!-- conflict: "1127 North Avenue, North Burlington, VT" Fuzzy match to "1127 North Avenue, Burlington, VT" -->
@@ -90,14 +342,473 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="53912"/>
   </node>
-  <node id="-100669926" visible="true" lat="44.568685003775" lon="-73.101708867578">
-    <!-- conflict: "312 Brigham Hill Road, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "320 Brigham Hill Road, Essex Junction, VT" -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="312"/>
-    <tag k="addr:street" v="Brigham Hill Road"/>
-    <tag k="addr:postcode" v="05452"/>
+  <node id="-100673642" visible="true" lat="44.5366241175" lon="-73.244127105517">
+    <!-- conflict: "167 MacRae Road, Colchester, VT" Fuzzy match to "167 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69926"/>
+    <tag k="ref:vcgi:esiteid" v="73642"/>
+  </node>
+  <node id="-100673644" visible="true" lat="44.536392882173" lon="-73.246980234856">
+    <!-- conflict: "25 MacRae Road, Colchester, VT" Fuzzy match to "25 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73644"/>
+  </node>
+  <node id="-100673679" visible="true" lat="44.535954890973" lon="-73.246522451868">
+    <!-- conflict: "73 MacRae Road, Colchester, VT" Fuzzy match to "73 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73679"/>
+  </node>
+  <node id="-100673683" visible="true" lat="44.535880312501" lon="-73.247165792685">
+    <!-- conflict: "48 MacRae Road, Colchester, VT" Fuzzy match to "48 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73683"/>
+  </node>
+  <node id="-100673697" visible="true" lat="44.535658563536" lon="-73.246124969802">
+    <!-- conflict: "101 MacRae Road, Colchester, VT" Fuzzy match to "101 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73697"/>
+  </node>
+  <node id="-100673698" visible="true" lat="44.535737287645" lon="-73.246944786713">
+    <!-- conflict: "66 MacRae Road, Colchester, VT" Fuzzy match to "66 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73698"/>
+  </node>
+  <node id="-100673710" visible="true" lat="44.535611389862" lon="-73.246664607224">
+    <!-- conflict: "82 MacRae Road, Colchester, VT" Fuzzy match to "82 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73710"/>
+  </node>
+  <node id="-100673717" visible="true" lat="44.535472007049" lon="-73.246418116115">
+    <!-- conflict: "98 MacRae Road, Colchester, VT" Fuzzy match to "98 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73717"/>
+  </node>
+  <node id="-100673729" visible="true" lat="44.535271061511" lon="-73.245326254483">
+    <!-- conflict: "151 MacRae Road, Colchester, VT" Fuzzy match to "151 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73729"/>
+  </node>
+  <node id="-100673738" visible="true" lat="44.535157618818" lon="-73.246079945018">
+    <!-- conflict: "124 MacRae Road, Colchester, VT" Fuzzy match to "124 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73738"/>
+  </node>
+  <node id="-100673742" visible="true" lat="44.535066065052" lon="-73.244866871918">
+    <!-- conflict: "169 MacRae Road, Colchester, VT" Fuzzy match to "169 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73742"/>
+  </node>
+  <node id="-100673746" visible="true" lat="44.534983711279" lon="-73.245750223865">
+    <!-- conflict: "142 MacRae Road, Colchester, VT" Fuzzy match to "142 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73746"/>
+  </node>
+  <node id="-100673761" visible="true" lat="44.534753456679" lon="-73.24533282512">
+    <!-- conflict: "168 MacRae Road, Colchester, VT" Fuzzy match to "168 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73761"/>
+  </node>
+  <node id="-100673771" visible="true" lat="44.53477240654" lon="-73.244206046064">
+    <!-- conflict: "221 MacRae Road, Colchester, VT" Fuzzy match to "221 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73771"/>
+  </node>
+  <node id="-100673780" visible="true" lat="44.53452473567" lon="-73.244934630183">
+    <!-- conflict: "194 MacRae Road, Colchester, VT" Fuzzy match to "194 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73780"/>
+  </node>
+  <node id="-100673786" visible="true" lat="44.534285598945" lon="-73.244489535521">
+    <!-- conflict: "224 MacRae Road, Colchester, VT" Fuzzy match to "224 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73786"/>
+  </node>
+  <node id="-100673819" visible="true" lat="44.533979936307" lon="-73.244021770695">
+    <!-- conflict: "254 MacRae Road, Colchester, VT" Fuzzy match to "254 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="254"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73819"/>
+  </node>
+  <node id="-100673847" visible="true" lat="44.533875371995" lon="-73.243145110498">
+    <!-- conflict: "295 MacRae Road, Colchester, VT" Fuzzy match to "295 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="295"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73847"/>
+  </node>
+  <node id="-100673852" visible="true" lat="44.533674299509" lon="-73.243710622048">
+    <!-- conflict: "284 MacRae Road, Colchester, VT" Fuzzy match to "284 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73852"/>
+  </node>
+  <node id="-100673866" visible="true" lat="44.533394177607" lon="-73.243512584877">
+    <!-- conflict: "302 MacRae Road, Colchester, VT" Fuzzy match to "302 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73866"/>
+  </node>
+  <node id="-100673871" visible="true" lat="44.533530273833" lon="-73.242919928514">
+    <!-- conflict: "323 MacRae Road, Colchester, VT" Fuzzy match to "323 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="323"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73871"/>
+  </node>
+  <node id="-100673893" visible="true" lat="44.533151941123" lon="-73.242681783041">
+    <!-- conflict: "353 MacRae Road, Colchester, VT" Fuzzy match to "353 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="353"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73893"/>
+  </node>
+  <node id="-100673931" visible="true" lat="44.532746487434" lon="-73.242443213056">
+    <!-- conflict: "385 MacRae Road, Colchester, VT" Fuzzy match to "385 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="385"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73931"/>
+  </node>
+  <node id="-100673936" visible="true" lat="44.532682414177" lon="-73.242390944797">
+    <!-- conflict: "387 MacRae Road, Colchester, VT" Fuzzy match to "387 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="387"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73936"/>
+  </node>
+  <node id="-100673990" visible="true" lat="44.53195399957" lon="-73.241818764145">
+    <!-- conflict: "431 MacRae Road, Colchester, VT" Fuzzy match to "431 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="431"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73990"/>
+  </node>
+  <node id="-100674011" visible="true" lat="44.531727267295" lon="-73.241695193187">
+    <!-- conflict: "453 MacRae Road, Colchester, VT" Fuzzy match to "453 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="453"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74011"/>
+  </node>
+  <node id="-100674023" visible="true" lat="44.531440477508" lon="-73.242127060505">
+    <!-- conflict: "450 MacRae Road, Colchester, VT" Fuzzy match to "450 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74023"/>
+  </node>
+  <node id="-100674030" visible="true" lat="44.531374765004" lon="-73.241436195471">
+    <!-- conflict: "491 MacRae Road, Colchester, VT" Fuzzy match to "491 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="491"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74030"/>
+  </node>
+  <node id="-100674044" visible="true" lat="44.531143563104" lon="-73.241169957809">
+    <!-- conflict: "501 MacRae Road, Colchester, VT" Fuzzy match to "501 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74044"/>
+  </node>
+  <node id="-100674084" visible="true" lat="44.530213770229" lon="-73.240510485716">
+    <!-- conflict: "571 MacRae Road, Colchester, VT" Fuzzy match to "571 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="571"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74084"/>
+  </node>
+  <node id="-100674087" visible="true" lat="44.530222042055" lon="-73.238870227002">
+    <!-- conflict: "621 MacRae Road, Colchester, VT" Fuzzy match to "621 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="621"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74087"/>
+  </node>
+  <node id="-100674095" visible="true" lat="44.529901979043" lon="-73.240906999526">
+    <!-- conflict: "576 MacRae Road, Colchester, VT" Fuzzy match to "576 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="576"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74095"/>
+  </node>
+  <node id="-100674096" visible="true" lat="44.529889579153" lon="-73.240325743869">
+    <!-- conflict: "593 MacRae Road, Colchester, VT" Fuzzy match to "593 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="593"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74096"/>
+  </node>
+  <node id="-100674106" visible="true" lat="44.529701486409" lon="-73.240098627167">
+    <!-- conflict: "607 MacRae Road, Colchester, VT" Fuzzy match to "607 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="607"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74106"/>
+  </node>
+  <node id="-100674130" visible="true" lat="44.529230345686" lon="-73.240537166799">
+    <!-- conflict: "614 MacRae Road, Colchester, VT" Fuzzy match to "614 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74130"/>
+  </node>
+  <node id="-100674134" visible="true" lat="44.529126077103" lon="-73.239322144876">
+    <!-- conflict: "667 MacRae Road, Colchester, VT" Fuzzy match to "667 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="667"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74134"/>
+  </node>
+  <node id="-100674152" visible="true" lat="44.528577540036" lon="-73.240017968552">
+    <!-- conflict: "680 MacRae Road, Colchester, VT" Fuzzy match to "680 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="680"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74152"/>
+  </node>
+  <node id="-100674154" visible="true" lat="44.528535941939" lon="-73.239339774993">
+    <!-- conflict: "707 MacRae Road, Colchester, VT" Fuzzy match to "707 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74154"/>
+  </node>
+  <node id="-100674169" visible="true" lat="44.527974545729" lon="-73.238167816984">
+    <!-- conflict: "843 MacRae Road, Colchester, VT" Fuzzy match to "843 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="843"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74169"/>
+  </node>
+  <node id="-100674196" visible="true" lat="44.527113407378" lon="-73.236707566513">
+    <!-- conflict: "851 MacRae Road, Colchester, VT" Fuzzy match to "851 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="851"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74196"/>
+  </node>
+  <node id="-100674226" visible="true" lat="44.525684779266" lon="-73.235118599322">
+    <!-- conflict: "963 MacRae Road, Colchester, VT" Fuzzy match to "963 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="963"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74226"/>
+  </node>
+  <node id="-100674228" visible="true" lat="44.525414045304" lon="-73.234361947469">
+    <!-- conflict: "965 MacRae Road, Colchester, VT" Fuzzy match to "965 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="965"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74228"/>
+  </node>
+  <node id="-100674231" visible="true" lat="44.52528266572" lon="-73.235088437637">
+    <!-- conflict: "1041 MacRae Road, Colchester, VT" Fuzzy match to "1041 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="1041"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74231"/>
+  </node>
+  <node id="-100674241" visible="true" lat="44.52400050817" lon="-73.23314940037">
+    <!-- conflict: "1136 MacRae Road, Colchester, VT" Fuzzy match to "1136 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="1136"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74241"/>
+  </node>
+  <node id="-100675764" visible="true" lat="44.527066662022" lon="-73.23601201588">
+    <!-- conflict: "915 MacRae Road, Colchester, VT" Fuzzy match to "915 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="915"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="75764"/>
+  </node>
+  <node id="-100676169" visible="true" lat="44.535157397268" lon="-73.244474707296">
+    <!-- conflict: "193 MacRae Road, Colchester, VT" Fuzzy match to "193 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="193"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76169"/>
+  </node>
+  <node id="-100676190" visible="true" lat="44.534699166996" lon="-73.244107285669">
+    <!-- conflict: "223 MacRae Road, Colchester, VT" Fuzzy match to "223 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76190"/>
+  </node>
+  <node id="-100676191" visible="true" lat="44.533498787038" lon="-73.242886968317">
+    <!-- conflict: "325 MacRae Road, Colchester, VT" Fuzzy match to "325 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="325"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76191"/>
+  </node>
+  <node id="-100676192" visible="true" lat="44.533113284358" lon="-73.242653128037">
+    <!-- conflict: "355 MacRae Road, Colchester, VT" Fuzzy match to "355 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76192"/>
+  </node>
+  <node id="-100676193" visible="true" lat="44.531655233304" lon="-73.24164590174">
+    <!-- conflict: "454 MacRae Road, Colchester, VT" Fuzzy match to "454 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="454"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76193"/>
+  </node>
+  <node id="-100676194" visible="true" lat="44.529631310755" lon="-73.240855013849">
+    <!-- conflict: "590 MacRae Road, Colchester, VT" Fuzzy match to "590 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="590"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76194"/>
+  </node>
+  <node id="-100676195" visible="true" lat="44.52951246458" lon="-73.24074796001">
+    <!-- conflict: "592 MacRae Road, Colchester, VT" Fuzzy match to "592 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="592"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76195"/>
   </node>
   <node id="-1006656093" visible="true" lat="44.545738063287" lon="-73.243484085259">
     <!-- conflict: "175 Barnabas Court, Colchester, VT" No match in OSM, but a different address exists <5m away: "171 Barnabas Court, Colchester, VT" -->
@@ -116,6 +827,15 @@
     <tag k="addr:postcode" v="05446"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656096"/>
+  </node>
+  <node id="-10061051026" visible="true" lat="44.533823310731" lon="-73.243099589761">
+    <!-- conflict: "297 MacRae Road, Colchester, VT" Fuzzy match to "297 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="297"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1051026"/>
   </node>
   <node id="-100782892" visible="true" lat="44.95264594259" lon="-72.131892365606">
     <!-- conflict: "124 Main St Derby Center, Derby, VT" No match in OSM, but a different address exists <5m away: "124 Main Street, Derby, VT" -->
@@ -162,16 +882,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620769"/>
   </node>
-  <node id="-1009101956" visible="true" lat="43.598382347511" lon="-73.265766066848">
-    <!-- conflict: "31 Caernarvon Street, Fair Haven, VT" No match in OSM, but a different address exists <5m away: "33 Caernarvon Street, Fair Haven, VT" -->
-    <tag k="addr:city" v="Fair Haven"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Caernarvon Street"/>
-    <tag k="addr:postcode" v="05743"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="101956"/>
-  </node>
-  <node id="-1010104488" visible="true" lat="44.868038961751" lon="-72.983331831547">
+  <node id="-1009104488" visible="true" lat="44.868038961751" lon="-72.983331831547">
     <!-- conflict: "48 Napoli Road 1, Fairfield, VT" Fuzzy match to "48 Napoli Road #1, Fairfield, VT" -->
     <tag k="addr:city" v="Fairfield"/>
     <tag k="addr:housenumber" v="48"/>
@@ -180,7 +891,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104488"/>
   </node>
-  <node id="-1010104492" visible="true" lat="44.867249232947" lon="-72.982473102876">
+  <node id="-1009104492" visible="true" lat="44.867249232947" lon="-72.982473102876">
     <!-- conflict: "63 Napoli Road 1, Fairfield, VT" Fuzzy match to "63 Napoli Road #1, Fairfield, VT" -->
     <tag k="addr:city" v="Fairfield"/>
     <tag k="addr:housenumber" v="63"/>
@@ -189,7 +900,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104492"/>
   </node>
-  <node id="-1010104494" visible="true" lat="44.867437941364" lon="-72.982368368213">
+  <node id="-1009104494" visible="true" lat="44.867437941364" lon="-72.982368368213">
     <!-- conflict: "59 Napoli Road 1, Fairfield, VT" Fuzzy match to "59 Napoli Road #1, Fairfield, VT" -->
     <tag k="addr:city" v="Fairfield"/>
     <tag k="addr:housenumber" v="59"/>
@@ -198,7 +909,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104494"/>
   </node>
-  <node id="-1010104495" visible="true" lat="44.867112165556" lon="-72.982539862032">
+  <node id="-1009104495" visible="true" lat="44.867112165556" lon="-72.982539862032">
     <!-- conflict: "215 Napoli Road 1, Fairfield, VT" Fuzzy match to "215 Napoli Road #1, Fairfield, VT" -->
     <tag k="addr:city" v="Fairfield"/>
     <tag k="addr:housenumber" v="215"/>
@@ -207,7 +918,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104495"/>
   </node>
-  <node id="-1010104496" visible="true" lat="44.866834472461" lon="-72.982603547709">
+  <node id="-1009104496" visible="true" lat="44.866834472461" lon="-72.982603547709">
     <!-- conflict: "216 Napoli Road 1, Fairfield, VT" Fuzzy match to "216 Napoli Road #1, Fairfield, VT" -->
     <tag k="addr:city" v="Fairfield"/>
     <tag k="addr:housenumber" v="216"/>
@@ -216,7 +927,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104496"/>
   </node>
-  <node id="-1010104497" visible="true" lat="44.866723970514" lon="-72.982693301439">
+  <node id="-1009104497" visible="true" lat="44.866723970514" lon="-72.982693301439">
     <!-- conflict: "206 Napoli Road 1, Fairfield, VT" Fuzzy match to "206 Napoli Road #1, Fairfield, VT" -->
     <tag k="addr:city" v="Fairfield"/>
     <tag k="addr:housenumber" v="206"/>
@@ -225,7 +936,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104497"/>
   </node>
-  <node id="-1010104498" visible="true" lat="44.866540604682" lon="-72.982800523164">
+  <node id="-1009104498" visible="true" lat="44.866540604682" lon="-72.982800523164">
     <!-- conflict: "186 Napoli Road 1, Fairfield, VT" Fuzzy match to "186 Napoli Road #1, Fairfield, VT" -->
     <tag k="addr:city" v="Fairfield"/>
     <tag k="addr:housenumber" v="186"/>
@@ -234,7 +945,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104498"/>
   </node>
-  <node id="-1010104500" visible="true" lat="44.866515800586" lon="-72.984310243903">
+  <node id="-1009104500" visible="true" lat="44.866515800586" lon="-72.984310243903">
     <!-- conflict: "142 Napoli Road 1, Fairfield, VT" Fuzzy match to "142 Napoli Road #1, Fairfield, VT" -->
     <tag k="addr:city" v="Fairfield"/>
     <tag k="addr:housenumber" v="142"/>
@@ -243,7 +954,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104500"/>
   </node>
-  <node id="-1010104501" visible="true" lat="44.866374735982" lon="-72.983106505997">
+  <node id="-1009104501" visible="true" lat="44.866374735982" lon="-72.983106505997">
     <!-- conflict: "162 Napoli Road 1, Fairfield, VT" Fuzzy match to "162 Napoli Road #1, Fairfield, VT" -->
     <tag k="addr:city" v="Fairfield"/>
     <tag k="addr:housenumber" v="162"/>
@@ -252,7 +963,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104501"/>
   </node>
-  <node id="-1010104502" visible="true" lat="44.866196368089" lon="-72.98519387918">
+  <node id="-1009104502" visible="true" lat="44.866196368089" lon="-72.98519387918">
     <!-- conflict: "60 Napoli Road 2, Sheldon, VT" Fuzzy match to "60 Napoli Road #2, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="60"/>
@@ -261,7 +972,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104502"/>
   </node>
-  <node id="-1010104507" visible="true" lat="44.865936074301" lon="-72.985436127216">
+  <node id="-1009104507" visible="true" lat="44.865936074301" lon="-72.985436127216">
     <!-- conflict: "44 Napoli Road 2, Sheldon, VT" Fuzzy match to "44 Napoli Road #2, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="44"/>
@@ -270,7 +981,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104507"/>
   </node>
-  <node id="-1010104508" visible="true" lat="44.865697413457" lon="-72.985559392152">
+  <node id="-1009104508" visible="true" lat="44.865697413457" lon="-72.985559392152">
     <!-- conflict: "28 Napoli Road 2, Sheldon, VT" Fuzzy match to "28 Napoli Road #2, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="28"/>
@@ -279,7 +990,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104508"/>
   </node>
-  <node id="-1010104512" visible="true" lat="44.865283481611" lon="-72.985942654812">
+  <node id="-1009104512" visible="true" lat="44.865283481611" lon="-72.985942654812">
     <!-- conflict: "63 Napoli Road 3, Sheldon, VT" Fuzzy match to "63 Napoli Road #3, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="63"/>
@@ -288,7 +999,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104512"/>
   </node>
-  <node id="-1010104515" visible="true" lat="44.865161564054" lon="-72.986068494345">
+  <node id="-1009104515" visible="true" lat="44.865161564054" lon="-72.986068494345">
     <!-- conflict: "115 Napoli Road 3, Sheldon, VT" Fuzzy match to "115 Napoli Road #3, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="115"/>
@@ -297,7 +1008,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104515"/>
   </node>
-  <node id="-1010104518" visible="true" lat="44.864966792063" lon="-72.986266716085">
+  <node id="-1009104518" visible="true" lat="44.864966792063" lon="-72.986266716085">
     <!-- conflict: "129 Napoli Road 3, Sheldon, VT" Fuzzy match to "129 Napoli Road #3, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="129"/>
@@ -306,7 +1017,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104518"/>
   </node>
-  <node id="-1010104520" visible="true" lat="44.864695544184" lon="-72.986528854479">
+  <node id="-1009104520" visible="true" lat="44.864695544184" lon="-72.986528854479">
     <!-- conflict: "124 Napoli Road 3, Sheldon, VT" Fuzzy match to "124 Napoli Road #3, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="124"/>
@@ -315,7 +1026,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104520"/>
   </node>
-  <node id="-1010104522" visible="true" lat="44.864845908792" lon="-72.98636196919">
+  <node id="-1009104522" visible="true" lat="44.864845908792" lon="-72.98636196919">
     <!-- conflict: "131 Napoli Road 3, Sheldon, VT" Fuzzy match to "131 Napoli Road #3, Sheldon, VT" -->
     <tag k="addr:city" v="Sheldon"/>
     <tag k="addr:housenumber" v="131"/>
@@ -324,7 +1035,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="104522"/>
   </node>
-  <node id="-1011106245" visible="true" lat="44.202491821727" lon="-72.894138056178">
+  <node id="-1010106245" visible="true" lat="44.202491821727" lon="-72.894138056178">
     <!-- conflict: "4645 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "82 Owl Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4645"/>
@@ -333,7 +1044,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106245"/>
   </node>
-  <node id="-1011106256" visible="true" lat="44.202441370725" lon="-72.894869665038">
+  <node id="-1010106256" visible="true" lat="44.202441370725" lon="-72.894869665038">
     <!-- conflict: "4643 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "81 Owl Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4643"/>
@@ -342,7 +1053,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106256"/>
   </node>
-  <node id="-1011106260" visible="true" lat="44.202153056963" lon="-72.894288087295">
+  <node id="-1010106260" visible="true" lat="44.202153056963" lon="-72.894288087295">
     <!-- conflict: "4647 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "76 Owl Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4647"/>
@@ -351,7 +1062,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106260"/>
   </node>
-  <node id="-1011106264" visible="true" lat="44.20184575785" lon="-72.894307914113">
+  <node id="-1010106264" visible="true" lat="44.20184575785" lon="-72.894307914113">
     <!-- conflict: "4649 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "60 Owl Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4649"/>
@@ -360,7 +1071,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106264"/>
   </node>
-  <node id="-1011106266" visible="true" lat="44.202052579455" lon="-72.893791777718">
+  <node id="-1010106266" visible="true" lat="44.202052579455" lon="-72.893791777718">
     <!-- conflict: "4631 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "141 Battleground Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4631"/>
@@ -369,7 +1080,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106266"/>
   </node>
-  <node id="-1011106267" visible="true" lat="44.201965699256" lon="-72.894774725938">
+  <node id="-1010106267" visible="true" lat="44.201965699256" lon="-72.894774725938">
     <!-- conflict: "4639 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "67 Owl Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4639"/>
@@ -378,7 +1089,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106267"/>
   </node>
-  <node id="-1011106274" visible="true" lat="44.201589140414" lon="-72.894848964765">
+  <node id="-1010106274" visible="true" lat="44.201589140414" lon="-72.894848964765">
     <!-- conflict: "4637 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "47 Owl Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4637"/>
@@ -387,7 +1098,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106274"/>
   </node>
-  <node id="-1011106275" visible="true" lat="44.201675629252" lon="-72.893301139482">
+  <node id="-1010106275" visible="true" lat="44.201675629252" lon="-72.893301139482">
     <!-- conflict: "4699 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "114 Battleground Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4699"/>
@@ -396,7 +1107,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106275"/>
   </node>
-  <node id="-1011106276" visible="true" lat="44.201431469756" lon="-72.894672499048">
+  <node id="-1010106276" visible="true" lat="44.201431469756" lon="-72.894672499048">
     <!-- conflict: "4633 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "41 Owl Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4633"/>
@@ -405,7 +1116,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106276"/>
   </node>
-  <node id="-1011106278" visible="true" lat="44.201626791067" lon="-72.893894410849">
+  <node id="-1010106278" visible="true" lat="44.201626791067" lon="-72.893894410849">
     <!-- conflict: "4629 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "101 Battleground Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4629"/>
@@ -414,7 +1125,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106278"/>
   </node>
-  <node id="-1011106280" visible="true" lat="44.201324523047" lon="-72.893460583078">
+  <node id="-1010106280" visible="true" lat="44.201324523047" lon="-72.893460583078">
     <!-- conflict: "4627 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "100 Battleground Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4627"/>
@@ -423,7 +1134,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106280"/>
   </node>
-  <node id="-1011106281" visible="true" lat="44.201127828293" lon="-72.893484357833">
+  <node id="-1010106281" visible="true" lat="44.201127828293" lon="-72.893484357833">
     <!-- conflict: "4625 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "86 Battleground Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4625"/>
@@ -432,7 +1143,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106281"/>
   </node>
-  <node id="-1011106284" visible="true" lat="44.201230417213" lon="-72.894395235356">
+  <node id="-1010106284" visible="true" lat="44.201230417213" lon="-72.894395235356">
     <!-- conflict: "4621 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "55 Battleground Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4621"/>
@@ -441,7 +1152,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106284"/>
   </node>
-  <node id="-1011106295" visible="true" lat="44.200790695373" lon="-72.894329761547">
+  <node id="-1010106295" visible="true" lat="44.200790695373" lon="-72.894329761547">
     <!-- conflict: "4602 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "52 Battleground Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4602"/>
@@ -450,7 +1161,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106295"/>
   </node>
-  <node id="-1011106305" visible="true" lat="44.200548932976" lon="-72.894215451716">
+  <node id="-1010106305" visible="true" lat="44.200548932976" lon="-72.894215451716">
     <!-- conflict: "4604 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "32 Loon Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4604"/>
@@ -459,7 +1170,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106305"/>
   </node>
-  <node id="-1011106307" visible="true" lat="44.200394356553" lon="-72.893003021624">
+  <node id="-1010106307" visible="true" lat="44.200394356553" lon="-72.893003021624">
     <!-- conflict: "4618 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "65 Loon Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4618"/>
@@ -468,7 +1179,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106307"/>
   </node>
-  <node id="-1011106314" visible="true" lat="44.2001462777" lon="-72.893615748793">
+  <node id="-1010106314" visible="true" lat="44.2001462777" lon="-72.893615748793">
     <!-- conflict: "4612 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "48 Loon Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4612"/>
@@ -477,7 +1188,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106314"/>
   </node>
-  <node id="-1011106320" visible="true" lat="44.200103733236" lon="-72.89383747433">
+  <node id="-1010106320" visible="true" lat="44.200103733236" lon="-72.89383747433">
     <!-- conflict: "4610 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "44 Loon Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="4610"/>
@@ -486,7 +1197,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106320"/>
   </node>
-  <node id="-1011106327" visible="true" lat="44.19963521372" lon="-72.893531269341">
+  <node id="-1010106327" visible="true" lat="44.19963521372" lon="-72.893531269341">
     <!-- conflict: "1256 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "107 Dove Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="1256"/>
@@ -495,7 +1206,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106327"/>
   </node>
-  <node id="-1011106329" visible="true" lat="44.199507882892" lon="-72.893971013334">
+  <node id="-1010106329" visible="true" lat="44.199507882892" lon="-72.893971013334">
     <!-- conflict: "1254 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "105 Dove Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="1254"/>
@@ -504,7 +1215,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106329"/>
   </node>
-  <node id="-1011106335" visible="true" lat="44.199269119959" lon="-72.893493627455">
+  <node id="-1010106335" visible="true" lat="44.199269119959" lon="-72.893493627455">
     <!-- conflict: "1258 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "141 Dove Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="1258"/>
@@ -513,7 +1224,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106335"/>
   </node>
-  <node id="-1011106336" visible="true" lat="44.198997169688" lon="-72.893740719043">
+  <node id="-1010106336" visible="true" lat="44.198997169688" lon="-72.893740719043">
     <!-- conflict: "1262 Battleground, Waitsfield, VT" No match in OSM, but a different address exists <5m away: "140 Dove Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="1262"/>
@@ -522,7 +1233,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106336"/>
   </node>
-  <node id="-1011768672" visible="true" lat="44.201003383868" lon="-72.895033886566">
+  <node id="-1010768672" visible="true" lat="44.201003383868" lon="-72.895033886566">
     <!-- conflict: "9 Battleground, Waitsfield, VT" Fuzzy match to "9 Battleground Road, Waitsfield, VT" -->
     <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="9"/>
@@ -531,196 +1242,34 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768672"/>
   </node>
-  <node id="-1012122297" visible="true" lat="43.658685874745" lon="-72.342239863408">
-    <!-- conflict: "215 VA Cutoff Road, White River Junction, VT" Fuzzy match to "215 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="215"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
+  <node id="-1011318120" visible="true" lat="44.746696971177" lon="-73.286128531759">
+    <!-- conflict: "3 MacKenzie Lane, Grand Isle, VT" Fuzzy match to "3 Mackenzie Lane, Grand Isle, VT" -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="MacKenzie Lane"/>
+    <tag k="addr:postcode" v="05458"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122297"/>
+    <tag k="ref:vcgi:esiteid" v="318120"/>
   </node>
-  <node id="-1012122325" visible="true" lat="43.658418037224" lon="-72.342997075469">
-    <!-- conflict: "261 VA Cutoff Road, White River Junction, VT" Fuzzy match to "261 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="261"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
+  <node id="-1011318122" visible="true" lat="44.745973814413" lon="-73.28659575592">
+    <!-- conflict: "2 MacKenzie Lane, Grand Isle, VT" Fuzzy match to "2 Mackenzie Lane, Grand Isle, VT" -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="MacKenzie Lane"/>
+    <tag k="addr:postcode" v="05458"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122325"/>
+    <tag k="ref:vcgi:esiteid" v="318122"/>
   </node>
-  <node id="-1012122338" visible="true" lat="43.658106802126" lon="-72.342186403478">
-    <!-- conflict: "264 VA Cutoff Road, White River Junction, VT" Fuzzy match to "264 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="264"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
+  <node id="-1011318123" visible="true" lat="44.746207246686" lon="-73.285985145354">
+    <!-- conflict: "4 MacKenzie Lane, Grand Isle, VT" Fuzzy match to "4 Mackenzie Lane, Grand Isle, VT" -->
+    <tag k="addr:city" v="Grand Isle"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="MacKenzie Lane"/>
+    <tag k="addr:postcode" v="05458"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122338"/>
+    <tag k="ref:vcgi:esiteid" v="318123"/>
   </node>
-  <node id="-1012122356" visible="true" lat="43.657782978256" lon="-72.342372661504">
-    <!-- conflict: "272 VA Cutoff Road, White River Junction, VT" Fuzzy match to "272 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="272"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122356"/>
-  </node>
-  <node id="-1012122477" visible="true" lat="43.655912178075" lon="-72.347990945429">
-    <!-- conflict: "583 VA Cutoff Road, White River Junction, VT" Fuzzy match to "583 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="583"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122477"/>
-  </node>
-  <node id="-1012122544" visible="true" lat="43.655301633541" lon="-72.347776898296">
-    <!-- conflict: "659 VA Cutoff Road, White River Junction, VT" Fuzzy match to "659 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="659"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122544"/>
-  </node>
-  <node id="-1012122593" visible="true" lat="43.654792326423" lon="-72.346440984252">
-    <!-- conflict: "720 VA Cutoff Road, White River Junction, VT" Fuzzy match to "720 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="720"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122593"/>
-  </node>
-  <node id="-1012122655" visible="true" lat="43.654036571581" lon="-72.346001267094">
-    <!-- conflict: "730 VA Cutoff Road, White River Junction, VT" Fuzzy match to "730 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="730"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122655"/>
-  </node>
-  <node id="-1012122757" visible="true" lat="43.653129430808" lon="-72.345540193332">
-    <!-- conflict: "812 VA Cutoff Road, White River Junction, VT" Fuzzy match to "812 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="812"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122757"/>
-  </node>
-  <node id="-1012123084" visible="true" lat="43.649366568082" lon="-72.345592393832">
-    <!-- conflict: "1063 VA Cutoff Road, White River Junction, VT" Fuzzy match to "1063 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="1063"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123084"/>
-  </node>
-  <node id="-1012123174" visible="true" lat="43.648697832293" lon="-72.345550432917">
-    <!-- conflict: "1113 VA Cutoff Road, White River Junction, VT" Fuzzy match to "1113 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="1113"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123174"/>
-  </node>
-  <node id="-1012123265" visible="true" lat="43.648046944631" lon="-72.345413009594">
-    <!-- conflict: "1153 VA Cutoff Road, White River Junction, VT" Fuzzy match to "1153 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="1153"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123265"/>
-  </node>
-  <node id="-1012123328" visible="true" lat="43.647462611434" lon="-72.345179322484">
-    <!-- conflict: "1195 VA Cutoff Road, White River Junction, VT" Fuzzy match to "1195 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="1195"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123328"/>
-  </node>
-  <node id="-1012123416" visible="true" lat="43.646652389611" lon="-72.345754838852">
-    <!-- conflict: "1255 VA Cutoff Road, White River Junction, VT" Fuzzy match to "1255 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="1255"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123416"/>
-  </node>
-  <node id="-1012123458" visible="true" lat="43.645976723371" lon="-72.345665843595">
-    <!-- conflict: "1285 VA Cutoff Road, White River Junction, VT" Fuzzy match to "1285 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="1285"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123458"/>
-  </node>
-  <node id="-1012123699" visible="true" lat="43.643984840556" lon="-72.434563244475">
-    <!-- conflict: "114 Macnicoll Way, Quechee, VT" Fuzzy match to "114 MacNicoll Way, Quechee, VT" -->
-    <tag k="addr:city" v="Quechee"/>
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="Macnicoll Way"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123699"/>
-  </node>
-  <node id="-1012123704" visible="true" lat="43.643912361515" lon="-72.435593213103">
-    <!-- conflict: "58 Macnicoll Way, Quechee, VT" Fuzzy match to "58 MacNicoll Way, Quechee, VT" -->
-    <tag k="addr:city" v="Quechee"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:street" v="Macnicoll Way"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123704"/>
-  </node>
-  <node id="-1012123706" visible="true" lat="43.64390854805" lon="-72.433617198907">
-    <!-- conflict: "160 Macnicoll Way, Quechee, VT" Fuzzy match to "160 MacNicoll Way, Quechee, VT" -->
-    <tag k="addr:city" v="Quechee"/>
-    <tag k="addr:housenumber" v="160"/>
-    <tag k="addr:street" v="Macnicoll Way"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123706"/>
-  </node>
-  <node id="-1012124618" visible="true" lat="43.646403893144" lon="-72.345834250701">
-    <!-- conflict: "1257 VA Cutoff Road, White River Junction, VT" Fuzzy match to "1257 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="1257"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124618"/>
-  </node>
-  <node id="-1012338218" visible="true" lat="43.647207558229" lon="-72.344641488513">
-    <!-- conflict: "1234 VA Cutoff Road, White River Junction, VT" Fuzzy match to "1234 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="1234"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338218"/>
-  </node>
-  <node id="-1012613388" visible="true" lat="43.647681808612" lon="-72.345400876496">
-    <!-- conflict: "1181 VA Cutoff Road, White River Junction, VT" Fuzzy match to "1181 V.A. Cutoff Road, White River Junction, VT" -->
-    <tag k="addr:city" v="White River Junction"/>
-    <tag k="addr:housenumber" v="1181"/>
-    <tag k="addr:street" v="VA Cutoff Road"/>
-    <tag k="addr:postcode" v="05001"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="613388"/>
-  </node>
-  <node id="-1013130234" visible="true" lat="44.93841701134" lon="-72.045151839266">
+  <node id="-1012130234" visible="true" lat="44.93841701134" lon="-72.045151839266">
     <!-- conflict: "3571 Gore Road, Derby, VT" Fuzzy match to "3571 Gore Road, Holland, VT" -->
     <tag k="addr:city" v="Derby"/>
     <tag k="addr:housenumber" v="3571"/>
@@ -729,7 +1278,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="130234"/>
   </node>
-  <node id="-1014454219" visible="true" lat="43.689956019594" lon="-73.218335070143">
+  <node id="-1013454219" visible="true" lat="43.689956019594" lon="-73.218335070143">
     <!-- conflict: "702 State Forest Highway, Fair Haven, VT" No match in OSM, but a different address exists <5m away: "702 SFH, Hubbardton, VT" -->
     <tag k="addr:city" v="Fair Haven"/>
     <tag k="addr:housenumber" v="702"/>
@@ -738,7 +1287,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454219"/>
   </node>
-  <node id="-1014454220" visible="true" lat="43.691503836963" lon="-73.217595415017">
+  <node id="-1013454220" visible="true" lat="43.691503836963" lon="-73.217595415017">
     <!-- conflict: "731 State Forest Highway, Fair Haven, VT" No match in OSM, but a different address exists <5m away: "731 SFH, Hubbardton, VT" -->
     <tag k="addr:city" v="Fair Haven"/>
     <tag k="addr:housenumber" v="731"/>
@@ -747,7 +1296,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454220"/>
   </node>
-  <node id="-1014454221" visible="true" lat="43.692071357713" lon="-73.221072872092">
+  <node id="-1013454221" visible="true" lat="43.692071357713" lon="-73.221072872092">
     <!-- conflict: "519 State Forest Highway, Fair Haven, VT" No match in OSM, but a different address exists <5m away: "519 SFH, Hubbardton, VT" -->
     <tag k="addr:city" v="Fair Haven"/>
     <tag k="addr:housenumber" v="519"/>
@@ -756,7 +1305,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454221"/>
   </node>
-  <node id="-1014454222" visible="true" lat="43.695595429323" lon="-73.219633201751">
+  <node id="-1013454222" visible="true" lat="43.695595429323" lon="-73.219633201751">
     <!-- conflict: "233 State Forest Highway, Fair Haven, VT" No match in OSM, but a different address exists <5m away: "233 SFH, Hubbardton, VT" -->
     <tag k="addr:city" v="Fair Haven"/>
     <tag k="addr:housenumber" v="233"/>
@@ -765,7 +1314,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454222"/>
   </node>
-  <node id="-1015132442" visible="true" lat="44.619579025656" lon="-72.511296938906">
+  <node id="-1014132442" visible="true" lat="44.619579025656" lon="-72.511296938906">
     <!-- conflict: "454 Patnoe Farm Drive, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "404 Patnoe Farm Drive, Hyde Park, VT" -->
     <tag k="addr:city" v="Hyde Park"/>
     <tag k="addr:housenumber" v="454"/>
@@ -774,7 +1323,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="132442"/>
   </node>
-  <node id="-1015133152" visible="true" lat="44.641348684074" lon="-72.580966235716">
+  <node id="-1014133152" visible="true" lat="44.641348684074" lon="-72.580966235716">
     <!-- conflict: "248 Woodfred Drive, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "126 Woodfred Drive, Hyde Park, VT" -->
     <tag k="addr:city" v="Hyde Park"/>
     <tag k="addr:housenumber" v="248"/>
@@ -783,7 +1332,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="133152"/>
   </node>
-  <node id="-1016133383" visible="true" lat="43.534436236295" lon="-73.063139877013">
+  <node id="-1015133383" visible="true" lat="43.534436236295" lon="-73.063139877013">
     <!-- conflict: "1846 Vermont Route 133, West Rutland, VT" Fuzzy match to "1846 Vermont Route 133, Ira, VT" -->
     <tag k="addr:city" v="West Rutland"/>
     <tag k="addr:housenumber" v="1846"/>
@@ -792,7 +1341,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="133383"/>
   </node>
-  <node id="-1017133477" visible="true" lat="44.846276613161" lon="-72.261686351255">
+  <node id="-1016133477" visible="true" lat="44.846276613161" lon="-72.261686351255">
     <!-- conflict: "3796 U.S. Route 5, Irasburg, VT" No match in OSM, but a different address exists <5m away: "3794 U.S. Route 5, , VT" -->
     <tag k="addr:city" v="Irasburg"/>
     <tag k="addr:housenumber" v="3796"/>
@@ -801,7 +1350,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="133477"/>
   </node>
-  <node id="-1017133480" visible="true" lat="44.845680591469" lon="-72.261637267582">
+  <node id="-1016133480" visible="true" lat="44.845680591469" lon="-72.261637267582">
     <!-- conflict: "3742 U.S. Route 5, Irasburg, VT" No match in OSM, but a different address exists <5m away: "3740 U.S. Route 5, , VT" -->
     <tag k="addr:city" v="Irasburg"/>
     <tag k="addr:housenumber" v="3742"/>
@@ -810,7 +1359,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="133480"/>
   </node>
-  <node id="-1017620259" visible="true" lat="44.855762076469" lon="-72.315096462068">
+  <node id="-1016620259" visible="true" lat="44.855762076469" lon="-72.315096462068">
     <!-- conflict: "1235 Poutre Drive, Irasburg, VT" No match in OSM, but a different address exists <5m away: "398 Town Highway 16, , VT" -->
     <tag k="addr:city" v="Irasburg"/>
     <tag k="addr:housenumber" v="1235"/>
@@ -819,7 +1368,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620259"/>
   </node>
-  <node id="-1018135501" visible="true" lat="43.077151821421" lon="-72.734606755638">
+  <node id="-1017135501" visible="true" lat="43.077151821421" lon="-72.734606755638">
     <!-- conflict: "105 Tonys Lane, Jamaica, VT" No match in OSM, but a different address exists <5m away: "97 Tonys Lane, , VT" -->
     <tag k="addr:city" v="Jamaica"/>
     <tag k="addr:housenumber" v="105"/>
@@ -828,7 +1377,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="135501"/>
   </node>
-  <node id="-1018135502" visible="true" lat="43.077264358165" lon="-72.734598665378">
+  <node id="-1017135502" visible="true" lat="43.077264358165" lon="-72.734598665378">
     <!-- conflict: "110 Tonys Lane, Jamaica, VT" No match in OSM, but a different address exists <5m away: "99 Tonys Lane, , VT" -->
     <tag k="addr:city" v="Jamaica"/>
     <tag k="addr:housenumber" v="110"/>
@@ -837,7 +1386,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="135502"/>
   </node>
-  <node id="-1018453117" visible="true" lat="43.145885872051" lon="-72.838766913794">
+  <node id="-1017453117" visible="true" lat="43.145885872051" lon="-72.838766913794">
     <!-- conflict: "8701 Vermont Route 30, South Londonderry, VT" Fuzzy match to "8701 Vermont Route 30, Jamaica, VT" -->
     <tag k="addr:city" v="South Londonderry"/>
     <tag k="addr:housenumber" v="8701"/>
@@ -846,7 +1395,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453117"/>
   </node>
-  <node id="-1019135743" visible="true" lat="44.938899612787" lon="-72.505434429899">
+  <node id="-1018135743" visible="true" lat="44.938899612787" lon="-72.505434429899">
     <!-- conflict: "830 Jay Peak Road, North Troy, VT" Fuzzy match to "830 jay peak Road, Jay, VT" -->
     <tag k="addr:city" v="North Troy"/>
     <tag k="addr:housenumber" v="830"/>
@@ -855,7 +1404,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="135743"/>
   </node>
-  <node id="-1020137601" visible="true" lat="44.500023935689" lon="-72.991900785989">
+  <node id="-1019137601" visible="true" lat="44.500023935689" lon="-72.991900785989">
     <!-- conflict: "5 Matts Meadow, Jericho, VT" Fuzzy match to "5 Matts Meadows, Jericho, VT" -->
     <tag k="addr:city" v="Jericho"/>
     <tag k="addr:housenumber" v="5"/>
@@ -864,7 +1413,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="137601"/>
   </node>
-  <node id="-1020137622" visible="true" lat="44.500366541245" lon="-72.990672301191">
+  <node id="-1019137622" visible="true" lat="44.500366541245" lon="-72.990672301191">
     <!-- conflict: "11 Matts Meadow, Jericho, VT" Fuzzy match to "11 Matts Meadows, Jericho, VT" -->
     <tag k="addr:city" v="Jericho"/>
     <tag k="addr:housenumber" v="11"/>
@@ -873,7 +1422,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="137622"/>
   </node>
-  <node id="-1020137623" visible="true" lat="44.500342196561" lon="-72.989952072291">
+  <node id="-1019137623" visible="true" lat="44.500342196561" lon="-72.989952072291">
     <!-- conflict: "15 Matts Meadow, Jericho, VT" Fuzzy match to "15 Matts Meadows, Jericho, VT" -->
     <tag k="addr:city" v="Jericho"/>
     <tag k="addr:housenumber" v="15"/>
@@ -882,7 +1431,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="137623"/>
   </node>
-  <node id="-1021138515" visible="true" lat="44.619045173298" lon="-72.662394018442">
+  <node id="-1020138515" visible="true" lat="44.619045173298" lon="-72.662394018442">
     <!-- conflict: "33 Tiffanys Way, Johnson, VT" No match in OSM, but a different address exists <5m away: "1704 Collins Hill Road, Johnson, VT" -->
     <tag k="addr:city" v="Johnson"/>
     <tag k="addr:housenumber" v="33"/>
@@ -891,7 +1440,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="138515"/>
   </node>
-  <node id="-1021772077" visible="true" lat="44.644731364299" lon="-72.685601549527">
+  <node id="-1020772077" visible="true" lat="44.644731364299" lon="-72.685601549527">
     <!-- conflict: "655 Gould Hill, Johnson, VT" No match in OSM, but a different address exists <5m away: "649 Gould Hill, Johnson, VT" -->
     <tag k="addr:city" v="Johnson"/>
     <tag k="addr:housenumber" v="655"/>
@@ -900,7 +1449,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="772077"/>
   </node>
-  <node id="-1021773120" visible="true" lat="44.621382613888" lon="-72.670073287866">
+  <node id="-1020773120" visible="true" lat="44.621382613888" lon="-72.670073287866">
     <!-- conflict: "41 Uncommon Place, Johnson, VT" No match in OSM, but a different address exists <5m away: "1459 Vermont Route 15 East, Johnson, VT" -->
     <tag k="addr:city" v="Johnson"/>
     <tag k="addr:housenumber" v="41"/>
@@ -909,7 +1458,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="773120"/>
   </node>
-  <node id="-1022224775" visible="true" lat="43.655003821286" lon="-72.786851216958">
+  <node id="-1021224775" visible="true" lat="43.655003821286" lon="-72.786851216958">
     <!-- conflict: "13 Summit Drive, Killington, VT" No match in OSM, but a different address exists <5m away: "21 January Way, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="13"/>
@@ -918,7 +1467,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224775"/>
   </node>
-  <node id="-1022224777" visible="true" lat="43.654962357562" lon="-72.786217380117">
+  <node id="-1021224777" visible="true" lat="43.654962357562" lon="-72.786217380117">
     <!-- conflict: "45 Summit Drive, Killington, VT" No match in OSM, but a different address exists <5m away: "43 January Way, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="45"/>
@@ -927,7 +1476,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224777"/>
   </node>
-  <node id="-1022224781" visible="true" lat="43.654748234982" lon="-72.78647737576">
+  <node id="-1021224781" visible="true" lat="43.654748234982" lon="-72.78647737576">
     <!-- conflict: "42 Summit Drive, Killington, VT" No match in OSM, but a different address exists <5m away: "40 January Way, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="42"/>
@@ -936,7 +1485,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224781"/>
   </node>
-  <node id="-1022225318" visible="true" lat="43.600299765852" lon="-72.778668559035">
+  <node id="-1021225318" visible="true" lat="43.600299765852" lon="-72.778668559035">
     <!-- conflict: "70 Highlander Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "70 Highlander At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="70"/>
@@ -945,7 +1494,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225318"/>
   </node>
-  <node id="-1022225320" visible="true" lat="43.600115809852" lon="-72.77839815735">
+  <node id="-1021225320" visible="true" lat="43.600115809852" lon="-72.77839815735">
     <!-- conflict: "64 Highlander Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "64 Highlander At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="64"/>
@@ -954,7 +1503,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225320"/>
   </node>
-  <node id="-1022225323" visible="true" lat="43.599868784278" lon="-72.780004186478">
+  <node id="-1021225323" visible="true" lat="43.599868784278" lon="-72.780004186478">
     <!-- conflict: "52 Northstar Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "52 Northstar At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="52"/>
@@ -963,7 +1512,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225323"/>
   </node>
-  <node id="-1022225324" visible="true" lat="43.599880053858" lon="-72.779585090386">
+  <node id="-1021225324" visible="true" lat="43.599880053858" lon="-72.779585090386">
     <!-- conflict: "38 Northstar Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "38 Northstar At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="38"/>
@@ -972,7 +1521,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225324"/>
   </node>
-  <node id="-1022225325" visible="true" lat="43.599763614504" lon="-72.779017251323">
+  <node id="-1021225325" visible="true" lat="43.599763614504" lon="-72.779017251323">
     <!-- conflict: "20 Northstar Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "20 Northstar At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="20"/>
@@ -981,7 +1530,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225325"/>
   </node>
-  <node id="-1022225327" visible="true" lat="43.599468390933" lon="-72.779562490834">
+  <node id="-1021225327" visible="true" lat="43.599468390933" lon="-72.779562490834">
     <!-- conflict: "41 Northstar Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "41 Northstar At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="41"/>
@@ -990,7 +1539,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225327"/>
   </node>
-  <node id="-1022225328" visible="true" lat="43.599060950699" lon="-72.778520046287">
+  <node id="-1021225328" visible="true" lat="43.599060950699" lon="-72.778520046287">
     <!-- conflict: "49 Timberline North Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "49 Timberline N At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="49"/>
@@ -999,7 +1548,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225328"/>
   </node>
-  <node id="-1022225330" visible="true" lat="43.598786292977" lon="-72.778100430006">
+  <node id="-1021225330" visible="true" lat="43.598786292977" lon="-72.778100430006">
     <!-- conflict: "45 Timberline North Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "45 Timberline N At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="45"/>
@@ -1008,7 +1557,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225330"/>
   </node>
-  <node id="-1022225333" visible="true" lat="43.598404274491" lon="-72.777795148308">
+  <node id="-1021225333" visible="true" lat="43.598404274491" lon="-72.777795148308">
     <!-- conflict: "77 Timberline North Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "77 Timberline N At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="77"/>
@@ -1017,7 +1566,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225333"/>
   </node>
-  <node id="-1022225334" visible="true" lat="43.598306812168" lon="-72.777336232505">
+  <node id="-1021225334" visible="true" lat="43.598306812168" lon="-72.777336232505">
     <!-- conflict: "99 Timberline North Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "99 Timberline N At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="99"/>
@@ -1026,7 +1575,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225334"/>
   </node>
-  <node id="-1022225336" visible="true" lat="43.598002160613" lon="-72.778501910513">
+  <node id="-1021225336" visible="true" lat="43.598002160613" lon="-72.778501910513">
     <!-- conflict: "11 Timberline South Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "11 Timberline S At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="11"/>
@@ -1035,7 +1584,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225336"/>
   </node>
-  <node id="-1022225338" visible="true" lat="43.598008418631" lon="-72.776635449293">
+  <node id="-1021225338" visible="true" lat="43.598008418631" lon="-72.776635449293">
     <!-- conflict: "145 Timberline North Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "145 Timberline N At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="145"/>
@@ -1044,7 +1593,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225338"/>
   </node>
-  <node id="-1022225345" visible="true" lat="43.597662965844" lon="-72.777274378841">
+  <node id="-1021225345" visible="true" lat="43.597662965844" lon="-72.777274378841">
     <!-- conflict: "81 Timberline South Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "81 Timberline S At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="81"/>
@@ -1053,7 +1602,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225345"/>
   </node>
-  <node id="-1022225347" visible="true" lat="43.597590664109" lon="-72.779220929289">
+  <node id="-1021225347" visible="true" lat="43.597590664109" lon="-72.779220929289">
     <!-- conflict: "31 East Glade Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "31 East Glade At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="31"/>
@@ -1062,7 +1611,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225347"/>
   </node>
-  <node id="-1022225348" visible="true" lat="43.597535395376" lon="-72.776856703234">
+  <node id="-1021225348" visible="true" lat="43.597535395376" lon="-72.776856703234">
     <!-- conflict: "105 Timberline South Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "105 Timberline S At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="105"/>
@@ -1071,7 +1620,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225348"/>
   </node>
-  <node id="-1022225349" visible="true" lat="43.597477330427" lon="-72.778861844287">
+  <node id="-1021225349" visible="true" lat="43.597477330427" lon="-72.778861844287">
     <!-- conflict: "51 East Glade Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "51 East Glade At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="51"/>
@@ -1080,7 +1629,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225349"/>
   </node>
-  <node id="-1022225353" visible="true" lat="43.597212563995" lon="-72.776586793056">
+  <node id="-1021225353" visible="true" lat="43.597212563995" lon="-72.776586793056">
     <!-- conflict: "111 Timberline South Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "111 Timberline S At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="111"/>
@@ -1089,7 +1638,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225353"/>
   </node>
-  <node id="-1022225354" visible="true" lat="43.597212736194" lon="-72.780061623746">
+  <node id="-1021225354" visible="true" lat="43.597212736194" lon="-72.780061623746">
     <!-- conflict: "141 West Glade Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "141 West Glade At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="141"/>
@@ -1098,7 +1647,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225354"/>
   </node>
-  <node id="-1022225355" visible="true" lat="43.597199547591" lon="-72.778357336249">
+  <node id="-1021225355" visible="true" lat="43.597199547591" lon="-72.778357336249">
     <!-- conflict: "85 East Glade Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "85 East Glade At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="85"/>
@@ -1107,7 +1656,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225355"/>
   </node>
-  <node id="-1022225356" visible="true" lat="43.597033991173" lon="-72.779702620359">
+  <node id="-1021225356" visible="true" lat="43.597033991173" lon="-72.779702620359">
     <!-- conflict: "161 West Glade Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "161 West Glade At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="161"/>
@@ -1116,7 +1665,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225356"/>
   </node>
-  <node id="-1022225357" visible="true" lat="43.596932881803" lon="-72.77808953098">
+  <node id="-1021225357" visible="true" lat="43.596932881803" lon="-72.77808953098">
     <!-- conflict: "91 East Glade Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "91 East Glade At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="91"/>
@@ -1125,7 +1674,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225357"/>
   </node>
-  <node id="-1022225360" visible="true" lat="43.596757197439" lon="-72.780289930208">
+  <node id="-1021225360" visible="true" lat="43.596757197439" lon="-72.780289930208">
     <!-- conflict: "120 West Glade Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "120 West Glade At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="120"/>
@@ -1134,7 +1683,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225360"/>
   </node>
-  <node id="-1022225361" visible="true" lat="43.596640196506" lon="-72.77884361578">
+  <node id="-1021225361" visible="true" lat="43.596640196506" lon="-72.77884361578">
     <!-- conflict: "212 West Glade Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "212 West Glade At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="212"/>
@@ -1143,7 +1692,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225361"/>
   </node>
-  <node id="-1022225362" visible="true" lat="43.596527364419" lon="-72.779251811743">
+  <node id="-1021225362" visible="true" lat="43.596527364419" lon="-72.779251811743">
     <!-- conflict: "198 West Glade Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "198 West Glade At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="198"/>
@@ -1152,7 +1701,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225362"/>
   </node>
-  <node id="-1022225363" visible="true" lat="43.596466822463" lon="-72.779744553312">
+  <node id="-1021225363" visible="true" lat="43.596466822463" lon="-72.779744553312">
     <!-- conflict: "180 West Glade Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "180 West Glade At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="180"/>
@@ -1161,7 +1710,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225363"/>
   </node>
-  <node id="-1022225365" visible="true" lat="43.596440577375" lon="-72.780572218117">
+  <node id="-1021225365" visible="true" lat="43.596440577375" lon="-72.780572218117">
     <!-- conflict: "90 West Glade Sunrise, Killington, VT" No match in OSM, but a different address exists <5m away: "90 West Glade At Sunrise, Killington, VT" -->
     <tag k="addr:city" v="Killington"/>
     <tag k="addr:housenumber" v="90"/>
@@ -1170,7 +1719,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225365"/>
   </node>
-  <node id="-1023140319" visible="true" lat="44.108019854716" lon="-72.999592020452">
+  <node id="-1022140319" visible="true" lat="44.108019854716" lon="-72.999592020452">
     <!-- conflict: "218 West River Road, Bristol, VT" No match in OSM, but a different address exists <5m away: "220 West River Road, Lincoln, VT" -->
     <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="218"/>
@@ -1179,7 +1728,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="140319"/>
   </node>
-  <node id="-1024141337" visible="true" lat="43.208129171465" lon="-72.813953849049">
+  <node id="-1023141337" visible="true" lat="43.208129171465" lon="-72.813953849049">
     <!-- conflict: "1061 Middletown Road, South Londonderry, VT" Fuzzy match to "1061 Middletown Road, Londonderry, VT" -->
     <tag k="addr:city" v="South Londonderry"/>
     <tag k="addr:housenumber" v="1061"/>
@@ -1188,7 +1737,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="141337"/>
   </node>
-  <node id="-1024141584" visible="true" lat="43.192991405308" lon="-72.814636335515">
+  <node id="-1023141584" visible="true" lat="43.192991405308" lon="-72.814636335515">
     <!-- conflict: "1 Main Street, South Londonderry, VT" Fuzzy match to "1 Main Street, , " -->
     <tag k="addr:city" v="South Londonderry"/>
     <tag k="addr:housenumber" v="1"/>
@@ -1197,7 +1746,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="141584"/>
   </node>
-  <node id="-1024771809" visible="true" lat="43.227150334846" lon="-72.80789955515">
+  <node id="-1023771809" visible="true" lat="43.227150334846" lon="-72.80789955515">
     <!-- conflict: "2309 North Main Street, Londonderry, VT" Fuzzy match to "2309 North Main Street, , " -->
     <tag k="addr:city" v="Londonderry"/>
     <tag k="addr:housenumber" v="2309"/>
@@ -1206,7 +1755,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771809"/>
   </node>
-  <node id="-1025455204" visible="true" lat="44.743797431432" lon="-72.432505973849">
+  <node id="-1024455204" visible="true" lat="44.743797431432" lon="-72.432505973849">
     <!-- conflict: "1525 South Edward Drive, Lowell, VT" No match in OSM, but a different address exists <5m away: "15 Edward Drive, Lowell, VT" -->
     <tag k="addr:city" v="Lowell"/>
     <tag k="addr:housenumber" v="1525"/>
@@ -1215,7 +1764,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455204"/>
   </node>
-  <node id="-1025455207" visible="true" lat="44.758819337921" lon="-72.414934018819">
+  <node id="-1024455207" visible="true" lat="44.758819337921" lon="-72.414934018819">
     <!-- conflict: "169 North Edward Drive, Lowell, VT" No match in OSM, but a different address exists <5m away: "6 Edward Drive, Lowell, VT" -->
     <tag k="addr:city" v="Lowell"/>
     <tag k="addr:housenumber" v="169"/>
@@ -1224,7 +1773,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455207"/>
   </node>
-  <node id="-1025455212" visible="true" lat="44.739390000126" lon="-72.436322817319">
+  <node id="-1024455212" visible="true" lat="44.739390000126" lon="-72.436322817319">
     <!-- conflict: "1891 South Edward Drive, Lowell, VT" No match in OSM, but a different address exists <5m away: "17 Edward Drive, Lowell, VT" -->
     <tag k="addr:city" v="Lowell"/>
     <tag k="addr:housenumber" v="1891"/>
@@ -1233,7 +1782,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455212"/>
   </node>
-  <node id="-1025455221" visible="true" lat="44.738053312683" lon="-72.438956679703">
+  <node id="-1024455221" visible="true" lat="44.738053312683" lon="-72.438956679703">
     <!-- conflict: "2091 South Edward Drive, Lowell, VT" No match in OSM, but a different address exists <5m away: "18 Edward Drive, Lowell, VT" -->
     <tag k="addr:city" v="Lowell"/>
     <tag k="addr:housenumber" v="2091"/>
@@ -1242,7 +1791,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455221"/>
   </node>
-  <node id="-1025455223" visible="true" lat="44.757325623107" lon="-72.417044831135">
+  <node id="-1024455223" visible="true" lat="44.757325623107" lon="-72.417044831135">
     <!-- conflict: "6 North Edward Drive, Lowell, VT" Fuzzy match to "6 Edward Drive, Lowell, VT" -->
     <tag k="addr:city" v="Lowell"/>
     <tag k="addr:housenumber" v="6"/>
@@ -1251,7 +1800,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="455223"/>
   </node>
-  <node id="-10251050741" visible="true" lat="44.757679067119" lon="-72.417001194756">
+  <node id="-10241050741" visible="true" lat="44.757679067119" lon="-72.417001194756">
     <!-- conflict: "4 North Edward Drive, Lowell, VT" Fuzzy match to "4 Edward Drive, Lowell, VT" -->
     <tag k="addr:city" v="Lowell"/>
     <tag k="addr:housenumber" v="4"/>
@@ -1260,7 +1809,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050741"/>
   </node>
-  <node id="-10251050742" visible="true" lat="44.738339063711" lon="-72.439171199303">
+  <node id="-10241050742" visible="true" lat="44.738339063711" lon="-72.439171199303">
     <!-- conflict: "2075 South Edward Drive, Lowell, VT" No match in OSM, but a different address exists <5m away: "2678 Edward Drive, , VT" -->
     <tag k="addr:city" v="Lowell"/>
     <tag k="addr:housenumber" v="2075"/>
@@ -1269,7 +1818,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050742"/>
   </node>
-  <node id="-10251050743" visible="true" lat="44.7608390684" lon="-72.413671193705">
+  <node id="-10241050743" visible="true" lat="44.7608390684" lon="-72.413671193705">
     <!-- conflict: "330 North Edward Drive, Lowell, VT" No match in OSM, but a different address exists <5m away: "2655 Edward Drive, , VT" -->
     <tag k="addr:city" v="Lowell"/>
     <tag k="addr:housenumber" v="330"/>
@@ -1278,7 +1827,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050743"/>
   </node>
-  <node id="-1026143103" visible="true" lat="43.40128694638" lon="-72.703445910919">
+  <node id="-1025143103" visible="true" lat="43.40128694638" lon="-72.703445910919">
     <!-- conflict: "11 Thompson Avenue, Ludlow, VT" No match in OSM, but a different address exists <5m away: "9 Thompson Avenue, Lunlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="11"/>
@@ -1287,7 +1836,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143103"/>
   </node>
-  <node id="-1026143245" visible="true" lat="43.398342807626" lon="-72.729815488759">
+  <node id="-1025143245" visible="true" lat="43.398342807626" lon="-72.729815488759">
     <!-- conflict: "55 Lower IV, Ludlow, VT" Fuzzy match to "55 Lower Iv, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="55"/>
@@ -1296,7 +1845,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143245"/>
   </node>
-  <node id="-1026143246" visible="true" lat="43.398099410599" lon="-72.729549147541">
+  <node id="-1025143246" visible="true" lat="43.398099410599" lon="-72.729549147541">
     <!-- conflict: "57 Lower IV, Ludlow, VT" Fuzzy match to "57 Lower Iv, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="57"/>
@@ -1305,7 +1854,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143246"/>
   </node>
-  <node id="-1026143247" visible="true" lat="43.397784827384" lon="-72.729657698137">
+  <node id="-1025143247" visible="true" lat="43.397784827384" lon="-72.729657698137">
     <!-- conflict: "59 Lower IV, Ludlow, VT" Fuzzy match to "59 Lower Iv, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="59"/>
@@ -1314,7 +1863,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143247"/>
   </node>
-  <node id="-1026143248" visible="true" lat="43.397131483697" lon="-72.730525301539">
+  <node id="-1025143248" visible="true" lat="43.397131483697" lon="-72.730525301539">
     <!-- conflict: "42 Lower IV, Ludlow, VT" Fuzzy match to "42 Lower Iv, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="42"/>
@@ -1323,7 +1872,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143248"/>
   </node>
-  <node id="-1026143249" visible="true" lat="43.397172539611" lon="-72.730951044197">
+  <node id="-1025143249" visible="true" lat="43.397172539611" lon="-72.730951044197">
     <!-- conflict: "36 Lower IV, Ludlow, VT" Fuzzy match to "36 Lower Iv, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="36"/>
@@ -1332,7 +1881,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143249"/>
   </node>
-  <node id="-1026143250" visible="true" lat="43.397149908377" lon="-72.729520092595">
+  <node id="-1025143250" visible="true" lat="43.397149908377" lon="-72.729520092595">
     <!-- conflict: "79 Lower IV, Ludlow, VT" Fuzzy match to "79 Lower Iv, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="79"/>
@@ -1341,7 +1890,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143250"/>
   </node>
-  <node id="-1026143251" visible="true" lat="43.396796039019" lon="-72.72963828823">
+  <node id="-1025143251" visible="true" lat="43.396796039019" lon="-72.72963828823">
     <!-- conflict: "91 Lower IV, Ludlow, VT" Fuzzy match to "91 Lower Iv, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="91"/>
@@ -1350,7 +1899,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143251"/>
   </node>
-  <node id="-1026143252" visible="true" lat="43.396803353347" lon="-72.729931732502">
+  <node id="-1025143252" visible="true" lat="43.396803353347" lon="-72.729931732502">
     <!-- conflict: "95 Lower IV, Ludlow, VT" Fuzzy match to "95 Lower Iv, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="95"/>
@@ -1359,7 +1908,61 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143252"/>
   </node>
-  <node id="-1026144267" visible="true" lat="43.371136480083" lon="-72.720581989114">
+  <node id="-1025144027" visible="true" lat="43.387332011439" lon="-72.682329984911">
+    <!-- conflict: "22 MacGinnis Drive, Ludlow, VT" Fuzzy match to "22 Macginnis Drive, Ludlow, VT" -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="MacGinnis Drive"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="144027"/>
+  </node>
+  <node id="-1025144028" visible="true" lat="43.38687414168" lon="-72.68192782577">
+    <!-- conflict: "36 MacGinnis Drive, Ludlow, VT" Fuzzy match to "36 Macginnis Drive, Ludlow, VT" -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="MacGinnis Drive"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="144028"/>
+  </node>
+  <node id="-1025144029" visible="true" lat="43.386530158807" lon="-72.681989665206">
+    <!-- conflict: "58 MacGinnis Drive, Ludlow, VT" Fuzzy match to "58 Macginnis Drive, Ludlow, VT" -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="MacGinnis Drive"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="144029"/>
+  </node>
+  <node id="-1025144030" visible="true" lat="43.387305301494" lon="-72.681103962824">
+    <!-- conflict: "39 MacGinnis Drive, Ludlow, VT" Fuzzy match to "39 Macginnis Drive, Ludlow, VT" -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="MacGinnis Drive"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="144030"/>
+  </node>
+  <node id="-1025144031" visible="true" lat="43.386571252529" lon="-72.681376825763">
+    <!-- conflict: "57 MacGinnis Drive, Ludlow, VT" Fuzzy match to "57 Macginnis Drive, Ludlow, VT" -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="MacGinnis Drive"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="144031"/>
+  </node>
+  <node id="-1025144138" visible="true" lat="43.383646131439" lon="-72.682703988134">
+    <!-- conflict: "170 MacGinnis Drive, Ludlow, VT" Fuzzy match to "170 Macginnis Drive, Ludlow, VT" -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:street" v="MacGinnis Drive"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="144138"/>
+  </node>
+  <node id="-1025144267" visible="true" lat="43.371136480083" lon="-72.720581989114">
     <!-- conflict: "32 Brooks Road, Ludlow, VT" No match in OSM, but a different address exists <5m away: "32 Oconnor Hill Road, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="32"/>
@@ -1368,7 +1971,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144267"/>
   </node>
-  <node id="-1026144986" visible="true" lat="43.412199898586" lon="-72.726438681075">
+  <node id="-1025144986" visible="true" lat="43.412199898586" lon="-72.726438681075">
     <!-- conflict: "681 Okemo Ridge Road, Ludlow, VT" No match in OSM, but a different address exists <5m away: "630 Okemo Ridge Road, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="681"/>
@@ -1377,7 +1980,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="144986"/>
   </node>
-  <node id="-1026145081" visible="true" lat="43.419658839312" lon="-72.704672093541">
+  <node id="-1025145081" visible="true" lat="43.419658839312" lon="-72.704672093541">
     <!-- conflict: "60 Barton Lane, Ludlow, VT" Fuzzy match to "60 Barton Drive, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="60"/>
@@ -1386,7 +1989,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="145081"/>
   </node>
-  <node id="-1026774286" visible="true" lat="43.432630334578" lon="-72.716878679596">
+  <node id="-1025774286" visible="true" lat="43.432630334578" lon="-72.716878679596">
     <!-- conflict: "160 Burdock Lane, Ludlow, VT" No match in OSM, but a different address exists <5m away: " Rod And Gun Club Road, Ludlow, VT" -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="160"/>
@@ -1395,7 +1998,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="774286"/>
   </node>
-  <node id="-1027145304" visible="true" lat="44.483820641538" lon="-71.760273320574">
+  <node id="-1026145304" visible="true" lat="44.483820641538" lon="-71.760273320574">
     <!-- conflict: "1085 Horn of the Moon Road, Lunenburg, VT" No match in OSM, but a different address exists <5m away: "149 Horn of the Moon Road, Lunenburg, VT" -->
     <tag k="addr:city" v="Lunenburg"/>
     <tag k="addr:housenumber" v="1085"/>
@@ -1404,7 +2007,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="145304"/>
   </node>
-  <node id="-1027145305" visible="true" lat="44.483394843444" lon="-71.759823701251">
+  <node id="-1026145305" visible="true" lat="44.483394843444" lon="-71.759823701251">
     <!-- conflict: "1070 Horn of the Moon Road, Lunenburg, VT" No match in OSM, but a different address exists <5m away: "147 Horn of the Moon Road, Lunenburg, VT" -->
     <tag k="addr:city" v="Lunenburg"/>
     <tag k="addr:housenumber" v="1070"/>
@@ -1413,7 +2016,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="145305"/>
   </node>
-  <node id="-1028146502" visible="true" lat="44.575818530331" lon="-71.969964106221">
+  <node id="-1027146502" visible="true" lat="44.575818530331" lon="-71.969964106221">
     <!-- conflict: "2283 Darling Hill Road, Lyndonville, VT" Fuzzy match to "2283 Darling Hill Road, , " -->
     <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="2283"/>
@@ -1422,7 +2025,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="146502"/>
   </node>
-  <node id="-1028146539" visible="true" lat="44.572951120708" lon="-71.972303099238">
+  <node id="-1027146539" visible="true" lat="44.572951120708" lon="-71.972303099238">
     <!-- conflict: "2059 Darling Hill Road, Lyndonville, VT" Fuzzy match to "2059 Darling Hill Road, , " -->
     <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="2059"/>
@@ -1431,7 +2034,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="146539"/>
   </node>
-  <node id="-1028147052" visible="true" lat="44.541670691821" lon="-72.000485735846">
+  <node id="-1027147052" visible="true" lat="44.541670691821" lon="-72.000485735846">
     <!-- conflict: "590 Main Street, Lyndonville, VT" Fuzzy match to "590 Main Street, Lyndon, VT" -->
     <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="590"/>
@@ -1440,7 +2043,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147052"/>
   </node>
-  <node id="-1028147272" visible="true" lat="44.538114606546" lon="-72.001280247585">
+  <node id="-1027147272" visible="true" lat="44.538114606546" lon="-72.001280247585">
     <!-- conflict: "224 Church Street, Lyndonville, VT" Fuzzy match to "224 Church Street, , " -->
     <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="224"/>
@@ -1449,7 +2052,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147272"/>
   </node>
-  <node id="-1028147342" visible="true" lat="44.536566096952" lon="-72.001918394075">
+  <node id="-1027147342" visible="true" lat="44.536566096952" lon="-72.001918394075">
     <!-- conflict: "136 Church Street, Lyndonville, VT" Fuzzy match to "136 Church Street, , " -->
     <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="136"/>
@@ -1458,7 +2061,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147342"/>
   </node>
-  <node id="-1028147580" visible="true" lat="44.533106169226" lon="-72.003589571163">
+  <node id="-1027147580" visible="true" lat="44.533106169226" lon="-72.003589571163">
     <!-- conflict: "957 Broad Street, Lyndonville, VT" Fuzzy match to "957 Broad Street, Lyndon, VT" -->
     <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="957"/>
@@ -1467,7 +2070,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147580"/>
   </node>
-  <node id="-1028148014" visible="true" lat="44.519771431038" lon="-72.00149402349">
+  <node id="-1027148014" visible="true" lat="44.519771431038" lon="-72.00149402349">
     <!-- conflict: "12 Broad Street, Lyndonville, VT" Fuzzy match to "12 Broad Street, Lyndon, VT" -->
     <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="12"/>
@@ -1476,7 +2079,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="148014"/>
   </node>
-  <node id="-1028620645" visible="true" lat="44.546970467517" lon="-71.949333197159">
+  <node id="-1027620645" visible="true" lat="44.546970467517" lon="-71.949333197159">
     <!-- conflict: "341 Town Farm Drive, East Burke, VT" Fuzzy match to "341 Town Farm Drive, Lyndon, " -->
     <tag k="addr:city" v="East Burke"/>
     <tag k="addr:housenumber" v="341"/>
@@ -1485,7 +2088,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="620645"/>
   </node>
-  <node id="-1028750189" visible="true" lat="44.573695477583" lon="-71.972138512519">
+  <node id="-1027750189" visible="true" lat="44.573695477583" lon="-71.972138512519">
     <!-- conflict: "2099 Darling Hill Road, Lyndonville, VT" Fuzzy match to "2099 Darling Hill Road, , " -->
     <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="2099"/>
@@ -1494,7 +2097,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750189"/>
   </node>
-  <node id="-1029149153" visible="true" lat="43.205787267561" lon="-73.021603464166">
+  <node id="-1028149153" visible="true" lat="43.205787267561" lon="-73.021603464166">
     <!-- conflict: "229 Beech Street, Manchester Center, VT" Fuzzy match to "229 Beech Street, Manchester, " -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="229"/>
@@ -1503,7 +2106,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149153"/>
   </node>
-  <node id="-1029149327" visible="true" lat="43.193223178703" lon="-73.039422374127">
+  <node id="-1028149327" visible="true" lat="43.193223178703" lon="-73.039422374127">
     <!-- conflict: "6458 Main Street, Manchester Center, VT" Fuzzy match to "6458 Main Street, , " -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="6458"/>
@@ -1512,7 +2115,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149327"/>
   </node>
-  <node id="-1029149940" visible="true" lat="43.177375281292" lon="-73.053497330868">
+  <node id="-1028149940" visible="true" lat="43.177375281292" lon="-73.053497330868">
     <!-- conflict: "377 Center Hill, Manchester Center, VT" Fuzzy match to "377 Center Hill Road, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="377"/>
@@ -1521,7 +2124,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149940"/>
   </node>
-  <node id="-1029149952" visible="true" lat="43.177323911768" lon="-73.053092439856">
+  <node id="-1028149952" visible="true" lat="43.177323911768" lon="-73.053092439856">
     <!-- conflict: "357 Center Hill, Manchester Center, VT" Fuzzy match to "357 Center Hill Road, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="357"/>
@@ -1530,7 +2133,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149952"/>
   </node>
-  <node id="-1029149963" visible="true" lat="43.177249443392" lon="-73.052947894487">
+  <node id="-1028149963" visible="true" lat="43.177249443392" lon="-73.052947894487">
     <!-- conflict: "345 Center Hill, Manchester Center, VT" Fuzzy match to "345 Center Hill Road, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="345"/>
@@ -1539,7 +2142,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149963"/>
   </node>
-  <node id="-1029149965" visible="true" lat="43.177221698369" lon="-73.052065795857">
+  <node id="-1028149965" visible="true" lat="43.177221698369" lon="-73.052065795857">
     <!-- conflict: "308 Center Hill, Manchester Center, VT" Fuzzy match to "308 Center Hill Road, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="308"/>
@@ -1548,7 +2151,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149965"/>
   </node>
-  <node id="-1029149985" visible="true" lat="43.177022156174" lon="-73.052682265565">
+  <node id="-1028149985" visible="true" lat="43.177022156174" lon="-73.052682265565">
     <!-- conflict: "321 Center Hill, Manchester Center, VT" Fuzzy match to "321 Center Hill Road, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="321"/>
@@ -1557,7 +2160,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149985"/>
   </node>
-  <node id="-1029149999" visible="true" lat="43.176832249337" lon="-73.052324811696">
+  <node id="-1028149999" visible="true" lat="43.176832249337" lon="-73.052324811696">
     <!-- conflict: "303 Center Hill, Manchester Center, VT" Fuzzy match to "303 Center Hill Road, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="303"/>
@@ -1566,7 +2169,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="149999"/>
   </node>
-  <node id="-1029150000" visible="true" lat="43.176875738948" lon="-73.056355020603">
+  <node id="-1028150000" visible="true" lat="43.176875738948" lon="-73.056355020603">
     <!-- conflict: "4898 Main Street, Manchester Center, VT" Fuzzy match to "4898 Main Street, , " -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="4898"/>
@@ -1575,7 +2178,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150000"/>
   </node>
-  <node id="-1029150071" visible="true" lat="43.175958713256" lon="-73.050699340292">
+  <node id="-1028150071" visible="true" lat="43.175958713256" lon="-73.050699340292">
     <!-- conflict: "214 Center Hill, Manchester Center, VT" Fuzzy match to "214 Center Hill Road, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="214"/>
@@ -1584,7 +2187,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150071"/>
   </node>
-  <node id="-1029150097" visible="true" lat="43.175716774169" lon="-73.050616527137">
+  <node id="-1028150097" visible="true" lat="43.175716774169" lon="-73.050616527137">
     <!-- conflict: "200 Center Hill, Manchester Center, VT" Fuzzy match to "200 Center Hill Road, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="200"/>
@@ -1593,7 +2196,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150097"/>
   </node>
-  <node id="-1029150167" visible="true" lat="43.174976815577" lon="-73.04953691211">
+  <node id="-1028150167" visible="true" lat="43.174976815577" lon="-73.04953691211">
     <!-- conflict: "106 Center Hill, Manchester Center, VT" Fuzzy match to "106 Center Hill Road, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="106"/>
@@ -1602,7 +2205,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150167"/>
   </node>
-  <node id="-1029150177" visible="true" lat="43.174726214654" lon="-73.059128014446">
+  <node id="-1028150177" visible="true" lat="43.174726214654" lon="-73.059128014446">
     <!-- conflict: "4692 Main Street, Manchester Center, VT" Fuzzy match to "4692 Main Street, Manchester, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="4692"/>
@@ -1611,7 +2214,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150177"/>
   </node>
-  <node id="-1029150210" visible="true" lat="43.174349280408" lon="-73.049351052915">
+  <node id="-1028150210" visible="true" lat="43.174349280408" lon="-73.049351052915">
     <!-- conflict: "78 Center Hill, Manchester Center, VT" Fuzzy match to "78 Center Hill Road, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="78"/>
@@ -1620,7 +2223,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150210"/>
   </node>
-  <node id="-1029150256" visible="true" lat="43.173975004238" lon="-73.049170427313">
+  <node id="-1028150256" visible="true" lat="43.173975004238" lon="-73.049170427313">
     <!-- conflict: "48 Center Hill, Manchester Center, VT" Fuzzy match to "48 Center Hill Road, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="48"/>
@@ -1629,7 +2232,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150256"/>
   </node>
-  <node id="-1029150288" visible="true" lat="43.17374563435" lon="-73.049102475783">
+  <node id="-1028150288" visible="true" lat="43.17374563435" lon="-73.049102475783">
     <!-- conflict: "32 Center Hill, Manchester Center, VT" Fuzzy match to "32 Center Hill Road, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="32"/>
@@ -1638,7 +2241,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150288"/>
   </node>
-  <node id="-1029150383" visible="true" lat="43.173236201664" lon="-73.047305819791">
+  <node id="-1028150383" visible="true" lat="43.173236201664" lon="-73.047305819791">
     <!-- conflict: "557 Depot Street, Manchester Center, VT" Fuzzy match to "557 Depot Street, Manchester, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="557"/>
@@ -1647,7 +2250,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150383"/>
   </node>
-  <node id="-1029150424" visible="true" lat="43.172639068498" lon="-73.071938864232">
+  <node id="-1028150424" visible="true" lat="43.172639068498" lon="-73.071938864232">
     <!-- conflict: "627 West Road, Manchester Center, VT" Fuzzy match to "627 West Fields, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="627"/>
@@ -1656,7 +2259,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150424"/>
   </node>
-  <node id="-1029150710" visible="true" lat="43.168271237666" lon="-73.071542135849">
+  <node id="-1028150710" visible="true" lat="43.168271237666" lon="-73.071542135849">
     <!-- conflict: "326 West Road, Manchester, VT" Fuzzy match to "326 West Fields, Manchester Center, VT" -->
     <tag k="addr:city" v="Manchester"/>
     <tag k="addr:housenumber" v="326"/>
@@ -1665,7 +2268,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="150710"/>
   </node>
-  <node id="-1029151127" visible="true" lat="43.162232696918" lon="-73.080302895962">
+  <node id="-1028151127" visible="true" lat="43.162232696918" lon="-73.080302895962">
     <!-- conflict: "109 West Union Street, Manchester, VT" Fuzzy match to "109 West Road, Manchester, VT" -->
     <tag k="addr:city" v="Manchester"/>
     <tag k="addr:housenumber" v="109"/>
@@ -1674,7 +2277,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151127"/>
   </node>
-  <node id="-1029151144" visible="true" lat="43.161790494861" lon="-73.070397297502">
+  <node id="-1028151144" visible="true" lat="43.161790494861" lon="-73.070397297502">
     <!-- conflict: "108 Union Street, Manchester, VT" Fuzzy match to "108 Union Street, Manchester Village, VT" -->
     <tag k="addr:city" v="Manchester"/>
     <tag k="addr:housenumber" v="108"/>
@@ -1683,7 +2286,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151144"/>
   </node>
-  <node id="-1029151466" visible="true" lat="43.145293829691" lon="-73.087053377485">
+  <node id="-1028151466" visible="true" lat="43.145293829691" lon="-73.087053377485">
     <!-- conflict: "162 Village Ormsby Hill, Manchester Center, VT" No match in OSM, but a different address exists <5m away: "162 Village At Ormsby Hill, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="162"/>
@@ -1692,7 +2295,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151466"/>
   </node>
-  <node id="-1029151468" visible="true" lat="43.145095225636" lon="-73.086718742343">
+  <node id="-1028151468" visible="true" lat="43.145095225636" lon="-73.086718742343">
     <!-- conflict: "186 Village Ormsby Hill, Manchester Center, VT" No match in OSM, but a different address exists <5m away: "186 Village At Ormsby Hill, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="186"/>
@@ -1701,7 +2304,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151468"/>
   </node>
-  <node id="-1029151469" visible="true" lat="43.145100798623" lon="-73.086139673282">
+  <node id="-1028151469" visible="true" lat="43.145100798623" lon="-73.086139673282">
     <!-- conflict: "212 Village Ormsby Hill, Manchester Center, VT" No match in OSM, but a different address exists <5m away: "212 Village At Ormsby Hill, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="212"/>
@@ -1710,7 +2313,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151469"/>
   </node>
-  <node id="-1029151470" visible="true" lat="43.144971147856" lon="-73.086299302223">
+  <node id="-1028151470" visible="true" lat="43.144971147856" lon="-73.086299302223">
     <!-- conflict: "206 Village Ormsby Hill, Manchester Center, VT" No match in OSM, but a different address exists <5m away: "206 Village At Ormsby Hill, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="206"/>
@@ -1719,7 +2322,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151470"/>
   </node>
-  <node id="-1029151471" visible="true" lat="43.144944508484" lon="-73.086530469057">
+  <node id="-1028151471" visible="true" lat="43.144944508484" lon="-73.086530469057">
     <!-- conflict: "200 Village Ormsby Hill, Manchester Center, VT" No match in OSM, but a different address exists <5m away: "200 Village At Ormsby Hill, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="200"/>
@@ -1728,7 +2331,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151471"/>
   </node>
-  <node id="-1029151472" visible="true" lat="43.14481109168" lon="-73.087626111179">
+  <node id="-1028151472" visible="true" lat="43.14481109168" lon="-73.087626111179">
     <!-- conflict: "98 Village Ormsby Hill, Manchester Center, VT" No match in OSM, but a different address exists <5m away: "98 Village At Ormsby Hill, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="98"/>
@@ -1737,7 +2340,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151472"/>
   </node>
-  <node id="-1029151619" visible="true" lat="43.144352073622" lon="-73.08889109952">
+  <node id="-1028151619" visible="true" lat="43.144352073622" lon="-73.08889109952">
     <!-- conflict: "32 Village Ormsby Hill, Manchester Center, VT" No match in OSM, but a different address exists <5m away: "32 Village At Ormsby Hill, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="32"/>
@@ -1746,7 +2349,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151619"/>
   </node>
-  <node id="-1029151669" visible="true" lat="43.145152212595" lon="-73.086905324486">
+  <node id="-1028151669" visible="true" lat="43.145152212595" lon="-73.086905324486">
     <!-- conflict: "176 Village Ormsby Hill, Manchester Center, VT" No match in OSM, but a different address exists <5m away: "176 Village At Ormsby Hill, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="176"/>
@@ -1755,7 +2358,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151669"/>
   </node>
-  <node id="-1029151670" visible="true" lat="43.145213710091" lon="-73.086012870016">
+  <node id="-1028151670" visible="true" lat="43.145213710091" lon="-73.086012870016">
     <!-- conflict: "214 Village Ormsby Hill, Manchester Center, VT" No match in OSM, but a different address exists <5m away: "214 Village At Ormsby Hill, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="214"/>
@@ -1764,7 +2367,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151670"/>
   </node>
-  <node id="-1029151767" visible="true" lat="43.165200819361" lon="-73.051861437682">
+  <node id="-1028151767" visible="true" lat="43.165200819361" lon="-73.051861437682">
     <!-- conflict: "3210 Richville Road, Manchester Center, VT" Fuzzy match to "3210 Richville Road, Manchester, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="3210"/>
@@ -1773,7 +2376,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151767"/>
   </node>
-  <node id="-1029151777" visible="true" lat="43.173900876897" lon="-73.049737210602">
+  <node id="-1028151777" visible="true" lat="43.173900876897" lon="-73.049737210602">
     <!-- conflict: "49 Center Hill, Manchester Center, VT" Fuzzy match to "49 Center Hill Road, Manchester, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="49"/>
@@ -1782,7 +2385,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151777"/>
   </node>
-  <node id="-1029151879" visible="true" lat="43.144397858334" lon="-73.088174976526">
+  <node id="-1028151879" visible="true" lat="43.144397858334" lon="-73.088174976526">
     <!-- conflict: "42 Village Ormsby Hill, Manchester Center, VT" No match in OSM, but a different address exists <5m away: "42 Village At Ormsby Hill, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="42"/>
@@ -1791,7 +2394,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="151879"/>
   </node>
-  <node id="-1029341765" visible="true" lat="43.176784526481" lon="-73.052249389068">
+  <node id="-1028341765" visible="true" lat="43.176784526481" lon="-73.052249389068">
     <!-- conflict: "295 Center Hill, Manchester Center, VT" Fuzzy match to "295 Center Hill Road, , VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="295"/>
@@ -1800,7 +2403,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341765"/>
   </node>
-  <node id="-1029774773" visible="true" lat="43.17538881036" lon="-73.033285911102">
+  <node id="-1028774773" visible="true" lat="43.17538881036" lon="-73.033285911102">
     <!-- conflict: "90 Dufresne Pond Road, Manchester Center, VT" No match in OSM, but a different address exists <5m away: "84 Dufresne Pond Road, Manchester, VT" -->
     <tag k="addr:city" v="Manchester Center"/>
     <tag k="addr:housenumber" v="90"/>
@@ -1809,7 +2412,61 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="774773"/>
   </node>
-  <node id="-1030152439" visible="true" lat="42.838671286161" lon="-72.73237462731">
+  <node id="-1029152237" visible="true" lat="42.868144531938" lon="-72.693020942397">
+    <!-- conflict: "768 MacArthur Road, Brattleboro, VT" Fuzzy match to "768 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="768"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152237"/>
+  </node>
+  <node id="-1029152245" visible="true" lat="42.8672368659" lon="-72.694824737051">
+    <!-- conflict: "770 MacArthur Road, Brattleboro, VT" Fuzzy match to "770 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="770"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152245"/>
+  </node>
+  <node id="-1029152264" visible="true" lat="42.863929047318" lon="-72.689565161373">
+    <!-- conflict: "1112 MacArthur Road, Brattleboro, VT" Fuzzy match to "1112 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="1112"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152264"/>
+  </node>
+  <node id="-1029152266" visible="true" lat="42.863984153099" lon="-72.689131936704">
+    <!-- conflict: "1111 MacArthur Road, Brattleboro, VT" Fuzzy match to "1111 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="1111"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152266"/>
+  </node>
+  <node id="-1029152268" visible="true" lat="42.863787203082" lon="-72.68913748225">
+    <!-- conflict: "1115 MacArthur Road, Brattleboro, VT" Fuzzy match to "1115 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="1115"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152268"/>
+  </node>
+  <node id="-1029152271" visible="true" lat="42.862968293792" lon="-72.691036140429">
+    <!-- conflict: "1174 MacArthur Road, Brattleboro, VT" Fuzzy match to "1174 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="1174"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="152271"/>
+  </node>
+  <node id="-1029152439" visible="true" lat="42.838671286161" lon="-72.73237462731">
     <!-- conflict: "2472 South Road, Marlboro College, VT" Fuzzy match to "2472 South Road, Marlboro, VT" -->
     <tag k="addr:city" v="Marlboro College"/>
     <tag k="addr:housenumber" v="2472"/>
@@ -1818,7 +2475,97 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="152439"/>
   </node>
-  <node id="-1031153076" visible="true" lat="44.280358999259" lon="-72.421498227047">
+  <node id="-1029342514" visible="true" lat="42.872460764997" lon="-72.693789233119">
+    <!-- conflict: "487 MacArthur Road, Brattleboro, VT" Fuzzy match to "487 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="487"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="342514"/>
+  </node>
+  <node id="-1029455195" visible="true" lat="42.877658071257" lon="-72.695502436991">
+    <!-- conflict: "2 MacArthur Road, Brattleboro, VT" Fuzzy match to "2 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455195"/>
+  </node>
+  <node id="-1029455196" visible="true" lat="42.874693080427" lon="-72.695075548575">
+    <!-- conflict: "339 MacArthur Road, Brattleboro, VT" Fuzzy match to "339 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="339"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455196"/>
+  </node>
+  <node id="-1029612252" visible="true" lat="42.862911590447" lon="-72.689510510947">
+    <!-- conflict: "1195 MacArthur Road, Brattleboro, VT" Fuzzy match to "1195 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="1195"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612252"/>
+  </node>
+  <node id="-1029612253" visible="true" lat="42.865992161272" lon="-72.689319712511">
+    <!-- conflict: "976 MacArthur Road, Brattleboro, VT" Fuzzy match to "976 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="976"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612253"/>
+  </node>
+  <node id="-1029612254" visible="true" lat="42.863028666208" lon="-72.687198619751">
+    <!-- conflict: "1073 MacArthur Road, Brattleboro, VT" Fuzzy match to "1073 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="1073"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612254"/>
+  </node>
+  <node id="-1029612255" visible="true" lat="42.878139172965" lon="-72.694250787898">
+    <!-- conflict: "5 MacArthur Road, Brattleboro, VT" Fuzzy match to "5 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612255"/>
+  </node>
+  <node id="-1029612298" visible="true" lat="42.867887113466" lon="-72.691951896845">
+    <!-- conflict: "778 MacArthur Road, Brattleboro, VT" Fuzzy match to "778 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="778"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612298"/>
+  </node>
+  <node id="-1029612304" visible="true" lat="42.866580863779" lon="-72.690750356155">
+    <!-- conflict: "920 MacArthur Road, Brattleboro, VT" Fuzzy match to "920 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="920"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="612304"/>
+  </node>
+  <node id="-1029656518" visible="true" lat="42.861551741974" lon="-72.691663299332">
+    <!-- conflict: "1300 MacArthur Road, Brattleboro, VT" Fuzzy match to "1300 Macarthur Road, Brattleboro, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:street" v="MacArthur Road"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656518"/>
+  </node>
+  <node id="-1030153076" visible="true" lat="44.280358999259" lon="-72.421498227047">
     <!-- conflict: "8132 U.S. Route 2, Plainfield, VT" Fuzzy match to "8132 U.S. Route 2, Marshfield, VT" -->
     <tag k="addr:city" v="Plainfield"/>
     <tag k="addr:housenumber" v="8132"/>
@@ -1827,7 +2574,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="153076"/>
   </node>
-  <node id="-1032306584" visible="true" lat="43.650111326089" lon="-72.934199503791">
+  <node id="-1031306584" visible="true" lat="43.650111326089" lon="-72.934199503791">
     <!-- conflict: "487 Esquiline Hill, Rutland, VT" No match in OSM, but a different address exists <5m away: "485 Esquiline Hill, Mendon, VT" -->
     <tag k="addr:city" v="Rutland"/>
     <tag k="addr:housenumber" v="487"/>
@@ -1835,6 +2582,24 @@
     <tag k="addr:postcode" v="05701"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="306584"/>
+  </node>
+  <node id="-1032154461" visible="true" lat="44.02009491625" lon="-73.170598605247">
+    <!-- conflict: "73 MacIntyre Lane, Middlebury, VT" Fuzzy match to "73 Macintyre Lane, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="MacIntyre Lane"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154461"/>
+  </node>
+  <node id="-1032154505" visible="true" lat="44.018651333136" lon="-73.1698393433">
+    <!-- conflict: "21 MacIntyre Lane, Middlebury, VT" Fuzzy match to "21 Macintyre Lane, Middlebury, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="MacIntyre Lane"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="154505"/>
   </node>
   <node id="-1033156926" visible="true" lat="44.350973868141" lon="-72.602727944367">
     <!-- conflict: "433 Shady Rill Road, Montpelier, VT" Fuzzy match to "433 Shady Rill Road, Middlesex, VT" -->
@@ -1971,6 +2736,42 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771264"/>
   </node>
+  <node id="-1034160817" visible="true" lat="44.588646241591" lon="-73.134577782339">
+    <!-- conflict: "33 MacKenzie Lane, Milton, VT" Fuzzy match to "33 Mackenzie Lane, Milton, VT" -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="MacKenzie Lane"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160817"/>
+  </node>
+  <node id="-1034160818" visible="true" lat="44.588583291382" lon="-73.137671884223">
+    <!-- conflict: "88 MacKenzie Lane, Milton, VT" Fuzzy match to "88 Mackenzie Lane, Milton, VT" -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="MacKenzie Lane"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="160818"/>
+  </node>
+  <node id="-1034772662" visible="true" lat="44.588230636518" lon="-73.13359969699">
+    <!-- conflict: "31 MacKenzie Lane, Milton, VT" Fuzzy match to "31 Mackenzie Lane, Milton, VT" -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="MacKenzie Lane"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772662"/>
+  </node>
+  <node id="-1034772663" visible="true" lat="44.588441040456" lon="-73.134771981939">
+    <!-- conflict: "35 MacKenzie Lane, Milton, VT" Fuzzy match to "35 Mackenzie Lane, Milton, VT" -->
+    <tag k="addr:city" v="Milton"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="MacKenzie Lane"/>
+    <tag k="addr:postcode" v="05468"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772663"/>
+  </node>
   <node id="-1034772809" visible="true" lat="44.625246147875" lon="-73.148078252379">
     <!-- conflict: "529 7 South, Milton, VT" No match in OSM, but a different address exists <5m away: "529 U.S. Route 7 South, Milton, VT" -->
     <tag k="addr:city" v="Milton"/>
@@ -2106,6 +2907,33 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167653"/>
   </node>
+  <node id="-1039168320" visible="true" lat="44.881013565701" lon="-71.969606432374">
+    <!-- conflict: "26 MacLeay Road, Morgan, VT" Fuzzy match to "26 Macleay Road, Morgan, VT" -->
+    <tag k="addr:city" v="Morgan"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="MacLeay Road"/>
+    <tag k="addr:postcode" v="05853"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168320"/>
+  </node>
+  <node id="-1039168321" visible="true" lat="44.880872626874" lon="-71.969552576649">
+    <!-- conflict: "29 MacLeay Road, Morgan, VT" Fuzzy match to "29 Macleay Road, Morgan, VT" -->
+    <tag k="addr:city" v="Morgan"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="MacLeay Road"/>
+    <tag k="addr:postcode" v="05853"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168321"/>
+  </node>
+  <node id="-1039168322" visible="true" lat="44.880715781998" lon="-71.969806510507">
+    <!-- conflict: "41 MacLeay Road, Morgan, VT" Fuzzy match to "41 Macleay Road, Morgan, VT" -->
+    <tag k="addr:city" v="Morgan"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="MacLeay Road"/>
+    <tag k="addr:postcode" v="05853"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168322"/>
+  </node>
   <node id="-1039168418" visible="true" lat="44.852265878003" lon="-71.913918573721">
     <!-- conflict: "374 Old McCabe Road, Island Pond, VT" Fuzzy match to "374 Old Mccabe Road, Morgan, VT" -->
     <tag k="addr:city" v="Island Pond"/>
@@ -2132,6 +2960,24 @@
     <tag k="addr:postcode" v="05846"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168433"/>
+  </node>
+  <node id="-1039168473" visible="true" lat="44.88096580247" lon="-71.97023282125">
+    <!-- conflict: "36 MacLeay Road, Morgan, VT" Fuzzy match to "36 Macleay Road, Morgan, VT" -->
+    <tag k="addr:city" v="Morgan"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="MacLeay Road"/>
+    <tag k="addr:postcode" v="05853"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168473"/>
+  </node>
+  <node id="-1039168503" visible="true" lat="44.880889401122" lon="-71.969974610569">
+    <!-- conflict: "46 MacLeay Road, Morgan, VT" Fuzzy match to "46 Macleay Road, Morgan, VT" -->
+    <tag k="addr:city" v="Morgan"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="MacLeay Road"/>
+    <tag k="addr:postcode" v="05853"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="168503"/>
   </node>
   <node id="-1039168561" visible="true" lat="44.849668852237" lon="-71.911531875182">
     <!-- conflict: "144 Old McCabe Road, Island Pond, VT" Fuzzy match to "144 Old Mccabe Road, Morgan, VT" -->
@@ -3455,6 +4301,24 @@
     <tag k="addr:postcode" v="05701"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338692"/>
+  </node>
+  <node id="-1073215900" visible="true" lat="44.191402629974" lon="-72.144493003898">
+    <!-- conflict: "61 MacKennon Drive, South Ryegate, VT" Fuzzy match to "61 Mackennon Drive, South Ryegate, VT" -->
+    <tag k="addr:city" v="South Ryegate"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="MacKennon Drive"/>
+    <tag k="addr:postcode" v="05069"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215900"/>
+  </node>
+  <node id="-1073215903" visible="true" lat="44.191179593295" lon="-72.144555874134">
+    <!-- conflict: "49 MacKennon Drive, South Ryegate, VT" Fuzzy match to "49 Mackennon Drive, South Ryegate, VT" -->
+    <tag k="addr:city" v="South Ryegate"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="MacKennon Drive"/>
+    <tag k="addr:postcode" v="05069"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="215903"/>
   </node>
   <node id="-10731050859" visible="true" lat="44.194964275915" lon="-72.072960324644">
     <!-- conflict: "4340 Interstate 91, East Ryegate, VT" No match in OSM, but a different address exists <5m away: "4340 Interstate 91 South, , VT" -->
@@ -4941,6 +5805,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252837"/>
   </node>
+  <node id="-1093450892" visible="true" lat="43.097541522572" lon="-73.116468813431">
+    <!-- conflict: "337 MacNaughton Lane, Arlington, VT" Fuzzy match to "337 Macnaughton Lane, Arlington, VT" -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="337"/>
+    <tag k="addr:street" v="MacNaughton Lane"/>
+    <tag k="addr:postcode" v="05250"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450892"/>
+  </node>
   <node id="-1093452781" visible="true" lat="43.109134927336" lon="-73.10087858425">
     <!-- conflict: "67 Millbrook Road, Arlington, VT" No match in OSM, but a different address exists <5m away: "103 Millbrook Road, Sunderland, VT" -->
     <tag k="addr:city" v="Arlington"/>
@@ -5760,6 +6633,42 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="287379"/>
   </node>
+  <node id="-1114287387" visible="true" lat="44.127936037492" lon="-72.501286767317">
+    <!-- conflict: "130 MacLean Road, Williamstown, VT" Fuzzy match to "130 Maclean Road, Williamstown, VT" -->
+    <tag k="addr:city" v="Williamstown"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="MacLean Road"/>
+    <tag k="addr:postcode" v="05679"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287387"/>
+  </node>
+  <node id="-1114287399" visible="true" lat="44.127545725852" lon="-72.501710164421">
+    <!-- conflict: "141 MacLean Road, Williamstown, VT" Fuzzy match to "141 Maclean Road, Williamstown, VT" -->
+    <tag k="addr:city" v="Williamstown"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:street" v="MacLean Road"/>
+    <tag k="addr:postcode" v="05679"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287399"/>
+  </node>
+  <node id="-1114287405" visible="true" lat="44.127394492142" lon="-72.500182504132">
+    <!-- conflict: "57 MacLean Road, Williamstown, VT" Fuzzy match to "57 Maclean Road, Williamstown, VT" -->
+    <tag k="addr:city" v="Williamstown"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="MacLean Road"/>
+    <tag k="addr:postcode" v="05679"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287405"/>
+  </node>
+  <node id="-1114341529" visible="true" lat="44.12822365677" lon="-72.502130804262">
+    <!-- conflict: "164 MacLean Road, Williamstown, VT" Fuzzy match to "164 Maclean Road, Williamstown, VT" -->
+    <tag k="addr:city" v="Williamstown"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="MacLean Road"/>
+    <tag k="addr:postcode" v="05679"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341529"/>
+  </node>
   <node id="-1114451304" visible="true" lat="44.136264937883" lon="-72.538482918821">
     <!-- conflict: "344 Old Town Road, Williamstown, VT" No match in OSM, but a different address exists <5m away: "228 Old Town Road, , VT" -->
     <tag k="addr:city" v="Williamstown"/>
@@ -5867,6 +6776,15 @@
     <tag k="addr:postcode" v="05089"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="296806"/>
+  </node>
+  <node id="-11171050556" visible="true" lat="43.480142413347" lon="-72.392455243862">
+    <!-- conflict: "64 MacLeay Royce Drive, Windsor, VT" Fuzzy match to "64 Macleay Royce Drive, Windsor, VT" -->
+    <tag k="addr:city" v="Windsor"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="MacLeay Royce Drive"/>
+    <tag k="addr:postcode" v="05089"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050556"/>
   </node>
   <node id="-1118297015" visible="true" lat="43.201455299326" lon="-72.992432919175">
     <!-- conflict: "6 Deep Woods Road, Manchester Center, VT" Fuzzy match to "6 Deep Woods Circle, Manchester Center, VT" -->
@@ -6138,6 +7056,15 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454403"/>
   </node>
+  <node id="-11241437" visible="true" lat="44.373843115073" lon="-72.579791565396">
+    <!-- conflict: "218 MacKenzie Drive, Worcester, VT" Fuzzy match to "218 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="218"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1437"/>
+  </node>
   <node id="-1124304443" visible="true" lat="44.385063196879" lon="-72.54122798511">
     <!-- conflict: "206 Wildlife Way, Worcester, VT" No match in OSM, but a different address exists <5m away: "96 Pratt Road, Worcester, VT" -->
     <tag k="addr:city" v="Worcester"/>
@@ -6156,6 +7083,60 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="304465"/>
   </node>
+  <node id="-1124304478" visible="true" lat="44.381720175263" lon="-72.580913046515">
+    <!-- conflict: "48 MacKenzie Drive, Worcester, VT" Fuzzy match to "48 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304478"/>
+  </node>
+  <node id="-1124304497" visible="true" lat="44.379311454473" lon="-72.58115110889">
+    <!-- conflict: "130 MacKenzie Drive, Worcester, VT" Fuzzy match to "130 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304497"/>
+  </node>
+  <node id="-1124304526" visible="true" lat="44.374903170048" lon="-72.582412585759">
+    <!-- conflict: "186 MacKenzie Drive, Worcester, VT" Fuzzy match to "186 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="186"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304526"/>
+  </node>
+  <node id="-1124304532" visible="true" lat="44.374472237746" lon="-72.584208987904">
+    <!-- conflict: "199 MacKenzie Drive, Worcester, VT" Fuzzy match to "199 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304532"/>
+  </node>
+  <node id="-1124304544" visible="true" lat="44.374009543304" lon="-72.584725650419">
+    <!-- conflict: "213 MacKenzie Drive, Worcester, VT" Fuzzy match to "213 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="213"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304544"/>
+  </node>
+  <node id="-1124304666" visible="true" lat="44.374028011834" lon="-72.58373171803">
+    <!-- conflict: "208 MacKenzie Drive, Worcester, VT" Fuzzy match to "208 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304666"/>
+  </node>
   <node id="-1124304671" visible="true" lat="44.396078051343" lon="-72.568025924195">
     <!-- conflict: "65 Trail 18, Worcester, VT" No match in OSM, but a different address exists <5m away: "65 Trl 18, Worcester, VT" -->
     <tag k="addr:city" v="Worcester"/>
@@ -6164,6 +7145,15 @@
     <tag k="addr:postcode" v="05682"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="304671"/>
+  </node>
+  <node id="-1124304680" visible="true" lat="44.38407891097" lon="-72.581145845656">
+    <!-- conflict: "12 MacKenzie Drive, Worcester, VT" Fuzzy match to "12 Mackenzie Drive, Worcester, VT" -->
+    <tag k="addr:city" v="Worcester"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="MacKenzie Drive"/>
+    <tag k="addr:postcode" v="05682"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="304680"/>
   </node>
   <node id="-1124758085" visible="true" lat="44.398247535219" lon="-72.565598185526">
     <!-- conflict: "66 Trail 18, Worcester, VT" No match in OSM, but a different address exists <5m away: "66 Trl 18, Worcester, VT" -->

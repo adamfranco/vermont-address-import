@@ -1,13 +1,472 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-69926" visible="true" lat="44.568685003775" lon="-73.101708867578">
-    <!-- conflict: "312 Brigham Hill Road, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "320 Brigham Hill Road, Essex Junction, VT" -->
-    <tag k="addr:city" v="Essex Junction"/>
-    <tag k="addr:housenumber" v="312"/>
-    <tag k="addr:street" v="Brigham Hill Road"/>
-    <tag k="addr:postcode" v="05452"/>
+  <node id="-73642" visible="true" lat="44.5366241175" lon="-73.244127105517">
+    <!-- conflict: "167 MacRae Road, Colchester, VT" Fuzzy match to "167 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="69926"/>
+    <tag k="ref:vcgi:esiteid" v="73642"/>
+  </node>
+  <node id="-73644" visible="true" lat="44.536392882173" lon="-73.246980234856">
+    <!-- conflict: "25 MacRae Road, Colchester, VT" Fuzzy match to "25 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73644"/>
+  </node>
+  <node id="-73679" visible="true" lat="44.535954890973" lon="-73.246522451868">
+    <!-- conflict: "73 MacRae Road, Colchester, VT" Fuzzy match to "73 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73679"/>
+  </node>
+  <node id="-73683" visible="true" lat="44.535880312501" lon="-73.247165792685">
+    <!-- conflict: "48 MacRae Road, Colchester, VT" Fuzzy match to "48 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73683"/>
+  </node>
+  <node id="-73697" visible="true" lat="44.535658563536" lon="-73.246124969802">
+    <!-- conflict: "101 MacRae Road, Colchester, VT" Fuzzy match to "101 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73697"/>
+  </node>
+  <node id="-73698" visible="true" lat="44.535737287645" lon="-73.246944786713">
+    <!-- conflict: "66 MacRae Road, Colchester, VT" Fuzzy match to "66 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73698"/>
+  </node>
+  <node id="-73710" visible="true" lat="44.535611389862" lon="-73.246664607224">
+    <!-- conflict: "82 MacRae Road, Colchester, VT" Fuzzy match to "82 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73710"/>
+  </node>
+  <node id="-73717" visible="true" lat="44.535472007049" lon="-73.246418116115">
+    <!-- conflict: "98 MacRae Road, Colchester, VT" Fuzzy match to "98 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73717"/>
+  </node>
+  <node id="-73729" visible="true" lat="44.535271061511" lon="-73.245326254483">
+    <!-- conflict: "151 MacRae Road, Colchester, VT" Fuzzy match to "151 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73729"/>
+  </node>
+  <node id="-73738" visible="true" lat="44.535157618818" lon="-73.246079945018">
+    <!-- conflict: "124 MacRae Road, Colchester, VT" Fuzzy match to "124 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73738"/>
+  </node>
+  <node id="-73742" visible="true" lat="44.535066065052" lon="-73.244866871918">
+    <!-- conflict: "169 MacRae Road, Colchester, VT" Fuzzy match to "169 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="169"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73742"/>
+  </node>
+  <node id="-73746" visible="true" lat="44.534983711279" lon="-73.245750223865">
+    <!-- conflict: "142 MacRae Road, Colchester, VT" Fuzzy match to "142 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73746"/>
+  </node>
+  <node id="-73761" visible="true" lat="44.534753456679" lon="-73.24533282512">
+    <!-- conflict: "168 MacRae Road, Colchester, VT" Fuzzy match to "168 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73761"/>
+  </node>
+  <node id="-73771" visible="true" lat="44.53477240654" lon="-73.244206046064">
+    <!-- conflict: "221 MacRae Road, Colchester, VT" Fuzzy match to "221 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73771"/>
+  </node>
+  <node id="-73780" visible="true" lat="44.53452473567" lon="-73.244934630183">
+    <!-- conflict: "194 MacRae Road, Colchester, VT" Fuzzy match to "194 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73780"/>
+  </node>
+  <node id="-73786" visible="true" lat="44.534285598945" lon="-73.244489535521">
+    <!-- conflict: "224 MacRae Road, Colchester, VT" Fuzzy match to "224 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="224"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73786"/>
+  </node>
+  <node id="-73819" visible="true" lat="44.533979936307" lon="-73.244021770695">
+    <!-- conflict: "254 MacRae Road, Colchester, VT" Fuzzy match to "254 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="254"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73819"/>
+  </node>
+  <node id="-73847" visible="true" lat="44.533875371995" lon="-73.243145110498">
+    <!-- conflict: "295 MacRae Road, Colchester, VT" Fuzzy match to "295 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="295"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73847"/>
+  </node>
+  <node id="-73852" visible="true" lat="44.533674299509" lon="-73.243710622048">
+    <!-- conflict: "284 MacRae Road, Colchester, VT" Fuzzy match to "284 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="284"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73852"/>
+  </node>
+  <node id="-73866" visible="true" lat="44.533394177607" lon="-73.243512584877">
+    <!-- conflict: "302 MacRae Road, Colchester, VT" Fuzzy match to "302 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73866"/>
+  </node>
+  <node id="-73871" visible="true" lat="44.533530273833" lon="-73.242919928514">
+    <!-- conflict: "323 MacRae Road, Colchester, VT" Fuzzy match to "323 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="323"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73871"/>
+  </node>
+  <node id="-73893" visible="true" lat="44.533151941123" lon="-73.242681783041">
+    <!-- conflict: "353 MacRae Road, Colchester, VT" Fuzzy match to "353 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="353"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73893"/>
+  </node>
+  <node id="-73931" visible="true" lat="44.532746487434" lon="-73.242443213056">
+    <!-- conflict: "385 MacRae Road, Colchester, VT" Fuzzy match to "385 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="385"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73931"/>
+  </node>
+  <node id="-73936" visible="true" lat="44.532682414177" lon="-73.242390944797">
+    <!-- conflict: "387 MacRae Road, Colchester, VT" Fuzzy match to "387 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="387"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73936"/>
+  </node>
+  <node id="-73990" visible="true" lat="44.53195399957" lon="-73.241818764145">
+    <!-- conflict: "431 MacRae Road, Colchester, VT" Fuzzy match to "431 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="431"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="73990"/>
+  </node>
+  <node id="-74011" visible="true" lat="44.531727267295" lon="-73.241695193187">
+    <!-- conflict: "453 MacRae Road, Colchester, VT" Fuzzy match to "453 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="453"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74011"/>
+  </node>
+  <node id="-74023" visible="true" lat="44.531440477508" lon="-73.242127060505">
+    <!-- conflict: "450 MacRae Road, Colchester, VT" Fuzzy match to "450 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74023"/>
+  </node>
+  <node id="-74030" visible="true" lat="44.531374765004" lon="-73.241436195471">
+    <!-- conflict: "491 MacRae Road, Colchester, VT" Fuzzy match to "491 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="491"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74030"/>
+  </node>
+  <node id="-74044" visible="true" lat="44.531143563104" lon="-73.241169957809">
+    <!-- conflict: "501 MacRae Road, Colchester, VT" Fuzzy match to "501 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="501"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74044"/>
+  </node>
+  <node id="-74084" visible="true" lat="44.530213770229" lon="-73.240510485716">
+    <!-- conflict: "571 MacRae Road, Colchester, VT" Fuzzy match to "571 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="571"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74084"/>
+  </node>
+  <node id="-74087" visible="true" lat="44.530222042055" lon="-73.238870227002">
+    <!-- conflict: "621 MacRae Road, Colchester, VT" Fuzzy match to "621 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="621"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74087"/>
+  </node>
+  <node id="-74095" visible="true" lat="44.529901979043" lon="-73.240906999526">
+    <!-- conflict: "576 MacRae Road, Colchester, VT" Fuzzy match to "576 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="576"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74095"/>
+  </node>
+  <node id="-74096" visible="true" lat="44.529889579153" lon="-73.240325743869">
+    <!-- conflict: "593 MacRae Road, Colchester, VT" Fuzzy match to "593 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="593"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74096"/>
+  </node>
+  <node id="-74106" visible="true" lat="44.529701486409" lon="-73.240098627167">
+    <!-- conflict: "607 MacRae Road, Colchester, VT" Fuzzy match to "607 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="607"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74106"/>
+  </node>
+  <node id="-74130" visible="true" lat="44.529230345686" lon="-73.240537166799">
+    <!-- conflict: "614 MacRae Road, Colchester, VT" Fuzzy match to "614 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="614"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74130"/>
+  </node>
+  <node id="-74134" visible="true" lat="44.529126077103" lon="-73.239322144876">
+    <!-- conflict: "667 MacRae Road, Colchester, VT" Fuzzy match to "667 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="667"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74134"/>
+  </node>
+  <node id="-74152" visible="true" lat="44.528577540036" lon="-73.240017968552">
+    <!-- conflict: "680 MacRae Road, Colchester, VT" Fuzzy match to "680 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="680"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74152"/>
+  </node>
+  <node id="-74154" visible="true" lat="44.528535941939" lon="-73.239339774993">
+    <!-- conflict: "707 MacRae Road, Colchester, VT" Fuzzy match to "707 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="707"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74154"/>
+  </node>
+  <node id="-74169" visible="true" lat="44.527974545729" lon="-73.238167816984">
+    <!-- conflict: "843 MacRae Road, Colchester, VT" Fuzzy match to "843 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="843"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74169"/>
+  </node>
+  <node id="-74196" visible="true" lat="44.527113407378" lon="-73.236707566513">
+    <!-- conflict: "851 MacRae Road, Colchester, VT" Fuzzy match to "851 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="851"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74196"/>
+  </node>
+  <node id="-74226" visible="true" lat="44.525684779266" lon="-73.235118599322">
+    <!-- conflict: "963 MacRae Road, Colchester, VT" Fuzzy match to "963 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="963"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74226"/>
+  </node>
+  <node id="-74228" visible="true" lat="44.525414045304" lon="-73.234361947469">
+    <!-- conflict: "965 MacRae Road, Colchester, VT" Fuzzy match to "965 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="965"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74228"/>
+  </node>
+  <node id="-74231" visible="true" lat="44.52528266572" lon="-73.235088437637">
+    <!-- conflict: "1041 MacRae Road, Colchester, VT" Fuzzy match to "1041 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="1041"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74231"/>
+  </node>
+  <node id="-74241" visible="true" lat="44.52400050817" lon="-73.23314940037">
+    <!-- conflict: "1136 MacRae Road, Colchester, VT" Fuzzy match to "1136 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="1136"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="74241"/>
+  </node>
+  <node id="-75764" visible="true" lat="44.527066662022" lon="-73.23601201588">
+    <!-- conflict: "915 MacRae Road, Colchester, VT" Fuzzy match to "915 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="915"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="75764"/>
+  </node>
+  <node id="-76169" visible="true" lat="44.535157397268" lon="-73.244474707296">
+    <!-- conflict: "193 MacRae Road, Colchester, VT" Fuzzy match to "193 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="193"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76169"/>
+  </node>
+  <node id="-76190" visible="true" lat="44.534699166996" lon="-73.244107285669">
+    <!-- conflict: "223 MacRae Road, Colchester, VT" Fuzzy match to "223 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76190"/>
+  </node>
+  <node id="-76191" visible="true" lat="44.533498787038" lon="-73.242886968317">
+    <!-- conflict: "325 MacRae Road, Colchester, VT" Fuzzy match to "325 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="325"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76191"/>
+  </node>
+  <node id="-76192" visible="true" lat="44.533113284358" lon="-73.242653128037">
+    <!-- conflict: "355 MacRae Road, Colchester, VT" Fuzzy match to "355 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76192"/>
+  </node>
+  <node id="-76193" visible="true" lat="44.531655233304" lon="-73.24164590174">
+    <!-- conflict: "454 MacRae Road, Colchester, VT" Fuzzy match to "454 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="454"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76193"/>
+  </node>
+  <node id="-76194" visible="true" lat="44.529631310755" lon="-73.240855013849">
+    <!-- conflict: "590 MacRae Road, Colchester, VT" Fuzzy match to "590 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="590"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76194"/>
+  </node>
+  <node id="-76195" visible="true" lat="44.52951246458" lon="-73.24074796001">
+    <!-- conflict: "592 MacRae Road, Colchester, VT" Fuzzy match to "592 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="592"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="76195"/>
   </node>
   <node id="-656093" visible="true" lat="44.545738063287" lon="-73.243484085259">
     <!-- conflict: "175 Barnabas Court, Colchester, VT" No match in OSM, but a different address exists <5m away: "171 Barnabas Court, Colchester, VT" -->
@@ -26,5 +485,14 @@
     <tag k="addr:postcode" v="05446"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656096"/>
+  </node>
+  <node id="-1051026" visible="true" lat="44.533823310731" lon="-73.243099589761">
+    <!-- conflict: "297 MacRae Road, Colchester, VT" Fuzzy match to "297 Macrae Road, Colchester, VT" -->
+    <tag k="addr:city" v="Colchester"/>
+    <tag k="addr:housenumber" v="297"/>
+    <tag k="addr:street" v="MacRae Road"/>
+    <tag k="addr:postcode" v="05446"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1051026"/>
   </node>
 </osm>
