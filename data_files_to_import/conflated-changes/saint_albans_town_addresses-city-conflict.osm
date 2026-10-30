@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-2536" visible="true" lat="44.794289345777" lon="-73.019586565691">
-    <!-- duplicates-in-different-towns: "382 Woodlands Road, Fairfield, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 104950: "382 Woodlands Road, , VT" -->
+  <node id="-243707" visible="true" lat="44.794289345777" lon="-73.019586565691">
+    <!-- city-conflict: "382 Woodlands Road, Fairfield, VT" City conflict match to "382 Woodlands Road, , VT" -->
     <tag k="addr:city" v="Fairfield"/>
     <tag k="addr:housenumber" v="382"/>
     <tag k="addr:street" v="Woodlands Road"/>

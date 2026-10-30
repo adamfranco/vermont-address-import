@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-463" visible="true" lat="44.999940714253" lon="-72.103855798767">
-    <!-- conflict: "440 Main Street, Derby Line, VT" Fuzzy match to "440 Main Street, , " -->
-    <tag k="addr:city" v="Derby Line"/>
-    <tag k="addr:housenumber" v="440"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:postcode" v="05830"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="82110"/>
-  </node>
-  <node id="-1190" visible="true" lat="44.95264594259" lon="-72.131892365606">
+  <node id="-82892" visible="true" lat="44.95264594259" lon="-72.131892365606">
     <!-- conflict: "124 Main St Derby Center, Derby, VT" No match in OSM, but a different address exists <5m away: "124 Main Street, Derby, VT" -->
     <tag k="addr:city" v="Derby"/>
     <tag k="addr:housenumber" v="124"/>

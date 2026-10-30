@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-10002487" visible="true" lat="44.510521760836" lon="-73.250095379657">
+  <node id="-100018783" visible="true" lat="42.880082024477" lon="-73.203972395821">
+    <!-- city-conflict: "32 Vervana Way, Bennington, VT" City conflict match to "32 Vervana Way, , VT" -->
+    <tag k="addr:city" v="Bennington"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Vervana Way"/>
+    <tag k="addr:postcode" v="05201"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="18783"/>
+  </node>
+  <node id="-100145150" visible="true" lat="44.510521760836" lon="-73.250095379657">
     <!-- city-conflict: "14 Dodds Court, North Burlington, VT" City conflict match to "14 Dodds Court, Burlington, VT" -->
     <tag k="addr:city" v="North Burlington"/>
     <tag k="addr:housenumber" v="14"/>
@@ -9,7 +18,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="45150"/>
   </node>
-  <node id="-10003227" visible="true" lat="44.505492417862" lon="-73.241414039386">
+  <node id="-100145894" visible="true" lat="44.505492417862" lon="-73.241414039386">
     <!-- city-conflict: "78 Ethan Allen Parkway, North Burlington, VT" City conflict match to "78 Ethan Allen Parkway, Burlington, VT" -->
     <tag k="addr:city" v="North Burlington"/>
     <tag k="addr:housenumber" v="78"/>
@@ -18,7 +27,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="45894"/>
   </node>
-  <node id="-10003228" visible="true" lat="44.505596142394" lon="-73.241132296866">
+  <node id="-100145895" visible="true" lat="44.505596142394" lon="-73.241132296866">
     <!-- city-conflict: "76 Ethan Allen Parkway, North Burlington, VT" City conflict match to "76 Ethan Allen Parkway, Burlington, VT" -->
     <tag k="addr:city" v="North Burlington"/>
     <tag k="addr:housenumber" v="76"/>
@@ -27,7 +36,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="45895"/>
   </node>
-  <node id="-100012190" visible="true" lat="44.503909602515" lon="-73.260860383193">
+  <node id="-1001500075" visible="true" lat="44.503909602515" lon="-73.260860383193">
     <!-- city-conflict: "133 Crescent Beach Drive, North Burlington, VT" City conflict match to "133 Crescent Beach Drive, Burlington, VT" -->
     <tag k="addr:city" v="North Burlington"/>
     <tag k="addr:housenumber" v="133"/>
@@ -36,7 +45,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="500075"/>
   </node>
-  <node id="-100012865" visible="true" lat="44.505701017477" lon="-73.241530153219">
+  <node id="-1001769860" visible="true" lat="44.505701017477" lon="-73.241530153219">
     <!-- city-conflict: "4 Frog Jump Lane, North Burlington, VT" City conflict match to "4 Frog Jump Lane, Burlington, VT" -->
     <tag k="addr:city" v="North Burlington"/>
     <tag k="addr:housenumber" v="4"/>
@@ -45,7 +54,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769860"/>
   </node>
-  <node id="-100012866" visible="true" lat="44.505679255833" lon="-73.241652003938">
+  <node id="-1001769861" visible="true" lat="44.505679255833" lon="-73.241652003938">
     <!-- city-conflict: "6 Frog Jump Lane, North Burlington, VT" City conflict match to "6 Frog Jump Lane, Burlington, VT" -->
     <tag k="addr:city" v="North Burlington"/>
     <tag k="addr:housenumber" v="6"/>
@@ -54,7 +63,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769861"/>
   </node>
-  <node id="-100012867" visible="true" lat="44.505718459092" lon="-73.241755936619">
+  <node id="-1001769862" visible="true" lat="44.505718459092" lon="-73.241755936619">
     <!-- city-conflict: "8 Frog Jump Lane, North Burlington, VT" City conflict match to "8 Frog Jump Lane, Burlington, VT" -->
     <tag k="addr:city" v="North Burlington"/>
     <tag k="addr:housenumber" v="8"/>
@@ -63,7 +72,16 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769862"/>
   </node>
-  <node id="-1001192" visible="true" lat="44.17368044899" lon="-72.645540564323">
+  <node id="-10021050163" visible="true" lat="42.756113408181" lon="-72.758149539146">
+    <!-- city-conflict: "4872 Vermont Route 112, Jacksonville, VT" City conflict match to "4872 Vermont Route 112, Halifax, VT" -->
+    <tag k="addr:city" v="Jacksonville"/>
+    <tag k="addr:housenumber" v="4872"/>
+    <tag k="addr:street" v="Vermont Route 112"/>
+    <tag k="addr:postcode" v="05342"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050163"/>
+  </node>
+  <node id="-1003179990" visible="true" lat="44.17368044899" lon="-72.645540564323">
     <!-- city-conflict: "49 Moody Lane, Northfield, VT" City conflict match to "49 Moody Lane, Northfield Falls, VT" -->
     <tag k="addr:city" v="Northfield"/>
     <tag k="addr:housenumber" v="49"/>
@@ -72,7 +90,16 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="179990"/>
   </node>
-  <node id="-10021608" visible="true" lat="43.475617213445" lon="-72.388072193035">
+  <node id="-1004243707" visible="true" lat="44.794289345777" lon="-73.019586565691">
+    <!-- city-conflict: "382 Woodlands Road, Fairfield, VT" City conflict match to "382 Woodlands Road, , VT" -->
+    <tag k="addr:city" v="Fairfield"/>
+    <tag k="addr:housenumber" v="382"/>
+    <tag k="addr:street" v="Woodlands Road"/>
+    <tag k="addr:postcode" v="05455"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="243707"/>
+  </node>
+  <node id="-1005752501" visible="true" lat="43.475617213445" lon="-72.388072193035">
     <!-- city-conflict: "185 Main Street, Windsor, VT" City conflict match to "185 Main Street, , VT" -->
     <tag k="addr:city" v="Windsor"/>
     <tag k="addr:housenumber" v="185"/>

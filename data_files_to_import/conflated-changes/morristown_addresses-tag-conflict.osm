@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1375" visible="true" lat="44.548704004714" lon="-72.615541715039">
-    <!-- conflict: "1411 Laporte Road, Morrisville, VT" No match in OSM, but a different address exists <5m away: "20 Understory Way, Morrisville, VT" -->
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="1411"/>
-    <tag k="addr:street" v="Laporte Road"/>
-    <tag k="addr:postcode" v="05661"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170072"/>
-  </node>
-  <node id="-1382" visible="true" lat="44.548247732629" lon="-72.615365302603">
-    <!-- conflict: "1409 Laporte Road, Morrisville, VT" No match in OSM, but a different address exists <5m away: "80 Understory Way, Morrisville, VT" -->
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="1409"/>
-    <tag k="addr:street" v="Laporte Road"/>
-    <tag k="addr:postcode" v="05661"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170079"/>
-  </node>
-  <node id="-1391" visible="true" lat="44.54789873249" lon="-72.614907638886">
-    <!-- conflict: "1385 Laporte Road, Morrisville, VT" No match in OSM, but a different address exists <5m away: "82 Understory Way, Morrisville, VT" -->
-    <tag k="addr:city" v="Morrisville"/>
-    <tag k="addr:housenumber" v="1385"/>
-    <tag k="addr:street" v="Laporte Road"/>
-    <tag k="addr:postcode" v="05661"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="170088"/>
-  </node>
-  <node id="-2174" visible="true" lat="44.57688568985" lon="-72.635273917721">
+  <node id="-170894" visible="true" lat="44.57688568985" lon="-72.635273917721">
     <!-- conflict: "180 Apricity Lane, Morrisville, VT" No match in OSM, but a different address exists <5m away: "104 White Birch Road, Morrisville, VT" -->
     <tag k="addr:city" v="Morrisville"/>
     <tag k="addr:housenumber" v="180"/>

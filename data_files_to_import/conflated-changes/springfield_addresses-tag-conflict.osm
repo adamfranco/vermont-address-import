@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-825" visible="true" lat="43.320326121591" lon="-72.507440591945">
+  <node id="-235147" visible="true" lat="43.320326121591" lon="-72.507440591945">
     <!-- conflict: "360 River Street, North Springfield, VT" Fuzzy match to "360 River Street, Springfield, VT" -->
     <tag k="addr:city" v="North Springfield"/>
     <tag k="addr:housenumber" v="360"/>
@@ -9,7 +9,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="235147"/>
   </node>
-  <node id="-831" visible="true" lat="43.320401412927" lon="-72.506730252191">
+  <node id="-235154" visible="true" lat="43.320401412927" lon="-72.506730252191">
     <!-- conflict: "360 River Street, North Springfield, VT" Fuzzy match to "360 River Street, Springfield, VT" -->
     <tag k="addr:city" v="North Springfield"/>
     <tag k="addr:housenumber" v="360"/>
@@ -18,7 +18,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="235154"/>
   </node>
-  <node id="-1472" visible="true" lat="43.300430762947" lon="-72.480881721634">
+  <node id="-235859" visible="true" lat="43.300430762947" lon="-72.480881721634">
     <!-- conflict: "9 Elm Terrace, Springfield, VT" Fuzzy match to "9 Elm Hill, Springfield, VT" -->
     <tag k="addr:city" v="Springfield"/>
     <tag k="addr:housenumber" v="9"/>
@@ -26,5 +26,14 @@
     <tag k="addr:postcode" v="05156"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="235859"/>
+  </node>
+  <node id="-764824" visible="true" lat="43.267073189226" lon="-72.445936839412">
+    <!-- conflict: "64 Wildflower Lane, Springfield, VT" No match in OSM, but a different address exists <5m away: "585 Charlestown Road, Springfield, VT" -->
+    <tag k="addr:city" v="Springfield"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Wildflower Lane"/>
+    <tag k="addr:postcode" v="05156"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764824"/>
   </node>
 </osm>

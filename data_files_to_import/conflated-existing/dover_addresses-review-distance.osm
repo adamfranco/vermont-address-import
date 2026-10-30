@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1571" visible="true" lat="42.962926652664" lon="-72.796741699734">
+  <node id="-86489" visible="true" lat="42.96977278954" lon="-72.896120098911">
+    <!-- offset: "39 Mount Snow Road, West Dover, VT" Significant offset - 398.7m -->
+    <tag k="addr:city" v="West Dover"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Mount Snow Road"/>
+    <tag k="addr:postcode" v="05356"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="86489"/>
+  </node>
+  <node id="-87261" visible="true" lat="42.962926652664" lon="-72.796741699734">
     <!-- offset: "15 Sherman Road, East Dover, VT" Significant offset - 139.8m -->
     <tag k="addr:city" v="East Dover"/>
     <tag k="addr:housenumber" v="15"/>
@@ -9,7 +18,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="87261"/>
   </node>
-  <node id="-2683" visible="true" lat="42.978302908715" lon="-72.776414574069">
+  <node id="-770138" visible="true" lat="42.978302908715" lon="-72.776414574069">
     <!-- offset: "33 Clyde Jones Trail, East Dover, VT" Significant offset - 126.6m -->
     <tag k="addr:city" v="East Dover"/>
     <tag k="addr:housenumber" v="33"/>
@@ -18,7 +27,7 @@
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770138"/>
   </node>
-  <node id="-2711" visible="true" lat="42.928704892429" lon="-72.841308300172">
+  <node id="-1050281" visible="true" lat="42.928704892429" lon="-72.841308300172">
     <!-- offset: "80 Dorr Fitch Road, West Dover, VT" Significant offset - 272.1m -->
     <tag k="addr:city" v="West Dover"/>
     <tag k="addr:housenumber" v="80"/>
