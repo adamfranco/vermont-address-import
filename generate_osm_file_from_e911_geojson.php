@@ -266,7 +266,7 @@ foreach($data['features'] as $feature) {
     if(count($feature_errors) == 0 && $output_type == "osm") {
 
         // leaving out timestamp from node: timestamp='2022-09-12T01:50:00Z'
-        $output .= "  <node id=\"" . $node_id . "\" visible=\"true\" lat=\"" . $lat . "\" lon=\"" . $long . "\">\n";
+        $output .= "  <node id=\"-" . $esiteid . "\" visible=\"true\" lat=\"" . $lat . "\" lon=\"" . $long . "\">\n";
         if (!empty($postal_community)) {
           $output .= "    <tag k=\"addr:city\" v=\"" . $postal_community . "\" />\n";
         }
