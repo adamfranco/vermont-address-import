@@ -456,7 +456,11 @@ function build_street_name($feature_properties) {
     if (!empty($feature_properties['St_PosMod'])) {
         $value = trim($feature_properties['St_PosMod']);
         if (!empty($value)) {
-            $streetNameParts[] = $value;
+            if ($value == 'Sunrise') {
+              $streetNameParts[] = 'at Sunrise';
+            } else {
+              $streetNameParts[] = $value;
+            }
         }
     }
 
