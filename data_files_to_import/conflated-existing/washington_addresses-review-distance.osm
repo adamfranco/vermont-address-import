@@ -1,37 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-224" visible="true" lat="44.10845724" lon="-72.44477978">
-    <!-- offset: "422 Carrier Road, , VT" Significant offset - 242.3m -->
+  <node id="-65809" visible="true" lat="44.012659073828" lon="-72.391921325876">
+    <!-- offset: "203 Corinth Road, Chelsea, VT" Significant offset - 271.6m -->
+    <tag k="addr:city" v="Chelsea"/>
+    <tag k="addr:housenumber" v="203"/>
+    <tag k="addr:street" v="Corinth Road"/>
+    <tag k="addr:postcode" v="05038"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="65809"/>
+  </node>
+  <node id="-272800" visible="true" lat="44.108466196981" lon="-72.444780940354">
+    <!-- offset: "422 Carrier Road, Washington, VT" Significant offset - 241.4m -->
+    <tag k="addr:city" v="Washington"/>
     <tag k="addr:housenumber" v="422"/>
     <tag k="addr:street" v="Carrier Road"/>
+    <tag k="addr:postcode" v="05675"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="272800"/>
   </node>
-  <node id="-636" visible="true" lat="44.07850084" lon="-72.45033092">
-    <!-- offset: "958 Batchelder Road, , VT" Significant offset - 425.2m -->
+  <node id="-310013" visible="true" lat="44.078509789022" lon="-72.450332082312">
+    <!-- offset: "958 Batchelder Road, Washington, VT" Significant offset - 424.2m -->
+    <tag k="addr:city" v="Washington"/>
     <tag k="addr:housenumber" v="958"/>
     <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="addr:postcode" v="05675"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310013"/>
   </node>
-  <node id="-637" visible="true" lat="44.08216058" lon="-72.45193728">
-    <!-- offset: "714 Batchelder Road, , VT" Significant offset - 334.3m -->
+  <node id="-310014" visible="true" lat="44.082169527802" lon="-72.451938440273">
+    <!-- offset: "714 Batchelder Road, Washington, VT" Significant offset - 333.9m -->
+    <tag k="addr:city" v="Washington"/>
     <tag k="addr:housenumber" v="714"/>
     <tag k="addr:street" v="Batchelder Road"/>
+    <tag k="addr:postcode" v="05675"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="310014"/>
   </node>
-  <node id="-724" visible="true" lat="44.12908918" lon="-72.44433342">
-    <!-- offset: "1571 Lowery Road, , VT" Significant offset - 284.5m -->
+  <node id="-332455" visible="true" lat="44.04788616186" lon="-72.49194929302">
+    <!-- offset: "118 Edwards Road, Chelsea, VT" Significant offset - 325.6m -->
+    <tag k="addr:city" v="Chelsea"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Edwards Road"/>
+    <tag k="addr:postcode" v="05038"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="332455"/>
+  </node>
+  <node id="-448643" visible="true" lat="44.065504456521" lon="-72.493039365758">
+    <!-- offset: "1736 Williamstown Road, Williamstown, VT" Significant offset - 445.7m -->
+    <tag k="addr:city" v="Williamstown"/>
+    <tag k="addr:housenumber" v="1736"/>
+    <tag k="addr:street" v="Williamstown Road"/>
+    <tag k="addr:postcode" v="05679"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="448643"/>
+  </node>
+  <node id="-611448" visible="true" lat="44.129099380668" lon="-72.444328312604">
+    <!-- offset: "1571 Lowery Road, Washington, VT" Significant offset - 283.5m -->
+    <tag k="addr:city" v="Washington"/>
     <tag k="addr:housenumber" v="1571"/>
     <tag k="addr:street" v="Lowery Road"/>
+    <tag k="addr:postcode" v="05675"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611448"/>
   </node>
-  <node id="-751" visible="true" lat="44.09571915" lon="-72.34842356">
-    <!-- offset: "70 Notch End Road, , VT" Significant offset - 119.7m -->
+  <node id="-759343" visible="true" lat="44.095728104988" lon="-72.348424687911">
+    <!-- offset: "70 Notch End Road, West Topsham, VT" Significant offset - 119.4m -->
+    <tag k="addr:city" v="West Topsham"/>
     <tag k="addr:housenumber" v="70"/>
     <tag k="addr:street" v="Notch End Road"/>
+    <tag k="addr:postcode" v="05086"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="759343"/>
   </node>

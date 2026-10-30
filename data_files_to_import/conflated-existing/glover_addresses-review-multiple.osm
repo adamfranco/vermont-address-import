@@ -1,38 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-102" visible="true" lat="44.73452377" lon="-72.23365783">
-    <!-- multiple: "569 Stevens Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="569"/>
-    <tag k="addr:street" v="Stevens Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111718"/>
-  </node>
-  <node id="-298" visible="true" lat="44.70704585" lon="-72.18816375">
-    <!-- multiple: "51 Bean Hill Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-111916" visible="true" lat="44.707054920403" lon="-72.18816486165">
+    <!-- multiple: "51 Bean Hill Road, Glover, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Glover"/>
     <tag k="addr:housenumber" v="51"/>
     <tag k="addr:street" v="Bean Hill Road"/>
+    <tag k="addr:postcode" v="05839"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111916"/>
   </node>
-  <node id="-316" visible="true" lat="44.70636759" lon="-72.18756007">
-    <!-- multiple: "2972 Glover Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2972"/>
-    <tag k="addr:street" v="Glover Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="111934"/>
-  </node>
-  <node id="-318" visible="true" lat="44.70593763" lon="-72.18946641">
-    <!-- multiple: "100 School Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-111936" visible="true" lat="44.705894846795" lon="-72.189674797333">
+    <!-- multiple: "100 School Street, Glover, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Glover"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="School Street"/>
+    <tag k="addr:postcode" v="05839"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="111936"/>
-  </node>
-  <node id="-870" visible="true" lat="44.7358911" lon="-72.24361859">
-    <!-- multiple: "911 Stevens Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="911"/>
-    <tag k="addr:street" v="Stevens Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="343434"/>
   </node>
 </osm>

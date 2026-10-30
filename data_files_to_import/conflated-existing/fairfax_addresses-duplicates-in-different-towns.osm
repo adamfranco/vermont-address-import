@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-104306" visible="true" lat="44.727622893873" lon="-73.044496021722">
+    <!-- duplicates-in-different-towns: "2117 Main Street, Fairfax, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 104307: "2117 Main Street, , VT" -->
+    <tag k="addr:city" v="Fairfax"/>
+    <tag k="addr:housenumber" v="2117"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:postcode" v="05454"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="104306"/>
+  </node>
+  <node id="-365693" visible="true" lat="44.670372024129" lon="-73.041640851066">
+    <!-- duplicates-in-different-towns: "435 McNall Road, Fairfax, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 656470: "435 McNall Road, , VT" -->
+    <tag k="addr:city" v="Fairfax"/>
+    <tag k="addr:housenumber" v="435"/>
+    <tag k="addr:street" v="McNall Road"/>
+    <tag k="addr:postcode" v="05454"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365693"/>
+  </node>
+  <node id="-365703" visible="true" lat="44.669505804517" lon="-73.041508656078">
+    <!-- duplicates-in-different-towns: "425 McNall Road, Fairfax, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 656471: "425 McNall Road, , VT" -->
+    <tag k="addr:city" v="Fairfax"/>
+    <tag k="addr:housenumber" v="425"/>
+    <tag k="addr:street" v="McNall Road"/>
+    <tag k="addr:postcode" v="05454"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365703"/>
+  </node>
+</osm>

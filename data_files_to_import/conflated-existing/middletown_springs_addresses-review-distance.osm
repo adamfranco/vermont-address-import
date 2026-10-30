@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-574" visible="true" lat="43.48350555" lon="-73.12372099">
-    <!-- offset: "14 Pleasant View Road, Middletown Springs, VT" Significant offset - 100.9m -->
+  <node id="-158131" visible="true" lat="43.483514369646" lon="-73.123722334779">
+    <!-- offset: "14 Pleasant View Road, Middletown Springs, VT" Significant offset - 101.8m -->
     <tag k="addr:city" v="Middletown Springs"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Pleasant View Road"/>
+    <tag k="addr:postcode" v="05757"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="158131"/>
+  </node>
+  <node id="-646678" visible="true" lat="43.441784547823" lon="-73.116956836506">
+    <!-- offset: "214 Hundred Acre Lane, Middletown Springs, VT" Significant offset - 104.3m -->
+    <tag k="addr:city" v="Middletown Springs"/>
+    <tag k="addr:housenumber" v="214"/>
+    <tag k="addr:street" v="Hundred Acre Lane"/>
+    <tag k="addr:postcode" v="05757"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646678"/>
   </node>
 </osm>

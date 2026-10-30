@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-114" visible="true" lat="43.89355087" lon="-72.25582885">
-    <!-- offset: "1067 West Fairlee Road, , VT" Significant offset - 235.5m -->
+  <node id="-258483" visible="true" lat="43.89355979062" lon="-72.255829938987">
+    <!-- offset: "1067 West Fairlee Road, Fairlee, VT" Significant offset - 234.5m -->
+    <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="1067"/>
     <tag k="addr:street" v="West Fairlee Road"/>
+    <tag k="addr:postcode" v="05045"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="258483"/>
   </node>
-  <node id="-928" visible="true" lat="43.81591414" lon="-72.21265576">
-    <!-- offset: "300 Latham Road, , VT" Significant offset - 178.9m -->
+  <node id="-259323" visible="true" lat="43.815924282645" lon="-72.212650588451">
+    <!-- offset: "300 Latham Road, East Thetford, VT" Significant offset - 178.1m -->
+    <tag k="addr:city" v="East Thetford"/>
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:street" v="Latham Road"/>
+    <tag k="addr:postcode" v="05043"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259323"/>
   </node>
-  <node id="-1033" visible="true" lat="43.81277546" lon="-72.23537487">
-    <!-- offset: "622 Academy Road, , VT" Significant offset - 265.4m -->
+  <node id="-259437" visible="true" lat="43.812784367776" lon="-72.235375944165">
+    <!-- offset: "622 Academy Road, Thetford Center, VT" Significant offset - 266.4m -->
+    <tag k="addr:city" v="Thetford Center"/>
     <tag k="addr:housenumber" v="622"/>
     <tag k="addr:street" v="Academy Road"/>
+    <tag k="addr:postcode" v="05075"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="259437"/>
   </node>
-  <node id="-1638" visible="true" lat="43.88513422" lon="-72.21975061">
-    <!-- offset: "262 Bragg Road, , VT" Significant offset - 145.2m -->
+  <node id="-753496" visible="true" lat="43.885143139124" lon="-72.219751677409">
+    <!-- offset: "262 Bragg Road, Fairlee, VT" Significant offset - 144.2m -->
+    <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="262"/>
     <tag k="addr:street" v="Bragg Road"/>
+    <tag k="addr:postcode" v="05045"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753496"/>
   </node>
-  <node id="-1702" visible="true" lat="43.79185477" lon="-72.24061961">
-    <!-- offset: "755 Burnham Road, , VT" Significant offset - 130.2m -->
+  <node id="-770718" visible="true" lat="43.79185477176" lon="-72.240619608351">
+    <!-- offset: "755 Burnham Road, East Thetford, VT" Significant offset - 130.2m -->
+    <tag k="addr:city" v="East Thetford"/>
     <tag k="addr:housenumber" v="755"/>
     <tag k="addr:street" v="Burnham Road"/>
+    <tag k="addr:postcode" v="05043"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="770718"/>
   </node>

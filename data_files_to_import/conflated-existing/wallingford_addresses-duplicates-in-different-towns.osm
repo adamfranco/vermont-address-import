@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-751365" visible="true" lat="43.469134113973" lon="-72.959710539387">
+    <!-- duplicates-in-different-towns: "94 Star Lane, Wallingford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 365508: "94 Star Lane, , VT" -->
+    <tag k="addr:city" v="Wallingford"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:street" v="Star Lane"/>
+    <tag k="addr:postcode" v="05773"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751365"/>
+  </node>
+</osm>

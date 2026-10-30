@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-465" visible="true" lat="44.62141826" lon="-72.150484">
-    <!-- offset: "1586 Sheffield Square Road, Sheffield, VT" Significant offset - 142.2m -->
-    <tag k="addr:city" v="Sheffield"/>
+  <node id="-220211" visible="true" lat="44.621427307668" lon="-72.150485098365">
+    <!-- offset: "1586 Sheffield Square Road, Glover, VT" Significant offset - 143.1m -->
+    <tag k="addr:city" v="Glover"/>
     <tag k="addr:housenumber" v="1586"/>
     <tag k="addr:street" v="Sheffield Square Road"/>
+    <tag k="addr:postcode" v="05839"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="220211"/>
   </node>
-  <node id="-663" visible="true" lat="44.66784094" lon="-72.1650013">
+  <node id="-450796" visible="true" lat="44.594182015185" lon="-72.115622683483">
+    <!-- offset: "552 Chesley Hill Road, Sheffield, VT" Significant offset - 277.3m -->
+    <tag k="addr:city" v="Sheffield"/>
+    <tag k="addr:housenumber" v="552"/>
+    <tag k="addr:street" v="Chesley Hill Road"/>
+    <tag k="addr:postcode" v="05866"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="450796"/>
+  </node>
+  <node id="-767645" visible="true" lat="44.667840943057" lon="-72.16500129623">
     <!-- offset: "8719 Vermont Route 122, Sheffield, VT" Significant offset - 105m -->
     <tag k="addr:city" v="Sheffield"/>
     <tag k="addr:housenumber" v="8719"/>
     <tag k="addr:street" v="Vermont Route 122"/>
+    <tag k="addr:postcode" v="05866"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="767645"/>
   </node>

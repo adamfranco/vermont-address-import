@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-490" visible="true" lat="44.31171035" lon="-72.59573364">
-    <!-- offset: "239 Bolduc Road, , VT" Significant offset - 122.9m -->
+  <node id="-157232" visible="true" lat="44.311719339753" lon="-72.595734864481">
+    <!-- offset: "239 Bolduc Road, Montpelier, VT" Significant offset - 123.5m -->
+    <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="239"/>
     <tag k="addr:street" v="Bolduc Road"/>
+    <tag k="addr:postcode" v="05602"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157232"/>
   </node>
-  <node id="-791" visible="true" lat="44.31992608" lon="-72.57025418">
-    <!-- offset: "2416 Horn of the Moon Road, , VT" Significant offset - 105.3m -->
+  <node id="-157551" visible="true" lat="44.319935068459" lon="-72.570255395801">
+    <!-- offset: "2416 Horn of the Moon Road, Montpelier, VT" Significant offset - 105.9m -->
+    <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="2416"/>
     <tag k="addr:street" v="Horn of the Moon Road"/>
+    <tag k="addr:postcode" v="05602"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157551"/>
   </node>
-  <node id="-842" visible="true" lat="44.36234476" lon="-72.60843102">
-    <!-- offset: "631 West Hill Road, , VT" Significant offset - 110.6m -->
+  <node id="-157611" visible="true" lat="44.362353750123" lon="-72.60843224619">
+    <!-- offset: "631 West Hill Road, Worcester, VT" Significant offset - 111m -->
+    <tag k="addr:city" v="Worcester"/>
     <tag k="addr:housenumber" v="631"/>
     <tag k="addr:street" v="West Hill Road"/>
+    <tag k="addr:postcode" v="05682"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="157611"/>
   </node>
-  <node id="-949" visible="true" lat="44.30387593" lon="-72.58149062">
-    <!-- offset: "3366 Elm Street, , VT" Significant offset - 150.4m -->
+  <node id="-750893" visible="true" lat="44.303884909602" lon="-72.581491832626">
+    <!-- offset: "3366 Elm Street, Montpelier, VT" Significant offset - 150.5m -->
+    <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="3366"/>
     <tag k="addr:street" v="Elm Street"/>
+    <tag k="addr:postcode" v="05602"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750893"/>
   </node>
-  <node id="-965" visible="true" lat="44.33086195" lon="-72.65392496">
-    <!-- offset: "150 Zdon Road, , VT" Significant offset - 150.6m -->
+  <node id="-753738" visible="true" lat="44.330870934698" lon="-72.653926207718">
+    <!-- offset: "150 Zdon Road, Montpelier, VT" Significant offset - 149.7m -->
+    <tag k="addr:city" v="Montpelier"/>
     <tag k="addr:housenumber" v="150"/>
     <tag k="addr:street" v="Zdon Road"/>
+    <tag k="addr:postcode" v="05602"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="753738"/>
   </node>

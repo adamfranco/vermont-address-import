@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-240" visible="true" lat="43.88468648" lon="-73.06265532">
-    <!-- offset: "2917 Lake Dunmore Road, , VT" Significant offset - 3398.7m -->
-    <tag k="addr:housenumber" v="2917"/>
-    <tag k="addr:street" v="Lake Dunmore Road"/>
+  <node id="-216836" visible="true" lat="43.892399581911" lon="-73.0935640629">
+    <!-- offset: "1951 West Shore Road, Salisbury, VT" Significant offset - 365.9m -->
+    <tag k="addr:city" v="Salisbury"/>
+    <tag k="addr:housenumber" v="1951"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:postcode" v="05769"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="139472"/>
+    <tag k="ref:vcgi:esiteid" v="216836"/>
+  </node>
+  <node id="-315370" visible="true" lat="43.893671398821" lon="-73.09711112693">
+    <!-- offset: "2063 West Shore Road, Salisbury, VT" Significant offset - 147.3m -->
+    <tag k="addr:city" v="Salisbury"/>
+    <tag k="addr:housenumber" v="2063"/>
+    <tag k="addr:street" v="West Shore Road"/>
+    <tag k="addr:postcode" v="05769"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="315370"/>
+  </node>
+  <node id="-341551" visible="true" lat="43.884511974604" lon="-73.145644984771">
+    <!-- offset: "3606 Old Jerusalem Road, Salisbury, VT" Significant offset - 120.1m -->
+    <tag k="addr:city" v="Salisbury"/>
+    <tag k="addr:housenumber" v="3606"/>
+    <tag k="addr:street" v="Old Jerusalem Road"/>
+    <tag k="addr:postcode" v="05769"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341551"/>
+  </node>
+  <node id="-773641" visible="true" lat="43.845939614666" lon="-73.086430980256">
+    <!-- offset: "118 Delorm Road, Brandon, VT" Significant offset - 218.3m -->
+    <tag k="addr:city" v="Brandon"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="Delorm Road"/>
+    <tag k="addr:postcode" v="05733"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773641"/>
   </node>
 </osm>

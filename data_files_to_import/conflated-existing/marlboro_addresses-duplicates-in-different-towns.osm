@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-365650" visible="true" lat="42.850839330078" lon="-72.801562589268">
+    <!-- duplicates-in-different-towns: "7769 Vermont Route 9, Brattleboro, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 752813: "7769 Vermont Route 9, Wilmington, VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="7769"/>
+    <tag k="addr:street" v="Vermont Route 9"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365650"/>
+  </node>
+  <node id="-365699" visible="true" lat="42.867974266571" lon="-72.72770681965">
+    <!-- duplicates-in-different-towns: "3235 Vermont Route 9, Brattleboro, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 656474: "3235 Vermont Route 9, , VT" -->
+    <tag k="addr:city" v="Brattleboro"/>
+    <tag k="addr:housenumber" v="3235"/>
+    <tag k="addr:street" v="Vermont Route 9"/>
+    <tag k="addr:postcode" v="05301"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365699"/>
+  </node>
+  <node id="-365701" visible="true" lat="42.894410560225" lon="-72.787208491772">
+    <!-- duplicates-in-different-towns: "2533 Higley Hill Road, Wilmington, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 656475: "2533 Higley Hill Road, , VT" -->
+    <tag k="addr:city" v="Wilmington"/>
+    <tag k="addr:housenumber" v="2533"/>
+    <tag k="addr:street" v="Higley Hill Road"/>
+    <tag k="addr:postcode" v="05363"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365701"/>
+  </node>
+</osm>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-501" visible="true" lat="43.47642051" lon="-73.07419221">
-    <!-- duplicates-in-different-towns: "78 McNamara Road, Tinmouth, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 900457: "78 McNamara Road, Middletown Springs, VT" -->
-    <tag k="addr:city" v="Tinmouth"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:street" v="McNamara Road"/>
+  <node id="-341689" visible="true" lat="43.401025237892" lon="-73.043847143007">
+    <!-- duplicates-in-different-towns: "732 Mountain View Road, Wallingford, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 80250: "732 Mountain View Road, Danby, VT" -->
+    <tag k="addr:city" v="Wallingford"/>
+    <tag k="addr:housenumber" v="732"/>
+    <tag k="addr:street" v="Mountain View Road"/>
+    <tag k="addr:postcode" v="05773"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="900456"/>
+    <tag k="ref:vcgi:esiteid" v="341689"/>
   </node>
 </osm>

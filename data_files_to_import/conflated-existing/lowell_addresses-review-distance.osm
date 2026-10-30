@@ -1,45 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-164" visible="true" lat="44.8208156" lon="-72.4160643">
-    <!-- offset: "1980 Carter Road, , VT" Significant offset - 202m -->
+  <node id="-142132" visible="true" lat="44.820824677915" lon="-72.416065499015">
+    <!-- offset: "1980 Carter Road, Lowell, VT" Significant offset - 203m -->
+    <tag k="addr:city" v="Lowell"/>
     <tag k="addr:housenumber" v="1980"/>
     <tag k="addr:street" v="Carter Road"/>
+    <tag k="addr:postcode" v="05847"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142132"/>
   </node>
-  <node id="-354" visible="true" lat="44.78794861" lon="-72.44833795">
-    <!-- offset: "3429 Vermont Route 100, , VT" Significant offset - 7771.1m -->
-    <tag k="addr:housenumber" v="3429"/>
-    <tag k="addr:street" v="Vermont Route 100"/>
+  <node id="-142238" visible="true" lat="44.799276833022" lon="-72.466904788701">
+    <!-- offset: "471 Valley Road, Lowell, VT" Significant offset - 169.4m -->
+    <tag k="addr:city" v="Lowell"/>
+    <tag k="addr:housenumber" v="471"/>
+    <tag k="addr:street" v="Valley Road"/>
+    <tag k="addr:postcode" v="05847"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142332"/>
+    <tag k="ref:vcgi:esiteid" v="142238"/>
   </node>
-  <node id="-479" visible="true" lat="44.81744557" lon="-72.41401719">
-    <!-- offset: "1960 Carter Road, , VT" Significant offset - 407.8m -->
+  <node id="-142464" visible="true" lat="44.817454647513" lon="-72.414018385404">
+    <!-- offset: "1960 Carter Road, Lowell, VT" Significant offset - 406.8m -->
+    <tag k="addr:city" v="Lowell"/>
     <tag k="addr:housenumber" v="1960"/>
     <tag k="addr:street" v="Carter Road"/>
+    <tag k="addr:postcode" v="05847"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="142464"/>
   </node>
-  <node id="-488" visible="true" lat="44.77549291" lon="-72.45120294">
-    <!-- offset: "4155 Vermont Route 100, , VT" Significant offset - 8879.4m -->
-    <tag k="addr:housenumber" v="4155"/>
+  <node id="-339335" visible="true" lat="44.781712785767" lon="-72.450002345646">
+    <!-- offset: "3917 Vermont Route 100, Lowell, VT" Significant offset - 282m -->
+    <tag k="addr:city" v="Lowell"/>
+    <tag k="addr:housenumber" v="3917"/>
     <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:postcode" v="05847"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="142473"/>
+    <tag k="ref:vcgi:esiteid" v="339335"/>
   </node>
-  <node id="-660" visible="true" lat="44.83882014" lon="-72.40382619">
-    <!-- offset: "255 Mountain Drive, , VT" Significant offset - 153.7m -->
-    <tag k="addr:housenumber" v="255"/>
-    <tag k="addr:street" v="Mountain Drive"/>
+  <node id="-341450" visible="true" lat="44.78494290338" lon="-72.433753892249">
+    <!-- offset: "1195 Irish Hill Road, Lowell, VT" Significant offset - 194.8m -->
+    <tag k="addr:city" v="Lowell"/>
+    <tag k="addr:housenumber" v="1195"/>
+    <tag k="addr:street" v="Irish Hill Road"/>
+    <tag k="addr:postcode" v="05847"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453978"/>
+    <tag k="ref:vcgi:esiteid" v="341450"/>
   </node>
-  <node id="-661" visible="true" lat="44.84102828" lon="-72.3970297">
-    <!-- offset: "34 Foster Road, , VT" Significant offset - 144.2m -->
+  <node id="-453979" visible="true" lat="44.841038608095" lon="-72.397024552868">
+    <!-- offset: "34 Foster Road, Westfield, VT" Significant offset - 143.3m -->
+    <tag k="addr:city" v="Westfield"/>
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:street" v="Foster Road"/>
+    <tag k="addr:postcode" v="05874"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453979"/>
+  </node>
+  <node id="-646621" visible="true" lat="44.779639412736" lon="-72.48090844332">
+    <!-- offset: "273 Guyette Road, Lowell, VT" Significant offset - 182.4m -->
+    <tag k="addr:city" v="Lowell"/>
+    <tag k="addr:housenumber" v="273"/>
+    <tag k="addr:street" v="Guyette Road"/>
+    <tag k="addr:postcode" v="05847"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="646621"/>
   </node>
 </osm>

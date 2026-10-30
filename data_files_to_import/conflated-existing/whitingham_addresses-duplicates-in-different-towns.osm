@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-287024" visible="true" lat="42.757904920521" lon="-72.929009591053">
+    <!-- duplicates-in-different-towns: "1096 Harriman Station Drive, Whitingham, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 339150: "1096 Harriman Station Drive, Readsboro, VT" -->
+    <tag k="addr:city" v="Whitingham"/>
+    <tag k="addr:housenumber" v="1096"/>
+    <tag k="addr:street" v="Harriman Station Drive"/>
+    <tag k="addr:postcode" v="05361"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="287024"/>
+  </node>
+  <node id="-454509" visible="true" lat="42.759124067823" lon="-72.927745322912">
+    <!-- duplicates-in-different-towns: "1123 Harriman Station Drive, Whitingham, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 611303: "1123 Harriman Station Drive, Readsboro, VT" -->
+    <tag k="addr:city" v="Whitingham"/>
+    <tag k="addr:housenumber" v="1123"/>
+    <tag k="addr:street" v="Harriman Station Drive"/>
+    <tag k="addr:postcode" v="05361"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454509"/>
+  </node>
+  <node id="-611302" visible="true" lat="42.757347563952" lon="-72.928725328833">
+    <!-- duplicates-in-different-towns: "1098 Harriman Station Drive, Whitingham, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 611304: "1098 Harriman Station Drive, Readsboro, VT" -->
+    <tag k="addr:city" v="Whitingham"/>
+    <tag k="addr:housenumber" v="1098"/>
+    <tag k="addr:street" v="Harriman Station Drive"/>
+    <tag k="addr:postcode" v="05361"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="611302"/>
+  </node>
+</osm>

@@ -1,19 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-180" visible="true" lat="44.84552575" lon="-71.55855898">
-    <!-- offset: "1425 Vermont Route 102, Lemington, VT" Significant offset - 100.7m -->
-    <tag k="addr:city" v="Lemington"/>
+  <node id="-140014" visible="true" lat="44.909828120621" lon="-71.505297837469">
+    <!-- offset: "7218 Vermont Route 102, Guildhall, VT" Significant offset - 38591.8m -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="7218"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="140014"/>
+  </node>
+  <node id="-140032" visible="true" lat="44.901972628574" lon="-71.505296845124">
+    <!-- offset: "6489 Vermont Route 102, Guildhall, VT" Significant offset - 197.1m -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="6489"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:postcode" v="05905"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="140032"/>
+  </node>
+  <node id="-140087" visible="true" lat="44.845534862307" lon="-71.558559894545">
+    <!-- offset: "1425 Vermont Route 102, Guildhall, VT" Significant offset - 101.5m -->
+    <tag k="addr:city" v="Guildhall"/>
     <tag k="addr:housenumber" v="1425"/>
     <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:postcode" v="05905"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="140087"/>
   </node>
-  <node id="-183" visible="true" lat="44.82930906" lon="-71.56134769">
-    <!-- offset: "281 Vermont Route 102, Lemington, VT" Significant offset - 118.1m -->
-    <tag k="addr:city" v="Lemington"/>
+  <node id="-140090" visible="true" lat="44.829318170068" lon="-71.561348601737">
+    <!-- offset: "281 Vermont Route 102, Guildhall, VT" Significant offset - 10055.4m -->
+    <tag k="addr:city" v="Guildhall"/>
     <tag k="addr:housenumber" v="281"/>
     <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:postcode" v="05905"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="140090"/>
+  </node>
+  <node id="-752061" visible="true" lat="44.913886059845" lon="-71.522577001874">
+    <!-- offset: "463 Vermont Route 102, Canaan, VT" Significant offset - 783.9m -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="463"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:postcode" v="05903"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752061"/>
+  </node>
+  <node id="-752062" visible="true" lat="44.910156810998" lon="-71.526815006657">
+    <!-- offset: "465 Vermont Route 102, Canaan, VT" Significant offset - 1240.7m -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="465"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:postcode" v="05903"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752062"/>
+  </node>
+  <node id="-752287" visible="true" lat="44.936356095525" lon="-71.570881072447">
+    <!-- offset: "2111 Hudson Road, Canaan, VT" Significant offset - 474.2m -->
+    <tag k="addr:city" v="Canaan"/>
+    <tag k="addr:housenumber" v="2111"/>
+    <tag k="addr:street" v="Hudson Road"/>
+    <tag k="addr:postcode" v="05903"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="752287"/>
   </node>
 </osm>

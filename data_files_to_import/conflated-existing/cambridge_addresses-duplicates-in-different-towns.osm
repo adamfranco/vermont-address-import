@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-656466" visible="true" lat="44.661654467159" lon="-72.878649565925">
+    <!-- duplicates-in-different-towns: "344 North Cambridge Road, Cambridge, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772682: "344 North Cambridge Road, , VT" -->
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:street" v="North Cambridge Road"/>
+    <tag k="addr:postcode" v="05444"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656466"/>
+  </node>
+</osm>

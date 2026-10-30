@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-124926" visible="true" lat="43.623540928016" lon="-72.425049813939">
+    <!-- duplicates-in-different-towns: "552 Sugar House Road, Hartland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 655355: "552 Sugar House Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartland"/>
+    <tag k="addr:housenumber" v="552"/>
+    <tag k="addr:street" v="Sugar House Road"/>
+    <tag k="addr:postcode" v="05048"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="124926"/>
+  </node>
+  <node id="-126443" visible="true" lat="43.621573426389" lon="-72.426984763777">
+    <!-- duplicates-in-different-towns: "775 Sugar House Road, Hartland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 655356: "775 Sugar House Road, Quechee, VT" -->
+    <tag k="addr:city" v="Hartland"/>
+    <tag k="addr:housenumber" v="775"/>
+    <tag k="addr:street" v="Sugar House Road"/>
+    <tag k="addr:postcode" v="05048"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="126443"/>
+  </node>
+  <node id="-770702" visible="true" lat="43.573776496235" lon="-72.416476372505">
+    <!-- duplicates-in-different-towns: "44 Center of Town Road, Hartland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772950: "44 Center of Town Road, , VT" -->
+    <tag k="addr:city" v="Hartland"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Center of Town Road"/>
+    <tag k="addr:postcode" v="05048"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770702"/>
+  </node>
+</osm>

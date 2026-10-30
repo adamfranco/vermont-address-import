@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-772947" visible="true" lat="43.374041395156" lon="-72.468905073607">
+    <!-- duplicates-in-different-towns: "165 Perkins Hill Road, Perkinsville, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772948: "165 Perkins Hill Road, , VT" -->
+    <tag k="addr:city" v="Perkinsville"/>
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:street" v="Perkins Hill Road"/>
+    <tag k="addr:postcode" v="05151"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772947"/>
+  </node>
+</osm>

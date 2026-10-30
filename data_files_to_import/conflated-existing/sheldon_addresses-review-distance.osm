@@ -1,38 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-476" visible="true" lat="44.89711427" lon="-73.00893369">
-    <!-- offset: "38 Woods Hill Road, , VT" Significant offset - 6061.3m -->
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="Woods Hill Road"/>
+  <node id="-223452" visible="true" lat="44.912456783545" lon="-72.863020685532">
+    <!-- offset: "8829 Vermont Route 105, Enosburg Falls, VT" Significant offset - 157.4m -->
+    <tag k="addr:city" v="Enosburg Falls"/>
+    <tag k="addr:housenumber" v="8829"/>
+    <tag k="addr:street" v="Vermont Route 105"/>
+    <tag k="addr:postcode" v="05450"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="223707"/>
+    <tag k="ref:vcgi:esiteid" v="223452"/>
   </node>
-  <node id="-745" visible="true" lat="44.87613737" lon="-72.83461465">
-    <!-- offset: "2516 Duffy Hill Road, , VT" Significant offset - 151.7m -->
+  <node id="-223982" visible="true" lat="44.876146438404" lon="-72.83461599597">
+    <!-- offset: "2516 Duffy Hill Road, Enosburg Falls, VT" Significant offset - 152.1m -->
+    <tag k="addr:city" v="Enosburg Falls"/>
     <tag k="addr:housenumber" v="2516"/>
     <tag k="addr:street" v="Duffy Hill Road"/>
+    <tag k="addr:postcode" v="05450"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223982"/>
   </node>
-  <node id="-747" visible="true" lat="44.87508461" lon="-72.83454844">
-    <!-- offset: "2586 Duffy Hill Road, , VT" Significant offset - 120.1m -->
+  <node id="-223984" visible="true" lat="44.875093682915" lon="-72.834549781134">
+    <!-- offset: "2586 Duffy Hill Road, Enosburg Falls, VT" Significant offset - 120.6m -->
+    <tag k="addr:city" v="Enosburg Falls"/>
     <tag k="addr:housenumber" v="2586"/>
     <tag k="addr:street" v="Duffy Hill Road"/>
+    <tag k="addr:postcode" v="05450"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="223984"/>
   </node>
-  <node id="-815" visible="true" lat="44.88352807" lon="-72.83163847">
-    <!-- offset: "2062 Duffy Hill Road, , VT" Significant offset - 191.9m -->
+  <node id="-224061" visible="true" lat="44.883537155024" lon="-72.831639818979">
+    <!-- offset: "2062 Duffy Hill Road, Enosburg Falls, VT" Significant offset - 192.7m -->
+    <tag k="addr:city" v="Enosburg Falls"/>
     <tag k="addr:housenumber" v="2062"/>
     <tag k="addr:street" v="Duffy Hill Road"/>
+    <tag k="addr:postcode" v="05450"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="224061"/>
   </node>
-  <node id="-981" visible="true" lat="44.87079796" lon="-72.83709383">
-    <!-- offset: "2852 Duffy Hill Road, , VT" Significant offset - 206m -->
+  <node id="-335707" visible="true" lat="44.870807034588" lon="-72.837095172448">
+    <!-- offset: "2852 Duffy Hill Road, Enosburg Falls, VT" Significant offset - 206.4m -->
+    <tag k="addr:city" v="Enosburg Falls"/>
     <tag k="addr:housenumber" v="2852"/>
     <tag k="addr:street" v="Duffy Hill Road"/>
+    <tag k="addr:postcode" v="05450"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="335707"/>
+  </node>
+  <node id="-769708" visible="true" lat="44.927440655479" lon="-72.898871756609">
+    <!-- offset: "1180 Vermont Route 120, Franklin, VT" Significant offset - 145.1m -->
+    <tag k="addr:city" v="Franklin"/>
+    <tag k="addr:housenumber" v="1180"/>
+    <tag k="addr:street" v="Vermont Route 120"/>
+    <tag k="addr:postcode" v="05457"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769708"/>
+  </node>
+  <node id="-769749" visible="true" lat="44.889829156593" lon="-72.873867116123">
+    <!-- offset: "3485 Kittell Road, Enosburg Falls, VT" Significant offset - 104.8m -->
+    <tag k="addr:city" v="Enosburg Falls"/>
+    <tag k="addr:housenumber" v="3485"/>
+    <tag k="addr:street" v="Kittell Road"/>
+    <tag k="addr:postcode" v="05450"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769749"/>
+  </node>
+  <node id="-770030" visible="true" lat="44.911644442943" lon="-73.004807243406">
+    <!-- offset: "1119 Machia Road, Sheldon, VT" Significant offset - 102m -->
+    <tag k="addr:city" v="Sheldon"/>
+    <tag k="addr:housenumber" v="1119"/>
+    <tag k="addr:street" v="Machia Road"/>
+    <tag k="addr:postcode" v="05483"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770030"/>
+  </node>
+  <node id="-770140" visible="true" lat="44.879687206564" lon="-72.850759822256">
+    <!-- offset: "1056 Swamp Road, Enosburg Falls, VT" Significant offset - 120.4m -->
+    <tag k="addr:city" v="Enosburg Falls"/>
+    <tag k="addr:housenumber" v="1056"/>
+    <tag k="addr:street" v="Swamp Road"/>
+    <tag k="addr:postcode" v="05450"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="770140"/>
   </node>
 </osm>

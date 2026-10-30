@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-402" visible="true" lat="43.21913907" lon="-72.89753391">
-    <!-- offset: "954 South Road, Peru, VT" Significant offset - 259.4m -->
+  <node id="-186545" visible="true" lat="43.253426296718" lon="-72.892086650522">
+    <!-- offset: "1615 Hapgood Pond Road, Peru, VT" Significant offset - 131.9m -->
+    <tag k="addr:city" v="Peru"/>
+    <tag k="addr:housenumber" v="1615"/>
+    <tag k="addr:street" v="Hapgood Pond Road"/>
+    <tag k="addr:postcode" v="05152"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="186545"/>
+  </node>
+  <node id="-186798" visible="true" lat="43.219147839227" lon="-72.897535155667">
+    <!-- offset: "954 South Road, Peru, VT" Significant offset - 260.4m -->
     <tag k="addr:city" v="Peru"/>
     <tag k="addr:housenumber" v="954"/>
     <tag k="addr:street" v="South Road"/>
+    <tag k="addr:postcode" v="05152"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="186798"/>
+  </node>
+  <node id="-800012" visible="true" lat="43.238463025817" lon="-72.888790472783">
+    <!-- offset: "223 Cedar Lane, Peru, VT" Significant offset - 166.6m -->
+    <tag k="addr:city" v="Peru"/>
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:street" v="Cedar Lane"/>
+    <tag k="addr:postcode" v="05152"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="800012"/>
   </node>
 </osm>

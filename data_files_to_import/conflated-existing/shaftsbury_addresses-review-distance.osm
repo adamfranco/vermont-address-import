@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1753" visible="true" lat="42.98398176" lon="-73.20623597">
-    <!-- offset: "3628 Vermont Route 7A, , VT" Significant offset - 118m -->
+  <node id="-324347" visible="true" lat="42.983990481416" lon="-73.206237309857">
+    <!-- offset: "3628 Vermont Route 7A, Shaftsbury, VT" Significant offset - 118.2m -->
+    <tag k="addr:city" v="Shaftsbury"/>
     <tag k="addr:housenumber" v="3628"/>
     <tag k="addr:street" v="Vermont Route 7A"/>
+    <tag k="addr:postcode" v="05262"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="324347"/>
+  </node>
+  <node id="-769933" visible="true" lat="42.951163483248" lon="-73.216968215795">
+    <!-- offset: "327 Daniels Road, Shaftsbury, VT" Significant offset - 100.8m -->
+    <tag k="addr:city" v="Shaftsbury"/>
+    <tag k="addr:housenumber" v="327"/>
+    <tag k="addr:street" v="Daniels Road"/>
+    <tag k="addr:postcode" v="05262"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769933"/>
   </node>
 </osm>

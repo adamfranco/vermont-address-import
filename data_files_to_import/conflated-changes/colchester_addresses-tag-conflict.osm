@@ -1,35 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-3785" visible="true" lat="44.53817041" lon="-73.24424964">
-    <!-- conflict: "97 Bay Meadow Estate, Colchester, VT" Fuzzy match to "97 Bay Meadow Estates, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="97"/>
-    <tag k="addr:street" v="Bay Meadow Estate"/>
+  <node id="-69926" visible="true" lat="44.568685003775" lon="-73.101708867578">
+    <!-- conflict: "312 Brigham Hill Road, Essex Junction, VT" No match in OSM, but a different address exists <5m away: "320 Brigham Hill Road, Essex Junction, VT" -->
+    <tag k="addr:city" v="Essex Junction"/>
+    <tag k="addr:housenumber" v="312"/>
+    <tag k="addr:street" v="Brigham Hill Road"/>
+    <tag k="addr:postcode" v="05452"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="73561"/>
+    <tag k="ref:vcgi:esiteid" v="69926"/>
   </node>
-  <node id="-3796" visible="true" lat="44.53788084" lon="-73.24390124">
-    <!-- conflict: "121 Bay Meadow Estate, Colchester, VT" Fuzzy match to "121 Bay Meadow Estates, Colchester, VT" -->
+  <node id="-656093" visible="true" lat="44.545738063287" lon="-73.243484085259">
+    <!-- conflict: "175 Barnabas Court, Colchester, VT" No match in OSM, but a different address exists <5m away: "171 Barnabas Court, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="Bay Meadow Estate"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Barnabas Court"/>
+    <tag k="addr:postcode" v="05446"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="73573"/>
+    <tag k="ref:vcgi:esiteid" v="656093"/>
   </node>
-  <node id="-3809" visible="true" lat="44.53756491" lon="-73.24367722">
-    <!-- conflict: "141 Bay Meadow Estate, Colchester, VT" Fuzzy match to "141 Bay Meadow Estates, Colchester, VT" -->
+  <node id="-656096" visible="true" lat="44.545631299735" lon="-73.24347450121">
+    <!-- conflict: "175 Barnabas Court, Colchester, VT" No match in OSM, but a different address exists <5m away: "179 Barnabas Court, Colchester, VT" -->
     <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="141"/>
-    <tag k="addr:street" v="Bay Meadow Estate"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Barnabas Court"/>
+    <tag k="addr:postcode" v="05446"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="73588"/>
-  </node>
-  <node id="-5352" visible="true" lat="44.49852563" lon="-73.15794414">
-    <!-- conflict: "122 Johnson Avenue, Colchester, VT" No match in OSM, but a different address exists <5m away: "192 Johnson Avenue, Colchester, VT" -->
-    <tag k="addr:city" v="Colchester"/>
-    <tag k="addr:housenumber" v="122"/>
-    <tag k="addr:street" v="Johnson Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="75436"/>
+    <tag k="ref:vcgi:esiteid" v="656096"/>
   </node>
 </osm>

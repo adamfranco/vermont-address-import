@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-764" visible="true" lat="43.92575894" lon="-72.18287694">
+  <node id="-345403" visible="true" lat="43.925767870319" lon="-72.182877996304">
     <!-- offset: "650 Bald Top Road, Fairlee, VT" Significant offset - 910.5m -->
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="650"/>
     <tag k="addr:street" v="Bald Top Road"/>
+    <tag k="addr:postcode" v="05045"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="345403"/>
   </node>
-  <node id="-803" visible="true" lat="43.92448337" lon="-72.11853148">
+  <node id="-646630" visible="true" lat="43.924483371601" lon="-72.11853147628">
     <!-- offset: "1854 U.S. Route 5 North, Fairlee, VT" Significant offset - 550.9m -->
     <tag k="addr:city" v="Fairlee"/>
     <tag k="addr:housenumber" v="1854"/>
     <tag k="addr:street" v="U.S. Route 5 North"/>
+    <tag k="addr:postcode" v="05045"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="646630"/>
+  </node>
+  <node id="-758032" visible="true" lat="43.88933340111" lon="-72.176090717507">
+    <!-- offset: "1013 Bragg Hill Road, Fairlee, VT" Significant offset - 230.5m -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="1013"/>
+    <tag k="addr:street" v="Bragg Hill Road"/>
+    <tag k="addr:postcode" v="05045"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758032"/>
+  </node>
+  <node id="-771249" visible="true" lat="43.945165020031" lon="-72.161744861055">
+    <!-- offset: "1342 Brushwood Road, Fairlee, VT" Significant offset - 102.4m -->
+    <tag k="addr:city" v="Fairlee"/>
+    <tag k="addr:housenumber" v="1342"/>
+    <tag k="addr:street" v="Brushwood Road"/>
+    <tag k="addr:postcode" v="05045"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771249"/>
   </node>
 </osm>

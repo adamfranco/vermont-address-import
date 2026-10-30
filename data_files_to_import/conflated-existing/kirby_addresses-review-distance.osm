@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-163" visible="true" lat="44.51379428" lon="-71.9386559">
-    <!-- offset: "952 North Kirby Road, , VT" Significant offset - 112.7m -->
+  <node id="-138991" visible="true" lat="44.51379427516" lon="-71.938655904364">
+    <!-- offset: "952 North Kirby Road, Lyndonville, VT" Significant offset - 112.7m -->
+    <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="952"/>
     <tag k="addr:street" v="North Kirby Road"/>
+    <tag k="addr:postcode" v="05851"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="138991"/>
   </node>
-  <node id="-325" visible="true" lat="44.52271087" lon="-71.89996751">
-    <!-- offset: "1124 Victory Road, , VT" Significant offset - 5255.3m -->
-    <tag k="addr:housenumber" v="1124"/>
-    <tag k="addr:street" v="Victory Road"/>
+  <node id="-365625" visible="true" lat="44.526483355576" lon="-71.936471176941">
+    <!-- offset: "817 Brookside Road, Lyndonville, VT" Significant offset - 276m -->
+    <tag k="addr:city" v="Lyndonville"/>
+    <tag k="addr:housenumber" v="817"/>
+    <tag k="addr:street" v="Brookside Road"/>
+    <tag k="addr:postcode" v="05851"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="139157"/>
+    <tag k="ref:vcgi:esiteid" v="365625"/>
   </node>
 </osm>

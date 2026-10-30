@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-772619" visible="true" lat="43.305723361197" lon="-72.737400854946">
+    <!-- duplicates-in-different-towns: "689 Spruce Drive, Chester, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772620: "689 Spruce Drive, , VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="689"/>
+    <tag k="addr:street" v="Spruce Drive"/>
+    <tag k="addr:postcode" v="05143"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772619"/>
+  </node>
+</osm>

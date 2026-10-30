@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-307" visible="true" lat="44.1222927" lon="-73.18054709">
+  <node id="-172382" visible="true" lat="44.122301628736" lon="-73.180548497875">
     <!-- offset: "73 Main Street, New Haven, VT" Significant offset - 355m -->
     <tag k="addr:city" v="New Haven"/>
     <tag k="addr:housenumber" v="73"/>
     <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:postcode" v="05472"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="172382"/>
+  </node>
+  <node id="-172457" visible="true" lat="44.113935063181" lon="-73.118190639674">
+    <!-- offset: "861 East Street, New Haven, VT" Significant offset - 115.1m -->
+    <tag k="addr:city" v="New Haven"/>
+    <tag k="addr:housenumber" v="861"/>
+    <tag k="addr:street" v="East Street"/>
+    <tag k="addr:postcode" v="05472"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="172457"/>
+  </node>
+  <node id="-172889" visible="true" lat="44.058081783637" lon="-73.09680760485">
+    <!-- offset: "985 Cobble Road, Middlebury, VT" Significant offset - 458.4m -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="985"/>
+    <tag k="addr:street" v="Cobble Road"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="172889"/>
   </node>
 </osm>

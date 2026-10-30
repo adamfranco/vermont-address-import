@@ -1,1346 +1,407 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-128" visible="true" lat="43.71732739" lon="-72.41732284">
-    <!-- multiple: "49 Tigertown Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Tigertown Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="120094"/>
-  </node>
-  <node id="-249" visible="true" lat="43.70248579" lon="-72.37409711">
-    <!-- multiple: "3473 Jericho Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-120221" visible="true" lat="43.702494668949" lon="-72.374098217888">
+    <!-- multiple: "3473 Jericho Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="3473"/>
     <tag k="addr:street" v="Jericho Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="120221"/>
   </node>
-  <node id="-330" visible="true" lat="43.69609046" lon="-72.31962821">
-    <!-- multiple: "20 Palmer Court, , VT" Multiple exact matches in OSM. -->
+  <node id="-120304" visible="true" lat="43.696099348433" lon="-72.319629300965">
+    <!-- multiple: "20 Palmer Court, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Palmer Court"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="120304"/>
   </node>
-  <node id="-338" visible="true" lat="43.69503057" lon="-72.31869776">
-    <!-- multiple: "25 Olcott Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Olcott Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="120313"/>
-  </node>
-  <node id="-378" visible="true" lat="43.69389866" lon="-72.39640725">
-    <!-- multiple: "406 Rays Way, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="406"/>
-    <tag k="addr:street" v="Rays Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="120359"/>
-  </node>
-  <node id="-493" visible="true" lat="43.68760718" lon="-72.32177401">
-    <!-- multiple: "2300 Christian Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2300"/>
-    <tag k="addr:street" v="Christian Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="120483"/>
-  </node>
-  <node id="-674" visible="true" lat="43.67975464" lon="-72.3120422">
-    <!-- multiple: "133 Colonial Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Colonial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="120679"/>
-  </node>
-  <node id="-694" visible="true" lat="43.67922571" lon="-72.3125868">
-    <!-- multiple: "133 Colonial Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Colonial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="120700"/>
-  </node>
-  <node id="-718" visible="true" lat="43.67889201" lon="-72.31203434">
-    <!-- multiple: "133 Colonial Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Colonial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="120728"/>
-  </node>
-  <node id="-726" visible="true" lat="43.67874969" lon="-72.31284122">
-    <!-- multiple: "133 Colonial Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:street" v="Colonial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="120737"/>
-  </node>
-  <node id="-983" visible="true" lat="43.67520904" lon="-72.30743408">
-    <!-- multiple: "160 Norwich Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="160"/>
-    <tag k="addr:street" v="Norwich Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121009"/>
-  </node>
-  <node id="-1548" visible="true" lat="43.66640177" lon="-72.32243677">
-    <!-- multiple: "7 Skyline Way, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Skyline Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121615"/>
-  </node>
-  <node id="-1567" visible="true" lat="43.66601585" lon="-72.32272979">
-    <!-- multiple: "7 Skyline Way, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Skyline Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121634"/>
-  </node>
-  <node id="-1651" visible="true" lat="43.6648687" lon="-72.31230575">
-    <!-- multiple: "1167 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
+  <node id="-121721" visible="true" lat="43.664877576139" lon="-72.312306841872">
+    <!-- multiple: "1167 Hartford Avenue, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="1167"/>
     <tag k="addr:street" v="Hartford Avenue"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="121721"/>
   </node>
-  <node id="-1748" visible="true" lat="43.66358244" lon="-72.44782439">
-    <!-- multiple: "105 Williams Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="Williams Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121820"/>
-  </node>
-  <node id="-1756" visible="true" lat="43.66328045" lon="-72.4442538">
-    <!-- multiple: "451 Williams Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="451"/>
-    <tag k="addr:street" v="Williams Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121829"/>
-  </node>
-  <node id="-1782" visible="true" lat="43.66295894" lon="-72.44451165">
-    <!-- multiple: "451 Williams Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="451"/>
-    <tag k="addr:street" v="Williams Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121856"/>
-  </node>
-  <node id="-1793" visible="true" lat="43.6629707" lon="-72.44378579">
-    <!-- multiple: "451 Williams Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="451"/>
-    <tag k="addr:street" v="Williams Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121867"/>
-  </node>
-  <node id="-1794" visible="true" lat="43.66293209" lon="-72.44819005">
-    <!-- multiple: "105 Williams Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="Williams Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121868"/>
-  </node>
-  <node id="-1807" visible="true" lat="43.66272115" lon="-72.4448315">
-    <!-- multiple: "451 Williams Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="451"/>
-    <tag k="addr:street" v="Williams Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121881"/>
-  </node>
-  <node id="-1809" visible="true" lat="43.66257718" lon="-72.44931485">
-    <!-- multiple: "105 Williams Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="Williams Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121883"/>
-  </node>
-  <node id="-1810" visible="true" lat="43.66265726" lon="-72.44364548">
-    <!-- multiple: "451 Williams Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="451"/>
-    <tag k="addr:street" v="Williams Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121884"/>
-  </node>
-  <node id="-1813" visible="true" lat="43.66253868" lon="-72.4442976">
-    <!-- multiple: "451 Williams Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="451"/>
-    <tag k="addr:street" v="Williams Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121887"/>
-  </node>
-  <node id="-1850" visible="true" lat="43.66211329" lon="-72.38819987">
-    <!-- multiple: "3479 Woodstock Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="3479"/>
-    <tag k="addr:street" v="Woodstock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="121925"/>
-  </node>
-  <node id="-1944" visible="true" lat="43.66134027" lon="-72.3142216">
-    <!-- multiple: "906 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="906"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122036"/>
-  </node>
-  <node id="-1947" visible="true" lat="43.66125451" lon="-72.34041585">
-    <!-- multiple: "1477 Maple Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1477"/>
-    <tag k="addr:street" v="Maple Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122041"/>
-  </node>
-  <node id="-1951" visible="true" lat="43.66108852" lon="-72.31174868">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122045"/>
-  </node>
-  <node id="-1956" visible="true" lat="43.66115564" lon="-72.34004569">
-    <!-- multiple: "1461 Maple Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-122052" visible="true" lat="43.661164516085" lon="-72.3400467792">
+    <!-- multiple: "1461 Maple Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="1461"/>
     <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122052"/>
   </node>
-  <node id="-1971" visible="true" lat="43.66097596" lon="-72.31103299">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122069"/>
-  </node>
-  <node id="-1985" visible="true" lat="43.66089584" lon="-72.31107947">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122083"/>
-  </node>
-  <node id="-1996" visible="true" lat="43.66081926" lon="-72.31113915">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122096"/>
-  </node>
-  <node id="-2043" visible="true" lat="43.66020524" lon="-72.31170137">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122146"/>
-  </node>
-  <node id="-2144" visible="true" lat="43.65923141" lon="-72.3868257">
-    <!-- multiple: "3700 Woodstock Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="3700"/>
-    <tag k="addr:street" v="Woodstock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122253"/>
-  </node>
-  <node id="-2606" visible="true" lat="43.6531606" lon="-72.31780904">
-    <!-- multiple: "102 Pine Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="102"/>
-    <tag k="addr:street" v="Pine Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122745"/>
-  </node>
-  <node id="-2615" visible="true" lat="43.65312056" lon="-72.3455391">
-    <!-- multiple: "812 V.A. Cutoff Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="812"/>
-    <tag k="addr:street" v="V.A. Cutoff Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122757"/>
-  </node>
-  <node id="-2631" visible="true" lat="43.65250396" lon="-72.3307724">
-    <!-- multiple: "50 Woodstock Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-122776" visible="true" lat="43.652512839027" lon="-72.330773490123">
+    <!-- multiple: "50 Woodstock Road, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122776"/>
   </node>
-  <node id="-2645" visible="true" lat="43.65246963" lon="-72.43635559">
-    <!-- multiple: "111 Lakeland Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Lakeland Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122792"/>
-  </node>
-  <node id="-2646" visible="true" lat="43.65244293" lon="-72.43686676">
-    <!-- multiple: "111 Lakeland Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Lakeland Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122795"/>
-  </node>
-  <node id="-2660" visible="true" lat="43.65216064" lon="-72.43582153">
-    <!-- multiple: "111 Lakeland Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Lakeland Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122813"/>
-  </node>
-  <node id="-2666" visible="true" lat="43.65201114" lon="-72.436853">
-    <!-- multiple: "111 Lakeland Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Lakeland Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122819"/>
-  </node>
-  <node id="-2692" visible="true" lat="43.65164947" lon="-72.4363861">
-    <!-- multiple: "111 Lakeland Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Lakeland Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122848"/>
-  </node>
-  <node id="-2698" visible="true" lat="43.65157699" lon="-72.43751525">
-    <!-- multiple: "60 Lakeland Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Lakeland Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122856"/>
-  </node>
-  <node id="-2706" visible="true" lat="43.65154321" lon="-72.31652885">
-    <!-- multiple: "87 Maple Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-122865" visible="true" lat="43.651552077991" lon="-72.31652993225">
+    <!-- multiple: "87 Maple Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="87"/>
     <tag k="addr:street" v="Maple Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122865"/>
   </node>
-  <node id="-2717" visible="true" lat="43.65128707" lon="-72.43767547">
-    <!-- multiple: "60 Lakeland Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Lakeland Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122878"/>
-  </node>
-  <node id="-2729" visible="true" lat="43.6510353" lon="-72.43738555">
-    <!-- multiple: "60 Lakeland Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Lakeland Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122893"/>
-  </node>
-  <node id="-2744" visible="true" lat="43.65082168" lon="-72.43710327">
-    <!-- multiple: "60 Lakeland Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Lakeland Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122911"/>
-  </node>
-  <node id="-2746" visible="true" lat="43.65075588" lon="-72.31587104">
-    <!-- multiple: "42 Maple Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:street" v="Maple Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122913"/>
-  </node>
-  <node id="-2768" visible="true" lat="43.65049226" lon="-72.32341023">
-    <!-- multiple: "262 North Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-122937" visible="true" lat="43.65049941005" lon="-72.32340921535">
+    <!-- multiple: "262 North Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="262"/>
     <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="122937"/>
   </node>
-  <node id="-2776" visible="true" lat="43.65056979" lon="-72.41897492">
-    <!-- multiple: "355 Lyman Batcheller Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Lyman Batcheller Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122946"/>
-  </node>
-  <node id="-2794" visible="true" lat="43.65015792" lon="-72.43668365">
-    <!-- multiple: "761 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="761"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122966"/>
-  </node>
-  <node id="-2801" visible="true" lat="43.65020837" lon="-72.41866956">
-    <!-- multiple: "355 Lyman Batcheller Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Lyman Batcheller Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122973"/>
-  </node>
-  <node id="-2806" visible="true" lat="43.65015695" lon="-72.41927483">
-    <!-- multiple: "355 Lyman Batcheller Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="355"/>
-    <tag k="addr:street" v="Lyman Batcheller Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122978"/>
-  </node>
-  <node id="-2811" visible="true" lat="43.64997482" lon="-72.43815612">
-    <!-- multiple: "805 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="805"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122984"/>
-  </node>
-  <node id="-2814" visible="true" lat="43.64996337" lon="-72.43692779">
-    <!-- multiple: "761 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="761"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="122987"/>
-  </node>
-  <node id="-2822" visible="true" lat="43.6498909" lon="-72.43779754">
-    <!-- multiple: "805 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="805"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123000"/>
-  </node>
-  <node id="-2823" visible="true" lat="43.64994949" lon="-72.31902259">
-    <!-- multiple: "58 Bridge Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123001" visible="true" lat="43.649958363947" lon="-72.319023674446">
+    <!-- multiple: "58 Bridge Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="58"/>
     <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123001"/>
   </node>
-  <node id="-2827" visible="true" lat="43.64985656" lon="-72.43849182">
-    <!-- multiple: "805 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="805"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123005"/>
-  </node>
-  <node id="-2831" visible="true" lat="43.65042589" lon="-72.4365506">
-    <!-- multiple: "761 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="761"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123010"/>
-  </node>
-  <node id="-2834" visible="true" lat="43.64983061" lon="-72.31931755">
-    <!-- multiple: "52 Bridge Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123014" visible="true" lat="43.649839491851" lon="-72.319318641047">
+    <!-- multiple: "52 Bridge Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="Bridge Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123014"/>
   </node>
-  <node id="-2841" visible="true" lat="43.64949458" lon="-72.31882267">
-    <!-- multiple: "15 Railroad Row, , VT" Multiple exact matches in OSM. -->
+  <node id="-123022" visible="true" lat="43.649503453741" lon="-72.318823764739">
+    <!-- multiple: "15 Railroad Row, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Railroad Row"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123022"/>
   </node>
-  <node id="-2852" visible="true" lat="43.64956665" lon="-72.43835449">
-    <!-- multiple: "805 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="805"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123033"/>
-  </node>
-  <node id="-2853" visible="true" lat="43.64977115" lon="-72.43740165">
-    <!-- multiple: "805 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="805"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123034"/>
-  </node>
-  <node id="-2864" visible="true" lat="43.6494805" lon="-72.32148846">
-    <!-- multiple: "15 Church Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123048"/>
-  </node>
-  <node id="-2873" visible="true" lat="43.64952653" lon="-72.32028532">
-    <!-- multiple: "85 North Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123058" visible="true" lat="43.64953541105" lon="-72.320286411419">
+    <!-- multiple: "85 North Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="85"/>
     <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123058"/>
   </node>
-  <node id="-2878" visible="true" lat="43.64921172" lon="-72.31858602">
-    <!-- multiple: "35 Railroad Row, , VT" Multiple exact matches in OSM. -->
+  <node id="-123065" visible="true" lat="43.649220600538" lon="-72.318587110694">
+    <!-- multiple: "35 Railroad Row, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:street" v="Railroad Row"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123065"/>
   </node>
-  <node id="-2919" visible="true" lat="43.64889526" lon="-72.3190689">
-    <!-- multiple: "27 North Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123111" visible="true" lat="43.648904134079" lon="-72.319069993251">
+    <!-- multiple: "27 North Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123111"/>
   </node>
-  <node id="-2924" visible="true" lat="43.64890626" lon="-72.32007373">
-    <!-- multiple: "70 North Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123116" visible="true" lat="43.648915140232" lon="-72.320074824727">
+    <!-- multiple: "70 North Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="70"/>
     <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123116"/>
   </node>
-  <node id="-2934" visible="true" lat="43.64882841" lon="-72.31984528">
-    <!-- multiple: "58 North Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123128" visible="true" lat="43.648837287288" lon="-72.319846373735">
+    <!-- multiple: "58 North Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="58"/>
     <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123128"/>
   </node>
-  <node id="-2943" visible="true" lat="43.64879608" lon="-72.41172528">
-    <!-- multiple: "253 Old Quechee Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="253"/>
-    <tag k="addr:street" v="Old Quechee Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123138"/>
-  </node>
-  <node id="-2945" visible="true" lat="43.64875423" lon="-72.31960666">
-    <!-- multiple: "42 North Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123141" visible="true" lat="43.648763108157" lon="-72.319607750574">
+    <!-- multiple: "42 North Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123141"/>
   </node>
-  <node id="-2962" visible="true" lat="43.64860916" lon="-72.43643951">
-    <!-- multiple: "860 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="860"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123159"/>
-  </node>
-  <node id="-2971" visible="true" lat="43.64863035" lon="-72.44071677">
-    <!-- multiple: "807 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="807"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123173"/>
-  </node>
-  <node id="-2972" visible="true" lat="43.64868896" lon="-72.34554934">
-    <!-- multiple: "1113 V.A. Cutoff Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1113"/>
-    <tag k="addr:street" v="V.A. Cutoff Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123174"/>
-  </node>
-  <node id="-2973" visible="true" lat="43.64850616" lon="-72.4119389">
-    <!-- multiple: "253 Old Quechee Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="253"/>
-    <tag k="addr:street" v="Old Quechee Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123175"/>
-  </node>
-  <node id="-2974" visible="true" lat="43.64841461" lon="-72.33525085">
-    <!-- multiple: "1011 North Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1011"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123176"/>
-  </node>
-  <node id="-2984" visible="true" lat="43.64842605" lon="-72.44010925">
-    <!-- multiple: "807 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="807"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123188"/>
-  </node>
-  <node id="-2990" visible="true" lat="43.64838495" lon="-72.31945139">
-    <!-- multiple: "40 Currier Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123196" visible="true" lat="43.648393825447" lon="-72.319452477309">
+    <!-- multiple: "40 Currier Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Currier Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123196"/>
   </node>
-  <node id="-2992" visible="true" lat="43.64817611" lon="-72.32694751">
-    <!-- multiple: "95 Templeton Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Templeton Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123199"/>
-  </node>
-  <node id="-3008" visible="true" lat="43.64839654" lon="-72.4452568">
-    <!-- multiple: "3755 Quechee Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="3755"/>
-    <tag k="addr:street" v="Quechee Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123215"/>
-  </node>
-  <node id="-3009" visible="true" lat="43.64818358" lon="-72.41145269">
-    <!-- multiple: "1299 Quechee Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1299"/>
-    <tag k="addr:street" v="Quechee Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123219"/>
-  </node>
-  <node id="-3013" visible="true" lat="43.64819335" lon="-72.43841552">
-    <!-- multiple: "917 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="917"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123223"/>
-  </node>
-  <node id="-3017" visible="true" lat="43.64821525" lon="-72.43644827">
-    <!-- multiple: "860 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="860"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123229"/>
-  </node>
-  <node id="-3020" visible="true" lat="43.64782733" lon="-72.33569053">
-    <!-- multiple: "1049 North Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123233" visible="true" lat="43.647836200736" lon="-72.335691621718">
+    <!-- multiple: "1049 North Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="1049"/>
     <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123233"/>
   </node>
-  <node id="-3021" visible="true" lat="43.64807892" lon="-72.41231274">
-    <!-- multiple: "253 Old Quechee Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="253"/>
-    <tag k="addr:street" v="Old Quechee Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123234"/>
-  </node>
-  <node id="-3024" visible="true" lat="43.6480071" lon="-72.32625005">
-    <!-- multiple: "95 Templeton Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Templeton Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123239"/>
-  </node>
-  <node id="-3026" visible="true" lat="43.64817862" lon="-72.43793269">
-    <!-- multiple: "917 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="917"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123241"/>
-  </node>
-  <node id="-3028" visible="true" lat="43.64804077" lon="-72.44097137">
-    <!-- multiple: "807 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="807"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123243"/>
-  </node>
-  <node id="-3031" visible="true" lat="43.64800048" lon="-72.41187993">
-    <!-- multiple: "1299 Quechee Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1299"/>
-    <tag k="addr:street" v="Quechee Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123246"/>
-  </node>
-  <node id="-3033" visible="true" lat="43.64797697" lon="-72.31894803">
-    <!-- multiple: "39 South Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123248" visible="true" lat="43.647985842819" lon="-72.318949118029">
+    <!-- multiple: "39 South Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123248"/>
   </node>
-  <node id="-3034" visible="true" lat="43.64816152" lon="-72.44563012">
-    <!-- multiple: "3755 Quechee Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="3755"/>
-    <tag k="addr:street" v="Quechee Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123249"/>
-  </node>
-  <node id="-3042" visible="true" lat="43.64793395" lon="-72.436203">
-    <!-- multiple: "860 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="860"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123257"/>
-  </node>
-  <node id="-3051" visible="true" lat="43.64774322" lon="-72.33451843">
-    <!-- multiple: "1038 North Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123269" visible="true" lat="43.647752095274" lon="-72.334519524177">
+    <!-- multiple: "1038 North Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="1038"/>
     <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123269"/>
   </node>
-  <node id="-3053" visible="true" lat="43.6478157" lon="-72.44087982">
-    <!-- multiple: "807 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="807"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123271"/>
-  </node>
-  <node id="-3055" visible="true" lat="43.64778228" lon="-72.43835188">
-    <!-- multiple: "917 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="917"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123274"/>
-  </node>
-  <node id="-3060" visible="true" lat="43.64790497" lon="-72.44602649">
-    <!-- multiple: "3755 Quechee Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="3755"/>
-    <tag k="addr:street" v="Quechee Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123281"/>
-  </node>
-  <node id="-3095" visible="true" lat="43.64728832" lon="-72.31901141">
-    <!-- multiple: "93 South Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123320" visible="true" lat="43.647297194" lon="-72.319012496377">
+    <!-- multiple: "93 South Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="93"/>
     <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123320"/>
   </node>
-  <node id="-3102" visible="true" lat="43.64745374" lon="-72.34517823">
-    <!-- multiple: "1195 V.A. Cutoff Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1195"/>
-    <tag k="addr:street" v="V.A. Cutoff Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123328"/>
-  </node>
-  <node id="-3108" visible="true" lat="43.6472082" lon="-72.31854677">
-    <!-- multiple: "104 South Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123335" visible="true" lat="43.647217072297" lon="-72.318547857403">
+    <!-- multiple: "104 South Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="104"/>
     <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123335"/>
   </node>
-  <node id="-3123" visible="true" lat="43.64701461" lon="-72.43179321">
-    <!-- multiple: "1140 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1140"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123354"/>
-  </node>
-  <node id="-3131" visible="true" lat="43.64701145" lon="-72.43877506">
-    <!-- multiple: "919 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="919"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123364"/>
-  </node>
-  <node id="-3145" visible="true" lat="43.64681961" lon="-72.31897216">
-    <!-- multiple: "129 South Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123378" visible="true" lat="43.646828487863" lon="-72.318973249195">
+    <!-- multiple: "129 South Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="129"/>
     <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123378"/>
   </node>
-  <node id="-3155" visible="true" lat="43.64683513" lon="-72.41854514">
-    <!-- multiple: "80 Bluff Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:street" v="Bluff Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123388"/>
-  </node>
-  <node id="-3157" visible="true" lat="43.64675903" lon="-72.4312973">
-    <!-- multiple: "1140 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1140"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123390"/>
-  </node>
-  <node id="-3160" visible="true" lat="43.64672088" lon="-72.43051147">
-    <!-- multiple: "1140 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1140"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123394"/>
-  </node>
-  <node id="-3166" visible="true" lat="43.64675755" lon="-72.33364579">
-    <!-- multiple: "80 Sykes Mountain Avenue, , VT" Multiple exact matches in OSM. -->
+  <node id="-123402" visible="true" lat="43.646766427937" lon="-72.333646882023">
+    <!-- multiple: "80 Sykes Mountain Avenue, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="80"/>
     <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123402"/>
   </node>
-  <node id="-3171" visible="true" lat="43.6466217" lon="-72.43914794">
-    <!-- multiple: "919 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="919"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123410"/>
-  </node>
-  <node id="-3181" visible="true" lat="43.64637374" lon="-72.31880187">
-    <!-- multiple: "153 South Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123422" visible="true" lat="43.646382618769" lon="-72.318802964226">
+    <!-- multiple: "153 South Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="153"/>
     <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123422"/>
   </node>
-  <node id="-3182" visible="true" lat="43.64648055" lon="-72.4302597">
-    <!-- multiple: "1140 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1140"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123423"/>
-  </node>
-  <node id="-3185" visible="true" lat="43.64641391" lon="-72.31828934">
-    <!-- multiple: "158 South Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="158"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123428"/>
-  </node>
-  <node id="-3187" visible="true" lat="43.64649408" lon="-72.33389116">
-    <!-- multiple: "96 Sykes Mountain Avenue, , VT" Multiple exact matches in OSM. -->
+  <node id="-123431" visible="true" lat="43.646502948223" lon="-72.333892252078">
+    <!-- multiple: "96 Sykes Mountain Avenue, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="96"/>
     <tag k="addr:street" v="Sykes Mountain Avenue"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123431"/>
   </node>
-  <node id="-3191" visible="true" lat="43.64650123" lon="-72.43159585">
-    <!-- multiple: "1140 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1140"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123435"/>
-  </node>
-  <node id="-3209" visible="true" lat="43.64616793" lon="-72.43056767">
-    <!-- multiple: "1140 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1140"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123454"/>
-  </node>
-  <node id="-3211" visible="true" lat="43.6462059" lon="-72.43127441">
-    <!-- multiple: "1140 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1140"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123456"/>
-  </node>
-  <node id="-3236" visible="true" lat="43.64604418" lon="-72.41936161">
-    <!-- multiple: "1760 Quechee Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123484" visible="true" lat="43.646053046829" lon="-72.419362732066">
+    <!-- multiple: "1760 Quechee Main Street, Quechee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Quechee"/>
     <tag k="addr:housenumber" v="1760"/>
     <tag k="addr:street" v="Quechee Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123484"/>
   </node>
-  <node id="-3288" visible="true" lat="43.64538094" lon="-72.33663848">
-    <!-- multiple: "135 Beswick Drive, , VT" Multiple exact matches in OSM. -->
+  <node id="-123547" visible="true" lat="43.645389812878" lon="-72.336639574965">
+    <!-- multiple: "135 Beswick Drive, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="135"/>
     <tag k="addr:street" v="Beswick Drive"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123547"/>
   </node>
-  <node id="-3321" visible="true" lat="43.64503927" lon="-72.34032925">
-    <!-- multiple: "4 Ballardvale Drive, , VT" Multiple exact matches in OSM. -->
+  <node id="-123582" visible="true" lat="43.645048142328" lon="-72.34033034298">
+    <!-- multiple: "4 Ballardvale Drive, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Ballardvale Drive"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123582"/>
   </node>
-  <node id="-3359" visible="true" lat="43.64466095" lon="-72.33180999">
-    <!-- multiple: "243 Sykes Mountain Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="243"/>
-    <tag k="addr:street" v="Sykes Mountain Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123624"/>
-  </node>
-  <node id="-3365" visible="true" lat="43.64458084" lon="-72.31855774">
-    <!-- multiple: "279 South Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-123630" visible="true" lat="43.644589712549" lon="-72.318558825839">
+    <!-- multiple: "279 South Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="279"/>
     <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123630"/>
   </node>
-  <node id="-3366" visible="true" lat="43.64468308" lon="-72.34218432">
-    <!-- multiple: "60 Jasmin Lane, , VT" Multiple exact matches in OSM. -->
+  <node id="-123631" visible="true" lat="43.644691952137" lon="-72.342185415649">
+    <!-- multiple: "60 Jasmin Lane, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:street" v="Jasmin Lane"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123631"/>
   </node>
-  <node id="-3410" visible="true" lat="43.64429498" lon="-72.42196304">
-    <!-- multiple: "6985 Woodstock Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-123679" visible="true" lat="43.644303844387" lon="-72.421964163564">
+    <!-- multiple: "6985 Woodstock Road, Quechee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Quechee"/>
     <tag k="addr:housenumber" v="6985"/>
     <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123679"/>
   </node>
-  <node id="-3437" visible="true" lat="43.64399523" lon="-72.33609878">
-    <!-- multiple: "100 Dewitt Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Dewitt Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123711"/>
-  </node>
-  <node id="-3445" visible="true" lat="43.64396267" lon="-72.42003499">
-    <!-- multiple: "6931 Woodstock Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-123722" visible="true" lat="43.643971540245" lon="-72.420036112251">
+    <!-- multiple: "6931 Woodstock Road, Quechee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Quechee"/>
     <tag k="addr:housenumber" v="6931"/>
     <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123722"/>
   </node>
-  <node id="-3455" visible="true" lat="43.64351084" lon="-72.42209001">
-    <!-- multiple: "6990 Woodstock Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-123734" visible="true" lat="43.643519710692" lon="-72.422091124888">
+    <!-- multiple: "6990 Woodstock Road, Quechee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Quechee"/>
     <tag k="addr:housenumber" v="6990"/>
     <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:postcode" v="05059"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123734"/>
   </node>
-  <node id="-3502" visible="true" lat="43.64260191" lon="-72.41856284">
-    <!-- multiple: "6800 Woodstock Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-123791" visible="true" lat="43.64261077613" lon="-72.418563955533">
+    <!-- multiple: "6800 Woodstock Road, Quechee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Quechee"/>
     <tag k="addr:housenumber" v="6800"/>
     <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="123791"/>
   </node>
-  <node id="-3562" visible="true" lat="43.64161902" lon="-72.33273451">
-    <!-- multiple: "226 Holiday Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="226"/>
-    <tag k="addr:street" v="Holiday Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="123859"/>
-  </node>
-  <node id="-3705" visible="true" lat="43.63753552" lon="-72.40761697">
-    <!-- multiple: "6053 Woodstock Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-124014" visible="true" lat="43.637544389572" lon="-72.407618084413">
+    <!-- multiple: "6053 Woodstock Road, Quechee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Quechee"/>
     <tag k="addr:housenumber" v="6053"/>
     <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:postcode" v="05059"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124014"/>
   </node>
-  <node id="-3707" visible="true" lat="43.63739673" lon="-72.40352512">
-    <!-- multiple: "5817 Woodstock Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="5817"/>
-    <tag k="addr:street" v="Woodstock Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124016"/>
-  </node>
-  <node id="-3711" visible="true" lat="43.6373378" lon="-72.40612684">
-    <!-- multiple: "5967 Woodstock Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-124021" visible="true" lat="43.637346667444" lon="-72.406127955226">
+    <!-- multiple: "5967 Woodstock Road, Quechee, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Quechee"/>
     <tag k="addr:housenumber" v="5967"/>
     <tag k="addr:street" v="Woodstock Road"/>
+    <tag k="addr:postcode" v="05059"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124021"/>
   </node>
-  <node id="-4101" visible="true" lat="43.66989954" lon="-72.32494969">
-    <!-- multiple: "649 Bugbee Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="649"/>
-    <tag k="addr:street" v="Bugbee Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124430"/>
-  </node>
-  <node id="-4102" visible="true" lat="43.66947865" lon="-72.32428461">
-    <!-- multiple: "649 Bugbee Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="649"/>
-    <tag k="addr:street" v="Bugbee Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124431"/>
-  </node>
-  <node id="-4104" visible="true" lat="43.66883156" lon="-72.32327005">
-    <!-- multiple: "647 Bugbee Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="647"/>
-    <tag k="addr:street" v="Bugbee Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124433"/>
-  </node>
-  <node id="-4105" visible="true" lat="43.6686197" lon="-72.32285752">
-    <!-- multiple: "647 Bugbee Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="647"/>
-    <tag k="addr:street" v="Bugbee Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124434"/>
-  </node>
-  <node id="-4108" visible="true" lat="43.66835174" lon="-72.32253831">
-    <!-- multiple: "647 Bugbee Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="647"/>
-    <tag k="addr:street" v="Bugbee Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124437"/>
-  </node>
-  <node id="-4171" visible="true" lat="43.64563868" lon="-72.31822024">
-    <!-- multiple: "230 South Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-124504" visible="true" lat="43.645647546028" lon="-72.318221330014">
+    <!-- multiple: "230 South Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="230"/>
     <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124504"/>
   </node>
-  <node id="-4235" visible="true" lat="43.64963826" lon="-72.43457313">
-    <!-- multiple: "580 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="580"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124569"/>
-  </node>
-  <node id="-4236" visible="true" lat="43.64969217" lon="-72.43421619">
-    <!-- multiple: "580 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="580"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124570"/>
-  </node>
-  <node id="-4237" visible="true" lat="43.64955769" lon="-72.43387791">
-    <!-- multiple: "580 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="580"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124571"/>
-  </node>
-  <node id="-4238" visible="true" lat="43.64942344" lon="-72.43345174">
-    <!-- multiple: "580 Murphys Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="580"/>
-    <tag k="addr:street" v="Murphys Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124572"/>
-  </node>
-  <node id="-4265" visible="true" lat="43.69367681" lon="-72.39710091">
-    <!-- multiple: "406 Rays Way, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="406"/>
-    <tag k="addr:street" v="Rays Way"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124601"/>
-  </node>
-  <node id="-4313" visible="true" lat="43.64571188" lon="-72.31784607">
-    <!-- multiple: "188 South Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-124653" visible="true" lat="43.645720747006" lon="-72.317847154624">
+    <!-- multiple: "188 South Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="188"/>
     <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124653"/>
   </node>
-  <node id="-4358" visible="true" lat="43.66559841" lon="-72.31509932">
-    <!-- multiple: "60 Hollow Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Hollow Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124698"/>
-  </node>
-  <node id="-4359" visible="true" lat="43.6653483" lon="-72.31515112">
-    <!-- multiple: "60 Hollow Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Hollow Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124699"/>
-  </node>
-  <node id="-4361" visible="true" lat="43.66543263" lon="-72.31545843">
-    <!-- multiple: "60 Hollow Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="Hollow Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124701"/>
-  </node>
-  <node id="-4364" visible="true" lat="43.66641442" lon="-72.3161781">
-    <!-- multiple: "151 Hollow Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Hollow Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124704"/>
-  </node>
-  <node id="-4365" visible="true" lat="43.66654313" lon="-72.31635996">
-    <!-- multiple: "151 Hollow Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Hollow Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124705"/>
-  </node>
-  <node id="-4366" visible="true" lat="43.66651597" lon="-72.3166453">
-    <!-- multiple: "151 Hollow Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Hollow Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124706"/>
-  </node>
-  <node id="-4378" visible="true" lat="43.66107423" lon="-72.31116313">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124720"/>
-  </node>
-  <node id="-4379" visible="true" lat="43.661071" lon="-72.31133454">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124721"/>
-  </node>
-  <node id="-4380" visible="true" lat="43.66108081" lon="-72.31147625">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124722"/>
-  </node>
-  <node id="-4381" visible="true" lat="43.66062619" lon="-72.31156642">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124723"/>
-  </node>
-  <node id="-4382" visible="true" lat="43.6607589" lon="-72.31144737">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124724"/>
-  </node>
-  <node id="-4383" visible="true" lat="43.66068617" lon="-72.31165549">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124725"/>
-  </node>
-  <node id="-4384" visible="true" lat="43.66078306" lon="-72.31154794">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124726"/>
-  </node>
-  <node id="-4394" visible="true" lat="43.6613302" lon="-72.31179191">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124736"/>
-  </node>
-  <node id="-4395" visible="true" lat="43.66113086" lon="-72.31207478">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124737"/>
-  </node>
-  <node id="-4396" visible="true" lat="43.66078937" lon="-72.31183471">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124738"/>
-  </node>
-  <node id="-4397" visible="true" lat="43.660938" lon="-72.31194806">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124739"/>
-  </node>
-  <node id="-4398" visible="true" lat="43.66080516" lon="-72.31200293">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124740"/>
-  </node>
-  <node id="-4399" visible="true" lat="43.66062554" lon="-72.3120015">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124741"/>
-  </node>
-  <node id="-4400" visible="true" lat="43.66052256" lon="-72.31200338">
-    <!-- multiple: "150 Advent Lane, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:street" v="Advent Lane"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124742"/>
-  </node>
-  <node id="-4444" visible="true" lat="43.68970642" lon="-72.32120966">
-    <!-- multiple: "2456 Christian Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2456"/>
-    <tag k="addr:street" v="Christian Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124786"/>
-  </node>
-  <node id="-4494" visible="true" lat="43.683298" lon="-72.31805565">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124843"/>
-  </node>
-  <node id="-4499" visible="true" lat="43.64924252" lon="-72.32114633">
-    <!-- multiple: "22 Church Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="124849"/>
-  </node>
-  <node id="-4511" visible="true" lat="43.64901983" lon="-72.31841113">
-    <!-- multiple: "55 Railroad Row, , VT" Multiple exact matches in OSM. -->
+  <node id="-124863" visible="true" lat="43.649028702468" lon="-72.318412216674">
+    <!-- multiple: "55 Railroad Row, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Railroad Row"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="124863"/>
   </node>
-  <node id="-4661" visible="true" lat="43.64844888" lon="-72.31889989">
-    <!-- multiple: "5 South Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-317148" visible="true" lat="43.648457754254" lon="-72.318900976291">
+    <!-- multiple: "5 South Main Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="317148"/>
   </node>
-  <node id="-4677" visible="true" lat="43.64780133" lon="-72.31748957">
-    <!-- multiple: "102 Railroad Row, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="102"/>
-    <tag k="addr:street" v="Railroad Row"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="325291"/>
-  </node>
-  <node id="-4679" visible="true" lat="43.64138188" lon="-72.34302665">
-    <!-- multiple: "100 Arboretum Lane, , VT" Multiple exact matches in OSM. -->
+  <node id="-326145" visible="true" lat="43.641390752863" lon="-72.343027750093">
+    <!-- multiple: "100 Arboretum Lane, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="Arboretum Lane"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="326145"/>
   </node>
-  <node id="-4825" visible="true" lat="43.68338942" lon="-72.31832267">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333245"/>
-  </node>
-  <node id="-4826" visible="true" lat="43.68348949" lon="-72.31856275">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333246"/>
-  </node>
-  <node id="-4829" visible="true" lat="43.68282478" lon="-72.31846173">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333249"/>
-  </node>
-  <node id="-4830" visible="true" lat="43.68315583" lon="-72.31769001">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333250"/>
-  </node>
-  <node id="-4831" visible="true" lat="43.6829612" lon="-72.31719458">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333251"/>
-  </node>
-  <node id="-4832" visible="true" lat="43.68292355" lon="-72.31789293">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333252"/>
-  </node>
-  <node id="-4833" visible="true" lat="43.68284294" lon="-72.31769477">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333253"/>
-  </node>
-  <node id="-4834" visible="true" lat="43.68276229" lon="-72.31747753">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333254"/>
-  </node>
-  <node id="-4835" visible="true" lat="43.68269831" lon="-72.31729458">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333255"/>
-  </node>
-  <node id="-4836" visible="true" lat="43.68285559" lon="-72.31695071">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333256"/>
-  </node>
-  <node id="-4837" visible="true" lat="43.68255397" lon="-72.31706991">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333257"/>
-  </node>
-  <node id="-4838" visible="true" lat="43.68255626" lon="-72.3167723">
-    <!-- multiple: "2680 Hartford Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Hartford Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="333258"/>
-  </node>
-  <node id="-4875" visible="true" lat="43.65445946" lon="-72.32349152">
-    <!-- multiple: "23 Hazen Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Hazen Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="339590"/>
-  </node>
-  <node id="-4899" visible="true" lat="43.68510145" lon="-72.31788273">
-    <!-- multiple: "205 Billings Farm Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Billings Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345102"/>
-  </node>
-  <node id="-4900" visible="true" lat="43.68487426" lon="-72.31706898">
-    <!-- multiple: "205 Billings Farm Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Billings Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345106"/>
-  </node>
-  <node id="-4903" visible="true" lat="43.68487881" lon="-72.31798148">
-    <!-- multiple: "205 Billings Farm Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Billings Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345111"/>
-  </node>
-  <node id="-4906" visible="true" lat="43.67783499" lon="-72.31162134">
-    <!-- multiple: "76 Colonial Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:street" v="Colonial Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="345318"/>
-  </node>
-  <node id="-4924" visible="true" lat="43.65805028" lon="-72.31937909">
-    <!-- multiple: "1 Gifford Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-447940" visible="true" lat="43.658059153966" lon="-72.319380176265">
+    <!-- multiple: "1 Gifford Road, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Gifford Road"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="447940"/>
   </node>
-  <node id="-4938" visible="true" lat="43.68469852" lon="-72.31810569">
-    <!-- multiple: "205 Billings Farm Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="205"/>
-    <tag k="addr:street" v="Billings Farm Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="451112"/>
-  </node>
-  <node id="-4949" visible="true" lat="43.64747562" lon="-72.3196867">
-    <!-- multiple: "74 Gates Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-454267" visible="true" lat="43.647484497318" lon="-72.319687794808">
+    <!-- multiple: "74 Gates Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="74"/>
     <tag k="addr:street" v="Gates Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="454267"/>
   </node>
-  <node id="-4990" visible="true" lat="43.64780063" lon="-72.32656754">
-    <!-- multiple: "95 Templeton Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="95"/>
-    <tag k="addr:street" v="Templeton Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="620535"/>
-  </node>
-  <node id="-5006" visible="true" lat="43.62385835" lon="-72.42521693">
-    <!-- multiple: "552 Sugar House Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="552"/>
-    <tag k="addr:street" v="Sugar House Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="655355"/>
-  </node>
-  <node id="-5007" visible="true" lat="43.62386294" lon="-72.42534903">
-    <!-- multiple: "775 Sugar House Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="775"/>
-    <tag k="addr:street" v="Sugar House Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="655356"/>
-  </node>
-  <node id="-5028" visible="true" lat="43.71263442" lon="-72.3841772">
-    <!-- multiple: "1147 Wallace Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1147"/>
-    <tag k="addr:street" v="Wallace Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="750124"/>
-  </node>
-  <node id="-5032" visible="true" lat="43.65229954" lon="-72.31539863">
-    <!-- multiple: "88 Prospect Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-750910" visible="true" lat="43.652308407653" lon="-72.31539971668">
+    <!-- multiple: "88 Prospect Street, White River Junction, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="White River Junction"/>
     <tag k="addr:housenumber" v="88"/>
     <tag k="addr:street" v="Prospect Street"/>
+    <tag k="addr:postcode" v="05001"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="750910"/>
   </node>

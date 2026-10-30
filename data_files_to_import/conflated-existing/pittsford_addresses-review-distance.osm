@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-989" visible="true" lat="43.68780899" lon="-73.00680542">
-    <!-- offset: "311 Country Club Drive, , VT" Significant offset - 346m -->
+  <node id="-188390" visible="true" lat="43.687817845325" lon="-73.006806736012">
+    <!-- offset: "311 Country Club Drive, Pittsford, VT" Significant offset - 346.6m -->
+    <tag k="addr:city" v="Pittsford"/>
     <tag k="addr:housenumber" v="311"/>
     <tag k="addr:street" v="Country Club Drive"/>
+    <tag k="addr:postcode" v="05763"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="188390"/>
   </node>
-  <node id="-1525" visible="true" lat="43.70753908" lon="-73.11522724">
-    <!-- offset: "870 Biddie Knob Road, , VT" Significant offset - 363.9m -->
+  <node id="-612079" visible="true" lat="43.707547936732" lon="-73.115228595484">
+    <!-- offset: "870 Biddie Knob Road, Castleton, VT" Significant offset - 364.7m -->
+    <tag k="addr:city" v="Castleton"/>
     <tag k="addr:housenumber" v="870"/>
     <tag k="addr:street" v="Biddie Knob Road"/>
+    <tag k="addr:postcode" v="05735"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="612079"/>
   </node>
-  <node id="-1558" visible="true" lat="43.7437824" lon="-72.99770502">
-    <!-- offset: "33 West Road, , VT" Significant offset - 328.1m -->
+  <node id="-757573" visible="true" lat="43.743791259764" lon="-72.99770633679">
+    <!-- offset: "33 West Road, Pittsford, VT" Significant offset - 327.7m -->
+    <tag k="addr:city" v="Pittsford"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="West Road"/>
+    <tag k="addr:postcode" v="05763"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="757573"/>
   </node>

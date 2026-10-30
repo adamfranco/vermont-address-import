@@ -1,19 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-274" visible="true" lat="43.8328539" lon="-72.85190554">
-    <!-- offset: "98 Mountain Road, Pittsfield, VT" Significant offset - 178.5m -->
-    <tag k="addr:city" v="Pittsfield"/>
+  <node id="-187204" visible="true" lat="43.832862781332" lon="-72.851906812726">
+    <!-- offset: "98 Mountain Road, Rochester, VT" Significant offset - 179.4m -->
+    <tag k="addr:city" v="Rochester"/>
     <tag k="addr:housenumber" v="98"/>
     <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:postcode" v="05767"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="187204"/>
   </node>
-  <node id="-275" visible="true" lat="43.83059926" lon="-72.8508262">
-    <!-- offset: "275 Mountain Road, Pittsfield, VT" Significant offset - 261.5m -->
-    <tag k="addr:city" v="Pittsfield"/>
+  <node id="-187205" visible="true" lat="43.830608147653" lon="-72.850827476223">
+    <!-- offset: "275 Mountain Road, Rochester, VT" Significant offset - 260.6m -->
+    <tag k="addr:city" v="Rochester"/>
     <tag k="addr:housenumber" v="275"/>
     <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:postcode" v="05767"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="187205"/>
+  </node>
+  <node id="-249335" visible="true" lat="43.780883389798" lon="-72.797437570611">
+    <!-- offset: "275 Vermont Route 100, Stockbridge, VT" Significant offset - 427.2m -->
+    <tag k="addr:city" v="Stockbridge"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:postcode" v="05762"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="249335"/>
+  </node>
+  <node id="-327609" visible="true" lat="43.756086482906" lon="-72.814526970753">
+    <!-- offset: "436 River View Trail, Pittsfield, VT" Significant offset - 189.4m -->
+    <tag k="addr:city" v="Pittsfield"/>
+    <tag k="addr:housenumber" v="436"/>
+    <tag k="addr:street" v="River View Trail"/>
+    <tag k="addr:postcode" v="05762"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327609"/>
+  </node>
+  <node id="-327610" visible="true" lat="43.755877232643" lon="-72.816862915811">
+    <!-- offset: "438 River View Trail, Pittsfield, VT" Significant offset - 202.2m -->
+    <tag k="addr:city" v="Pittsfield"/>
+    <tag k="addr:housenumber" v="438"/>
+    <tag k="addr:street" v="River View Trail"/>
+    <tag k="addr:postcode" v="05762"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="327610"/>
   </node>
 </osm>

@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-337" visible="true" lat="43.86500641" lon="-72.37734154">
-    <!-- multiple: "1 Brook Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-252372" visible="true" lat="43.865015321134" lon="-72.377342660415">
+    <!-- multiple: "1 Brook Road, Strafford, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Strafford"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Brook Road"/>
+    <tag k="addr:postcode" v="05072"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252372"/>
   </node>
-  <node id="-544" visible="true" lat="43.83418037" lon="-72.36046455">
-    <!-- multiple: "216 Route 132, , VT" Multiple exact matches in OSM. -->
+  <node id="-252597" visible="true" lat="43.834189272181" lon="-72.360465666788">
+    <!-- multiple: "216 Route 132, South Strafford, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="South Strafford"/>
     <tag k="addr:housenumber" v="216"/>
     <tag k="addr:street" v="Route 132"/>
+    <tag k="addr:postcode" v="05070"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="252597"/>
-  </node>
-  <node id="-835" visible="true" lat="43.83564402" lon="-72.36343871">
-    <!-- multiple: "236 Route 132, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="236"/>
-    <tag k="addr:street" v="Route 132"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="1050674"/>
   </node>
 </osm>

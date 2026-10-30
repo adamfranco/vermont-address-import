@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-223143" visible="true" lat="44.429604880822" lon="-73.259255537449">
+    <!-- conflict: "1 Queneska Island, Shelburne, VT" No match in OSM, but a different address exists <5m away: "1 , Shelburne, VT" -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Queneska Island"/>
+    <tag k="addr:postcode" v="05482"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="223143"/>
+  </node>
+  <node id="-500187" visible="true" lat="44.400007959527" lon="-73.223312062993">
+    <!-- conflict: "55 Maple Leaf Lane, Shelburne, VT" No match in OSM, but a different address exists <5m away: "211 Maple Leaf Lane, Shelburne, VT" -->
+    <tag k="addr:city" v="Shelburne"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Maple Leaf Lane"/>
+    <tag k="addr:postcode" v="05482"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="500187"/>
+  </node>
+</osm>

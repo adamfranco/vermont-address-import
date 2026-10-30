@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-189431" visible="true" lat="43.474338796685" lon="-72.751711436748">
+    <!-- conflict: "495 Dam Road, Mount Holly, VT" Fuzzy match to "495 Dam Road, Plymouth, VT" -->
+    <tag k="addr:city" v="Mount Holly"/>
+    <tag k="addr:housenumber" v="495"/>
+    <tag k="addr:street" v="Dam Road"/>
+    <tag k="addr:postcode" v="05758"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="189431"/>
+  </node>
+  <node id="-315559" visible="true" lat="43.40952423078" lon="-72.811771569569">
+    <!-- conflict: "451 Dodge Road, Mount Holly, VT" No match in OSM, but a different address exists <5m away: "498 Dodge Road, Mount Holly, VT" -->
+    <tag k="addr:city" v="Mount Holly"/>
+    <tag k="addr:housenumber" v="451"/>
+    <tag k="addr:street" v="Dodge Road"/>
+    <tag k="addr:postcode" v="05758"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="315559"/>
+  </node>
+  <node id="-762974" visible="true" lat="43.397434918894" lon="-72.825699428741">
+    <!-- conflict: "4605 Vermont Route 155, Mount Holly, VT" No match in OSM, but a different address exists <5m away: "1 Jack Frost Lane, , VT" -->
+    <tag k="addr:city" v="Mount Holly"/>
+    <tag k="addr:housenumber" v="4605"/>
+    <tag k="addr:street" v="Vermont Route 155"/>
+    <tag k="addr:postcode" v="05758"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="762974"/>
+  </node>
+</osm>

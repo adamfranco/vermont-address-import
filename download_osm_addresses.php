@@ -20,7 +20,7 @@ $stateQuery = <<<END
   nwr["ref:vcgi:esiteid"](43.107886,-73.267879,43.122276,-73.264110);
 );
 (._;);
-out center;
+out center meta;
 END;
 $overpassUrl = "http://overpass-api.de/api/interpreter?data=".rawurlencode($stateQuery);
 
@@ -32,6 +32,7 @@ $opts = [
     'method' => "GET",
     // Use CRLF \r\n to separate multiple headers
     'header' => "User-Agent: Vermont Address Import https://wiki.openstreetmap.org/wiki/VCGI_E911_address_points_import",
+    "timeout" => 600,
   ]
 ];
 $context = stream_context_create($opts);

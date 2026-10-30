@@ -1,38 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-728" visible="true" lat="43.62271757" lon="-72.60060648">
-    <!-- offset: "777 Cox District Road, , VT" Significant offset - 734m -->
+  <node id="-342595" visible="true" lat="43.622726431921" lon="-72.600607662322">
+    <!-- offset: "777 Cox District Road, Woodstock, VT" Significant offset - 735m -->
+    <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="777"/>
     <tag k="addr:street" v="Cox District Road"/>
+    <tag k="addr:postcode" v="05091"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342595"/>
   </node>
-  <node id="-729" visible="true" lat="43.63486929" lon="-72.59168089">
-    <!-- offset: "1133 Atwood Lane, , VT" Significant offset - 258.6m -->
+  <node id="-342596" visible="true" lat="43.634879406911" lon="-72.591675860465">
+    <!-- offset: "1133 Atwood Lane, Woodstock, VT" Significant offset - 259.5m -->
+    <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="1133"/>
     <tag k="addr:street" v="Atwood Lane"/>
+    <tag k="addr:postcode" v="05091"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342596"/>
   </node>
-  <node id="-730" visible="true" lat="43.63668748" lon="-72.59230968">
-    <!-- offset: "1003 Atwood Lane, , VT" Significant offset - 622.4m -->
+  <node id="-342597" visible="true" lat="43.636697597632" lon="-72.592304652893">
+    <!-- offset: "1003 Atwood Lane, Woodstock, VT" Significant offset - 622.4m -->
+    <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="1003"/>
     <tag k="addr:street" v="Atwood Lane"/>
+    <tag k="addr:postcode" v="05091"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342597"/>
   </node>
-  <node id="-731" visible="true" lat="43.63673119" lon="-72.59230951">
-    <!-- offset: "1001 Atwood Lane, , VT" Significant offset - 329.7m -->
+  <node id="-342598" visible="true" lat="43.63674130478" lon="-72.592304483093">
+    <!-- offset: "1001 Atwood Lane, Woodstock, VT" Significant offset - 329.1m -->
+    <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="1001"/>
     <tag k="addr:street" v="Atwood Lane"/>
+    <tag k="addr:postcode" v="05091"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342598"/>
   </node>
-  <node id="-747" visible="true" lat="43.66247581" lon="-72.62250257">
-    <!-- offset: "1140 Wayside Road Extension, , VT" Significant offset - 1181.3m -->
-    <tag k="addr:housenumber" v="1140"/>
-    <tag k="addr:street" v="Wayside Road Extension"/>
+  <node id="-656283" visible="true" lat="43.572335668353" lon="-72.677008646211">
+    <!-- offset: "1830 Vermont Route 100A, Bridgewater Corners, VT" Significant offset - 136m -->
+    <tag k="addr:city" v="Bridgewater Corners"/>
+    <tag k="addr:housenumber" v="1830"/>
+    <tag k="addr:street" v="Vermont Route 100A"/>
+    <tag k="addr:postcode" v="05035"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="450385"/>
+    <tag k="ref:vcgi:esiteid" v="656283"/>
   </node>
 </osm>

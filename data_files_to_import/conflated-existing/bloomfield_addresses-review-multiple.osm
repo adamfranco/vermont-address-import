@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-243" visible="true" lat="44.75462985" lon="-71.62865618">
-    <!-- multiple: "27 Schoolhouse Road, Bloomfield, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Bloomfield"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:street" v="Schoolhouse Road"/>
+  <node id="-25130" visible="true" lat="44.758689311245" lon="-71.619869927326">
+    <!-- multiple: "953 Vermont Route 102, Guildhall, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="953"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:postcode" v="05905"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="25149"/>
+    <tag k="ref:vcgi:esiteid" v="25130"/>
   </node>
-  <node id="-262" visible="true" lat="44.75324993" lon="-71.63242163">
-    <!-- multiple: "47 Vermont Route 105, Bloomfield, VT" Multiple exact matches in OSM. -->
-    <tag k="addr:city" v="Bloomfield"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Vermont Route 105"/>
+  <node id="-25166" visible="true" lat="44.753814574735" lon="-71.631447373223">
+    <!-- multiple: "281 Vermont Route 102, Guildhall, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Guildhall"/>
+    <tag k="addr:housenumber" v="281"/>
+    <tag k="addr:street" v="Vermont Route 102"/>
+    <tag k="addr:postcode" v="05905"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="25171"/>
+    <tag k="ref:vcgi:esiteid" v="25166"/>
   </node>
 </osm>

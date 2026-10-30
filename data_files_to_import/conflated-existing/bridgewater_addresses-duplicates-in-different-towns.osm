@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-656782" visible="true" lat="43.612752662868" lon="-72.735402536294">
+    <!-- duplicates-in-different-towns: "858 Laber Road, Bridgewater Corners, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 344820: "858 Laber Road, Bridgewater, VT" -->
+    <tag k="addr:city" v="Bridgewater Corners"/>
+    <tag k="addr:housenumber" v="858"/>
+    <tag k="addr:street" v="Laber Road"/>
+    <tag k="addr:postcode" v="05035"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656782"/>
+  </node>
+  <node id="-765293" visible="true" lat="43.629970803836" lon="-72.721069295535">
+    <!-- duplicates-in-different-towns: "324 Little Sherburne Road, Bridgewater Corners, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 36525: "324 Little Sherburne Road, Bridgewater, VT" -->
+    <tag k="addr:city" v="Bridgewater Corners"/>
+    <tag k="addr:housenumber" v="324"/>
+    <tag k="addr:street" v="Little Sherburne Road"/>
+    <tag k="addr:postcode" v="05035"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="765293"/>
+  </node>
+</osm>

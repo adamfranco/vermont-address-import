@@ -1,23 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1051" visible="true" lat="43.46829941" lon="-72.85218376">
-    <!-- offset: "2510 Old Turnpike Road, , VT" Significant offset - 244.2m -->
+  <node id="-171504" visible="true" lat="43.432737607526" lon="-72.847233030033">
+    <!-- offset: "706 Bowlsville Road South, Belmont, VT" Significant offset - 332.4m -->
+    <tag k="addr:city" v="Belmont"/>
+    <tag k="addr:housenumber" v="706"/>
+    <tag k="addr:street" v="Bowlsville Road South"/>
+    <tag k="addr:postcode" v="05730"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="171504"/>
+  </node>
+  <node id="-171947" visible="true" lat="43.468308230796" lon="-72.852185007192">
+    <!-- offset: "2510 Old Turnpike Road, Mount Holly, VT" Significant offset - 245.1m -->
+    <tag k="addr:city" v="Mount Holly"/>
     <tag k="addr:housenumber" v="2510"/>
     <tag k="addr:street" v="Old Turnpike Road"/>
+    <tag k="addr:postcode" v="05758"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="171947"/>
   </node>
-  <node id="-1208" visible="true" lat="43.47703388" lon="-72.76365127">
-    <!-- offset: "104 Old County Road, , VT" Significant offset - 122.8m -->
+  <node id="-450898" visible="true" lat="43.477042701212" lon="-72.763652486599">
+    <!-- offset: "104 Old County Road, Mount Holly, VT" Significant offset - 121.8m -->
+    <tag k="addr:city" v="Mount Holly"/>
     <tag k="addr:housenumber" v="104"/>
     <tag k="addr:street" v="Old County Road"/>
+    <tag k="addr:postcode" v="05758"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450898"/>
   </node>
-  <node id="-1308" visible="true" lat="43.43076755" lon="-72.83033492">
-    <!-- offset: "175 Gates Road South, , VT" Significant offset - 184.3m -->
+  <node id="-455141" visible="true" lat="43.406301754865" lon="-72.847071824161">
+    <!-- offset: "3560 Vermont Route 155, Belmont, VT" Significant offset - 630.7m -->
+    <tag k="addr:city" v="Belmont"/>
+    <tag k="addr:housenumber" v="3560"/>
+    <tag k="addr:street" v="Vermont Route 155"/>
+    <tag k="addr:postcode" v="05730"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="455141"/>
+  </node>
+  <node id="-760477" visible="true" lat="43.430776365303" lon="-72.830336162194">
+    <!-- offset: "175 Gates Road South, Belmont, VT" Significant offset - 183.5m -->
+    <tag k="addr:city" v="Belmont"/>
     <tag k="addr:housenumber" v="175"/>
     <tag k="addr:street" v="Gates Road South"/>
+    <tag k="addr:postcode" v="05730"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760477"/>
   </node>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-108369" visible="true" lat="44.156034240841" lon="-73.185145797595">
+    <!-- duplicates-in-different-towns: "630 Leduc Road, Vergennes, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 343946: "630 Leduc Road, New Haven, VT" -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="630"/>
+    <tag k="addr:street" v="Leduc Road"/>
+    <tag k="addr:postcode" v="05491"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="108369"/>
+  </node>
+</osm>

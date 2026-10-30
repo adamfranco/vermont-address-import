@@ -4,6 +4,7 @@ class AddressConflator {
 
   public $nonMatchesDoc;
   public $conflictsDoc;
+  public $cityConflictsDoc;
   public $matchesDoc;
   public $duplicatesInDifferentTownsDoc;
   public $reviewMultiplesDoc;
@@ -28,6 +29,8 @@ END;
     $this->matchesDoc->loadXML($osmXmlWrapper);
     $this->conflictsDoc = new DOMDocument();
     $this->conflictsDoc->loadXML($osmXmlWrapper);
+    $this->cityConflictsDoc = new DOMDocument();
+    $this->cityConflictsDoc->loadXML($osmXmlWrapper);
     $this->duplicatesInDifferentTownsDoc = new DOMDocument();
     $this->duplicatesInDifferentTownsDoc->loadXML($osmXmlWrapper);
     $this->reviewMultiplesDoc = new DOMDocument();
@@ -146,6 +149,9 @@ END;
         return;
       }
 
+      // If the address is identical except for a difference in addr:city
+      // or addr:postcode
+
       // If the address is identical except for a difference in addr:city and the
       // existing object as a ref:vcgi:esiteid, then it is likely that this is
       // a duplicate address point on the other side of a town boundary.
@@ -178,6 +184,21 @@ END;
             return;
           }
         }
+      }
+
+      // If the address is identical except for a difference in addr:city
+      // put this into the city-conflicts bucket for easier conflation.
+      if ($address['addr:housenumber'] == $nearby['housenumber']
+        && $address['addr:street'] == $nearby['street']
+        && $address['addr:state'] == $nearby['state']
+        && $address['addr:city'] != $nearby['city']
+        && !empty($nearby['esiteid'])
+        && $nearby['esiteid'] == $address['ref:vcgi:esiteid']
+      ) {
+        $res->finalize();
+        $message = $this->log('city-conflict', $inputNode, "City conflict match to \"" . $nearby['housenumber'] . " " . $nearby['street'] . ", " . $nearby['city'] . ", " . $nearby['state'] . '"');
+        $this->append($this->cityConflictsDoc, $inputNode, $message);
+        return;
       }
 
       // We didn't get a precise match on all fields previously, so if these

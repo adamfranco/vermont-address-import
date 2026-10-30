@@ -1,73 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-104" visible="true" lat="44.65159988" lon="-72.30491638">
-    <!-- multiple: "2018 Shadow Lake Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2018"/>
-    <tag k="addr:street" v="Shadow Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="114819"/>
-  </node>
-  <node id="-236" visible="true" lat="44.59936109" lon="-72.35854087">
-    <!-- multiple: "1440 Eligo Lake Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1440"/>
-    <tag k="addr:street" v="Eligo Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="114956"/>
-  </node>
-  <node id="-242" visible="true" lat="44.59876468" lon="-72.35886559">
-    <!-- multiple: "1368 Eligo Lake Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1368"/>
-    <tag k="addr:street" v="Eligo Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="114962"/>
-  </node>
-  <node id="-245" visible="true" lat="44.59829732" lon="-72.35848283">
-    <!-- multiple: "1338 Eligo Lake Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1338"/>
-    <tag k="addr:street" v="Eligo Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="114965"/>
-  </node>
-  <node id="-246" visible="true" lat="44.59837935" lon="-72.35916885">
-    <!-- multiple: "1355 Eligo Lake Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1355"/>
-    <tag k="addr:street" v="Eligo Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="114966"/>
-  </node>
-  <node id="-250" visible="true" lat="44.59807612" lon="-72.35834018">
-    <!-- multiple: "1320 Eligo Lake Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1320"/>
-    <tag k="addr:street" v="Eligo Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="114970"/>
-  </node>
-  <node id="-527" visible="true" lat="44.5755916" lon="-72.29558305">
-    <!-- multiple: "7 Breezy Avenue, , VT" Multiple exact matches in OSM. -->
+  <node id="-115258" visible="true" lat="44.575600639736" lon="-72.295584190961">
+    <!-- multiple: "7 Breezy Avenue, Greensboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Greensboro"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Breezy Avenue"/>
+    <tag k="addr:postcode" v="05841"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="115258"/>
-  </node>
-  <node id="-530" visible="true" lat="44.57574156" lon="-72.29595781">
-    <!-- multiple: "14 Breezy Avenue, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Breezy Avenue"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="115261"/>
-  </node>
-  <node id="-802" visible="true" lat="44.59957451" lon="-72.35850236">
-    <!-- multiple: "1442 Eligo Lake Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1442"/>
-    <tag k="addr:street" v="Eligo Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="115548"/>
-  </node>
-  <node id="-857" visible="true" lat="44.65176238" lon="-72.3155672">
-    <!-- multiple: "1501 Shadow Lake Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="1501"/>
-    <tag k="addr:street" v="Shadow Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="115606"/>
   </node>
 </osm>

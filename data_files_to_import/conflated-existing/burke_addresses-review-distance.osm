@@ -1,58 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-167" visible="true" lat="44.64526122" lon="-71.97908723">
-    <!-- offset: "212 School Street, , VT" Significant offset - 7045.8m -->
-    <tag k="addr:housenumber" v="212"/>
-    <tag k="addr:street" v="School Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="41886"/>
-  </node>
-  <node id="-349" visible="true" lat="44.62742233" lon="-71.97077942">
-    <!-- offset: "2987 U.S. Route 5, , VT" Significant offset - 6341.8m -->
-    <tag k="addr:housenumber" v="2987"/>
-    <tag k="addr:street" v="U.S. Route 5"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="42077"/>
-  </node>
-  <node id="-372" visible="true" lat="44.62457959" lon="-71.96072106">
-    <!-- offset: "3293 Burke Hollow Road, , VT" Significant offset - 139.9m -->
+  <node id="-42100" visible="true" lat="44.624588654686" lon="-71.960722091892">
+    <!-- offset: "3293 Burke Hollow Road, West Burke, VT" Significant offset - 140.9m -->
+    <tag k="addr:city" v="West Burke"/>
     <tag k="addr:housenumber" v="3293"/>
     <tag k="addr:street" v="Burke Hollow Road"/>
+    <tag k="addr:postcode" v="05871"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="42100"/>
   </node>
-  <node id="-950" visible="true" lat="44.59731566" lon="-71.99453721">
-    <!-- offset: "526 Devon Road, , VT" Significant offset - 770.7m -->
+  <node id="-42690" visible="true" lat="44.597324714328" lon="-71.994538250834">
+    <!-- offset: "526 Devon Road, Lyndonville, VT" Significant offset - 771.7m -->
+    <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="526"/>
     <tag k="addr:street" v="Devon Road"/>
+    <tag k="addr:postcode" v="05851"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="42690"/>
   </node>
-  <node id="-1085" visible="true" lat="44.67228544" lon="-71.97456579">
-    <!-- offset: "3787 Sugarhouse Road, , VT" Significant offset - 256.6m -->
+  <node id="-341865" visible="true" lat="44.67229573195" lon="-71.974560504249">
+    <!-- offset: "3787 Sugarhouse Road, West Burke, VT" Significant offset - 257.8m -->
+    <tag k="addr:city" v="West Burke"/>
     <tag k="addr:housenumber" v="3787"/>
     <tag k="addr:street" v="Sugarhouse Road"/>
+    <tag k="addr:postcode" v="05871"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341865"/>
   </node>
-  <node id="-1147" visible="true" lat="44.59058661" lon="-71.91987179">
-    <!-- offset: "1089 Mountain Road, , VT" Significant offset - 140.8m -->
+  <node id="-617511" visible="true" lat="44.590595669785" lon="-71.919872806231">
+    <!-- offset: "1089 Mountain Road, East Burke, VT" Significant offset - 140.5m -->
+    <tag k="addr:city" v="East Burke"/>
     <tag k="addr:housenumber" v="1089"/>
     <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:postcode" v="05832"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617511"/>
   </node>
-  <node id="-1148" visible="true" lat="44.59018737" lon="-71.92096287">
-    <!-- offset: "1089 Mountain Road, , VT" Significant offset - 237.4m -->
+  <node id="-617512" visible="true" lat="44.590196424919" lon="-71.920963882044">
+    <!-- offset: "1089 Mountain Road, East Burke, VT" Significant offset - 237.1m -->
+    <tag k="addr:city" v="East Burke"/>
     <tag k="addr:housenumber" v="1089"/>
     <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:postcode" v="05832"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="617512"/>
   </node>
-  <node id="-1216" visible="true" lat="44.6092363" lon="-71.91961556">
-    <!-- offset: "2341 Vermont Route 114, , VT" Significant offset - 168.3m -->
+  <node id="-761563" visible="true" lat="44.609267821183" lon="-71.919658285652">
+    <!-- offset: "2341 Vermont Route 114, East Burke, VT" Significant offset - 171.5m -->
+    <tag k="addr:city" v="East Burke"/>
     <tag k="addr:housenumber" v="2341"/>
     <tag k="addr:street" v="Vermont Route 114"/>
+    <tag k="addr:postcode" v="05832"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="761563"/>
   </node>

@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-366" visible="true" lat="44.90530224" lon="-71.94573131">
-    <!-- offset: "660 Curtis Road, , VT" Significant offset - 141.7m -->
+  <node id="-168095" visible="true" lat="44.905311346484" lon="-71.945732359445">
+    <!-- offset: "660 Curtis Road, Morgan, VT" Significant offset - 142.4m -->
+    <tag k="addr:city" v="Morgan"/>
     <tag k="addr:housenumber" v="660"/>
     <tag k="addr:street" v="Curtis Road"/>
+    <tag k="addr:postcode" v="05853"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168095"/>
   </node>
-  <node id="-398" visible="true" lat="44.90442867" lon="-71.95197216">
-    <!-- offset: "534 Curtis Road, , VT" Significant offset - 110.1m -->
+  <node id="-168128" visible="true" lat="44.904437781396" lon="-71.951973206773">
+    <!-- offset: "534 Curtis Road, Morgan, VT" Significant offset - 111m -->
+    <tag k="addr:city" v="Morgan"/>
     <tag k="addr:housenumber" v="534"/>
     <tag k="addr:street" v="Curtis Road"/>
+    <tag k="addr:postcode" v="05853"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168128"/>
   </node>
-  <node id="-831" visible="true" lat="44.9241765" lon="-71.92158882">
-    <!-- offset: "2956 I P Road, , VT" Significant offset - 192.3m -->
+  <node id="-168566" visible="true" lat="44.924185617482" lon="-71.92158986114">
+    <!-- offset: "2956 I P Road, Morgan, VT" Significant offset - 193.1m -->
+    <tag k="addr:city" v="Morgan"/>
     <tag k="addr:housenumber" v="2956"/>
     <tag k="addr:street" v="I P Road"/>
+    <tag k="addr:postcode" v="05853"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="168566"/>
   </node>
-  <node id="-908" visible="true" lat="44.9305455" lon="-72.08452729">
-    <!-- offset: "1324 Hayward Hollow, , VT" Significant offset - 107.9m -->
+  <node id="-341723" visible="true" lat="44.930555841808" lon="-72.08452203061">
+    <!-- offset: "1324 Hayward Hollow, Derby, VT" Significant offset - 106.9m -->
+    <tag k="addr:city" v="Derby"/>
     <tag k="addr:housenumber" v="1324"/>
     <tag k="addr:street" v="Hayward Hollow"/>
+    <tag k="addr:postcode" v="05829"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341723"/>
   </node>
-  <node id="-924" visible="true" lat="44.93038818" lon="-72.09243517">
-    <!-- offset: "104 Dumas Drive, , VT" Significant offset - 139.7m -->
+  <node id="-365655" visible="true" lat="44.930397284402" lon="-72.092436265298">
+    <!-- offset: "104 Dumas Drive, Derby, VT" Significant offset - 139.4m -->
+    <tag k="addr:city" v="Derby"/>
     <tag k="addr:housenumber" v="104"/>
     <tag k="addr:street" v="Dumas Drive"/>
+    <tag k="addr:postcode" v="05829"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="365655"/>
   </node>

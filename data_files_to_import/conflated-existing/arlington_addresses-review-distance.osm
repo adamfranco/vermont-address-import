@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-717" visible="true" lat="43.07036141" lon="-73.16355974">
-    <!-- offset: "212 No Name Road, Arlington, VT" Significant offset - 123.4m -->
+  <node id="-4315" visible="true" lat="43.070370141431" lon="-73.163561062214">
+    <!-- offset: "212 No Name Road, Arlington, VT" Significant offset - 124.3m -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="212"/>
     <tag k="addr:street" v="No Name Road"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4315"/>
   </node>
-  <node id="-1011" visible="true" lat="43.05577715" lon="-73.15558036">
-    <!-- offset: "608 Warm Brook Road, Arlington, VT" Significant offset - 102.6m -->
+  <node id="-4628" visible="true" lat="43.055785879045" lon="-73.15558168616">
+    <!-- offset: "608 Warm Brook Road, Arlington, VT" Significant offset - 101.6m -->
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housenumber" v="608"/>
     <tag k="addr:street" v="Warm Brook Road"/>
+    <tag k="addr:postcode" v="05250"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="4628"/>
+  </node>
+  <node id="-339970" visible="true" lat="43.05781224664" lon="-73.139908207363">
+    <!-- offset: "152 Prouty Hill Road, East Arlington, VT" Significant offset - 136.5m -->
+    <tag k="addr:city" v="East Arlington"/>
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="addr:street" v="Prouty Hill Road"/>
+    <tag k="addr:postcode" v="05252"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339970"/>
+  </node>
+  <node id="-656132" visible="true" lat="43.037452356268" lon="-73.143401486986">
+    <!-- offset: "777 Butternut Gutter, Arlington, VT" Significant offset - 168.8m -->
+    <tag k="addr:city" v="Arlington"/>
+    <tag k="addr:housenumber" v="777"/>
+    <tag k="addr:street" v="Butternut Gutter"/>
+    <tag k="addr:postcode" v="05250"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656132"/>
   </node>
 </osm>

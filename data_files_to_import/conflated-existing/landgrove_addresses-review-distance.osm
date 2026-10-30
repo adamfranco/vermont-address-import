@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-324" visible="true" lat="43.27305956" lon="-72.85962875">
-    <!-- offset: "144 Landgrove Road, Landgrove, VT" Significant offset - 150m -->
-    <tag k="addr:city" v="Landgrove"/>
+  <node id="-284986" visible="true" lat="43.274289297029" lon="-72.822607952539">
+    <!-- offset: "239 Holden Hill Road, Weston, VT" Significant offset - 380m -->
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Holden Hill Road"/>
+    <tag k="addr:postcode" v="05161"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="284986"/>
+  </node>
+  <node id="-452509" visible="true" lat="43.264950382142" lon="-72.819761003423">
+    <!-- offset: "5 Shaw Knoll Road, Weston, VT" Significant offset - 167.3m -->
+    <tag k="addr:city" v="Weston"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Shaw Knoll Road"/>
+    <tag k="addr:postcode" v="05161"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="452509"/>
+  </node>
+  <node id="-768847" visible="true" lat="43.27298199831" lon="-72.859482061201">
+    <!-- offset: "144 Landgrove Road, Londonderry, VT" Significant offset - 163.8m -->
+    <tag k="addr:city" v="Londonderry"/>
     <tag k="addr:housenumber" v="144"/>
     <tag k="addr:street" v="Landgrove Road"/>
+    <tag k="addr:postcode" v="05148"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="768847"/>
   </node>

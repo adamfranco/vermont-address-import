@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-773030" visible="true" lat="43.957908954076" lon="-73.205310984302">
+    <!-- duplicates-in-different-towns: "220 Peet Road, Middlebury, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773031: "220 Peet Road, Cornwall, VT" -->
+    <tag k="addr:city" v="Middlebury"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:street" v="Peet Road"/>
+    <tag k="addr:postcode" v="05753"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773030"/>
+  </node>
+</osm>

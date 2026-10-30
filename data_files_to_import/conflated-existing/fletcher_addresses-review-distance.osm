@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-725" visible="true" lat="44.70502719" lon="-72.95737757">
-    <!-- offset: "172 Maple Tree Way, , VT" Significant offset - 134.1m -->
+  <node id="-610528" visible="true" lat="44.705324049046" lon="-72.955685002578">
+    <!-- offset: "187 High Meadow Road, East Fairfield, VT" Significant offset - 146.6m -->
+    <tag k="addr:city" v="East Fairfield"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:street" v="High Meadow Road"/>
+    <tag k="addr:postcode" v="05448"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="610528"/>
+  </node>
+  <node id="-611541" visible="true" lat="44.705036227218" lon="-72.957378942848">
+    <!-- offset: "172 Maple Tree Way, East Fairfield, VT" Significant offset - 135m -->
+    <tag k="addr:city" v="East Fairfield"/>
     <tag k="addr:housenumber" v="172"/>
     <tag k="addr:street" v="Maple Tree Way"/>
+    <tag k="addr:postcode" v="05448"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="611541"/>
+  </node>
+  <node id="-753214" visible="true" lat="44.738169323337" lon="-72.901896468938">
+    <!-- offset: "3215 Lapland Road, East Fairfield, VT" Significant offset - 804.9m -->
+    <tag k="addr:city" v="East Fairfield"/>
+    <tag k="addr:housenumber" v="3215"/>
+    <tag k="addr:street" v="Lapland Road"/>
+    <tag k="addr:postcode" v="05448"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753214"/>
+  </node>
+  <node id="-772693" visible="true" lat="44.714261465491" lon="-72.851341038211">
+    <!-- offset: "1725 Kinsley Road, Jeffersonville, VT" Significant offset - 115.1m -->
+    <tag k="addr:city" v="Jeffersonville"/>
+    <tag k="addr:housenumber" v="1725"/>
+    <tag k="addr:street" v="Kinsley Road"/>
+    <tag k="addr:postcode" v="05464"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772693"/>
   </node>
 </osm>

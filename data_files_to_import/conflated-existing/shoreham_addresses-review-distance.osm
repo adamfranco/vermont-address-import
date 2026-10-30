@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-106" visible="true" lat="43.94179554" lon="-73.25891386">
-    <!-- offset: "4547 Vermont Route 74 East, , VT" Significant offset - 387.5m -->
+  <node id="-225516" visible="true" lat="43.941804433072" lon="-73.258915278706">
+    <!-- offset: "4547 Vermont Route 74 East, Shoreham, VT" Significant offset - 388.3m -->
+    <tag k="addr:city" v="Shoreham"/>
     <tag k="addr:housenumber" v="4547"/>
     <tag k="addr:street" v="Vermont Route 74 East"/>
+    <tag k="addr:postcode" v="05770"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225516"/>
   </node>
-  <node id="-422" visible="true" lat="43.89220526" lon="-73.31025359">
-    <!-- offset: "3442 Vermont Route 22A, , VT" Significant offset - 9880.7m -->
-    <tag k="addr:housenumber" v="3442"/>
-    <tag k="addr:street" v="Vermont Route 22A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225842"/>
-  </node>
-  <node id="-480" visible="true" lat="43.88327" lon="-73.29001653">
-    <!-- offset: "200 Burgess Road, , VT" Significant offset - 322.2m -->
+  <node id="-225904" visible="true" lat="43.883278878768" lon="-73.290017952722">
+    <!-- offset: "200 Burgess Road, Shoreham, VT" Significant offset - 322.4m -->
+    <tag k="addr:city" v="Shoreham"/>
     <tag k="addr:housenumber" v="200"/>
     <tag k="addr:street" v="Burgess Road"/>
+    <tag k="addr:postcode" v="05770"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225904"/>
   </node>
-  <node id="-668" visible="true" lat="43.8529889" lon="-73.28140971">
-    <!-- offset: "7 North Orwell Road, , VT" Significant offset - 5587.8m -->
+  <node id="-226094" visible="true" lat="43.852997783456" lon="-73.281411135751">
+    <!-- offset: "7 North Orwell Road, Orwell, VT" Significant offset - 5588.7m -->
+    <tag k="addr:city" v="Orwell"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="North Orwell Road"/>
+    <tag k="addr:postcode" v="05760"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="226094"/>
   </node>
-  <node id="-787" visible="true" lat="43.8601901" lon="-73.32442444">
-    <!-- offset: "748 Barnum Hill Road, , VT" Significant offset - 216.8m -->
+  <node id="-226215" visible="true" lat="43.86019897758" lon="-73.324425880343">
+    <!-- offset: "748 Barnum Hill Road, Shoreham, VT" Significant offset - 215.8m -->
+    <tag k="addr:city" v="Shoreham"/>
     <tag k="addr:housenumber" v="748"/>
     <tag k="addr:street" v="Barnum Hill Road"/>
+    <tag k="addr:postcode" v="05770"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="226215"/>
   </node>

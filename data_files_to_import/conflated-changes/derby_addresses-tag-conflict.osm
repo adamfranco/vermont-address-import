@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1190" visible="true" lat="44.95263683" lon="-72.13189125">
-    <!-- conflict: "124 Main St Derby Center, , VT" No match in OSM, but a different address exists <5m away: "124 Main Street, Derby, VT" -->
+  <node id="-82892" visible="true" lat="44.95264594259" lon="-72.131892365606">
+    <!-- conflict: "124 Main St Derby Center, Derby, VT" No match in OSM, but a different address exists <5m away: "124 Main Street, Derby, VT" -->
+    <tag k="addr:city" v="Derby"/>
     <tag k="addr:housenumber" v="124"/>
     <tag k="addr:street" v="Main St Derby Center"/>
+    <tag k="addr:postcode" v="05829"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="82892"/>
   </node>

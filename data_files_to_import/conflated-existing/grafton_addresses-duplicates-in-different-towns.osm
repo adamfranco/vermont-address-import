@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-757700" visible="true" lat="43.176172347503" lon="-72.635352794457">
+    <!-- duplicates-in-different-towns: "1488 Hinkley Brook Road, Grafton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 307221: "1488 Hinkley Brook Road, , VT" -->
+    <tag k="addr:city" v="Grafton"/>
+    <tag k="addr:housenumber" v="1488"/>
+    <tag k="addr:street" v="Hinkley Brook Road"/>
+    <tag k="addr:postcode" v="05146"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="757700"/>
+  </node>
+  <node id="-773012" visible="true" lat="43.1715022795" lon="-72.559293034675">
+    <!-- duplicates-in-different-towns: "589 Cambridgeport Road, Chester, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773013: "589 Cambridgeport Road, , VT" -->
+    <tag k="addr:city" v="Chester"/>
+    <tag k="addr:housenumber" v="589"/>
+    <tag k="addr:street" v="Cambridgeport Road"/>
+    <tag k="addr:postcode" v="05143"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773012"/>
+  </node>
+</osm>

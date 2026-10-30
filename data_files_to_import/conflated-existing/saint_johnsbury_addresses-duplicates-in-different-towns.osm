@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-773297" visible="true" lat="44.499792637527" lon="-72.016157989896">
+    <!-- duplicates-in-different-towns: "1666 Industrial Parkway, Saint Johnsbury, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 768065: "1666 Industrial Parkway, Lyndonville, VT" -->
+    <tag k="addr:city" v="Saint Johnsbury"/>
+    <tag k="addr:housenumber" v="1666"/>
+    <tag k="addr:street" v="Industrial Parkway"/>
+    <tag k="addr:postcode" v="05819"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773297"/>
+  </node>
+</osm>

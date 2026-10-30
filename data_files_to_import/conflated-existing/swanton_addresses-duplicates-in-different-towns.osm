@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-620859" visible="true" lat="44.863027669553" lon="-73.091958449356">
+    <!-- duplicates-in-different-towns: "31 Maple Grove Estate, Swanton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 762538: "31 Maple Grove Estate, , VT" -->
+    <tag k="addr:city" v="Swanton"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Maple Grove Estate"/>
+    <tag k="addr:postcode" v="05488"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="620859"/>
+  </node>
+</osm>

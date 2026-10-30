@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-256" visible="true" lat="43.53418901" lon="-72.74291171">
-    <!-- multiple: "68 Town Office Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-189591" visible="true" lat="43.534197845352" lon="-72.742912932213">
+    <!-- multiple: "68 Town Office Road, Plymouth, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Plymouth"/>
     <tag k="addr:housenumber" v="68"/>
     <tag k="addr:street" v="Town Office Road"/>
+    <tag k="addr:postcode" v="05056"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="189591"/>
-  </node>
-  <node id="-682" visible="true" lat="43.4667015" lon="-72.66900634">
-    <!-- multiple: "352 Chapman Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="352"/>
-    <tag k="addr:street" v="Chapman Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="190030"/>
-  </node>
-  <node id="-1008" visible="true" lat="43.46331908" lon="-72.70188716">
-    <!-- multiple: "142 Kingdom Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="Kingdom Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="763295"/>
   </node>
 </osm>

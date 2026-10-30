@@ -1,17 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-101" visible="true" lat="43.75498758" lon="-73.35090993">
-    <!-- offset: "1018 Turkey Farm Road, , VT" Significant offset - 102.5m -->
+  <node id="-21993" visible="true" lat="43.754996438884" lon="-73.350911367349">
+    <!-- offset: "1018 Turkey Farm Road, Fair Haven, VT" Significant offset - 103.5m -->
+    <tag k="addr:city" v="Fair Haven"/>
     <tag k="addr:housenumber" v="1018"/>
     <tag k="addr:street" v="Turkey Farm Road"/>
+    <tag k="addr:postcode" v="05743"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="21993"/>
   </node>
-  <node id="-791" visible="true" lat="43.83047318" lon="-73.2569918">
-    <!-- offset: "201 Fisher Road, , VT" Significant offset - 251.4m -->
+  <node id="-184742" visible="true" lat="43.830482053599" lon="-73.256993206935">
+    <!-- offset: "201 Fisher Road, Orwell, VT" Significant offset - 250.8m -->
+    <tag k="addr:city" v="Orwell"/>
     <tag k="addr:housenumber" v="201"/>
     <tag k="addr:street" v="Fisher Road"/>
+    <tag k="addr:postcode" v="05760"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="184742"/>
+  </node>
+  <node id="-766519" visible="true" lat="43.834275908113" lon="-73.224249152653">
+    <!-- offset: "250 Old Sawmill Road, Orwell, VT" Significant offset - 268m -->
+    <tag k="addr:city" v="Orwell"/>
+    <tag k="addr:housenumber" v="250"/>
+    <tag k="addr:street" v="Old Sawmill Road"/>
+    <tag k="addr:postcode" v="05760"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766519"/>
+  </node>
+  <node id="-767162" visible="true" lat="43.796856151609" lon="-73.327893960732">
+    <!-- offset: "121 Mount Independence Road, Orwell, VT" Significant offset - 300.8m -->
+    <tag k="addr:city" v="Orwell"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Mount Independence Road"/>
+    <tag k="addr:postcode" v="05760"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767162"/>
   </node>
 </osm>

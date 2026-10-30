@@ -1,27 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-217" visible="true" lat="43.78717576" lon="-73.19963203">
-    <!-- offset: "3443 Vermont Route 30, Sudbury, VT" Significant offset - 125m -->
-    <tag k="addr:city" v="Sudbury"/>
+  <node id="-253508" visible="true" lat="43.787184627133" lon="-73.199633416676">
+    <!-- offset: "3443 Vermont Route 30, Brandon, VT" Significant offset - 124.3m -->
+    <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="3443"/>
     <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:postcode" v="05733"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="253508"/>
   </node>
-  <node id="-411" visible="true" lat="43.75507301" lon="-73.19433867">
-    <!-- offset: "5938 Vermont Route 30, Sudbury, VT" Significant offset - 141.2m -->
-    <tag k="addr:city" v="Sudbury"/>
+  <node id="-253704" visible="true" lat="43.755081869374" lon="-73.194340049033">
+    <!-- offset: "5938 Vermont Route 30, Brandon, VT" Significant offset - 140.5m -->
+    <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="5938"/>
     <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:postcode" v="05733"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="253704"/>
   </node>
-  <node id="-477" visible="true" lat="43.79547044" lon="-73.16031662">
-    <!-- offset: "1406 Willowbrook Road, Sudbury, VT" Significant offset - 139.7m -->
-    <tag k="addr:city" v="Sudbury"/>
+  <node id="-253772" visible="true" lat="43.795479313116" lon="-73.160317989836">
+    <!-- offset: "1406 Willowbrook Road, Brandon, VT" Significant offset - 140.3m -->
+    <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="1406"/>
     <tag k="addr:street" v="Willowbrook Road"/>
+    <tag k="addr:postcode" v="05733"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="253772"/>
+  </node>
+  <node id="-253801" visible="true" lat="43.756204385124" lon="-73.229360680876">
+    <!-- offset: "3326 Young Road, Orwell, VT" Significant offset - 111.1m -->
+    <tag k="addr:city" v="Orwell"/>
+    <tag k="addr:housenumber" v="3326"/>
+    <tag k="addr:street" v="Young Road"/>
+    <tag k="addr:postcode" v="05760"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="253801"/>
+  </node>
+  <node id="-311758" visible="true" lat="43.76221291818" lon="-73.185806601035">
+    <!-- offset: "131 Appleseed Road, Brandon, VT" Significant offset - 141.3m -->
+    <tag k="addr:city" v="Brandon"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:street" v="Appleseed Road"/>
+    <tag k="addr:postcode" v="05733"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="311758"/>
   </node>
 </osm>

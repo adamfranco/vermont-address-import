@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-677" visible="true" lat="44.67660606" lon="-71.96284363">
-    <!-- offset: "226 Beagle Run, , VT" Significant offset - 113.9m -->
+  <node id="-453722" visible="true" lat="44.676615133011" lon="-71.962844669565">
+    <!-- offset: "226 Beagle Run, West Burke, VT" Significant offset - 114.4m -->
+    <tag k="addr:city" v="West Burke"/>
     <tag k="addr:housenumber" v="226"/>
     <tag k="addr:street" v="Beagle Run"/>
+    <tag k="addr:postcode" v="05871"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="453722"/>
   </node>

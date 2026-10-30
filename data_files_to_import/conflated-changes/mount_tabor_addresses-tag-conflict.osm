@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-172096" visible="true" lat="43.348180026419" lon="-72.987046574225">
+    <!-- conflict: "246 Brooklyn Road, Danby, VT" Fuzzy match to "246 Brooklyn Road, Mount Tabor, VT" -->
+    <tag k="addr:city" v="Danby"/>
+    <tag k="addr:housenumber" v="246"/>
+    <tag k="addr:street" v="Brooklyn Road"/>
+    <tag k="addr:postcode" v="05739"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="172096"/>
+  </node>
+  <node id="-172103" visible="true" lat="43.346116275267" lon="-72.990166997502">
+    <!-- conflict: "83 Depot Road Extension, Danby, VT" Fuzzy match to "83 Depot Street, Danby, VT" -->
+    <tag k="addr:city" v="Danby"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Depot Road Extension"/>
+    <tag k="addr:postcode" v="05739"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="172103"/>
+  </node>
+</osm>

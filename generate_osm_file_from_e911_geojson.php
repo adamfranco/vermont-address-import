@@ -21,7 +21,7 @@ $help = "
 ";
 
 #options
-$options = getopt("h", ["help", "output-type::"], $reset_index);
+$options = getopt("hv", ["help", "verbose", "output-type::"], $reset_index);
 if ($options === FALSE || isset($options["h"]) || isset($options["help"])) {
   fwrite(STDERR, $help);
   exit(1);
@@ -76,6 +76,7 @@ $postalCommunities = json_decode(file_get_contents(__DIR__.'/town-postal-communi
 
 foreach($data['features'] as $feature) {
     $feature_errors = array();
+    $non_fatal_feature_errors = array();
 
     if(!empty($feature['properties']['ESITEID'])) {
         $esiteid = $feature['properties']['ESITEID'];
@@ -84,25 +85,27 @@ foreach($data['features'] as $feature) {
         $feature_errors[] = "ESITEID value is empty";
     }
 
-    if(!empty($feature['properties']['GPSX'])) {
-        $long = $feature['properties']['GPSX'];
+    if(!empty($feature['geometry']['coordinates']['0'])) {
+        $long = $feature['geometry']['coordinates']['0'];
     } else {
         $long = NULL;
-        $feature_errors[] = "GPSX value is empty (esiteid: " . $esiteid . ")";
+        $feature_errors[] = "feature['geometry']['coordinates'][0] value is empty (esiteid: " . $esiteid . ")";
     }
 
-    if(!empty($feature['properties']['GPSY'])) {
-        $lat = $feature['properties']['GPSY'];
+    if(!empty($feature['geometry']['coordinates']['1'])) {
+        $lat = $feature['geometry']['coordinates']['1'];
     } else {
         $lat = NULL;
-        $feature_errors[] = "GPSY value is empty (esiteid: " . $esiteid . ")";
+        $feature_errors[] = "feature['geometry']['coordinates'][1] value is empty (esiteid: " . $esiteid . ")";
     }
 
-    if(!empty($feature['properties']['TOWNNAME'])) {
-        $townName = $feature['properties']['TOWNNAME'];
+    if(!empty($feature['properties']['Post_Comm'])) {
+      $postal_community = $feature['properties']['Post_Comm'];
+    } elseif (!empty($feature['properties']['Inc_Muni'])) {
+        $townName = $feature['properties']['Inc_Muni'];
         if (!isset($postalCommunities[$townName])) {
           $postal_community = NULL;
-          $feature_errors[] = "Unaccounted for mapping from TOWNNAME ".$townName." to a postal community in town-postal-community-mappings.json (esiteid: " . $esiteid . ")";
+          $feature_errors[] = "Unaccounted for mapping from Inc_Muni ".$townName." to a postal community in town-postal-community-mappings.json (esiteid: " . $esiteid . ")";
         } else {
           $postalCommunityMapping = $postalCommunities[$townName];
           if (empty($postalCommunityMapping['postal-community'])) {
@@ -113,7 +116,7 @@ foreach($data['features'] as $feature) {
         }
     } else {
         $postal_community = NULL;
-        $feature_errors[] = "TOWNNAME value is empty (esiteid: " . $esiteid . ")";
+        $feature_errors[] = "Post_Comm & Inc_Muni values are empty (esiteid: " . $esiteid . ")";
     }
 
     // Most addresses will not use addr:unit, only ones with a numeric HOUSE_NUMBERSUFFIX.
@@ -121,12 +124,12 @@ foreach($data['features'] as $feature) {
 
     // confirm that the HOUSE_NUMBER is not empty, is a number greater than zero
     // VCGI contains lots of entries with a house number of "0"
-    if(!empty($feature['properties']['HOUSE_NUMBER']) && is_numeric($feature['properties']['HOUSE_NUMBER']) && $feature['properties']['HOUSE_NUMBER'] > 0) {
-        $house_number = $feature['properties']['HOUSE_NUMBER'];
+    if(!empty($feature['properties']['Add_Number']) && is_numeric($feature['properties']['Add_Number']) && $feature['properties']['Add_Number'] > 0) {
+        $house_number = $feature['properties']['Add_Number'];
 
         // check for prefix on house number (eg. esiteid 757868)
-        if(!empty($feature['properties']['HOUSE_NUMBERPREFIX'])) {
-            $prefix = trim($feature['properties']['HOUSE_NUMBERPREFIX']);
+        if(!empty($feature['properties']['AddNum_Pre'])) {
+            $prefix = trim($feature['properties']['AddNum_Pre']);
             // Don't use spaces to concatenate alpha-only prefixes.
             if (preg_match('/^[A-Z]+$/', $prefix)) {
                 $house_number = $prefix . $house_number;
@@ -139,8 +142,8 @@ foreach($data['features'] as $feature) {
         }
 
         // check for suffix on house number (eg. esiteid 154277)
-        if(!empty($feature['properties']['HOUSE_NUMBERSUFFIX'])) {
-            $suffix = trim($feature['properties']['HOUSE_NUMBERSUFFIX']);
+        if(!empty($feature['properties']['AddNum_Suf'])) {
+            $suffix = trim($feature['properties']['AddNum_Suf']);
             // Don't use spaces to concatenate alpha-only suffix.
             if (preg_match('/^[A-Z]+$/i', $suffix)) {
                 $house_number = $house_number . $suffix;
@@ -161,13 +164,13 @@ foreach($data['features'] as $feature) {
 
     } else {
         $house_number = NULL;
-        $feature_errors[] = "HOUSE_NUMBER is invalid: " . $feature['properties']['HOUSE_NUMBER'] . " (esiteid: " . $esiteid . ")";
+        $feature_errors[] = "Add_Number is invalid: " . json_encode($feature['properties']) . " (esiteid: " . $esiteid . ")";
     }
 
-    if(!empty($feature['properties']['SN'])) {
+    if(!empty($feature['properties']['St_Name'])) {
         // Addresses on small islands often don't have any streets and are
         // only accessed by boat. Use an empty street and fill in place.
-        if ($feature['properties']['ST'] == "IS") {
+        if ($feature['properties']['St_Name'] == "IS") {
           $street = NULL;
           $place = build_street_name($feature['properties']);
         } else {
@@ -177,17 +180,15 @@ foreach($data['features'] as $feature) {
     } else {
         $street = NULL;
         $place = NULL;
-        $feature_errors[] = "SN (street name) value is empty: (esiteid: " . $esiteid . ")";
+        $feature_errors[] = "St_Name (street name) value is empty: (esiteid: " . $esiteid . ")";
     }
 
-    if(!empty($feature['properties']['ZIP'])) {
-        $zip_code = $feature['properties']['ZIP'];
+    if(!empty($feature['properties']['Post_Code'])) {
+        $post_code = $feature['properties']['Post_Code'];
     } else {
-        $zip_code = NULL;
-        $feature_errors[] = "ZIP value is empty (esiteid: " . $esiteid . ")";
+        $post_code = NULL;
+        $feature_errors[] = "Post_Code value is empty (esiteid: " . $esiteid . ")";
     }
-
-    $all_errors[] = $feature_errors;
 
     // Exceptions for Post Offices that have different postal communities than
     // the rest of their Town.
@@ -211,11 +212,61 @@ foreach($data['features'] as $feature) {
       $postal_community = 'East Montpelier';
     }
 
+    // "North Burlington" is not a valid postal community.
+    if ($postal_community == 'North Burlington') {
+      if (!preg_match("/ North Burlington( VT)?( [0-9]{5})?$/i", $feature['properties']['PrimaryAddress2'])) {
+        $postal_community = 'Burlington';
+      }
+    }
+
+    // "Univeristy of Vermont" is not a valid postal community.
+    if (in_array($postal_community, ['University of Vermont', 'Univeristy of Vermont'])) {
+      if (preg_match("/ ((South )?Burlington)( VT)?( [0-9]{5})?$/i", $feature['properties']['PrimaryAddress2'], $m)) {
+        $postal_community = ucfirst(strtolower($m[1]));
+      }
+      else {
+        $postal_community = ucfirst(strtolower($feature['properties']['Inc_Muni']));
+      }
+    }
+
+    // "Saint Michales College" is not a valid postal community.
+    if (in_array($postal_community, ['Saint Michaels College', 'Saint Michales College'])) {
+      if (preg_match("/ (Colchester|Essex)( VT)?( [0-9]{5})?$/i", $feature['properties']['PrimaryAddress2'], $m)) {
+        $postal_community = ucfirst(strtolower($m[1]));
+      }
+      else {
+        $postal_community = ucfirst(strtolower($feature['properties']['Inc_Muni']));
+      }
+    }
+
+    // Validate that the postal_community and post-code match
+    // the PrimaryAddress2 field in the data.
+    //
+    // Some examples (like UVM campus addresses) had Post_Comm
+    // set to something else ("University of Vermont") even though
+    // the addresses are actually Burlington in PrimaryAddress2.
+    if (!empty($postal_community) && !empty($post_code)) {
+      $regex = "/ " . $postal_community . "( VT)?( " . $post_code . ')?$/i';
+      if (!preg_match($regex, $feature['properties']['PrimaryAddress2'])) {
+        $non_fatal_feature_errors[] = "Mismatch between PrimaryAddress2 and the discovered Post_Comm and Post_Code: (esiteid: " . $esiteid . ") Found \"" . $postal_community . " VT " . $post_code . "\" expected  \"" . $feature['properties']['PrimaryAddress2'] . '" ';
+      }
+    }
+
+    // Annotate feature errors with the source.
+    foreach ($feature_errors as $k => $v) {
+      $feature_errors[$k] = $v . " " . json_encode($feature['properties']);
+    }
+    foreach ($non_fatal_feature_errors as $k => $v) {
+      $non_fatal_feature_errors[$k] = $v . " " . json_encode($feature['properties']);
+    }
+    $all_errors[] = $feature_errors;
+    $all_errors[] = $non_fatal_feature_errors;
+
     // if we don't have any errors in our data
     if(count($feature_errors) == 0 && $output_type == "osm") {
 
         // leaving out timestamp from node: timestamp='2022-09-12T01:50:00Z'
-        $output .= "  <node id=\"" . $node_id . "\" visible=\"true\" lat=\"" . $lat . "\" lon=\"" . $long . "\">\n";
+        $output .= "  <node id=\"-" . $esiteid . "\" visible=\"true\" lat=\"" . $lat . "\" lon=\"" . $long . "\">\n";
         if (!empty($postal_community)) {
           $output .= "    <tag k=\"addr:city\" v=\"" . $postal_community . "\" />\n";
         }
@@ -229,8 +280,9 @@ foreach($data['features'] as $feature) {
         if (!empty($place)) {
             $output .= "    <tag k=\"addr:place\" v=\"" . $place . "\" />\n";
         }
-        // ZIP codes in E911 may not be correct.
-        // $output .= "    <tag k=\"addr:postcode\" v=\"" . $zip_code . "\" />\n";
+        if (!empty($post_code)) {
+          $output .= "    <tag k=\"addr:postcode\" v=\"" . $post_code . "\" />\n";
+        }
         $output .= "    <tag k=\"addr:state\" v=\"VT\" />\n";
         $output .= "    <tag k=\"ref:vcgi:esiteid\" v=\"" . $esiteid . "\" />\n";
         // use this tag in the changeset tags instead of node tag
@@ -246,7 +298,7 @@ foreach($data['features'] as $feature) {
         $output .= $house_number . "\t";
         $output .= $unit . "\t";
         $output .= $street . "\t";
-        // $output .= $zip_code . "\t";
+        $output .= $post_code . "\t";
         $output .= $esiteid . "\n";
 
     } elseif(count($feature_errors) == 0 && $output_type == "geojson") {
@@ -261,6 +313,9 @@ foreach($data['features'] as $feature) {
           $properties["city"] = $postal_community;
         }
         $properties["state"] = "VT";
+        if (!empty($post_code)) {
+          $properties["postcode"] = $post_code;
+        }
         $properties["esiteid"] = strval($esiteid);
         $geometry = array("type" => "Point", "coordinates" => $coordinates);
         $feature = array("type" => "Feature", "properties" => $properties, "geometry" => $geometry);
@@ -292,14 +347,6 @@ if($print_errors_at_end) {
         }
     } else {
         fwrite(STDERR, "no errors\n");
-    }
-    // show esiteids that were found on the exclude list
-    if(count($excluded_output) > 0) {
-        fwrite(STDERR, "\n----------EXCLUDED ESITEIDS----------\n");
-
-        foreach($excluded_output as $excluded_esiteid) {
-            fwrite(STDERR, "Excluded esiteid: " . $excluded_esiteid . "\n");
-        }
     }
 }
 
@@ -336,99 +383,101 @@ function output_footer($output_type) {
 
 function build_street_name($feature_properties) {
 
-    $final_street_name = "";
+    $streetNameParts = [];
 
-    // Prefix Direction
-    if(!empty($feature_properties['PD'])) {
-
-        $prefix_direction = trim($feature_properties['PD']);
-        if(!empty($prefix_direction)) {
-            $prefix_direction = expand_direction($feature_properties['PD']);
-            $final_street_name .= $prefix_direction . " ";
+    // St_PreDir: Street Name Pre Directional. North, South, East, West, Northeast, etc.
+    if (!empty($feature_properties['St_PreDir'])) {
+        $value = trim($feature_properties['St_PreDir']);
+        if (!empty($value)) {
+            $streetNameParts[] = $value;
         }
     }
 
-    // Street Name
-    if(!empty($feature_properties['SN'])) {
-
-        $street_base_name = trim($feature_properties['SN']);
-
-        if(!empty($street_base_name)) {
-            $street_base_name = normalize_street_base_name($street_base_name, $feature_properties['ST'], $feature_properties['TOWNNAME']);
-
-            $final_street_name .= $street_base_name . " ";
+    // St_PreMod:  Street Name Pre Modifier. Precedes and is separated from street name by a pre type and/or pre direction. The "Old" in "Old North Church Street", for example.
+    if(!empty($feature_properties['St_PreMod'])) {
+        $value = trim($feature_properties['St_PreMod']);
+        if (!empty($value)) {
+          $streetNameParts[] = $value;
         }
     }
 
-    // Street Type
-    if(!empty($feature_properties['ST'])) {
-
-        $street_suffix = trim($feature_properties['ST']);
-
-        if(!empty($street_suffix)) {
-            $street_suffix = expand_street_name_suffix($street_suffix);
-
-            $final_street_name .= $street_suffix . " ";
+    // St_PreTyp: Street Name Pre Type. The "Avenue" in "Avenue A", for example.
+    if (!empty($feature_properties['St_PreTyp'])) {
+        $value = trim($feature_properties['St_PreTyp']);
+        if (!empty($value)) {
+            if ($value == "United States Route") {
+              $streetNameParts[] = "U.S. Route";
+            } else {
+              $streetNameParts[] = $value;
+            }
         }
     }
 
-    // suffix direction
-    if(!empty($feature_properties['SD'])) {
-
-        $suffix_direction = trim($feature_properties['SD']);
-
-        if(!empty($suffix_direction)) {
-            $suffix_direction = expand_direction($suffix_direction);
-
-            $final_street_name .= $suffix_direction;
+    // St_PreSep: Street Name Pre Type Separator. The "of the" in "Avenue of the Stars", for example.
+    if (!empty($feature_properties['St_PreSep'])) {
+        $value = trim($feature_properties['St_PreSep']);
+        if (!empty($value)) {
+            $streetNameParts[] = $value;
         }
     }
 
-    $final_street_name = trim($final_street_name);
-
-    return $final_street_name;
-}
-
-/* PD field from VCGI is one of:
-E, N, S, SE, W
-*/
-function expand_direction($prefix_direction) {
-
-    $prefix_direction = trim($prefix_direction);
-
-    if(!empty($prefix_direction)) {
-        switch ($prefix_direction) {
-            case 'E':
-                $expanded_prefix_direction = "East";
-                break;
-            case 'N':
-                $expanded_prefix_direction = "North";
-                break;
-            case 'S':
-                $expanded_prefix_direction = "South";
-                break;
-            case 'SE':
-                $expanded_prefix_direction = "Southeast";
-                break;
-            case 'W':
-                $expanded_prefix_direction = "West";
-                break;
-            default:
-                $expanded_prefix_direction = "error 100";
-                break;
+    // St_Name:  Street Name.
+    if (!empty($feature_properties['St_Name'])) {
+        $value = trim($feature_properties['St_Name']);
+        // Case where St_NAME is just 110 and St_PreTyp is missing.
+        // Get the name from PRIMARYNAME.
+        if (preg_match('/^\d+$/', $value) && preg_match('/^VT ROUTE \d+/', $feature_properties['PRIMARYNAME']) && empty($feature_properties['St_PreTyp'])) {
+          $value = "Vermont Route " . $value;
         }
-    } else {
-        $expanded_prefix_direction = NULL;
+
+        $value = normalize_street_base_name($value, $feature_properties['St_PosTyp'], $feature_properties['Inc_Muni']);
+        if (!empty($value)) {
+            $streetNameParts[] = $value;
+        }
     }
 
-    return $expanded_prefix_direction;
+    // St_PosTyp:  Street Name Post Type.
+    if (!empty($feature_properties['St_PosTyp'])) {
+        $value = trim($feature_properties['St_PosTyp']);
+        if (!empty($value)) {
+            $streetNameParts[] = expand_street_name_suffix($value);
+        }
+    }
+
+    // St_PosDir:  Street Name Post Directional. North, South, East, West, Northeast, etc.
+    if (!empty($feature_properties['St_PosDir'])) {
+        $value = trim($feature_properties['St_PosDir']);
+        if (!empty($value)) {
+            $streetNameParts[] = $value;
+        }
+    }
+
+    // St_PosMod:  Street Name Post Modifier. Follows and is separated from street name by a post type and/or post direction. "Extension" in "Main Street Extension", for example.
+    if (!empty($feature_properties['St_PosMod'])) {
+        $value = trim($feature_properties['St_PosMod']);
+        if (!empty($value)) {
+            $streetNameParts[] = $value;
+        }
+    }
+
+    // Tinmouth. "Vermont Route 133" or "Morgan Road" are valid, but USPS gets
+    // confused by both as the street.
+    // ESITEID 259932 and others.
+    if ($feature_properties['ALIAS1'] == 'ROUTE 133 - MORGAN RD') {
+      return "Morgan Road";
+    }
+    if ($feature_properties['ALIAS1'] == 'ROUTE 133 - WEST TINMOUTH RD') {
+      return "West Tinmouth Road";
+    }
+
+    return trim(implode(" ", $streetNameParts));
 }
 
 function normalize_street_base_name($street_name, $street_suffix, $town_name) {
 
     // todo: deal with street names with apostrophes (eg. O'Neil)
 
-    $street_name_title_cased = ucwords(strtolower(trim($street_name)));
+    $street_name_title_cased = $street_name;
 
     // If street name starts with "Vt " replace with "Vermont "
     if (preg_match('/^Vt (.+)/i', $street_name_title_cased, $matches)) {
@@ -448,6 +497,10 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
 
     // OSM shows "U.S. Route #" where was e911 has US Route 5
     if(preg_match('/us route (.+)/i', $street_name_title_cased, $matches)) {
+        $street_name_title_cased = "U.S. Route " . $matches[1];
+    }
+    // OSM shows "U.S. Route #" where new e911 has United States Route 5
+    if(preg_match('/united states route (.+)/i', $street_name_title_cased, $matches)) {
         $street_name_title_cased = "U.S. Route " . $matches[1];
     }
 
@@ -596,6 +649,10 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
     // (esiteid: 115185)
     if ($street_name_title_cased == "Maggies Pond") {
         $street_name_title_cased = "Maggie's Pond";
+    }
+
+    if ($street_name_title_cased == "O Gorman" || $street_name_title_cased == "Ogorman") {
+        $street_name_title_cased = "O'Gorman";
     }
 
     // Craftsbury has a Road name "Pete's Greens" that is missing the possesive.
@@ -787,7 +844,7 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
     // Saint George has a road called "Whitetail Path" that is incorrectly in E911
     // as "White Tail Path". (esiteid: 765361, 765363, 765364, 765365)
     // The "White Tail" roads in other towns seem to mostly be two-words on the signs.
-    if ($street_name_title_cased == "White Tail" && $street_suffix == 'PATH' && $town_name == 'SAINT GEORGE') {
+    if ($street_name_title_cased == "White Tail" && $street_suffix == 'Path' && strtoupper($town_name) == 'SAINT GEORGE') {
         $street_name_title_cased = "Whitetail";
     }
 
@@ -800,14 +857,14 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
     // For the Winooski case, "LaFountain" is probably a good compromise as it
     // matches "Lafountain" in case-insensitive searches while preserving the
     // distinction on the street signs.
-    if ($street_name_title_cased == "Lafountain" && $street_suffix == 'ST' && $town_name == 'WINOOSKI') {
+    if ($street_name_title_cased == "Lafountain" && $street_suffix == 'Street' && strtoupper($town_name) == 'WINOOSKI') {
         $street_name_title_cased = "LaFountain";
     }
 
     // The Winooski street, "LaPointe St" is signed with an upper case P and no space.
     // Winooski city documents refer to it as "LaPointe Street" or "LaPointe Street"
     // but not "La Pointe Street" in documents on the city website.
-    if ($street_name_title_cased == "Lapointe" && $street_suffix == 'ST' && $town_name == 'WINOOSKI') {
+    if ($street_name_title_cased == "Lapointe" && $street_suffix == 'Street' && strtoupper($town_name) == 'WINOOSKI') {
         $street_name_title_cased = "LaPointe";
     }
 
@@ -867,10 +924,10 @@ function expand_street_name_suffix($street_name_suffix) {
                             "alley" => "Alley",
                             "ally" => "Alley",
                             "aly" => "Alley",
-                            "anex" => "Anex",
-                            "annex" => "Anex",
-                            "annx" => "Anex",
-                            "anx" => "Anex",
+                            "anex" => "Annex",
+                            "annex" => "Annex",
+                            "annx" => "Annex",
+                            "anx" => "Annex",
                             "arc" => "Arcade",
                             "arcade" => "Arcade",
                             "av" => "Avenue",
@@ -1388,7 +1445,7 @@ function expand_street_name_suffix($street_name_suffix) {
     if(array_key_exists($street_name_suffix, $street_suffixes)) {
         $expanded_suffix = $street_suffixes[$street_name_suffix];
     } else {
-        $expanded_suffix = $street_name_suffix;
+        $expanded_suffix = ucfirst($street_name_suffix);
     }
 
     return $expanded_suffix;

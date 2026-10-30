@@ -1,23 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1618" visible="true" lat="44.47789956" lon="-72.35882564">
-    <!-- offset: "1144 Mackville Road, , VT" Significant offset - 104.7m -->
+  <node id="-118800" visible="true" lat="44.531190293008" lon="-72.377093457506">
+    <!-- offset: "1137 Craftsbury Road, Hardwick, VT" Significant offset - 220m -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="1137"/>
+    <tag k="addr:street" v="Craftsbury Road"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="118800"/>
+  </node>
+  <node id="-119510" visible="true" lat="44.503350729054" lon="-72.368189362863">
+    <!-- offset: "135 South Main Street, Hardwick, VT" Significant offset - 123.1m -->
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="addr:postcode" v="05843"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="119510"/>
+  </node>
+  <node id="-754077" visible="true" lat="44.477908582639" lon="-72.358826790423">
+    <!-- offset: "1144 Mackville Road, Hardwick, VT" Significant offset - 105.4m -->
+    <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="1144"/>
     <tag k="addr:street" v="Mackville Road"/>
+    <tag k="addr:postcode" v="05843"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754077"/>
   </node>
-  <node id="-1619" visible="true" lat="44.47744611" lon="-72.35871161">
-    <!-- offset: "1150 Mackville Road, , VT" Significant offset - 544.1m -->
+  <node id="-754080" visible="true" lat="44.477455127284" lon="-72.358712766791">
+    <!-- offset: "1150 Mackville Road, Hardwick, VT" Significant offset - 544.9m -->
+    <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="1150"/>
     <tag k="addr:street" v="Mackville Road"/>
+    <tag k="addr:postcode" v="05843"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754080"/>
   </node>
-  <node id="-1660" visible="true" lat="44.52545858" lon="-72.39734343">
-    <!-- offset: "640 Bunker Hill Road, , VT" Significant offset - 175m -->
+  <node id="-764860" visible="true" lat="44.525467602275" lon="-72.397344599321">
+    <!-- offset: "640 Bunker Hill Road, Hardwick, VT" Significant offset - 175m -->
+    <tag k="addr:city" v="Hardwick"/>
     <tag k="addr:housenumber" v="640"/>
     <tag k="addr:street" v="Bunker Hill Road"/>
+    <tag k="addr:postcode" v="05843"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="764860"/>
   </node>

@@ -1,218 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-339" visible="true" lat="43.77705183" lon="-72.71037804">
-    <!-- conflict: "643 Laury Road, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "9 Brents Way, Stockbridge, VT" -->
+  <node id="-249098" visible="true" lat="43.774182714476" lon="-72.77052539256">
+    <!-- conflict: "166 South South Hill Road, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "166 South Hill Road Stockbridge, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="643"/>
-    <tag k="addr:street" v="Laury Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249043"/>
-  </node>
-  <node id="-363" visible="true" lat="43.77587557" lon="-72.71110004">
-    <!-- conflict: "645 Laury Road, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "105 Brents Way, Stockbridge, VT" -->
-    <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="645"/>
-    <tag k="addr:street" v="Laury Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249073"/>
-  </node>
-  <node id="-368" visible="true" lat="43.77557641" lon="-72.71223435">
-    <!-- conflict: "647 Laury Road, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "36 Brents Way, Stockbridge, VT" -->
-    <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="647"/>
-    <tag k="addr:street" v="Laury Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="249082"/>
-  </node>
-  <node id="-382" visible="true" lat="43.77417384" lon="-72.77052415">
-    <!-- conflict: "235 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "166 South Hill Road Stockbridge, Stockbridge, VT" -->
-    <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="235"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249098"/>
   </node>
-  <node id="-386" visible="true" lat="43.77352961" lon="-72.77245595">
-    <!-- conflict: "368 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "368 South Hill Road, Stockbridge, VT" -->
+  <node id="-249104" visible="true" lat="43.773536767988" lon="-72.772455068881">
+    <!-- conflict: "368 South South Hill Road, Stockbridge, VT" Fuzzy match to "368 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="368"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249104"/>
   </node>
-  <node id="-391" visible="true" lat="43.77284618" lon="-72.77223386">
-    <!-- conflict: "471 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "357 South Hill Road, Stockbridge, VT" -->
+  <node id="-249109" visible="true" lat="43.77285505675" lon="-72.772235102987">
+    <!-- conflict: "357 South South Hill Road, Stockbridge, VT" Fuzzy match to "357 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="471"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:housenumber" v="357"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249109"/>
   </node>
-  <node id="-393" visible="true" lat="43.77189902" lon="-72.77195361">
-    <!-- conflict: "535 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "535 South Hill Road, Stockbridge, VT" -->
+  <node id="-249111" visible="true" lat="43.771907899126" lon="-72.771954855646">
+    <!-- conflict: "535 South South Hill Road, Stockbridge, VT" Fuzzy match to "535 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="535"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249111"/>
   </node>
-  <node id="-418" visible="true" lat="43.76635016" lon="-72.77226113">
-    <!-- conflict: "979 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "979 South Hill Road, Stockbridge, VT" -->
+  <node id="-249124" visible="true" lat="43.769682567219" lon="-72.710385455691">
+    <!-- conflict: "655 Childrens Camp Road, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "564 Childrens Camp Road, Stockbridge, VT" -->
+    <tag k="addr:city" v="Stockbridge"/>
+    <tag k="addr:housenumber" v="655"/>
+    <tag k="addr:street" v="Childrens Camp Road"/>
+    <tag k="addr:postcode" v="05772"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="249124"/>
+  </node>
+  <node id="-249137" visible="true" lat="43.766359038271" lon="-72.772262373446">
+    <!-- conflict: "979 South South Hill Road, Stockbridge, VT" Fuzzy match to "979 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="979"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249137"/>
   </node>
-  <node id="-424" visible="true" lat="43.76371746" lon="-72.77739372">
-    <!-- conflict: "1179 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "1179 South Hill Road, Stockbridge, VT" -->
+  <node id="-249143" visible="true" lat="43.763726337985" lon="-72.777394968925">
+    <!-- conflict: "1179 South South Hill Road, Stockbridge, VT" Fuzzy match to "1179 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="1179"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249143"/>
   </node>
-  <node id="-496" visible="true" lat="43.7458223" lon="-72.79039388">
-    <!-- conflict: "2694 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "2694 South Hill Road, Stockbridge, VT" -->
+  <node id="-249208" visible="true" lat="43.752327683515" lon="-72.79012980343">
+    <!-- conflict: "2238 South South Hill Road, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "2238 South Hill Road Stockbridge, Stockbridge, VT" -->
+    <tag k="addr:city" v="Stockbridge"/>
+    <tag k="addr:housenumber" v="2238"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="249208"/>
+  </node>
+  <node id="-249210" visible="true" lat="43.750071562225" lon="-72.790845826044">
+    <!-- conflict: "2400 South South Hill Road, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "2400 South Hill Road Stockbridge, Stockbridge, VT" -->
+    <tag k="addr:city" v="Stockbridge"/>
+    <tag k="addr:housenumber" v="2400"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="249210"/>
+  </node>
+  <node id="-249216" visible="true" lat="43.745831172779" lon="-72.790395129488">
+    <!-- conflict: "2694 South South Hill Road, Stockbridge, VT" Fuzzy match to "2694 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="2694"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249216"/>
   </node>
-  <node id="-497" visible="true" lat="43.74350055" lon="-72.79629176">
-    <!-- conflict: "905 South Hill Road Pittsfield, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "3210 South Hill Road, Stockbridge, VT" -->
+  <node id="-249217" visible="true" lat="43.744341024464" lon="-72.796295099239">
+    <!-- conflict: "3210 South South Hill Road, Stockbridge, VT" Fuzzy match to "3210 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="905"/>
-    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:housenumber" v="3210"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249217"/>
   </node>
-  <node id="-499" visible="true" lat="43.74329564" lon="-72.79474733">
-    <!-- conflict: "971 South Hill Road Pittsfield, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "3146 South Hill Road, Stockbridge, VT" -->
+  <node id="-249219" visible="true" lat="43.743304515903" lon="-72.794748579815">
+    <!-- conflict: "3146 South South Hill Road, Stockbridge, VT" Fuzzy match to "3146 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="971"/>
-    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:housenumber" v="3146"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249219"/>
   </node>
-  <node id="-500" visible="true" lat="43.74267429" lon="-72.79706576">
-    <!-- conflict: "857 South Hill Road Pittsfield, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "3248 South Hill Road, Stockbridge, VT" -->
+  <node id="-249220" visible="true" lat="43.742683162926" lon="-72.797067015035">
+    <!-- conflict: "3248 South South Hill Road, Stockbridge, VT" Fuzzy match to "3248 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="857"/>
-    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:housenumber" v="3248"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249220"/>
   </node>
-  <node id="-502" visible="true" lat="43.74242012" lon="-72.79768302">
-    <!-- conflict: "819 South Hill Road Pittsfield, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "3282 South Hill Road, Stockbridge, VT" -->
+  <node id="-249222" visible="true" lat="43.742428995595" lon="-72.797684277156">
+    <!-- conflict: "3282 South South Hill Road, Stockbridge, VT" Fuzzy match to "3282 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="819"/>
-    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:housenumber" v="3282"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249222"/>
   </node>
-  <node id="-504" visible="true" lat="43.74153734" lon="-72.79872537">
-    <!-- conflict: "738 South Hill Road Pittsfield, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "3345 South Hill Road, Stockbridge, VT" -->
+  <node id="-249224" visible="true" lat="43.741546215703" lon="-72.79872662766">
+    <!-- conflict: "3345 South South Hill Road, Stockbridge, VT" Fuzzy match to "3345 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="738"/>
-    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:housenumber" v="3345"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249224"/>
   </node>
-  <node id="-505" visible="true" lat="43.74108505" lon="-72.79940033">
-    <!-- conflict: "714 South Hill Road Pittsfield, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "3409 South Hill Road, Stockbridge, VT" -->
+  <node id="-249225" visible="true" lat="43.741093924685" lon="-72.799401581956">
+    <!-- conflict: "3409 South South Hill Road, Stockbridge, VT" Fuzzy match to "3409 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="714"/>
-    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:housenumber" v="3409"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249225"/>
   </node>
-  <node id="-509" visible="true" lat="43.74046625" lon="-72.80015765">
-    <!-- conflict: "635 South Hill Road Pittsfield, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "3466 South Hill Road, Stockbridge, VT" -->
+  <node id="-249229" visible="true" lat="43.740475130211" lon="-72.80015890769">
+    <!-- conflict: "3466 South South Hill Road, Stockbridge, VT" Fuzzy match to "3466 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="635"/>
-    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:housenumber" v="3466"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249229"/>
   </node>
-  <node id="-511" visible="true" lat="43.74019955" lon="-72.79950359">
-    <!-- conflict: "622 South Hill Road Pittsfield, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "3505 South Hill Road, Stockbridge, VT" -->
+  <node id="-249231" visible="true" lat="43.740208429001" lon="-72.799504843184">
+    <!-- conflict: "3505 South South Hill Road, Stockbridge, VT" Fuzzy match to "3505 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="622"/>
-    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:housenumber" v="3505"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249231"/>
   </node>
-  <node id="-519" visible="true" lat="43.73857227" lon="-72.80086763">
-    <!-- conflict: "515 South Hill Road Pittsfield, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "3620 South Hill Road, Stockbridge, VT" -->
+  <node id="-249239" visible="true" lat="43.738581141386" lon="-72.80086888284">
+    <!-- conflict: "3620 South South Hill Road, Stockbridge, VT" Fuzzy match to "3620 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="515"/>
-    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:housenumber" v="3620"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249239"/>
   </node>
-  <node id="-600" visible="true" lat="43.77312398" lon="-72.77168692">
-    <!-- conflict: "469 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "355 South Hill Road, Stockbridge, VT" -->
+  <node id="-249326" visible="true" lat="43.773132862495" lon="-72.771688165263">
+    <!-- conflict: "355 South South Hill Road, Stockbridge, VT" Fuzzy match to "355 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="469"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:housenumber" v="355"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249326"/>
   </node>
-  <node id="-601" visible="true" lat="43.77205363" lon="-72.77118469">
-    <!-- conflict: "537 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "537 South Hill Road, Stockbridge, VT" -->
+  <node id="-249327" visible="true" lat="43.772062504816" lon="-72.771185936558">
+    <!-- conflict: "537 South South Hill Road, Stockbridge, VT" Fuzzy match to "537 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="537"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249327"/>
   </node>
-  <node id="-608" visible="true" lat="43.75412377" lon="-72.78642582">
-    <!-- conflict: "2077 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "2077 South Hill Road, Stockbridge, VT" -->
+  <node id="-249334" visible="true" lat="43.754132642881" lon="-72.786427064163">
+    <!-- conflict: "2077 South South Hill Road, Stockbridge, VT" Fuzzy match to "2077 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="2077"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249334"/>
   </node>
-  <node id="-610" visible="true" lat="43.7721136" lon="-72.7722833">
-    <!-- conflict: "505 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "505 South Hill Road, Stockbridge, VT" -->
+  <node id="-249337" visible="true" lat="43.77212247664" lon="-72.772284539996">
+    <!-- conflict: "505 South South Hill Road, Stockbridge, VT" Fuzzy match to "505 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="505"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="249337"/>
   </node>
-  <node id="-629" visible="true" lat="43.7423009" lon="-72.79940544">
-    <!-- conflict: "737 South Hill Road Pittsfield, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "3390 South Hill Road, Stockbridge, VT" -->
+  <node id="-313883" visible="true" lat="43.742309772773" lon="-72.799406696415">
+    <!-- conflict: "3390 South South Hill Road, Stockbridge, VT" Fuzzy match to "3390 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="737"/>
-    <tag k="addr:street" v="South Hill Road Pittsfield"/>
+    <tag k="addr:housenumber" v="3390"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="313883"/>
   </node>
-  <node id="-708" visible="true" lat="43.76466948" lon="-72.78667051">
-    <!-- conflict: "1000 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "471 Lafrania Road, Stockbridge, VT" -->
+  <node id="-341542" visible="true" lat="43.734841195061" lon="-72.807857313032">
+    <!-- conflict: "4080 South South Hill Road, Stockbridge, VT" Fuzzy match to "4080 South Hill Road, Pittsfield, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
-    <tag k="addr:housenumber" v="1000"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:housenumber" v="4080"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="755309"/>
+    <tag k="ref:vcgi:esiteid" v="341542"/>
   </node>
-  <node id="-718" visible="true" lat="43.75220901" lon="-72.79333689">
-    <!-- conflict: "2272 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "2272 South Hill Road, Stockbridge, VT" -->
+  <node id="-756378" visible="true" lat="43.738012423452" lon="-72.793141505098">
+    <!-- conflict: "5581 Fletcher Brook Road, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "5749 Fletcher Brook Road, Stockbridge, VT" -->
+    <tag k="addr:city" v="Stockbridge"/>
+    <tag k="addr:housenumber" v="5581"/>
+    <tag k="addr:street" v="Fletcher Brook Road"/>
+    <tag k="addr:postcode" v="05772"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="756378"/>
+  </node>
+  <node id="-760546" visible="true" lat="43.752217884656" lon="-72.793338144201">
+    <!-- conflict: "2272 South South Hill Road, Stockbridge, VT" Fuzzy match to "2272 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="2272"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760546"/>
   </node>
-  <node id="-751" visible="true" lat="43.74338903" lon="-72.78521875">
-    <!-- conflict: "2729 South Hill Road Stockbridge, Stockbridge, VT" No match in OSM, but a different address exists <5m away: "2729 South Hill Road, Stockbridge, VT" -->
+  <node id="-764373" visible="true" lat="43.735719113827" lon="-72.807195116451">
+    <!-- conflict: "4034 South South Hill Road, Stockbridge, VT" Fuzzy match to "4034 South Hill Road, Pittsfield, VT" -->
+    <tag k="addr:city" v="Stockbridge"/>
+    <tag k="addr:housenumber" v="4034"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="764373"/>
+  </node>
+  <node id="-1052533" visible="true" lat="43.743397899391" lon="-72.785219993844">
+    <!-- conflict: "2729 South South Hill Road, Stockbridge, VT" Fuzzy match to "2729 South Hill Road, Stockbridge, VT" -->
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="2729"/>
-    <tag k="addr:street" v="South Hill Road Stockbridge"/>
+    <tag k="addr:street" v="South South Hill Road"/>
+    <tag k="addr:postcode" v="05772"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1052533"/>
   </node>

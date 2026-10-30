@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-206566" visible="true" lat="43.8097727977" lon="-72.515832211872">
+    <!-- duplicates-in-different-towns: "71 Manouvelos Lane, South Royalton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 206891: "71 Manouvelos Lane, , VT" -->
+    <tag k="addr:city" v="South Royalton"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Manouvelos Lane"/>
+    <tag k="addr:postcode" v="05068"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="206566"/>
+  </node>
+  <node id="-206891" visible="true" lat="43.809392801575" lon="-72.51548364232">
+    <!-- duplicates-in-different-towns: "68 Manouvelos Lane, South Royalton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 206566: "68 Manouvelos Lane, , VT" -->
+    <tag k="addr:city" v="South Royalton"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Manouvelos Lane"/>
+    <tag k="addr:postcode" v="05068"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="206891"/>
+  </node>
+  <node id="-365695" visible="true" lat="43.829298828202" lon="-72.527862204369">
+    <!-- duplicates-in-different-towns: "164 Happy Hollow Road, South Royalton, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 656476: "164 Happy Hollow Road, , VT" -->
+    <tag k="addr:city" v="South Royalton"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:street" v="Happy Hollow Road"/>
+    <tag k="addr:postcode" v="05068"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365695"/>
+  </node>
+</osm>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-225802" visible="true" lat="43.893956249861" lon="-73.331942447695">
+    <!-- conflict: "739 Watch Point Road, Shoreham, VT" No match in OSM, but a different address exists <5m away: "747 Watch Point Road, , VT" -->
+    <tag k="addr:city" v="Shoreham"/>
+    <tag k="addr:housenumber" v="739"/>
+    <tag k="addr:street" v="Watch Point Road"/>
+    <tag k="addr:postcode" v="05770"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225802"/>
+  </node>
+  <node id="-225902" visible="true" lat="43.883941951791" lon="-73.291273802116">
+    <!-- conflict: "239 Burgess Road, Shoreham, VT" No match in OSM, but a different address exists <5m away: "225 Burgess Road, , VT" -->
+    <tag k="addr:city" v="Shoreham"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Burgess Road"/>
+    <tag k="addr:postcode" v="05770"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="225902"/>
+  </node>
+</osm>

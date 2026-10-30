@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-656850" visible="true" lat="44.52278661184" lon="-72.943205687923">
+    <!-- duplicates-in-different-towns: "36 Ecuarico Road, Underhill, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 135932: "36 Ecuarico Road, Jericho, VT" -->
+    <tag k="addr:city" v="Underhill"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Ecuarico Road"/>
+    <tag k="addr:postcode" v="05489"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656850"/>
+  </node>
+</osm>

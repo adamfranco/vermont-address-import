@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1583" visible="true" lat="44.12668088" lon="-72.88808918">
-    <!-- offset: "115 Fall Line Drive, Warren, VT" Significant offset - 101.9m -->
+  <node id="-272450" visible="true" lat="44.137766069618" lon="-72.814655442806">
+    <!-- offset: "3804 East Warren Road, Waitsfield, VT" Significant offset - 342.1m -->
+    <tag k="addr:city" v="Waitsfield"/>
+    <tag k="addr:housenumber" v="3804"/>
+    <tag k="addr:street" v="East Warren Road"/>
+    <tag k="addr:postcode" v="05673"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="272450"/>
+  </node>
+  <node id="-335199" visible="true" lat="44.126689822733" lon="-72.888090481781">
+    <!-- offset: "115 Fall Line Drive, Warren, VT" Significant offset - 100.9m -->
     <tag k="addr:city" v="Warren"/>
     <tag k="addr:housenumber" v="115"/>
     <tag k="addr:street" v="Fall Line Drive"/>
+    <tag k="addr:postcode" v="05674"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="335199"/>
+  </node>
+  <node id="-655939" visible="true" lat="44.085037324405" lon="-72.81353938496">
+    <!-- offset: "160 Larrow Farm Road, Warren, VT" Significant offset - 376.6m -->
+    <tag k="addr:city" v="Warren"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:street" v="Larrow Farm Road"/>
+    <tag k="addr:postcode" v="05674"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655939"/>
   </node>
 </osm>

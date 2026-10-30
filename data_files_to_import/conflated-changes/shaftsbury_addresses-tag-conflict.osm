@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-675" visible="true" lat="42.96523422" lon="-73.19867283">
-    <!-- conflict: "526 North Road, , VT" No match in OSM, but a different address exists <5m away: "536 North Road, , VT" -->
+  <node id="-217963" visible="true" lat="42.965234222765" lon="-73.19867283267">
+    <!-- conflict: "526 North Road, Shaftsbury, VT" No match in OSM, but a different address exists <5m away: "536 North Road, , VT" -->
+    <tag k="addr:city" v="Shaftsbury"/>
     <tag k="addr:housenumber" v="526"/>
     <tag k="addr:street" v="North Road"/>
+    <tag k="addr:postcode" v="05262"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="217963"/>
   </node>

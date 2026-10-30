@@ -148,6 +148,9 @@ function should_overwrite_output($town, $skip_existing) {
   if (!file_exists($outputBase . '/conflated-changes/' . $fileBase . '-tag-conflict.osm')) {
     return TRUE;
   }
+  if (!file_exists($outputBase . '/conflated-changes/' . $fileBase . '-city-conflict.osm')) {
+    return TRUE;
+  }
   if (!file_exists($outputBase . '/conflated-changes/' . $fileBase . '-no-match.osm')) {
     return TRUE;
   }

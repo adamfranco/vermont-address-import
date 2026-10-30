@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-618510" visible="true" lat="43.604534498976" lon="-73.008708721175">
+    <!-- duplicates-in-different-towns: "232 Business Route 4, Center Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 317612: "232 Business Route 4, Rutland, VT" -->
+    <tag k="addr:city" v="Center Rutland"/>
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="addr:street" v="Business Route 4"/>
+    <tag k="addr:postcode" v="05736"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="618510"/>
+  </node>
+  <node id="-772962" visible="true" lat="43.638598702441" lon="-72.947652388689">
+    <!-- duplicates-in-different-towns: "791 Post Road, Rutland, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772963: "791 Post Road, , VT" -->
+    <tag k="addr:city" v="Rutland"/>
+    <tag k="addr:housenumber" v="791"/>
+    <tag k="addr:street" v="Post Road"/>
+    <tag k="addr:postcode" v="05701"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772962"/>
+  </node>
+</osm>

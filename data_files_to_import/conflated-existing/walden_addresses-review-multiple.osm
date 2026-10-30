@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-450" visible="true" lat="44.4529095" lon="-72.21923871">
-    <!-- multiple: "135 Cahoon Farm Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-268754" visible="true" lat="44.452918521193" lon="-72.219239819555">
+    <!-- multiple: "135 Cahoon Farm Road, West Danville, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="West Danville"/>
     <tag k="addr:housenumber" v="135"/>
     <tag k="addr:street" v="Cahoon Farm Road"/>
+    <tag k="addr:postcode" v="05873"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="268754"/>
   </node>

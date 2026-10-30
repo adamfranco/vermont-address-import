@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-62777" visible="true" lat="44.85125116512" lon="-71.989724262947">
+    <!-- duplicates-in-different-towns: "264 West Echo Lake Road, West Charleston, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 62777e: "264 West Echo Lake Road, , VT" -->
+    <tag k="addr:city" v="West Charleston"/>
+    <tag k="addr:housenumber" v="264"/>
+    <tag k="addr:street" v="West Echo Lake Road"/>
+    <tag k="addr:postcode" v="05872"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="62777"/>
+  </node>
+</osm>

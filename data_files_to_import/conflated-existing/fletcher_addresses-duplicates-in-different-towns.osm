@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-773062" visible="true" lat="44.681936033981" lon="-72.897235406122">
+    <!-- duplicates-in-different-towns: "361 Webb Road, Cambridge, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773063: "361 Webb Road, , VT" -->
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="361"/>
+    <tag k="addr:street" v="Webb Road"/>
+    <tag k="addr:postcode" v="05444"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773062"/>
+  </node>
+  <node id="-773063" visible="true" lat="44.685096927444" lon="-72.896777293361">
+    <!-- duplicates-in-different-towns: "153 Webb Road, Cambridge, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773064: "153 Webb Road, , VT" -->
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:street" v="Webb Road"/>
+    <tag k="addr:postcode" v="05444"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773063"/>
+  </node>
+</osm>

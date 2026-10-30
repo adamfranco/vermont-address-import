@@ -1,65 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-255" visible="true" lat="43.60732639" lon="-72.40276495">
-    <!-- offset: "30 Ocean View Drive, , VT" Significant offset - 160.3m -->
+  <node id="-125080" visible="true" lat="43.607326385048" lon="-72.402764945327">
+    <!-- offset: "30 Ocean View Drive, Hartland, VT" Significant offset - 160.3m -->
+    <tag k="addr:city" v="Hartland"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Ocean View Drive"/>
+    <tag k="addr:postcode" v="05048"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="125080"/>
   </node>
-  <node id="-1366" visible="true" lat="43.54720325" lon="-72.49095319">
-    <!-- offset: "100 Dodge Lane, , VT" Significant offset - 382.3m -->
+  <node id="-126212" visible="true" lat="43.547212093836" lon="-72.490954326884">
+    <!-- offset: "100 Dodge Lane, Windsor, VT" Significant offset - 381.8m -->
+    <tag k="addr:city" v="Windsor"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="Dodge Lane"/>
+    <tag k="addr:postcode" v="05089"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126212"/>
   </node>
-  <node id="-1590" visible="true" lat="43.62156456" lon="-72.42698364">
-    <!-- offset: "775 Sugar House Road, , VT" Significant offset - 286.8m -->
-    <tag k="addr:housenumber" v="775"/>
-    <tag k="addr:street" v="Sugar House Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="126443"/>
-  </node>
-  <node id="-1621" visible="true" lat="43.60776019" lon="-72.40081733">
-    <!-- offset: "32 Ocean View Drive, , VT" Significant offset - 183.9m -->
+  <node id="-126483" visible="true" lat="43.607760189391" lon="-72.400817327451">
+    <!-- offset: "32 Ocean View Drive, Hartland, VT" Significant offset - 183.9m -->
+    <tag k="addr:city" v="Hartland"/>
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:street" v="Ocean View Drive"/>
+    <tag k="addr:postcode" v="05048"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126483"/>
   </node>
-  <node id="-1622" visible="true" lat="43.6090349" lon="-72.4022318">
-    <!-- offset: "31 Ocean View Drive, , VT" Significant offset - 215.6m -->
+  <node id="-126484" visible="true" lat="43.609034902018" lon="-72.402231804124">
+    <!-- offset: "31 Ocean View Drive, Hartland, VT" Significant offset - 215.6m -->
+    <tag k="addr:city" v="Hartland"/>
     <tag k="addr:housenumber" v="31"/>
     <tag k="addr:street" v="Ocean View Drive"/>
+    <tag k="addr:postcode" v="05048"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="126484"/>
   </node>
-  <node id="-1661" visible="true" lat="43.54300394" lon="-72.51906281">
-    <!-- offset: "1161 Morgan Hill Road, , VT" Significant offset - 885m -->
+  <node id="-331291" visible="true" lat="43.543012789419" lon="-72.51906395168">
+    <!-- offset: "1161 Morgan Hill Road, South Woodstock, VT" Significant offset - 884.8m -->
+    <tag k="addr:city" v="South Woodstock"/>
     <tag k="addr:housenumber" v="1161"/>
     <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:postcode" v="05071"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="331291"/>
   </node>
-  <node id="-1662" visible="true" lat="43.5439991" lon="-72.52097781">
-    <!-- offset: "1159 Morgan Hill Road, , VT" Significant offset - 739m -->
+  <node id="-331292" visible="true" lat="43.544007949551" lon="-72.520978959087">
+    <!-- offset: "1159 Morgan Hill Road, South Woodstock, VT" Significant offset - 739m -->
+    <tag k="addr:city" v="South Woodstock"/>
     <tag k="addr:housenumber" v="1159"/>
     <tag k="addr:street" v="Morgan Hill Road"/>
+    <tag k="addr:postcode" v="05071"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="331292"/>
   </node>
-  <node id="-1702" visible="true" lat="43.53683662" lon="-72.52613704">
-    <!-- offset: "152 Reeves Road, , VT" Significant offset - 108m -->
+  <node id="-342591" visible="true" lat="43.536846715673" lon="-72.526131991848">
+    <!-- offset: "152 Reeves Road, South Woodstock, VT" Significant offset - 107.3m -->
+    <tag k="addr:city" v="South Woodstock"/>
     <tag k="addr:housenumber" v="152"/>
     <tag k="addr:street" v="Reeves Road"/>
+    <tag k="addr:postcode" v="05071"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="342591"/>
   </node>
-  <node id="-1851" visible="true" lat="43.53331691" lon="-72.38829958">
-    <!-- offset: "21 Ferry Road, , VT" Significant offset - 139.1m -->
+  <node id="-762683" visible="true" lat="43.533325754874" lon="-72.388300677484">
+    <!-- offset: "21 Ferry Road, Hartland, VT" Significant offset - 139.6m -->
+    <tag k="addr:city" v="Hartland"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="Ferry Road"/>
+    <tag k="addr:postcode" v="05048"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="762683"/>
   </node>

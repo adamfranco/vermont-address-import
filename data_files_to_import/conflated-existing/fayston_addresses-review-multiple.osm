@@ -1,38 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-270" visible="true" lat="44.23218749" lon="-72.79980245">
-    <!-- multiple: "866 North Fayston Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="866"/>
-    <tag k="addr:street" v="North Fayston Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="106096"/>
-  </node>
-  <node id="-667" visible="true" lat="44.18400388" lon="-72.8705782">
-    <!-- multiple: "1440 Mill Brook Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-106496" visible="true" lat="44.184012834354" lon="-72.870579510937">
+    <!-- multiple: "1440 Mill Brook Road, Waitsfield, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Waitsfield"/>
     <tag k="addr:housenumber" v="1440"/>
     <tag k="addr:street" v="Mill Brook Road"/>
+    <tag k="addr:postcode" v="05673"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="106496"/>
-  </node>
-  <node id="-739" visible="true" lat="44.17918432" lon="-72.88425695">
-    <!-- multiple: "782 German Flats Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="782"/>
-    <tag k="addr:street" v="German Flats Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="106570"/>
-  </node>
-  <node id="-1139" visible="true" lat="44.18462969" lon="-72.84025372">
-    <!-- multiple: "139 Post Office Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="139"/>
-    <tag k="addr:street" v="Post Office Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="757413"/>
-  </node>
-  <node id="-1140" visible="true" lat="44.18431385" lon="-72.84055879">
-    <!-- multiple: "165 Post Office Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="165"/>
-    <tag k="addr:street" v="Post Office Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="757414"/>
   </node>
 </osm>

@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-581" visible="true" lat="44.38719661" lon="-72.35044205">
-    <!-- offset: "1009 Ducharme Road, , VT" Significant offset - 530.5m -->
-    <tag k="addr:housenumber" v="1009"/>
-    <tag k="addr:street" v="Ducharme Road"/>
+  <node id="-655777" visible="true" lat="44.366863443852" lon="-72.266133025447">
+    <!-- offset: "296 Houghton Road, Marshfield, VT" Significant offset - 191.5m -->
+    <tag k="addr:city" v="Marshfield"/>
+    <tag k="addr:housenumber" v="296"/>
+    <tag k="addr:street" v="Houghton Road"/>
+    <tag k="addr:postcode" v="05658"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="56016"/>
+    <tag k="ref:vcgi:esiteid" v="655777"/>
   </node>
-  <node id="-1009" visible="true" lat="44.41719139" lon="-72.30387927">
-    <!-- offset: "4409 Route 215 North, , VT" Significant offset - 375.9m -->
+  <node id="-655778" visible="true" lat="44.41720040296" lon="-72.303880407352">
+    <!-- offset: "4409 Route 215 North, Cabot, VT" Significant offset - 375.4m -->
+    <tag k="addr:city" v="Cabot"/>
     <tag k="addr:housenumber" v="4409"/>
     <tag k="addr:street" v="Route 215 North"/>
+    <tag k="addr:postcode" v="05647"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="655778"/>
   </node>
-  <node id="-1057" visible="true" lat="44.40402467" lon="-72.30310683">
-    <!-- offset: "30 Garden Way, , VT" Significant offset - 117.9m -->
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:street" v="Garden Way"/>
+  <node id="-771880" visible="true" lat="44.395493663302" lon="-72.283772314623">
+    <!-- offset: "1758 Danville Hill Road, Cabot, VT" Significant offset - 145.7m -->
+    <tag k="addr:city" v="Cabot"/>
+    <tag k="addr:housenumber" v="1758"/>
+    <tag k="addr:street" v="Danville Hill Road"/>
+    <tag k="addr:postcode" v="05647"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="770934"/>
-  </node>
-  <node id="-1058" visible="true" lat="44.43903257" lon="-72.26745563">
-    <!-- offset: "995 Route 215, , VT" Significant offset - 367.1m -->
-    <tag k="addr:housenumber" v="995"/>
-    <tag k="addr:street" v="Route 215"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="771366"/>
+    <tag k="ref:vcgi:esiteid" v="771880"/>
   </node>
 </osm>

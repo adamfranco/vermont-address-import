@@ -1,38 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-615" visible="true" lat="44.66651081" lon="-72.23252478">
-    <!-- offset: "2018 Shadow Lake Road, , VT" Significant offset - 5960.7m -->
-    <tag k="addr:housenumber" v="2018"/>
-    <tag k="addr:street" v="Shadow Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="112236"/>
-  </node>
-  <node id="-674" visible="true" lat="44.66343917" lon="-72.22315651">
-    <!-- offset: "1501 Shadow Lake Road, , VT" Significant offset - 7423.6m -->
-    <tag k="addr:housenumber" v="1501"/>
-    <tag k="addr:street" v="Shadow Lake Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="112297"/>
-  </node>
-  <node id="-734" visible="true" lat="44.63667406" lon="-72.2090841">
-    <!-- offset: "3877 Dry Pond Road, , VT" Significant offset - 113.2m -->
+  <node id="-112357" visible="true" lat="44.636683113222" lon="-72.209085218629">
+    <!-- offset: "3877 Dry Pond Road, Glover, VT" Significant offset - 113m -->
+    <tag k="addr:city" v="Glover"/>
     <tag k="addr:housenumber" v="3877"/>
     <tag k="addr:street" v="Dry Pond Road"/>
+    <tag k="addr:postcode" v="05839"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="112357"/>
   </node>
-  <node id="-903" visible="true" lat="44.70180951" lon="-72.28754925">
-    <!-- offset: "410 Andersonville Road, , VT" Significant offset - 466.5m -->
+  <node id="-448953" visible="true" lat="44.701818574271" lon="-72.287550399395">
+    <!-- offset: "410 Andersonville Road, West Glover, VT" Significant offset - 465.8m -->
+    <tag k="addr:city" v="West Glover"/>
     <tag k="addr:housenumber" v="410"/>
     <tag k="addr:street" v="Andersonville Road"/>
+    <tag k="addr:postcode" v="05875"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="448953"/>
   </node>
-  <node id="-904" visible="true" lat="44.70144531" lon="-72.2875676">
-    <!-- offset: "408 Andersonville Road, , VT" Significant offset - 447.5m -->
+  <node id="-448954" visible="true" lat="44.701454381601" lon="-72.287568754092">
+    <!-- offset: "408 Andersonville Road, West Glover, VT" Significant offset - 446.9m -->
+    <tag k="addr:city" v="West Glover"/>
     <tag k="addr:housenumber" v="408"/>
     <tag k="addr:street" v="Andersonville Road"/>
+    <tag k="addr:postcode" v="05875"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="448954"/>
+  </node>
+  <node id="-655994" visible="true" lat="44.702075373716" lon="-72.259974900312">
+    <!-- offset: "623 Phillips Road, West Glover, VT" Significant offset - 360.7m -->
+    <tag k="addr:city" v="West Glover"/>
+    <tag k="addr:housenumber" v="623"/>
+    <tag k="addr:street" v="Phillips Road"/>
+    <tag k="addr:postcode" v="05875"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655994"/>
+  </node>
+  <node id="-758378" visible="true" lat="44.699109841566" lon="-72.263866609253">
+    <!-- offset: "778 Beach Hill Road, West Glover, VT" Significant offset - 189.5m -->
+    <tag k="addr:city" v="West Glover"/>
+    <tag k="addr:housenumber" v="778"/>
+    <tag k="addr:street" v="Beach Hill Road"/>
+    <tag k="addr:postcode" v="05875"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="758378"/>
+  </node>
+  <node id="-772320" visible="true" lat="44.709458094284" lon="-72.283211160615">
+    <!-- offset: "4032 County Road, West Glover, VT" Significant offset - 198.7m -->
+    <tag k="addr:city" v="West Glover"/>
+    <tag k="addr:housenumber" v="4032"/>
+    <tag k="addr:street" v="County Road"/>
+    <tag k="addr:postcode" v="05875"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772320"/>
   </node>
 </osm>

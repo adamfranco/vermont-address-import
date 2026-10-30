@@ -59,9 +59,9 @@ if (is_object($data) && $data->type == "FeatureCollection") {
     if (is_object($feature) && $feature->type == "Feature") {
       $i++;
 
-      $town = $feature->properties->TOWNNAME;
+      $town = ucwords(strtolower($feature->properties->Inc_Muni));
       if (empty($town)) {
-        die ("Missing TOWNNAME in ".json_encode($feature));
+        die ("Missing Inc_Muni in ".json_encode($feature));
       }
       if (!isset($towns[$town])) {
         $towns[$town] = [];
@@ -85,6 +85,7 @@ if (is_object($data) && $data->type == "FeatureCollection") {
 $townFiles = [];
 $i = 0;
 foreach ($towns as $town => $features) {
+  fwrite(STDERR, count($features) . " features in $town\n");
   ksort($features);
   $i++;
   $townFile = openTownFile($town);
@@ -104,7 +105,7 @@ function openTownFile($town) {
   $file = fopen(__DIR__ . '/town_e911_address_points/e911_address_points_' . str_replace(' ', '_', strtolower($town)) . '.geojson', 'w+');
   fwrite($file, '{
     "type": "FeatureCollection",
-    "name": "FS_VCGI_OPENDATA_Emergency_ESITE_point_SP_v1 - ' . $town . '",
+    "name": "FS_VCGI_OPENDATA_Emergency_SiteStructureAddressPoint_point_SP_v1 - ' . $town . '",
     "crs": {
         "type": "name",
         "properties": {

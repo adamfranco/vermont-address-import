@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-773011" visible="true" lat="43.625140255907" lon="-72.512663325652">
+    <!-- duplicates-in-different-towns: "26 Slayton Terrace, Woodstock, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773012: "26 Slayton Terrace, , VT" -->
+    <tag k="addr:city" v="Woodstock"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Slayton Terrace"/>
+    <tag k="addr:postcode" v="05091"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773011"/>
+  </node>
+  <node id="-773037" visible="true" lat="43.627282275033" lon="-72.508097094255">
+    <!-- duplicates-in-different-towns: "499 Maxham Meadow Way, Woodstock, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773038: "499 Maxham Meadow Way, , VT" -->
+    <tag k="addr:city" v="Woodstock"/>
+    <tag k="addr:housenumber" v="499"/>
+    <tag k="addr:street" v="Maxham Meadow Way"/>
+    <tag k="addr:postcode" v="05091"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773037"/>
+  </node>
+  <node id="-773048" visible="true" lat="43.623513709362" lon="-72.527116578437">
+    <!-- duplicates-in-different-towns: "412 Mountain Avenue, Woodstock, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 773049: "412 Mountain Avenue, , VT" -->
+    <tag k="addr:city" v="Woodstock"/>
+    <tag k="addr:housenumber" v="412"/>
+    <tag k="addr:street" v="Mountain Avenue"/>
+    <tag k="addr:postcode" v="05091"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="773048"/>
+  </node>
+</osm>

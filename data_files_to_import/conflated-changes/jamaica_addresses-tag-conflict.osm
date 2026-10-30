@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-135501" visible="true" lat="43.077151821421" lon="-72.734606755638">
+    <!-- conflict: "105 Tonys Lane, Jamaica, VT" No match in OSM, but a different address exists <5m away: "97 Tonys Lane, , VT" -->
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:street" v="Tonys Lane"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135501"/>
+  </node>
+  <node id="-135502" visible="true" lat="43.077264358165" lon="-72.734598665378">
+    <!-- conflict: "110 Tonys Lane, Jamaica, VT" No match in OSM, but a different address exists <5m away: "99 Tonys Lane, , VT" -->
+    <tag k="addr:city" v="Jamaica"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Tonys Lane"/>
+    <tag k="addr:postcode" v="05343"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135502"/>
+  </node>
+  <node id="-453117" visible="true" lat="43.145885872051" lon="-72.838766913794">
+    <!-- conflict: "8701 Vermont Route 30, South Londonderry, VT" Fuzzy match to "8701 Vermont Route 30, Jamaica, VT" -->
+    <tag k="addr:city" v="South Londonderry"/>
+    <tag k="addr:housenumber" v="8701"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:postcode" v="05155"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="453117"/>
+  </node>
+</osm>

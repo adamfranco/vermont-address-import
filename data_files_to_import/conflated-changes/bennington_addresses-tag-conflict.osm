@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-18786" visible="true" lat="42.880093690593" lon="-73.20443858174">
+    <!-- conflict: "46 Vervana Way, Bennington, VT" No match in OSM, but a different address exists <5m away: "141 1/2 Main Street, Bennington, VT" -->
+    <tag k="addr:city" v="Bennington"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Vervana Way"/>
+    <tag k="addr:postcode" v="05201"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="18786"/>
+  </node>
+  <node id="-18825" visible="true" lat="42.87976882974" lon="-73.204848003631">
+    <!-- conflict: "60 Vervana Way, Bennington, VT" No match in OSM, but a different address exists <5m away: "141 1/2 Main Street, Bennington, VT" -->
+    <tag k="addr:city" v="Bennington"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Vervana Way"/>
+    <tag k="addr:postcode" v="05201"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="18825"/>
+  </node>
+</osm>

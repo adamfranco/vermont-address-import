@@ -1,59 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-932" visible="true" lat="44.46674486" lon="-73.16893371">
+  <node id="-227915" visible="true" lat="44.466753855448" lon="-73.168935140102">
     <!-- conflict: "11 Stone House Common, South Burlington, VT" Fuzzy match to "11 Stonehouse Common, South Burlington, VT" -->
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="227915"/>
   </node>
-  <node id="-4803" visible="true" lat="44.46711521" lon="-73.16874899">
+  <node id="-229240" visible="true" lat="44.45297500577" lon="-73.208443236916">
+    <!-- conflict: "430 Shelburne Road, Burlington, VT" Fuzzy match to "430 Shelburne Road, South Burlington, VT" -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="430"/>
+    <tag k="addr:street" v="Shelburne Road"/>
+    <tag k="addr:postcode" v="05401"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229240"/>
+  </node>
+  <node id="-229348" visible="true" lat="44.451723642162" lon="-73.208594840435">
+    <!-- conflict: "490 Shelburne Street, Burlington, VT" Fuzzy match to "490 Shelburne Road, South Burlington, VT" -->
+    <tag k="addr:city" v="Burlington"/>
+    <tag k="addr:housenumber" v="490"/>
+    <tag k="addr:street" v="Shelburne Street"/>
+    <tag k="addr:postcode" v="05401"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="229348"/>
+  </node>
+  <node id="-232468" visible="true" lat="44.467124207478" lon="-73.168750416647">
     <!-- conflict: "52 Stone House Common, South Burlington, VT" Fuzzy match to "52 Stonehouse Common, South Burlington, VT" -->
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232468"/>
   </node>
-  <node id="-4804" visible="true" lat="44.46719501" lon="-73.1687167">
+  <node id="-232469" visible="true" lat="44.467204005942" lon="-73.168718126167">
     <!-- conflict: "54 Stone House Common, South Burlington, VT" Fuzzy match to "54 Stonehouse Common, South Burlington, VT" -->
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232469"/>
   </node>
-  <node id="-4805" visible="true" lat="44.46728509" lon="-73.16868552">
+  <node id="-232470" visible="true" lat="44.467294083388" lon="-73.16868694829">
     <!-- conflict: "56 Stone House Common, South Burlington, VT" Fuzzy match to "56 Stonehouse Common, South Burlington, VT" -->
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232470"/>
   </node>
-  <node id="-4806" visible="true" lat="44.46719881" lon="-73.16909838">
+  <node id="-232471" visible="true" lat="44.467207804696" lon="-73.169099811785">
     <!-- conflict: "53 Stone House Common, South Burlington, VT" Fuzzy match to "53 Stonehouse Common, South Burlington, VT" -->
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="53"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232471"/>
   </node>
-  <node id="-4807" visible="true" lat="44.46729688" lon="-73.16905558">
+  <node id="-232472" visible="true" lat="44.467305874385" lon="-73.169057009251">
     <!-- conflict: "55 Stone House Common, South Burlington, VT" Fuzzy match to "55 Stonehouse Common, South Burlington, VT" -->
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="232472"/>
   </node>
-  <node id="-5567" visible="true" lat="44.46678859" lon="-73.16892127">
+  <node id="-233239" visible="true" lat="44.466797580316" lon="-73.168922695229">
     <!-- conflict: "13 Stone House Common, South Burlington, VT" Fuzzy match to "13 Stonehouse Common, South Burlington, VT" -->
     <tag k="addr:city" v="South Burlington"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Stone House Common"/>
+    <tag k="addr:postcode" v="05403"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="233239"/>
+  </node>
+  <node id="-763953" visible="true" lat="44.453894345743" lon="-73.184936056705">
+    <!-- conflict: "670 Spear Street, South Burlington, VT" No match in OSM, but a different address exists <5m away: "650 Spear Street, South Burlington, VT" -->
+    <tag k="addr:city" v="South Burlington"/>
+    <tag k="addr:housenumber" v="670"/>
+    <tag k="addr:street" v="Spear Street"/>
+    <tag k="addr:postcode" v="05403"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="763953"/>
   </node>
 </osm>

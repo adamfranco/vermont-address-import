@@ -1,27 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-775" visible="true" lat="44.1116696" lon="-72.93679398">
-    <!-- offset: "1937 Elder Hill Road, Lincoln, VT" Significant offset - 2130.2m -->
-    <tag k="addr:city" v="Lincoln"/>
+  <node id="-140229" visible="true" lat="44.121938753073" lon="-73.004698697386">
+    <!-- offset: "217 Bull Run Road, Bristol, VT" Significant offset - 422m -->
+    <tag k="addr:city" v="Bristol"/>
+    <tag k="addr:housenumber" v="217"/>
+    <tag k="addr:street" v="Bull Run Road"/>
+    <tag k="addr:postcode" v="05443"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="140229"/>
+  </node>
+  <node id="-140468" visible="true" lat="44.085866344634" lon="-72.962342037267">
+    <!-- offset: "649 Geary Road North, Bristol, VT" Significant offset - 155.3m -->
+    <tag k="addr:city" v="Bristol"/>
+    <tag k="addr:housenumber" v="649"/>
+    <tag k="addr:street" v="Geary Road North"/>
+    <tag k="addr:postcode" v="05443"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="140468"/>
+  </node>
+  <node id="-450412" visible="true" lat="44.111676816664" lon="-72.936793162383">
+    <!-- offset: "1937 Elder Hill Road, Bristol, VT" Significant offset - 2130.2m -->
+    <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="1937"/>
     <tag k="addr:street" v="Elder Hill Road"/>
+    <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="450412"/>
   </node>
-  <node id="-829" visible="true" lat="44.03647357" lon="-73.01535241">
-    <!-- offset: "4035 Ripton Road, Lincoln, VT" Significant offset - 116.7m -->
-    <tag k="addr:city" v="Lincoln"/>
+  <node id="-754622" visible="true" lat="44.036473574804" lon="-73.015352405676">
+    <!-- offset: "4035 Ripton Road, Bristol, VT" Significant offset - 116.7m -->
+    <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="4035"/>
     <tag k="addr:street" v="Ripton Road"/>
+    <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="754622"/>
   </node>
-  <node id="-836" visible="true" lat="44.08316385" lon="-73.00723174">
-    <!-- offset: "751 Green Road North, Lincoln, VT" Significant offset - 117.8m -->
-    <tag k="addr:city" v="Lincoln"/>
+  <node id="-756376" visible="true" lat="44.083163852878" lon="-73.007231741045">
+    <!-- offset: "751 Green Road North, Bristol, VT" Significant offset - 117.8m -->
+    <tag k="addr:city" v="Bristol"/>
     <tag k="addr:housenumber" v="751"/>
     <tag k="addr:street" v="Green Road North"/>
+    <tag k="addr:postcode" v="05443"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756376"/>
+  </node>
+  <node id="-769366" visible="true" lat="44.145601432487" lon="-72.984053879587">
+    <!-- offset: "781 Moody Road, Bristol, VT" Significant offset - 104.4m -->
+    <tag k="addr:city" v="Bristol"/>
+    <tag k="addr:housenumber" v="781"/>
+    <tag k="addr:street" v="Moody Road"/>
+    <tag k="addr:postcode" v="05443"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="769366"/>
   </node>
 </osm>

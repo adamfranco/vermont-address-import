@@ -1,52 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-269" visible="true" lat="44.57199245" lon="-72.01609206">
-    <!-- offset: "2107 Pudding Hill Road, , VT" Significant offset - 460.1m -->
+  <node id="-146549" visible="true" lat="44.572001501257" lon="-72.016093103653">
+    <!-- offset: "2107 Pudding Hill Road, Lyndonville, VT" Significant offset - 461m -->
+    <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="2107"/>
     <tag k="addr:street" v="Pudding Hill Road"/>
+    <tag k="addr:postcode" v="05851"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="146549"/>
   </node>
-  <node id="-557" visible="true" lat="44.54653664" lon="-71.98538502">
-    <!-- offset: "2591 Lily Pond Road, , VT" Significant offset - 137m -->
+  <node id="-146844" visible="true" lat="44.546545684394" lon="-71.98538605171">
+    <!-- offset: "2591 Lily Pond Road, Lyndonville, VT" Significant offset - 136.5m -->
+    <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="2591"/>
     <tag k="addr:street" v="Lily Pond Road"/>
+    <tag k="addr:postcode" v="05851"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="146844"/>
   </node>
-  <node id="-932" visible="true" lat="44.53838455" lon="-72.01543776">
-    <!-- offset: "168 Institute Circle, , VT" Significant offset - 104.1m -->
+  <node id="-147248" visible="true" lat="44.53839359458" lon="-72.015438806577">
+    <!-- offset: "168 Institute Circle, Lyndon Center, VT" Significant offset - 103.9m -->
+    <tag k="addr:city" v="Lyndon Center"/>
     <tag k="addr:housenumber" v="168"/>
     <tag k="addr:street" v="Institute Circle"/>
+    <tag k="addr:postcode" v="05850"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147248"/>
   </node>
-  <node id="-1103" visible="true" lat="44.53508536" lon="-72.02532329">
-    <!-- offset: "1001 College Road, , VT" Significant offset - 133.9m -->
+  <node id="-147439" visible="true" lat="44.535092672989" lon="-72.025322209971">
+    <!-- offset: "1001 College Road, Lyndonville, VT" Significant offset - 134.1m -->
+    <tag k="addr:city" v="Lyndonville"/>
     <tag k="addr:housenumber" v="1001"/>
     <tag k="addr:street" v="College Road"/>
+    <tag k="addr:postcode" v="05851"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="147439"/>
   </node>
-  <node id="-1911" visible="true" lat="44.50026166" lon="-72.00703194">
-    <!-- offset: "657 Industrial Parkway, , VT" Significant offset - 505.9m -->
+  <node id="-148334" visible="true" lat="44.50027069971" lon="-72.007032982661">
+    <!-- offset: "657 Industrial Parkway, Saint Johnsbury, VT" Significant offset - 506.1m -->
+    <tag k="addr:city" v="Saint Johnsbury"/>
     <tag k="addr:housenumber" v="657"/>
     <tag k="addr:street" v="Industrial Parkway"/>
+    <tag k="addr:postcode" v="05819"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="148334"/>
   </node>
-  <node id="-1913" visible="true" lat="44.49959093" lon="-72.0095139">
-    <!-- offset: "655 Industrial Parkway, , VT" Significant offset - 308.3m -->
+  <node id="-148336" visible="true" lat="44.499599972317" lon="-72.009514942272">
+    <!-- offset: "655 Industrial Parkway, Saint Johnsbury, VT" Significant offset - 308.4m -->
+    <tag k="addr:city" v="Saint Johnsbury"/>
     <tag k="addr:housenumber" v="655"/>
     <tag k="addr:street" v="Industrial Parkway"/>
+    <tag k="addr:postcode" v="05819"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="148336"/>
   </node>
-  <node id="-2348" visible="true" lat="44.50131601" lon="-72.01006139">
-    <!-- offset: "563 Industrial Parkway, , VT" Significant offset - 343.4m -->
+  <node id="-340230" visible="true" lat="44.501325050395" lon="-72.01006243337">
+    <!-- offset: "563 Industrial Parkway, Saint Johnsbury, VT" Significant offset - 343.9m -->
+    <tag k="addr:city" v="Saint Johnsbury"/>
     <tag k="addr:housenumber" v="563"/>
     <tag k="addr:street" v="Industrial Parkway"/>
+    <tag k="addr:postcode" v="05819"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="340230"/>
+  </node>
+  <node id="-771201" visible="true" lat="44.509262064997" lon="-72.01029425325">
+    <!-- offset: "5 Sawmill Lane, Lyndonville, VT" Significant offset - 162.5m -->
+    <tag k="addr:city" v="Lyndonville"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Sawmill Lane"/>
+    <tag k="addr:postcode" v="05851"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771201"/>
   </node>
 </osm>

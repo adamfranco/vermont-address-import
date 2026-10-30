@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-302695" visible="true" lat="43.632633026666" lon="-72.503862085296">
+    <!-- conflict: "442 East Woodstock Road, Woodstock, VT" Fuzzy match to "442 Woodstock Road, Woodstock, VT" -->
+    <tag k="addr:city" v="Woodstock"/>
+    <tag k="addr:housenumber" v="442"/>
+    <tag k="addr:street" v="East Woodstock Road"/>
+    <tag k="addr:postcode" v="05091"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="302695"/>
+  </node>
+  <node id="-303029" visible="true" lat="43.624957838637" lon="-72.517472031137">
+    <!-- conflict: "4 Mechanic Street, Woodstock, VT" Fuzzy match to "4 Mechanic St, , " -->
+    <tag k="addr:city" v="Woodstock"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Mechanic Street"/>
+    <tag k="addr:postcode" v="05091"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="303029"/>
+  </node>
+  <node id="-303085" visible="true" lat="43.624115324603" lon="-72.523011600112">
+    <!-- conflict: "37 River Street, Woodstock, VT" Fuzzy match to "37 River Street, , " -->
+    <tag k="addr:city" v="Woodstock"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:postcode" v="05091"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="303085"/>
+  </node>
+  <node id="-303275" visible="true" lat="43.621058718738" lon="-72.521109946262">
+    <!-- conflict: "1 Swain Street, Woodstock, VT" No match in OSM, but a different address exists <5m away: "3 Swain Street, , VT" -->
+    <tag k="addr:city" v="Woodstock"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Swain Street"/>
+    <tag k="addr:postcode" v="05091"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="303275"/>
+  </node>
+  <node id="-454403" visible="true" lat="43.624970602198" lon="-72.510765210296">
+    <!-- conflict: "25 Lincoln Street, Woodstock, VT" No match in OSM, but a different address exists <5m away: "25A Lincoln Street, Woodstock, VT" -->
+    <tag k="addr:city" v="Woodstock"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Lincoln Street"/>
+    <tag k="addr:postcode" v="05091"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="454403"/>
+  </node>
+</osm>

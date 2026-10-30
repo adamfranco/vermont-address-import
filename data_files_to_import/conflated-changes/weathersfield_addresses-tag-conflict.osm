@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-276437" visible="true" lat="43.41891217741" lon="-72.403870727298">
+    <!-- conflict: "6014 U.S. Route 5, Windsor, VT" Fuzzy match to "6014 U.S. Route 5, Weathersfield, VT" -->
+    <tag k="addr:city" v="Windsor"/>
+    <tag k="addr:housenumber" v="6014"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:postcode" v="05089"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276437"/>
+  </node>
+  <node id="-276767" visible="true" lat="43.405866961693" lon="-72.407651778179">
+    <!-- conflict: "5122 U.S. Route 5, Ascutney, VT" Fuzzy match to "5122 U.S. Route 5, Weathersfield, VT" -->
+    <tag k="addr:city" v="Ascutney"/>
+    <tag k="addr:housenumber" v="5122"/>
+    <tag k="addr:street" v="U.S. Route 5"/>
+    <tag k="addr:postcode" v="05151"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276767"/>
+  </node>
+  <node id="-276784" visible="true" lat="43.404711673981" lon="-72.412816930503">
+    <!-- conflict: "301 Vermont Route 131, Windsor, VT" Fuzzy match to "301 Vermont Route 131, Weathersfield, VT" -->
+    <tag k="addr:city" v="Windsor"/>
+    <tag k="addr:housenumber" v="301"/>
+    <tag k="addr:street" v="Vermont Route 131"/>
+    <tag k="addr:postcode" v="05089"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="276784"/>
+  </node>
+  <node id="-1050542" visible="true" lat="43.354837084011" lon="-72.422498999039">
+    <!-- conflict: "47992 Interstate 91, Springfield, VT" No match in OSM, but a different address exists <5m away: "47992 Interstate 91 South, , VT" -->
+    <tag k="addr:city" v="Springfield"/>
+    <tag k="addr:housenumber" v="47992"/>
+    <tag k="addr:street" v="Interstate 91"/>
+    <tag k="addr:postcode" v="05156"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050542"/>
+  </node>
+</osm>

@@ -67,6 +67,13 @@ if ($conflator->nonMatchesDoc->documentElement->childElementCount) {
   unlink($outputFile);
 }
 
+$outputFile = "data_files_to_import/conflated-changes/".basename($file, '.osm')."-city-conflict.osm";
+if ($conflator->cityConflictsDoc->documentElement->childElementCount) {
+  $conflator->cityConflictsDoc->save($outputFile);
+} elseif (file_exists($outputFile)) {
+  unlink($outputFile);
+}
+
 $outputFile = "data_files_to_import/conflated-changes/".basename($file, '.osm')."-tag-conflict.osm";
 if ($conflator->conflictsDoc->documentElement->childElementCount) {
   $conflator->conflictsDoc->save($outputFile);

@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-2322" visible="true" lat="44.52638263" lon="-72.58300499">
-    <!-- offset: "652 Earl Gray Road, Morrisville, VT" Significant offset - 167.3m -->
+  <node id="-328846" visible="true" lat="44.526391646753" lon="-72.583006218431">
+    <!-- offset: "652 Earl Gray Road, Morrisville, VT" Significant offset - 167.2m -->
     <tag k="addr:city" v="Morrisville"/>
     <tag k="addr:housenumber" v="652"/>
     <tag k="addr:street" v="Earl Gray Road"/>
+    <tag k="addr:postcode" v="05661"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328846"/>
+  </node>
+  <node id="-655890" visible="true" lat="44.532462524669" lon="-72.561849757904">
+    <!-- offset: "1155 Elmore Mountain Road, Morrisville, VT" Significant offset - 105.3m -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="1155"/>
+    <tag k="addr:street" v="Elmore Mountain Road"/>
+    <tag k="addr:postcode" v="05661"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="655890"/>
+  </node>
+  <node id="-767336" visible="true" lat="44.503113758132" lon="-72.616842527553">
+    <!-- offset: "110 Fishkill Lane, Morrisville, VT" Significant offset - 198.7m -->
+    <tag k="addr:city" v="Morrisville"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:street" v="Fishkill Lane"/>
+    <tag k="addr:postcode" v="05661"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="767336"/>
   </node>
 </osm>

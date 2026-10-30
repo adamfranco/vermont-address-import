@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-261124" visible="true" lat="43.084178524292" lon="-72.711790530097">
+    <!-- conflict: "6573 Vermont Route 30, Windham, VT" No match in OSM, but a different address exists <5m away: "6579 Vermont Route 30, , VT" -->
+    <tag k="addr:city" v="Windham"/>
+    <tag k="addr:housenumber" v="6573"/>
+    <tag k="addr:street" v="Vermont Route 30"/>
+    <tag k="addr:postcode" v="05359"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="261124"/>
+  </node>
+  <node id="-341474" visible="true" lat="43.120869882223" lon="-72.659190424554">
+    <!-- conflict: "37 Town Highway 61, Townshend, VT" No match in OSM, but a different address exists <5m away: "105 Town Highway 61, , VT" -->
+    <tag k="addr:city" v="Townshend"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Town Highway 61"/>
+    <tag k="addr:postcode" v="05353"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="341474"/>
+  </node>
+</osm>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-771212" visible="true" lat="44.21348476649" lon="-72.560560571157">
+    <!-- duplicates-in-different-towns: "439 Industrial Lane, Barre, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 314932: "439 Industrial Lane, Berlin, VT" -->
+    <tag k="addr:city" v="Barre"/>
+    <tag k="addr:housenumber" v="439"/>
+    <tag k="addr:street" v="Industrial Lane"/>
+    <tag k="addr:postcode" v="05641"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="771212"/>
+  </node>
+</osm>

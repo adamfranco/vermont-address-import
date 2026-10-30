@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1799" visible="true" lat="42.80064561" lon="-73.14718706">
-    <!-- offset: "2870 County Road, , VT" Significant offset - 2834.3m -->
-    <tag k="addr:housenumber" v="2870"/>
-    <tag k="addr:street" v="County Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="453212"/>
-  </node>
-  <node id="-1922" visible="true" lat="42.78354455" lon="-73.21202733">
-    <!-- offset: "242 Mattison Road, , VT" Significant offset - 147.6m -->
+  <node id="-760433" visible="true" lat="42.783553233161" lon="-73.212028655695">
+    <!-- offset: "242 Mattison Road, Pownal, VT" Significant offset - 146.8m -->
+    <tag k="addr:city" v="Pownal"/>
     <tag k="addr:housenumber" v="242"/>
     <tag k="addr:street" v="Mattison Road"/>
+    <tag k="addr:postcode" v="05261"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760433"/>
   </node>

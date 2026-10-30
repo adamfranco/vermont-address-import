@@ -1,51 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-438" visible="true" lat="43.58875124" lon="-72.65588394">
-    <!-- multiple: "256 Upper Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="256"/>
-    <tag k="addr:street" v="Upper Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36803"/>
-  </node>
-  <node id="-445" visible="true" lat="43.58843612" lon="-72.65954589">
-    <!-- multiple: "5520 U.S. Route 4, , VT" Multiple exact matches in OSM. -->
+  <node id="-36810" visible="true" lat="43.588444975833" lon="-72.65954709226">
+    <!-- multiple: "5520 U.S. Route 4, Bridgewater Corners, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Bridgewater Corners"/>
     <tag k="addr:housenumber" v="5520"/>
     <tag k="addr:street" v="U.S. Route 4"/>
+    <tag k="addr:postcode" v="05035"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36810"/>
   </node>
-  <node id="-475" visible="true" lat="43.5880267" lon="-72.65604313">
-    <!-- multiple: "5680 U.S. Route 4, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="5680"/>
-    <tag k="addr:street" v="U.S. Route 4"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="36841"/>
-  </node>
-  <node id="-493" visible="true" lat="43.58779223" lon="-72.62400421">
-    <!-- multiple: "45 Southgate Loop, , VT" Multiple exact matches in OSM. -->
+  <node id="-36859" visible="true" lat="43.587801083137" lon="-72.624005395517">
+    <!-- multiple: "45 Southgate Loop, Bridgewater, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Bridgewater"/>
     <tag k="addr:housenumber" v="45"/>
     <tag k="addr:street" v="Southgate Loop"/>
+    <tag k="addr:postcode" v="05034"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="36859"/>
   </node>
-  <node id="-814" visible="true" lat="43.58862818" lon="-72.65560034">
-    <!-- multiple: "256 Upper Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="256"/>
-    <tag k="addr:street" v="Upper Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="769568"/>
-  </node>
-  <node id="-815" visible="true" lat="43.58916925" lon="-72.65559736">
-    <!-- multiple: "256 Upper Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="256"/>
-    <tag k="addr:street" v="Upper Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="769569"/>
-  </node>
-  <node id="-826" visible="true" lat="43.67018048" lon="-72.6285083">
-    <!-- multiple: "1485 Green Gate Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-1050954" visible="true" lat="43.670189339943" lon="-72.628509493458">
+    <!-- multiple: "1485 Green Gate Road, Woodstock, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Woodstock"/>
     <tag k="addr:housenumber" v="1485"/>
     <tag k="addr:street" v="Green Gate Road"/>
+    <tag k="addr:postcode" v="05091"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="1050954"/>
   </node>

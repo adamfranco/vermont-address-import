@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1012" visible="true" lat="43.43384551" lon="-72.87911987">
-    <!-- offset: "337 Carrara Camp Road, , VT" Significant offset - 284.9m -->
+  <node id="-269936" visible="true" lat="43.433854331293" lon="-72.879121128625">
+    <!-- offset: "337 Carrara Camp Road, East Wallingford, VT" Significant offset - 284.3m -->
+    <tag k="addr:city" v="East Wallingford"/>
     <tag k="addr:housenumber" v="337"/>
     <tag k="addr:street" v="Carrara Camp Road"/>
+    <tag k="addr:postcode" v="05742"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="269936"/>
   </node>
-  <node id="-1191" visible="true" lat="43.45239666" lon="-73.00679487">
-    <!-- offset: "186 West Hill Road, , VT" Significant offset - 200.1m -->
+  <node id="-338717" visible="true" lat="43.452406750829" lon="-73.006789989755">
+    <!-- offset: "186 West Hill Road, Wallingford, VT" Significant offset - 201.2m -->
+    <tag k="addr:city" v="Wallingford"/>
     <tag k="addr:housenumber" v="186"/>
     <tag k="addr:street" v="West Hill Road"/>
+    <tag k="addr:postcode" v="05773"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="338717"/>
+  </node>
+  <node id="-751563" visible="true" lat="43.479662030343" lon="-72.967347389772">
+    <!-- offset: "165 West View Road, Wallingford, VT" Significant offset - 209.9m -->
+    <tag k="addr:city" v="Wallingford"/>
+    <tag k="addr:housenumber" v="165"/>
+    <tag k="addr:street" v="West View Road"/>
+    <tag k="addr:postcode" v="05773"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="751563"/>
   </node>
 </osm>

@@ -1,79 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1598" visible="true" lat="44.93214251" lon="-72.11464542">
-    <!-- offset: "1385 Vermont Route 105, , VT" Significant offset - 6208.9m -->
-    <tag k="addr:housenumber" v="1385"/>
-    <tag k="addr:street" v="Vermont Route 105"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="83347"/>
-  </node>
-  <node id="-1706" visible="true" lat="44.92323808" lon="-72.14469229">
-    <!-- offset: "1725 Hinman Settler Road, , VT" Significant offset - 273.3m -->
+  <node id="-83459" visible="true" lat="44.923247181568" lon="-72.144693405514">
+    <!-- offset: "1725 Hinman Settler Road, Newport, VT" Significant offset - 273.4m -->
+    <tag k="addr:city" v="Newport"/>
     <tag k="addr:housenumber" v="1725"/>
     <tag k="addr:street" v="Hinman Settler Road"/>
+    <tag k="addr:postcode" v="05855"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="83459"/>
   </node>
-  <node id="-1951" visible="true" lat="44.90105245" lon="-72.18732855">
-    <!-- offset: "2885 Glen Road, , VT" Significant offset - 167.2m -->
+  <node id="-83644" visible="true" lat="44.887198114491" lon="-72.105023984651">
+    <!-- offset: "1517 Bushey Hill Road, Newport, VT" Significant offset - 112.5m -->
+    <tag k="addr:city" v="Newport"/>
+    <tag k="addr:housenumber" v="1517"/>
+    <tag k="addr:street" v="Bushey Hill Road"/>
+    <tag k="addr:postcode" v="05855"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="83644"/>
+  </node>
+  <node id="-83712" visible="true" lat="44.90098563126" lon="-72.187749536185">
+    <!-- offset: "2885 Glen Road, Newport, VT" Significant offset - 138.8m -->
+    <tag k="addr:city" v="Newport"/>
     <tag k="addr:housenumber" v="2885"/>
     <tag k="addr:street" v="Glen Road"/>
+    <tag k="addr:postcode" v="05855"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="83712"/>
   </node>
-  <node id="-2168" visible="true" lat="44.9234567" lon="-72.14760168">
-    <!-- offset: "1731 Hinman Settler Road, , VT" Significant offset - 145.4m -->
+  <node id="-83938" visible="true" lat="44.923465802489" lon="-72.147602792437">
+    <!-- offset: "1731 Hinman Settler Road, Newport, VT" Significant offset - 146.3m -->
+    <tag k="addr:city" v="Newport"/>
     <tag k="addr:housenumber" v="1731"/>
     <tag k="addr:street" v="Hinman Settler Road"/>
+    <tag k="addr:postcode" v="05855"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="83938"/>
   </node>
-  <node id="-2382" visible="true" lat="44.92636299" lon="-72.11253909">
-    <!-- offset: "1736 Vermont Route 105, , VT" Significant offset - 5953.2m -->
-    <tag k="addr:housenumber" v="1736"/>
-    <tag k="addr:street" v="Vermont Route 105"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="84153"/>
-  </node>
-  <node id="-2413" visible="true" lat="44.91713653" lon="-72.07893297">
-    <!-- offset: "100 Derby Gore Road, , VT" Significant offset - 382.5m -->
+  <node id="-305714" visible="true" lat="44.917145635525" lon="-72.07893405725">
+    <!-- offset: "100 Derby Gore Road, West Charleston, VT" Significant offset - 381.6m -->
+    <tag k="addr:city" v="West Charleston"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:street" v="Derby Gore Road"/>
+    <tag k="addr:postcode" v="05872"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="305714"/>
   </node>
-  <node id="-2639" visible="true" lat="44.93596004" lon="-72.12181916">
-    <!-- offset: "889 Vermont Route 105, , VT" Significant offset - 6277.6m -->
-    <tag k="addr:housenumber" v="889"/>
-    <tag k="addr:street" v="Vermont Route 105"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="646582"/>
-  </node>
-  <node id="-2785" visible="true" lat="44.94101427" lon="-72.06747291">
-    <!-- offset: "3607 Vermont Route 111, , VT" Significant offset - 763.3m -->
+  <node id="-756651" visible="true" lat="44.941014268016" lon="-72.067472910337">
+    <!-- offset: "3607 Vermont Route 111, Derby, VT" Significant offset - 763.3m -->
+    <tag k="addr:city" v="Derby"/>
     <tag k="addr:housenumber" v="3607"/>
     <tag k="addr:street" v="Vermont Route 111"/>
+    <tag k="addr:postcode" v="05829"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="756651"/>
   </node>
-  <node id="-2860" visible="true" lat="44.98757641" lon="-72.08822926">
-    <!-- offset: "1418 Herrick Road, , VT" Significant offset - 129.3m -->
+  <node id="-766008" visible="true" lat="44.912151011413" lon="-72.154217473697">
+    <!-- offset: "2550 Hinman Settler Road, Newport, VT" Significant offset - 141.9m -->
+    <tag k="addr:city" v="Newport"/>
+    <tag k="addr:housenumber" v="2550"/>
+    <tag k="addr:street" v="Hinman Settler Road"/>
+    <tag k="addr:postcode" v="05855"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="766008"/>
+  </node>
+  <node id="-769890" visible="true" lat="44.988367306163" lon="-72.090902566698">
+    <!-- offset: "1418 Herrick Road, Derby, VT" Significant offset - 124.1m -->
+    <tag k="addr:city" v="Derby"/>
     <tag k="addr:housenumber" v="1418"/>
     <tag k="addr:street" v="Herrick Road"/>
+    <tag k="addr:postcode" v="05829"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769890"/>
   </node>
-  <node id="-2861" visible="true" lat="44.9901536" lon="-72.09299436">
-    <!-- offset: "1420 Herrick Road, , VT" Significant offset - 167.7m -->
+  <node id="-769891" visible="true" lat="44.990162724387" lon="-72.092995458796">
+    <!-- offset: "1420 Herrick Road, Derby, VT" Significant offset - 168.7m -->
+    <tag k="addr:city" v="Derby"/>
     <tag k="addr:housenumber" v="1420"/>
     <tag k="addr:street" v="Herrick Road"/>
+    <tag k="addr:postcode" v="05829"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="769891"/>
   </node>
-  <node id="-2868" visible="true" lat="44.93120065" lon="-72.14425595">
-    <!-- offset: "1005 Hinman Settler Road, , VT" Significant offset - 119.7m -->
+  <node id="-771685" visible="true" lat="44.931200647719" lon="-72.144255950065">
+    <!-- offset: "1005 Hinman Settler Road, Newport, VT" Significant offset - 119.7m -->
+    <tag k="addr:city" v="Newport"/>
     <tag k="addr:housenumber" v="1005"/>
     <tag k="addr:street" v="Hinman Settler Road"/>
+    <tag k="addr:postcode" v="05855"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="771685"/>
   </node>

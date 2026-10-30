@@ -1,30 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-513" visible="true" lat="43.13545959" lon="-72.71747468">
-    <!-- offset: "3709 Windham Hill Road, , VT" Significant offset - 128.4m -->
+  <node id="-307539" visible="true" lat="43.1354595272" lon="-72.717473878733">
+    <!-- offset: "3709 Windham Hill Road, Windham, VT" Significant offset - 128.3m -->
+    <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="3709"/>
     <tag k="addr:street" v="Windham Hill Road"/>
+    <tag k="addr:postcode" v="05359"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307539"/>
   </node>
-  <node id="-529" visible="true" lat="43.2231152" lon="-72.68815055">
-    <!-- offset: "5540 Popple Dungeon Road, , VT" Significant offset - 225.4m -->
+  <node id="-341653" visible="true" lat="43.223125239401" lon="-72.68814557235">
+    <!-- offset: "5540 Popple Dungeon Road, Chester, VT" Significant offset - 224.7m -->
+    <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="5540"/>
     <tag k="addr:street" v="Popple Dungeon Road"/>
+    <tag k="addr:postcode" v="05143"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341653"/>
   </node>
-  <node id="-530" visible="true" lat="43.22252904" lon="-72.68567287">
-    <!-- offset: "5390 Popple Dungeon Road, , VT" Significant offset - 222.8m -->
+  <node id="-341654" visible="true" lat="43.222537822288" lon="-72.685674048734">
+    <!-- offset: "5390 Popple Dungeon Road, Chester, VT" Significant offset - 221.8m -->
+    <tag k="addr:city" v="Chester"/>
     <tag k="addr:housenumber" v="5390"/>
     <tag k="addr:street" v="Popple Dungeon Road"/>
+    <tag k="addr:postcode" v="05143"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="341654"/>
   </node>
-  <node id="-578" visible="true" lat="43.13555286" lon="-72.72351819">
-    <!-- offset: "1224 Old Cheney Road, , VT" Significant offset - 144.7m -->
+  <node id="-758731" visible="true" lat="43.135552804589" lon="-72.723517391458">
+    <!-- offset: "1224 Old Cheney Road, Windham, VT" Significant offset - 144.8m -->
+    <tag k="addr:city" v="Windham"/>
     <tag k="addr:housenumber" v="1224"/>
     <tag k="addr:street" v="Old Cheney Road"/>
+    <tag k="addr:postcode" v="05359"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="758731"/>
   </node>

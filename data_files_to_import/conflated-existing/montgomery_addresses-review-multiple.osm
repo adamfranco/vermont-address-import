@@ -1,52 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-204" visible="true" lat="44.90127091" lon="-72.64017447">
-    <!-- multiple: "2057 North Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2057"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="163484"/>
-  </node>
-  <node id="-227" visible="true" lat="44.89990473" lon="-72.63440231">
-    <!-- multiple: "1711 North Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-163509" visible="true" lat="44.899913820786" lon="-72.634403588955">
+    <!-- multiple: "1711 North Main Street, Montgomery, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montgomery"/>
     <tag k="addr:housenumber" v="1711"/>
     <tag k="addr:street" v="North Main Street"/>
+    <tag k="addr:postcode" v="05470"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="163509"/>
   </node>
-  <node id="-418" visible="true" lat="44.87842874" lon="-72.61087053">
-    <!-- multiple: "92 River Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="River Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="163721"/>
-  </node>
-  <node id="-420" visible="true" lat="44.8782759" lon="-72.60907761">
-    <!-- multiple: "86 Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="163723"/>
-  </node>
-  <node id="-667" visible="true" lat="44.90102858" lon="-72.64058819">
-    <!-- multiple: "2057 North Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2057"/>
-    <tag k="addr:street" v="North Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="163987"/>
-  </node>
-  <node id="-705" visible="true" lat="44.87818414" lon="-72.60570711">
-    <!-- multiple: "86 Mountain Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-164031" visible="true" lat="44.878193226905" lon="-72.605708377692">
+    <!-- multiple: "86 Mountain Road, Montgomery Center, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Montgomery Center"/>
     <tag k="addr:housenumber" v="86"/>
     <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:postcode" v="05471"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="164031"/>
-  </node>
-  <node id="-738" visible="true" lat="44.88150621" lon="-72.5535171">
-    <!-- multiple: "2956 Mountain Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="2956"/>
-    <tag k="addr:street" v="Mountain Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="164065"/>
   </node>
 </osm>

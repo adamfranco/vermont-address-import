@@ -1,37 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-290" visible="true" lat="43.04315567" lon="-72.78984832">
-    <!-- multiple: "170 Main Street, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="170"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="270482"/>
-  </node>
-  <node id="-320" visible="true" lat="43.04211425" lon="-72.79016876">
-    <!-- multiple: "99 Main Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-270512" visible="true" lat="43.042123000579" lon="-72.790169962532">
+    <!-- multiple: "99 Main Street, Wardsboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Wardsboro"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:postcode" v="05355"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270512"/>
   </node>
-  <node id="-540" visible="true" lat="43.02933883" lon="-72.85447692">
-    <!-- multiple: "47 Cross Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Cross Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="270742"/>
-  </node>
-  <node id="-745" visible="true" lat="43.00990295" lon="-72.76708984">
-    <!-- multiple: "944 Newfane Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-270952" visible="true" lat="43.009911692373" lon="-72.767091034534">
+    <!-- multiple: "944 Newfane Road, Wardsboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Wardsboro"/>
     <tag k="addr:housenumber" v="944"/>
     <tag k="addr:street" v="Newfane Road"/>
+    <tag k="addr:postcode" v="05355"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270952"/>
   </node>
-  <node id="-747" visible="true" lat="43.00992744" lon="-72.76836275">
-    <!-- multiple: "907 Newfane Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-270954" visible="true" lat="43.009936181989" lon="-72.768363940964">
+    <!-- multiple: "907 Newfane Road, Wardsboro, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Wardsboro"/>
     <tag k="addr:housenumber" v="907"/>
     <tag k="addr:street" v="Newfane Road"/>
+    <tag k="addr:postcode" v="05355"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="270954"/>
   </node>

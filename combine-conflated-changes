@@ -27,6 +27,7 @@ combine_files() {
 
 dir="data_files_to_import/conflated-changes"
 combine_files $dir tag-conflict.osm
+combine_files $dir city-conflict.osm
 combine_files $dir no-match.osm
 combine_files $dir review-distance.osm
 combine_files $dir review-multiple.osm

@@ -1,26 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-638" visible="true" lat="44.63530356" lon="-72.67882851">
-    <!-- offset: "22 Pearl Street, Johnson, VT" Significant offset - 270.9m -->
+  <node id="-138246" visible="true" lat="44.635312597577" lon="-72.678829783892">
+    <!-- offset: "22 Pearl Street, Johnson, VT" Significant offset - 270.3m -->
     <tag k="addr:city" v="Johnson"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Pearl Street"/>
+    <tag k="addr:postcode" v="05656"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="138246"/>
   </node>
-  <node id="-1592" visible="true" lat="44.64975468" lon="-72.68323458">
-    <!-- offset: "335 Plot Road, Johnson, VT" Significant offset - 278.9m -->
+  <node id="-138733" visible="true" lat="44.678203677591" lon="-72.612903606157">
+    <!-- offset: "1571 Ober Hill Road, Johnson, VT" Significant offset - 110.3m -->
+    <tag k="addr:city" v="Johnson"/>
+    <tag k="addr:housenumber" v="1571"/>
+    <tag k="addr:street" v="Ober Hill Road"/>
+    <tag k="addr:postcode" v="05656"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="138733"/>
+  </node>
+  <node id="-760576" visible="true" lat="44.649763717927" lon="-72.683235855777">
+    <!-- offset: "335 Plot Road, Johnson, VT" Significant offset - 278m -->
     <tag k="addr:city" v="Johnson"/>
     <tag k="addr:housenumber" v="335"/>
     <tag k="addr:street" v="Plot Road"/>
+    <tag k="addr:postcode" v="05656"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="760576"/>
   </node>
-  <node id="-1608" visible="true" lat="44.68678093" lon="-72.68874162">
+  <node id="-763441" visible="true" lat="44.686780930043" lon="-72.688741621432">
     <!-- offset: "1203 Codding Hollow Road, Johnson, VT" Significant offset - 156.5m -->
     <tag k="addr:city" v="Johnson"/>
     <tag k="addr:housenumber" v="1203"/>
     <tag k="addr:street" v="Codding Hollow Road"/>
+    <tag k="addr:postcode" v="05656"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="763441"/>
   </node>

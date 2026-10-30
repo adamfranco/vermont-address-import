@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-189924" visible="true" lat="43.476704628286" lon="-72.755922814297">
+    <!-- duplicates-in-different-towns: "335 Dam Road, Mount Holly, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 189934: "335 Dam Road, , VT" -->
+    <tag k="addr:city" v="Mount Holly"/>
+    <tag k="addr:housenumber" v="335"/>
+    <tag k="addr:street" v="Dam Road"/>
+    <tag k="addr:postcode" v="05758"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="189924"/>
+  </node>
+  <node id="-617660" visible="true" lat="43.477012854758" lon="-72.758483950653">
+    <!-- duplicates-in-different-towns: "197 Dam Road, Mount Holly, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 189924: "197 Dam Road, , VT" -->
+    <tag k="addr:city" v="Mount Holly"/>
+    <tag k="addr:housenumber" v="197"/>
+    <tag k="addr:street" v="Dam Road"/>
+    <tag k="addr:postcode" v="05758"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="617660"/>
+  </node>
+  <node id="-772955" visible="true" lat="43.532831957973" lon="-72.741357773549">
+    <!-- duplicates-in-different-towns: "5543 Vermont Route 100, Plymouth, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772956: "5543 Vermont Route 100, , VT" -->
+    <tag k="addr:city" v="Plymouth"/>
+    <tag k="addr:housenumber" v="5543"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:postcode" v="05056"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772955"/>
+  </node>
+</osm>

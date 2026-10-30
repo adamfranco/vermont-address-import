@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-163526" visible="true" lat="44.893552198181" lon="-72.622595241112">
+    <!-- conflict: "17 Dreamers Street, East Berkshire, VT" No match in OSM, but a different address exists <5m away: "966 North Main Street, , VT" -->
+    <tag k="addr:city" v="East Berkshire"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Dreamers Street"/>
+    <tag k="addr:postcode" v="05447"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163526"/>
+  </node>
+  <node id="-163689" visible="true" lat="44.87931206039" lon="-72.611031845929">
+    <!-- conflict: "204 Main Street, Montgomery Center, VT" Fuzzy match to "204 North Main Street, Montgomery Center, VT" -->
+    <tag k="addr:city" v="Montgomery Center"/>
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:postcode" v="05471"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163689"/>
+  </node>
+  <node id="-163717" visible="true" lat="44.878239780309" lon="-72.609905017454">
+    <!-- conflict: "121 Main Street, Montgomery Center, VT" Fuzzy match to "121 North Main Street, Montgomery Center, VT" -->
+    <tag k="addr:city" v="Montgomery Center"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:postcode" v="05471"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163717"/>
+  </node>
+  <node id="-163721" visible="true" lat="44.878437820111" lon="-72.610871797102">
+    <!-- conflict: "92 River Street, Montgomery Center, VT" Fuzzy match to "92 River Street, Montgomery, VT" -->
+    <tag k="addr:city" v="Montgomery Center"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="River Street"/>
+    <tag k="addr:postcode" v="05471"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163721"/>
+  </node>
+  <node id="-163739" visible="true" lat="44.877849765398" lon="-72.608385920998">
+    <!-- conflict: "40 Main Street, Montgomery Center, VT" Fuzzy match to "40 Main Street, , " -->
+    <tag k="addr:city" v="Montgomery Center"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:postcode" v="05471"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="163739"/>
+  </node>
+</osm>

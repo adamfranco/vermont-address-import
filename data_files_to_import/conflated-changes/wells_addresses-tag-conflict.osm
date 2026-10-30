@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-260217" visible="true" lat="43.404944332967" lon="-73.121600065907">
+    <!-- conflict: "438 West Tinmouth Road, Pawlet, VT" No match in OSM, but a different address exists <5m away: "438 Vermont Route 133 West Tinmouth Road, Wells, VT" -->
+    <tag k="addr:city" v="Pawlet"/>
+    <tag k="addr:housenumber" v="438"/>
+    <tag k="addr:street" v="West Tinmouth Road"/>
+    <tag k="addr:postcode" v="05761"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="260217"/>
+  </node>
+  <node id="-278320" visible="true" lat="43.423506904551" lon="-73.121686566891">
+    <!-- conflict: "156 West Tinmouth Road, Wells, VT" No match in OSM, but a different address exists <5m away: "156 Vermont Route 133 West Tinmouth Road, Wells, VT" -->
+    <tag k="addr:city" v="Wells"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:street" v="West Tinmouth Road"/>
+    <tag k="addr:postcode" v="05774"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="278320"/>
+  </node>
+  <node id="-338640" visible="true" lat="43.442043052184" lon="-73.246016359579">
+    <!-- conflict: "134 Lewis Acres, Poultney, VT" No match in OSM, but a different address exists <5m away: "5263 Vermont Route 31, Wells, VT" -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="Lewis Acres"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="338640"/>
+  </node>
+  <node id="-344830" visible="true" lat="43.443862458239" lon="-73.242872501187">
+    <!-- conflict: "275 Lewis Acres, Poultney, VT" No match in OSM, but a different address exists <5m away: "5273 Vermont Route 31, Wells, VT" -->
+    <tag k="addr:city" v="Poultney"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:street" v="Lewis Acres"/>
+    <tag k="addr:postcode" v="05764"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="344830"/>
+  </node>
+</osm>

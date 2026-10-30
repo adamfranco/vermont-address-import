@@ -1,51 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-625" visible="true" lat="43.40097044" lon="-72.70616141">
-    <!-- offset: "57 Pond Street, Ludlow, VT" Significant offset - 125.8m -->
+  <node id="-143113" visible="true" lat="43.400979257335" lon="-72.706162615924">
+    <!-- offset: "57 Pond Street, Ludlow, VT" Significant offset - 126.8m -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="Pond Street"/>
+    <tag k="addr:postcode" v="05149"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143113"/>
   </node>
-  <node id="-1038" visible="true" lat="43.38876804" lon="-72.66282689">
-    <!-- offset: "611 Vermont Route 103 South, Ludlow, VT" Significant offset - 110.3m -->
+  <node id="-143548" visible="true" lat="43.388776850727" lon="-72.66282807549">
+    <!-- offset: "611 Vermont Route 103 South, Ludlow, VT" Significant offset - 110.5m -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="611"/>
     <tag k="addr:street" v="Vermont Route 103 South"/>
+    <tag k="addr:postcode" v="05149"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143548"/>
   </node>
-  <node id="-1079" visible="true" lat="43.39492465" lon="-72.68419988">
-    <!-- offset: "32 Vermont Route 103 South, Ludlow, VT" Significant offset - 126.8m -->
+  <node id="-143595" visible="true" lat="43.39493346703" lon="-72.684201075096">
+    <!-- offset: "32 Vermont Route 103 South, Ludlow, VT" Significant offset - 127.5m -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:street" v="Vermont Route 103 South"/>
+    <tag k="addr:postcode" v="05149"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143595"/>
   </node>
-  <node id="-1080" visible="true" lat="43.39466735" lon="-72.68425397">
-    <!-- offset: "32 Vermont Route 103 South, Ludlow, VT" Significant offset - 114.6m -->
+  <node id="-143596" visible="true" lat="43.394676171027" lon="-72.684255160196">
+    <!-- offset: "32 Vermont Route 103 South, Ludlow, VT" Significant offset - 115.2m -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:street" v="Vermont Route 103 South"/>
+    <tag k="addr:postcode" v="05149"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="143596"/>
   </node>
-  <node id="-2726" visible="true" lat="43.42425447" lon="-72.66429029">
-    <!-- offset: "300 Barker Road, Ludlow, VT" Significant offset - 203.1m -->
+  <node id="-339010" visible="true" lat="43.400034141111" lon="-72.689228595756">
+    <!-- offset: "135 Old Village Lane, Ludlow, VT" Significant offset - 169.1m -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Old Village Lane"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="339010"/>
+  </node>
+  <node id="-618320" visible="true" lat="43.424263292185" lon="-72.664291475725">
+    <!-- offset: "300 Barker Road, Ludlow, VT" Significant offset - 204m -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:street" v="Barker Road"/>
+    <tag k="addr:postcode" v="05149"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="618320"/>
   </node>
-  <node id="-2741" visible="true" lat="43.40667521" lon="-72.69362035">
-    <!-- offset: "50 North Ridge Road, Ludlow, VT" Significant offset - 184.8m -->
+  <node id="-656358" visible="true" lat="43.406857511913" lon="-72.694013276357">
+    <!-- offset: "50 North Ridge Road, Ludlow, VT" Significant offset - 184.3m -->
     <tag k="addr:city" v="Ludlow"/>
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="North Ridge Road"/>
+    <tag k="addr:postcode" v="05149"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="656358"/>
+  </node>
+  <node id="-753372" visible="true" lat="43.416623474429" lon="-72.740129822455">
+    <!-- offset: "1380 Mountain Road, Ludlow, VT" Significant offset - 500.4m -->
+    <tag k="addr:city" v="Ludlow"/>
+    <tag k="addr:housenumber" v="1380"/>
+    <tag k="addr:street" v="Mountain Road"/>
+    <tag k="addr:postcode" v="05149"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="753372"/>
   </node>
 </osm>

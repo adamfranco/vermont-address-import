@@ -1,19 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-866" visible="true" lat="44.48618447" lon="-72.96204797">
-    <!-- offset: "211 Browns Trace, Jericho, VT" Significant offset - 139m -->
+  <node id="-135879" visible="true" lat="44.434902541061" lon="-73.020281317694">
+    <!-- offset: "202 Rogers Lane, Richmond, VT" Significant offset - 320.2m -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="202"/>
+    <tag k="addr:street" v="Rogers Lane"/>
+    <tag k="addr:postcode" v="05477"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135879"/>
+  </node>
+  <node id="-135880" visible="true" lat="44.434526633399" lon="-73.019261210782">
+    <!-- offset: "200 Rogers Lane, Richmond, VT" Significant offset - 268.2m -->
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:street" v="Rogers Lane"/>
+    <tag k="addr:postcode" v="05477"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="135880"/>
+  </node>
+  <node id="-136651" visible="true" lat="44.486193477137" lon="-72.962049335803">
+    <!-- offset: "211 Browns Trace, Jericho, VT" Significant offset - 139.7m -->
     <tag k="addr:city" v="Jericho"/>
     <tag k="addr:housenumber" v="211"/>
     <tag k="addr:street" v="Browns Trace"/>
+    <tag k="addr:postcode" v="05465"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="136651"/>
   </node>
-  <node id="-1029" visible="true" lat="44.45694042" lon="-72.9714224">
-    <!-- offset: "1 Kettle Creek Road, Jericho, VT" Significant offset - 58361.8m -->
+  <node id="-136815" visible="true" lat="44.456949416703" lon="-72.971423758543">
+    <!-- offset: "1 Kettle Creek Road, Jericho, VT" Significant offset - 58361m -->
     <tag k="addr:city" v="Jericho"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Kettle Creek Road"/>
+    <tag k="addr:postcode" v="05465"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="136815"/>
+  </node>
+  <node id="-774359" visible="true" lat="44.462120791948" lon="-73.010747964589">
+    <!-- offset: "36 Hemlock Circle, Jericho, VT" Significant offset - 110.5m -->
+    <tag k="addr:city" v="Jericho"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Hemlock Circle"/>
+    <tag k="addr:postcode" v="05465"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="774359"/>
   </node>
 </osm>

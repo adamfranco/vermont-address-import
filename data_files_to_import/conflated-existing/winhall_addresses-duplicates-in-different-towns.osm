@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-449215" visible="true" lat="43.202400510869" lon="-72.874010569471">
+    <!-- duplicates-in-different-towns: "56 South Road, Winhall, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 296968: "56 South Road, Peru, VT" -->
+    <tag k="addr:city" v="Winhall"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="addr:postcode" v="05340"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449215"/>
+  </node>
+  <node id="-449217" visible="true" lat="43.202280408983" lon="-72.873934731985">
+    <!-- duplicates-in-different-towns: "48 South Road, Winhall, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 449216: "48 South Road, Peru, VT" -->
+    <tag k="addr:city" v="Winhall"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="addr:postcode" v="05340"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="449217"/>
+  </node>
+  <node id="-656571" visible="true" lat="43.201796288174" lon="-72.875367525727">
+    <!-- duplicates-in-different-towns: "20 Read Road, Winhall, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772961: "20 Read Road, , VT" -->
+    <tag k="addr:city" v="Winhall"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Read Road"/>
+    <tag k="addr:postcode" v="05340"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656571"/>
+  </node>
+</osm>

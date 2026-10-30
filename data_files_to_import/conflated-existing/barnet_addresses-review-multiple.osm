@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-357" visible="true" lat="44.32107543" lon="-72.13491821">
-    <!-- multiple: "712 Stevenson Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="712"/>
-    <tag k="addr:street" v="Stevenson Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="6970"/>
-  </node>
-  <node id="-495" visible="true" lat="44.30736139" lon="-72.0807785">
-    <!-- multiple: "163 Kid Row, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="163"/>
-    <tag k="addr:street" v="Kid Row"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="7110"/>
-  </node>
-  <node id="-685" visible="true" lat="44.29658781" lon="-72.0528516">
-    <!-- multiple: "154 Church Street, , VT" Multiple exact matches in OSM. -->
+  <node id="-7306" visible="true" lat="44.296572189351" lon="-72.05287250538">
+    <!-- multiple: "154 Church Street, Barnet, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Barnet"/>
     <tag k="addr:housenumber" v="154"/>
     <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:postcode" v="05821"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="7306"/>
   </node>
-  <node id="-913" visible="true" lat="44.26452935" lon="-72.06433393">
-    <!-- multiple: "37 Academy Lane, , VT" Multiple exact matches in OSM. -->
+  <node id="-7537" visible="true" lat="44.264538342677" lon="-72.064334976112">
+    <!-- multiple: "37 Academy Lane, McIndoe Falls, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="McIndoe Falls"/>
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Academy Lane"/>
+    <tag k="addr:postcode" v="05050"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="7537"/>
   </node>

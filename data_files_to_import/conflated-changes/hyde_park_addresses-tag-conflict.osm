@@ -1,51 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-831" visible="true" lat="44.6020546" lon="-72.54193887">
-    <!-- conflict: "46 Munson Road, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "2773 Cleveland Corners Road, Hyde Park, VT" -->
+  <node id="-132442" visible="true" lat="44.619579025656" lon="-72.511296938906">
+    <!-- conflict: "454 Patnoe Farm Drive, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "404 Patnoe Farm Drive, Hyde Park, VT" -->
     <tag k="addr:city" v="Hyde Park"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:street" v="Munson Road"/>
+    <tag k="addr:housenumber" v="454"/>
+    <tag k="addr:street" v="Patnoe Farm Drive"/>
+    <tag k="addr:postcode" v="05655"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="132717"/>
+    <tag k="ref:vcgi:esiteid" v="132442"/>
   </node>
-  <node id="-841" visible="true" lat="44.60147111" lon="-72.56555113">
-    <!-- conflict: "356 Tenney Hill Road, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "300 Hummingbird Hollow, Hyde Park, VT" -->
+  <node id="-133152" visible="true" lat="44.641348684074" lon="-72.580966235716">
+    <!-- conflict: "248 Woodfred Drive, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "126 Woodfred Drive, Hyde Park, VT" -->
     <tag k="addr:city" v="Hyde Park"/>
-    <tag k="addr:housenumber" v="356"/>
-    <tag k="addr:street" v="Tenney Hill Road"/>
+    <tag k="addr:housenumber" v="248"/>
+    <tag k="addr:street" v="Woodfred Drive"/>
+    <tag k="addr:postcode" v="05655"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="132727"/>
-  </node>
-  <node id="-842" visible="true" lat="44.60132362" lon="-72.52079468">
-    <!-- conflict: "2680 Garfield Road, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "47 Oak Tree Lane, Hyde Park, VT" -->
-    <tag k="addr:city" v="Hyde Park"/>
-    <tag k="addr:housenumber" v="2680"/>
-    <tag k="addr:street" v="Garfield Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="132728"/>
-  </node>
-  <node id="-843" visible="true" lat="44.60134394" lon="-72.52146586">
-    <!-- conflict: "2662 Garfield Road, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "36 Oak Tree Lane, Hyde Park, VT" -->
-    <tag k="addr:city" v="Hyde Park"/>
-    <tag k="addr:housenumber" v="2662"/>
-    <tag k="addr:street" v="Garfield Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="132729"/>
-  </node>
-  <node id="-855" visible="true" lat="44.60083004" lon="-72.52157691">
-    <!-- conflict: "2672 Garfield Road, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "70 Oak Tree Lane, Hyde Park, VT" -->
-    <tag k="addr:city" v="Hyde Park"/>
-    <tag k="addr:housenumber" v="2672"/>
-    <tag k="addr:street" v="Garfield Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="132741"/>
-  </node>
-  <node id="-1455" visible="true" lat="44.60306172" lon="-72.56375401">
-    <!-- conflict: "358 Tenney Hill Road, Hyde Park, VT" No match in OSM, but a different address exists <5m away: "141 Hummingbird Hollow, Hyde Park, VT" -->
-    <tag k="addr:city" v="Hyde Park"/>
-    <tag k="addr:housenumber" v="358"/>
-    <tag k="addr:street" v="Tenney Hill Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="338825"/>
+    <tag k="ref:vcgi:esiteid" v="133152"/>
   </node>
 </osm>

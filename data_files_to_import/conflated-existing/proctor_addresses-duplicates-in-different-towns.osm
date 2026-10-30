@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-313640" visible="true" lat="43.674283590021" lon="-73.039762832742">
+    <!-- duplicates-in-different-towns: "88 Gorham Bridge Road, Proctor, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 188529: "88 Gorham Bridge Road, Florence, VT" -->
+    <tag k="addr:city" v="Proctor"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Gorham Bridge Road"/>
+    <tag k="addr:postcode" v="05765"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="313640"/>
+  </node>
+</osm>

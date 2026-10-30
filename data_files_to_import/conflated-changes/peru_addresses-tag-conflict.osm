@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-186802" visible="true" lat="43.216529588962" lon="-72.896514014592">
+    <!-- conflict: "1022 South Road, Peru, VT" No match in OSM, but a different address exists <5m away: "996 South Road, Peru, VT" -->
+    <tag k="addr:city" v="Peru"/>
+    <tag k="addr:housenumber" v="1022"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="addr:postcode" v="05152"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="186802"/>
+  </node>
+  <node id="-186819" visible="true" lat="43.214852524127" lon="-72.895956461886">
+    <!-- conflict: "1144 South Road, Peru, VT" No match in OSM, but a different address exists <5m away: "1020 South Road, Peru, VT" -->
+    <tag k="addr:city" v="Peru"/>
+    <tag k="addr:housenumber" v="1144"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="addr:postcode" v="05152"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="186819"/>
+  </node>
+  <node id="-186980" visible="true" lat="43.21588810795" lon="-72.896211427813">
+    <!-- conflict: "1024 South Road, Peru, VT" No match in OSM, but a different address exists <5m away: "998 South Road, Peru, VT" -->
+    <tag k="addr:city" v="Peru"/>
+    <tag k="addr:housenumber" v="1024"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="addr:postcode" v="05152"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="186980"/>
+  </node>
+  <node id="-1050340" visible="true" lat="43.235382972846" lon="-72.960866659752">
+    <!-- conflict: "8676 National Forest Highway, Peru, VT" No match in OSM, but a different address exists <5m away: "8676 Nfh, Peru, VT" -->
+    <tag k="addr:city" v="Peru"/>
+    <tag k="addr:housenumber" v="8676"/>
+    <tag k="addr:street" v="National Forest Highway"/>
+    <tag k="addr:postcode" v="05152"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="1050340"/>
+  </node>
+</osm>

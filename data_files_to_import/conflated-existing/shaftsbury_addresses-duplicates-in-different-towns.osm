@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-772940" visible="true" lat="42.96511240111" lon="-73.220909563937">
+    <!-- duplicates-in-different-towns: "800 Myers Road, Shaftsbury, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772941: "800 Myers Road, , VT" -->
+    <tag k="addr:city" v="Shaftsbury"/>
+    <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:street" v="Myers Road"/>
+    <tag k="addr:postcode" v="05262"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772940"/>
+  </node>
+</osm>

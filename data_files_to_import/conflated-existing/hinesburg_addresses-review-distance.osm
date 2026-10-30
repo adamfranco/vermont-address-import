@@ -1,35 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-1820" visible="true" lat="44.27829505" lon="-73.13471033">
-    <!-- offset: "3120 Baldwin Road, Hinesburg, VT" Significant offset - 109.3m -->
+  <node id="-64797" visible="true" lat="44.28847413129" lon="-73.147887736863">
+    <!-- offset: "205 Roscoe Road, Charlotte, VT" Significant offset - 175.8m -->
+    <tag k="addr:city" v="Charlotte"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:street" v="Roscoe Road"/>
+    <tag k="addr:postcode" v="05445"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="64797"/>
+  </node>
+  <node id="-307350" visible="true" lat="44.278304002243" lon="-73.134711728528">
+    <!-- offset: "3120 Baldwin Road, Hinesburg, VT" Significant offset - 109.5m -->
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="3120"/>
     <tag k="addr:street" v="Baldwin Road"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307350"/>
   </node>
-  <node id="-1821" visible="true" lat="44.27813681" lon="-73.133324">
-    <!-- offset: "3122 Baldwin Road, Hinesburg, VT" Significant offset - 117.2m -->
+  <node id="-307351" visible="true" lat="44.278145763611" lon="-73.133325402297">
+    <!-- offset: "3122 Baldwin Road, Hinesburg, VT" Significant offset - 116.9m -->
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="3122"/>
     <tag k="addr:street" v="Baldwin Road"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="307351"/>
   </node>
-  <node id="-1858" visible="true" lat="44.32359805" lon="-73.08893915">
-    <!-- offset: "139 Goodrich Lane, Hinesburg, VT" Significant offset - 132.6m -->
+  <node id="-328145" visible="true" lat="44.323607014256" lon="-73.088940537728">
+    <!-- offset: "139 Goodrich Lane, Hinesburg, VT" Significant offset - 132.8m -->
     <tag k="addr:city" v="Hinesburg"/>
     <tag k="addr:housenumber" v="139"/>
     <tag k="addr:street" v="Goodrich Lane"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="328145"/>
   </node>
-  <node id="-2053" visible="true" lat="44.34306372" lon="-73.15222331">
-    <!-- offset: "69 Wolf Tree Lane, Hinesburg, VT" Significant offset - 114.2m -->
+  <node id="-646486" visible="true" lat="44.324157348741" lon="-73.076047782204">
+    <!-- offset: "33 Hardwood Hill, Hinesburg, VT" Significant offset - 102.1m -->
     <tag k="addr:city" v="Hinesburg"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:street" v="Wolf Tree Lane"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Hardwood Hill"/>
+    <tag k="addr:postcode" v="05461"/>
     <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="655896"/>
+    <tag k="ref:vcgi:esiteid" v="646486"/>
+  </node>
+  <node id="-656584" visible="true" lat="44.287787415518" lon="-73.083036219398">
+    <!-- offset: "2143 Gilman Road, Hinesburg, VT" Significant offset - 123.6m -->
+    <tag k="addr:city" v="Hinesburg"/>
+    <tag k="addr:housenumber" v="2143"/>
+    <tag k="addr:street" v="Gilman Road"/>
+    <tag k="addr:postcode" v="05461"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656584"/>
   </node>
 </osm>

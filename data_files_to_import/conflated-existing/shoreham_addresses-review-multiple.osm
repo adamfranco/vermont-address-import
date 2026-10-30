@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-343" visible="true" lat="43.89770544" lon="-73.30831872">
-    <!-- multiple: "3039 Vermont Route 22A, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="3039"/>
-    <tag k="addr:street" v="Vermont Route 22A"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="225756"/>
-  </node>
-  <node id="-423" visible="true" lat="43.89185059" lon="-73.3163309">
-    <!-- multiple: "130 School Road, , VT" Multiple exact matches in OSM. -->
+  <node id="-225843" visible="true" lat="43.891859473525" lon="-73.316332334116">
+    <!-- multiple: "130 School Road, Shoreham, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Shoreham"/>
     <tag k="addr:housenumber" v="130"/>
     <tag k="addr:street" v="School Road"/>
+    <tag k="addr:postcode" v="05770"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="225843"/>
   </node>

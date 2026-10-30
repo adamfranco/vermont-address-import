@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-365704" visible="true" lat="44.754398833788" lon="-72.574116896592">
+    <!-- duplicates-in-different-towns: "3520 Belvidere Road, Eden, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772683: "3520 Belvidere Road, , VT" -->
+    <tag k="addr:city" v="Eden"/>
+    <tag k="addr:housenumber" v="3520"/>
+    <tag k="addr:street" v="Belvidere Road"/>
+    <tag k="addr:postcode" v="05652"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="365704"/>
+  </node>
+  <node id="-656447" visible="true" lat="44.713997886535" lon="-72.574999484982">
+    <!-- duplicates-in-different-towns: "973 Knowles Flat Road, Eden, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 762283: "973 Knowles Flat Road, , VT" -->
+    <tag k="addr:city" v="Eden"/>
+    <tag k="addr:housenumber" v="973"/>
+    <tag k="addr:street" v="Knowles Flat Road"/>
+    <tag k="addr:postcode" v="05652"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656447"/>
+  </node>
+  <node id="-656565" visible="true" lat="44.710413727052" lon="-72.54122071911">
+    <!-- duplicates-in-different-towns: "3251 Vermont Route 100, Eden, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772961: "3251 Vermont Route 100, , VT" -->
+    <tag k="addr:city" v="Eden"/>
+    <tag k="addr:housenumber" v="3251"/>
+    <tag k="addr:street" v="Vermont Route 100"/>
+    <tag k="addr:postcode" v="05652"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="656565"/>
+  </node>
+</osm>

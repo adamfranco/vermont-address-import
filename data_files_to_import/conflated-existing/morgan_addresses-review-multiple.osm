@@ -1,38 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="JOSM" upload="false">
-  <node id="-192" visible="true" lat="44.91549242" lon="-72.01307571">
-    <!-- multiple: "158 Meade Hill, , VT" Multiple exact matches in OSM. -->
+  <node id="-167920" visible="true" lat="44.915501530873" lon="-72.013076788971">
+    <!-- multiple: "158 Meade Hill, Morgan, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Morgan"/>
     <tag k="addr:housenumber" v="158"/>
     <tag k="addr:street" v="Meade Hill"/>
+    <tag k="addr:postcode" v="05853"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167920"/>
   </node>
-  <node id="-203" visible="true" lat="44.91424465" lon="-72.01461426">
-    <!-- multiple: "57 Meade Hill, , VT" Multiple exact matches in OSM. -->
+  <node id="-167931" visible="true" lat="44.914253767005" lon="-72.014615337205">
+    <!-- multiple: "57 Meade Hill, Morgan, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Morgan"/>
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="Meade Hill"/>
+    <tag k="addr:postcode" v="05853"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167931"/>
   </node>
-  <node id="-206" visible="true" lat="44.91404378" lon="-72.01469564">
-    <!-- multiple: "41 Meade Hill, , VT" Multiple exact matches in OSM. -->
+  <node id="-167934" visible="true" lat="44.914052898241" lon="-72.014696714728">
+    <!-- multiple: "41 Meade Hill, Morgan, VT" Multiple exact matches in OSM. -->
+    <tag k="addr:city" v="Morgan"/>
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:street" v="Meade Hill"/>
+    <tag k="addr:postcode" v="05853"/>
     <tag k="addr:state" v="VT"/>
     <tag k="ref:vcgi:esiteid" v="167934"/>
-  </node>
-  <node id="-905" visible="true" lat="44.92031011" lon="-72.0770582">
-    <!-- multiple: "100 Derby Gore Road, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:street" v="Derby Gore Road"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="340827"/>
-  </node>
-  <node id="-925" visible="true" lat="44.930428" lon="-72.0907436">
-    <!-- multiple: "74 Dumas Drive, , VT" Multiple exact matches in OSM. -->
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:street" v="Dumas Drive"/>
-    <tag k="addr:state" v="VT"/>
-    <tag k="ref:vcgi:esiteid" v="365656"/>
   </node>
 </osm>

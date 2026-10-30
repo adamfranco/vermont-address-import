@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-772946" visible="true" lat="43.518064380035" lon="-72.93279630785">
+    <!-- duplicates-in-different-towns: "665 Knipes Drive, North Clarendon, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772947: "665 Knipes Drive, Clarendon, VT" -->
+    <tag k="addr:city" v="North Clarendon"/>
+    <tag k="addr:housenumber" v="665"/>
+    <tag k="addr:street" v="Knipes Drive"/>
+    <tag k="addr:postcode" v="05759"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772946"/>
+  </node>
+</osm>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-772951" visible="true" lat="44.826046543393" lon="-72.795376424673">
+    <!-- duplicates-in-different-towns: "215 Larose Drive, Enosburg Falls, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772952: "215 Larose Drive, , VT" -->
+    <tag k="addr:city" v="Enosburg Falls"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:street" v="Larose Drive"/>
+    <tag k="addr:postcode" v="05450"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772951"/>
+  </node>
+  <node id="-772952" visible="true" lat="44.823697740028" lon="-72.795563947548">
+    <!-- duplicates-in-different-towns: "7 Larose Drive, Enosburg Falls, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772953: "7 Larose Drive, , VT" -->
+    <tag k="addr:city" v="Enosburg Falls"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Larose Drive"/>
+    <tag k="addr:postcode" v="05450"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772952"/>
+  </node>
+  <node id="-772953" visible="true" lat="44.823532252089" lon="-72.794753846488">
+    <!-- duplicates-in-different-towns: "8 Larose Drive, Enosburg Falls, VT"  ignoring town mismatch for duplicate housenumber/street when matching to esiteid 772954: "8 Larose Drive, , VT" -->
+    <tag k="addr:city" v="Enosburg Falls"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Larose Drive"/>
+    <tag k="addr:postcode" v="05450"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="772953"/>
+  </node>
+</osm>
