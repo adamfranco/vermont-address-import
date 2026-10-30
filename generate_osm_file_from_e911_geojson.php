@@ -494,6 +494,9 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
     if (strpos($street_name_title_cased, 'Mc') === 0) {
         $street_name_title_cased = 'Mc' . ucwords(substr($street_name_title_cased, 2, strlen($street_name_title_cased)));
     }
+    if (preg_match('/Mac[a-gi-np-z]{3,}/i', $street_name_title_cased) && !in_array($street_name_title_cased, ['Mackville', 'Mackey'])) {
+        $street_name_title_cased = 'Mac' . ucwords(substr($street_name_title_cased, 3, strlen($street_name_title_cased)));
+    }
 
     // OSM shows "U.S. Route #" where was e911 has US Route 5
     if(preg_match('/us route (.+)/i', $street_name_title_cased, $matches)) {
