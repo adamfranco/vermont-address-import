@@ -162,6 +162,8 @@ foreach($data['features'] as $feature) {
             }
         }
 
+        // trim off any extra whitespace from number or suffix.
+        $house_number = trim($house_number);
     } else {
         $house_number = NULL;
         $feature_errors[] = "Add_Number is invalid: " . json_encode($feature['properties']) . " (esiteid: " . $esiteid . ")";
