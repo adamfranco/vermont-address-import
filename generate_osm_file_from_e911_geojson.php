@@ -426,7 +426,7 @@ function build_street_name($feature_properties) {
         $value = trim($feature_properties['St_Name']);
         // Case where St_NAME is just 110 and St_PreTyp is missing.
         // Get the name from PRIMARYNAME.
-        if (preg_match('/^\d+$/', $value) && preg_match('/^VT ROUTE \d+/', $feature_properties['PRIMARYNAME']) && empty($feature_properties['St_PreTyp'])) {
+        if (preg_match('/^\d+[A-Z]*$/', $value) && preg_match('/^VT ROUTE \d+/', $feature_properties['PRIMARYNAME']) && empty($feature_properties['St_PreTyp'])) {
           $value = "Vermont Route " . $value;
         }
 

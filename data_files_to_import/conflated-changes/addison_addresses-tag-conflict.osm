@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="JOSM" upload="false">
+  <node id="-600005" visible="true" lat="44.058983747218" lon="-73.301865914269">
+    <!-- conflict: "7035 Vermont Route 22A, Vergennes, VT" No match in OSM, but a different address exists <5m away: "7035 22A, Vergennes, VT" -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="7035"/>
+    <tag k="addr:street" v="Vermont Route 22A"/>
+    <tag k="addr:postcode" v="05491"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="600005"/>
+  </node>
+  <node id="-600015" visible="true" lat="44.113409256968" lon="-73.291136005757">
+    <!-- conflict: "3047 Vermont Route 22A, Vergennes, VT" No match in OSM, but a different address exists <5m away: "3047 22A, Vergennes, VT" -->
+    <tag k="addr:city" v="Vergennes"/>
+    <tag k="addr:housenumber" v="3047"/>
+    <tag k="addr:street" v="Vermont Route 22A"/>
+    <tag k="addr:postcode" v="05491"/>
+    <tag k="addr:state" v="VT"/>
+    <tag k="ref:vcgi:esiteid" v="600015"/>
+  </node>
+</osm>
