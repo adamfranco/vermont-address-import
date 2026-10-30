@@ -803,7 +803,7 @@ function normalize_street_base_name($street_name, $street_suffix, $town_name) {
 
     // Hartford has a road called "V.A. Cutoff Road".
     // (esiteid: 122757)
-    if ($street_name_title_cased == "Va Cutoff") {
+    if ($street_name_title_cased == "Va Cutoff" || $street_name_title_cased == "VA Cutoff") {
         $street_name_title_cased = "V.A. Cutoff";
     }
 
