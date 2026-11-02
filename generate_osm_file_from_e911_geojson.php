@@ -460,7 +460,14 @@ function build_street_name($feature_properties) {
         if (!empty($value)) {
             if ($value == 'Sunrise') {
               $streetNameParts[] = 'at Sunrise';
-            } else {
+            }
+            elseif ($value == 'Ormsby Hill') {
+              if ($feature_properties['St_PreSep'] == 'at') {
+                unset($streetNameParts[0]);
+              }
+              $streetNameParts[] = 'at Ormsby Hill';
+            }
+            else {
               $streetNameParts[] = $value;
             }
         }
